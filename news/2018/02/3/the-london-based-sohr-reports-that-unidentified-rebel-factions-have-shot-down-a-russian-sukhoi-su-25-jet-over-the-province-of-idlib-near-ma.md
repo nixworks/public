@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/3/the-london-based-sohr-reports-that-unidentified-
 ### [2018-02-3](/news/2018/02/3/index.md)
 
 ##### Syrian Civil War
-# The London-based SOHR reports that unidentified rebel factions have shot down a Russian Sukhoi Su-25 jet over the province of Idlib, near Maarrat al-Nu'man, also killing its pilot. The pilot had escaped with his parachute but was killed on the ground while he fought with a pistol to evade capture. 
+# The London-based SOHR reports that unidentified rebel factions have shot down a Russian Sukhoi Su-25 jet over the province of Idlib, near Maarrat al-Nu'man, also killing its pilot. The pilot had escaped with his parachute but was killed on the ground while he fought with a pistol to evade capture. No groups claim responsibility. Russia's Ministry of Defence corroborates this version of events. 
 
 Syrian rebels have shot down a Russian jet over Idlib province and captured its pilot, according to a monitor. Syrian troops, backed by Russian air support, launched an offensive on rebel-held Idlib back in December.
 
@@ -12,7 +12,9 @@ Syrian rebels have shot down a Russian jet over Idlib province and captured its 
 ### Sources:
 
 1. [Deutsche Welle](http://www.dw.com/en/syria-rebels-shoot-down-russian-jet-capture-pilot-monitor/a-42442483)
-1. [Cover Image](http://www.dw.com/image/19119731_304.jpg)
+2. [Sputnik News](https://sputniknews.com/middleeast/201802031061334492-syria-su25-jihadists-jet-missile/)
+3. [USA Today](https://www.usatoday.com/story/news/world/2018/02/03/syria-rebels-shoot-down-russian-jet-monitoring-group-says/303713002/)
+3. [Cover Image](http://www.dw.com/image/19119731_304.jpg)
 
 ### Related:
 
