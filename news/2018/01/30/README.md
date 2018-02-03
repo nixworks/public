@@ -8,7 +8,7 @@ Formats: [HTML](2018/01/30/index.html)  [JSON](2018/01/30/index.json)  [XML](201
 Southern Yemeni separatists took control of the port city of Aden after two days of fighting, residents said on Tuesday, confining the internationally recognized government of President Abd-Rabbu Mansour Hadi to the presidential palace.
 
 ##### Russia-United States relations
-### [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md)
+### [Reports surface about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-surface-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-govern.md)
 The list of top Russians was required by a US sanctions law but no new measures are announced.
 
 ##### 2018 State of the Union Address
