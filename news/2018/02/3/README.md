@@ -12,7 +12,7 @@ Syrian rebels have shot down a Russian jet over Idlib province and captured its 
 A suicide bomber killed at least 11 soldiers and injured 13 at an army camp in northwestern Pakistan on Saturday, the military said.
 
 ##### Crime in Italy
-### [A shooting in Macerata, Italy, leaves 6 African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-6-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-moti.md)
+### [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md)
 A man suspected of racially-motivated shootings that injure six is arrested in the town of Macerata.
 
 ## [Previous Day...](/news/2018/02/2/index.md)
