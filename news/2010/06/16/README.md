@@ -5,9 +5,9 @@ Formats: [HTML](2010/06/16/index.html)  [JSON](2010/06/16/index.json)  [XML](201
 
 ##### Jamaica
 ### [The Jamaican Government orders civilians to keep off the streets for two days in several slums in Kingston because authorities are still hunting for Christopher Coke, alleged by the United States to be a drug lord. ](/news/2010/06/16/the-jamaican-government-orders-civilians-to-keep-off-the-streets-for-two-days-in-several-slums-in-kingston-because-authorities-are-still-hun.md)
-_Context: Christopher "Dudus" Coke, U.S., Jamaica, Kingston, drug lord_
+_Context: Christopher "Dudus" Coke, drug lord, United States, Jamaica, Kingston_
 
-##### U.S.
+##### United States
 ### [American police in Seattle say they will "review training procedured" following the surfacing of a video which attrated international attention. The video shows a white officer from the Seattle department punching a black teenaged girl in the face when she tried intervene while the officer was confronting another girl about crossing the road at a legally forbidden area. Seattle police deny any wrongdoing. ](/news/2010/06/16/american-police-in-seattle-say-they-will-review-training-procedured-following-the-surfacing-of-a-video-which-attrated-international-attent.md)
 Seattle police review training procedures after video of an officer punching a teenage girl circulates widely on TV and online.
 
@@ -69,7 +69,7 @@ Colombian informants share a $1.2m reward for helping the rescue of four securit
 
 ##### LeTV
 ### [Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-investment-in-sh.md)
-_Context: Voole, LeTV, Sohu_
+_Context: Sohu, LeTV, Voole_
 
 ##### Dutch
 ### [Two Dutch women appear in a South African court over an alleged "ambush marketing" stunt after more than 30 people were ejected from the Johannesburg stadium on Monday during the match between Denmark and the Netherlands in the 2010 FIFA World Cup. ](/news/2010/06/16/two-dutch-women-appear-in-a-south-african-court-over-an-alleged-ambush-marketing-stunt-after-more-than-30-people-were-ejected-from-the-joh.md)
@@ -81,7 +81,7 @@ _Context: Lhasa, Dragon Boat Festival_
 
 ##### Jesus Christ
 ### [A six-storey statue of Jesus Christ is struck by lightning and razed to the ground in a city in the US state of Ohio. ](/news/2010/06/16/a-six-storey-statue-of-jesus-christ-is-struck-by-lightning-and-razed-to-the-ground-in-a-city-in-the-us-state-of-ohio.md)
-_Context: Ohio, Jesus Christ, U.S._
+_Context: Ohio, United States, Jesus Christ_
 
 ##### Italy
 ### [Researchers from four Italian universities identify human remains discovered in a church in Tuscany as "almost certainly" being those of Renaissance artist Caravaggio. ](/news/2010/06/16/researchers-from-four-italian-universities-identify-human-remains-discovered-in-a-church-in-tuscany-as-almost-certainly-being-those-of-ren.md)

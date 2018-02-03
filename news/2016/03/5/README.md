@@ -5,15 +5,15 @@ Formats: [HTML](2016/03/5/index.html)  [JSON](2016/03/5/index.json)  [XML](2016/
 
 ##### Taliban insurgency
 ### [The Afghan Taliban releases a statement rejecting peace talks with the government of Afghanistan until foreign forces stop attacking their positions and withdraw from the country. Direct peace talks between the government and the Taliban were expected to take place in Islamabad, Pakistan next week. ](/news/2016/03/5/the-afghan-taliban-releases-a-statement-rejecting-peace-talks-with-the-government-of-afghanistan-until-foreign-forces-stop-attacking-their-p.md)
-_Context: Resolute Support, Afghanistan, Taliban insurgency, Taliban, Pakistan, Islamabad_
+_Context: Taliban insurgency, Islamabad, Resolute Support, Taliban, Pakistan, Afghanistan_
 
 ##### Aden unrest (2015-present)
 ### [Gunmen shoot dead the police chief of Aden's Tawahi district and one of his aides. ](/news/2016/03/5/gunmen-shoot-dead-the-police-chief-of-aden-s-tawahi-district-and-one-of-his-aides.md)
 Gunmen opened fire and killed a police colonel and his aide as their vehicle was passing through a roundabout in the southern Yemeni city of Aden on Saturday, a local security official and witnesses said.
 
-##### Chinese
+##### China
 ### [China announces plans to build a railway linking the Tibetan capital Lhasa with Chengdu. ](/news/2016/03/5/china-announces-plans-to-build-a-railway-linking-the-tibetan-capital-lhasa-with-chengdu.md)
-_Context: Tibet, Chinese, Lhasa, Chengdu_
+_Context: Lhasa, Tibet, Chengdu, China_
 
 ##### Bangkok
 ### [More than 60 people are hospitalized after an engine explodes on a crowded Bangkok, Thailand, commuter boat. Police suspect a liquefied natural gas leak caused the blast. The boat operator has been ordered to use diesel fuel only on its 25-boat fleet. ](/news/2016/03/5/more-than-60-people-are-hospitalized-after-an-engine-explodes-on-a-crowded-bangkok-thailand-commuter-boat-police-suspect-a-liquefied-natu.md)
@@ -25,7 +25,7 @@ MANILA (AFP) - The Philippines said on Saturday (March 5) it had impounded a Nor
 
 ##### Media freedom in Turkey
 ### [Turkish police fire tear gas at protesters outside the Istanbul headquarters of the "Zaman" newspaper which has been taken over by the Turkish government. ](/news/2016/03/5/turkish-police-fire-tear-gas-at-protesters-outside-the-istanbul-headquarters-of-the-zaman-newspaper-which-has-been-taken-over-by-the-turki.md)
-_Context: Turkish government, Zaman, Media freedom in Turkey, Turkish police, tear gas, Istanbul_
+_Context: Istanbul, Turkish police, Zaman, Media freedom in Turkey, tear gas, Turkish government_
 
 ##### Honduras
 ### [Gunmen dressed in police uniforms kill at least ten people in the Honduran capital of Tegucigalpa. ](/news/2016/03/5/gunmen-dressed-in-police-uniforms-kill-at-least-ten-people-in-the-honduran-capital-of-tegucigalpa.md)

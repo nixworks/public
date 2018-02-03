@@ -31,7 +31,7 @@ Two remandees have died and 30 others been admitted following a cholera outbreak
 ### [Cleanup continues after the Refugio Oil Spill at Refugio State Beach along the coast of Santa Barbara County, California.](/news/2015/05/21/cleanup-continues-after-the-refugio-oil-spill-at-refugio-state-beach-along-the-coast-of-santa-barbara-county-california.md)
 The owner of the ruptured pipeline that spilled thousands of gallons of oil along the coastline of Refugio State Beach near Santa Barbara has accumulated 175 safety and maintenance infractions since 2006, ranking among the top five in the U.S. for its num
 
-##### U.S.
+##### United States
 ### [Health authorities in the United States say that 53 people in nine states have been sickened in a salmonella outbreak. California is the worst affected state with 31 cases with the other states with cases include Arizona, Illinois, Mississippi, New Mexico, South Dakota, Virginia, Washington and Wisconsin. ](/news/2015/05/21/health-authorities-in-the-united-states-say-that-53-people-in-nine-states-have-been-sickened-in-a-salmonella-outbreak-california-is-the-wor.md)
 The source of the outbreak is unknown, but most who fell ill reported eating sushi containing raw tuna.
 
@@ -49,7 +49,7 @@ _Context: Washington D.C._
 
 ##### Mexican Drug War
 ### [Mexican police find three dismembered bodies in a search for ten missing people in Chilapa, a city occupied by vigilantes with alleged links to drug rings between May 9-14. ](/news/2015/05/21/mexican-police-find-three-dismembered-bodies-in-a-search-for-ten-missing-people-in-chilapa-a-city-occupied-by-vigilantes-with-alleged-links.md)
-_Context: Mexican police, Chilapa, Mexican Drug War_
+_Context: Chilapa, Mexican Drug War, Mexican police_
 
 ## [Previous Day...](/news/2015/05/20/index.md)
 

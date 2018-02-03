@@ -13,7 +13,7 @@ _Context: Iranian Intelligence Ministry, Iran, Murat Karayilan, Kurdistan Worker
 
 ##### Muammar Gaddafi
 ### [Anti-Muammar Gaddafi rebels make major progress in the 2011 Libyan civil war, advancing into Zawiya, only 50 km west of the capital city, Tripoli. ](/news/2011/08/14/anti-muammar-gaddafi-rebels-make-major-progress-in-the-2011-libyan-civil-war-advancing-into-zawiya-only-50-km-west-of-the-capital-city-tr.md)
-_Context: Tripoli, civil war, Muammar Gaddafi, Zawiya_
+_Context: Zawiya, Tripoli, civil war, Muammar Gaddafi_
 
 ##### Asmaa Mahfouz
 ### [Egyptian activist Asmaa Mahfouz is charged with inciting violence in what seems to be a clear violation of human rights. ](/news/2011/08/14/egyptian-activist-asmaa-mahfouz-is-charged-with-inciting-violence-in-what-seems-to-be-a-clear-violation-of-human-rights.md)
@@ -33,7 +33,7 @@ Former Minnesota governor Tim Pawlenty&rsquo;s decision to drop out of the Repub
 
 ##### Jhala Nath Khanal
 ### [Jhala Nath Khanal resigns as the Prime Minister of Nepal due to the failure of Nepalese political parties to adopt a constitution or end infighting. ](/news/2011/08/14/jhala-nath-khanal-resigns-as-the-prime-minister-of-nepal-due-to-the-failure-of-nepalese-political-parties-to-adopt-a-constitution-or-end-inf.md)
-_Context: Prime Minister, Nepal, Jhala Nath Khanal_
+_Context: Nepal, Jhala Nath Khanal, Prime Minister_
 
 ## [Previous Day...](/news/2011/08/13/index.md)
 

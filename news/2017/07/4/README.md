@@ -5,11 +5,11 @@ Formats: [HTML](2017/07/4/index.html)  [JSON](2017/07/4/index.json)  [XML](2017/
 
 ##### Dhaka
 ### [A garment factory boiler explosion in Dhaka, Bangladesh, kills 10 people and injures dozens. ](/news/2017/07/4/a-garment-factory-boiler-explosion-in-dhaka-bangladesh-kills-10-people-and-injures-dozens.md)
-_Context: Bangladesh, Dhaka_
+_Context: Dhaka, Bangladesh_
 
 ##### European migrant crisis
 ### [Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-island-near-the-coast-of-spain.md)
-_Context: European migrant crisis, Morocco, Spain, Alboran Island_
+_Context: Alboran Island, Spain, European migrant crisis, Morocco_
 
 ##### North Korea's nuclear program
 ### [North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. ](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-ja.md)
@@ -17,11 +17,11 @@ Donald Trump says it is hard to believe South Korea and Japan will put up with t
 
 ##### China-India relations
 ### [Amid a stand-off between China and India over the Doklam tri-junction, China tells India that former Indian prime minister Jawaharlal Nehru accepted the Convention of Calcutta which China is using to support its territorial claims. Tensions have been rising between China and India and Bhutan over Doklam since China began constructing a road in the disputed territory in mid-June. ](/news/2017/07/4/amid-a-stand-off-between-china-and-india-over-the-doklam-tri-junction-china-tells-india-that-former-indian-prime-minister-jawaharlal-nehru.md)
-_Context: Doklam tri-junction, India, Chinese, Jawaharlal Nehru, Convention of Calcutta, Bhutan-China relations, China-India relations_
+_Context: China, Jawaharlal Nehru, Doklam tri-junction, Bhutan-China relations, Convention of Calcutta, India, China-India relations_
 
 ##### 2016-17 Rohingya persecution in Myanmar
 ### [A mob of at least a hundred Rakhine Buddhists in Sittwe, Rakhine State, Myanmar, attack seven Rohingya men from Dapaing Camp for internally displaced persons, killing one and severely injuring another. The Rohingya men were being escorted by police to Sittwe's docks to purchase boats, but were attacked despite armed guards being present. ](/news/2017/07/4/a-mob-of-at-least-a-hundred-rakhine-buddhists-in-sittwe-rakhine-state-myanmar-attack-seven-rohingya-men-from-dapaing-camp-for-internally.md)
-_Context: Buddhists, Sittwe, 2016-17 Rohingya persecution in Myanmar, Rakhine State, Rohingya, internally displaced persons, Myanmar, Rakhine_
+_Context: Rakhine, Rohingya, Sittwe, Buddhists, Rakhine State, Myanmar, internally displaced persons, 2016-17 Rohingya persecution in Myanmar_
 
 ##### 2017 cyberattacks on Ukraine
 ### [As part of an investigation into the recent cyberattacks, the servers of Ukraine's most popular accounting software company, M.E.Doc, are seized by Ukrainian police. ](/news/2017/07/4/as-part-of-an-investigation-into-the-recent-cyberattacks-the-servers-of-ukraine-s-most-popular-accounting-software-company-m-e-doc-are-se.md)

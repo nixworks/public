@@ -5,11 +5,11 @@ Formats: [HTML](2006/10/17/index.html)  [JSON](2006/10/17/index.json)  [XML](200
 
 ##### Iraq War
 ### [ Iraq War: The United States military in Iraq says a marine and nine soldiers have been killed in Iraq, including four in a roadside bombing near Baghdad. ](/news/2006/10/17/iraq-war-the-united-states-military-in-iraq-says-a-marine-and-nine-soldiers-have-been-killed-in-iraq-including-four-in-a-roadside-bombing.md)
-_Context: Iraq War, United States military, Iraq, Marine, Baghdad_
+_Context: Iraq, Baghdad, United States military, Iraq War, Marine_
 
 ##### After 48 rounds of voting
 ### [ UN Security Council election: The contest between Guatemala and Venezuela for a seat on the United Nations Security Council remains stalemated after a second day of voting. ](/news/2006/10/17/un-security-council-election-the-contest-between-guatemala-and-venezuela-for-a-seat-on-the-united-nations-security-council-remains-stalema.md)
-_Context: Guatemala, After 48 rounds of voting, Security Council, United Nations, Venezuela_
+_Context: After 48 rounds of voting, Venezuela, United Nations, Guatemala, Security Council_
 
 ##### population of the United States
 ### [ The population of the United States reaches 300 million people. ](/news/2006/10/17/the-population-of-the-united-states-reaches-300-million-people.md)
@@ -25,15 +25,15 @@ _Context: military government, 2000 coup_
 
 ##### Whaling in Iceland
 ### [ Whaling in Iceland is to resume, in contravention of a 20-year moratorium passed by the International Whaling Commission. ](/news/2006/10/17/whaling-in-iceland-is-to-resume-in-contravention-of-a-20-year-moratorium-passed-by-the-international-whaling-commission.md)
-_Context: International Whaling Commission, moratorium, Whaling in Iceland_
+_Context: Whaling in Iceland, International Whaling Commission, moratorium_
 
 ##### Rome Metro
 ### [ Two metro trains collide in Rome, killing at least two people and injuring about 120 others. ](/news/2006/10/17/two-metro-trains-collide-in-rome-killing-at-least-two-people-and-injuring-about-120-others.md)
-_Context: Rome, Italy, collide, Rome Metro_
+_Context: collide, Rome, Italy, Rome Metro_
 
 ##### UK
 ### [ It is reported that former British Home Secretary David Blunkett ordered prison staff to machine gun prisoners during a 2002 riot regardless of loss of life. ](/news/2006/10/17/it-is-reported-that-former-british-home-secretary-david-blunkett-ordered-prison-staff-to-machine-gun-prisoners-during-a-2002-riot-regardles.md)
-_Context: UK, Home Secretary, David Blunkett_
+_Context: David Blunkett, UK, Home Secretary_
 
 ## [Previous Day...](/news/2006/10/16/index.md)
 

@@ -57,7 +57,7 @@ _Context: Martin McGuinness, Sinn Fein_
 
 ##### Presidential transition of Donald Trump
 ### [Former Georgia Governor Sonny Perdue is named Secretary of Agriculture, the last open seat in Trump's cabinet. ](/news/2017/01/19/former-georgia-governor-sonny-perdue-is-named-secretary-of-agriculture-the-last-open-seat-in-trump-s-cabinet.md)
-_Context: Presidential transition of Donald Trump, Sonny Perdue, Secretary of Agriculture, Cabinet of Donald Trump_
+_Context: Sonny Perdue, Cabinet of Donald Trump, Presidential transition of Donald Trump, Secretary of Agriculture_
 
 ## [Previous Day...](/news/2017/01/18/index.md)
 

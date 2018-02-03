@@ -5,19 +5,19 @@ Formats: [HTML](2013/03/13/index.html)  [JSON](2013/03/13/index.json)  [XML](201
 
 ##### Bemina
 ### [Five Indian paramilitary soldiers are killed and three civilians injured by two militants near a school in Bemina area of Srinagar in Indian-administered Kashmir, later two militants being killed by CRPF. ](/news/2013/03/13/five-indian-paramilitary-soldiers-are-killed-and-three-civilians-injured-by-two-militants-near-a-school-in-bemina-area-of-srinagar-in-indian.md)
-_Context: Srinagar, Bemina, Kashmir, India, CRPF_
+_Context: Kashmir, Srinagar, CRPF, Bemina, India_
 
 ##### Kunduz province
 ### [A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/a-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-province-of-northern-afghan.md)
-_Context: Afghanistan, Kunduz province_
+_Context: Kunduz province, Afghanistan_
 
 ##### European Union
 ### [Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/ahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md)
-_Context: Syria, European Union, Damascus_
+_Context: Syria, Damascus, European Union_
 
 ##### Kurdish
 ### [Kurdish rebels release eight Turkish citizens that had been held captive for two years. ](/news/2013/03/13/kurdish-rebels-release-eight-turkish-citizens-that-had-been-held-captive-for-two-years.md)
-_Context: Turkish, Kurdish_
+_Context: Kurdish, Turkish_
 
 ##### Nigeria
 ### [Men on motorbikes storm a primary school in Nigeria and open fire wounding four teachers. ](/news/2013/03/13/men-on-motorbikes-storm-a-primary-school-in-nigeria-and-open-fire-wounding-four-teachers.md)
@@ -29,7 +29,7 @@ Bruno Latour, anthropologist and sociologist, is this year&#039;s Holberg Prize 
 
 ##### European Parliament
 ### [The European Parliament rejects a European Union budget for the first time in its history. ](/news/2013/03/13/the-european-parliament-rejects-a-european-union-budget-for-the-first-time-in-its-history.md)
-_Context: budget, European Parliament, European Union_
+_Context: European Union, European Parliament, budget_
 
 ##### Embraer
 ### [A twin-engine Embraer 821 plane crashes in the Brazilian state of Para, killing all nine passengers and the pilot. ](/news/2013/03/13/a-twin-engine-embraer-821-plane-crashes-in-the-brazilian-state-of-para-killing-all-nine-passengers-and-the-pilot.md)
@@ -57,7 +57,7 @@ Terry Mills has been dumped as Chief Minister of the NT, with Adam Giles the new
 
 ##### Siumut
 ### [After her Siumut party wins the parliamentary election, Aleqa Hammond is set to become first female Prime Minister of Greenland. ](/news/2013/03/13/after-her-siumut-party-wins-the-parliamentary-election-aleqa-hammond-is-set-to-become-first-female-prime-minister-of-greenland.md)
-_Context: Aleqa Hammond, Prime Minister, parliamentary election, Siumut, Greenland_
+_Context: Greenland, Siumut, Prime Minister, parliamentary election, Aleqa Hammond_
 
 ##### Vatican City
 ### [Black smoke rises from the Vatican's Sistine Chapel, signalling that Roman Catholic Cardinals had not elected a new pope in the morning session of the second day of voting at their conclave. ](/news/2013/03/13/black-smoke-rises-from-the-vatican-s-sistine-chapel-signalling-that-roman-catholic-cardinals-had-not-elected-a-new-pope-in-the-morning-sess.md)
@@ -69,7 +69,7 @@ The National Science Council (NSC) and Academia Sinica yesterday announced that 
 
 ##### Intel Science Talent Search
 ### [The 2013 Intel Science Talent Search concludes with a Colorado high school senior winning the top prize for her work on algae biofuels. ](/news/2013/03/13/the-2013-intel-science-talent-search-concludes-with-a-colorado-high-school-senior-winning-the-top-prize-for-her-work-on-algae-biofuels.md)
-_Context: Colorado, Intel Science Talent Search, high school, algae biofuel_
+_Context: high school, Intel Science Talent Search, Colorado, algae biofuel_
 
 ## [Previous Day...](/news/2013/03/12/index.md)
 

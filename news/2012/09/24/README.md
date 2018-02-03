@@ -25,7 +25,7 @@ At least six people are killed after a building collapses in Pune city in the we
 
 ##### Taiwan
 ### [Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/dozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-japan.md)
-_Context: Senkaku Islands, Chinese, Japan, Taiwan_
+_Context: Japan, China, Taiwan, Senkaku Islands_
 
 ##### Jewish
 ### [Jewish Democrats ask Prime Minister of Israel Benjamin Netanyahu to stop bringing "daylight" into Israel-United States relations. ](/news/2012/09/24/jewish-democrats-ask-prime-minister-of-israel-benjamin-netanyahu-to-stop-bringing-daylight-into-israelaunited-states-relations.md)
@@ -33,7 +33,7 @@ Israeli Prime Minister Benjamin Netanyahu is on the defensive after facing accus
 
 ##### Wang Lijun
 ### [Wang Lijun, the former police chief and vice-mayor of Chongqing, China, is sentenced to 15 years in prison for corruption-related charges and defection. ](/news/2012/09/24/wang-lijun-the-former-police-chief-and-vice-mayor-of-chongqing-china-is-sentenced-to-15-years-in-prison-for-corruption-related-charges-an.md)
-_Context: Chinese, Chongqing, Wang Lijun_
+_Context: China, Chongqing, Wang Lijun_
 
 ##### Foxconn
 ### [Manufacturer Foxconn closes a factory in Taiyuan in China's Shanxi province after a fight breaks out between thousands of workers. ](/news/2012/09/24/manufacturer-foxconn-closes-a-factory-in-taiyuan-in-china-s-shanxi-province-after-a-fight-breaks-out-between-thousands-of-workers.md)
@@ -45,7 +45,7 @@ _Context: propaganda, Vietnam_
 
 ##### Israel
 ### [Former Israeli minister of industry, trade and labor Ehud Olmert, who is also a former prime minister, is given a fine and a suspended 1-year jail sentence for cronyism while in office. A bribery case related to a housing project in Jerusalem is still being investigated. ](/news/2012/09/24/former-israeli-minister-of-industry-trade-and-labor-ehud-olmert-who-is-also-a-former-prime-minister-is-given-a-fine-and-a-suspended-1-yea.md)
-_Context: Israel, Jerusalem, Ehud Olmert, cronyism_
+_Context: Jerusalem, Ehud Olmert, Israel, cronyism_
 
 ##### US military
 ### [The US military announces that two US Marines are charged with urinating on Taliban corpses in Afghanistan and failing to stop other misconduct by subordinates. ](/news/2012/09/24/the-us-military-announces-that-two-us-marines-are-charged-with-urinating-on-taliban-corpses-in-afghanistan-and-failing-to-stop-other-miscond.md)
@@ -65,11 +65,11 @@ _Context: Karim Masimov, Kazakhstan, Prime Minister_
 
 ##### OSCE
 ### [The Organization for Security and Co-operation in Europe says recent parliamentary elections in Belarus were neither free nor fair. VRT calls them "a farce". ](/news/2012/09/24/the-organization-for-security-and-co-operation-in-europe-says-recent-parliamentary-elections-in-belarus-were-neither-free-nor-fair-vrt-call.md)
-_Context: VRT, Belarus, parliamentary elections, OSCE_
+_Context: OSCE, parliamentary elections, Belarus, VRT_
 
 ##### Jun Azumi
 ### [Jun Azumi, the Minister of Finance of Japan, says he is to step down and take on a senior function as the acting secretary-general of the Democratic Party of Japan. His announcement comes ahead of an expected cabinet reshuffle. ](/news/2012/09/24/jun-azumi-the-minister-of-finance-of-japan-says-he-is-to-step-down-and-take-on-a-senior-function-as-the-acting-secretary-general-of-the-de.md)
-_Context: Cabinet of Japan, Democratic Party, Jun Azumi, Minister of Finance, Japan_
+_Context: Democratic Party, Minister of Finance, Cabinet of Japan, Japan, Jun Azumi_
 
 ## [Previous Day...](/news/2012/09/23/index.md)
 

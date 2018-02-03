@@ -37,7 +37,7 @@ A large UPS cargo plane crashed and burst into flames, killing its pilot and cop
 
 ##### 2013 Korean crisis
 ### [2013 Korean crisis: North and South Korea agree to reopen the jointly-operated Kaesong Industrial Region. ](/news/2013/08/14/2013-korean-crisis-north-and-south-korea-agree-to-reopen-the-jointly-operated-kaesong-industrial-region.md)
-_Context: North Korea, Kaesong area, South Korea, 2013 Korean crisis_
+_Context: North Korea, South Korea, 2013 Korean crisis, Kaesong area_
 
 ##### San Francisco Police Department
 ### [San Francisco police seize $1.5 million in ecstasy in one of the largest busts in department history.](/news/2013/08/14/san-francisco-police-seize-1-5-million-in-ecstasy-in-one-of-the-largest-busts-in-department-history.md)

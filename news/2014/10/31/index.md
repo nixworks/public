@@ -5,7 +5,7 @@ Formats: [HTML](2014/10/31/index.html)  [JSON](2014/10/31/index.json)  [XML](201
 
 ##### Blaise Compaore
 ### [Blaise Compaore resigns as President of Burkina Faso following the 2014 Burkinabe uprising. General Honore Traore assumes leadership on a transitional basis. ](/news/2014/10/31/blaise-compaora-c-resigns-as-president-of-burkina-faso-following-the-2014-burkinaba-c-uprising-general-honora-c-traora-c-assumes-leadership-on.md)
-_Context: Blaise Compaore, Burkina Faso, Honore Traore, President, 2014 Burkinabe uprising_
+_Context: Burkina Faso, 2014 Burkinabe uprising, Blaise Compaore, Honore Traore, President_
 
 ##### Nigeria
 ### [A bomb blast in Nigeria's Gombe State kills at least 4 people and injures 32. ](/news/2014/10/31/a-bomb-blast-in-nigeria-s-gombe-state-kills-at-least-4-people-and-injures-32.md)
@@ -17,7 +17,7 @@ The Bank of Japan shocked global financial markets on Friday by expanding its ma
 
 ##### Virgin Galactic's
 ### [One person is dead and another injured after Virgin Galactic's SpaceShipTwo explodes and crashes in California's Mojave Desert during a test flight of the spaceplane. ](/news/2014/10/31/one-person-is-dead-and-another-injured-after-virgin-galactic-s-spaceshiptwo-explodes-and-crashes-in-california-s-mojave-desert-during-a-test.md)
-_Context: California, spaceplane, Mojave Desert, test flight, SpaceShipTwo, explodes and crashes, Virgin Galactic's_
+_Context: Mojave Desert, spaceplane, SpaceShipTwo, explodes and crashes, Virgin Galactic's, California, test flight_
 
 ##### Ebola virus disease in the United States
 ### [A Maine judge imposes limited restrictions, but rejects state officials' bid to quarantine nurse Kaci Hickox, who returned to the United States last week after treating Ebola patients in Sierra Leone. ](/news/2014/10/31/a-maine-judge-imposes-limited-restrictions-but-rejects-state-officials-bid-to-quarantine-nurse-kaci-hickox-who-returned-to-the-united-sta.md)
@@ -29,7 +29,7 @@ Thawing of diplomatic relations follows democratic elections in September that b
 
 ##### Mexico
 ### [A Mexican judge releases a United States Marine Corps member detained for crossing the border with loaded guns eight months ago. ](/news/2014/10/31/a-mexican-judge-releases-a-united-states-marine-corps-member-detained-for-crossing-the-border-with-loaded-guns-eight-months-ago.md)
-_Context: Mexico-U.S. border, Mexico, Marine_
+_Context: Mexico, Mexico-U.S. border, Marine_
 
 ##### Myanmar
 ### [Major political parties in Myanmar hold a meeting about the upcoming Burmese general election, 2015 which included Thein Sein's Union Solidarity and Development Party and Aung San Suu Kyi's National League for Democracy. ](/news/2014/10/31/major-political-parties-in-myanmar-hold-a-meeting-about-the-upcoming-burmese-general-election-2015-which-included-thein-sein-s-union-solida.md)

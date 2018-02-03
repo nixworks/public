@@ -9,7 +9,7 @@ US economist Richard Thaler is a founding father of behavioural economics and pi
 
 ##### 2017 Kobe Steel falsification of data scandal
 ### [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md)
-_Context: Mazda, Kobe Steel, Japan, Toyota, Subaru, 2017 Kobe Steel falsification of data scandal, Central Japan Railway Company, Mitsubishi_
+_Context: Mazda, 2017 Kobe Steel falsification of data scandal, Mitsubishi, Central Japan Railway Company, Kobe Steel, Subaru, Toyota, Japan_
 
 ##### Moscow
 ### [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md)
@@ -21,7 +21,7 @@ Around 3,000 people were evacuated when the construction market in north-west Mo
 
 ##### Bosnian War
 ### [The presiding judge Saban Maksumic of the Sarajevo, Bosnian war crimes court acquits former Bosnian military officer Naser Oric of the charge of killing three Bosnian Serb prisoners of war during the Bosnian War. In July 2008, the Appeals Chamber of the International Criminal Tribunal for the former Yugoslavia in the Netherlands acquitted Oric for failing to prevent the deaths of five Bosnian Serb detainees and the mistreatment of eleven other detainees from late 1992 to early 1993. ](/news/2017/10/9/the-presiding-judge-a-aban-maksumia-of-the-sarajevo-bosnian-war-crimes-court-acquits-former-bosnian-military-officer-naser-oria-of-the-ch.md)
-_Context: Netherlands, Bosnian Serb, Sarajevo, International Criminal Tribunal for the former Yugoslavia, prisoners of war, Bosnian War, Naser Oric, Bosnian_
+_Context: Naser Oric, prisoners of war, Bosnian Serb, Netherlands, Bosnian, International Criminal Tribunal for the former Yugoslavia, Bosnian War, Sarajevo_
 
 ## [Previous Day...](/news/2017/10/8/index.md)
 

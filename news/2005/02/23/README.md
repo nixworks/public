@@ -13,15 +13,15 @@ _Context: Bhutan, smokers_
 
 ##### Sri Lanka
 ### [ In Sri Lanka, Tamil Tigers warn that the truce with the government is under threat after the killing of one of their leaders, E Kaushalyan. The ceasefire has lasted for four years. ](/news/2005/02/23/in-sri-lanka-tamil-tigers-warn-that-the-truce-with-the-government-is-under-threat-after-the-killing-of-one-of-their-leaders-e-kaushalyan.md)
-_Context: Tamil Tigers, E Kaushalyan, ceasefire, Sri Lanka_
+_Context: E Kaushalyan, Sri Lanka, Tamil Tigers, ceasefire_
 
 ##### Pakistan
 ### [ Pakistan's supreme court refuses a government request to withdraw a corruption case against minister Faisal Saleh Hayat. ](/news/2005/02/23/pakistan-s-supreme-court-refuses-a-government-request-to-withdraw-a-corruption-case-against-minister-faisal-saleh-hayat.md)
-_Context: supreme court, Faisal Saleh Hayat, anti-corruption, Pakistan_
+_Context: anti-corruption, Faisal Saleh Hayat, supreme court, Pakistan_
 
 ##### Rasim Delic
 ### [ Rasim Delic, former commander of the Bosnian army in Bosnia during the Yugoslav Wars, announces he will hand himself over to the UN Tribunal. He stands accused of war crimes against ethnic Serbs ](/news/2005/02/23/rasim-delia-former-commander-of-the-bosnian-army-in-bosnia-during-the-yugoslav-wars-announces-he-will-hand-himself-over-to-the-un-tribun.md)
-_Context: war crime, Bosnia and Herzegovina, Rasim Delic, Serb, International Criminal Tribunal for the Former Yugoslavia, Yugoslav Wars_
+_Context: war crime, Serb, International Criminal Tribunal for the Former Yugoslavia, Rasim Delic, Yugoslav Wars, Bosnia and Herzegovina_
 
 ##### Italy
 ### [ In Italy, Andrea Volpe, leader of the Beasts of Satan rock group, is sentenced to 30 years in prison for three murders. Another member Pietro Guerrieri receives 16 years, while a third member is acquitted ](/news/2005/02/23/in-italy-andrea-volpe-leader-of-the-beasts-of-satan-rock-group-is-sentenced-to-30-years-in-prison-for-three-murders-another-member-piet.md)

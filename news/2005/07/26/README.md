@@ -5,7 +5,7 @@ Formats: [HTML](2005/07/26/index.html)  [JSON](2005/07/26/index.json)  [XML](200
 
 ##### nationalises
 ### [ At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-ghraib-area-by-insur.md)
-_Context: nationalises, Abu Ghraib, Iraqi insurgency_
+_Context: Abu Ghraib, nationalises, Iraqi insurgency_
 
 ##### rain
 ### [ Over 200 people have been killed in intense rain storms in Maharashtra, India, described by the Chief Minister of the state as the heaviest recorded rainfall in a single day in India. One third of the state Capital, Mumbai, is said to be underwater causing more than a two hundred thousand people to be stranded in offices and roads for about 24 hours. ](/news/2005/07/26/over-200-people-have-been-killed-in-intense-rain-storms-in-maharashtra-india-described-by-the-chief-minister-of-the-state-as-the-heaviest.md)
@@ -17,27 +17,27 @@ _Context: India_
 
 ##### Discovery
 ### [ The Space Shuttle "Discovery" lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". ](/news/2005/07/26/the-space-shuttle-discovery-lifts-off-at-1039-est-this-morning-on-mission-sts-114-the-nasa-commentator-says-during-launch-lift-off-lif.md)
-_Context: STS-114, NASA, Discovery_
+_Context: NASA, STS-114, Discovery_
 
 ##### Lebanon
 ### [ Lebanese Christian militia leader, Samir Geagea, has been released from prison after 11 years. ](/news/2005/07/26/lebanese-christian-militia-leader-samir-geagea-has-been-released-from-prison-after-11-years.md)
-_Context: Lebanon, Samir Geagea, militia_
+_Context: Samir Geagea, Lebanon, militia_
 
 ##### Hong Seok-Hyun
 ### [ South Korean ambassador to the US, Hong Seok-Hyun, resigns for alleged involvement with slush fund scandal of illegal donations during a presidential campaign in 1997 ](/news/2005/07/26/south-korean-ambassador-to-the-us-hong-seok-hyun-resigns-for-alleged-involvement-with-slush-fund-scandal-of-illegal-donations-during-a-pr.md)
-_Context: slush fund, Hong Seok-Hyun_
+_Context: Hong Seok-Hyun, slush fund_
 
 ##### Burma
 ### [ Burma-Myanmar forgoes 2006 chairmanship of ASEAN ](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.md)
-_Context: Myanmar, Burma, ASEAN_
+_Context: Burma, Myanmar, ASEAN_
 
 ##### protest
 ### [ At least 1,000 protesters have staged a demonstration outside the main US base of Bagram in Afghanistan. ](/news/2005/07/26/at-least-1-000-protesters-have-staged-a-demonstration-outside-the-main-us-base-of-bagram-in-afghanistan.md)
-_Context: Bagram, demonstration, Afghanistan, protest_
+_Context: protest, Afghanistan, demonstration, Bagram_
 
 ##### Mohammed Bouyeri
 ### [ In the Netherlands, Mohammed Bouyeri receives life sentence for murder of Theo van Gogh ](/news/2005/07/26/in-the-netherlands-mohammed-bouyeri-receives-life-sentence-for-murder-of-theo-van-gogh.md)
-_Context: Theo van Gogh, Mohammed Bouyeri_
+_Context: Mohammed Bouyeri, Theo van Gogh_
 
 ##### scientists
 ### [ In Canada, geneticists in the University of Alberta are testing hairs that allegedly belong to sasquatch ](/news/2005/07/26/in-canada-geneticists-in-the-university-of-alberta-are-testing-hairs-that-allegedly-belong-to-sasquatch.md)
@@ -61,11 +61,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Somalia
 ### [ In Somalia, transitional president Abdullahi Yusuf arrives in the town of Jowhar, intending to make it a base for his new government ](/news/2005/07/26/in-somalia-transitional-president-abdullahi-yusuf-arrives-in-the-town-of-jowhar-intending-to-make-it-a-base-for-his-new-government.md)
-_Context: Jowhar, Abdullahi Yusuf, Somalia_
+_Context: Abdullahi Yusuf, Somalia, Jowhar_
 
 ##### Nepal
 ### [ In Nepal, king's court sentences Sher Bahadur Deuba and three others to two years in jail for alleged embezzling. Deuba denounces the sentence as "character assassination". ](/news/2005/07/26/in-nepal-king-s-court-sentences-sher-bahadur-deuba-and-three-others-to-two-years-in-jail-for-alleged-embezzling-deuba-denounces-the-sente.md)
-_Context: embezzlement, Nepal, Sher Bahadur Deuba, character assassination_
+_Context: Nepal, Sher Bahadur Deuba, character assassination, embezzlement_
 
 ## [Previous Day...](/news/2005/07/25/index.md)
 

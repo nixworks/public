@@ -29,7 +29,7 @@ Fourteen people died Saturday when a bus returning from a casino flipped onto it
 
 ##### floating restaurant
 ### [83 people are rescued from a floating restaurant after it drifted away carrying 150 passengers on the flooded Ohio River in Covington, Kentucky, USA, and became lodged under the Clay Wade Bailey Bridge. ](/news/2011/03/12/83-people-are-rescued-from-a-floating-restaurant-after-it-drifted-away-carrying-150-passengers-on-the-flooded-ohio-river-in-covington-kentu.md)
-_Context: flooded, floating restaurant, Ohio, Covington, Kentucky, Clay Wade Bailey Bridge_
+_Context: Clay Wade Bailey Bridge, floating restaurant, Covington, Kentucky, Ohio, flooded_
 
 ##### Interstate 94
 ### [An estimated 800 motorists are stranded on Interstate 94 and U.S. Route 83 in North Dakota by a blizzard. ](/news/2011/03/12/an-estimated-800-motorists-are-stranded-on-interstate-94-and-u-s-route-83-in-north-dakota-by-a-blizzard.md)
@@ -41,11 +41,11 @@ South Sudan says it is suspending talks with the north, accusing President Bashi
 
 ##### asylum seeker
 ### [Up to 80 asylum seekers break out of the Australian detention centre on Christmas Island. ](/news/2011/03/12/up-to-80-asylum-seekers-break-out-of-the-australian-detention-centre-on-christmas-island.md)
-_Context: Australia, Christmas Island, asylum seeker, Christmas Island Immigration Detention Centre_
+_Context: Australia, asylum seeker, Christmas Island Immigration Detention Centre, Christmas Island_
 
-##### U.S.
+##### United States
 ### [United States aid worker Alan Gross is sentenced to 15 years in a Cuban jail, ostensibly for working to undermine the Government of Cuba. ](/news/2011/03/12/united-states-aid-worker-alan-gross-is-sentenced-to-15-years-in-a-cuban-jail-ostensibly-for-working-to-undermine-the-government-of-cuba.md)
-_Context: U.S., Cuba, Government of Cuba_
+_Context: United States, Cuba, Government of Cuba_
 
 ##### Portugal
 ### [Tens of thousands of Portuguese young people march in protest at budget cuts. ](/news/2011/03/12/tens-of-thousands-of-portuguese-young-people-march-in-protest-at-budget-cuts.md)

@@ -17,7 +17,7 @@ _Context: Philippines, Typhoon Durian_
 
 ##### President
 ### [ Former President of Chile Augusto Pinochet is in a military hospital after having had a heart attack. Doctors decide to perform coronary artery bypass surgery. ](/news/2006/12/3/former-president-of-chile-augusto-pinochet-is-in-a-military-hospital-after-having-had-a-heart-attack-doctors-decide-to-perform-coronary-ar.md)
-_Context: President, heart attack, coronary artery bypass surgery, Augusto Pinochet_
+_Context: coronary artery bypass surgery, Augusto Pinochet, heart attack, President_
 
 ##### Madagascar
 ### [ Madagascar holds an election with incumbent Marc Ravalomanana expected to be elected as the President of Madagascar. ](/news/2006/12/3/madagascar-holds-an-election-with-incumbent-marc-ravalomanana-expected-to-be-elected-as-the-president-of-madagascar.md)
@@ -25,7 +25,7 @@ _Context: President of Madagascar, holds an election, Marc Ravalomanana, Madagas
 
 ##### Junior Eurovision Song Contest 2006
 ### [ The Junior Eurovision Song Contest 2006 was won by The Tolmachevy Twins from Russia with the song "Vesenniy Dzhaz". ](/news/2006/12/3/the-junior-eurovision-song-contest-2006-was-won-by-the-tolmachevy-twins-from-russia-with-the-song-vesenniy-dzhaz.md)
-_Context: Junior Eurovision Song Contest 2006, Russia_
+_Context: Russia, Junior Eurovision Song Contest 2006_
 
 ##### Russia
 ### [ Russia wins the 2006 Davis Cup after a 3-2 victory over Argentina ](/news/2006/12/3/russia-wins-the-2006-davis-cup-after-a-3-2-victory-over-argentina.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2013/04/21/index.html)  [JSON](2013/04/21/index.json)  [XML](201
 
 ##### Damascus
 ### [Locals and activists in Damascus report that the Syrian Army killed over 500 people in the suburb of Jdeit al-Fadel. ](/news/2013/04/21/locals-and-activists-in-damascus-report-that-the-syrian-army-killed-over-500-people-in-the-suburb-of-jdeit-al-fadel.md)
-_Context: Damascus, Syrian Army_
+_Context: Syrian Army, Damascus_
 
 ##### Nigeria
 ### [In Nigeria, a clash between the military and Islamic extremists leaves at least 185 people dead. ](/news/2013/04/21/in-nigeria-a-clash-between-the-military-and-islamic-extremists-leaves-at-least-185-people-dead.md)
@@ -25,11 +25,11 @@ Former Divinyls singer Chrissy Amphlett has died aged 53 after suffering from br
 
 ##### mining accident
 ### [A mining accident in China's Jilin Province kills at least 18 people and injures 12 others. ](/news/2013/04/21/a-mining-accident-in-china-s-jilin-province-kills-at-least-18-people-and-injures-12-others.md)
-_Context: mining accident, Jilin Province, Chinese_
+_Context: mining accident, China, Jilin Province_
 
 ##### flooding
 ### [River flooding continues in six states in the midwestern United States with several towns north of St. Louis, Missouri, expecting the Mississippi River to reach a crest. ](/news/2013/04/21/river-flooding-continues-in-six-states-in-the-midwestern-united-states-with-several-towns-north-of-st-louis-missouri-expecting-the-missis.md)
-_Context: U.S., St. Louis, Mississippi River, crest, flooding, Missouri, midwestern_
+_Context: crest, midwestern, Mississippi River, flooding, Missouri, United States, St. Louis_
 
 ##### North Korea
 ### [North Korea reportedly moves two more missile launchers to its east coast in anticipation of an expected missile launch. ](/news/2013/04/21/north-korea-reportedly-moves-two-more-missile-launchers-to-its-east-coast-in-anticipation-of-an-expected-missile-launch.md)
@@ -41,7 +41,7 @@ A court in Brazil has sentenced 23 police officers to 156 years in jail each for
 
 ##### Federal Way
 ### [Five people are killed in a shooting incident at an apartment complex in Federal Way, Washington, south of Seattle, United States. ](/news/2013/04/21/five-people-are-killed-in-a-shooting-incident-at-an-apartment-complex-in-federal-way-washington-south-of-seattle-united-states.md)
-_Context: Washington, Seattle, U.S., Federal Way_
+_Context: Washington, Seattle, United States, Federal Way_
 
 ##### Egypt
 ### [Egypt's Justice Minister Ahmed Mekki resigns in protest of perceived attacks on judiciary by the nation's leadership. ](/news/2013/04/21/egypt-s-justice-minister-ahmed-mekki-resigns-in-protest-of-perceived-attacks-on-judiciary-by-the-nation-s-leadership.md)
@@ -53,11 +53,11 @@ _Context: sales tax, eBay_
 
 ##### Horacio Cartes
 ### [Horacio Cartes, of the Colorado Party, is elected President of Paraguay with 45.91% percent of the vote. ](/news/2013/04/21/horacio-cartes-of-the-colorado-party-is-elected-president-of-paraguay-with-45-91-percent-of-the-vote.md)
-_Context: Horacio Cartes, Colorado Party, Paraguay, Paraguayan President, elected_
+_Context: Paraguay, Horacio Cartes, elected, Paraguayan President, Colorado Party_
 
 ##### astronaut
 ### [American astronauts Curtis Brown, Eileen Collins, and Bonnie Dunbar are inducted into the Astronaut Hall of Fame. ](/news/2013/04/21/american-astronauts-curtis-brown-eileen-collins-and-bonnie-dunbar-are-inducted-into-the-astronaut-hall-of-fame.md)
-_Context: Astronaut Hall of Fame, Eileen Collins, Curtis Brown, astronaut, Bonnie Dunbar_
+_Context: Eileen Collins, Astronaut Hall of Fame, astronaut, Curtis Brown, Bonnie Dunbar_
 
 ##### Antares A-ONE
 ### [Antares A-ONE: The Antares rocket makes its maiden flight, successfully carrying a mockup Cygnus spacecraft into orbit. ](/news/2013/04/21/antares-a-one-the-antares-rocket-makes-its-maiden-flight-successfully-carrying-a-mockup-cygnus-spacecraft-into-orbit.md)

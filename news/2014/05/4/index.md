@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/4/index.html)  [JSON](2014/05/4/index.json)  [XML](2014/
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [Pro-Russian activists attack the police headquarters in Odessa, forcing the release of several people held over deadly violence two days before. ](/news/2014/05/4/pro-russian-activists-attack-the-police-headquarters-in-odessa-forcing-the-release-of-several-people-held-over-deadly-violence-two-days-bef.md)
-_Context: Odessa, 2014 pro-Russian unrest in Ukraine_
+_Context: 2014 pro-Russian unrest in Ukraine, Odessa_
 
 ##### Afghan government
 ### [The Government of Afghanistan declares a day of national mourning for the victims of the mudslides. ](/news/2014/05/4/the-government-of-afghanistan-declares-a-day-of-national-mourning-for-the-victims-of-the-mudslides.md)
@@ -29,7 +29,7 @@ The Sunday Herald becomes the first newspaper to publicly back a &quot;Yes&quot;
 
 ##### Panamanian general election, 2014
 ### [Voters in Panama go to the polls for a general election. ](/news/2014/05/4/voters-in-panama-go-to-the-polls-for-a-general-election.md)
-_Context: Panamanian general election, 2014, Panama_
+_Context: Panama, Panamanian general election, 2014_
 
 ## [Previous Day...](/news/2014/05/3/index.md)
 

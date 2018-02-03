@@ -17,7 +17,7 @@ _Context: protestors, Syria_
 
 ##### 2011 Yemeni protests
 ### [Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/anti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md)
-_Context: 2011 Yemeni protests, Aden, Yemen_
+_Context: Yemen, Aden, 2011 Yemeni protests_
 
 ##### Israel
 ### [Israel asks the United Nations to disavow the Goldstone Report after the report's author, Judge Richard Goldstone, says that he retracts the accusation that Israel intentionally targeted civilians during the 2008-2009 Gaza War. ](/news/2011/04/2/israel-asks-the-united-nations-to-disavow-the-goldstone-report-after-the-report-s-author-judge-richard-goldstone-says-that-he-retracts-the.md)
@@ -25,15 +25,15 @@ Israel calls on the UN to cancel a report that said it possibly committed war cr
 
 ##### Afghan National Army
 ### [Afghan National Army soldiers kill two insurgents including a would-be suicide bomber who attacked Camp Phoenix in Kabul. ](/news/2011/04/2/afghan-national-army-soldiers-kill-two-insurgents-including-a-would-be-suicide-bomber-who-attacked-camp-phoenix-in-kabul.md)
-_Context: Afghan National Army, suicide bomber, Camp Phoenix, Kabul_
+_Context: suicide bomber, Camp Phoenix, Afghan National Army, Kabul_
 
 ##### Omagh
 ### [A bomb explodes in Omagh, County Tyrone, Northern Ireland, killing one, hours after around 2,000 participants in a half marathon pass by. The incident evokes memories of the 1998 Omagh bombing, while taoiseach Enda Kenny (Republic of Ireland) accuses the perpetrators of "acting in defiance of the Irish people". ](/news/2011/04/2/a-bomb-explodes-in-omagh-county-tyrone-northern-ireland-killing-one-hours-after-around-2-000-participants-in-a-half-marathon-pass-by-th.md)
-_Context: Enda Kenny, Omagh bombing, Omagh, County Tyrone, Irish, Northern Ireland, taoiseach_
+_Context: Omagh, County Tyrone, Omagh bombing, Irish, Northern Ireland, Enda Kenny, taoiseach_
 
 ##### Prime Minister of Japan
 ### [Prime Minister of Japan Naoto Kan visits the areas of the country worst affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/2/prime-minister-of-japan-naoto-kan-visits-the-areas-of-the-country-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Naoto Kan, 2011 Tohoku earthquake and tsunami, Prime Minister of Japan_
+_Context: 2011 Tohoku earthquake and tsunami, Prime Minister of Japan, Naoto Kan_
 
 ##### Tokyo Electric Power Company
 ### [Tepco confirms radioactive water has been (and still is) leaking into the sea from a crack at the malfunctioning Fukushima nuclear plant. ](/news/2011/04/2/tepco-confirms-radioactive-water-has-been-and-still-is-leaking-into-the-sea-from-a-crack-at-the-malfunctioning-fukushima-nuclear-plant.md)
@@ -49,7 +49,7 @@ Attorney General GE Vahanvati and corporate lobbyist Niira Radia have been named
 
 ##### North Korea
 ### [The North Korean government cracks down on IT gadgets such as computers and phones amid fears that news about the Arab Spring could influence its citizens. ](/news/2011/04/2/the-north-korean-government-cracks-down-on-it-gadgets-such-as-computers-and-phones-amid-fears-that-news-about-the-arab-spring-could-influenc.md)
-_Context: Arab Spring, North Korea, information technology_
+_Context: North Korea, Arab Spring, information technology_
 
 ##### China
 ### [Almost half of China's dairies are to close after failing to obtain new licenses following a safety audit. ](/news/2011/04/2/almost-half-of-china-s-dairies-are-to-close-after-failing-to-obtain-new-licenses-following-a-safety-audit.md)
@@ -57,11 +57,11 @@ _Context: China_
 
 ##### Ciudad Juarez
 ### [Gunmen attack a bar in Ciudad Juarez in northern Mexico, killing five people. ](/news/2011/04/2/gunmen-attack-a-bar-in-ciudad-jua-rez-in-northern-mexico-killing-five-people.md)
-_Context: Mexico, Ciudad Juarez_
+_Context: Ciudad Juarez, Mexico_
 
 ##### parliamentary elections
 ### [A parliamentary election is to take place in Nigeria, but is postponed to 4 April as voting materials did not arrive on time. ](/news/2011/04/2/a-parliamentary-election-is-to-take-place-in-nigeria-but-is-postponed-to-4-april-as-voting-materials-did-not-arrive-on-time.md)
-_Context: Nigeria, parliamentary elections_
+_Context: parliamentary elections, Nigeria_
 
 ##### pro- and anti
 ### [Thousands of people attend pro- and anti-carbon tax (part of a phase-in of an emissions trading program) rallies in Sydney, Australia. ](/news/2011/04/2/thousands-of-people-attend-pro-and-anti-carbon-tax-part-of-a-phase-in-of-an-emissions-trading-program-rallies-in-sydney-australia.md)

@@ -7,13 +7,13 @@ Formats: [HTML](2012/03/30/index.html)  [JSON](2012/03/30/index.json)  [XML](201
 ### [Syrian uprising:The Syrian government says that the revolt against the regime of President Bashar al-Assad has ended, but it will still keep soldiers inside cities, "for security". ](/news/2012/03/30/syrian-uprising-the-syrian-government-says-that-the-revolt-against-the-regime-of-president-bashar-al-assad-has-ended-but-it-will-still-keep.md)
 Syria says the year-old revolt to topple President Bashar al-Assad is over, but the army again shelled opposition areas on Saturday and rebels said they would not cease fire until tanks, artillery and heavy weapons are withdrawn.
 
-##### U.S.
+##### United States
 ### [A United States drone attack kills two alleged militants in the Pakistani town of Miran Shah in North Waziristan. ](/news/2012/03/30/a-united-states-drone-attack-kills-two-alleged-militants-in-the-pakistani-town-of-miran-shah-in-north-waziristan.md)
-_Context: North Waziristan, Miran Shah, drones launch, U.S._
+_Context: drones launch, Miran Shah, North Waziristan, United States_
 
 ##### Zain-ul-Abdeen
 ### [Gunmen kill Zain-ul-Abdeen, a leader of the ethnic Pashtun Awami National Party, in Karachi. ](/news/2012/03/30/gunmen-kill-zain-ul-abdeen-a-leader-of-the-ethnic-pashtun-awami-national-party-in-karachi.md)
-_Context: Pashtun, Zain-ul-Abdeen, Awami National Party, Karachi_
+_Context: Pashtun, Karachi, Awami National Party, Zain-ul-Abdeen_
 
 ##### Erez crossing
 ### [A 20-year-old Palestinian is killed and 13 others are wounded by IDF gunfire as they try to breach the Gaza border fence in order to infiltrate into Israel near the Erez crossing.](/news/2012/03/30/a-20-year-old-palestinian-is-killed-and-13-others-are-wounded-by-idf-gunfire-as-they-try-to-breach-the-gaza-border-fence-in-order-to-infiltr.md)
@@ -25,7 +25,7 @@ Amnesty International has demanded the jailed Bahraini human rights activist, Ab
 
 ##### Australia
 ### [Australian artist Tim Storrier wins the 2012 Archibald Prize for a self-portrait "The historic wayfarer (after Bosch)". ](/news/2012/03/30/australian-artist-tim-storrier-wins-the-2012-archibald-prize-for-a-self-portrait-the-historic-wayfarer-after-bosch.md)
-_Context: Australia, Tim Storrier, Archibald Prize_
+_Context: Australia, Archibald Prize, Tim Storrier_
 
 ##### 
 ### [The Spanish government cuts 27 billion euros from the country's budget as part of one of the toughest austerity drives in its history. ](/news/2012/03/30/the-spanish-government-cuts-27-billion-euros-from-the-country-s-budget-as-part-of-one-of-the-toughest-austerity-drives-in-its-history.md)
@@ -33,7 +33,7 @@ Spain cuts 27bn euros ($36bn; £22.5bn) from its budget this year and freezes pu
 
 ##### VISA
 ### [VISA and MasterCard warn banks across the United States about a "massive" breach of security with more than ten million credit card numbers potentially compromised. ](/news/2012/03/30/visa-and-mastercard-warn-banks-across-the-united-states-about-a-massive-breach-of-security-with-more-than-ten-million-credit-card-numbers.md)
-_Context: VISA, credit card, MasterCard, U.S._
+_Context: VISA, credit card, MasterCard, United States_
 
 ##### Mega Millions
 ### [The Mega Millions jackpot in the United States is up to $640 million, becoming the world's largest lottery jackpot. ](/news/2012/03/30/the-mega-millions-jackpot-in-the-united-states-is-up-to-640-million-becoming-the-world-s-largest-lottery-jackpot.md)
@@ -41,11 +41,11 @@ World-record prize increases by $100 million hours before much-anticipated late-
 
 ##### Huanglongbing
 ### [Huanglongbing or citrus greening, a disease which has killed millions of citrus trees in Brazil and Florida, is discovered in a residential section of Los Angeles County, California, in the United States. ](/news/2012/03/30/huanglongbing-or-citrus-greening-a-disease-which-has-killed-millions-of-citrus-trees-in-brazil-and-florida-is-discovered-in-a-residential.md)
-_Context: Huanglongbing, the state, Los Angeles County, California, U.S., citrus, Brazil_
+_Context: United States, Brazil, Huanglongbing, the state, Los Angeles County, California, citrus_
 
 ##### Malaysia
 ### [Malaysia expels 173 Indonesian workers for various legal violations. ](/news/2012/03/30/malaysia-expels-173-indonesian-workers-for-various-legal-violations.md)
-_Context: Malaysia, Indonesian_
+_Context: Indonesian, Malaysia_
 
 ##### Metropolitan Police
 ### [London's Metropolitan Police is embroiled in a racism scandal after a black man used his mobile phone to record police officers subjecting him to a tirade of abuse in which he was told: "The problem with you is you will always be a nigger". ](/news/2012/03/30/london-s-metropolitan-police-is-embroiled-in-a-racism-scandal-after-a-black-man-used-his-mobile-phone-to-record-police-officers-subjecting-h.md)
@@ -53,7 +53,7 @@ _Context: nigger, Metropolitan Police_
 
 ##### Indian police
 ### [Indian police introduce a curfew in the city of Sangareddi in Andhra Pradesh due to an outbreak of communal violence. ](/news/2012/03/30/indian-police-introduce-a-curfew-in-the-city-of-sangareddi-in-andhra-pradesh-due-to-an-outbreak-of-communal-violence.md)
-_Context: Andhra Pradesh, Indian police, Sangareddi, curfew_
+_Context: curfew, Indian police, Andhra Pradesh, Sangareddi_
 
 ##### French police
 ### [French police arrest 19 suspected Islamists in dawn raids. ](/news/2012/03/30/french-police-arrest-19-suspected-islamists-in-dawn-raids.md)
@@ -75,7 +75,7 @@ Tokyo deploys missile defence systems and says it will intercept North Korean ro
 
 ##### Bradford West by-election
 ### [Bradford West by-election: Respect Party candidate George Galloway tours the City of Bradford on an open-top bus in celebration of his shock victory over Labour, a result which has been described as the "Bradford Spring". ](/news/2012/03/30/bradford-west-by-election-respect-party-candidate-george-galloway-tours-the-city-of-bradford-on-an-open-top-bus-in-celebration-of-his-shock.md)
-_Context: George Galloway, Labour Party, Respect, Arab Spring, Bradford West by-election, City of Bradford_
+_Context: George Galloway, Bradford West by-election, Labour Party, Respect, Arab Spring, City of Bradford_
 
 ## [Previous Day...](/news/2012/03/29/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2012/09/12/index.html)  [JSON](2012/09/12/index.json)  [XML](201
 
 ##### Syrian civil war
 ### [Rebels kill 18 soldiers in Idlib Governorate in a car bomb and ground attack on a military installation. ](/news/2012/09/12/rebels-kill-18-soldiers-in-idlib-governorate-in-a-car-bomb-and-ground-attack-on-a-military-installation.md)
-_Context: Syrian civil war, Idlib Governorate_
+_Context: Idlib Governorate, Syrian civil war_
 
 ##### War in Afghanistan
 ### [President Hamid Karzai of Afghanistan calls for a re-think of the War on Terror. ](/news/2012/09/12/president-hamid-karzai-of-afghanistan-calls-for-a-re-think-of-the-war-on-terror.md)
-_Context: War on Terror, War in Afghanistan, Hamid Karzai, Afghanistan_
+_Context: Hamid Karzai, War in Afghanistan, Afghanistan, War on Terror_
 
 ##### suicide bombing
 ### [A suicide bombing at a hotel in the Somali capital of Mogadishu where newly elected president Hassan Sheikh Mohamoud was holding a news conference kills at least four people. ](/news/2012/09/12/a-suicide-bombing-at-a-hotel-in-the-somali-capital-of-mogadishu-where-newly-elected-president-hassan-sheikh-mohamoud-was-holding-a-news-conf.md)
@@ -17,11 +17,11 @@ A suicide attack at the gates of a Mogadishu hotel where the new Somali leader i
 
 ##### Ghent Altarpiece
 ### [The first panels of the Ghent Altarpiece, the "Lamb of God", are secretly moved from Saint Bavo Cathedral to the Ghent Museum of Fine Arts for a five-year restoration. It is probably the most frequently stolen artwork in history. One panel has been missing since 1934. ](/news/2012/09/12/the-first-panels-of-the-ghent-altarpiece-the-lamb-of-god-are-secretly-moved-from-saint-bavo-cathedral-to-the-ghent-museum-of-fine-arts-f.md)
-_Context: Saint Bavo Cathedral, Ghent, Ghent Altarpiece, restoration, Museum of Fine Arts, One panel_
+_Context: Ghent, One panel, Ghent Altarpiece, Saint Bavo Cathedral, Museum of Fine Arts, restoration_
 
 ##### Federal Constitutional Court of Germany
 ### [The Federal Constitutional Court in Karlsruhe rules that Germany's participation in the European Stability Mechanism (ESM) is, conditionally, within the German Constitution's limits, allowing President Gauck to approve the Bundestag's previous agreement with the mechanism. ](/news/2012/09/12/the-federal-constitutional-court-in-karlsruhe-rules-that-germany-s-participation-in-the-european-stability-mechanism-esm-is-conditionally.md)
-_Context: President of Germany, European Stability Mechanism, Bundestag, Joachim Gauck, Karlsruhe, German Constitution, German, Federal Constitutional Court of Germany_
+_Context: Bundestag, Karlsruhe, Federal Constitutional Court of Germany, German, European Stability Mechanism, Joachim Gauck, President of Germany, German Constitution_
 
 ##### Chicago
 ### [Teachers in Chicago continue their strike until a new labour agreement is met. ](/news/2012/09/12/teachers-in-chicago-continue-their-strike-until-a-new-labour-agreement-is-met.md)
@@ -69,11 +69,11 @@ Live coverage of the release of official documents relating to the 1989 Hillsbor
 
 ##### general election in the Netherlands
 ### [Dutch general election of 2012, voters in the Netherlands elect new representation in the House of Representatives. The final prognosis shows 41 (+10) seats for incumbent Prime Minister Mark Rutte's People's Party for Freedom and Democracy (VVD) and 40 seats (+10) for PvdA, Diederik Samsom's Labour Party, out of a total 150 seats. Four other parties get between 12 and 15 seats: SP 15 (0), PVV 13 (-11), CDA 13 (-8), and D66 12 (+2) The remainder, 16 seats, are divided among five more parties. The final televised debate is cancelled. ](/news/2012/09/12/dutch-general-election-of-2012-voters-in-the-netherlands-elect-new-representation-in-the-house-of-representatives-the-final-prognosis-show.md)
-_Context: House of Representatives, Mark Rutte, Prime Minister, general election in the Netherlands, Diederik Samsom, Netherlands, VVD, Labour Party_
+_Context: general election in the Netherlands, House of Representatives, Diederik Samsom, Prime Minister, Mark Rutte, VVD, Netherlands, Labour Party_
 
 ##### Apple Inc
 ### [Apple Inc unveils iPhone 5 and iOS 6. ](/news/2012/09/12/apple-inc-unveils-iphone-5-and-ios-6.md)
-_Context: iOS 6, Apple Inc, iPhone 5_
+_Context: iPhone 5, Apple Inc, iOS 6_
 
 ##### species
 ### [A new species of guenon monkey discovered in 2007 is now identified in Opala, DR Congo. Local inhabitants call it "lesula". The first specimen resembled the owl-faced monkey, but of unseen colour. More specimen have been located in a 6,500 square mile area. The species' genetic and anatomical distinctiveness (identification) has been determined in a study made the following three years. Its scientific name is "Cercopithecus lomamiensis". The publication already recommends it to the Red List of endangered species and proposes conservation measures for its Lomami and central Congo Basin habitat. ](/news/2012/09/12/a-new-species-of-guenon-monkey-discovered-in-2007-is-now-identified-in-opala-dr-congo-local-inhabitants-call-it-lesula-the-first-specim.md)

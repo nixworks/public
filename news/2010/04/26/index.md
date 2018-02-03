@@ -5,11 +5,11 @@ Formats: [HTML](2010/04/26/index.html)  [JSON](2010/04/26/index.json)  [XML](201
 
 ##### Belgium
 ### [ Belgium's King Albert accepts the resignation of Prime Minister Yves Leterme, ending his government's term and leading to early elections in June 2010. ](/news/2010/04/26/belgium-s-king-albert-accepts-the-resignation-of-prime-minister-yves-leterme-ending-his-government-s-term-and-leading-to-early-elections-i.md)
-_Context: election, Albert II of Belgium, Belgium, Yves Leterme, his government_
+_Context: Belgium, election, Yves Leterme, Albert II of Belgium, his government_
 
 ##### Omar al-Bashir
 ### [In elections marred by boycotts and fraud allegations, Omar al-Bashir is re-elected president of Sudan despite facing war crimes charges and an international arrest warrant. ](/news/2010/04/26/in-elections-marred-by-boycotts-and-fraud-allegations-omar-al-bashir-is-re-elected-president-of-sudan-despite-facing-war-crimes-charges-and.md)
-_Context: war crimes, Sudan, Omar al-Bashir_
+_Context: Omar al-Bashir, Sudan, war crimes_
 
 ##### grenade
 ### [ Several grenade attacks occur at the homes of former Thai Prime Minister Banharn Silpa-archa and in Chiang Mai. ](/news/2010/04/26/several-grenade-attacks-occur-at-the-homes-of-former-thai-prime-minister-banharn-silpa-archa-and-in-chiang-mai.md)
@@ -21,27 +21,27 @@ Pro-establishment group threatens to move against red shirts if government fails
 
 ##### British
 ### [The British ambassador to Yemen, Timothy Torlot, survives an attempted suicide bombing. ](/news/2010/04/26/the-british-ambassador-to-yemen-timothy-torlot-survives-an-attempted-suicide-bombing.md)
-_Context: suicide bombing, British, Yemen, Timothy Torlot_
+_Context: British, Timothy Torlot, suicide bombing, Yemen_
 
 ##### Panama
 ### [Former dictator of Panama, Manuel Noriega is extradited from the United States to France. ](/news/2010/04/26/former-dictator-of-panama-manuel-noriega-is-extradited-from-the-united-states-to-france.md)
-_Context: Panama, France, extradition, U.S., Manuel Noriega_
+_Context: United States, Manuel Noriega, France, extradition, Panama_
 
 ##### Noma
 ### [Noma, located in Copenhagen, Denmark, is named as the "world's best restaurant" in "Restaurant" magazine's annual survey. ](/news/2010/04/26/noma-located-in-copenhagen-denmark-is-named-as-the-world-s-best-restaurant-in-restaurant-magazine-s-annual-survey.md)
-_Context: Copenhagen, ''Restaurant'', Noma, Denmark, annual survey_
+_Context: ''Restaurant'', Denmark, annual survey, Copenhagen, Noma_
 
 ##### 6.5~6.9 earthquake
 ### [ A 6.5~6.9 earthquake strikes near Taitung, south east of Taiwan. ](/news/2010/04/26/a-6-5-6-9-earthquake-strikes-near-taitung-south-east-of-taiwan.md)
-_Context: Taiwan, 6.5~6.9 earthquake, Taitung_
+_Context: 6.5~6.9 earthquake, Taitung, Taiwan_
 
-##### U.S.
+##### United States
 ### [By a 6-5 margin, a United States federal appeals court rules that a sex-discrimination lawsuit, the largest employment discrimination case in history, against Wal-Mart can continue. ](/news/2010/04/26/by-a-6-5-margin-a-united-states-federal-appeals-court-rules-that-a-sex-discrimination-lawsuit-the-largest-employment-discrimination-case-i.md)
 Pay and promotions are at the root of a class action case first filed by six women in 2001 against the retailer.
 
 ##### United States Supreme Court
 ### [ The United States Supreme Court agrees to hear a case challenging laws that forbid the selling of violent video games to minors. ](/news/2010/04/26/the-united-states-supreme-court-agrees-to-hear-a-case-challenging-laws-that-forbid-the-selling-of-violent-video-games-to-minors.md)
-_Context: video games, United States Supreme Court_
+_Context: United States Supreme Court, video games_
 
 ##### Hamas
 ### [A Hamas militant is killed in Hebron after a shootout with the Israeli Defense Forces. ](/news/2010/04/26/a-hamas-militant-is-killed-in-hebron-after-a-shootout-with-the-israeli-defense-forces.md)
@@ -53,7 +53,7 @@ Five-day mourning begins for 46 navy personnel who died aboard warship that sank
 
 ##### government
 ### [ The Government of South Korea announces the completion of the world's longest seawall in a reclaimed tidal flat in Gunsan, North Jeolla Province. ](/news/2010/04/26/the-government-of-south-korea-announces-the-completion-of-the-worldas-longest-seawall-in-a-reclaimed-tidal-flat-in-gunsan-north-jeolla-p.md)
-_Context: government, North Jeolla Province, Gunsan, seawall, South Korea_
+_Context: Gunsan, South Korea, seawall, government, North Jeolla Province_
 
 ## [Previous Day...](/news/2010/04/25/index.md)
 

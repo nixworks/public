@@ -9,7 +9,7 @@ There have been continuing protests in Burkina Faso against President Blaise Com
 
 ##### Somali pirates
 ### [Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md)
-_Context: Somali pirates, India_
+_Context: India, Somali pirates_
 
 ##### Mikhail Porechenkov
 ### [Russian action film star Mikhail Porechenkov is caught on film wearing press gear while firing a machine gun toward Ukrainian lines with pro-Russian rebels at Donetsk International Airport. ](/news/2014/10/30/russian-action-film-star-mikhail-porechenkov-is-caught-on-film-wearing-press-gear-while-firing-a-machine-gun-toward-ukrainian-lines-with-pro.md)
@@ -21,7 +21,7 @@ NTSB officials arrive to begin investigating crash at Wichita airport that kille
 
 ##### Sweden
 ### [Sweden officially recognises Palestine as a sovereign state. Israel recalls its ambassador to Sweden. ](/news/2014/10/30/sweden-officially-recognises-palestine-as-a-sovereign-state-israel-recalls-its-ambassador-to-sweden.md)
-_Context: sovereign state, Sweden, Israel, Palestine, officially recognises_
+_Context: officially recognises, Sweden, Israel, Palestine, sovereign state_
 
 ##### Eric Frein
 ### [Eric Frein, wanted in the American state of Pennsylvania for the 2014 Pennsylvania State Police barracks attack that killed one officer and injured another, is taken into custody. ](/news/2014/10/30/eric-frein-wanted-in-the-american-state-of-pennsylvania-for-the-2014-pennsylvania-state-police-barracks-attack-that-killed-one-officer-and.md)
@@ -33,7 +33,7 @@ Thomas Michael Menino, who served an unprecedented five consecutive terms in Cit
 
 ##### Temple Mount
 ### [The Temple Mount in Jerusalem was closed to all visitors for the first time since 2000, following the attempted assassination of Israeli activist Yehuda Glick. ](/news/2014/10/30/the-temple-mount-in-jerusalem-was-closed-to-all-visitors-for-the-first-time-since-2000-following-the-attempted-assassination-of-israeli-act.md)
-_Context: Jerusalem, Temple Mount, Yehuda Glick_
+_Context: Temple Mount, Yehuda Glick, Jerusalem_
 
 ## [Previous Day...](/news/2014/10/29/index.md)
 

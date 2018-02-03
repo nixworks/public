@@ -13,9 +13,9 @@ Arab coalition forces have captured a Yemeni Red Sea archipelago used by Iran-al
 
 ##### Switzerland
 ### [Swiss officials say police, based on a CIA tip, are hunting for at least four Islamic State-associated suspects believed to be plotting an attack in Geneva. ](/news/2015/12/10/swiss-officials-say-police-based-on-a-cia-tip-are-hunting-for-at-least-four-islamic-state-associated-suspects-believed-to-be-plotting-an-a.md)
-_Context: Switzerland, Central Intelligence Agency, Swiss authorities, ISIL_
+_Context: ISIL, Swiss authorities, Switzerland, Central Intelligence Agency_
 
-##### U.S.
+##### United States
 ### [A United States Treasury official says ISIL has made over $500 million selling oil to Syrian President Bashar Assad's government, and has also sold oil to Turkey. ](/news/2015/12/10/a-united-states-treasury-official-says-isil-has-made-over-500-million-selling-oil-to-syrian-president-bashar-assadas-government-and-has.md)
 Adam Szubin, a senior U.S. Treasury official, said Thursday that ISIS also looted between $500 million and $1 billion from bank vaults captured in Iraq and Syria.
 
@@ -43,7 +43,7 @@ North Korea has now developed a hydrogen bomb and can use it along with nuclear 
 ### [Syrian opposition politicians and rebels, attending a two-day meeting hosted by Saudi Arabia in Riyadh, agree on a framework that would guide proposed talks to end Syria's nearly five-year conflict: a civil, democratic Syria with a transitional government that would respect human rights and the territorial integrity of the country; and, safeguard state institutions while restructuring security forces. Ahrar ash-Sham, a Saudi-backed ultraconservative group, withdrew from the talks at the end of the meeting. ](/news/2015/12/10/syrian-opposition-politicians-and-rebels-attending-a-two-day-meeting-hosted-by-saudi-arabia-in-riyadh-agree-on-a-framework-that-would-guid.md)
 Syrian opposition politicians and rebels back a statement of principles for peace talks at a meeting in Riyadh, but there is confusion over whether one key group is on board.
 
-##### U.S.
+##### United States
 ### [In the United States, Suffolk County police ask the FBI for more help in their investigation of a possible serial killer who preyed on prostitutes and left their bodies strewn along a Long Island beach in New York. Ten bodies were found along an isolated stretch of the South Shore's Gilgo Beach between December 2010 and April 2011. ](/news/2015/12/10/in-the-united-states-suffolk-county-police-ask-the-fbi-for-more-help-in-their-investigation-of-a-possible-serial-killer-who-preyed-on-prost.md)
 Police in New York have asked the FBI for help investigating a possible serial killer who preyed on prostitutes and left their bodies strewn along a Long Island beach, nearly five years after the first remains were discovered, officials said on Thursday.
 

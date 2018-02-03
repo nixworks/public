@@ -9,7 +9,7 @@ Amnesty International says at least 200 civilians died in the first two months o
 
 ##### Boko Haram insurgency
 ### [An overnight raid by suspected Boko Haram militants on Niger's southern border town of Abadam, kills two Nigerien Army soldiers and three civilians. And, separately, a suicide-bomb attack on Lake Chad killed three of the attackers but no one else. A military convoy was also ambushed by militants in northern Cameroon, although there were no reported deaths. ](/news/2015/12/23/an-overnight-raid-by-suspected-boko-haram-militants-on-niger-s-southern-border-town-of-abadam-kills-two-nigerien-army-soldiers-and-three-ci.md)
-_Context: Boko Haram insurgency, Niger, Boko Haram, Far North Region, Lake Chad, Nigerien soldiers_
+_Context: Nigerien soldiers, Far North Region, Niger, Boko Haram insurgency, Lake Chad, Boko Haram_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [Two Palestinian attackers stab passers-by at the Old City's Jaffa Gate in Jerusalem, Israel, killing two and injuring one; the attackers are shot and killed by two Israeli Border Police officers. ](/news/2015/12/23/two-palestinian-attackers-stab-passers-by-at-the-old-city-s-jaffa-gate-in-jerusalem-israel-killing-two-and-injuring-one-the-attackers-are.md)
@@ -37,7 +37,7 @@ Days of severe weather have left deaths, injuries and damage in the South. Here 
 
 ##### South Korean MERS outbreak
 ### [South Korea announces an end to the Middle East respiratory syndrome (MERS) outbreak that has killed 36 people since May 2015. The virus infected 186 people, with nearly 17,000 people confined to their homes and thousands of schools temporarily closing at the peak of the largest MERS outbreak outside Saudi Arabia, where it first appeared in 2012. ](/news/2015/12/23/south-korea-announces-an-end-to-the-middle-east-respiratory-syndrome-mers-outbreak-that-has-killed-36-people-since-may-2015-the-virus-inf.md)
-_Context: Middle East respiratory syndrome, South Korea, Saudi Arabia, South Korean MERS outbreak_
+_Context: South Korea, South Korean MERS outbreak, Middle East respiratory syndrome, Saudi Arabia_
 
 ##### Brazilian health officials
 ### [Brazilian health officials announce 2,400 babies (up from 147 in 2014) have been born this year with microcephaly, a neurological disorder that can result in incomplete brain development which can be caused by the mosquito-borne Zika virus, and advise would-be parents, especially in the country's northeast where most of the cases occurred, to avoid pregnancy. ](/news/2015/12/23/brazilian-health-officials-announce-2-400-babies-up-from-147-in-2014-have-been-born-this-year-with-microcephaly-a-neurological-disorder-t.md)
@@ -53,7 +53,7 @@ A government accountability nonprofit wants to see if Defense Secretary Ash Cart
 
 ##### DC police
 ### [A Metropolitan Police Department of the District of Columbia report reveals that an agent with the Presidential Protective Service of the United States Secret Service had his weapon, shield, and other professional equipage stolen from his vehicle in broad daylight in downtown Washington, D.C. ](/news/2015/12/23/a-metropolitan-police-department-of-the-district-of-columbia-report-reveals-that-an-agent-with-the-presidential-protective-service-of-the-un.md)
-_Context: United States Secret Service, Washington, D.C., DC police_
+_Context: DC police, Washington, D.C., United States Secret Service_
 
 ##### Russia
 ### [Russia issues an international arrest warrant for former oil tycoon Mikhail Khodorkovsky on charges of organizing the murder of Vladimir Petukhov, mayor of Nefteyugansk in 1998. ](/news/2015/12/23/russia-issues-an-international-arrest-warrant-for-former-oil-tycoon-mikhail-khodorkovsky-on-charges-of-organizing-the-murder-of-vladimir-pet.md)
@@ -61,13 +61,13 @@ Former oil tycoon says order to have him arrested in absentia over alleged murde
 
 ##### election
 ### [Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. ](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-socialist-workers-party-psoe-rejects-a-pact-with-the-ruling-people-s-party-pp-we-say-no-t.md)
-_Context: Spain, Socialist Workers' Party, election, Mariano Rajoy, Prime Minister, People's Party, Pedro Sanchez_
+_Context: People's Party, Spain, Socialist Workers' Party, election, Pedro Sanchez, Prime Minister, Mariano Rajoy_
 
 ##### Prime Minister of Georgia
 ### [ Prime Minister of Georgia Irakli Garibashvili unexpectedly announces his resignation, without giving any specific reason for his decision. ](/news/2015/12/23/prime-minister-of-georgia-irakli-garibashvili-unexpectedly-announces-his-resignation-without-giving-any-specific-reason-for-his-decision.md)
 _Context: Prime Minister of Georgia, Irakli Garibashvili_
 
-##### U.S.
+##### United States
 ### [ The United States National Center for Health Statistics reports the rate of twin births has hit an historic high. Researchers say the increase in twin births may be affected by changes in reproductive technology, including in vitro fertilization, and by more women giving birth later in life--a time when the occurrence of twins is higher. ](/news/2015/12/23/the-united-states-national-center-for-health-statistics-reports-the-rate-of-twin-births-has-hit-an-historic-high-researchers-say-the-incre.md)
 A new government report released by the Centers for Disease Control and Prevention&#039;s National Center for Health Statistics shows that the rate of twin births has hit an historic high.
 

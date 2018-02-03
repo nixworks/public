@@ -13,7 +13,7 @@ A car bomb targeting a military vehicle in southeast Turkey on Sunday killed an 
 
 ##### Garissa
 ### [A policeman is killed and 11 others are injured in a grenade attack on a church in the Kenyan town of Garissa near the border with Somalia. ](/news/2012/11/4/a-policeman-is-killed-and-11-others-are-injured-in-a-grenade-attack-on-a-church-in-the-kenyan-town-of-garissa-near-the-border-with-somalia.md)
-_Context: Somalia, Garissa_
+_Context: Garissa, Somalia_
 
 ##### Iranian Revolutionary guards
 ### [Iran's Revolutionary Guard Corps establish and inaugurate a new naval base on the Strait of Hormuz, near Bandar Lengeh. ](/news/2012/11/4/iran-s-revolutionary-guard-corps-establish-and-inaugurate-a-new-naval-base-on-the-strait-of-hormuz-near-bandar-lengeh.md)
@@ -25,11 +25,11 @@ The Oscar-winning film-maker joins leading arts figures to write a letter protes
 
 ##### Abdi Farah Shirdon
 ### [Somalia's Prime Minister Abdi Farah Shirdon, who lives in Kenya, appoints a new 10-member cabinet, including Somalia's first female Foreign Minister, Fowsiyo Yussuf Haji Aadan. ](/news/2012/11/4/somalia-s-prime-minister-abdi-farah-shirdon-who-lives-in-kenya-appoints-a-new-10-member-cabinet-including-somalia-s-first-female-foreign.md)
-_Context: Fowsiyo Yussuf Haji Aadan, Abdi Farah Shirdon_
+_Context: Abdi Farah Shirdon, Fowsiyo Yussuf Haji Aadan_
 
 ##### Tawadros
 ### [Bishop Tawadros is selected as the new 118th pope of the Coptic Orthodox Church. ](/news/2012/11/4/bishop-tawadros-is-selected-as-the-new-118th-pope-of-the-coptic-orthodox-church.md)
-_Context: 118th, Coptic Orthodox Church, Coptic Christian pope, Tawadros_
+_Context: 118th, Tawadros, Coptic Christian pope, Coptic Orthodox Church_
 
 ## [Previous Day...](/news/2012/11/3/index.md)
 

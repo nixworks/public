@@ -9,19 +9,19 @@ After five years of futile efforts to find or confirm sightings of any Caribbean
 
 ##### Japan
 ### [ Japan and North Korea resume bilateral talks, last held in September 2007. ](/news/2008/06/6/japan-and-north-korea-resume-bilateral-talks-last-held-in-september-2007.md)
-_Context: resume bilateral talks, Japan, North Korea_
+_Context: resume bilateral talks, North Korea, Japan_
 
 ##### Colombia
 ### [ Colombia and Ecuador restore relations following the Andean diplomatic crisis in March. ](/news/2008/06/6/colombia-and-ecuador-restore-relations-following-the-andean-diplomatic-crisis-in-march.md)
-_Context: restore relations, Ecuador, Colombia, Andean diplomatic crisis_
+_Context: Andean diplomatic crisis, restore relations, Ecuador, Colombia_
 
 ##### Venezuela
 ### [ A Venezuelan National Guard sergeant and 3 more people are captured in the Colombian Department of Vichada with 40,000 AK-47 rounds for the rebel group FARC. ](/news/2008/06/6/a-venezuelan-national-guard-sergeant-and-3-more-people-are-captured-in-the-colombian-department-of-vichada-with-40-000-ak-47-rounds-for-the.md)
-_Context: Colombia, Venezuela, AK-47s, National Guard, FARC, Department of Vichada_
+_Context: National Guard, FARC, Department of Vichada, AK-47s, Colombia, Venezuela_
 
 ##### Diet
 ### [ The Diet of Japan recognizes the Ainu as an indigenous people for the first time. ](/news/2008/06/6/the-diet-of-japan-recognizes-the-ainu-as-an-indigenous-people-for-the-first-time.md)
-_Context: indigenous, Ainu, Diet_
+_Context: Diet, Ainu, indigenous_
 
 ##### opposition party
 ### [ The Yulia Tymoshenko Bloc-Our Ukraine Bloc coalition loses its majority in Ukraine's Verkhovna Rada after two deputies quit. ](/news/2008/06/6/the-yulia-tymoshenko-bloc-our-ukraine-bloc-coalition-loses-its-majority-in-ukraine-s-verkhovna-rada-after-two-deputies-quit.md)
@@ -29,7 +29,7 @@ _Context: parliament, Our Ukraine Bloc, opposition party_
 
 ##### America's Climate Security Act of 2007
 ### [ The America's Climate Security Act of 2007, a greenhouse gas emissions reduction bill, stalls in the U.S. Senate after a 48-36 vote fails to invoke cloture on a Republican filibuster. Presidential candidates John McCain and Barack Obama were among six senators absent from the vote who expressed support for the bill. ](/news/2008/06/6/the-america-s-climate-security-act-of-2007-a-greenhouse-gas-emissions-reduction-bill-stalls-in-the-u-s-senate-after-a-48-36-vote-fails-t.md)
-_Context: Republican, 2008, America's Climate Security Act of 2007, Barack Obama, filibuster, cloture, John McCain, United States Senate_
+_Context: Republican, 2008, filibuster, United States Senate, Barack Obama, cloture, America's Climate Security Act of 2007, John McCain_
 
 ##### Colombo
 ### [ A rush-hour explosion targeting a bus in Colombo, Sri Lanka kills at least 21 people and injures 80. ](/news/2008/06/6/a-rush-hour-explosion-targeting-a-bus-in-colombo-sri-lanka-kills-at-least-21-people-and-injures-80.md)

@@ -5,15 +5,15 @@ Formats: [HTML](2016/07/31/index.html)  [JSON](2016/07/31/index.json)  [XML](201
 
 ##### Iraqi Civil War (2014-present)
 ### [Islamic State militants attack two gas facilities northwest of Kirkuk in northern Iraq, killing at least five people and wounding six policemen. Three assailants detonated their explosive vests and a fourth was killed in clash with security forces. ](/news/2016/07/31/islamic-state-militants-attack-two-gas-facilities-northwest-of-kirkuk-in-northern-iraq-killing-at-least-five-people-and-wounding-six-police.md)
-_Context: Iraqi Civil War (2014-present), Kirkuk, explosive vests, Iraq, ISIL_
+_Context: explosive vests, ISIL, Kirkuk, Iraqi Civil War (2014-present), Iraq_
 
 ##### War in Somalia (2009-present)
 ### [An Al-Shabaab attack on the Central Investigations Department kills at least nine people. ](/news/2016/07/31/an-al-shabaab-attack-on-the-central-investigations-department-kills-at-least-nine-people.md)
-_Context: War in Somalia (2009-present), Al-Shabaab_
+_Context: Al-Shabaab, War in Somalia (2009-present)_
 
 ##### 2016 Yerevan hostage crisis
 ### [A two-week standoff comes to an end in Yerevan, Armenia, after the remaining gunmen holed up in a police station surrender to police. The National Security Service says "twenty terrorists have been arrested" following the "complete liberation" of the police compound. ](/news/2016/07/31/a-two-week-standoff-comes-to-an-end-in-yerevan-armenia-after-the-remaining-gunmen-holed-up-in-a-police-station-surrender-to-police-the-na.md)
-_Context: Yerevan, National Security Service, 2016 Yerevan hostage crisis, Armenia, police_
+_Context: Armenia, National Security Service, Yerevan, 2016 Yerevan hostage crisis, police_
 
 ##### Typhoon Nida (2016) 
 ### [Hong Kong braces for the storm. ](/news/2016/07/31/hong-kong-braces-for-the-storm.md)

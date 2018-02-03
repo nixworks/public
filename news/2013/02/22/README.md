@@ -13,7 +13,7 @@ _Context: Islamist, Chad, Mali_
 
 ##### Bangladesh
 ### [At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/at-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md)
-_Context: police officers, Islamists, Bangladesh_
+_Context: Bangladesh, Islamists, police officers_
 
 ##### Moody's Investors Service
 ### [For the first time ever, Moody's Investors Service downgrades the United Kingdom's bond credit rating from AAA to AA1. ](/news/2013/02/22/for-the-first-time-ever-moody-s-investors-service-downgrades-the-united-kingdom-s-bond-credit-rating-from-aaa-to-aa1.md)
@@ -29,7 +29,7 @@ U.S. health regulators approved a new drug made by Swiss drugmaker Roche Holding
 
 ##### Shinzo Abe
 ### [Shinzo Abe, the Prime Minister of Japan, meets with the President of the United States Barack Obama at the White House to discuss trade, economic, and security issues including North Korea and the Senkaku Islands dispute with China. ](/news/2013/02/22/shinzo-abe-the-prime-minister-of-japan-meets-with-the-president-of-the-united-states-barack-obama-at-the-white-house-to-discuss-trade-eco.md)
-_Context: Japan, U.S., North Korea, U.S. President, Chinese, Barack Obama, Prime Minister of Japan, White House, Senkaku Islands dispute, Shinzo Abe_
+_Context: United States, Barack Obama, U.S. President, Senkaku Islands dispute, White House, Prime Minister of Japan, Japan, Shinzo Abe, North Korea, China_
 
 ##### North Korea
 ### [North Korea announces plans to allow foreign residents mobile access to the Internet. ](/news/2013/02/22/north-korea-announces-plans-to-allow-foreign-residents-mobile-access-to-the-internet.md)
@@ -37,9 +37,9 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Japan
 ### [Japan vows to continue its whale hunting despite pressure from environmentalist group Sea Shepherd. ](/news/2013/02/22/japan-vows-to-continue-its-whale-hunting-despite-pressure-from-environmentalist-group-sea-shepherd.md)
-_Context: whaling, Japan, environmentalist, Sea Shepherd_
+_Context: Sea Shepherd, environmentalist, whaling, Japan_
 
-##### U.S.
+##### United States
 ### [The United States Justice Department joins a lawsuit against cyclist Lance Armstrong for allegedly defrauding the United States Postal Service by using money from it to buy performance-enhancing drugs. ](/news/2013/02/22/the-united-states-justice-department-joins-a-lawsuit-against-cyclist-lance-armstrong-for-allegedly-defrauding-the-united-states-postal-servi.md)
 Lance Armstrong fortune in jeopardy after Justice Department backs Landis in whistleblower suit.
 

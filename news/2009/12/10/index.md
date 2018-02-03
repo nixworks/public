@@ -25,7 +25,7 @@ Egypt has begun building an underground wall up to 100ft deep along its border w
 
 ##### Spanish grammar
 ### [ New 4,000-page Spanish grammar guidelines, produced by the Spanish Royal Academy and 21 organizations in Spanish-speaking countries, are unveiled. ](/news/2009/12/10/new-4-000-page-spanish-grammar-guidelines-produced-by-the-spanish-royal-academy-and-21-organizations-in-spanish-speaking-countries-are-un.md)
-_Context: Spanish grammar, Spanish Royal Academy, Spanish-speaking countries_
+_Context: Spanish Royal Academy, Spanish-speaking countries, Spanish grammar_
 
 ##### India
 ### [ India announces it is to create a new state, Telangana, out of Andhra Pradesh, with some officials resigning in protest. ](/news/2009/12/10/india-announces-it-is-to-create-a-new-state-telangana-out-of-andhra-pradesh-with-some-officials-resigning-in-protest.md)
@@ -33,11 +33,11 @@ India will carve a newstate out of southern Andhra Pradesh, home to several majo
 
 ##### Agusan del Sur
 ### [ 18 hostages are released after at least 65 people are kidnapped by gunmen in Agusan del Sur, Mindanao, the Philippines. ](/news/2009/12/10/18-hostages-are-released-after-at-least-65-people-are-kidnapped-by-gunmen-in-agusan-del-sur-mindanao-the-philippines.md)
-_Context: Mindanao, Philippines, Agusan del Sur_
+_Context: Philippines, Agusan del Sur, Mindanao_
 
 ##### RSM-56 Bulava
 ### [ A failed launch of an intercontinental missile RSM-56 Bulava by Russia is reported to be the cause of the mysterious spiral light seen over Northern Norway yesterday. ](/news/2009/12/10/a-failed-launch-of-an-intercontinental-missile-rsm-56-bulava-by-russia-is-reported-to-be-the-cause-of-the-mysterious-spiral-light-seen-over.md)
-_Context: Northern Norway, mysterious spiral light, Russia, RSM-56 Bulava_
+_Context: Russia, RSM-56 Bulava, mysterious spiral light, Northern Norway_
 
 ##### Barack Obama
 ### [ U.S. President Barack Obama accepts the 2009 Nobel Peace Prize in Oslo, Norway. ](/news/2009/12/10/u-s-president-barack-obama-accepts-the-2009-nobel-peace-prize-in-oslo-norway.md)

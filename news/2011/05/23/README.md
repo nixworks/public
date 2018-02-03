@@ -13,19 +13,19 @@ At least six people killed as forces loyal to president battle his opponents a d
 
 ##### soldiers
 ### [One Australian Army soldier is killed and five others wounded following two bomb explosions in Afghanistan; the total number of Australian soldiers killed in the Afghan conflict now stands at 24. ](/news/2011/05/23/one-australian-army-soldier-is-killed-and-five-others-wounded-following-two-bomb-explosions-in-afghanistan-the-total-number-of-australian-s.md)
-_Context: soldiers, Afghanistan, War in Afghanistan_
+_Context: Afghanistan, soldiers, War in Afghanistan_
 
 ##### Church of Scotland
 ### [The Church of Scotland votes to allow gay men and lesbians to become ministers. ](/news/2011/05/23/the-church-of-scotland-votes-to-allow-gay-men-and-lesbians-to-become-ministers.md)
-_Context: gay men, Church of Scotland, lesbian_
+_Context: gay men, lesbian, Church of Scotland_
 
 ##### Maritime Union of Australia
 ### [The Maritime Union of Australia commences industrial action at cargo terminals at Melbourne, Sydney and Fremantle, affecting half of Australia's maritime trade. ](/news/2011/05/23/the-maritime-union-of-australia-commences-industrial-action-at-cargo-terminals-at-melbourne-sydney-and-fremantle-affecting-half-of-austral.md)
-_Context: Maritime Union of Australia, Melbourne, Australia, industrial action, Fremantle, Sydney_
+_Context: Fremantle, Maritime Union of Australia, Melbourne, Sydney, Australia, industrial action_
 
 ##### Steve Ballmer
 ### [Steve Ballmer, the Chief Executive Officer of Microsoft, promises that Windows 8 will be on the market in 2012. ](/news/2011/05/23/steve-ballmer-the-chief-executive-officer-of-microsoft-promises-that-windows-8-will-be-on-the-market-in-2012.md)
-_Context: Windows 8, Chief Executive Officer, Steve Ballmer, Microsoft_
+_Context: Chief Executive Officer, Microsoft, Steve Ballmer, Windows 8_
 
 ##### Iceland
 ### [Iceland's main airport remains closed following the worst eruption of the Grimsvotn volcano since 1873, with the ash cloud starting to spread towards Europe. ](/news/2011/05/23/iceland-s-main-airport-remains-closed-following-the-worst-eruption-of-the-gramsvaptn-volcano-since-1873-with-the-ash-cloud-starting-to-spr.md)
@@ -33,7 +33,7 @@ Airlines began cancelling flights to Britain late on Monday because of an ash cl
 
 ##### National Weather Service
 ### [The National Weather Service continues issuing tornado warnings for parts of the Central United States, including Arkansas, Oklahoma and Missouri. ](/news/2011/05/23/the-national-weather-service-continues-issuing-tornado-warnings-for-parts-of-the-central-united-states-including-arkansas-oklahoma-and-mis.md)
-_Context: central, National Weather Service, Oklahoma, Arkansas, Missouri_
+_Context: Arkansas, Oklahoma, central, Missouri, National Weather Service_
 
 ##### U.S. President
 ### [U.S. President Barack Obama addresses an audience at College Green in Dublin, speaking of strong ties between the United States and Ireland. ](/news/2011/05/23/u-s-president-barack-obama-addresses-an-audience-at-college-green-in-dublin-speaking-of-strong-ties-between-the-united-states-and-ireland.md)
@@ -41,15 +41,15 @@ A number of Irish artists including Jedward and Westlife played to an estimated 
 
 ##### MP
 ### [British MP John Hemming uses parliamentary privilege to identify a married footballer named on Twitter as having an injunction over an alleged affair as being Ryan Giggs. ](/news/2011/05/23/british-mp-john-hemming-uses-parliamentary-privilege-to-identify-a-married-footballer-named-on-twitter-as-having-an-injunction-over-an-alleg.md)
-_Context: MP, John Hemming, parliamentary privilege, injunction over an alleged affair, Twitter, Ryan Giggs_
+_Context: injunction over an alleged affair, John Hemming, MP, Ryan Giggs, Twitter, parliamentary privilege_
 
 ##### China
 ### [The People's Republic of China detains 300 Tibetan monks for "legal education" after a monk sets himself on fire. ](/news/2011/05/23/the-people-s-republic-of-china-detains-300-tibetan-monks-for-legal-education-after-a-monk-sets-himself-on-fire.md)
-_Context: China, sets herself alight, Tibet_
+_Context: sets herself alight, China, Tibet_
 
 ##### Palestine
 ### [Palestinian Prime Minister Salam Fayyad suffers a heart attack and undergoes surgery during a trip to the United States to attend his son's graduation. ](/news/2011/05/23/palestinian-prime-minister-salam-fayyad-suffers-a-heart-attack-and-undergoes-surgery-during-a-trip-to-the-united-states-to-attend-his-son-s.md)
-_Context: Salam Fayyad, Prime Minister, Palestine, U.S._
+_Context: United States, Prime Minister, Salam Fayyad, Palestine_
 
 ## [Previous Day...](/news/2011/05/22/index.md)
 

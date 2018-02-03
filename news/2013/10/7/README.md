@@ -13,7 +13,7 @@ Powerful Typhoon Fitow hits eastern China after triggering an evacuation of hund
 
 ##### Mulatu Teshome
 ### [Mulatu Teshome succeeds Girma Wolde-Giorgis as President of Ethiopia. ](/news/2013/10/7/mulatu-teshome-succeeds-girma-wolde-giorgis-as-president-of-ethiopia.md)
-_Context: President of Ethiopia, Girma Wolde-Giorgis, Mulatu Teshome_
+_Context: Mulatu Teshome, Girma Wolde-Giorgis, President of Ethiopia_
 
 ##### James Rothman
 ### [American scientists James Rothman and Randy Schekman and German scientist Thomas C. Sudhof win the 2013 Nobel Prize in Physiology or Medicine for their work on transport systems in cells. ](/news/2013/10/7/american-scientists-james-rothman-and-randy-schekman-and-german-scientist-thomas-c-sa1-4dhof-win-the-2013-nobel-prize-in-physiology-or-medici.md)

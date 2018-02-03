@@ -21,7 +21,7 @@ Chrysler said Wednesday that it would recall 870,000 SUVs to fix a defect in the
 
 ##### President
 ### [The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. ](/news/2014/04/2/the-president-of-chile-michelle-bachelet-declares-the-northern-part-of-chile-to-be-a-disaster-zone-including-the-regions-of-arica-y-parinaco.md)
-_Context: Tarapaca, President, Michelle Bachelet, Chile, Arica y Parinacota_
+_Context: Chile, President, Arica y Parinacota, Tarapaca, Michelle Bachelet_
 
 ##### High Court of Australia
 ### [The High Court of Australia recognises a neutral third gender that is neither male nor female. ](/news/2014/04/2/the-high-court-of-australia-recognises-a-neutral-third-gender-that-is-neither-male-nor-female.md)
@@ -33,7 +33,7 @@ The 5 to 4 decision
 
 ##### San Francisco
 ### [More than 100 mostly elderly residents of San Francisco's Chinatown are reported as victims of fraud from a travel agency. ](/news/2014/04/2/more-than-100-mostly-elderly-residents-of-san-francisco-s-chinatown-are-reported-as-victims-of-fraud-from-a-travel-agency.md)
-_Context: Chinatown, San Francisco_
+_Context: San Francisco, Chinatown_
 
 ##### Leland Yee
 ### [California State Senator Leland Yee's attorney Paul DeMeester is replaced by former San Francisco assistant district attorney Jim Lassart. ](/news/2014/04/2/california-state-senator-leland-yee-s-attorney-paul-demeester-is-replaced-by-former-san-francisco-assistant-district-attorney-jim-lassart.md)

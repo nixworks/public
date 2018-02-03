@@ -9,11 +9,11 @@ Islamic State militants ambushed a police convoy in Egypt’s Sinai Peninsula on
 
 ##### Syrian Civil War
 ### [Russia sends 175 demining combat engineers to defuse mines in Deir ez-Zor Governorate. ](/news/2017/09/11/russia-sends-175-demining-combat-engineers-to-defuse-mines-in-deir-ez-zor-governorate.md)
-_Context: Deir ez-Zor Governorate, Siege of Deir ez-Zor (2014-17), demining, Syrian Civil War, combat engineers, Russia_
+_Context: demining, Siege of Deir ez-Zor (2014-17), Russia, Syrian Civil War, Deir ez-Zor Governorate, combat engineers_
 
 ##### Monkey selfie copyright dispute
 ### [PETA and David Slater settle the monkey selfie copyright dispute. ](/news/2017/09/11/peta-and-david-slater-settle-the-monkey-selfie-copyright-dispute.md)
-_Context: Monkey selfie copyright dispute, PETA, monkey selfie copyright dispute_
+_Context: monkey selfie copyright dispute, Monkey selfie copyright dispute, PETA_
 
 ##### Rail accidents in 2017
 ### [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md)
@@ -21,7 +21,7 @@ Two trains collided on Monday in a station in central Switzerland, Swiss police 
 
 ##### Aurora 17
 ### [Sweden starts its largest military exercise in over 20 years. Nearly 20,000 troops are set to participate, including a contingent of over 1,000 U.S. soldiers. The drills will take place on and around the island of Gotland, including soldiers from NATO countries. ](/news/2017/09/11/sweden-starts-its-largest-military-exercise-in-over-20-years-nearly-20-000-troops-are-set-to-participate-including-a-contingent-of-over-1.md)
-_Context: United States soldier, NATO, Sweden, Gotland, Aurora 17_
+_Context: United States soldier, Gotland, NATO, Sweden, Aurora 17_
 
 ##### 2017 North Korea crisis
 ### [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md)
@@ -41,11 +41,11 @@ California on Monday sued the Trump administration, challenging as unconstitutio
 
 ##### Politics of the Philippines
 ### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
-_Context: Vitaliano Aguirre, Justice, Risa Hontiveros, senators, lawsuit, Philippines, Politics of the Philippines_
+_Context: Vitaliano Aguirre, Politics of the Philippines, lawsuit, Justice, Philippines, Risa Hontiveros, senators_
 
 ##### Catalan independence
 ### [Around a million people rally in Barcelona to mark the National Day of Catalonia and to support the upcoming independence referendum on 1 October. ](/news/2017/09/11/around-a-million-people-rally-in-barcelona-to-mark-the-national-day-of-catalonia-and-to-support-the-upcoming-independence-referendum-on-1-oc.md)
-_Context: National Day of Catalonia, Catalan independence, secession, Barcelona_
+_Context: Catalan independence, secession, Barcelona, National Day of Catalonia_
 
 ## [Previous Day...](/news/2017/09/10/index.md)
 

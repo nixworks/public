@@ -9,7 +9,7 @@ _Context: Gulf Cartel, Jorge Eduardo Costilla Sanchez, Mario Cardenas Guillen_
 
 ##### FARC
 ### [The peace talks between FARC and the Colombian government will take place in October in Norway and then in Cuba. ](/news/2012/09/4/the-peace-talks-between-farc-and-the-colombian-government-will-take-place-in-october-in-norway-and-then-in-cuba.md)
-_Context: Cuba, FARC_
+_Context: FARC, Cuba_
 
 ##### Kenyan navy
 ### [The Kenyan navy shells the Somali port town of Kismayo, the last stronghold of Al-Shabaab militants, in preparation for an African Union-led attack by ground forces. ](/news/2012/09/4/the-kenyan-navy-shells-the-somali-port-town-of-kismayo-the-last-stronghold-of-al-shabaab-militants-in-preparation-for-an-african-union-led.md)
@@ -21,7 +21,7 @@ A suicide bomber attacks a funeral in the eastern Afghan province of Nangarhar, 
 
 ##### United Nations Refugee Agency
 ### [The United Nations Refugee Agency says 100,000 Syrians fled to another country during the month of August, the highest monthly number yet in the 18-month conflict. ](/news/2012/09/4/the-united-nations-refugee-agency-says-100-000-syrians-fled-to-another-country-during-the-month-of-august-the-highest-monthly-number-yet-in.md)
-_Context: United Nations Refugee Agency, Syrian refugees_
+_Context: Syrian refugees, United Nations Refugee Agency_
 
 ##### Airbus
 ### [Airbus expects a worldwide total demand for 28,200 civil aircraft by the year 2031, more than doubling today's fleet in operation. ](/news/2012/09/4/airbus-expects-a-worldwide-total-demand-for-28-200-civil-aircraft-by-the-year-2031-more-than-doubling-today-s-fleet-in-operation.md)
@@ -29,15 +29,15 @@ _Context: Airbus, civil aircraft_
 
 ##### German
 ### [Cabin crew for the German airline Lufthansa go on strike causing disruption to hundreds of flights. ](/news/2012/09/4/cabin-crew-for-the-german-airline-lufthansa-go-on-strike-causing-disruption-to-hundreds-of-flights.md)
-_Context: German, Lufthansa_
+_Context: Lufthansa, German_
 
 ##### McDonald's restaurants
 ### [McDonald's plans to open two fully vegetarian fast food restaurants at the pilgrimage sites of Vaishno Devi and Amritsar, north India. ](/news/2012/09/4/mcdonald-s-plans-to-open-two-fully-vegetarian-fast-food-restaurants-at-the-pilgrimage-sites-of-vaishno-devi-and-amritsar-north-india.md)
-_Context: Vaishno Devi, Amritsar, vegetarian, McDonald's restaurants_
+_Context: McDonald's restaurants, vegetarian, Amritsar, Vaishno Devi_
 
 ##### Marrakesh
 ### [A passenger bus traveling between Marrakesh and Ouarzazate crashes in a ravine in southern Morocco, killing at least 42 people and injuring up to 25 others. ](/news/2012/09/4/a-passenger-bus-traveling-between-marrakesh-and-ouarzazate-crashes-in-a-ravine-in-southern-morocco-killing-at-least-42-people-and-injuring.md)
-_Context: Ouarzazate, Marrakesh, Morocco_
+_Context: Marrakesh, Morocco, Ouarzazate_
 
 ##### United States Secretary of State
 ### [U.S. Secretary of State Clinton meets China's Foreign Minister Yang in Beijing. ](/news/2012/09/4/u-s-secretary-of-state-clinton-meets-china-s-foreign-minister-yang-in-beijing.md)
@@ -51,7 +51,7 @@ _Context: won, North Korea_
 
 ##### Egypt
 ### [Egypt's former culture minister Farouk Hosny is to face corruption charges. ](/news/2012/09/4/egypt-s-former-culture-minister-farouk-hosny-is-to-face-corruption-charges.md)
-_Context: Egypt, Farouk Hosny_
+_Context: Farouk Hosny, Egypt_
 
 ##### Camden County, New Jersey
 ### [Osvaldo Rivera is the suspect jailed in Camden County, New Jersey for the stabbing to death of a 6-year-old boy and the attempted murder of the boy's 12-year-old sister. Authorities say he was high on PCP-laced marijuana. ](/news/2012/09/4/osvaldo-rivera-is-the-suspect-jailed-in-camden-county-new-jersey-for-the-stabbing-to-death-of-a-6-year-old-boy-and-the-attempted-murder-of.md)
@@ -67,9 +67,9 @@ Group publishes Unique IDs of 1 million devices online, which they claim were be
 
 ##### Bahrain
 ### [A court in Bahrain upholds the sentences of Arab Spring opposition figures condemned for plotting to overthrow the Western-allied government. Eight of the twenty opponents are confirmed imprisoned for life. ](/news/2012/09/4/a-court-in-bahrain-upholds-the-sentences-of-arab-spring-opposition-figures-condemned-for-plotting-to-overthrow-the-western-allied-government.md)
-_Context: government, life in prison, Bahraini uprising (2011-present), Arab Spring, Western-allied, Bahrain_
+_Context: Bahrain, Bahraini uprising (2011-present), life in prison, government, Arab Spring, Western-allied_
 
-##### U.S. Justice Department
+##### DoJ
 ### [The United States Department of Justice files papers in court documenting BP's "gross negligence and willful misconduct" over the April 2010 oil spill in the Gulf of Mexico. ](/news/2012/09/4/the-united-states-department-of-justice-files-papers-in-court-documenting-bp-s-gross-negligence-and-willful-misconduct-over-the-april-2010.md)
 The U.S. Justice Department is ramping up its rhetoric against BP PLC for the massive 2010 oil spill in the Gulf of Mexico, describing in new court papers examples of what it calls &quot;gross negligence and willful misconduct.&quot;
 
@@ -83,7 +83,7 @@ All the moves, the sackings, the promotions, rumours and analysis as Prime Minis
 
 ##### Reuters
 ### [Reuters calls Xi Jinping China's "next leader". Hu Chunhua reportedly misses a promotion to the Politburo Standing Committee in an expected power transition at or around the 18th Congress of the Communist Party of China. ](/news/2012/09/4/reuters-calls-xi-jinping-china-s-next-leader-hu-chunhua-reportedly-misses-a-promotion-to-the-politburo-standing-committee-in-an-expected.md)
-_Context: Xi Jinping, Politburo Standing Committee, Communist Party of China, Hu Chunhua, expected power transition, Reuters, 18th National Congress, Politburo_
+_Context: expected power transition, Xi Jinping, Politburo Standing Committee, 18th National Congress, Reuters, Hu Chunhua, Politburo, Communist Party of China_
 
 ##### Enrique Pena Nieto
 ### [President-elect Pena Nieto of Mexico names his "transition team", ahead of his cabinet and December 1st inauguration. ](/news/2012/09/4/president-elect-pea-a-nieto-of-mexico-names-his-transition-team-ahead-of-his-cabinet-and-december-1st-inauguration.md)

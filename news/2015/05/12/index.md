@@ -13,7 +13,7 @@ _Context: Uber, Philippines_
 
 ##### Verizon Communications
 ### [Verizon Communications Inc. announces that it will buy AOL Inc. for US$4.4 billion. ](/news/2015/05/12/verizon-communications-inc-announces-that-it-will-buy-aol-inc-for-us-4-4-billion.md)
-_Context: Verizon Communications, AOL Inc._
+_Context: AOL Inc., Verizon Communications_
 
 ##### India
 ### [Bus drivers in the Indian city of Delhi call off a strike to protest the murder of a driver after the state government invokes the Essential Services Maintenance Act (ESMA). ](/news/2015/05/12/bus-drivers-in-the-indian-city-of-delhi-call-off-a-strike-to-protest-the-murder-of-a-driver-after-the-state-government-invokes-the-essential.md)
@@ -25,7 +25,7 @@ Many people are said to have been injured after a blast on a local train in Kolk
 
 ##### Typhoon Noul
 ### [Typhoon Noul arrives at the southern Japanese islands at Amami Oshima before moving through Kyushu and then Honshu. ](/news/2015/05/12/typhoon-noul-arrives-at-the-southern-japanese-islands-at-amami-oshima-before-moving-through-kyushu-and-then-honshu.md)
-_Context: Kyushu, Typhoon Noul, Japan, Amami Oshima, Honshu Island_
+_Context: Japan, Typhoon Noul, Kyushu, Amami Oshima, Honshu Island_
 
 ##### yesterday's earthquake
 ### [A magnitude 7.3 earthquake strikes the town of Namche Bazaar, Nepal, near the Tibetan border and the base camp for Mount Everest. ](/news/2015/05/12/a-magnitude-7-3-earthquake-strikes-the-town-of-namche-bazaar-nepal-near-the-tibetan-border-and-the-base-camp-for-mount-everest.md)
@@ -33,7 +33,7 @@ Dozens die as a new earthquake of magnitude 7.3 strikes Nepal, two weeks after a
 
 ##### 2015 Philadelphia train derailment
 ### [An Amtrak train derails in the Port Richmond neighborhood of the American city of Philadelphia causing cars to roll over. At least 5 people have been killed, 50 people are injured in the derailment.](/news/2015/05/12/an-amtrak-train-derails-in-the-port-richmond-neighborhood-of-the-american-city-of-philadelphia-causing-cars-to-roll-over-at-least-5-people.md)
-_Context: cars, Amtrak, Philadelphia, Port Richmond, 2015 Philadelphia train derailment_
+_Context: Amtrak, Philadelphia, cars, 2015 Philadelphia train derailment, Port Richmond_
 
 ##### United States Secretary of State
 ### [United States Secretary of State John Kerry will meet President of Russia Vladimir Putin during his first visit to Russia since the Ukraine crisis began. ](/news/2015/05/12/united-states-secretary-of-state-john-kerry-will-meet-president-of-russia-vladimir-putin-during-his-first-visit-to-russia-since-the-ukraine.md)
@@ -53,7 +53,7 @@ _Context: Madison, Wisconsin, Shooting of Tony Robinson, Madison Police Departme
 
 ##### Russia
 ### [Russia delays the return of three astronauts from the International Space Station due to a recent failure of a supply mission. ](/news/2015/05/12/russia-delays-the-return-of-three-astronauts-from-the-international-space-station-due-to-a-recent-failure-of-a-supply-mission.md)
-_Context: International Space Station, Russia_
+_Context: Russia, International Space Station_
 
 ## [Previous Day...](/news/2015/05/11/index.md)
 

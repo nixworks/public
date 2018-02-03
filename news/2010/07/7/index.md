@@ -33,7 +33,7 @@ A complex in Norway housing rejected asylum seekers was burned to the ground fol
 
 ##### British
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: British, Afghanistan, U.S., Sangin_
+_Context: Afghanistan, Sangin, British, United States_
 
 ##### Bruno Fernandes de Souza
 ### [A judge orders the arrest of Bruno Fernandes de Souza, one of Brazil's top footballers, in connection with the disappearance of his former mistress. ](/news/2010/07/7/a-judge-orders-the-arrest-of-bruno-fernandes-de-souza-one-of-brazil-s-top-footballers-in-connection-with-the-disappearance-of-his-former-m.md)
@@ -61,7 +61,7 @@ Ex-ruler of Panama sentenced to seven years in prison for laundering drug money.
 
 ##### Constitutional Court of Turkey
 ### [The Constitutional Court of Turkey annuls key parts of government-backed constitutional reforms designed for possible European Union membership, rejecting opposition calls for the rest to be rejected as well and permitting the rest to be put to a national referendum in September. ](/news/2010/07/7/the-constitutional-court-of-turkey-annuls-key-parts-of-government-backed-constitutional-reforms-designed-for-possible-european-union-members.md)
-_Context: referendum, Constitutional Court of Turkey, European Union_
+_Context: European Union, Constitutional Court of Turkey, referendum_
 
 ##### Uri Brodsky
 ### [Israeli Uri Brodsky, suspected of assisting the assassination of Mahmoud al-Mabhouh in Dubai, is permitted to be extradited from Poland to Germany. ](/news/2010/07/7/israeli-uri-brodsky-suspected-of-assisting-the-assassination-of-mahmoud-al-mabhouh-in-dubai-is-permitted-to-be-extradited-from-poland-to-g.md)
@@ -69,7 +69,7 @@ An Israeli allegedly linked to the killing of a Hamas operative in Dubai can be 
 
 ##### Gaza Strip
 ### [Israel rejects as "failed to meet the criteria" the application of Fatima Sharif, the Gaza human rights attorney who hoped to study for a master's degree in human rights and democracy at Birzeit University in the Israeli-occupied West Bank. ](/news/2010/07/7/israel-rejects-as-failed-to-meet-the-criteria-the-application-of-fatima-sharif-the-gaza-human-rights-attorney-who-hoped-to-study-for-a-ma.md)
-_Context: West Bank, human rights, Gaza Strip, Birzeit University, master's degree_
+_Context: Gaza Strip, Birzeit University, human rights, West Bank, master's degree_
 
 ##### Cuba
 ### [Cuba releases 52 political prisoners in its aim to improve its human rights record, the largest number the country has released for decades. ](/news/2010/07/7/cuba-releases-52-political-prisoners-in-its-aim-to-improve-its-human-rights-record-the-largest-number-the-country-has-released-for-decades.md)
@@ -93,7 +93,7 @@ Human Rights Watch calls on Iran to stop the execution by stoning of a woman con
 
 ##### France
 ### [French prosecutors launch an investigation into alleged illegal campaign funding for French President Nicolas Sarkozy. ](/news/2010/07/7/french-prosecutors-launch-an-investigation-into-alleged-illegal-campaign-funding-for-french-president-nicolas-sarkozy.md)
-_Context: Nicolas Sarkozy, French President, France_
+_Context: France, French President, Nicolas Sarkozy_
 
 ##### New Zealand
 ### [New Zealand environmental activist Peter Bethune is given a two year suspended sentence in a Tokyo District Court for his role in boarding a Japanese whaling ship. ](/news/2010/07/7/new-zealand-environmental-activist-peter-bethune-is-given-a-two-year-suspended-sentence-in-a-tokyo-district-court-for-his-role-in-boarding-a.md)
@@ -109,7 +109,7 @@ An undersea cable that brought high-speed net access to East Africa for the firs
 
 ##### Apple Inc.
 ### [Apple Inc. bans a developer from the iTunes Store for hacking the accounts of 400 users. ](/news/2010/07/7/apple-inc-bans-a-developer-from-the-itunes-store-for-hacking-the-accounts-of-400-users.md)
-_Context: iTunes Store, Apple Inc._
+_Context: Apple Inc., iTunes Store_
 
 ##### Blizzard Entertainment
 ### [Blizzard Entertainment announces it is to force people playing its World of Warcraft game to post under their real name. ](/news/2010/07/7/blizzard-entertainment-announces-it-is-to-force-people-playing-its-world-of-warcraft-game-to-post-under-their-real-name.md)
@@ -121,7 +121,7 @@ _Context: European Union_
 
 ##### FIFA World Cup 2010
 ### [Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world-cup-final.md)
-_Context: Netherlands, FIFA World Cup 2010, Germany, 2010 FIFA World Cup Final, third, Spain_
+_Context: 2010 FIFA World Cup Final, third, FIFA World Cup 2010, Spain, Germany, Netherlands_
 
 ## [Previous Day...](/news/2010/07/6/index.md)
 

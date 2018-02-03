@@ -9,7 +9,7 @@ A Libyan warplane from forces loyal to the internationally recognized government
 
 ##### Saudi Arabia
 ### [Two militants, one wearing a suicide vest, kill two Saudi Arabian border guards and a general near the border with Iraq. ](/news/2015/01/5/two-militants-one-wearing-a-suicide-vest-kill-two-saudi-arabian-border-guards-and-a-general-near-the-border-with-iraq.md)
-_Context: Iraq, Saudi Arabia_
+_Context: Saudi Arabia, Iraq_
 
 ##### police officers
 ### [Bangladeshi police report that two opposition Bangladesh Nationalist Party activists are shot dead in clashes with members of the ruling Awami League in the town of Natore on the first anniversary of disputed general election. ](/news/2015/01/5/bangladeshi-police-report-that-two-opposition-bangladesh-nationalist-party-activists-are-shot-dead-in-clashes-with-members-of-the-ruling-awa.md)
@@ -21,19 +21,19 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Czech
 ### [A Czech archaeological team discovers the tomb of formerly unknown Ancient Egyptian queen Khentakawess III who lived during the Fifth Dynasty. ](/news/2015/01/5/a-czech-archaeological-team-discovers-the-tomb-of-formerly-unknown-ancient-egyptian-queen-khentakawess-iii-who-lived-during-the-fifth-dynast.md)
-_Context: Khentakawess III, Fifth Dynasty, Czech, Ancient Egypt_
+_Context: Ancient Egypt, Khentakawess III, Fifth Dynasty, Czech_
 
 ##### Jesus
 ### [The site where Jesus may have been tried, prior to his crucifixion, opens to the public for the first time located under an abandoned prison building, called Kishle, that is part of the Tower of David Museum ground in the Old City of Jerusalem, Israel. ](/news/2015/01/5/the-site-where-jesus-may-have-been-tried-prior-to-his-crucifixion-opens-to-the-public-for-the-first-time-located-under-an-abandoned-prison.md)
-_Context: Israel, Jesus, Old City of Jerusalem, Tower of David Museum_
+_Context: Old City of Jerusalem, Jesus, Israel, Tower of David Museum_
 
-##### Chinese
+##### China
 ### [China relaxes controls over the export of rare earth elements after losing a case brought by the United States at the World Trade Organization. ](/news/2015/01/5/china-relaxes-controls-over-the-export-of-rare-earth-elements-after-losing-a-case-brought-by-the-united-states-at-the-world-trade-organizati.md)
-_Context: U.S., World Trade Organization, rare earth element, Chinese_
+_Context: World Trade Organization, United States, rare earth element, China_
 
 ##### Irish
 ### [Ireland becomes the first European nation to be allowed to export beef to the United States since the mad cow disease scare 15 years ago. ](/news/2015/01/5/ireland-becomes-the-first-european-nation-to-be-allowed-to-export-beef-to-the-united-states-since-the-mad-cow-disease-scare-15-years-ago.md)
-_Context: U.S., Europe, Irish, mad cow disease_
+_Context: mad cow disease, Irish, United States, Europe_
 
 ##### Nairobi
 ### [For the second day in a row a multi-story residential building in Nairobi, Kenya, collapses, this time an 8-story building, killing one person with eight people still missing. ](/news/2015/01/5/for-the-second-day-in-a-row-a-multi-story-residential-building-in-nairobi-kenya-collapses-this-time-an-8-story-building-killing-one-pers.md)
@@ -41,7 +41,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### avalanche
 ### [An avalanche near the Rettenbach glacier in the Austrian Alps, kills two prospects for the United States ski team, Ronnie Berlack and Bryce Astle. ](/news/2015/01/5/an-avalanche-near-the-rettenbach-glacier-in-the-austrian-alps-kills-two-prospects-for-the-united-states-ski-team-ronnie-berlack-and-bryce.md)
-_Context: Rettenbach glacier, Austrian Alps, U.S., avalanche, ski_
+_Context: ski, avalanche, Rettenbach glacier, United States, Austrian Alps_
 
 ##### Abu Dhabi
 ### [After being grounded in Abu Dhabi for over 12 hours with all passengers on board, Etihad Airways Flight 183 completes its flight to San Francisco International Airport. ](/news/2015/01/5/after-being-grounded-in-abu-dhabi-for-over-12-hours-with-all-passengers-on-board-etihad-airways-flight-183-completes-its-flight-to-san-fran.md)
@@ -61,9 +61,9 @@ Former Taiwanese president Chen Shui-bian is to be released from prison after be
 
 ##### anti-graft agency
 ### [The anti-graft body of the Communist Party of China detains Yang Weize, incumbent Party Secretary of Nanjing, the provincial capital of Jiangsu province, for investigation. ](/news/2015/01/5/the-anti-graft-body-of-the-communist-party-of-china-detains-yang-weize-incumbent-party-secretary-of-nanjing-the-provincial-capital-of-jian.md)
-_Context: Nanjing, anti-graft agency, Yang Weize, Jiangsu_
+_Context: Yang Weize, Nanjing, Jiangsu, anti-graft agency_
 
-##### U.S. Justice Department
+##### DoJ
 ### [The Justice Department charges two American citizens of Gambian descent with violating the Neutrality Act by helping to finance and lead the 2014 Gambian coup d'etat attempt. ](/news/2015/01/5/the-justice-department-charges-two-american-citizens-of-gambian-descent-with-violating-the-neutrality-act-by-helping-to-finance-and-lead-the.md)
 The two were accused in federal court of conspiracy to violate the Neutrality Act in connection with a botched attempt to depose the Gambian president.
 

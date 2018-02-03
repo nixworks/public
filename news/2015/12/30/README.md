@@ -9,7 +9,7 @@ A string of explosions has rocked the northeastern Syrian city of Kamishli, targ
 
 ##### 2015 Burundian unrest
 ### [Burundi's President, Pierre Nkurunziza, says Burundians will fight against any African Union peacekeepers sent into the country in response to the ongoing crisis, "everyone has to respect Burundian borders," Nkurunziza said. The African Union said this earlier this month it was ready to send 5,000 peacekeepers to protect civilians caught up in months of violence. ](/news/2015/12/30/burundi-s-president-pierre-nkurunziza-says-burundians-will-fight-against-any-african-union-peacekeepers-sent-into-the-country-in-response.md)
-_Context: African Union, Burundi, 2015 Burundian unrest, Pierre Nkurunziza_
+_Context: Pierre Nkurunziza, Burundi, African Union, 2015 Burundian unrest_
 
 ##### South China Sea disputes
 ### [The Philippines says it will join the Asian Infrastructure Investment Bank despite disputes between it and the bank's founder, China. ](/news/2015/12/30/the-philippines-says-it-will-join-the-asian-infrastructure-investment-bank-despite-disputes-between-it-and-the-bank-s-founder-china.md)
@@ -25,7 +25,7 @@ High winds caused by Storm Frank have resulted in long delays at Belfast airport
 
 ##### Iraqi Civil War (2014-present)
 ### [Iraq's Foreign Minister, Ibrahim al-Jaafari, renewed demands that Turkey fully withdraw its troops from northern Iraq, asserting that Turkey must respect Iraq's sovereignty or face potential military action. Last month the Turkish army mounted a big offensive invasion into Iraq's Kurdish territory including tanks and artillery without permission or even negotiation with the Iraqi government. ](/news/2015/12/30/iraq-s-foreign-minister-ibrahim-al-jaafari-renewed-demands-that-turkey-fully-withdraw-its-troops-from-northern-iraq-asserting-that-turkey.md)
-_Context: Foreign Minister, Turkish, Iraq, Ibrahim al-Jaafari, Iraq-Turkey relations, Iraqi Civil War (2014-present)_
+_Context: Foreign Minister, Iraq-Turkey relations, Turkish, Iraqi Civil War (2014-present), Ibrahim al-Jaafari, Iraq_
 
 ##### War on Terror
 ### [Belgium cancels New Year's Eve firework celebrations in Brussels amid fears of an Islamic terrorist attack in an unspecified European capital city. ](/news/2015/12/30/belgium-cancels-new-year-s-eve-firework-celebrations-in-brussels-amid-fears-of-an-islamic-terrorist-attack-in-an-unspecified-european-capita.md)
@@ -43,9 +43,9 @@ Two policewomen and eight soldiers alleged to have engaged in group sex while co
 ### [Voters in the Central African Republic are heading to the polls for the rescheduled parliamentary elections and the first round of the presidential election, where 30 candidates are running to replace Acting President Catherine Samba-Panza. The presidential runoff election is scheduled for 31 January 2016. The Central African Republic has been rocked by unrest since the March 2013 coup of president Francois Bozize by Seleka, a mostly Muslim alliance of anti-government groups. Thousands have died and about one million people have been displaced in the ongoing sectarian violence between Seleka and the Christian anti-balaka militia. The United Nations peacekeeping mission has promised a heavy security presence today. ](/news/2015/12/30/voters-in-the-central-african-republic-are-heading-to-the-polls-for-the-rescheduled-parliamentary-elections-and-the-first-round-of-the-presi.md)
 The turmoil and an upsurge of violence in the capital Bangui in September repeatedly forced authorities to delay the polls. More recently some have cast doubts on whether the election can be organised successfully.
 
-##### U.S.
+##### United States
 ### [The freak weather system responsible for heavy rain and tornadoes in the U.S., and high winds and rainfall in the British Isles, also has impacted the Arctic where the average winter temperature is normally around -20 F. Temperatures around the North Pole have surpassed the 32 F threshold for a brief moment, according to the U.S. National Oceanic and Atmospheric Administration's Ocean Prediction Center, which is 50 F-change higher than usual for December. ](/news/2015/12/30/the-freak-weather-system-responsible-for-heavy-rain-and-tornadoes-in-the-u-s-and-high-winds-and-rainfall-in-the-british-isles-also-has-im.md)
-_Context: British Isles, North Pole, Arctic, U.S., Ocean Prediction Center, U.S.  National Oceanic and Atmospheric Administration_
+_Context: United States, U.S.  National Oceanic and Atmospheric Administration, Arctic, British Isles, Ocean Prediction Center, North Pole_
 
 ## [Previous Day...](/news/2015/12/29/index.md)
 

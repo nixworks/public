@@ -3,13 +3,13 @@ Formats: [HTML](2007/10/27/index.html)  [JSON](2007/10/27/index.json)  [XML](200
 
 ## [2007-10-27](/news/2007/10/27/index.md)
 
-##### U.S.
+##### United States
 ### [ United States led coalition forces kill 80 Taliban fighters outside Musa Qala in Helmand province. ](/news/2007/10/27/united-states-led-coalition-forces-kill-80-taliban-fighters-outside-musa-qala-in-helmand-province.md)
 U.S.-led forces killed about 80 Taliban fighters during a battle in Southern Afghanistan on Saturday, officials said.
 
 ##### Curlin
 ### [ Curlin wins the Breeders' Cup Classic at the Monmouth Park racecourse. In the same race, European star George Washington is euthanized after breaking down in the stretch. ](/news/2007/10/27/curlin-wins-the-breeders-cup-classic-at-the-monmouth-park-racecourse-in-the-same-race-european-star-george-washington-is-euthanized-afte.md)
-_Context: George Washington, Curlin, euthanizing animals, Breeders' Cup Classic, Monmouth Park_
+_Context: Curlin, George Washington, Breeders' Cup Classic, Monmouth Park, euthanizing animals_
 
 ##### flood
 ### [ At least 30 people are killed and 100 injured in flooding in the Democratic Republic of the Congo. ](/news/2007/10/27/at-least-30-people-are-killed-and-100-injured-in-flooding-in-the-democratic-republic-of-the-congo.md)
@@ -21,7 +21,7 @@ _Context: Baja California, U.S. border, Mexico_
 
 ##### Yu Zhengsheng
 ### [ Yu Zhengsheng leaves his post as CPC party chief of Hubei to replace newly promoted Politburo Standing Committee member Xi Jinping as Shanghai party chief. ](/news/2007/10/27/yu-zhengsheng-leaves-his-post-as-cpc-party-chief-of-hubei-to-replace-newly-promoted-politburo-standing-committee-member-xi-jinping-as-shang.md)
-_Context: Yu Zhengsheng, Politburo Standing Committee, Xi Jinping, Hubei, CPC party chief, Shanghai_
+_Context: Shanghai, Hubei, CPC party chief, Yu Zhengsheng, Xi Jinping, Politburo Standing Committee_
 
 ## [Previous Day...](/news/2007/10/26/index.md)
 

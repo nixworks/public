@@ -5,11 +5,11 @@ Formats: [HTML](2007/02/16/index.html)  [JSON](2007/02/16/index.json)  [XML](200
 
 ##### Brazil
 ### [ The G8 countries, plus Brazil, China, India, Mexico and South Africa, approve the 'Washington Declaration,' proposing a global Carbon emissions trading system to replace the Kyoto Protocol by 2009. ](/news/2007/02/16/the-g8-countries-plus-brazil-china-india-mexico-and-south-africa-approve-the-washington-declaration-proposing-a-global-carbon-emiss.md)
-_Context: Mexico, Carbon emissions trading, India, Washington Declaration, 2009, South Africa, Kyoto Protocol, China, Brazil_
+_Context: South Africa, Carbon emissions trading, 2009, Mexico, Washington Declaration, India, Kyoto Protocol, Brazil, China_
 
 ##### Palestinians
 ### [ Palestinians clash with Israeli police in East Jerusalem over archaeological excavations near the al-Aqsa mosque. ](/news/2007/02/16/palestinians-clash-with-israeli-police-in-east-jerusalem-over-archaeological-excavations-near-the-al-aqsa-mosque.md)
-_Context: Israel, East Jerusalem, Palestinians, al-Aqsa mosque_
+_Context: Palestinians, East Jerusalem, Israel, al-Aqsa mosque_
 
 ##### Jundallah
 ### [ Jundallah militants set off a second bomb in Zahedan, Iran. Firefights with Iranian police ensue. Casualties are unknown. ](/news/2007/02/16/jundallah-militants-set-off-a-second-bomb-in-zahedan-iran-firefights-with-iranian-police-ensue-casualties-are-unknown.md)
@@ -17,31 +17,31 @@ _Context: Jundallah, Zahedan_
 
 ##### Turkish
 ### [ A Turkish court sentences seven convicted Al Qaeda associates to life imprisonment for their involvement in the 2003 Istanbul bombings. ](/news/2007/02/16/a-turkish-court-sentences-seven-convicted-al-qaeda-associates-to-life-imprisonment-for-their-involvement-in-the-2003-istanbul-bombings.md)
-_Context: Turkish, Al Qaeda, life sentence, 2003 Istanbul bombings_
+_Context: life sentence, Al Qaeda, Turkish, 2003 Istanbul bombings_
 
 ##### New York
 ### [ Abdul Tawala Ibn Ali Alishtari is charged in New York, New York with financing terrorism and material support of terrorism for allegedly passing on money for a training camp in Afghanistan. ](/news/2007/02/16/abdul-tawala-ibn-ali-alishtari-is-charged-in-new-york-new-york-with-financing-terrorism-and-material-support-of-terrorism-for-allegedly-pa.md)
-_Context: New York, Afghanistan, training camp, terrorism_
+_Context: terrorism, training camp, New York, Afghanistan_
 
 ##### General Motors
 ### [ General Motors is rumored to be in talks to buy DaimlerChrysler AG's struggling Chrysler Group in its entirety. ](/news/2007/02/16/general-motors-is-rumored-to-be-in-talks-to-buy-daimlerchrysler-ag-s-struggling-chrysler-group-in-its-entirety.md)
-_Context: DaimlerChrysler, Chrysler Group, General Motors_
+_Context: Chrysler Group, General Motors, DaimlerChrysler_
 
 ##### House of Representatives
 ### [ The United States House of Representatives passes House Concurrent Resolution 63; a non-binding resolution criticising U.S. President George W. Bush's Surge Plan in Iraq. ](/news/2007/02/16/the-united-states-house-of-representatives-passes-house-concurrent-resolution-63-a-non-binding-resolution-criticising-u-s-president-georg.md)
-_Context: Iraq war, George W. Bush, non-binding resolution, House of Representatives, Concurrent Resolution, Iraq War troop surge of 2007, U.S. President_
+_Context: U.S. President, House of Representatives, Iraq War troop surge of 2007, Concurrent Resolution, Iraq war, George W. Bush, non-binding resolution_
 
 ##### Italians
 ### [ An Italian judge has ordered 26 U.S. citizens, most of them CIA agents, to stand trial over the kidnapping of an Egyptian cleric in Milan in 2003. ](/news/2007/02/16/an-italian-judge-has-ordered-26-u-s-citizens-most-of-them-cia-agents-to-stand-trial-over-the-kidnapping-of-an-egyptian-cleric-in-milan-i.md)
-_Context: Hassan Mustafa Osama Nasr, Milan, Italians, U.S., Central Intelligence Agency, 2003_
+_Context: Central Intelligence Agency, 2003, Italians, United States, Milan, Hassan Mustafa Osama Nasr_
 
 ##### Abu Ayyub al-Masri
 ### [ Abu Ayyub al-Masri, the current leader of al-Qaeda in Iraq, has been wounded in fighting in Baghdad according to Arab TV stations; however, the U.S. government denied the report.](/news/2007/02/16/abu-ayyub-al-masri-the-current-leader-of-al-qaeda-in-iraq-has-been-wounded-in-fighting-in-baghdad-according-to-arab-tv-stations-however.md)
-_Context: Baghdad, Abu Ayyub al-Masri, al-Qaeda in Iraq_
+_Context: Abu Ayyub al-Masri, Baghdad, al-Qaeda in Iraq_
 
 ##### Afghanistan President
 ### [ The President of Afghanistan Hamid Karzai meets with the Prime Minister of Italy Romano Prodi to discuss Italian contributions to the fight against the Taliban and drug traffickers in Afghanistan. ](/news/2007/02/16/the-president-of-afghanistan-hamid-karzai-meets-with-the-prime-minister-of-italy-romano-prodi-to-discuss-italian-contributions-to-the-fight.md)
-_Context: Romano Prodi, drug traffickers, Italian Prime Minister, Taliban, Afghanistan President, Hamid Karzai, Afghanistan_
+_Context: Afghanistan President, Afghanistan, Taliban, Romano Prodi, drug traffickers, Hamid Karzai, Italian Prime Minister_
 
 ## [Previous Day...](/news/2007/02/15/index.md)
 

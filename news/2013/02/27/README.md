@@ -17,7 +17,7 @@ _Context: mortgage, JPMorgan_
 
 ##### Reuters
 ### [Reuters reports that the Treasury of the Republic of Italy is working on the terms of a bailout for the third-largest lender in the country, Monte dei Paschi. ](/news/2013/02/27/reuters-reports-that-the-treasury-of-the-republic-of-italy-is-working-on-the-terms-of-a-bailout-for-the-third-largest-lender-in-the-country.md)
-_Context: Republic of Italy, Monte dei Paschi, Reuters_
+_Context: Reuters, Monte dei Paschi, Republic of Italy_
 
 ##### Severe Tropical Cyclone Rusty
 ### [Severe Tropical Cyclone Rusty intensifies to Category 4 status before crossing the coast of Western Australia between Port Hedland and Pardoo. ](/news/2013/02/27/severe-tropical-cyclone-rusty-intensifies-to-category-4-status-before-crossing-the-coast-of-western-australia-between-port-hedland-and-pardo.md)
@@ -49,7 +49,7 @@ Stephane Hessel, the former French Resistance fighter whose 2010 manifesto Time 
 
 ##### Chuck Hagel
 ### [Chuck Hagel is sworn in as United States Secretary of Defense, replacing Leon Panetta. ](/news/2013/02/27/chuck-hagel-is-sworn-in-as-united-states-secretary-of-defense-replacing-leon-panetta.md)
-_Context: Leon Panetta, Chuck Hagel, United States Secretary of Defense, U.S._
+_Context: United States, United States Secretary of Defense, Leon Panetta, Chuck Hagel_
 
 ##### United States Senate
 ### [The United States Senate confirms Jack Lew as the Secretary of the Treasury. ](/news/2013/02/27/the-united-states-senate-confirms-jack-lew-as-the-secretary-of-the-treasury.md)

@@ -13,11 +13,11 @@ _Context: Boko Haram insurgency, Yola_
 
 ##### Turkey-PKK conflict
 ### [The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. ](/news/2015/09/11/the-turkish-air-force-strikes-64-pkk-targets-in-northern-iraq-reportedly-killing-up-to-60-pkk-militants.md)
-_Context: Turkey-PKK conflict, Kurdish, PKK, Turkish Air Force_
+_Context: Kurdish, Turkey-PKK conflict, Turkish Air Force, PKK_
 
 ##### 2015 Burundian unrest
 ### [Burundi's army chief General Prime Niyongabo survives an assassination attempt after armed men attacked his motorcade on a busy road in the capital, Bujumbura. Six people are killed in the attack. ](/news/2015/09/11/burundi-s-army-chief-general-prime-niyongabo-survives-an-assassination-attempt-after-armed-men-attacked-his-motorcade-on-a-busy-road-in-the.md)
-_Context: Bujumbura, assassinated, 2015 Burundian unrest, Burundi_
+_Context: Bujumbura, 2015 Burundian unrest, assassinated, Burundi_
 
 ##### Britney Spears
 ### [Britney Spears announces a two-year extension in performing "Britney: Piece of Me" on the Las Vegas Strip. ](/news/2015/09/11/britney-spears-announces-a-two-year-extension-in-performing-britney-piece-of-me-on-the-las-vegas-strip.md)
@@ -33,7 +33,7 @@ At least 107 people died and 238 more were injured when a crane collapsed at the
 
 ##### General Assembly
 ### [The UN General Assembly votes in favor of flying the flags of non-member observer states outside the headquarters in New York City. Palestine will raise their flag on September 30, while Vatican City has made no plans yet. ](/news/2015/09/11/the-un-general-assembly-votes-in-favor-of-flying-the-flags-of-non-member-observer-states-outside-the-headquarters-in-new-york-city-palestin.md)
-_Context: Vatican City, Palestine, observer states, General Assembly, New York City_
+_Context: General Assembly, Vatican City, Palestine, observer states, New York City_
 
 ##### United States-Cuban Thaw
 ### [Cuba announces it will release more than 3,500 prisoners in a goodwill gesture ahead of next week's visit by Pope Francis. ](/news/2015/09/11/cuba-announces-it-will-release-more-than-3-500-prisoners-in-a-goodwill-gesture-ahead-of-next-week-s-visit-by-pope-francis.md)
@@ -43,13 +43,13 @@ Cuba says it will release more than 3,500 prisoners in a goodwill gesture ahead 
 ### [Foreign ministers from Czech Republic, Hungary, Poland and Slovakia meet with officials from the European Union and Germany to discuss differences over migrant quotas. ](/news/2015/09/11/foreign-ministers-from-czech-republic-hungary-poland-and-slovakia-meet-with-officials-from-the-european-union-and-germany-to-discuss-diffe.md)
 Footage emerges of migrants being thrown bags of food at a Hungarian camp near the border with Serbia, amid criticism over their treatment.
 
-##### U.S.
+##### United States
 ### [Defense lawyers say the United States continues to block the release of 116 pages of the lawyers' notes detailing the torture that Guantanimo Bay prisoner Abu Zubaydah says he experienced in CIA custody. Zubaydah has yet to be charged with any crime despite being held since 2002. ](/news/2015/09/11/defense-lawyers-say-the-united-states-continues-to-block-the-release-of-116-pages-of-the-lawyers-notes-detailing-the-torture-that-guantanim.md)
 Notes detailing torture of Guantanamo Bay detainee Abu Zubaydah while in CIA custody, remain classified.
 
 ##### Mark Karpeles
 ### [Mark Karpeles, the CEO of defunct Bitcoin exchange Mt. Gox, is charged with embezzlement in Japan. Karpeles asserts his own innocence. ](/news/2015/09/11/mark-karpela-s-the-ceo-of-defunct-bitcoin-exchange-mt-gox-is-charged-with-embezzlement-in-japan-karpeles-asserts-his-own-innocence.md)
-_Context: Mt. Gox, Bitcoin, Japan, embezzlement, Mark Karpeles_
+_Context: Bitcoin, embezzlement, Japan, Mt. Gox, Mark Karpeles_
 
 ##### 2006 Mumbai train bombings
 ### [A Mumbai, India court convicts twelve men with one man acquitted for their roles in the bombing which killed 209 people and injured 714. ](/news/2015/09/11/a-mumbai-india-court-convicts-twelve-men-with-one-man-acquitted-for-their-roles-in-the-bombing-which-killed-209-people-and-injured-714.md)
@@ -61,7 +61,7 @@ Officials are investigating after another vehicle was shot at on Interstate 10 o
 
 ##### 2014 Chicago Air Route Traffic Control Center fire
 ### [U.S. District Judge Gary Feinerman sentences a Federal Aviation Administration contractor, Brian Howard, to 12 years in prison for willfully destroying a Chicago-area air navigation facility using a September 26, 2014, fire which caused $100 million in damage. ](/news/2015/09/11/u-s-district-judge-gary-feinerman-sentences-a-federal-aviation-administration-contractor-brian-howard-to-12-years-in-prison-for-willfully.md)
-_Context: U.S. District, Gary Feinerman, 2014 Chicago Air Route Traffic Control Center fire, Federal Aviation Administration_
+_Context: 2014 Chicago Air Route Traffic Control Center fire, Federal Aviation Administration, U.S. District, Gary Feinerman_
 
 ##### California State Legislature
 ### [The California State Legislature approves legislation allowing for assisted suicide. ](/news/2015/09/11/the-california-state-legislature-approves-legislation-allowing-for-assisted-suicide.md)

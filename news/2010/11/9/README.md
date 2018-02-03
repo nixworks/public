@@ -5,19 +5,19 @@ Formats: [HTML](2010/11/9/index.html)  [JSON](2010/11/9/index.json)  [XML](2010/
 
 ##### explosion
 ### [A bomb explosion kills Ali Abadi, governor of Shwak district in Afghanistan's eastern province of Paktia. ](/news/2010/11/9/a-bomb-explosion-kills-ali-abadi-governor-of-shwak-district-in-afghanistan-s-eastern-province-of-paktia.md)
-_Context: Shwak district, explosion, Ali Abadi, Paktia, Afghanistan_
+_Context: explosion, Afghanistan, Shwak district, Paktia, Ali Abadi_
 
 ##### Western Sahara
 ### [The death toll from clashes at a camp in Western Sahara between Sahrawi protesters and Moroccan police rises to eleven. ](/news/2010/11/9/the-death-toll-from-clashes-at-a-camp-in-western-sahara-between-sahrawi-protesters-and-moroccan-police-rises-to-eleven.md)
-_Context: Morocco, Western Sahara, Sahrawi_
+_Context: Morocco, Sahrawi, Western Sahara_
 
 ##### Anwar al-Awlaki
 ### [Anwar al-Awlaki, a Yemeni cleric affiliated with al-Queda, tells Muslims in a new video posting that they are free to kill American at will, in retaliation for the killing of civilians in Iraq, Afghanistan and elsewhere. ](/news/2010/11/9/anwar-al-awlaki-a-yemeni-cleric-affiliated-with-al-queda-tells-muslims-in-a-new-video-posting-that-they-are-free-to-kill-american-at-will.md)
-_Context: Afghanistan, Iraq, Anwar al-Awlaki, Yemen, al-Queda_
+_Context: Yemen, Afghanistan, Iraq, Anwar al-Awlaki, al-Queda_
 
 ##### Burma
 ### [About 20,000 people flee Burma to escape fighting between the Burmese military and the Democratic Karen Buddhist Army in Karen State after the recent general election. ](/news/2010/11/9/about-20-000-people-flee-burma-to-escape-fighting-between-the-burmese-military-and-the-democratic-karen-buddhist-army-in-karen-state-after-t.md)
-_Context: Burmese military, Karen State, general elections, Burma, Democratic Karen Buddhist Army, fighting_
+_Context: Democratic Karen Buddhist Army, Karen State, fighting, general elections, Burmese military, Burma_
 
 ##### British military personnel
 ### [Three members of the British Armed Forces are being investigated by military lawyers over alleged abuse of Iraqi detainees. ](/news/2010/11/9/three-members-of-the-british-armed-forces-are-being-investigated-by-military-lawyers-over-alleged-abuse-of-iraqi-detainees.md)
@@ -41,7 +41,7 @@ David Cameron raises the issue of human rights in talks with China, during what 
 
 ##### churches
 ### [Secret documents are released showing churches and civilians upon the enemies list of Indonesian special forces Kopassus. The U.S. government had just removed a twelve-year funding ban on the group this summer.](/news/2010/11/9/secret-documents-are-released-showing-churches-and-civilians-upon-the-enemies-list-of-indonesian-special-forces-kopassus-the-u-s-governmen.md)
-_Context: Indonesia, Kopassus, churches_
+_Context: Kopassus, churches, Indonesia_
 
 ##### Sakineh Mohammadi Ashtiani
 ### [In the first public sign that the sentence of death by stoning passed on Sakineh Mohammadi Ashtiani is causing divisions within the regime, Alef, a conservative newspaper in Iran, challenges the handling of the case. ](/news/2010/11/9/in-the-first-public-sign-that-the-sentence-of-death-by-stoning-passed-on-sakineh-mohammadi-ashtiani-is-causing-divisions-within-the-regime.md)
@@ -49,7 +49,7 @@ _Context: Sakineh Mohammadi Ashtiani, Iran_
 
 ##### South China
 ### [A man surrendered to police and confessed to killing five and wounding one in two separate attacks in South China's Hainan province. ](/news/2010/11/9/a-man-surrendered-to-police-and-confessed-to-killing-five-and-wounding-one-in-two-separate-attacks-in-south-china-s-hainan-province.md)
-_Context: South China, Hainan_
+_Context: Hainan, South China_
 
 ##### Russia
 ### [A second Russian journalist is attacked in Moscow. Motivation is unclear but both had written about trees being felled to make way for motorways. ](/news/2010/11/9/a-second-russian-journalist-is-attacked-in-moscow-motivation-is-unclear-but-both-had-written-about-trees-being-felled-to-make-way-for-motor.md)
@@ -85,7 +85,7 @@ David Cameron&#039;s visit to China has been overshadowed by human rights concer
 
 ##### SpaceShipTwo
 ### [Construction of a factory for the first fleet of commercial spaceships begins at the Mojave Air and Space Port in the United States. ](/news/2010/11/9/construction-of-a-factory-for-the-first-fleet-of-commercial-spaceships-begins-at-the-mojave-air-and-space-port-in-the-united-states.md)
-_Context: U.S., SpaceShipTwo, Mojave Air and Space Port_
+_Context: Mojave Air and Space Port, United States, SpaceShipTwo_
 
 ## [Previous Day...](/news/2010/11/8/index.md)
 

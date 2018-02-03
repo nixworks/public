@@ -9,7 +9,7 @@ The Syrian army and allied forces captured Abu al-Duhur airport in Idlib provinc
 
 ##### 2018 Inter-Continental Hotel Kabul attack
 ### [At least four gunmen launch an attack on the Intercontinental Hotel in Kabul, Afghanistan. ](/news/2018/01/20/at-least-four-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-kabul-afghanistan.md)
-_Context: Intercontinental Hotel, Kabul, Afghanistan, 2018 Inter-Continental Hotel Kabul attack_
+_Context: 2018 Inter-Continental Hotel Kabul attack, Afghanistan, Intercontinental Hotel, Kabul_
 
 ##### United States federal government shutdown of 2018
 ### [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md)
@@ -23,7 +23,7 @@ The bus taking families on a skiing trip crashed in the north-west in reportedly
 ### [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md)
 The government of Minas Gerais state in southeastern Brazil decreed Saturday a public health emergency situation in three regional state for six months because of yellow fever. The measure covers the regional health units of the municipalities of Belo Horizonte, Itabira and Ponte Nova &#8211; 94 cit...
 
-##### Chinese
+##### China
 ### [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md)
 China has accused the United States of sending a warship without permission into what it said was its territorial waters in the disputed South China Sea, a
 
@@ -37,7 +37,7 @@ Thousands of protesters gathered at rallies on Saturday across the country and a
 
 ##### Odebrecht case in Guatemala
 ### [Former presidential candidate Manuel Baldizon is captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-presidential-candidate-manuel-baldiza3n-is-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
-_Context: Odebrecht case in Guatemala, Manuel Baldizon, U.S._
+_Context: Odebrecht case in Guatemala, United States, Manuel Baldizon_
 
 ## [Previous Day...](/news/2018/01/19/index.md)
 

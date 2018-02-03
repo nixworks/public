@@ -9,7 +9,7 @@ Things to do in Miami
 
 ##### Archaeologists
 ### [ Archaeologists discover what they term the 'world's oldest university' in Alexandria, Egypt. It dates from the 5th century AD. ](/news/2004/05/26/archaeologists-discover-what-they-term-the-world-s-oldest-university-in-alexandria-egypt-it-dates-from-the-5th-century-ad.md)
-_Context: Egypt, university, Archaeologists, Alexandria_
+_Context: Archaeologists, Egypt, Alexandria, university_
 
 ##### Peter Hounam
 ### [ Journalist Peter Hounam, who had revealed Israel's secret nuclear program, is arrested in Jerusalem and denied access to a lawyer. He is released and expelled from the country the following day. ](/news/2004/05/26/journalist-peter-hounam-who-had-revealed-israel-s-secret-nuclear-program-is-arrested-in-jerusalem-and-denied-access-to-a-lawyer-he-is-re.md)
@@ -21,7 +21,7 @@ _Context: Sila Maria Calderon, Puerto Rico_
 
 ##### footballer
 ### [ Football: FC Porto defeat AS Monaco FC 3-0 in the final of the UEFA Champions League ](/news/2004/05/26/football-fc-porto-defeat-as-monaco-fc-3a0-in-the-final-of-the-uefa-champions-league.md)
-_Context: footballer, FC Porto, AS Monaco FC, UEFA Champions League_
+_Context: FC Porto, footballer, UEFA Champions League, AS Monaco FC_
 
 ## [Previous Day...](/news/2004/05/25/index.md)
 

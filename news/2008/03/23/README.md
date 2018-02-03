@@ -9,15 +9,15 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### U.S. military
 ### [ U.S. military casualties in the Iraq War reach 4,000. ](/news/2008/03/23/u-s-military-casualties-in-the-iraq-war-reach-4-000.md)
-_Context: Iraq War, U.S. military_
+_Context: U.S. military, Iraq War_
 
 ##### Fatah-Hamas conflict
 ### [ An agreement on talks to resolve the Fatah-Hamas conflict is reached in Sana'a, Yemen. ](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatahahamas-conflict-is-reached-in-sana-a-yemen.md)
-_Context: Fatah-Hamas conflict, Yemen, Sana'a_
+_Context: Yemen, Sana'a, Fatah-Hamas conflict_
 
 ##### Kimi Raikkonen
 ### [ Kimi Raikkonen of Finland wins the Malaysian Grand Prix in Sepang. ](/news/2008/03/23/kimi-ra-ikkapnen-of-finland-wins-the-malaysian-grand-prix-in-sepang.md)
-_Context: Kimi Raikkonen, Malaysian Grand Prix, Sepang, Finland_
+_Context: Finland, Kimi Raikkonen, Sepang, Malaysian Grand Prix_
 
 ## [Previous Day...](/news/2008/03/22/index.md)
 

@@ -9,7 +9,7 @@ A loud explosion rocked central Kabul early on Tuesday during rush hour, and a t
 
 ##### War in North-West Pakistan
 ### [A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. ](/news/2016/04/19/a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-critically-wounding-three-more.md)
-_Context: War in North-West Pakistan, Mardan, Pakistan_
+_Context: Pakistan, Mardan, War in North-West Pakistan_
 
 ##### Iraqi Civil War
 ### [Iraqi officials, following arrested IS militants' directions, uncover two mass graves with bodies of about 40 people in Ramadi. ](/news/2016/04/19/iraqi-officials-following-arrested-is-militants-directions-uncover-two-mass-graves-with-bodies-of-about-40-people-in-ramadi.md)
@@ -21,7 +21,7 @@ Air strikes that killed around 40 people in a crowded market in rebel territory 
 
 ##### earthquake
 ### [The death toll from Saturday's earthquake has risen to at least 480 with 1,700 missing. Another 2,500 have been injured. President Rafael Correa states it is the worst disaster in Ecuador in seven decades, and the reconstruction will have a "huge economic impact" on the country. ](/news/2016/04/19/the-death-toll-from-saturday-s-earthquake-has-risen-to-at-least-480-with-1-700-missing-another-2-500-have-been-injured-president-rafael-co.md)
-_Context: President, Ecuador, earthquake, Rafael Correa_
+_Context: Rafael Correa, President, earthquake, Ecuador_
 
 ##### Sweden-United States relations
 ### [Swedish deputy prime minister Asa Romson is criticized after referring to the September 11 attacks in New York as mere "accidents". Romson made the comments on public television while discussing the resignation of housing minister Mehmet Kaplan who had compared Israel's treatment of Arabs to the Nazis' treatment of Jews during the Holocaust. ](/news/2016/04/19/swedish-deputy-prime-minister-asa-romson-is-criticized-after-referring-to-the-september-11-attacks-in-new-york-as-mere-accidents-romson.md)
@@ -39,7 +39,7 @@ Government to get assistance with border and security forces as Fayez al-Sarraj 
 ### [In response to an ongoing Supreme Court case regarding the ownership of the Koh-i-Noor diamond, the government of India said it should not try to reclaim it from the United Kingdom. The government argues that the diamond was given to the British as a gift and was not stolen. However, the Supreme Court says it will continue with the case. ](/news/2016/04/19/in-response-to-an-ongoing-supreme-court-case-regarding-the-ownership-of-the-koh-i-noor-diamond-the-government-of-india-said-it-should-not-t.md)
 The Indian government tells the Supreme Court that the country should not try to reclaim the priceless Koh-i-Noor diamond from Britain.
 
-##### Chinese
+##### China
 ### [Authorities in China sentence Huang Yu, a computer technician from Sichuan who worked for a government department which handled state secrets, to death for leaking more than 150,000 classified documents to an unidentified foreign power. The documents in question covered secrets ranging from the ruling Communist Party to military and financial issues. ](/news/2016/04/19/authorities-in-china-sentence-huang-yu-a-computer-technician-from-sichuan-who-worked-for-a-government-department-which-handled-state-secret.md)
 Huang Yu convicted of leaking state secrets to unidentified foreign power, state television said on Tuesday
 
@@ -61,7 +61,7 @@ BUSAN, South Korea (AP) — The 14-year-old boy in the black school jacket stare
 
 ##### Flint water crisis
 ### [According to government officials, Michigan Attorney General Bill Schuette tomorrow will announce criminal charges against two state regulators and a Flint employee in connection with the city's lead-tainted water crisis. ](/news/2016/04/19/according-to-government-officials-michigan-attorney-general-bill-schuette-tomorrow-will-announce-criminal-charges-against-two-state-regulat.md)
-_Context: Flint, Michigan, criminal charge, Bill Schuette, Flint water crisis, Michigan Attorney General_
+_Context: Flint water crisis, Michigan Attorney General, Bill Schuette, criminal charge, Flint, Michigan_
 
 ##### 2016 U.S. presidential election
 ### [Voters in the U.S. state of New York go to the polls for a primary election with Hillary Clinton and Donald Trump expected to win the respective contests for their parties in that state. ](/news/2016/04/19/voters-in-the-u-s-state-of-new-york-go-to-the-polls-for-a-primary-election-with-hillary-clinton-and-donald-trump-expected-to-win-the-respec.md)
@@ -69,15 +69,15 @@ New York election results from the 2016 general election.
 
 ##### Philippine presidential election, 2016
 ### [Rodrigo Duterte apologizes for making remarks about rape. ](/news/2016/04/19/rodrigo-duterte-apologizes-for-making-remarks-about-rape.md)
-_Context: rape, Philippine presidential election, 2016, Rodrigo Duterte_
+_Context: Rodrigo Duterte, rape, Philippine presidential election, 2016_
 
 ##### Australia
 ### [The government of the Australian external territory of Norfolk Island announces it is going to take its governance issue to the United Nations. Former and final Chief Minister of the island Lisle Snell said he seeks to have Norfolk Island added on the UN's list of Non-Self-Governing Territories and be given the rights that are accorded under the terms and conditions of being on the list. In 2015, the Australian government terminated Norfolk Island's self-governing status in response to serious financial issues but without the islanders' or government's consent. ](/news/2016/04/19/the-government-of-the-australian-external-territory-of-norfolk-island-announces-it-is-going-to-take-its-governance-issue-to-the-united-natio.md)
-_Context: Norfolk Island, Chief Minister, Lisle Snell, Australia, UN's list of Non-Self-Governing Territories, United Nations_
+_Context: UN's list of Non-Self-Governing Territories, United Nations, Chief Minister, Australia, Norfolk Island, Lisle Snell_
 
 ##### Princess Sofia
 ### [Princess Sofia of Sweden and Prince Carl Philip announce birth of first son. ](/news/2016/04/19/princess-sofia-of-sweden-and-prince-carl-philip-announce-birth-of-first-son.md)
-_Context: Prince Carl Philip, Princess Sofia, son_
+_Context: Princess Sofia, Prince Carl Philip, son_
 
 ## [Previous Day...](/news/2016/04/18/index.md)
 

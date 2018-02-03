@@ -5,11 +5,11 @@ Formats: [HTML](2017/02/22/index.html)  [JSON](2017/02/22/index.json)  [XML](201
 
 ##### Raqqa offensive
 ### [U.S.-backed SDF forces on two fronts meet up northeast of Raqqa, encircling a pocket of villages still held by ISIS. ](/news/2017/02/22/u-s-backed-sdf-forces-on-two-fronts-meet-up-northeast-of-raqqa-encircling-a-pocket-of-villages-still-held-by-isis.md)
-_Context: Raqqa, Raqqa offensive, Syrian Democratic Forces, U.S., ISIS_
+_Context: United States, Raqqa offensive, Syrian Democratic Forces, Raqqa, ISIS_
 
 ##### Yemeni Civil War (2015-present)
 ### [A Houthi missile attack on a Yemeni military camp near the port city of Mocha kills Major General Ahmed Saif al-Yafei, Yemen's deputy chief of staff, and several others. ](/news/2017/02/22/a-houthi-missile-attack-on-a-yemeni-military-camp-near-the-port-city-of-mocha-kills-major-general-ahmed-saif-al-yafei-yemen-s-deputy-chief.md)
-_Context: Yemeni Civil War (2015-present), Houthi, Yemen, government soldiers, Mocha_
+_Context: Yemen, government soldiers, Yemeni Civil War (2015-present), Mocha, Houthi_
 
 ##### Amnesty International
 ### [Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. ](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.md)
@@ -33,7 +33,7 @@ Tsang was found guilty of misconduct in a case linked to renovation work on a lu
 
 ##### 2017 Olathe, Kansas shooting
 ### [In an apparent hate crime, an Indian engineer is shot dead and another injured in Olathe, Kansas. ](/news/2017/02/22/in-an-apparent-hate-crime-an-indian-engineer-is-shot-dead-and-another-injured-in-olathe-kansas.md)
-_Context: Olathe, Kansas, hate crime, 2017 Olathe, Kansas shooting_
+_Context: hate crime, 2017 Olathe, Kansas shooting, Olathe, Kansas_
 
 ##### Transgender rights in the United States
 ### [The Trump administration revokes Obama-era orders on protection of gender identity under Title IX. ](/news/2017/02/22/the-trump-administration-revokes-obama-era-orders-on-protection-of-gender-identity-under-title-ix.md)

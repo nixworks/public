@@ -25,7 +25,7 @@ The owner of the Los Angeles Times was selected as the top bidder for the Orange
 
 ##### Palestinians
 ### [At least 16 Palestinian pilgrims are killed when the bus they were traveling to Saudi Arabia on overturns in southern Jordan. ](/news/2016/03/17/at-least-16-palestinian-pilgrims-are-killed-when-the-bus-they-were-traveling-to-saudi-arabia-on-overturns-in-southern-jordan.md)
-_Context: Jordan, Palestinians, Saudi Arabia_
+_Context: Saudi Arabia, Jordan, Palestinians_
 
 ##### Government of China
 ### [The People's Republic of China expresses its opposition to unilateral sanctions against North Korea in the wake of the imposition of new sanctions by the United States on the country in response to its recent nuclear and rocket tests. ](/news/2016/03/17/the-people-s-republic-of-china-expresses-its-opposition-to-unilateral-sanctions-against-north-korea-in-the-wake-of-the-imposition-of-new-san.md)
@@ -41,7 +41,7 @@ The United States has seen Chinese activity around a reef China seized from the 
 
 ##### International Criminal Tribunal for the former Yugoslavia
 ### [Judges at the International Criminal Tribunal for the former Yugoslavia announce that they will soon deliver their verdict against radical Serb leader Vojislav Seselj, suspected of crimes against humanity committed during the Breakup of Yugoslavia, despite him being sent back to Serbia for medical reasons. Seselj has vowed not to return to court. ](/news/2016/03/17/judges-at-the-international-criminal-tribunal-for-the-former-yugoslavia-announce-that-they-will-soon-deliver-their-verdict-against-radical-s.md)
-_Context: Vojislav Seselj, International Criminal Tribunal for the former Yugoslavia, Serbia, Breakup of Yugoslavia, crimes against humanity_
+_Context: Vojislav Seselj, crimes against humanity, Serbia, Breakup of Yugoslavia, International Criminal Tribunal for the former Yugoslavia_
 
 ##### 2015-16 protests in Brazil
 ### [Clashes erupt outside the presidential palace in Brazil's capital Brasilia between anti-Workers' Party protesters and supporters of ex-president Luiz Inacio Lula da Silva, where he was due to be sworn in as President of Brazil Dilma Rousseff's chief of staff. Hundreds of anti-government protesters calling for Rousseff's impeachment and Lula's arrest also blocked the central Paulista Avenue in SGBPo Paulo, Brazil's largest city and economic hub. ](/news/2016/03/17/clashes-erupt-outside-the-presidential-palace-in-brazil-s-capital-brasalia-between-anti-workers-party-protesters-and-supporters-of-ex-pres.md)
@@ -53,7 +53,7 @@ The hacker group Anonymous made headlines the other day by saying it was declari
 
 ##### 2016 U.S. presidential election
 ### [Bernie Sanders concedes the Missouri primary to Hillary Clinton, who led by 1,531 votes, 0.2 percent of those counted. Sanders says he will not ask for a recount, an option he had because the result is under the state's requirement, 0.5 percent -- one-half of one percent. The Republican contest is too close to call as Donald Trump leads Ted Cruz by a similar 0.2 percent. ](/news/2016/03/17/bernie-sanders-concedes-the-missouri-primary-to-hillary-clinton-who-led-by-1-531-votes-0-2-percent-of-those-counted-sanders-says-he-will.md)
-_Context: Bernie Sanders, 2016 U.S. presidential election, Donald Trump, Hillary Clinton, Democratic Party presidential primaries, 2016, Missouri, Ted Cruz, primary, recount_
+_Context: recount, Democratic Party presidential primaries, 2016, primary, Donald Trump, 2016 U.S. presidential election, Missouri, Ted Cruz, Hillary Clinton, Bernie Sanders_
 
 ## [Previous Day...](/news/2016/03/16/index.md)
 

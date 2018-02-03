@@ -5,7 +5,7 @@ Formats: [HTML](2010/02/15/index.html)  [JSON](2010/02/15/index.json)  [XML](201
 
 ##### yuan
 ### [An appreciation of the Chinese yuan will help US economic growth but it will not solve problems in its own economy, the International Monetary Fund (IMF) chief economist said Monday. ](/news/2010/02/15/an-appreciation-of-the-chinese-yuan-will-help-us-economic-growth-but-it-will-not-solve-problems-in-its-own-economy-the-international-moneta.md)
-_Context: yuan, Economy of the United States, International Monetary Fund_
+_Context: Economy of the United States, yuan, International Monetary Fund_
 
 ##### Anguilla United Movement
 ### [The opposition Anguilla United Movement, led by former Chief Minister Hubert Hughes, wins a majority of seats in the 2010 general election, defeating the governing Anguilla United Front. ](/news/2010/02/15/the-opposition-anguilla-united-movement-led-by-former-chief-minister-hubert-hughes-wins-a-majority-of-seats-in-the-2010-general-election.md)
@@ -13,15 +13,15 @@ _Context: yuan, Economy of the United States, International Monetary Fund_
 
 ##### Aitutaki
 ### [Aid flights arrive on the island of Aitutaki, Cook Islands, where 90% of structures were damaged or destroyed by Cyclone Pat last week. ](/news/2010/02/15/aid-flights-arrive-on-the-island-of-aitutaki-cook-islands-where-90-of-structures-were-damaged-or-destroyed-by-cyclone-pat-last-week.md)
-_Context: Cyclone Pat, Aitutaki, Cook Islands_
+_Context: Aitutaki, Cyclone Pat, Cook Islands_
 
 ##### Somalia
 ### [Somalia's state minister for defence Yusuf Mohammed Siad survives an attempt on his life from a suicide bomber in Mogadishu. ](/news/2010/02/15/somalia-s-state-minister-for-defence-yusuf-mohammed-siad-survives-an-attempt-on-his-life-from-a-suicide-bomber-in-mogadishu.md)
-_Context: Mogadishu, Somalia, Yusuf Mohammed Siad_
+_Context: Mogadishu, Yusuf Mohammed Siad, Somalia_
 
 ##### Naxalite
 ### [A Naxalite attack on an army camp in West Bengal kills 24 Indian soldiers, with many more reported missing. ](/news/2010/02/15/a-naxalite-attack-on-an-army-camp-in-west-bengal-kills-24-indian-soldiers-with-many-more-reported-missing.md)
-_Context: attack on an army camp, India, Naxalite_
+_Context: India, Naxalite, attack on an army camp_
 
 ##### Kenya
 ### [Kenya's Prime Minister Raila Odinga accuses the President Mwai Kibaki of "overstepping" his powers after the latter re-appointed two ministers sacked by Odinga over a corruption scandal. ](/news/2010/02/15/kenya-s-prime-minister-raila-odinga-accuses-the-president-mwai-kibaki-of-overstepping-his-powers-after-the-latter-re-appointed-two-ministe.md)
@@ -33,7 +33,7 @@ Tomas Quintana to meet opposition figures and requests talks with Aung San Suu K
 
 ##### Halle train collision
 ### [Halle train collision: 20 people die in a train collision in Halle, Belgium. ](/news/2010/02/15/halle-train-collision-20-people-die-in-a-train-collision-in-halle-belgium.md)
-_Context: Halle train collision, Belgium, Halle_
+_Context: Halle, Halle train collision, Belgium_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI begins a two-day meeting with all 24 Irish Roman Catholic bishops to discuss child abuse in a "quite unprecedented" move. ](/news/2010/02/15/pope-benedict-xvi-begins-a-two-day-meeting-with-all-24-irish-roman-catholic-bishops-to-discuss-child-abuse-in-a-quite-unprecedented-move.md)
@@ -49,11 +49,11 @@ _Context: Vava`u, Nuku`alofa, Cyclone Rene, Tonga_
 
 ##### NATO
 ### [A joint NATO and Afghan military operation is succeeding in pushing Taliban fighters from their strongholds in Helmand province. ](/news/2010/02/15/a-joint-nato-and-afghan-military-operation-is-succeeding-in-pushing-taliban-fighters-from-their-strongholds-in-helmand-province.md)
-_Context: Afghanistan, Taliban, Helmand, NATO_
+_Context: Afghanistan, NATO, Taliban, Helmand_
 
 ##### Dario Cologna
 ### [Dario Cologna secures Switzerland's first ever Olympic cross-country gold medal and Norway delivers its poorest ever cross-country Olympic performance in the men's 15km freestyle cross-country competition ](/news/2010/02/15/dario-cologna-secures-switzerland-s-first-ever-olympic-cross-country-gold-medal-and-norway-delivers-its-poorest-ever-cross-country-olympic-p.md)
-_Context: Norway, Switzerland, men's 15km freestyle cross-country competition, Dario Cologna, cross-country skiers_
+_Context: Switzerland, Dario Cologna, cross-country skiers, Norway, men's 15km freestyle cross-country competition_
 
 ## [Previous Day...](/news/2010/02/14/index.md)
 

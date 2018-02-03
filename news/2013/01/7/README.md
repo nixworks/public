@@ -3,7 +3,7 @@ Formats: [HTML](2013/01/7/index.html)  [JSON](2013/01/7/index.json)  [XML](2013/
 
 ## [2013-01-7](/news/2013/01/7/index.md)
 
-##### U.S.
+##### United States
 ### [For $8.5 billion, ten banks settle to stop mortgage foreclosure process audits. The United States government regulators had been engaged in a loan-by-loan review of home loan practices during the Great Recession. Bank of America, Citigroup Inc, JPMorgan Chase & Co, Wells Fargo & Co, MetLife Bank, Aurora Bank FSB, PNC Financial Services Group Inc, Sovereign Bank NA, SunTrust Banks Inc, and U.S. Bancorp settle with regulators to pay out cash up to $125,000 to homeowners whose homes were being foreclosed when the paperwork problems emerged. Further, Bank of America agrees to pay $11.6 billion to government mortgage finance company Fannie Mae. ](/news/2013/01/7/for-8-5-billion-ten-banks-settle-to-stop-mortgage-foreclosure-process-audits-the-united-states-government-regulators-had-been-engaged-in.md)
 Bank of America Corp announced more than $14 billion of legal settlements over bad mortgages it sold to investors and flaws in its foreclosure process, taking the bank a step closer to ending the home loan problems that have dogged it for years.
 
@@ -21,7 +21,7 @@ President Obama names Chuck Hagel to head the Pentagon and terrorism adviser Joh
 
 ##### Harvard-Smithsonian Center for Astrophysics
 ### [Scientists from the Harvard-Smithsonian Center for Astrophysics estimate that there are at least 17 billion planets approximately the size of Earth in the Milky Way. ](/news/2013/01/7/scientists-from-the-harvardasmithsonian-center-for-astrophysics-estimate-that-there-are-at-least-17-billion-planets-approximately-the-size.md)
-_Context: planets, Milky Way, Harvard-Smithsonian Center for Astrophysics, Earth_
+_Context: Milky Way, Harvard-Smithsonian Center for Astrophysics, Earth, planets_
 
 ## [Previous Day...](/news/2013/01/6/index.md)
 

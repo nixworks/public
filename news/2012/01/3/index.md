@@ -5,7 +5,7 @@ Formats: [HTML](2012/01/3/index.html)  [JSON](2012/01/3/index.json)  [XML](2012/
 
 ##### civil war
 ### [Aftermath of 2011 Libyan civil war: elements of former anti-Gaddafi forces from Tripoli and Misrata clash in the center of Tripoli, with five people reportedly killed. ](/news/2012/01/3/aftermath-of-2011-libyan-civil-war-elements-of-former-anti-gaddafi-forces-from-tripoli-and-misrata-clash-in-the-center-of-tripoli-with-fiv.md)
-_Context: civil war, Misrata, Tripoli, anti-Gaddafi forces_
+_Context: civil war, Misrata, anti-Gaddafi forces, Tripoli_
 
 ##### suicide bomber
 ### [A suicide bomber kills four civilians and a police officer in the Afghan city of Kandahar. ](/news/2012/01/3/a-suicide-bomber-kills-four-civilians-and-a-police-officer-in-the-afghan-city-of-kandahar.md)
@@ -25,19 +25,19 @@ Two men are killed as storms cause damage and result in power cuts across many p
 
 ##### Israel
 ### [Negotiators from Israel and the Palestinian Authority meet in the Jordanian capital, Amman, for the first time in 16 months. ](/news/2012/01/3/negotiators-from-israel-and-the-palestinian-authority-meet-in-the-jordanian-capital-amman-for-the-first-time-in-16-months.md)
-_Context: Israel, Palestinian Authority, Amman, Jordan_
+_Context: Israel, Jordan, Amman, Palestinian Authority_
 
 ##### rial
 ### [The value of the Iranian rial hits a record low, following the announcement by the United States of further economic sanctions against Iran. ](/news/2012/01/3/the-value-of-the-iranian-rial-hits-a-record-low-following-the-announcement-by-the-united-states-of-further-economic-sanctions-against-iran.md)
-_Context: economic sanctions, U.S., rial_
+_Context: United States, rial, economic sanctions_
 
 ##### aircraft carrier
 ### [Iran warns the United States not to send any more aircraft carriers into the Persian Gulf. ](/news/2012/01/3/iran-warns-the-united-states-not-to-send-any-more-aircraft-carriers-into-the-persian-gulf.md)
-_Context: aircraft carrier, Persian Gulf_
+_Context: Persian Gulf, aircraft carrier_
 
 ##### South Korea
 ### [South Korea lifts a temporary ban that it placed on travel to North Korea after the death of Kim Jong-Il. ](/news/2012/01/3/south-korea-lifts-a-temporary-ban-that-it-placed-on-travel-to-north-korea-after-the-death-of-kim-jong-il.md)
-_Context: North Korea, Kim Jong-Il, South Korea_
+_Context: North Korea, South Korea, Kim Jong-Il_
 
 ##### murder of Stephen Lawrence
 ### [After 18 years of investigations and inquests, Gary Dobson and David Norris are convicted of the murder of Stephen Lawrence in the London suburb of Eltham on 22 April 1993. Dobson and Norris are later sentenced to 15 years and 14 years' imprisonment, respectively. ](/news/2012/01/3/after-18-years-of-investigations-and-inquests-gary-dobson-and-david-norris-are-convicted-of-the-murder-of-stephen-lawrence-in-the-london-su.md)
@@ -57,7 +57,7 @@ Egyptians voted in the third round of a parliamentary election today that has so
 
 ##### Libya
 ### [Libya appoints Yousef al-Manqoush as the new head of its armed forces. ](/news/2012/01/3/libya-appoints-yousef-al-manqoush-as-the-new-head-of-its-armed-forces.md)
-_Context: Yousef al-Manqoush, its armed forces, Libya_
+_Context: its armed forces, Libya, Yousef al-Manqoush_
 
 ## [Previous Day...](/news/2012/01/2/index.md)
 

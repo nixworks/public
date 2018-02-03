@@ -5,7 +5,7 @@ Formats: [HTML](2008/09/24/index.html)  [JSON](2008/09/24/index.json)  [XML](200
 
 ##### Islamist
 ### [ At least 17 civilians are killed in battles between Islamist militants and African Union peacekeepers in the Somali capital Mogadishu. ](/news/2008/09/24/at-least-17-civilians-are-killed-in-battles-between-islamist-militants-and-african-union-peacekeepers-in-the-somali-capital-mogadishu.md)
-_Context: militant, African Union, Mogadishu, Somalia, Islamist_
+_Context: Mogadishu, Somalia, African Union, militant, Islamist_
 
 ##### housing crisis
 ### [ President of the United States George W. Bush addresses the nation on prime time television to discuss the crisis and the Paulson plan. He warns that the United States faces a "long and painful recession" if the package is not passed. ](/news/2008/09/24/president-of-the-united-states-george-w-bush-addresses-the-nation-on-prime-time-television-to-discuss-the-crisis-and-the-paulson-plan-he.md)
@@ -17,15 +17,15 @@ The first evidence that millions of tons of a greenhouse gas 20 times more poten
 
 ##### Diet
 ### [ The Diet elects Taro Aso of the Liberal Democratic Party as the new Prime Minister of Japan. ](/news/2008/09/24/the-diet-elects-taro-aso-of-the-liberal-democratic-party-as-the-new-prime-minister-of-japan.md)
-_Context: Taro Aso, Liberal Democratic Party, Prime Minister of Japan, Diet_
+_Context: Diet, Prime Minister of Japan, Taro Aso, Liberal Democratic Party_
 
 ##### Tomislav Nikolic
 ### [ Tomislav Nikolic announces that his party (a splinter from the Serbian Radical Party) will be called Serbian Progressive Party and that it will be founded on 21 October 2008. ](/news/2008/09/24/tomislav-nikolia-announces-that-his-party-a-splinter-from-the-serbian-radical-party-will-be-called-serbian-progressive-party-and-that-it.md)
-_Context: Serbian Radical Party, Serbian Progressive Party, Tomislav Nikolic_
+_Context: Tomislav Nikolic, Serbian Progressive Party, Serbian Radical Party_
 
 ##### Typhoon Hagupit
 ### [ Typhoon Hagupit hits Vietnam, the Philippines and southern China, killing at least eight. ](/news/2008/09/24/typhoon-hagupit-hits-vietnam-the-philippines-and-southern-china-killing-at-least-eight.md)
-_Context: Chinese, Typhoon Hagupit, Vietnam, Philippines_
+_Context: Vietnam, Philippines, China, Typhoon Hagupit_
 
 ## [Previous Day...](/news/2008/09/23/index.md)
 

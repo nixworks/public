@@ -13,7 +13,7 @@ More than 85 rockets fired on Monday; Hamas claims responsibility for some of la
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [Sittings of the Council of Representatives of Iraq are postponed for five weeks as Islamic State of Iraq and the Levant forces kill an Iraqi Army general on the outskirts of Baghdad. ](/news/2014/07/7/sittings-of-the-council-of-representatives-of-iraq-are-postponed-for-five-weeks-as-islamic-state-of-iraq-and-the-levant-forces-kill-an-iraqi.md)
-_Context: Iraqi insurgency (post-U.S. withdrawal), Iraqi Parliament, ISIL, Iraqi Army, Baghdad_
+_Context: Iraqi Parliament, ISIL, Iraqi Army, Baghdad, Iraqi insurgency (post-U.S. withdrawal)_
 
 ##### Russia
 ### [A Russian-made Mil Mi-17 crashes in the Thach ThCNYt District of the Vietnamese capital Hanoi with 16 people dead. ](/news/2014/07/7/a-russian-made-mil-mi-17-crashes-in-the-thao-ch-thaocnyt-district-of-the-vietnamese-capital-hanoi-with-16-people-dead.md)
@@ -21,7 +21,7 @@ A military helicopter has crashed close to the Vietnamese capital of Hanoi, kill
 
 ##### 2014 Pacific typhoon season
 ### [Japan braces for the impact of Typhoon Neoguri which is expected to hit Okinawa and then Kyushu on Tuesday. ](/news/2014/07/7/japan-braces-for-the-impact-of-typhoon-neoguri-which-is-expected-to-hit-okinawa-and-then-kyushu-on-tuesday.md)
-_Context: Typhoon Neoguri, Okinawa, 2014 Pacific typhoon season, Japan, Kyushu_
+_Context: 2014 Pacific typhoon season, Okinawa, Kyushu, Typhoon Neoguri, Japan_
 
 ##### 6.9 magnitude earthquake
 ### [A 6.9 magnitude earthquake hits southern Mexico and Guatemala, causing at least three deaths. ](/news/2014/07/7/a-6-9-magnitude-earthquake-hits-southern-mexico-and-guatemala-causing-at-least-three-deaths.md)
@@ -29,9 +29,9 @@ A strong earthquake rocked southern Mexico and Guatemala, killing at least four 
 
 ##### Angela Merkel
 ### [Angela Merkel, the Chancellor of Germany, says that if allegations that a German intelligence officer was working for the United States are true, it would be a "clear contradiction" of trust between allies. ](/news/2014/07/7/angela-merkel-the-chancellor-of-germany-says-that-if-allegations-that-a-german-intelligence-officer-was-working-for-the-united-states-are.md)
-_Context: German intelligence, Chancellor, Angela Merkel, U.S._
+_Context: German intelligence, United States, Angela Merkel, Chancellor_
 
-##### U.S. Justice Department
+##### DoJ
 ### [An antitrust trial begins pitting the U.S. Justice Department against American Express over tactics the latter has employed in the credit card market. ](/news/2014/07/7/an-antitrust-trial-begins-pitting-the-u-s-justice-department-against-american-express-over-tactics-the-latter-has-employed-in-the-credit-ca.md)
 American Express Co (AXP.N) has hindered price competition in the U.S. credit card market and prevented merchants and consumers from reaping cost savings, a lawyer for the U.S. government said on Monday during the first day of a trial in Brooklyn federal court.
 
@@ -53,7 +53,7 @@ FM says &#8216;essential&#8217; differences with Netanyahu behind decision; move
 
 ##### Nairobi
 ### [Thousands rally in Nairobi against the President of Kenya Uhuru Kenyatta's rule.](/news/2014/07/7/thousands-rally-in-nairobi-against-the-president-of-kenya-uhuru-kenyatta-s-rule.md)
-_Context: President of Kenya, Uhuru Kenyatta, Nairobi_
+_Context: Uhuru Kenyatta, Nairobi, President of Kenya_
 
 ##### Udo Voigt
 ### [Europeans elect German neo-Nazi leader Udo Voigt to the European Parliament's Civil Liberties, Justice, and Home Affairs Committee. ](/news/2014/07/7/europeans-elect-german-neo-nazi-leader-udo-voigt-to-the-european-parliament-s-civil-liberties-justice-and-home-affairs-committee.md)

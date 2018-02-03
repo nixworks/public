@@ -9,15 +9,15 @@ At least 12 insurgents were killed on Friday in the latest round of infighting b
 
 ##### Peter Gabriel
 ### [Peter Gabriel, Hall & Oates, KISS, Nirvana, Linda Ronstadt, and Cat Stevens are inducted into the Rock and Roll Hall of Fame. ](/news/2014/04/11/peter-gabriel-hall-oates-kiss-nirvana-linda-ronstadt-and-cat-stevens-are-inducted-into-the-rock-and-roll-hall-of-fame.md)
-_Context: Peter Gabriel, Cat Stevens, KISS, Linda Ronstadt, Hall & Oates, Rock and Roll Hall of Fame, Nirvana_
+_Context: Nirvana, Cat Stevens, Rock and Roll Hall of Fame, KISS, Peter Gabriel, Linda Ronstadt, Hall & Oates_
 
 ##### Coldwater Creek
 ### [American women's clothing retailer Coldwater Creek files for chapter 11 bankruptcy. ](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.md)
-_Context: Coldwater Creek, Chapter 11_
+_Context: Chapter 11, Coldwater Creek_
 
 ##### Queensland
 ### [Residents in the Australian state of Queensland prepare for Cyclone Ita to make landfall between Cooktown and Cape Flattery. ](/news/2014/04/11/residents-in-the-australian-state-of-queensland-prepare-for-cyclone-ita-to-make-landfall-between-cooktown-and-cape-flattery.md)
-_Context: Queensland, Cape Flattery, Cooktown_
+_Context: Cooktown, Cape Flattery, Queensland_
 
 ##### magnitude earthquake
 ### [A magnitude 7.1 earthquake strikes off the coast of Papua New Guinea, setting off tsunami warnings for the country. ](/news/2014/04/11/a-magnitude-7-1-earthquake-strikes-off-the-coast-of-papua-new-guinea-setting-off-tsunami-warnings-for-the-country.md)
@@ -29,7 +29,7 @@ Thousands of UN peacekeepers will be sent to the Central African Republic after 
 
 ##### 2014 Crimean crisis
 ### [Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-travel-bans-directed-a.md)
-_Context: Albania, Iceland, supporting sanctions, 2014 Crimean crisis, Norway, Montenegro_
+_Context: Albania, 2014 Crimean crisis, supporting sanctions, Norway, Montenegro, Iceland_
 
 ##### New Citizens' Movement
 ### [The 4-year prison sentence of New Citizens' Movement founder Xu Zhiyong is upheld in a Chinese court. ](/news/2014/04/11/the-4-year-prison-sentence-of-new-citizens-movement-founder-xu-zhiyong-is-upheld-in-a-chinese-court.md)

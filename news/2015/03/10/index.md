@@ -25,11 +25,11 @@ Wikimedia Foundation and eight other groups filed a lawsuit Tuesday against the 
 
 ##### University of Oklahoma
 ### [The University of Oklahoma expels two students identified as ringleaders in the singing of a racist chant by the Sigma Alpha Epsilon fraternity. ](/news/2015/03/10/the-university-of-oklahoma-expels-two-students-identified-as-ringleaders-in-the-singing-of-a-racist-chant-by-the-sigma-alpha-epsilon-fratern.md)
-_Context: University of Oklahoma, Sigma Alpha Epsilon_
+_Context: Sigma Alpha Epsilon, University of Oklahoma_
 
 ##### Pakistan
 ### [Pakistan lifts a moratorium on the death penalty for terrorism, months after reinstating it. ](/news/2015/03/10/pakistan-lifts-a-moratorium-on-the-death-penalty-for-terrorism-months-after-reinstating-it.md)
-_Context: moratorium, terrorism, sentenced to death, Pakistan_
+_Context: moratorium, terrorism, Pakistan, sentenced to death_
 
 ## [Previous Day...](/news/2015/03/9/index.md)
 

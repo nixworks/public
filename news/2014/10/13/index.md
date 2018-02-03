@@ -9,11 +9,11 @@ BAGHDAD (Reuters) - Three bombs exploded in Shi&#x27;ite parts of Baghdad on Mon
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Vongfong makes landfall in the Japanese island of Kyushu causing the evacuation of 150,000 people and disruption to plane and train services. ](/news/2014/10/13/typhoon-vongfong-makes-landfall-in-the-japanese-island-of-kyushu-causing-the-evacuation-of-150-000-people-and-disruption-to-plane-and-train.md)
-_Context: Japan, Kyushu, Typhoon Vongfong, 2014 Pacific typhoon season_
+_Context: Japan, Kyushu, 2014 Pacific typhoon season, Typhoon Vongfong_
 
 ##### 2014 North Indian Ocean cyclone season
 ### [Cyclone Hudhud is downgraded to a tropical depression having caused at least 8 deaths in India with 5 dead in Andhra Pradesh and 3 people dead in Orissa. ](/news/2014/10/13/cyclone-hudhud-is-downgraded-to-a-tropical-depression-having-caused-at-least-8-deaths-in-india-with-5-dead-in-andhra-pradesh-and-3-people-de.md)
-_Context: Andhra Pradesh, 2014 North Indian Ocean cyclone season, India, Cyclone Hudhud, Orissa State_
+_Context: India, Orissa State, 2014 North Indian Ocean cyclone season, Andhra Pradesh, Cyclone Hudhud_
 
 ##### earthquake
 ### [A 7.4 magnitude earthquake occurs off the coast of El Salvador with a tsunami warning issued for the Pacific Ocean coasts of El Salvador, Nicaragua and Honduras. ](/news/2014/10/13/a-7-4-magnitude-earthquake-occurs-off-the-coast-of-el-salvador-with-a-tsunami-warning-issued-for-the-pacific-ocean-coasts-of-el-salvador-ni.md)
@@ -33,7 +33,7 @@ Influential Brazilian environmentalist Marina Silva backs opposition candidate A
 
 ##### Kim Jong-un
 ### [Kim Jong-un, the leader of North Korea makes his first public appearance in five weeks. ](/news/2014/10/13/kim-jong-un-the-leader-of-north-korea-makes-his-first-public-appearance-in-five-weeks.md)
-_Context: Kim Jong-un, North Korea_
+_Context: North Korea, Kim Jong-un_
 
 ##### Evo Morales
 ### [Evo Morales, president of Bolivia is re-elected for a third 5 year term. ](/news/2014/10/13/evo-morales-president-of-bolivia-is-re-elected-for-a-third-5-year-term.md)

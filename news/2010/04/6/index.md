@@ -17,7 +17,7 @@ String of attacks on residential buildings across Iraqi capital leaves dozens de
 
 ##### Second Kyrgyz Revolution
 ### [Kyrgyz Revolution of 2010: Hundreds of protesters seize a government office in Bishkek to request the resignition of Kurmanbek Bakiyev after battling flashbangs and lachrymators. A local governor is taken hostage by protesters. Hundreds surround police HQ. Almazbek Atambayev is seized by police. There are riots in Talas. ](/news/2010/04/6/kyrgyz-revolution-of-2010-hundreds-of-protesters-seize-a-government-office-in-bishkek-to-request-the-resignition-of-kurmanbek-bakiyev-after.md)
-_Context: Talas, Second Kyrgyz Revolution, Kurmanbek Bakiyev, lachrymator, Almazbek Atambayev, flashbang, Bishkek_
+_Context: Bishkek, Almazbek Atambayev, Talas, Kurmanbek Bakiyev, Second Kyrgyz Revolution, lachrymator, flashbang_
 
 ##### South Korea
 ### [Piracy in Somalia: A South Korean warship catches up with an oil tanker that was hijacked by Somali pirates in the Indian Ocean. ](/news/2010/04/6/piracy-in-somalia-a-south-korean-warship-catches-up-with-an-oil-tanker-that-was-hijacked-by-somali-pirates-in-the-indian-ocean.md)
@@ -41,7 +41,7 @@ _Context: North Korea, Red Star operating system_
 
 ##### Prime Minister
 ### [Prime Minister of Turkey Recep Tayyip Erdogan, speaking about 100,000 Armenian illegal immigrants currently living in Turkey, says "I may have to tell these 100,000 to go back to their country because they are not my citizens. I don't have to keep them in my country". ](/news/2010/04/6/prime-minister-of-turkey-recep-tayyip-erdoaan-speaking-about-100-000-armenian-illegal-immigrants-currently-living-in-turkey-says-i-may-h.md)
-_Context: Prime Minister, Recep Tayyip Erdogan, Armenia, Turkish_
+_Context: Prime Minister, Recep Tayyip Erdogan, Turkish, Armenia_
 
 ##### China
 ### [Hackers based in China access classified Indian documents, emails of the Dalai Lama, offices of the United Nations and the Pakistani embassy in the United States. ](/news/2010/04/6/hackers-based-in-china-access-classified-indian-documents-emails-of-the-dalai-lama-offices-of-the-united-nations-and-the-pakistani-embassy.md)
@@ -53,15 +53,15 @@ Police detain at least 14 military officers over alleged plot to topple governme
 
 ##### Egypt
 ### [Baton-wielding Egyptian police disperse a pro-democracy demonstration in Cairo. ](/news/2010/04/6/baton-wielding-egyptian-police-disperse-a-pro-democracy-demonstration-in-cairo.md)
-_Context: Egypt, Cairo_
+_Context: Cairo, Egypt_
 
 ##### South Africa
 ### [South African police build a barricade from razor wire to curtail people scuffles outside Ventersdorp Magistrate's court where two farm workers, aged 15 and 28, are charged with Saturday's murder of white supremacist leader Eugene Terre'Blanche. ](/news/2010/04/6/south-african-police-build-a-barricade-from-razor-wire-to-curtail-people-scuffles-outside-ventersdorp-magistrate-s-court-where-two-farm-work.md)
-_Context: Eugene Terre'Blanche, Ventersdorp, South Africa_
+_Context: Eugene Terre'Blanche, South Africa, Ventersdorp_
 
 ##### President
 ### [President of Yemen Ali Abdullah Saleh frees prisoners as part of its support for the cease-fire. ](/news/2010/04/6/president-of-yemen-ali-abdullah-saleh-frees-prisoners-as-part-of-its-support-for-the-cease-fire.md)
-_Context: President, Yemen, Ali Abdullah Saleh_
+_Context: President, Ali Abdullah Saleh, Yemen_
 
 ##### Sri Lanka
 ### [Campaigning ahead of Sri Lanka's parliamentary election comes to an end. ](/news/2010/04/6/campaigning-ahead-of-sri-lanka-s-parliamentary-election-comes-to-an-end.md)

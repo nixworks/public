@@ -5,7 +5,7 @@ Formats: [HTML](2006/12/12/index.html)  [JSON](2006/12/12/index.json)  [XML](200
 
 ##### Ethiopia
 ### [ An Ethiopian court finds exiled former president Mengistu Haile Mariam guilty of genocide. ](/news/2006/12/12/an-ethiopian-court-finds-exiled-former-president-mengistu-haile-mariam-guilty-of-genocide.md)
-_Context: Ethiopia, Mengistu Haile Mariam_
+_Context: Mengistu Haile Mariam, Ethiopia_
 
 ##### climate science
 ### [ Leading climatologists warn that most of the Arctic ice will have melted by 2040 and the North Pole will be open water. ](/news/2006/12/12/leading-climatologists-warn-that-most-of-the-arctic-ice-will-have-melted-by-2040-and-the-north-pole-will-be-open-water.md)
@@ -17,7 +17,7 @@ _Context: Gaza Strip, Palestinian Authority President, Mahmoud Abbas_
 
 ##### Ipswich
 ### [ Police in Ipswich, UK are hunting a possible serial killer after five prostitutes are found dead within the last ten days. ](/news/2006/12/12/police-in-ipswich-uk-are-hunting-a-possible-serial-killer-after-five-prostitutes-are-found-dead-within-the-last-ten-days.md)
-_Context: prostitute, Ipswich murder case, Ipswich, British_
+_Context: prostitute, British, Ipswich, Ipswich murder case_
 
 ##### Vietnam
 ### [ Vietnam will become the 150th member of the World Trade Organization on January 11, 2007. The move finalises Hanoi's near-12-year wait to join the WTO. ](/news/2006/12/12/vietnam-will-become-the-150th-member-of-the-world-trade-organization-on-january-11-2007-the-move-finalises-hanoi-s-near-12-year-wait-to-j.md)

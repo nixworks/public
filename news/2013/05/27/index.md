@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/27/index.html)  [JSON](2013/05/27/index.json)  [XML](201
 
 ##### Philippines police
 ### [Seven Philippine police officers are killed by a New People's Army land mine in the municipality of Allacapan, Cagayan. ](/news/2013/05/27/seven-philippine-police-officers-are-killed-by-a-new-people-s-army-land-mine-in-the-municipality-of-allacapan-cagayan.md)
-_Context: Philippines police, Allacapan, Cagayan, land mine, New People's Army_
+_Context: Philippines police, Allacapan, Cagayan, New People's Army, land mine_
 
 ##### Shi'ite
 ### [At least 75 people are killed and over 200 injured in a wave of bombings in Shi'ite neighbourhoods across Baghdad as sectarian violence in Iraq continues to increase. ](/news/2013/05/27/at-least-75-people-are-killed-and-over-200-injured-in-a-wave-of-bombings-in-shi-ite-neighbourhoods-across-baghdad-as-sectarian-violence-in-i.md)
@@ -37,7 +37,7 @@ He was the aged-care nurse entrusted to treat the elderly and infirm, but instea
 
 ##### Abdullah
 ### [King Abdullah of Saudi Arabia upgrades the National Guard to a ministry position and appoints his son Mutaib bin Abdullah as the first minister. ](/news/2013/05/27/king-abdullah-of-saudi-arabia-upgrades-the-national-guard-to-a-ministry-position-and-appoints-his-son-mutaib-bin-abdullah-as-the-first-minis.md)
-_Context: border guards, Mutaib bin Abdullah, Abdullah_
+_Context: Mutaib bin Abdullah, Abdullah, border guards_
 
 ##### bryophyte
 ### [400-year-old bryophyte specimens left behind by retreating glaciers in Canada are brought back to life in the laboratory. ](/news/2013/05/27/400-year-old-bryophyte-specimens-left-behind-by-retreating-glaciers-in-canada-are-brought-back-to-life-in-the-laboratory.md)

@@ -13,7 +13,7 @@ Hurricane Matthew heads towards Jamaica, with wind speeds strong enough to wreck
 
 ##### 2016 Ethiopian protests
 ### [Police allegedly attack Oromo protestors at a religious festival in Bishoftu, Ethiopia causing a stampede which kills dozens of people. ](/news/2016/10/2/police-allegedly-attack-oromo-protestors-at-a-religious-festival-in-bishoftu-ethiopia-causing-a-stampede-which-kills-dozens-of-people.md)
-_Context: 2016 Ethiopian protests, Oromo, Ethiopia, Bishoftu_
+_Context: Oromo, Ethiopia, Bishoftu, 2016 Ethiopian protests_
 
 ##### Ravn Alaska
 ### [A Ravn Alaska Cessna 208B crashes near Togiak, Alaska killing three people. ](/news/2016/10/2/a-ravn-alaska-cessna-208b-crashes-near-togiak-alaska-killing-three-people.md)
@@ -29,7 +29,7 @@ Police in Japan are investigating whether a serial poisoner is responsible for k
 
 ##### Hungarian migrant quota referendum, 2016
 ### [Voters in Hungary go to the polls for a referendum on whether to accept mandatory European Union quotas on relocating migrants. While an overwhelming majority of voters reject the EU's migrant quotas, turnout was too low to make the poll valid. ](/news/2016/10/2/voters-in-hungary-go-to-the-polls-for-a-referendum-on-whether-to-accept-mandatory-european-union-quotas-on-relocating-migrants-while-an-ove.md)
-_Context: Hungary, European Union, Hungarian migrant quota referendum, 2016_
+_Context: Hungarian migrant quota referendum, 2016, Hungary, European Union_
 
 ##### Brazil municipal elections, 2016
 ### [Brazilian voters cast ballots in the nationwide election of mayors and city councils in 5,568 municipalities. Pollsters predict that the Workers' Party will fair poorly. This is the country's first election since the impeachment of former president Dilma Rousseff. ](/news/2016/10/2/brazilian-voters-cast-ballots-in-the-nationwide-election-of-mayors-and-city-councils-in-5-568-municipalities-pollsters-predict-that-the-wor.md)
@@ -41,7 +41,7 @@ Hungarians have overwhelmingly rejected the EU&#39;s refugee quota plan in a ref
 
 ##### Marino Riccardi
 ### [Marino Riccardi and Fabio Berardi take office as the Captains Regent of San Marino. ](/news/2016/10/2/marino-riccardi-and-fabio-berardi-take-office-as-the-captains-regent-of-san-marino.md)
-_Context: San Marino, Marino Riccardi, Fabio Berardi, Captains Regent_
+_Context: Marino Riccardi, Captains Regent, San Marino, Fabio Berardi_
 
 ## [Previous Day...](/news/2016/10/1/index.md)
 

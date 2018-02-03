@@ -11,7 +11,7 @@ Thousands gathered in Istanbul&#39;s Taksim square late on Thursday in a show of
 ### [Ten people, including the gunman, are killed and 21 wounded in a shooting in and around the Olympia-Einkaufszentrum shopping mall in the Moosach district of Munich, Germany, next to the Olympic stadium.](/news/2016/07/22/ten-people-including-the-gunman-are-killed-and-21-wounded-in-a-shooting-in-and-around-the-olympia-einkaufszentrum-shopping-mall-in-the-moo.md)
 A German-Iranian teenager who shot dead nine people in Munich was a deranged lone gunman obsessed with mass killings who drew no inspiration from Islamist militancy, police said on Saturday.
 
-##### Chinese
+##### China
 ### [China begins demolishing buildings and evicting residents at Larung Gar in Tibet, one of the largest religious institutes in the world. Officials put forward overpopulation and security as the leading reasons for the planned action. ](/news/2016/07/22/china-begins-demolishing-buildings-and-evicting-residents-at-larung-gar-in-tibet-one-of-the-largest-religious-institutes-in-the-world-offi.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 

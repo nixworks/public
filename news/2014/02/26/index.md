@@ -9,7 +9,7 @@ Reviled on the Maidan, members of the &ldquo;Berkut&rdquo; are offered sanctuary
 
 ##### Syria
 ### [Syrian army and Hezbollah troops kill over 70 rebel fighters in an ambush in the outskirts of Damascus. ](/news/2014/02/26/syrian-army-and-hezbollah-troops-kill-over-70-rebel-fighters-in-an-ambush-in-the-outskirts-of-damascus.md)
-_Context: Hezbollah, Damascus, Syria, ambush_
+_Context: Syria, Hezbollah, Damascus, ambush_
 
 ##### Egypt
 ### [An Egyptian court sentences 26 people to death in absentia for plotting attacks on ships passing through the Suez Canal. ](/news/2014/02/26/an-egyptian-court-sentences-26-people-to-death-in-absentia-for-plotting-attacks-on-ships-passing-through-the-suez-canal.md)

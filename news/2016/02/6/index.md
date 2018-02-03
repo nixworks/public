@@ -9,11 +9,11 @@ An Australian woman has been freed after she and her husband were kidnapped by a
 
 ##### Syrian Civil War
 ### [The Syrian Army, backed by the Russian Air Force, takes control of the town of Ratyan in the Aleppo Governorate, after defeating Al-Nusra Front and Ahrar ash-Sham fighters. ](/news/2016/02/6/the-syrian-army-backed-by-the-russian-air-force-takes-control-of-the-town-of-ratyan-in-the-aleppo-governorate-after-defeating-al-nusra-fr.md)
-_Context: Aleppo Governorate, Russian Air Force, Ratyan, Ahrar ash-Sham, Jabhat al-Nusra, government offensive, Syrian Civil War, Syrian Army_
+_Context: government offensive, Aleppo Governorate, Jabhat al-Nusra, Ratyan, Syrian Civil War, Russian Air Force, Syrian Army, Ahrar ash-Sham_
 
 ##### Pakistani security forces
 ### [Ten people are killed and more than 40 injured when a suicide bomber on a bicycle blew himself up near a Pakistani security forces truck in Quetta, Pakistan. ](/news/2016/02/6/ten-people-are-killed-and-more-than-40-injured-when-a-suicide-bomber-on-a-bicycle-blew-himself-up-near-a-pakistani-security-forces-truck-in.md)
-_Context: Quetta, Pakistan, Pakistani security forces_
+_Context: Pakistani security forces, Pakistan, Quetta_
 
 ##### Queen Jetsun Pema of Bhutan
 ### [Queen Jetsun Pema of Bhutan gives birth to a son, the heir apparent of the Bhutanese throne. ](/news/2016/02/6/queen-jetsun-pema-of-bhutan-gives-birth-to-a-son-the-heir-apparent-of-the-bhutanese-throne.md)
@@ -29,7 +29,7 @@ Search and rescue operations were still under way on Saturday afternoon, and it 
 
 ##### sledding
 ### [Twin brothers are killed and six others injured in a sledding accident on an Olympic bobsledding course at Canada Olympic Park in Calgary, Alberta. ](/news/2016/02/6/twin-brothers-are-killed-and-six-others-injured-in-a-sledding-accident-on-an-olympic-bobsledding-course-at-canada-olympic-park-in-calgary-a.md)
-_Context: Calgary, Alberta, Olympic, sledding, Alberta, bobsledding, course, Canada Olympic Park_
+_Context: course, Alberta, Calgary, Alberta, Canada Olympic Park, sledding, bobsledding, Olympic_
 
 ##### North Korea
 ### [North Korea brings forward the date of a potential satellite launch to as early as tomorrow. ](/news/2016/02/6/north-korea-brings-forward-the-date-of-a-potential-satellite-launch-to-as-early-as-tomorrow.md)
@@ -49,7 +49,7 @@ Outspoken member of commission refuses to step down, brands investigation a &lsq
 
 ##### Opposition to immigration
 ### [Protesters rally against Islam and immigration in several European cities amid growing tensions over the massive influx of asylum-seekers to the continent. ](/news/2016/02/6/protesters-rally-against-islam-and-immigration-in-several-european-cities-amid-growing-tensions-over-the-massive-influx-of-asylum-seekers-to.md)
-_Context: European migrant crisis, Anti-Islamism, Islam, Opposition to immigration_
+_Context: Opposition to immigration, Anti-Islamism, European migrant crisis, Islam_
 
 ## [Previous Day...](/news/2016/02/5/index.md)
 

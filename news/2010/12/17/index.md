@@ -17,7 +17,7 @@ Partnership seen as &#039;vote of confidence&#039; in resource; billions to be s
 
 ##### Christmas Island
 ### [The death toll from the Christmas Island wreck rises to 30 with many still missing. ](/news/2010/12/17/the-death-toll-from-the-christmas-island-wreck-rises-to-30-with-many-still-missing.md)
-_Context: wreck, Christmas Island_
+_Context: Christmas Island, wreck_
 
 ##### blizzards and widespread ice
 ### [Further disruption is caused by blizzards and widespread ice in many parts of the United Kingdom, with more wintry weather forecast for the weekend. ](/news/2010/12/17/further-disruption-is-caused-by-blizzards-and-widespread-ice-in-many-parts-of-the-united-kingdom-with-more-wintry-weather-forecast-for-the.md)
@@ -25,7 +25,7 @@ Blizzards and widespread ice in many parts of the UK are causing considerable di
 
 ##### Cuba
 ### [Cuba is hit by a cold wave, and some locations register 50-year record low temperatures. ](/news/2010/12/17/cuba-is-hit-by-a-cold-wave-and-some-locations-register-50-year-record-low-temperatures.md)
-_Context: Cuba, cold spell_
+_Context: cold spell, Cuba_
 
 ##### Bolivia
 ### [Bolivia recognizes the State of Palestine. ](/news/2010/12/17/bolivia-recognizes-the-state-of-palestine.md)
@@ -37,7 +37,7 @@ The government announces that prisoners serving fewer than four years will be el
 
 ##### Cook Islands
 ### [The Cook Islands announces the country's first ever HIV infection. ](/news/2010/12/17/the-cook-islands-announces-the-country-s-first-ever-hiv-infection.md)
-_Context: HIV, Cook Islands_
+_Context: Cook Islands, HIV_
 
 ##### China
 ### [China launches 7th Beidou navigation satellite. ](/news/2010/12/17/china-launches-7th-beidou-navigation-satellite.md)

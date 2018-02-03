@@ -9,11 +9,11 @@ _Context: Gulf Co-operation Council, 2011 Syrian uprising_
 
 ##### Islamist
 ### [The Islamist al-Shabaab rebels in Somalia pull out of the capital Mogadishu. ](/news/2011/08/6/the-islamist-al-shabaab-rebels-in-somalia-pull-out-of-the-capital-mogadishu.md)
-_Context: Somalia, Islamist, Mogadishu, Al-Shabaab_
+_Context: Islamist, Al-Shabaab, Mogadishu, Somalia_
 
 ##### Saudi Arabia
 ### [Police in Saudi Arabia shoot dead a gunman who fired at the palace of Prince Nayef bin Abdul-Aziz Al Saud in Jeddah. ](/news/2011/08/6/police-in-saudi-arabia-shoot-dead-a-gunman-who-fired-at-the-palace-of-prince-nayef-bin-abdul-aziz-al-saud-in-jeddah.md)
-_Context: Saudi Arabia, Crown Prince Nayef, Jeddah_
+_Context: Crown Prince Nayef, Saudi Arabia, Jeddah_
 
 ##### NATO
 ### [A NATO Chinook helicopter crashes in the Sayd Abad district of Afghanistan's Wardak province after being shot down by the Taliban with 37 deaths. ](/news/2011/08/6/a-nato-chinook-helicopter-crashes-in-the-sayd-abad-district-of-afghanistan-s-wardak-province-after-being-shot-down-by-the-taliban-with-37-de.md)
@@ -25,11 +25,11 @@ Police are on the streets of Tottenham, north London, where overnight riots saw 
 
 ##### China
 ### [500,000 people are evacuated in eastern China as Typhoon Muifa approaches. ](/news/2011/08/6/500-000-people-are-evacuated-in-eastern-china-as-typhoon-muifa-approaches.md)
-_Context: China, Typhoon Muifa_
+_Context: Typhoon Muifa, China_
 
 ##### asylum seekers
 ### [Asylum seekers at the Christmas Island Immigration Reception and Processing Centre off the Indian Ocean coast of Western Australia start a hunger strike in protest at their deportation to Malaysia. ](/news/2011/08/6/asylum-seekers-at-the-christmas-island-immigration-reception-and-processing-centre-off-the-indian-ocean-coast-of-western-australia-start-a-h.md)
-_Context: hunger strike, Indian, asylum seekers, Western Australia, Malaysia, Christmas Island Immigration Reception and Processing Centre_
+_Context: hunger strike, asylum seekers, Indian, Christmas Island Immigration Reception and Processing Centre, Western Australia, Malaysia_
 
 ## [Previous Day...](/news/2011/08/5/index.md)
 

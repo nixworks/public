@@ -13,7 +13,7 @@ A brand new daily paper claiming to “fly a vibrant flag for Scottish independe
 
 ##### chief executive officer
 ### [The chief executive officer of United Technologies abruptly steps down. ](/news/2014/11/24/the-chief-executive-officer-of-united-technologies-abruptly-steps-down.md)
-_Context: United Technologies, chief executive officer_
+_Context: chief executive officer, United Technologies_
 
 ##### Malaysia Airlines flight MH17
 ### [The Dutch Safety Board reports that it has finished work on recovery of the wreckage of Malaysia Airlines flight MH17. ](/news/2014/11/24/the-dutch-safety-board-reports-that-it-has-finished-work-on-recovery-of-the-wreckage-of-malaysia-airlines-flight-mh17.md)

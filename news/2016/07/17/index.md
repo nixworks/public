@@ -9,7 +9,7 @@ One person was killed and least three wounded as an armed group seized a police 
 
 ##### Syrian Civil War
 ### [Syrian Government forces capture the main road into the parts of Aleppo controlled by rebels. ](/news/2016/07/17/syrian-government-forces-capture-the-main-road-into-the-parts-of-aleppo-controlled-by-rebels.md)
-_Context: Syrian Government, Syrian Civil War, Aleppo_
+_Context: Syrian Government, Aleppo, Syrian Civil War_
 
 ##### Second Libyan Civil War
 ### [UN-backed talks are underway in Tunis regarding the future of Libya, including discussions on forming a unified army for the Government of National Accord. ](/news/2016/07/17/un-backed-talks-are-underway-in-tunis-regarding-the-future-of-libya-including-discussions-on-forming-a-unified-army-for-the-government-of-n.md)

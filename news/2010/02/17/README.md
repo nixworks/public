@@ -5,11 +5,11 @@ Formats: [HTML](2010/02/17/index.html)  [JSON](2010/02/17/index.json)  [XML](201
 
 ##### Mexico City
 ### [500,000 residents of Mexico City have been vaccinated against the A-H1N1 flu. ](/news/2010/02/17/500-000-residents-of-mexico-city-have-been-vaccinated-against-the-a-h1n1-flu.md)
-_Context: A/H1N1, Mexico City, vaccinated_
+_Context: Mexico City, A/H1N1, vaccinated_
 
 ##### Santika Club fire
 ### [Four people are charged in connection with the Santika Club fire in Thailand on December 31, 2008. ](/news/2010/02/17/four-people-are-charged-in-connection-with-the-santika-club-fire-in-thailand-on-december-31-2008.md)
-_Context: Thailand, Santika Club fire_
+_Context: Santika Club fire, Thailand_
 
 ##### luge
 ### [The body of fallen luger Nodar Kumaritashvili returns to his hometown of Bakuriani, Georgia for burial. ](/news/2010/02/17/the-body-of-fallen-luger-nodar-kumaritashvili-returns-to-his-hometown-of-bakuriani-georgia-for-burial.md)
@@ -17,7 +17,7 @@ The body of the Georgian luger killed during a practice run at the Vancouver Oly
 
 ##### Guam
 ### [Guam Governor Felix Perez Camacho issues an executive order changing the name of "Guam" to "Guahan" in government documents and signage and calls for unification with the Northern Mariana Islands. ](/news/2010/02/17/guam-governor-felix-perez-camacho-issues-an-executive-order-changing-the-name-of-guam-to-guahan-in-government-documents-and-signage-and.md)
-_Context: Northern Mariana Islands, Governor, unification, executive actions, Felix Perez Camacho, Guam_
+_Context: unification, Felix Perez Camacho, Northern Mariana Islands, executive actions, Guam, Governor_
 
 ##### bus crash
 ### [At least 22 people are killed in a bus crash in Northern India. ](/news/2010/02/17/at-least-22-people-are-killed-in-a-bus-crash-in-northern-india.md)
@@ -29,15 +29,15 @@ Three of the Irish passports used by those responsible for the killing of a seni
 
 ##### Kenya
 ### [Police in Kenya free five suspects held in connection with organising a gay wedding in a Mtwapa hotel. ](/news/2010/02/17/police-in-kenya-free-five-suspects-held-in-connection-with-organising-a-gay-wedding-in-a-mtwapa-hotel.md)
-_Context: Kenya, Mtwapa, organising a gay wedding_
+_Context: Mtwapa, organising a gay wedding, Kenya_
 
 ##### British
 ### [Services from the UK, France, Germany and the Netherlands remain disrupted as investigations continue into the Halle train collision in Belgium.](/news/2010/02/17/services-from-the-uk-france-germany-and-the-netherlands-remain-disrupted-as-investigations-continue-into-the-halle-train-collision-in-belg.md)
-_Context: Belgium, Netherlands, France, German, British, Halle train collision_
+_Context: Netherlands, German, British, France, Halle train collision, Belgium_
 
 ##### Supreme Administrative Court of Ukraine
 ### [The Supreme Administrative Court of Ukraine suspends the decision of the Electoral Commission to declare Viktor Yanukovych the winner of the Ukrainian presidential election until the court has decided on the complaints brought by the other candidate, Prime Minister Yulia Tymoshenko. ](/news/2010/02/17/the-supreme-administrative-court-of-ukraine-suspends-the-decision-of-the-electoral-commission-to-declare-viktor-yanukovych-the-winner-of-the.md)
-_Context: Ukrainian presidential election, Electoral Commission, Viktor Yanukovych, Yulia Tymoshenko, Prime Minister of Ukraine, Supreme Administrative Court of Ukraine_
+_Context: Ukrainian presidential election, Yulia Tymoshenko, Prime Minister of Ukraine, Viktor Yanukovych, Electoral Commission, Supreme Administrative Court of Ukraine_
 
 ##### Reader's Digest
 ### [The UK branch of publishing company "Reader's Digest" files for administration. ](/news/2010/02/17/the-uk-branch-of-publishing-company-reader-s-digest-files-for-administration.md)
@@ -49,11 +49,11 @@ Walgreen is buying the Duane Reade chain of 257 drugstores in the New York area 
 
 ##### Archbishop
 ### [Five southern Africans, including Archbishop Desmond Tutu, have their genomes analysed by scientists and published in "Nature", with Tutu excited to discover he is "related to the San people, the first people to inhabit Southern Africa". ](/news/2010/02/17/five-southern-africans-including-archbishop-desmond-tutu-have-their-genomes-analysed-by-scientists-and-published-in-nature-with-tutu-ex.md)
-_Context: Archbishop, ''Nature'', San people, Desmond Tutu_
+_Context: ''Nature'', San people, Desmond Tutu, Archbishop_
 
 ##### Rwanda
 ### [Rwanda, the East African country that is embracing a transition to a Green economy, will be the global host of World Environment Day on 5 June 2010. ](/news/2010/02/17/rwanda-the-east-african-country-that-is-embracing-a-transition-to-a-green-economy-will-be-the-global-host-of-world-environment-day-on-5-ju.md)
-_Context: June 2010, World Environment Day, East Africa, Green economy, Rwanda_
+_Context: June 2010, Green economy, World Environment Day, East Africa, Rwanda_
 
 ## [Previous Day...](/news/2010/02/16/index.md)
 

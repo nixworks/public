@@ -9,7 +9,7 @@ _Context: Palestinian, Hamas, Palestinian Authority_
 
 ##### Attorney General
 ### [ The Attorney General of Israel, Meni Mazuz, tells the government to call an immediate halt to confiscating Palestinian property in East Jerusalem under a 1950 land law. The legislation entitles Israel to take Arab-owned land, and Mr Mazuz described it as illegal. ](/news/2005/02/1/the-attorney-general-of-israel-meni-mazuz-tells-the-government-to-call-an-immediate-halt-to-confiscating-palestinian-property-in-east-jer.md)
-_Context: Arab, Meni Mazuz, Israel, East Jerusalem, Attorney General_
+_Context: Attorney General, Arab, Meni Mazuz, East Jerusalem, Israel_
 
 ##### Bedouin
 ### [ Five people are suspected to have died following clashes between Egyptian security forces and Bedouins suspected of being involved in last years bombings in Taba, which was aimed at Israeli holiday makers. ](/news/2005/02/1/five-people-are-suspected-to-have-died-following-clashes-between-egyptian-security-forces-and-bedouins-suspected-of-being-involved-in-last.md)
@@ -21,19 +21,19 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Indonesia
 ### [ Indonesian cleric Abu Bakar Ba'asyir denies any involvement in the 2002 Bali bombings and the Marriott Hotel attack, saying that the bombings were wrong. He also denies being a member of Jemaah Islamiah. ](/news/2005/02/1/indonesian-cleric-abu-bakar-ba-asyir-denies-any-involvement-in-the-2002-bali-bombings-and-the-marriott-hotel-attack-saying-that-the-bombin.md)
-_Context: Jemaah Islamiah, Abu Bakar Ba'asyir, Marriott Hotel, Indonesia, 2002 Bali bombings_
+_Context: Marriott Hotel, Abu Bakar Ba'asyir, Jemaah Islamiah, 2002 Bali bombings, Indonesia_
 
 ##### detention camps
 ### [ A man who had been detained since December 2001 in the UK without a trial, or a charge, on suspicion of being involved in terrorism has been released without conditions, his lawyer states. ](/news/2005/02/1/a-man-who-had-been-detained-since-december-2001-in-the-uk-without-a-trial-or-a-charge-on-suspicion-of-being-involved-in-terrorism-has-bee.md)
-_Context: detention camps, terrorism, lawyer_
+_Context: detention camps, lawyer, terrorism_
 
 ##### United Nations
 ### [ A United Nations report makes accusations of killings, torture and rape of civilians in Sudan's Darfur area, and calls for those accused of carrying out war crimes to be put on trial. The report stops short of calling the events a genocide. ](/news/2005/02/1/a-united-nations-report-makes-accusations-of-killings-torture-and-rape-of-civilians-in-sudan-s-darfur-area-and-calls-for-those-accused-of.md)
-_Context: genocide, torture, Darfur, Sudan, war crimes, United Nations_
+_Context: torture, United Nations, war crimes, Sudan, genocide, Darfur_
 
 ##### Gori
 ### [ At least three people are known to have died following a bomb blast in Gori, northern Georgia. ](/news/2005/02/1/at-least-three-people-are-known-to-have-died-following-a-bomb-blast-in-gori-northern-georgia.md)
-_Context:  Georgian, Gori_
+_Context: Gori,  Georgian_
 
 ##### Gyanendra of Nepal
 ### [ King Gyanendra of Nepal sacks the government of Sher Bahadur Deuba and takes direct power for himself. ](/news/2005/02/1/king-gyanendra-of-nepal-sacks-the-government-of-sher-bahadur-deuba-and-takes-direct-power-for-himself.md)
@@ -41,11 +41,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### China
 ### [ The government of the People's Republic of China issues emergency orders to stop a meningitis outbreak that has killed 16 people. ](/news/2005/02/1/the-government-of-the-people-s-republic-of-china-issues-emergency-orders-to-stop-a-meningitis-outbreak-that-has-killed-16-people.md)
-_Context: outbreak, China, meningitis_
+_Context: outbreak, meningitis, China_
 
 ##### Kenya
 ### [ Ex-president of Kenya and chairman of KANU party, Daniel arap Moi, is due to step down. His successor will be Uhuru Kenyatta, son of Jomo Kenyatta. ](/news/2005/02/1/ex-president-of-kenya-and-chairman-of-kanu-party-daniel-arap-moi-is-due-to-step-down-his-successor-will-be-uhuru-kenyatta-son-of-jomo-k.md)
-_Context: Daniel arap Moi, Uhuru Kenyatta, Jomo Kenyatta, KANU, Kenya_
+_Context: KANU, Uhuru Kenyatta, Kenya, Jomo Kenyatta, Daniel arap Moi_
 
 ##### South Korea
 ### [ South Korea's foreign minister believes that North Korea will re-enter talks about its nuclear proliferation. ](/news/2005/02/1/south-korea-s-foreign-minister-believes-that-north-korea-will-re-enter-talks-about-its-nuclear-proliferation.md)

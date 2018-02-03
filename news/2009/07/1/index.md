@@ -17,7 +17,7 @@ A flurry of negotiations began on Wednesday to lay the groundwork for a possible
 
 ##### Sweden
 ### [ Swedish Prime Minister Fredrik Reinfeldt assumes the rotating presidency over the European Union. ](/news/2009/07/1/swedish-prime-minister-fredrik-reinfeldt-assumes-the-rotating-presidency-over-the-european-union.md)
-_Context: Sweden, European Union, Fredrik Reinfeldt_
+_Context: Fredrik Reinfeldt, European Union, Sweden_
 
 ##### Comoros
 ### [ Officials in Comoros confirm that one passenger from Yemenia Flight 626, a 14-year-old girl, has been found alive. ](/news/2009/07/1/officials-in-comoros-confirm-that-one-passenger-from-yemenia-flight-626-a-14-year-old-girl-has-been-found-alive.md)
@@ -25,11 +25,11 @@ _Context: Yemenia Flight 626, Comoros_
 
 ##### Croatia
 ### [ Croatian Prime Minister Ivo Sanader resigns amidst European Union negotiations standstill and economic crisis. ](/news/2009/07/1/croatian-prime-minister-ivo-sanader-resigns-amidst-european-union-negotiations-standstill-and-economic-crisis.md)
-_Context: formal entry of Croatia, Croatia, prime minister, Ivo Sanader, economic crisis, European Union_
+_Context: formal entry of Croatia, Ivo Sanader, economic crisis, prime minister, Croatia, European Union_
 
 ##### Met Office
 ### [ The Met Office issues a level-3 heat wave alert across London and the South East of England for the first time since June 2006. ](/news/2009/07/1/the-met-office-issues-a-level-3-heat-wave-alert-across-london-and-the-south-east-of-england-for-the-first-time-since-june-2006.md)
-_Context: South East England, heat wave, London, Met Office_
+_Context: London, South East England, heat wave, Met Office_
 
 ##### Taoiseach
 ### [ Taoiseach Brian Cowen informs Dil ireann that Ireland has 11.9% unemployment, with June's growth the slowest rate of increase since January. ](/news/2009/07/1/taoiseach-brian-cowen-informs-dail-eireann-that-ireland-has-11-9-unemployment-with-june-s-growth-the-slowest-rate-of-increase-since-janua.md)
@@ -37,7 +37,7 @@ The Taoiseach has told the Dáil that the number of people who signed on the Liv
 
 ##### British
 ### [ Three staff from the British Embassy in Tehran, Iran, are released after being detained for allegedly having a role in the post-election protests. ](/news/2009/07/1/three-staff-from-the-british-embassy-in-tehran-iran-are-released-after-being-detained-for-allegedly-having-a-role-in-the-post-election-pr.md)
-_Context: Iran, Tehran, British_
+_Context: Tehran, Iran, British_
 
 ##### crash of Air France Flight 447
 ### [ The remains of Jane Deasy are positively identified in the bodies recovered from Air France Flight 447. ](/news/2009/07/1/the-remains-of-jane-deasy-are-positively-identified-in-the-bodies-recovered-from-air-france-flight-447.md)

@@ -21,15 +21,15 @@ Human teeth dating back 400,000 years, found in a cave near Rosh HaAyin are the 
 
 ##### Elton John
 ### [Sir Elton John and his partner David Furnish become parents after a surrogate mother from California gives birth to a son on Christmas Day. The boy is named Zachary Jackson Levon Furnish-John. ](/news/2010/12/28/sir-elton-john-and-his-partner-david-furnish-become-parents-after-a-surrogate-mother-from-california-gives-birth-to-a-son-on-christmas-day.md)
-_Context: surrogate mother, David Furnish, Elton John, California, Christmas Day_
+_Context: David Furnish, surrogate mother, Elton John, California, Christmas Day_
 
 ##### protests
 ### [2010 Tunisian protests: Protests in Tunisia over unemployment and poor living conditions are criticized by President Zine El Abidine Ben Ali during a national television broadcast; he warns of "firm" punishment. ](/news/2010/12/28/2010-tunisian-protests-protests-in-tunisia-over-unemployment-and-poor-living-conditions-are-criticized-by-president-zine-el-abidine-ben-ali.md)
-_Context: Tunisia, President, Zine El Abidine Ben Ali, protests_
+_Context: protests, President, Zine El Abidine Ben Ali, Tunisia_
 
 ##### Turkish
 ### [Turkish construction workers employed in Israel protest in front of the Turkish Embassy in Tel Aviv over fears they may lose their jobs. ](/news/2010/12/28/turkish-construction-workers-employed-in-israel-protest-in-front-of-the-turkish-embassy-in-tel-aviv-over-fears-they-may-lose-their-jobs.md)
-_Context: Turkish, Israel, Tel Aviv_
+_Context: Israel, Tel Aviv, Turkish_
 
 ##### Northern Ireland
 ### [Thousands of homes and businesses in Northern Ireland are without water as melting snow and ice from the recent freezing weather conditions reveals burst pipes. Northern Ireland Water says it is alternating supplies from reservoirs in order to help alleviate the crisis in which some have been without supplies since before Christmas. ](/news/2010/12/28/thousands-of-homes-and-businesses-in-northern-ireland-are-without-water-as-melting-snow-and-ice-from-the-recent-freezing-weather-conditions.md)
@@ -41,15 +41,15 @@ Five teenagers die at a party in a southern Florida motel room in what officials
 
 ##### Russia
 ### [A Russian Antonov military cargo plane crashes between Tula and Oryol, Russia, killing all 11 on board.](/news/2010/12/28/a-russian-antonov-military-cargo-plane-crashes-between-tula-and-oryol-russia-killing-all-11-on-board.md)
-_Context: Oryol, Tula, Antonov An-22, Russia_
+_Context: Tula, Antonov An-22, Oryol, Russia_
 
 ##### Beninese
 ### [The leaders of Benin, Cape Verde and Sierra Leone arrive in Cote d'Ivoire to urge Laurent Gbagbo to resign as President. ](/news/2010/12/28/the-leaders-of-benin-cape-verde-and-sierra-leone-arrive-in-ca-te-d-ivoire-to-urge-laurent-gbagbo-to-resign-as-president.md)
-_Context: Beninese, Laurent Gbagbo, Cote d'Ivoire, Cape Verde, President, Sierra Leone_
+_Context: Sierra Leone, Laurent Gbagbo, Beninese, Cote d'Ivoire, President, Cape Verde_
 
 ##### Spain
 ### [Spain and Russia each expel two diplomats on suspicion of spying in a tit-for-tat row. ](/news/2010/12/28/spain-and-russia-each-expel-two-diplomats-on-suspicion-of-spying-in-a-tit-for-tat-row.md)
-_Context: Spain, Russia_
+_Context: Russia, Spain_
 
 ##### China
 ### [A Chinese investigative reporter known for reporting on sensitive issues dies after being attacked by six men. ](/news/2010/12/28/a-chinese-investigative-reporter-known-for-reporting-on-sensitive-issues-dies-after-being-attacked-by-six-men.md)
@@ -65,7 +65,7 @@ Bristol landscape architect Joanna Yeates was strangled, a post-mortem examinati
 
 ##### Kuwait
 ### [Kuwaiti Prime Minister Nasser Mohammed Al-Ahmed Al-Sabah is grilled by MPs over clashes between riot police and protesters at an opposition rally earlier this month. ](/news/2010/12/28/kuwaiti-prime-minister-nasser-mohammed-al-ahmed-al-sabah-is-grilled-by-mps-over-clashes-between-riot-police-and-protesters-at-an-opposition.md)
-_Context: MP, Kuwait, Nasser Mohammed Al-Ahmed Al-Sabah, Prime Minister_
+_Context: Nasser Mohammed Al-Ahmed Al-Sabah, MP, Kuwait, Prime Minister_
 
 ##### government
 ### [The UK Government defends a decision not to include children under the age of five in this year's flu vaccination programme, saying the decision is for medical and not financial reasons. ](/news/2010/12/28/the-uk-government-defends-a-decision-not-to-include-children-under-the-age-of-five-in-this-year-s-flu-vaccination-programme-saying-the-deci.md)

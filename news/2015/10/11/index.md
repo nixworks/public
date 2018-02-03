@@ -13,11 +13,11 @@ A suicide bomber targeted a foreign forces convoy in downtown Kabul during morni
 
 ##### Syrian Civil War
 ### [Following Russian airstrikes, the Syrian army and allied Lebanese Hezbollah militia take control of a highland area in Idlib province close to insurgent-held positions, according to the Syrian Observatory for Human Rights. ](/news/2015/10/11/following-russian-airstrikes-the-syrian-army-and-allied-lebanese-hezbollah-militia-take-control-of-a-highland-area-in-idlib-province-close.md)
-_Context: Syrian Observatory for Human Rights, Russian military intervention in the Syrian Civil War, Syrian Civil War, Idlib Governorate, Lebanon, Hezbollah, Russia, Syrian army's_
+_Context: Russian military intervention in the Syrian Civil War, Syrian army's, Russia, Syrian Observatory for Human Rights, Lebanon, Hezbollah, Syrian Civil War, Idlib Governorate_
 
 ##### Boko Haram insurgency in Cameroon
 ### [At least eight people are killed following a suicide bomb attack in northern Cameroon's Sangueleri region near the Nigerian border. Boko Haram have previously carried out attacks in the region. ](/news/2015/10/11/at-least-eight-people-are-killed-following-a-suicide-bomb-attack-in-northern-cameroon-s-sangueleri-region-near-the-nigerian-border-boko-har.md)
-_Context: Cameroon, suicide bombing, Boko Haram, Far North Region, Boko Haram insurgency in Cameroon, Nigeria_
+_Context: Cameroon, Nigeria, Boko Haram insurgency in Cameroon, Far North Region, Boko Haram, suicide bombing_
 
 ##### Turkey-PKK conflict
 ### [The Turkish Air Force launches a wave of airstrikes against PKK targets in northern Iraq and southeastern Turkey. Turkish security officials have also rejected a PKK ceasefire declared on Saturday shortly after the bombings in Ankara, saying "The PKK ceasefire means nothing for us. The operations will continue without a break". ](/news/2015/10/11/the-turkish-air-force-launches-a-wave-of-airstrikes-against-pkk-targets-in-northern-iraq-and-southeastern-turkey-turkish-security-officials.md)
@@ -25,7 +25,7 @@ Turkish warplanes struck Kurdistan Workers Party (PKK) militant targets in north
 
 ##### Iraqi Civil War (2014-present)
 ### [Iraq's military reports bombing a convoy possibly carrying Islamic State of Iraq and the Levant leader, Abu Bakr al-Baghdadi. The group was headed to a meeting in the western Al Anbar Governorate, close to the Syrian border. Eight senior ISIS figures were killed, but al-Baghdadi did not appear to be among them according to Iraqi officials. ](/news/2015/10/11/iraq-s-military-reports-bombing-a-convoy-possibly-carrying-islamic-state-of-iraq-and-the-levant-leader-abu-bakr-al-baghdadi-the-group-was.md)
-_Context: Anbar province, Iraqi Civil War (2014-present), Syria, Iraq, ISIL, Abu Bakr al-Baghdadi_
+_Context: Abu Bakr al-Baghdadi, ISIL, Anbar province, Syria, Iraqi Civil War (2014-present), Iraq_
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [An Arab coalition airstrike on a prison in Yemen's central Al Bayda Governorate, reportedly kills 20 prisoners. The prison which held more than 100 prisoners was controlled by the Houthis. ](/news/2015/10/11/an-arab-coalition-airstrike-on-a-prison-in-yemen-s-central-al-bayda-governorate-reportedly-kills-20-prisoners-the-prison-which-held-more-t.md)
@@ -33,7 +33,7 @@ Sanaa, Oct 12 (IANS) At least 20 prisoners were killed when warplanes of the Sau
 
 ##### South Africa
 ### [South Africa plans to leave the International Criminal Court (ICC) as the government faces criticism for, earlier this year, ignoring a court order to arrest Sudan's president. ](/news/2015/10/11/south-africa-plans-to-leave-the-international-criminal-court-icc-as-the-government-faces-criticism-for-earlier-this-year-ignoring-a-cour.md)
-_Context: South Africa, ICC, Sudan_
+_Context: ICC, South Africa, Sudan_
 
 ##### ISNA
 ### [Iranian Students News Agency reports an undisclosed verdict has been reached in the espionage case of "Washington Post" reporter Jason Rezaian, who has been held by Iran for more than 14 months. The final closed door hearing on Rezaian's case was on August 10, 2015. By not disclosing details, the Post stated that it seems Tehran could be working a political angle. Last month at the UN, Iranian President Hassan Rouhani told journalists he would welcome quicker steps on mutual prisoner releases. ](/news/2015/10/11/iranian-students-news-agency-reports-an-undisclosed-verdict-has-been-reached-in-the-espionage-case-of-washington-post-reporter-jason-rezai.md)

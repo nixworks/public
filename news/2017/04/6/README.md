@@ -17,7 +17,7 @@ Second Israeli lightly wounded after Palestinian ploughed into two Israelis, bot
 
 ##### Seven & I Holdings Co.
 ### [Seven & I Holdings Co., the parent company of the 7-Eleven convenience store chain, agrees to acquire the retail operations of Sunoco for $3.3 billion. ](/news/2017/04/6/seven-i-holdings-co-the-parent-company-of-the-7-eleven-convenience-store-chain-agrees-to-acquire-the-retail-operations-of-sunoco-for-3.md)
-_Context: 7-Eleven, convenience store, Sunoco, Seven & I Holdings Co._
+_Context: Seven & I Holdings Co., Sunoco, convenience store, 7-Eleven_
 
 ##### Cyclone Debbie
 ### [Severe flooding caused by Cyclone Debbie forces the evacuation of Edgecumbe, New Zealand, and nearby areas. ](/news/2017/04/6/severe-flooding-caused-by-cyclone-debbie-forces-the-evacuation-of-edgecumbe-new-zealand-and-nearby-areas.md)

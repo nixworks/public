@@ -45,7 +45,7 @@ _Context: China, Hebei, Luanxian_
 
 ##### India
 ### [ Indian and Burmese armed forces target a Nagaland separatist rebel base in the northeast of Burma. ](/news/2009/11/6/indian-and-burmese-armed-forces-target-a-nagaland-separatist-rebel-base-in-the-northeast-of-burma.md)
-_Context: India, Nagaland, Burma, separatist rebel_
+_Context: India, Burma, separatist rebel, Nagaland_
 
 ##### Cte d'Ivoire
 ### [ A court in Cte d'Ivoire orders that compensation due to thousands of people affected by the dumped waste of Trafigura should not be distributed to one man. ](/news/2009/11/6/a-court-in-cote-d-ivoire-orders-that-compensation-due-to-thousands-of-people-affected-by-the-dumped-waste-of-trafigura-should-not-be-distri.md)
@@ -53,7 +53,7 @@ _Context: Trafigura, the dumped waste, Cte d'Ivoire_
 
 ##### Niger
 ### [ Niger's foreign affairs ministry confirms customs officials in Nigeria are blocking Niger from goods importation. ](/news/2009/11/6/niger-s-foreign-affairs-ministry-confirms-customs-officials-in-nigeria-are-blocking-niger-from-goods-importation.md)
-_Context: Nigeria, Niger_
+_Context: Niger, Nigeria_
 
 ##### pianist
 ### [ The composer and pianist Elton John is released from his hospital bed in London after a period of illness which saw him cancel several concerts on The Red Piano Tour. ](/news/2009/11/6/the-composer-and-pianist-elton-john-is-released-from-his-hospital-bed-in-london-after-a-period-of-illness-which-saw-him-cancel-several-conc.md)

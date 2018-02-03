@@ -17,7 +17,7 @@ _Context: Sudan People's Armed Forces, Chinese, Sudan People's Liberation Moveme
 
 ##### Nigeria
 ### [Gunmen attack a police station in the Nigerian city of Kano, with Boko Haram believed responsible. ](/news/2012/01/29/gunmen-attack-a-police-station-in-the-nigerian-city-of-kano-with-boko-haram-believed-responsible.md)
-_Context: Nigeria, Boko Haram, Kano_
+_Context: Boko Haram, Kano, Nigeria_
 
 ##### Happy Mondays
 ### [Happy Mondays, at the forefront of the Madchester scene, reform. ](/news/2012/01/29/happy-mondays-at-the-forefront-of-the-madchester-scene-reform.md)
@@ -25,15 +25,15 @@ Mancunian band Happy Mondays are to re-form for a two-week tour in May that will
 
 ##### 18th Screen Actors Guild Awards
 ### [The 18th Screen Actors Guild Awards is held in the US city of Los Angeles with Jean Dujardin winning the Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role for his role in "The Artist". ](/news/2012/01/29/the-18th-screen-actors-guild-awards-is-held-in-the-us-city-of-los-angeles-with-jean-dujardin-winning-the-screen-actors-guild-award-for-outst.md)
-_Context: Los Angeles, California, Jean Dujardin, The Artist, Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role, 18th Screen Actors Guild Awards_
+_Context: The Artist, Los Angeles, California, Jean Dujardin, 18th Screen Actors Guild Awards, Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role_
 
 ##### Severe Tropical Cyclone Lua
 ### [Cyclone Iggy kills 14 people and injures 60 over a four day period in Indonesia. ](/news/2012/01/29/cyclone-iggy-kills-14-people-and-injures-60-over-a-four-day-period-in-indonesia.md)
-_Context: Indonesia, Severe Tropical Cyclone Lua_
+_Context: Severe Tropical Cyclone Lua, Indonesia_
 
 ##### Interstate 75
 ### [At least 10 people die in an accident on the Interstate 75 south of the US city of Gainesville, Florida. ](/news/2012/01/29/at-least-10-people-die-in-an-accident-on-the-interstate-75-south-of-the-us-city-of-gainesville-florida.md)
-_Context: Interstate 75, the state, Gainesville, Florida_
+_Context: the state, Interstate 75, Gainesville, Florida_
 
 ##### Greece
 ### [Greece rejects outright German proposals for direct European Union control of the country's financial affairs, expressing opposition to further outside interference. ](/news/2012/01/29/greece-rejects-outright-german-proposals-for-direct-european-union-control-of-the-country-s-financial-affairs-expressing-opposition-to-furt.md)
@@ -45,7 +45,7 @@ UN Secretary General Ban Ki-moon urges African leaders to respect gay rights in 
 
 ##### Hamas
 ### [The exiled Hamas leader Khaled Meshaal and Abdullah II of Jordan meet in Khaled Meshaal's first trip to Jordan since his expulsion in 1999. ](/news/2012/01/29/the-exiled-hamas-leader-khaled-meshaal-and-abdullah-ii-of-jordan-meet-in-khaled-meshaal-s-first-trip-to-jordan-since-his-expulsion-in-1999.md)
-_Context: Abdullah II of Jordan, Khaled Meshaal, Hamas_
+_Context: Abdullah II of Jordan, Hamas, Khaled Meshaal_
 
 ##### IAEA
 ### [International Atomic Energy Agency (IAEA) inspectors begin a three-day visit to Iran. ](/news/2012/01/29/international-atomic-energy-agency-iaea-inspectors-begin-a-three-day-visit-to-iran.md)
@@ -57,15 +57,15 @@ _Context: India, Bangladesh_
 
 ##### Papua New Guinea
 ### [Former Papua New Guinea Army Colonel Yaura Sasa, who led a recent coup d'etat attempt to restore former Prime Minister Sir Michael Somare to power, is charged with mutiny. ](/news/2012/01/29/former-papua-new-guinea-army-colonel-yaura-sasa-who-led-a-recent-coup-d-a-c-tat-attempt-to-restore-former-prime-minister-sir-michael-somare-t.md)
-_Context: Papua New Guinea Defence Force, Michael Somare, mutinous soldiers, Yaura Sasa, Colonel, a mutiny, Prime Minister, Papua New Guinea_
+_Context: Papua New Guinea, Yaura Sasa, Prime Minister, mutinous soldiers, Colonel, Papua New Guinea Defence Force, a mutiny, Michael Somare_
 
 ##### Bangladeshi police
 ### [At least three people are killed and 100 injured in clashes between Bangladeshi police and members of the opposition Bangladesh Nationalist Party protesting against the government. ](/news/2012/01/29/at-least-three-people-are-killed-and-100-injured-in-clashes-between-bangladeshi-police-and-members-of-the-opposition-bangladesh-nationalist.md)
-_Context: Bangladesh Nationalist Party, Bangladeshi police_
+_Context: Bangladeshi police, Bangladesh Nationalist Party_
 
 ##### Shafia family deaths
 ### [Three members of the Shafia family are convicted of murder in relation to the Shafia family deaths in the Canadian city of Kingston, Ontario. ](/news/2012/01/29/three-members-of-the-shafia-family-are-convicted-of-murder-in-relation-to-the-shafia-family-deaths-in-the-canadian-city-of-kingston-ontario.md)
-_Context: Shafia family deaths, Ontario, Kingston, Canadian_
+_Context: Ontario, Shafia family deaths, Canadian, Kingston_
 
 ##### Burma
 ### [Large crowds greet Burmese opposition leader Aung San Suu Kyi as she begins a campaign for 1 April by-elections. ](/news/2012/01/29/large-crowds-greet-burmese-opposition-leader-aung-san-suu-kyi-as-she-begins-a-campaign-for-1-april-by-elections.md)
@@ -73,7 +73,7 @@ _Context: Burma, Aung San Suu Kyi_
 
 ##### Egypt
 ### [Voters in Egypt start voting in an election for the Shura Council (upper house), with Islamist parties seeking to consolidate their position. ](/news/2012/01/29/voters-in-egypt-start-voting-in-an-election-for-the-shura-council-upper-house-with-islamist-parties-seeking-to-consolidate-their-position.md)
-_Context: Egypt, Shura Council, Islamist, election_
+_Context: Egypt, Shura Council, election, Islamist_
 
 ##### President of Italy
 ### [Former President of Italy Oscar Luigi Scalfaro dies at the age of 93. ](/news/2012/01/29/former-president-of-italy-oscar-luigi-scalfaro-dies-at-the-age-of-93.md)

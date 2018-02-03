@@ -5,7 +5,7 @@ Formats: [HTML](2009/09/29/index.html)  [JSON](2009/09/29/index.json)  [XML](200
 
 ##### Typhoon Ketsana
 ### [ At least 40 people are killed as Typhoon Ketsana makes landfall on Vietnam. ](/news/2009/09/29/at-least-40-people-are-killed-as-typhoon-ketsana-makes-landfall-on-vietnam.md)
-_Context: Vietnam, Typhoon Ketsana_
+_Context: Typhoon Ketsana, Vietnam_
 
 ##### Malaysia
 ### [ A court in Malaysia upholds a whipping punishment for Kartika Sari Dewi Shukarno who was convicted of drinking beer. ](/news/2009/09/29/a-court-in-malaysia-upholds-a-whipping-punishment-for-kartika-sari-dewi-shukarno-who-was-convicted-of-drinking-beer.md)
@@ -21,11 +21,11 @@ _Context: President, spying, Alberto Fujimori, bribes_
 
 ##### Military of Guinea
 ### [ At least 87 people die in a crackdown by the Military of Guinea on an opposition rally against the country's leader Moussa Dadis Camara. ](/news/2009/09/29/at-least-87-people-die-in-a-crackdown-by-the-military-of-guinea-on-an-opposition-rally-against-the-country-s-leader-moussa-dadis-camara.md)
-_Context: Moussa Dadis Camara, Military of Guinea_
+_Context: Military of Guinea, Moussa Dadis Camara_
 
 ##### Gabon
 ### [ Gabon's constitutional court recounts votes from last month's disputed presidential election won by the son of longtime leader Omar Bongo. ](/news/2009/09/29/gabon-s-constitutional-court-recounts-votes-from-last-month-s-disputed-presidential-election-won-by-the-son-of-longtime-leader-omar-bongo.md)
-_Context: disputed presidential election, Gabon, Omar Bongo_
+_Context: disputed presidential election, Omar Bongo, Gabon_
 
 ##### Coventry
 ### [ A 14-year-old schoolgirl in Coventry, England, who died after being given a cervical cancer vaccine as part of that country's national immunisation programme is found to have suffered from a tumor in her heart and lungs. ](/news/2009/09/29/a-14-year-old-schoolgirl-in-coventry-england-who-died-after-being-given-a-cervical-cancer-vaccine-as-part-of-that-country-s-national-immu.md)

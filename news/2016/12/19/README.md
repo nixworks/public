@@ -37,7 +37,7 @@ Electors across the country met on Monday and officially gave Mr. Trump a majori
 
 ##### ALPHA
 ### [ALPHA, a CERN experiment, has observed for the first time the spectrum of antihydrogen. ](/news/2016/12/19/alpha-a-cern-experiment-has-observed-for-the-first-time-the-spectrum-of-antihydrogen.md)
-_Context: antihydrogen, ALPHA, spectrum, CERN_
+_Context: CERN, ALPHA, antihydrogen, spectrum_
 
 ## [Previous Day...](/news/2016/12/18/index.md)
 

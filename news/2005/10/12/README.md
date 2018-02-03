@@ -5,31 +5,31 @@ Formats: [HTML](2005/10/12/index.html)  [JSON](2005/10/12/index.json)  [XML](200
 
 ##### Somalia
 ### [ Six armed Somali pirates hijack the MV Miltzow, a freighter that is carrying United Nations food aid. After its cargo of 850 tonnes of food aid was offloaded in the port of Merka, the ship was forced to sail down the coast to Barawa before being released two days later. ](/news/2005/10/12/six-armed-somali-pirates-hijack-the-mv-miltzow-a-freighter-that-is-carrying-united-nations-food-aid-after-its-cargo-of-850-tonnes-of-food.md)
-_Context: pirate, freighter, Somalia, Merka, Barawa, United Nations, hijack, MV Miltzow_
+_Context: freighter, Somalia, pirate, MV Miltzow, Merka, hijack, Barawa, United Nations_
 
 ##### CNN
 ### [ CNN reports that the Louisiana attorney general is investigating the possibility that mercy killings of critically ill patients by staff medical professionals at Memorial Medical Center in New Orleans, Louisiana occurred during Hurricane Katrina. ](/news/2005/10/12/cnn-reports-that-the-louisiana-attorney-general-is-investigating-the-possibility-that-mercy-killings-of-critically-ill-patients-by-staff-me.md)
-_Context: attorney general, CNN, Louisiana, Memorial Medical Center, Hurricane Katrina, euthanasia, New Orleans, Louisiana_
+_Context: New Orleans, Louisiana, Memorial Medical Center, attorney general, euthanasia, Hurricane Katrina, Louisiana, CNN_
 
 ##### Chancellor
 ### [ German Chancellor Gerhard Schroder informs that he won't play a role in the Merkel grand coalition cabinet. He criticizes the United States for its response to Hurricane Katrina and "Anglo-Saxon economic policies," while stressing the importance of Franco-Germanic ties. ](/news/2005/10/12/german-chancellor-gerhard-schrapder-informs-that-he-won-t-play-a-role-in-the-merkel-grand-coalition-cabinet-he-criticizes-the-united-state.md)
-_Context: U.S., Anglo-Saxon, grand coalition, Hurricane Katrina, Chancellor, Gerhard Schroder_
+_Context: Hurricane Katrina, United States, grand coalition, Anglo-Saxon, Chancellor, Gerhard Schroder_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: At least 30 people die following an insurgent suicide bomb attack in Talafar, North Western Iraq, the second such attack in as many days. ](/news/2005/10/12/conflict-in-iraq-at-least-30-people-die-following-an-insurgent-suicide-bomb-attack-in-talafar-north-western-iraq-the-second-such-attack.md)
-_Context: Iraq, Iraqi insurgency, Talafar, Conflict in Iraq, suicide bomb_
+_Context: Talafar, suicide bomb, Iraqi insurgency, Conflict in Iraq, Iraq_
 
 ##### China
 ### [ The People's Republic of China launches the manned "Shenzhou 6" spacecraft. Fei Junlong and Nie Haisheng will spend five days in orbit in their Shenzhou spacecraft. ](/news/2005/10/12/the-people-s-republic-of-china-launches-the-manned-shenzhou-6-spacecraft-fei-junlong-and-nia-hcisha-ng-will-spend-five-days-in-orbit-i.md)
-_Context: Nie Haisheng, Fei Junlong, Shenzhou 6, manned launch, Shenzhou spacecraft, China_
+_Context: Fei Junlong, Shenzhou spacecraft, Shenzhou 6, China, Nie Haisheng, manned launch_
 
 ##### in the vote held
 ### [ Iraq's Constitutional referendum: the prospects of the proposed Iraqi constitution being approved in Saturday's referendum are boosted by a deal struck with a major Sunni Arab party, the Iraqi Islamic Party. ](/news/2005/10/12/iraq-s-constitutional-referendum-the-prospects-of-the-proposed-iraqi-constitution-being-approved-in-saturday-s-referendum-are-boosted-by-a.md)
-_Context: proposed Iraqi constitution, Iraqi Islamic Party, in the vote held, Sunni Muslim_
+_Context: proposed Iraqi constitution, Sunni Muslim, in the vote held, Iraqi Islamic Party_
 
 ##### Syria
 ### [ Syria's interior minister, Ghazi Kanaan, who was head of the country's military intelligence in neighboring Lebanon for nearly 20 years, has committed suicide. ](/news/2005/10/12/syria-s-interior-minister-ghazi-kanaan-who-was-head-of-the-country-s-military-intelligence-in-neighboring-lebanon-for-nearly-20-years-ha.md)
-_Context: Lebanon, Ghazi Kanaan, Syria_
+_Context: Syria, Ghazi Kanaan, Lebanon_
 
 ## [Previous Day...](/news/2005/10/11/index.md)
 

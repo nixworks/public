@@ -13,55 +13,55 @@ The Fed approved a $30 billion loan for the takeover of Bear Stearns and announc
 
 ##### Australia
 ### [ The Australian Government announces that the wreck of the German auxiliary cruiser "Kormoran" has been found off the coast of Western Australia. The ship sank after a battle in 1941. ](/news/2008/03/16/the-australian-government-announces-that-the-wreck-of-the-german-auxiliary-cruiser-kormoran-has-been-found-off-the-coast-of-western-austr.md)
-_Context: Government of Australia, Australia, German auxiliary cruiser ''Kormoran'', battle in 1941, been found_
+_Context: German auxiliary cruiser ''Kormoran'', Government of Australia, battle in 1941, been found, Australia_
 
 ##### United Nations
 ### [ Data from the United Nations Environment Programme shows the 2006 global glacial shrinkage rate is more than double that of 2005. ](/news/2008/03/16/data-from-the-united-nations-environment-programme-shows-the-2006-global-glacial-shrinkage-rate-is-more-than-double-that-of-2005.md)
-_Context: 2006, Environment Programme, United Nations, Retreat of glaciers since 1850_
+_Context: Retreat of glaciers since 1850, United Nations, 2006, Environment Programme_
 
 ##### The Conservative Alliance
 ### [ The Conservative Alliance wins the Iranian legislative election. ](/news/2008/03/16/the-conservative-alliance-wins-the-iranian-legislative-election.md)
-_Context: The Conservative Alliance, legislative election, Iran_
+_Context: The Conservative Alliance, Iran, legislative election_
 
 ##### Bundu dia Kongo
 ### [ At least 68 people have been killed this month in clashes between Bundu dia Kongo and police in the west of the Democratic Republic of the Congo. ](/news/2008/03/16/at-least-68-people-have-been-killed-this-month-in-clashes-between-bundu-dia-kongo-and-police-in-the-west-of-the-democratic-republic-of-the.md)
-_Context: police, Bundu dia Kongo, DR Congo_
+_Context: police, DR Congo, Bundu dia Kongo_
 
 ##### United Nations
 ### [ The United Nations World Food Programme warns that it has become "very difficult" to provide food aid to the Darfur region of Sudan because of repeated truck hijacks. ](/news/2008/03/16/the-united-nations-world-food-programme-warns-that-it-has-become-very-difficult-to-provide-food-aid-to-the-darfur-region-of-sudan-because.md)
-_Context: carjacking, truck, World Food Programme, Sudan, United Nations, food aid, Darfur_
+_Context: truck, Sudan, food aid, United Nations, Darfur, carjacking, World Food Programme_
 
 ##### Taiwan
 ### [ Hundreds of thousands of Taiwanese participate in rival political rallies ahead of the 2008 presidential election. ](/news/2008/03/16/hundreds-of-thousands-of-taiwanese-participate-in-rival-political-rallies-ahead-of-the-2008-presidential-election.md)
-_Context: Taiwan, rallies, 2008 presidential election_
+_Context: 2008 presidential election, Taiwan, rallies_
 
 ##### United National Liberation Front
 ### [ The United National Liberation Front attacks an Indian Army camp in Minou, in the Chandel district of Manipur, killing at least six soldiers. ](/news/2008/03/16/the-united-national-liberation-front-attacks-an-indian-army-camp-in-minou-in-the-chandel-district-of-manipur-killing-at-least-six-soldier.md)
-_Context: Indian Army, Chandel, India, Minou, Manipur, United National Liberation Front_
+_Context: United National Liberation Front, Indian Army, India, Chandel, Manipur, Minou_
 
 ##### missile
 ### [ A missile strike on a building near Wana in South Waziristan, Pakistan kills at least 16 people. A local tribesman accuses the United States Army of being behind the attack. ](/news/2008/03/16/a-missile-strike-on-a-building-near-wana-in-south-waziristan-pakistan-kills-at-least-16-people-a-local-tribesman-accuses-the-united-state.md)
-_Context: Wana, strike, South Waziristan, tribe, United States soldier, missile, U.S., Pakistan_
+_Context: South Waziristan, United States, United States soldier, Wana, strike, Pakistan, missile, tribe_
 
 ##### Harvard Medical School
 ### [ Scientists from Harvard Medical School announce a breakthrough technique that could stop cancer cells' growth by inhibiting the enzyme pyruvate kinase. ](/news/2008/03/16/scientists-from-harvard-medical-school-announce-a-breakthrough-technique-that-could-stop-cancer-cells-growth-by-inhibiting-the-enzyme-pyru.md)
-_Context: inhibiting, enzyme, Harvard Medical School, cancer, pyruvate kinase_
+_Context: Harvard Medical School, enzyme, pyruvate kinase, cancer, inhibiting_
 
 ##### France
 ### [ French voters go to the polls in the second round of the 2008 municipal elections, with President Nicolas Sarkozy's party Union for a Popular Movement likely to lose. ](/news/2008/03/16/french-voters-go-to-the-polls-in-the-second-round-of-the-2008-municipal-elections-with-president-nicolas-sarkozy-s-party-union-for-a-popul.md)
-_Context: Nicolas Sarkozy, UMP, French President, 2008 municipal elections, France_
+_Context: UMP, Nicolas Sarkozy, 2008 municipal elections, French President, France_
 
-##### U.S.
+##### United States
 ### [ United States Senator and Republican candidate to the 2008 presidential election John McCain makes a surprise visit to Iraq. ](/news/2008/03/16/united-states-senator-and-republican-candidate-to-the-2008-presidential-election-john-mccain-makes-a-surprise-visit-to-iraq.md)
-_Context: John McCain, Iraq, Senator, U.S., 2008, Republican candidate_
+_Context: John McCain, Iraq, Republican candidate, 2008, Senator, United States_
 
 ##### Italy
 ### [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for EUR138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-a-138-million.md)
-_Context: Alitalia, Air France, EUR, Italy, KLM_
+_Context: Air France, Alitalia, KLM, EUR, Italy_
 
 ##### 2008 National People's Congress
 ### [ At the 2008 National People's Congress, Wen Jiabao is elected as Premier for another five years term. ](/news/2008/03/16/at-the-2008-national-people-s-congress-wen-jiabao-is-elected-as-premier-for-another-five-years-term.md)
-_Context: Premier of the People's Republic of China, 2008 National People's Congress, Wen Jiabao_
+_Context: Wen Jiabao, Premier of the People's Republic of China, 2008 National People's Congress_
 
 ## [Previous Day...](/news/2008/03/15/index.md)
 

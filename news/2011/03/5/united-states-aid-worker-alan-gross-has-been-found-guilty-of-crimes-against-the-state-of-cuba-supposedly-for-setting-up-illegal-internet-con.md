@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/5/united-states-aid-worker-alan-gross-has-been-fou
 
 ### [2011-03-5](/news/2011/03/5/index.md)
 
-##### U.S.
+##### United States
 # United States aid worker Alan Gross has been found guilty of crimes against the state of Cuba supposedly for setting up illegal Internet connections. 
 
 The trial of US aid worker Alan Gross for crimes against the state in Cuba ends, with the verdict yet to be formally announced.
@@ -16,8 +16,8 @@ The trial of US aid worker Alan Gross for crimes against the state in Cuba ends,
 
 ### Related:
 
-1. [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md) _Context: Cuba, U.S._
+1. [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md) _Context: Cuba, United States_
 2. [Google and Cuba forge a deal about better access to the Internet for the island. ](/news/2016/12/13/google-and-cuba-forge-a-deal-about-better-access-to-the-internet-for-the-island.md) _Context: Cuba, Internet_
-3. [For the first time in 25 years, the United States abstains in a United Nations vote calling for an end to its Cuban economic embargo. ](/news/2016/10/26/for-the-first-time-in-25-years-the-united-states-abstains-in-a-united-nations-vote-calling-for-an-end-to-its-cuban-economic-embargo.md) _Context: Cuba, U.S._
-4. [The first commercial flight from the United States to Cuba since 1961 takes place as "JetBlue Flight 387" lands in Santa Clara, Villa Clara province, after a 51-minute flight from Fort Lauderdale, Florida. "JetBlue Flight 387" had 150 passengers, including United States Secretary of Transportation Anthony Foxx. ](/news/2016/08/31/the-first-commercial-flight-from-the-united-states-to-cuba-since-1961-takes-place-as-jetblue-flight-387-lands-in-santa-clara-villa-clara.md) _Context: Cuba, U.S._
-5. [Carnival Cruise Lines says it will postpone its first cruise in 50 years from the United States to Havana, if Cuba does not waive its rule and allow Cuban-Americans passengers. Current Cuban law does not allow those born on the island to return by sea. ](/news/2016/04/18/carnival-cruise-lines-says-it-will-postpone-its-first-cruise-in-50-years-from-the-united-states-to-havana-if-cuba-does-not-waive-its-rule-a.md) _Context: Cuba, U.S._
+3. [For the first time in 25 years, the United States abstains in a United Nations vote calling for an end to its Cuban economic embargo. ](/news/2016/10/26/for-the-first-time-in-25-years-the-united-states-abstains-in-a-united-nations-vote-calling-for-an-end-to-its-cuban-economic-embargo.md) _Context: Cuba, United States_
+4. [The first commercial flight from the United States to Cuba since 1961 takes place as "JetBlue Flight 387" lands in Santa Clara, Villa Clara province, after a 51-minute flight from Fort Lauderdale, Florida. "JetBlue Flight 387" had 150 passengers, including United States Secretary of Transportation Anthony Foxx. ](/news/2016/08/31/the-first-commercial-flight-from-the-united-states-to-cuba-since-1961-takes-place-as-jetblue-flight-387-lands-in-santa-clara-villa-clara.md) _Context: Cuba, United States_
+5. [Carnival Cruise Lines says it will postpone its first cruise in 50 years from the United States to Havana, if Cuba does not waive its rule and allow Cuban-Americans passengers. Current Cuban law does not allow those born on the island to return by sea. ](/news/2016/04/18/carnival-cruise-lines-says-it-will-postpone-its-first-cruise-in-50-years-from-the-united-states-to-havana-if-cuba-does-not-waive-its-rule-a.md) _Context: Cuba, United States_

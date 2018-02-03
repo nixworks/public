@@ -17,11 +17,11 @@ A suicide bomber has killed at least 20 people, three of them Nato soldiers, in 
 
 ##### 2011-present Libyan factional fighting
 ### [2011-present Libyan factional fighting: Chairman of the General National Congress Mohamed Yousef el-Magariaf says that al-Qaeda elements, who fought alongside the rebels in the Libyan Civil War, number "up to 200" in Libya now. ](/news/2012/10/1/2011apresent-libyan-factional-fighting-chairman-of-the-general-national-congress-mohamed-yousef-el-magariaf-says-that-al-qaeda-elements.md)
-_Context: al-Qaeda, Libyan Parliament, Mohamed Yousef el-Magariaf, 2011-present Libyan factional fighting, Libyan Civil War_
+_Context: 2011-present Libyan factional fighting, Libyan Civil War, al-Qaeda, Mohamed Yousef el-Magariaf, Libyan Parliament_
 
 ##### Eric Hobsbawm
 ### [Eric Hobsbawm, one of the leading historians of the 20th century, dies at the Royal Free Hospital in London at the age of 95. ](/news/2012/10/1/eric-hobsbawm-one-of-the-leading-historians-of-the-20th-century-dies-at-the-royal-free-hospital-in-london-at-the-age-of-95.md)
-_Context: Royal Free Hospital, Eric Hobsbawm, London_
+_Context: London, Eric Hobsbawm, Royal Free Hospital_
 
 ##### a ferry collision
 ### [At least 36 people are killed in a ferry collision off the coast of Hong Kong. ](/news/2012/10/1/at-least-36-people-are-killed-in-a-ferry-collision-off-the-coast-of-hong-kong.md)
@@ -29,15 +29,15 @@ _Context: a ferry collision, Hong Kong_
 
 ##### Bahrain
 ### [A court in Bahrain upholds the jail sentences of nine medics convicted for their role in the country's uprising. ](/news/2012/10/1/a-court-in-bahrain-upholds-the-jail-sentences-of-nine-medics-convicted-for-their-role-in-the-country-s-uprising.md)
-_Context: Bahrain, Bahraini uprising (2011-present)_
+_Context: Bahraini uprising (2011-present), Bahrain_
 
 ##### Russia
 ### [The appeal hearing in the Russian band Pussy Riot's case is delayed after one member of the group fired their lawyer. ](/news/2012/10/1/the-appeal-hearing-in-the-russian-band-pussy-riot-s-case-is-delayed-after-one-member-of-the-group-fired-their-lawyer.md)
 _Context: Pussy Riot, Russia_
 
-##### Chinese
+##### China
 ### [Chinese authorities close down the firm handling dissident artist Ai Weiwei's affairs, possibly saving him from paying the remainder of a 15 million yuan tax fine. ](/news/2012/10/1/chinese-authorities-close-down-the-firm-handling-dissident-artist-ai-weiwei-s-affairs-possibly-saving-him-from-paying-the-remainder-of-a-15.md)
-_Context: yuan, Ai Weiwei, Chinese_
+_Context: Ai Weiwei, yuan, China_
 
 ##### California
 ### [California becomes the first U.S. state to forbid "conversion therapy" for minors, effective January 1st, 2013. ](/news/2012/10/1/california-becomes-the-first-u-s-state-to-forbid-conversion-therapy-for-minors-effective-january-1st-2013.md)
@@ -49,7 +49,7 @@ _Context: Juan Manuel Santos, Revolutionary Armed Forces of Colombia_
 
 ##### Mikheil Saakashvili
 ### [Mikheil Saakashvili's ruling United National Movement party and Bidzina Ivanishvili's new party Georgian Dream are expected to be the main contenders in the Georgian parliamentary elections. ](/news/2012/10/1/mikheil-saakashvili-s-ruling-united-national-movement-party-and-bidzina-ivanishvili-s-new-party-georgian-dream-are-expected-to-be-the-main-c.md)
-_Context: Bidzina Ivanishvili, United National Movement, parliamentary election, Georgian Dream, Mikheil Saakashvili_
+_Context: parliamentary election, Mikheil Saakashvili, United National Movement, Bidzina Ivanishvili, Georgian Dream_
 
 ##### Japan
 ### [In Japan, Koriki Jojima is appointed as the new finance minister and Seiji Maehara as the new minister of national strategy and economic policy. ](/news/2012/10/1/in-japan-koriki-jojima-is-appointed-as-the-new-finance-minister-and-seiji-maehara-as-the-new-minister-of-national-strategy-and-economic-pol.md)
@@ -61,7 +61,7 @@ A Palestinian footballer who went on a hunger strike in an Israeli jail says he 
 
 ##### Mohamed Nasheed
 ### [Mohamed Nasheed, the former president of the Maldives, fails to appear in court and departs on tour for his party. Vice-president Mohammed Waheed Deen, opening an academic conference in Male, says a nation can achieve democracy by the teachers imparting the relevant information. ](/news/2012/10/1/mohamed-nasheed-the-former-president-of-the-maldives-fails-to-appear-in-court-and-departs-on-tour-for-his-party-vice-president-mohammed-w.md)
-_Context: Male, academic, Maldives, vice president, Mohammed Waheed Deen, Mohamed Nasheed, his party, in court_
+_Context: his party, vice president, Mohamed Nasheed, academic, Male, Maldives, in court, Mohammed Waheed Deen_
 
 ## [Previous Day...](/news/2012/09/30/index.md)
 

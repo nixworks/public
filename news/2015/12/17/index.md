@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/17/index.html)  [JSON](2015/12/17/index.json)  [XML](201
 
 ##### Libyan Civil War
 ### [ Delegates from Libya's warring factions sign a U.N.-brokered agreement to form a national unity government. Some of Libya's armed brigades are closely allied with political leaders who oppose this agreement. ](/news/2015/12/17/delegates-from-libya-s-warring-factions-sign-a-u-n-brokered-agreement-to-form-a-national-unity-government-some-of-libya-s-armed-brigades.md)
-_Context: national unity government, United Nations, Libya, Libyan Civil War_
+_Context: Libya, Libyan Civil War, national unity government, United Nations_
 
 ##### 2015 PKK rebellion
 ### [ Turkish security forces kill 23 suspected members of the Kurdistan Workers' Party in operations in the Kurdish-majority cities of Cizre and Silopi. ](/news/2015/12/17/turkish-security-forces-kill-23-suspected-members-of-the-kurdistan-workers-party-in-operations-in-the-kurdish-majority-cities-of-cizre-and.md)
@@ -31,7 +31,7 @@ The site remained on fire on Thursday and the temperature inside the mine “cou
 ### [ Researchers at University College London report in "The Lancet" that an annual blood test could help reduce women's risk of dying from ovarian cancer by about 20 percent. ](/news/2015/12/17/researchers-at-university-college-london-report-in-the-lancet-that-an-annual-blood-test-could-help-reduce-women-s-risk-of-dying-from-ovar.md)
 Large study is the first to find an effective method of screening for an often deadly form of cancer
 
-##### Chinese
+##### China
 ### [ China summons Kaye Lee, the U.S. deputy chief of mission in Beijing, to protest Washington's announcement that it is selling two warships to Taiwan as part of a $1.83 billion arms deal. U.S. state department spokesman John Kirby says the sale is consistent with the 1979 Taiwan Relations Act while Chinese Vice-Foreign Minister Zheng Zequang threatens to impose sanctions on U.S. firms because the proposed sale "severely damaged China's sovereignty and security interests." ](/news/2015/12/17/china-summons-kaye-lee-the-u-s-deputy-chief-of-mission-in-beijing-to-protest-washington-s-announcement-that-it-is-selling-two-warships-t.md)
 China summoned a U.S. envoy and threatened to impose sanctions on U.S. firms after Washington announced it would sell $1.83 billion of arms to Taiwan.
 
@@ -41,7 +41,7 @@ Finance ministers from the UN Security Council on Thursday unanimously backed a 
 
 ##### World Trade Organization
 ### [ The World Trade Organization approves Afghanistan's membership at its 10th ministerial conference in Nairobi, Kenya. Afghanistan becomes the 164th WTO member and is the 36th least developed country (LDC) in the global trade body. ](/news/2015/12/17/the-world-trade-organization-approves-afghanistan-s-membership-at-its-10th-ministerial-conference-in-nairobi-kenya-afghanistan-becomes-th.md)
-_Context: Afghanistan, Nairobi, World Trade Organization, Kenya, least developed country_
+_Context: Nairobi, World Trade Organization, Kenya, Afghanistan, least developed country_
 
 ##### United Nations General Assembly
 ### [ The United Nations General Assembly passes a resolution condemning North Korea's human rights abuses and calls on the Security Council to refer violations to the International Criminal Court. ](/news/2015/12/17/the-united-nations-general-assembly-passes-a-resolution-condemning-north-korea-s-human-rights-abuses-and-calls-on-the-security-council-to-r.md)
@@ -51,7 +51,7 @@ The U.N. General Assembly on Thursday formally endorsed a resolution by a majori
 ### [ Riots break out in the western Dutch town of Geldermalsen over plans to establish a centre for asylum seekers in the town. Local police say they made several arrests. Including this year's arrivals, the Dutch government said in November it expected to receive 58,000 asylum seekers by the end of 2016. ](/news/2015/12/17/riots-break-out-in-the-western-dutch-town-of-geldermalsen-over-plans-to-establish-a-centre-for-asylum-seekers-in-the-town-local-police-say.md)
 A meeting in a Dutch down discussing plans to build a centre to house asylum seekers is abandoned after protesters riot.
 
-##### U.S.
+##### United States
 ### [ United States federal prosecutors in New York City arrest Martin Shkreli on securities fraud charges for allegedly plundering for personal gain Retrophin, a biopharmaceutical company he ran as CEO from 2012 to 2014. ](/news/2015/12/17/united-states-federal-prosecutors-in-new-york-city-arrest-martin-shkreli-on-securities-fraud-charges-for-allegedly-plundering-for-personal.md)
 A boyish-looking entrepreneur who became the new face of corporate greed when he jacked up the price of a lifesaving drug fiftyfold was led away in handcuffs by the FBI on unrelated fraud charges Thursday in a scene that left more than a few Americans positively gleeful.
 
@@ -65,7 +65,7 @@ A new report shows the Navy tried to cover-up a 2012 incident in which SEAL Team
 
 ##### Russia
 ### [ Russian President Vladimir Putin calls U.S. Republican presidential candidate Donald Trump, "a very colorful person. Talented, without any doubt" as well as an "absolute leader" in the race for the presidency. ](/news/2015/12/17/russian-president-vladimir-putin-calls-u-s-republican-presidential-candidate-donald-trump-a-very-colorful-person-talented-without-any.md)
-_Context: Republican, U.S., Russia, Vladimir Putin, Donald Trump presidential campaign, Russian President, Donald Trump_
+_Context: Vladimir Putin, Russian President, Republican, Donald Trump, United States, Donald Trump presidential campaign, Russia_
 
 ## [Previous Day...](/news/2015/12/16/index.md)
 

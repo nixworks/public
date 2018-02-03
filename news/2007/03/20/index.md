@@ -21,43 +21,43 @@ The second test launch of the privately-built Falcon 1 rocket failed to reach it
 
 ##### Jamaica
 ### [ Jamaican police announce investigation into the death of former Pakistan cricket coach Bob Woolmer with suspicions that it was murder. ](/news/2007/03/20/jamaican-police-announce-investigation-into-the-death-of-former-pakistan-cricket-coach-bob-woolmer-with-suspicions-that-it-was-murder.md)
-_Context: cricketer, Pakistan, Bob Woolmer, Jamaica, murder_
+_Context: Jamaica, murder, cricketer, Pakistan, Bob Woolmer_
 
 ##### Uzbek
 ### [ Local tribesmen and Uzbek militants clash in South Waziristan, Pakistan, leaving at least 46 people dead. ](/news/2007/03/20/local-tribesmen-and-uzbek-militants-clash-in-south-waziristan-pakistan-leaving-at-least-46-people-dead.md)
-_Context: Pakistan, South Waziristan, Uzbek_
+_Context: Pakistan, Uzbek, South Waziristan_
 
 ##### British
 ### [ Britain releases a school uniform policy allowing schools to ban the niqab or full-face veil for girls. ](/news/2007/03/20/britain-releases-a-school-uniform-policy-allowing-schools-to-ban-the-niqab-or-full-face-veil-for-girls.md)
-_Context: British, school, niqab, veil, school uniform, girl_
+_Context: school, girl, British, school uniform, veil, niqab_
 
 ##### truck
 ### [ Up to 65 people die as a truck overturns on a bridge near Gueckedou, Guinea. ](/news/2007/03/20/up-to-65-people-die-as-a-truck-overturns-on-a-bridge-near-gueckedou-guinea.md)
-_Context: Guinea, Gueckedou, bridge, truck_
+_Context: Gueckedou, truck, bridge, Guinea_
 
 ##### British
 ### [ United Kingdom Secretary of State for Defence Des Browne orders the military to destroy cluster bombs that lack self-destruct mechanisms in order to avoid harming civilians. ](/news/2007/03/20/united-kingdom-secretary-of-state-for-defence-des-browne-orders-the-military-to-destroy-cluster-bombs-that-lack-self-destruct-mechanisms-in.md)
-_Context: cluster bomb, Secretary of State for Defence, Des Browne, military, British, civilian_
+_Context: civilian, British, Des Browne, Secretary of State for Defence, military, cluster bomb_
 
 ##### France
 ### [ France signs an extradition treaty with the People's Republic of China but will only extradite people in death penalty cases when China agrees that the person will not receive a death penalty. ](/news/2007/03/20/france-signs-an-extradition-treaty-with-the-people-s-republic-of-china-but-will-only-extradite-people-in-death-penalty-cases-when-china-agr.md)
-_Context: China, extradition, treaty, sentenced to death, France_
+_Context: treaty, France, China, extradition, sentenced to death_
 
 ##### European Union
 ### [ European Union High Representative for the Common Foreign and Security Policy Javier Solana says that the EU is doing all it can to find Alan Johnston, the BBC Gaza correspondent who has been missing for 8 days. ](/news/2007/03/20/european-union-high-representative-for-the-common-foreign-and-security-policy-javier-solana-says-that-the-eu-is-doing-all-it-can-to-find-al.md)
-_Context: Javier Solana, Gaza Strip, High Representative for the Common Foreign and Security Policy, BBC, European Union, Alan Johnston_
+_Context: BBC, High Representative for the Common Foreign and Security Policy, European Union, Gaza Strip, Javier Solana, Alan Johnston_
 
 ##### fire
 ### [ At least 63 people die in a fire in a home for elderly and disabled people in a village in Russia's Krasnodar Krai. ](/news/2007/03/20/at-least-63-people-die-in-a-fire-in-a-home-for-elderly-and-disabled-people-in-a-village-in-russia-s-krasnodar-krai.md)
-_Context: nursing home, fire, Krasnodar region, Russia_
+_Context: fire, Krasnodar region, nursing home, Russia_
 
 ##### Taha Yassin Ramadan
 ### [ Taha Yassin Ramadan, former Baathist Vice President of Iraq and the "Ten of Diamonds" in the most-wanted Iraqi playing cards, is hanged in Baghdad for his role in the Dujail killings. ](/news/2007/03/20/taha-yassin-ramadan-former-baathist-vice-president-of-iraq-and-the-ten-of-diamonds-in-the-most-wanted-iraqi-playing-cards-is-hanged-in.md)
-_Context: Vice President, most-wanted Iraqi playing cards, Iraq, Taha Yassin Ramadan, Baghdad, Baath Party, Dujail_
+_Context: Iraq, Baghdad, most-wanted Iraqi playing cards, Baath Party, Taha Yassin Ramadan, Dujail, Vice President_
 
 ##### Sami Al-Arian
 ### [ The wife of Sami Al-Arian, a former university professor convicted by a United States district court of funneling money to Islamic Jihad, fears for his life as his hunger strike to protest his imprisonment enters its 58th day. ](/news/2007/03/20/the-wife-of-sami-al-arian-a-former-university-professor-convicted-by-a-united-states-district-court-of-funneling-money-to-islamic-jihad-f.md)
-_Context: hunger strike, Hamas, U.S., Sami Al-Arian, U.S. federal court_
+_Context: United States, U.S. federal court, Hamas, hunger strike, Sami Al-Arian_
 
 ## [Previous Day...](/news/2007/03/19/index.md)
 

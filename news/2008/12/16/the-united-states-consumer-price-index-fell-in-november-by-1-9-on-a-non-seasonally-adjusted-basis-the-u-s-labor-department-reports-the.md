@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/16/the-united-states-consumer-price-index-fell-in-
 
 ### [2008-12-16](/news/2008/12/16/index.md)
 
-##### U.S.
+##### United States
 #  The United States consumer price index fell in November by 1.9% on a non-seasonally adjusted basis, the U.S. Labor Department reports, the biggest decline since the nadir of the Great Depression in January 1932. 
 
 
@@ -23,8 +23,8 @@ Formats: [HTML](/news/2008/12/16/the-united-states-consumer-price-index-fell-in-
 
 ### Related:
 
-1. [In the United States, about 350,000 people filed for unemployment benefits, hitting a four-year low, according to the United States Labor Department. ](/news/2012/03/22/in-the-united-states-about-350-000-people-filed-for-unemployment-benefits-hitting-a-four-year-low-according-to-the-united-states-labor-de.md) _Context: U.S., United States Department of Labor_
-2. [ The United States' consumer price index records its first year-on-year deflation since 1955. ](/news/2009/04/15/the-united-states-consumer-price-index-records-its-first-year-on-year-deflation-since-1955.md) _Context: U.S., consumer price index_
-3. [ The United States consumer price index remains unchanged during September as falling costs for clothes, gasoline and new cars helped to offset rising food and medical prices. ](/news/2008/10/16/the-united-states-consumer-price-index-remains-unchanged-during-september-as-falling-costs-for-clothes-gasoline-and-new-cars-helped-to-off.md) _Context: U.S., consumer price index_
-4. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._
-5. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: U.S._
+1. [In the United States, about 350,000 people filed for unemployment benefits, hitting a four-year low, according to the United States Labor Department. ](/news/2012/03/22/in-the-united-states-about-350-000-people-filed-for-unemployment-benefits-hitting-a-four-year-low-according-to-the-united-states-labor-de.md) _Context: United States, United States Department of Labor_
+2. [ The United States' consumer price index records its first year-on-year deflation since 1955. ](/news/2009/04/15/the-united-states-consumer-price-index-records-its-first-year-on-year-deflation-since-1955.md) _Context: United States, consumer price index_
+3. [ The United States consumer price index remains unchanged during September as falling costs for clothes, gasoline and new cars helped to offset rising food and medical prices. ](/news/2008/10/16/the-united-states-consumer-price-index-remains-unchanged-during-september-as-falling-costs-for-clothes-gasoline-and-new-cars-helped-to-off.md) _Context: United States, consumer price index_
+4. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: United States_
+5. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: United States_

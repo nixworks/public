@@ -13,13 +13,13 @@ _Context: Baidoa, Somalia_
 
 ##### Daniel Bahr
 ### [German Health Minister Daniel Bahr tells "Die Welt" that the Israeli government's declaration of Gunter Grass as "persona non grata" in reaction to his poem "What Must Be Said" is "exaggerated". Meanwhile, a sculpture celebrating freedom of speech in Gottingen is daubed in red paint telling the recipient of the 1999 Nobel Prize in Literature to "shut your mouth". ](/news/2012/04/9/german-health-minister-daniel-bahr-tells-die-welt-that-the-israeli-government-s-declaration-of-ga1-4nter-grass-as-persona-non-grata-in-rea.md)
-_Context: What Must Be Said, Die Welt, Nobel Prize in Literature, Daniel Bahr, persona non grata, Gottingen, freedom of speech, Gunter Grass_
+_Context: freedom of speech, Daniel Bahr, Gottingen, Gunter Grass, persona non grata, Die Welt, Nobel Prize in Literature, What Must Be Said_
 
 ##### The Lion King
 ### ["The Lion King" becomes the all-time highest grossing show on Broadway, overtaking "The Phantom of the Opera". ](/news/2012/04/9/the-lion-king-becomes-the-all-time-highest-grossing-show-on-broadway-overtaking-the-phantom-of-the-opera.md)
 _Context: The Phantom of the Opera, Broadway, The Lion King_
 
-##### Chinese
+##### China
 ### [China establishes a rare earth association in order to streamline the sector's development. ](/news/2012/04/9/china-establishes-a-rare-earth-association-in-order-to-streamline-the-sector-s-development.md)
 China sets up a rare earth association in a bid to streamline the sector as it continues to face criticism over its policies.
 

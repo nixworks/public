@@ -16,5 +16,5 @@ Formats: [HTML](/news/2011/05/6/the-counting-of-votes-in-the-welsh-elections-con
 
 ### Changes:
 
-1. [The counting of votes in UK local elections continues with the Labour Party making gains and the Liberal Democrats losing seats. ](/news/2011/05/6/the-counting-of-votes-in-uk-local-elections-continues-with-the-labour-party-making-gains-and-the-liberal-democrats-losing-seats.md) _2017-10-17 03:38:23 (First version)_
+1. [The counting of votes in UK local elections continues with the Labour Party making gains and the Liberal Democrats losing seats. ](/news/2011/05/6/the-counting-of-votes-in-uk-local-elections-continues-with-the-labour-party-making-gains-and-the-liberal-democrats-losing-seats.md) _2018-02-02 04:42:06 (First version)_
 1. [The counting of votes in the Welsh elections continue with the Labour Party to retain control possibly with an absolute majority. ](/news/2011/05/6/the-counting-of-votes-in-the-welsh-elections-continue-with-the-labour-party-to-retain-control-possibly-with-an-absolute-majority.md) _(Current version)_

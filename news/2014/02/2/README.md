@@ -7,7 +7,7 @@ Formats: [HTML](2014/02/2/index.html)  [JSON](2014/02/2/index.json)  [XML](2014/
 ### [Three explosions are reported in the Yemeni capital Sanaa along with heavy gunfire. ](/news/2014/02/2/three-explosions-are-reported-in-the-yemeni-capital-sanaa-along-with-heavy-gunfire.md)
 Three large explosions were heard in Yemen&#39;s capital Sanaa on Sunday, close to the defence ministry, the central bank and the former president&#39;s home, locals told Reuters.
 
-##### U.S.
+##### United States
 ### [American actor Philip Seymour Hoffman, who won the Academy Award for Best Actor at the 78th Academy Awards in 2006 for "Capote", is found dead in his Manhattan apartment at the age of 46. Authorities initially attributed the death to a drug overdose. ](/news/2014/02/2/american-actor-philip-seymour-hoffman-who-won-the-academy-award-for-best-actor-at-the-78th-academy-awards-in-2006-for-capote-is-found-de.md)
 Oscar-winning actor Philip Seymour Hoffman was found dead of an apparent heroin overdose — with a hypodermic needle still stuck in his arm and 70 baggies of the drug inside his Greenwich Village pa…
 

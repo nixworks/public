@@ -5,23 +5,23 @@ Formats: [HTML](2007/06/8/index.html)  [JSON](2007/06/8/index.json)  [XML](2007/
 
 ##### Council of Europe
 ### [ The Council of Europe publishes a report claiming to prove that member states Romania and Poland conspired with the American CIA to kidnap and torture suspected terrorists. ](/news/2007/06/8/the-council-of-europe-publishes-a-report-claiming-to-prove-that-member-states-romania-and-poland-conspired-with-the-american-cia-to-kidnap.md)
-_Context: CIA, Council of Europe, Poland, Romania_
+_Context: Council of Europe, Romania, Poland, CIA_
 
-##### Chinese
+##### China
 ### [ Chinese police rescue 31 workers kept as slaves at a brickworks in Linfen, in Shanxi province, run by the son of a local official of the Communist Party of China. ](/news/2007/06/8/chinese-police-rescue-31-workers-kept-as-slaves-at-a-brickworks-in-linfen-in-shanxi-province-run-by-the-son-of-a-local-official-of-the-co.md)
-_Context: Communist Party of China, brickworks, slave, Linfen, Chinese, police, Shanxi province_
+_Context: Shanxi province, brickworks, Linfen, Communist Party of China, police, China, slave_
 
 ##### bomb
 ### [ At least 14 people are killed in two bomb explosions in Qurna near Basra in Iraq. ](/news/2007/06/8/at-least-14-people-are-killed-in-two-bomb-explosions-in-qurna-near-basra-in-iraq.md)
-_Context: Qurna, bomb, Iraq, Basra_
+_Context: Qurna, Basra, Iraq, bomb_
 
 ##### NSW
 ### [ New South Wales in Australia is battered with severe storms, killing at least nine people and causing major flooding in Newcastle, the Hunter region, and the Central Coast. The coal freighter "Pasha Bulker" is forced to run aground on Nobby's Beach, a major Newcastle beach. ](/news/2007/06/8/new-south-wales-in-australia-is-battered-with-severe-storms-killing-at-least-nine-people-and-causing-major-flooding-in-newcastle-the-hunt.md)
-_Context: Hunter Valley, Australia, Newcastle, Pasha Bulker, battered with severe storms, NSW, Central Coast_
+_Context: Pasha Bulker, NSW, Newcastle, Australia, battered with severe storms, Hunter Valley, Central Coast_
 
 ##### Space Shuttle
 ### [ The Space Shuttle "Atlantis" is launched with a crew of seven on an assembly mission to the International Space Station on mission STS-117. ](/news/2007/06/8/the-space-shuttle-atlantis-is-launched-with-a-crew-of-seven-on-an-assembly-mission-to-the-international-space-station-on-mission-sts-117.md)
-_Context: Space Shuttle Atlantis, International Space Station, STS-117, Space Shuttle_
+_Context: Space Shuttle, International Space Station, STS-117, Space Shuttle Atlantis_
 
 ## [Previous Day...](/news/2007/06/7/index.md)
 

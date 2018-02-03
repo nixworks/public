@@ -13,23 +13,23 @@ At least 41 people killed and dozens injured after a suicide bombing near a mosq
 
 ##### mummified
 ### [The mummified remains of the head of King Henri IV of France have been discovered in the garage of a French retiree. ](/news/2010/12/15/the-mummified-remains-of-the-head-of-king-henri-iv-of-france-have-been-discovered-in-the-garage-of-a-french-retiree.md)
-_Context: mummified, Henri IV of France_
+_Context: Henri IV of France, mummified_
 
 ##### Cuba
 ### [Cuba unveils its own version of Wikipedia. ](/news/2010/12/15/cuba-unveils-its-own-version-of-wikipedia.md)
-_Context: Cuba, Wikipedia_
+_Context: Wikipedia, Cuba_
 
 ##### Facebook
 ### [Facebook founder Mark Zuckerberg is TIME's 2010 Person of the Year. WikiLeaks founder Julian Assange wins top place in the reader's poll. ](/news/2010/12/15/facebook-founder-mark-zuckerberg-is-time-s-2010-person-of-the-year-wikileaks-founder-julian-assange-wins-top-place-in-the-reader-s-poll.md)
-_Context: WikiLeaks, Facebook, Mark Zuckerberg, Julian Assange, TIME_
+_Context: TIME, WikiLeaks, Mark Zuckerberg, Facebook, Julian Assange_
 
 ##### Lehman Brothers
 ### [Lehman Brothers bondholders, including hedge fund manager Paulson & Co., file a plan for the reorganization of that defunct broker-dealer, presenting the New York bankruptcy court with an alternative to the plan Lehman itself filed earlier in the year. ](/news/2010/12/15/lehman-brothers-bondholders-including-hedge-fund-manager-paulson-co-file-a-plan-for-the-reorganization-of-that-defunct-broker-dealer-p.md)
-_Context: Lehman Brothers, New York City, broker-dealer, Paulson & Co., bankruptcy_
+_Context: Paulson & Co., New York City, Lehman Brothers, bankruptcy, broker-dealer_
 
 ##### Ghana
 ### [Ghana is to begin pumping its first oil since a discovery in an offshore field three years ago. ](/news/2010/12/15/ghana-is-to-begin-pumping-its-first-oil-since-a-discovery-in-an-offshore-field-three-years-ago.md)
-_Context: petroleum, Ghana_
+_Context: Ghana, petroleum_
 
 ##### asylum seeker
 ### [At least twenty-seven asylum seekers, mostly from Iraq and Iran, are feared dead after a boat carrying 70 people crashes into cliffs on the coast of Christmas Island in the Indian Ocean. ](/news/2010/12/15/at-least-twenty-seven-asylum-seekers-mostly-from-iraq-and-iran-are-feared-dead-after-a-boat-carrying-70-people-crashes-into-cliffs-on-the.md)
@@ -49,7 +49,7 @@ _Context: Cambodia, Battambang Province_
 
 ##### Air Force
 ### [Two Air Force pilots are killed after their twin-seat trainer aircraft crashed during a training mission in Taiwan. ](/news/2010/12/15/two-air-force-pilots-are-killed-after-their-twin-seat-trainer-aircraft-crashed-during-a-training-mission-in-taiwan.md)
-_Context: Taiwan, Air Force_
+_Context: Air Force, Taiwan_
 
 ##### Senegal
 ### [Senegal recalls its ambassador to Iran, saying that Iran had not provided an adequate explanation for an arms shipment seized in Nigeria. ](/news/2010/12/15/senegal-recalls-its-ambassador-to-iran-saying-that-iran-had-not-provided-an-adequate-explanation-for-an-arms-shipment-seized-in-nigeria.md)
@@ -83,7 +83,7 @@ Ouattara’s camp asks supporters to help them take over state television and go
 
 ##### Cuba
 ### [Cuba refuses to grant a visa to dissident Guillermo Farias so that he could receive the Sakharov Prize in France. ](/news/2010/12/15/cuba-refuses-to-grant-a-visa-to-dissident-guillermo-farinas-so-that-he-could-receive-the-sakharov-prize-in-france.md)
-_Context: Cuba, visa, Sakharov Prize, Guillermo Farias, France_
+_Context: visa, Guillermo Farias, Cuba, Sakharov Prize, France_
 
 ##### Visa Inc.
 ### [Credit card companies such as Visa and MasterCard that prevented card-holders from donating money to the whistleblower website WikiLeaks could have their operating licenses taken away in Iceland. A parliament investigation is ongoing. ](/news/2010/12/15/credit-card-companies-such-as-visa-and-mastercard-that-prevented-card-holders-from-donating-money-to-the-whistleblower-website-wikileaks-cou.md)
@@ -99,7 +99,7 @@ _Context: Japan, Oncorhynchus nerka kawamurae_
 
 ##### Voyager 1
 ### [Data confirms that Voyager 1 has entered the heliopause, the area of space where the Sun's solar wind is stopped by the interstellar wind. It is believed the probe will now leave the Solar System within the next four years. ](/news/2010/12/15/data-confirms-that-voyager-1-has-entered-the-heliopause-the-area-of-space-where-the-sun-s-solar-wind-is-stopped-by-the-interstellar-wind-i.md)
-_Context: Sun, heliopause, solar wind, Voyager 1, interstellar wind, Solar System_
+_Context: Solar System, solar wind, Sun, interstellar wind, heliopause, Voyager 1_
 
 ## [Previous Day...](/news/2010/12/14/index.md)
 

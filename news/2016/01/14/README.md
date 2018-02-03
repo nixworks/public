@@ -37,7 +37,7 @@ The first January Atlantic hurricane in 61 years, hit the Azores as a tropical s
 
 ##### Brazil
 ### [A Brazilian court suspends the licence for the Belo Monte Dam weeks before it was due to start operating until operator Norte Energia SA and the government of Brazil reorganizes FundacGBPo Nacional do Indio, a protection agency for indigenous Brazilians. ](/news/2016/01/14/a-brazilian-court-suspends-the-licence-for-the-belo-monte-dam-weeks-before-it-was-due-to-start-operating-until-operator-norte-energia-sa-and.md)
-_Context: indigenous Brazilians, Belo Monte Dam, FundacGBPo Nacional do Indio, government of Brazil, Brazil_
+_Context: indigenous Brazilians, Brazil, Belo Monte Dam, FundacGBPo Nacional do Indio, government of Brazil_
 
 ##### Ebola virus epidemic in West Africa
 ### [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md)

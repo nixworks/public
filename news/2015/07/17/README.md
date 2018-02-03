@@ -17,7 +17,7 @@ More than 100 people were killed in a suicide car bombing at a busy market in an
 
 ##### Tolikara riot
 ### [12 people injured, 1 boy killed, and several home and kiosk burned in Tolikara Regency, Papua, Indonesia. ](/news/2015/07/17/12-people-injured-1-boy-killed-and-several-home-and-kiosk-burned-in-tolikara-regency-papua-indonesia.md)
-_Context: Tolikara Regency, Tolikara riot, Papua, Indonesia_
+_Context: Tolikara Regency, Papua, Tolikara riot, Indonesia_
 
 ##### Australian
 ### [Australian artist Nigel Milsom wins the 2015 Archibald Prize for a portrait of barrister Charles Waterstreet who represented Milsom when he was sentenced for armed robbery. ](/news/2015/07/17/australian-artist-nigel-milsom-wins-the-2015-archibald-prize-for-a-portrait-of-barrister-charles-waterstreet-who-represented-milsom-when-he.md)
@@ -33,7 +33,7 @@ The Holy Trinity University in Puerto Princesa, Palawan, has been selected for a
 
 ##### 2015 Pacific typhoon season
 ### [Typhoon Nangka passes through the western part of the main Japanese island of Honshu, causing at least two deaths, widespread flooding and the evacuation of 100,000 people. ](/news/2015/07/17/typhoon-nangka-passes-through-the-western-part-of-the-main-japanese-island-of-honshu-causing-at-least-two-deaths-widespread-flooding-and-t.md)
-_Context: Japan, Typhoon Nangka, 2015 Pacific typhoon season, Honshu Island_
+_Context: 2015 Pacific typhoon season, Japan, Typhoon Nangka, Honshu Island_
 
 ##### Indonesia
 ### [Thousands of Indonesians are stranded on the Eid al-Fitr holiday at the end of Ramadan as five airports remain closed as a result of the eruption of the Raung and Gamalama volcanoes. ](/news/2015/07/17/thousands-of-indonesians-are-stranded-on-the-eid-al-fitr-holiday-at-the-end-of-ramadan-as-five-airports-remain-closed-as-a-result-of-the-eru.md)
@@ -47,13 +47,13 @@ _Context: Philippines, Antique_
 ### [Two commuter trains collide at the Booysens train station in Johannesburg, South Africa, injuring more than 250 people. ](/news/2015/07/17/two-commuter-trains-collide-at-the-booysens-train-station-in-johannesburg-south-africa-injuring-more-than-250-people.md)
 Paramedics at the scene of the Booysens station train crash in Johannesburg say they have tended to about 250 injured commuters, and that the number of casualties may still increase.
 
-##### Chinese
+##### China
 ### [The People's Republic of China releases 10 South African tourists held for allegedly distributing terrorist material. ](/news/2015/07/17/the-people-s-republic-of-china-releases-10-south-african-tourists-held-for-allegedly-distributing-terrorist-material.md)
 All 10 South Africans detained in China a few weeks ago will soon be home, the department of international relations and co-operation has confirmed.
 
 ##### Ukraine
 ### [Ukraine expels Valery Shibeko, Russia's top envoy to Odessa, after declaring the consulate general ""persona non grata"" for conducting unnamed activities "incompatible" with his diplomatic work. ](/news/2015/07/17/ukraine-expels-valery-shibeko-russia-s-top-envoy-to-odessa-after-declaring-the-consulate-general-persona-non-grata-for-conducting-unna.md)
-_Context: Ukraine, Odessa, persona non grata_
+_Context: Odessa, Ukraine, persona non grata_
 
 ##### Liza Maza
 ### [Liza Maza, a human rights activist and former Filipino congresswoman, and the Center for Women's Resources criticized the United States and the Philippines governments for preventing Maza's boarding of a July 9, 2015, Korean Air flight destined for Washington, D.C. Maza, who has a U.S. visa valid until 2018, was scheduled to speak before a left-wing conference on U.S. activities in the Philippines. ](/news/2015/07/17/liza-maza-a-human-rights-activist-and-former-filipino-congresswoman-and-the-center-for-women-s-resources-criticized-the-united-states-and.md)

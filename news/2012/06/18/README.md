@@ -13,7 +13,7 @@ An Israeli citizen and at least one militant were killed in an attack on the Egy
 
 ##### Shia
 ### [A suicide attack kills at least fifteen people and wounds forty people at a Shia funeral in Baquba, north of Baghdad.](/news/2012/06/18/a-suicide-attack-kills-at-least-fifteen-people-and-wounds-forty-people-at-a-shia-funeral-in-baquba-north-of-baghdad.md)
-_Context: Baghdad, Shia, Baquba_
+_Context: Baquba, Shia, Baghdad_
 
 ##### Pakistan
 ### [A bomb explodes near a university bus in the Pakistani city of Quetta killing at least two students and injuring more than 35 others. ](/news/2012/06/18/a-bomb-explodes-near-a-university-bus-in-the-pakistani-city-of-quetta-killing-at-least-two-students-and-injuring-more-than-35-others.md)
@@ -21,7 +21,7 @@ _Context: Pakistan, Quetta_
 
 ##### NATO
 ### [Three men in Afghan police uniform kill a NATO soldier in eastern Afghanistan.](/news/2012/06/18/three-men-in-afghan-police-uniform-kill-a-nato-soldier-in-eastern-afghanistan.md)
-_Context: NATO, Afghanistan_
+_Context: Afghanistan, NATO_
 
 ##### Jack Osbourne
 ### [It is disclosed that Jack Osbourne has the incurable neurological condition multiple sclerosis (MS). ](/news/2012/06/18/it-is-disclosed-that-jack-osbourne-has-the-incurable-neurological-condition-multiple-sclerosis-ms.md)
@@ -41,7 +41,7 @@ _Context: London, Vodafone Group Plc, Cable & Wireless Worldwide_
 
 ##### Iran
 ### [A new round of talks on nuclear power between Iran and six world powers opens in Moscow. ](/news/2012/06/18/a-new-round-of-talks-on-nuclear-power-between-iran-and-six-world-powers-opens-in-moscow.md)
-_Context: Iran, Moscow_
+_Context: Moscow, Iran_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi is due in Ireland. ](/news/2012/06/18/aung-san-suu-kyi-is-due-in-ireland.md)
@@ -53,7 +53,7 @@ World leaders meeting at a G20 summit in Mexico urge Europe to take all necessar
 
 ##### U.S. President
 ### [United States President Barack Obama and Russian President Vladimir Putin discuss the uprising in Syria, Iran, and trade at the summit. ](/news/2012/06/18/united-states-president-barack-obama-and-russian-president-vladimir-putin-discuss-the-uprising-in-syria-iran-and-trade-at-the-summit.md)
-_Context: Syrian uprising (2011-present), Barack Obama, Russian President, U.S. President, Vladimir Putin, Iran_
+_Context: Iran, Vladimir Putin, Russian President, Syrian uprising (2011-present), Barack Obama, U.S. President_
 
 ##### Rwanda
 ### [Rwanda's "gacaca courts", set up to try those responsible for playing a role in the 1994 Rwandan Genocide, finish their work. ](/news/2012/06/18/rwanda-s-gacaca-courts-set-up-to-try-those-responsible-for-playing-a-role-in-the-1994-rwandan-genocide-finish-their-work.md)

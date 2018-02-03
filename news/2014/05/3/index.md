@@ -25,7 +25,7 @@ _Context: Afghanistan, the mudslides_
 
 ##### Middle East respiratory syndrome
 ### [The first U.S. case of MERS is reported in Munster, Indiana, of someone who travelled to Saudi Arabia. ](/news/2014/05/3/the-first-u-s-case-of-mers-is-reported-in-munster-indiana-of-someone-who-travelled-to-saudi-arabia.md)
-_Context: Munster, Indiana, Middle East respiratory syndrome, Saudi Arabia_
+_Context: Saudi Arabia, Middle East respiratory syndrome, Munster, Indiana_
 
 ##### Jonesboro, Arkansas
 ### [A gunman shoots and kills 3 people and wounds 4 others in Jonesboro, Arkansas, U.S., and then dies. ](/news/2014/05/3/a-gunman-shoots-and-kills-3-people-and-wounds-4-others-in-jonesboro-arkansas-u-s-and-then-dies.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2014/06/18/index.html)  [JSON](2014/06/18/index.json)  [XML](201
 
 ##### 2014 Northern Iraq offensive
 ### [40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md)
-_Context: 2014 Northern Iraq offensive, Turkish, Mosul, Indians_
+_Context: Turkish, 2014 Northern Iraq offensive, Indians, Mosul_
 
 ##### Syrian Civil War
 ### [Opposition activists claim that Syrian Army helicopters have bombed a refugee camp near the border with Jordan, killing at least 20 people. ](/news/2014/06/18/opposition-activists-claim-that-syrian-army-helicopters-have-bombed-a-refugee-camp-near-the-border-with-jordan-killing-at-least-20-people.md)
@@ -13,7 +13,7 @@ Activists say Syrian army helicopters bomb a refugee camp, killing at least 20 p
 
 ##### Ukraine
 ### [Ukrainian President Petro Poroshenko asks parliament to dismiss the country's central bank governor, Stepan Kubiv. ](/news/2014/06/18/ukrainian-president-petro-poroshenko-asks-parliament-to-dismiss-the-country-s-central-bank-governor-stepan-kubiv.md)
-_Context: Ukraine, Stepan Kubiv, Petro Poroshenko, country's central bank_
+_Context: Petro Poroshenko, country's central bank, Ukraine, Stepan Kubiv_
 
 ##### Malaysian Maritime Enforcement Agency
 ### [The Malaysian Maritime Enforcement Agency reports that a boat carrying 97 Indonesians has capsized with 66 missing. ](/news/2014/06/18/the-malaysian-maritime-enforcement-agency-reports-that-a-boat-carrying-97-indonesians-has-capsized-with-66-missing.md)
@@ -37,7 +37,7 @@ News - Your daily dose of information: European and International latest breakin
 
 ##### Trademark Trial and Appeal Board
 ### [The Trademark Trial and Appeal Board, a tribunal of the United States Patent and Trademark Office, rules 2-1 to cancel several trademarks of the NFL's Washington Redskins on the basis that they were "disparaging to Native Americans." The cancellation will be stayed while the team appeals in federal court, a process likely to take years. ](/news/2014/06/18/the-trademark-trial-and-appeal-board-a-tribunal-of-the-united-states-patent-and-trademark-office-rules-2a1-to-cancel-several-trademarks.md)
-_Context: Native American, disparaging, Trademark Trial and Appeal Board, National Football League, Washington Redskins, federal court, United States Patent and Trademark Office, cancel several trademarks_
+_Context: disparaging, Native American, United States Patent and Trademark Office, Washington Redskins, National Football League, Trademark Trial and Appeal Board, federal court, cancel several trademarks_
 
 ## [Previous Day...](/news/2014/06/17/index.md)
 

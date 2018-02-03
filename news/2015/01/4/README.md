@@ -9,7 +9,7 @@ A bomb targeting Shiite Muslims at a volleyball match killed at least four peopl
 
 ##### United Nations
 ### [A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md)
-_Context: United Nations, Mali_
+_Context: Mali, United Nations_
 
 ##### Houthi
 ### [A bombing at a local Houthi movement headquarters in Dhamar Governorate, Yemen, kills five people and wounds 25. ](/news/2015/01/4/a-bombing-at-a-local-houthi-movement-headquarters-in-dhamar-governorate-yemen-kills-five-people-and-wounds-25.md)

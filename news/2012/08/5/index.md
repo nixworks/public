@@ -5,11 +5,11 @@ Formats: [HTML](2012/08/5/index.html)  [JSON](2012/08/5/index.json)  [XML](2012/
 
 ##### General Muhammed Ahmed Faris
 ### [General Muhammed Ahmed Faris, a military aviator who became the first Syrian in space, defects to Turkey. ](/news/2012/08/5/general-muhammed-ahmed-faris-a-military-aviator-who-became-the-first-syrian-in-space-defects-to-turkey.md)
-_Context: General Muhammed Ahmed Faris, defects_
+_Context: defects, General Muhammed Ahmed Faris_
 
 ##### List of politicians killed in the Mexican Drug War
 ### [Armed men kidnap the mayor of Tecpan de Galeana, Guerrero. ](/news/2012/08/5/armed-men-kidnap-the-mayor-of-tecpa-n-de-galeana-guerrero.md)
-_Context: Guerrero, Tecpan de Galeana, List of politicians killed in the Mexican Drug War_
+_Context: Tecpan de Galeana, Guerrero, List of politicians killed in the Mexican Drug War_
 
 ##### Wisconsin Sikh temple shooting
 ### [A gunman opens fire at a Sikh temple in Oak Creek, Wisconsin, killing six people; the perpetrator later dies of a self-inflicted gunshot wound to the head. ](/news/2012/08/5/a-gunman-opens-fire-at-a-sikh-temple-in-oak-creek-wisconsin-killing-six-people-the-perpetrator-later-dies-of-a-self-inflicted-gunshot-wou.md)
@@ -17,7 +17,7 @@ At least seven people, including a gunman, have died in a shooting at a Sikh tem
 
 ##### Turkish
 ### [Clashes between Turkish government troops and Kurdish rebels at a Turkish border post in the southeastern province of Hakkari kill at least 19 people, including 11 fighters from the Kurdistan Workers' Party. ](/news/2012/08/5/clashes-between-turkish-government-troops-and-kurdish-rebels-at-a-turkish-border-post-in-the-southeastern-province-of-hakkac-ri-kill-at-least.md)
-_Context: Hakkari Province, Turkish, Kurdistan Workers' Party, Kurdish_
+_Context: Turkish, Hakkari Province, Kurdistan Workers' Party, Kurdish_
 
 ##### suicide bombing
 ### [A suicide bombing in the northeastern Nigerian city of Damaturu kills at least five soldiers. ](/news/2012/08/5/a-suicide-bombing-in-the-northeastern-nigerian-city-of-damaturu-kills-at-least-five-soldiers.md)

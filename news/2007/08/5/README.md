@@ -5,7 +5,7 @@ Formats: [HTML](2007/08/5/index.html)  [JSON](2007/08/5/index.json)  [XML](2007/
 
 ##### Mozambique
 ### [ Authorities in Mozambique seize thousands of boxes of counterfeit toothpaste which they fear may contain the dangerous chemical diethylene glycol. ](/news/2007/08/5/authorities-in-mozambique-seize-thousands-of-boxes-of-counterfeit-toothpaste-which-they-fear-may-contain-the-dangerous-chemical-diethylene.md)
-_Context: toothpaste, Mozambique, counterfeit, diethylene glycol_
+_Context: Mozambique, counterfeit, diethylene glycol, toothpaste_
 
 ##### Port Moresby
 ### [ Police fire shots to disperse an angry crowd in Port Moresby, Papua New Guinea with unconfirmed reports of a man dying. ](/news/2007/08/5/police-fire-shots-to-disperse-an-angry-crowd-in-port-moresby-papua-new-guinea-with-unconfirmed-reports-of-a-man-dying.md)
@@ -17,11 +17,11 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Holocaust
 ### [ Holocaust survivors protest outside the Prime Minister of Israel Ehud Olmert's office over the level of support from Israel. ](/news/2007/08/5/holocaust-survivors-protest-outside-the-prime-minister-of-israel-ehud-olmert-s-office-over-the-level-of-support-from-israel.md)
-_Context: Holocaust, Ehud Olmert, Israeli Prime Minister, Israel_
+_Context: Holocaust, Israeli Prime Minister, Israel, Ehud Olmert_
 
 ##### Republican
 ### [ Republican Party candidates in the 2008 United States Presidential election hold a debate. ](/news/2007/08/5/republican-party-candidates-in-the-2008-united-states-presidential-election-hold-a-debate.md)
-_Context: Republican, United States presidential candidate_
+_Context: United States presidential candidate, Republican_
 
 ##### Mexico
 ### [ Mexican golfer Lorena Ochoa wins the Women's British Open title, her first major. ](/news/2007/08/5/mexican-golfer-lorena-ochoa-wins-the-women-s-british-open-title-her-first-major.md)
@@ -29,7 +29,7 @@ Lorena Ochoa led wire-to-wire in the Women’s British Open, sealing the win wit
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush meets with the President of Afghanistan Hamid Karzai at Camp David to discuss the security of Afghanistan. ](/news/2007/08/5/the-president-of-the-united-states-george-w-bush-meets-with-the-president-of-afghanistan-hamid-karzai-at-camp-david-to-discuss-the-securit.md)
-_Context: U.S. President, Afghanistan, Camp David, Hamid Karzai, George W. Bush, Afghanistan President_
+_Context: U.S. President, Afghanistan President, Afghanistan, George W. Bush, Hamid Karzai, Camp David_
 
 ##### Lebanon
 ### [ Lebanon holds two by-elections to replace two members of the Parliament of Lebanon, Pierre Amine Gemayel and Walid Eido, killed in violent incidents claimed to be murder. Camille Khoury and Mohamad Amin Itani are declared as the winners of the elections although rival candidate Amin Gemayel has lodged a complaint about Khoury's victory. ](/news/2007/08/5/lebanon-holds-two-by-elections-to-replace-two-members-of-the-parliament-of-lebanon-pierre-amine-gemayel-and-walid-eido-killed-in-violent.md)
@@ -45,7 +45,7 @@ Mortar bombs have struck a petrol station in eastern Baghdad, killing at least n
 
 ##### tunnel
 ### [ Thirty-four rail workers building a tunnel in Hubei province China are trapped 200 metres underground following a landslide. ](/news/2007/08/5/thirty-four-rail-workers-building-a-tunnel-in-hubei-province-china-are-trapped-200-metres-underground-following-a-landslide.md)
-_Context: Chinese, Hubei, landslide, tunnel_
+_Context: Hubei, landslide, tunnel, China_
 
 ## [Previous Day...](/news/2007/08/4/index.md)
 

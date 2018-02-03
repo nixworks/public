@@ -9,15 +9,15 @@ Tens of thousands attended rallies around the UK as a public sector strike over 
 
 ##### Laurent Gbagbo
 ### [It is announced that Laurent Gbagbo, the former President of Cte d'Ivoire, has been transferred to the International Criminal Court in The Hague, Netherlands, to face trial for crimes against humanity. ](/news/2011/11/30/it-is-announced-that-laurent-gbagbo-the-former-president-of-cote-d-ivoire-has-been-transferred-to-the-international-criminal-court-in-the.md)
-_Context: ICC, The Hague, President, Cte d'Ivoire, Laurent Gbagbo, crimes against humanity, Netherlands_
+_Context: Netherlands, The Hague, ICC, Cte d'Ivoire, President, crimes against humanity, Laurent Gbagbo_
 
 ##### Iran
 ### [The Iranian Foreign Ministry calls the attacks "unacceptable", stating that they happened despite the efforts of the embassy guards. Police arrest 12 protesters in connection with the attacks. ](/news/2011/11/30/the-iranian-foreign-ministry-calls-the-attacks-unacceptable-stating-that-they-happened-despite-the-efforts-of-the-embassy-guards-police.md)
-_Context: Ministry of Foreign Affairs, Iran_
+_Context: Iran, Ministry of Foreign Affairs_
 
 ##### United States Secretary of State
 ### [United States Secretary of State Hillary Clinton arrives in Burma to urge political reforms. ](/news/2011/11/30/united-states-secretary-of-state-hillary-clinton-arrives-in-burma-to-urge-political-reforms.md)
-_Context: United States Secretary of State, Reforms in Burma, Hillary Clinton, Burma_
+_Context: Burma, United States Secretary of State, Hillary Clinton, Reforms in Burma_
 
 ##### Washington State University
 ### [Researchers at Washington State University develop an artificial bone "scaffold" which can be produced using 3D printers, potentially allowing doctors to quickly print replacement bone tissue for injured patients. ](/news/2011/11/30/researchers-at-washington-state-university-develop-an-artificial-bone-scaffold-which-can-be-produced-using-3d-printers-potentially-allowi.md)

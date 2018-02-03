@@ -19,7 +19,7 @@ A suicide blast killed two Chadian troops from the U.N. mission in Mali and inju
 ### [A teenager in Bahrain dies following an explosion in the village of Bani Jamra, east of the capital Manama. ](/news/2013/10/23/a-teenager-in-bahrain-dies-following-an-explosion-in-the-village-of-bani-jamra-east-of-the-capital-manama.md)
 A 17-year-old boy was killed while transporting a bomb that exploded in a predominantly Shia village in Bahrain, police allege.
 
-##### Chinese
+##### China
 ### [China and India sign a new border defence agreement aimed at improving bilateral relations. ](/news/2013/10/23/china-and-india-sign-a-new-border-defence-agreement-aimed-at-improving-bilateral-relations.md)
 Agreement between economic powerhouses reached after heads of state meet, following months of exacerbated tensions.
 
@@ -35,13 +35,13 @@ Get the latest breaking news across the U.S. on ABCNews.com
 ### [Thousands of Tunisian protesters take to the streets calling for the Islamist government led by the Ennahda Movement to step down hours before crisis talks between the government and opposition leaders. ](/news/2013/10/23/thousands-of-tunisian-protesters-take-to-the-streets-calling-for-the-islamist-government-led-by-the-ennahda-movement-to-step-down-hours-befo.md)
 Thousands of Tunisians marched through the capital on Wednesday chanting for their government to step down, hours before ruling Islamists and opposition leaders were to start talks aimed at end months of political crisis.
 
-##### Chinese
+##### China
 ### [A Chinese newspaper publishes a rare appeal for the release of one of its journalists held by police. ](/news/2013/10/23/a-chinese-newspaper-publishes-a-rare-appeal-for-the-release-of-one-of-its-journalists-held-by-police.md)
 A Chinese newspaper publishes a full-page appeal for the release of one of its journalists detained by police.
 
 ##### Cambodia
 ### [Thousands of opposition supporters protest in the Cambodian capital Phnom Penh following disputed July elections which saw incumbent Prime Minister Hun Sen re-elected. ](/news/2013/10/23/thousands-of-opposition-supporters-protest-in-the-cambodian-capital-phnom-penh-following-disputed-july-elections-which-saw-incumbent-prime-m.md)
-_Context: July elections, Phnom Penh, Cambodia, Hun Sen_
+_Context: Cambodia, Phnom Penh, Hun Sen, July elections_
 
 ##### 
 ### [President Obama's staff has unmasked and fired a national security official who tweeted critical comments under a pseudonym. ](/news/2013/10/23/president-obama-s-staff-has-unmasked-and-fired-a-national-security-official-who-tweeted-critical-comments-under-a-pseudonym.md)

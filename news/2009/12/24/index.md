@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/24/index.html)  [JSON](2009/12/24/index.json)  [XML](200
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI is knocked down by a woman during a procession before the Christmas Eve Mass at St. Peter's Basilica in the Vatican City. He is uninjured, but Roger Cardinal Etchegaray suffers a hip fracture. ](/news/2009/12/24/pope-benedict-xvi-is-knocked-down-by-a-woman-during-a-procession-before-the-christmas-eve-mass-at-st-peter-s-basilica-in-the-vatican-city.md)
-_Context: Christmas Eve, Vatican City, Pope Benedict XVI, hip fracture, Roger Cardinal Etchegaray, Mass_
+_Context: Christmas Eve, Mass, Pope Benedict XVI, hip fracture, Roger Cardinal Etchegaray, Vatican City_
 
 ##### ravine
 ### [ At least 40 people are killed and many injured after a tour bus plunges into a ravine near Cuzco, Peru. ](/news/2009/12/24/at-least-40-people-are-killed-and-many-injured-after-a-tour-bus-plunges-into-a-ravine-near-cuzco-peru.md)
@@ -29,7 +29,7 @@ Court decision brings to 22 number of those awaiting execution over unrest.
 
 ##### Vietnam
 ### [ Vietnamese authorities charge human rights lawyer Le Cong Dinh with attempts to "overthrow the state". ](/news/2009/12/24/vietnamese-authorities-charge-human-rights-lawyer-le-cong-dinh-with-attempts-to-overthrow-the-state.md)
-_Context: human rights, Le Cong Dinh, Vietnam, Communist Party_
+_Context: Le Cong Dinh, Communist Party, human rights, Vietnam_
 
 ##### Turkish
 ### [ Turkish police arrest over 43 campaigners and members of the banned Kurdish Communities Union in raids. ](/news/2009/12/24/turkish-police-arrest-over-43-campaigners-and-members-of-the-banned-kurdish-communities-union-in-raids.md)
@@ -41,7 +41,7 @@ Three bodies were recovered from Manila Bay in the Philippines on Thursday as re
 
 ##### suicide attack
 ### [ A suicide bomb attack kills at least eight people in Kandahar, Afghanistan. ](/news/2009/12/24/a-suicide-bomb-attack-kills-at-least-eight-people-in-kandahar-afghanistan.md)
-_Context: Afghanistan, Kandahar, suicide attack_
+_Context: suicide attack, Afghanistan, Kandahar_
 
 ##### Iraq
 ### [ Bomb attacks in the Iraqi cities of Baghdad and Hilla leave 23 dead. ](/news/2009/12/24/bomb-attacks-in-the-iraqi-cities-of-baghdad-and-hilla-leave-23-dead.md)
@@ -57,19 +57,19 @@ The United States has followed the Economic Community of West African States (Ec
 
 ##### Archbishop of York
 ### [ The Archbishop of York, John Sentamu speaks out against a bill being debated in Uganda that would outlaw homosexuality. ](/news/2009/12/24/the-archbishop-of-york-john-sentamu-speaks-out-against-a-bill-being-debated-in-uganda-that-would-outlaw-homosexuality.md)
-_Context: John Sentamu, Archbishop of York, Uganda, homosexuality, bill_
+_Context: Archbishop of York, homosexuality, Uganda, bill, John Sentamu_
 
 ##### United States Senate
 ### [ The United States Senate passes a health-care bill expected to extend insurance coverage to 30 million additional Americans, in a party-line vote, 60-39. ](/news/2009/12/24/the-united-states-senate-passes-a-health-care-bill-expected-to-extend-insurance-coverage-to-30-million-additional-americans-in-a-party-lin.md)
-_Context: health care reform, United States Senate_
+_Context: United States Senate, health care reform_
 
 ##### Israel
 ### [ An Israeli man is shot dead by Palestinian gunmen in the northern West Bank. ](/news/2009/12/24/an-israeli-man-is-shot-dead-by-palestinian-gunmen-in-the-northern-west-bank.md)
-_Context: West Bank, Israel, Palestinian terrorist_
+_Context: Israel, West Bank, Palestinian terrorist_
 
 ##### al-Qaeda
 ### [ At least 30 suspected Al-Qaeda militants are killed in an airstrike in Shabwah Governorate, Yemen. ](/news/2009/12/24/at-least-30-suspected-al-qaeda-militants-are-killed-in-an-airstrike-in-shabwah-governorate-yemen.md)
-_Context: Shabwa province, al-Qaeda, Yemen_
+_Context: Yemen, al-Qaeda, Shabwa province_
 
 ##### Venezuela
 ### [ Venezuela orders businesses to cut electricity consumption by 20% as droughts threaten generation capacity at the 10.2 gigawatt Guri hydroelectric power station. ](/news/2009/12/24/venezuela-orders-businesses-to-cut-electricity-consumption-by-20-as-droughts-threaten-generation-capacity-at-the-10-2-gigawatt-guri-hydroe.md)
@@ -85,7 +85,7 @@ A Sri Lankan asylum seeker who spent the past 11 weeks refusing to leave his boa
 
 ##### Hewlett-Packard
 ### [ Hewlett-Packard admits face detection software on its laptops has trouble detecting dark-skinned faces, leading to casual claims of racism by some. ](/news/2009/12/24/hewlett-packard-admits-face-detection-software-on-its-laptops-has-trouble-detecting-dark-skinned-faces-leading-to-casual-claims-of-racism.md)
-_Context: dark-skinned, laptop, face detection, racist, software, Hewlett-Packard_
+_Context: dark-skinned, Hewlett-Packard, face detection, racist, laptop, software_
 
 ## [Previous Day...](/news/2009/12/23/index.md)
 

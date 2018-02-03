@@ -33,7 +33,7 @@ Jakarta: At least 600 people have been evacuated to temporary shelters a day aft
 
 ##### Japan
 ### [Construction of temporary housing begins in the Japanese town of Rikuzentakata severely damaged in the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/19/construction-of-temporary-housing-begins-in-the-japanese-town-of-rikuzentakata-severely-damaged-in-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japan, 2011 Tohoku earthquake and tsunami, Rikuzentakata_
+_Context: Rikuzentakata, 2011 Tohoku earthquake and tsunami, Japan_
 
 ##### Fukushima I nuclear accidents
 ### [The problems at the Fukushima I Nuclear Power Plant are upgraded to Level 5 on the International Nuclear Events Scale, the same as the Three Mile Island accident. ](/news/2011/03/19/the-problems-at-the-fukushima-i-nuclear-power-plant-are-upgraded-to-level-5-on-the-international-nuclear-events-scale-the-same-as-the-three.md)
@@ -45,7 +45,7 @@ _Context: oil spill, Gulf of Mexico, U.S. Coast Guard_
 
 ##### Carlos Pascual
 ### [Carlos Pascual resigns as United States Ambassador to Mexico due in part to tensions with the President of Mexico Felipe Calderon. ](/news/2011/03/19/carlos-pascual-resigns-as-united-states-ambassador-to-mexico-due-in-part-to-tensions-with-the-president-of-mexico-felipe-caldera3n.md)
-_Context: Carlos Pascual, Felipe Calderon, President, United States Ambassador to Mexico_
+_Context: Carlos Pascual, President, United States Ambassador to Mexico, Felipe Calderon_
 
 ##### Edinburgh University
 ### [Edinburgh University students vote in favour of boycotting Israeli goods and services, citing Israeli treatment of Palestinians.](/news/2011/03/19/edinburgh-university-students-vote-in-favour-of-boycotting-israeli-goods-and-services-citing-israeli-treatment-of-palestinians.md)
@@ -61,11 +61,11 @@ Millions of Egyptians vote in a referendum on constitutional reforms, a month af
 
 ##### Egyptian presidential election in September
 ### [Egyptian presidential hopeful Mohamed ElBaradei is pelted with rocks, bottles and cans in Cairo. ](/news/2011/03/19/egyptian-presidential-hopeful-mohamed-elbaradei-is-pelted-with-rocks-bottles-and-cans-in-cairo.md)
-_Context: Mohamed ElBaradei, Egyptian presidential election in September, Cairo_
+_Context: Egyptian presidential election in September, Mohamed ElBaradei, Cairo_
 
 ##### 14th Dalai Lama
 ### [The 14th Dalai Lama's submitted resignation as Head of State of the Central Tibetan Administration is denied by the Tibetan Parliament-in-exile. ](/news/2011/03/19/the-14th-dalai-lama-s-submitted-resignation-as-head-of-state-of-the-central-tibetan-administration-is-denied-by-the-tibetan-parliament-in-ex.md)
-_Context: exiled Tibetan parliament, Central Tibetan Administration, 14th Dalai Lama_
+_Context: exiled Tibetan parliament, 14th Dalai Lama, Central Tibetan Administration_
 
 ##### Rap
 ### [Rap star Wyclef Jean is shot in the hand while campaigning in the Haitian election. ](/news/2011/03/19/rap-star-wyclef-jean-is-shot-in-the-hand-while-campaigning-in-the-haitian-election.md)
@@ -73,11 +73,11 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ##### Iraq War
 ### [Anti-Iraq War demonstrators are arrested outside the White House in Washington DC including Daniel Ellsberg, the man who leaked the Pentagon Papers. ](/news/2011/03/19/anti-iraq-war-demonstrators-are-arrested-outside-the-white-house-in-washington-dc-including-daniel-ellsberg-the-man-who-leaked-the-pentagon.md)
-_Context: White House, Daniel Ellsberg, Washington DC, Iraq War, Pentagon Papers_
+_Context: Iraq War, Washington DC, Pentagon Papers, White House, Daniel Ellsberg_
 
 ##### Peru
 ### [Peruvian President Alan Garcia swears in Rosario Fernandez as Prime Minister, after the sudden resignation of Jose Antonio Chang. ](/news/2011/03/19/peruvian-president-alan-garcaa-swears-in-rosario-ferna-ndez-as-prime-minister-after-the-sudden-resignation-of-josa-c-antonio-chang.md)
-_Context: Jose Antonio Chang, Alan Garcia, Peru, Prime Minister, President, Rosario Fernandez_
+_Context: Alan Garcia, President, Jose Antonio Chang, Prime Minister, Peru, Rosario Fernandez_
 
 ##### moon
 ### [The moon reaches its closest point to the Earth since March 1993, and will appear 30% brighter and 14% larger than at its furthest point. ](/news/2011/03/19/the-moon-reaches-its-closest-point-to-the-earth-since-march-1993-and-will-appear-30-brighter-and-14-larger-than-at-its-furthest-point.md)

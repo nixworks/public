@@ -21,15 +21,15 @@ _Context: Zimbabwe, civil servants_
 
 ##### Cyclone Oli
 ### [Cyclone Oli hits Tahiti and other islands of French Polynesia, killing at least one man. ](/news/2010/02/5/cyclone-oli-hits-tahiti-and-other-islands-of-french-polynesia-killing-at-least-one-man.md)
-_Context: French Polynesia, Tahiti, Cyclone Oli_
+_Context: Cyclone Oli, Tahiti, French Polynesia_
 
 ##### India
 ### [The last native of India's Andaman Islands fluent in the Aka-Bo language dies, rendering the language extinct. ](/news/2010/02/5/the-last-native-of-india-s-andaman-islands-fluent-in-the-aka-bo-language-dies-rendering-the-language-extinct.md)
-_Context: extinct, Aka-Bo language, India, Andaman Islands_
+_Context: Aka-Bo language, extinct, India, Andaman Islands_
 
 ##### Danish special forces
 ### [Danish special forces storm a ship captured by armed Somali pirates and free the 25 crew on board. ](/news/2010/02/5/danish-special-forces-storm-a-ship-captured-by-armed-somali-pirates-and-free-the-25-crew-on-board.md)
-_Context: Danish special forces, Somali pirates_
+_Context: Somali pirates, Danish special forces_
 
 ##### Democratic Unionist Party
 ### [The Democratic Unionist Party (DUP) and Sinn Fin agree to devolution from Westminster from 12 April 2010 after two weeks of discussions, the longest ever during the Northern Ireland peace process. ](/news/2010/02/5/the-democratic-unionist-party-dup-and-sinn-fein-agree-to-devolution-from-westminster-from-12-april-2010-after-two-weeks-of-discussions-th.md)
@@ -37,7 +37,7 @@ Barack Obama has described Northern Ireland&#39;s power-sharing deal as an impor
 
 ##### Russia
 ### [Five Russian soldiers are killed and six injured in clashes with militants in Chechnya. ](/news/2010/02/5/five-russian-soldiers-are-killed-and-six-injured-in-clashes-with-militants-in-chechnya.md)
-_Context: Chechnya, Russia_
+_Context: Russia, Chechnya_
 
 ##### British
 ### [Four British politicians will face criminal prosecution over their expense claims in the ongoing expenses scandal. ](/news/2010/02/5/four-british-politicians-will-face-criminal-prosecution-over-their-expense-claims-in-the-ongoing-expenses-scandal.md)
@@ -45,11 +45,11 @@ _Context: British, United Kingdom Parliamentary expenses scandal_
 
 ##### dwarf planet
 ### [New images of the dwarf planet Pluto reveal rapid changes on its surface. ](/news/2010/02/5/new-images-of-the-dwarf-planet-pluto-reveal-rapid-changes-on-its-surface.md)
-_Context: dwarf planet, Pluto_
+_Context: Pluto, dwarf planet_
 
 ##### Uganda
 ### [Uganda's deputy Foreign Minister Henry Okello Oryem says the country's anti-homosexuality Bill "will be changed". ](/news/2010/02/5/uganda-s-deputy-foreign-minister-henry-okello-oryem-says-the-country-s-anti-homosexuality-bill-will-be-changed.md)
-_Context: law, Uganda, Henry Okello Oryem_
+_Context: Henry Okello Oryem, Uganda, law_
 
 ##### North Korea
 ### [North Korea announces it will release an American man who entered the country on December 25, 2009. ](/news/2010/02/5/north-korea-announces-it-will-release-an-american-man-who-entered-the-country-on-december-25-2009.md)

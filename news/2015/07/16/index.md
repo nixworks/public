@@ -9,11 +9,11 @@ India and Pakistan exchangedgunfire and mortar bombs along their disputed fronti
 
 ##### Yemeni Crisis (2011-present)
 ### [Members of exiled President of Yemen Abd Rabbuh Mansur Hadi's Cabinet tour the southern city of Aden for the first time in several months. ](/news/2015/07/16/members-of-exiled-president-of-yemen-abd-rabbuh-mansur-hadi-s-cabinet-tour-the-southern-city-of-aden-for-the-first-time-in-several-months.md)
-_Context: Yemeni Crisis (2011-present), President, Aden, Yemen, Abd Rabbuh Mansur Hadi_
+_Context: Abd Rabbuh Mansur Hadi, Yemen, Aden, Yemeni Crisis (2011-present), President_
 
 ##### Sinai insurgency
 ### [The Islamic State of Iraq and Greater Syria (ISIS) has claimed that it sank an Egyptian patrol boat in the Mediterranean, just off the coast of Rafah. The Egyptian military claimed the ship sank from a fire not caused by attacks. ](/news/2015/07/16/the-islamic-state-of-iraq-and-greater-syria-isis-has-claimed-that-it-sank-an-egyptian-patrol-boat-in-the-mediterranean-just-off-the-coast.md)
-_Context: Sinai insurgency, ISIL, Rafah, Egypt, patrol boat_
+_Context: patrol boat, Rafah, Sinai insurgency, ISIL, Egypt_
 
 ##### Boko Haram
 ### [Twin blasts at a market in Gombe, Nigeria kill at least 49 people. ](/news/2015/07/16/twin-blasts-at-a-market-in-gombe-nigeria-kill-at-least-49-people.md)
@@ -21,7 +21,7 @@ At least 49 people in Nigeria shopping ahead of Eid celebrations have been kille
 
 ##### South Thailand insurgency
 ### [Two Thai Army soldiers are killed in an ambush in Thailand's Narathiwat Province. ](/news/2015/07/16/two-thai-army-soldiers-are-killed-in-an-ambush-in-thailand-s-narathiwat-province.md)
-_Context: South Thailand insurgency, Thailand, Thai Army, Narathiwat_
+_Context: South Thailand insurgency, Narathiwat, Thailand, Thai Army_
 
 ##### Papua New Guinea
 ### [At least 11 people are killed and many others injured in a tribal fight in a remote area of Papua New Guinea. ](/news/2015/07/16/at-least-11-people-are-killed-and-many-others-injured-in-a-tribal-fight-in-a-remote-area-of-papua-new-guinea.md)
@@ -33,7 +33,7 @@ The nominations for the 2015 Primetime Emmy Awards have been announced, with HBO
 
 ##### European Union
 ### [The European Union launches an antitrust action against American semiconductor company Qualcomm, for possible abuse of a dominant market position, on the one hand, and predatory pricing, on the other hand. ](/news/2015/07/16/the-european-union-launches-an-antitrust-action-against-american-semiconductor-company-qualcomm-for-possible-abuse-of-a-dominant-market-pos.md)
-_Context: abuse of a dominant market position, antitrust, predatory pricing, semiconductor, Qualcomm, European Union_
+_Context: Qualcomm, antitrust, European Union, abuse of a dominant market position, semiconductor, predatory pricing_
 
 ##### India
 ### [Sixty-five thousand people in the Indian state of Assam are affected by floods and heavy rainfall. ](/news/2015/07/16/sixty-five-thousand-people-in-the-indian-state-of-assam-are-affected-by-floods-and-heavy-rainfall.md)
@@ -41,11 +41,11 @@ _Context: abuse of a dominant market position, antitrust, predatory pricing, sem
 
 ##### Raung
 ### [Ash from the Raung volcano closes five airports in Indonesia, while ash from the Gamalama volcano closes the Babullah Airport in Ternate. ](/news/2015/07/16/ash-from-the-raung-volcano-closes-five-airports-in-indonesia-while-ash-from-the-gamalama-volcano-closes-the-babullah-airport-in-ternate.md)
-_Context: Gamalama, Indonesia, Babullah Airport, Ternate, Raung_
+_Context: Babullah Airport, Raung, Indonesia, Ternate, Gamalama_
 
 ##### 2015 Pacific typhoon season
 ### [Typhoon Nangka makes landfall on the Japanese island of Shikoku. ](/news/2015/07/16/typhoon-nangka-makes-landfall-on-the-japanese-island-of-shikoku.md)
-_Context: Japan, Shikoku, 2015 Pacific typhoon season_
+_Context: Japan, 2015 Pacific typhoon season, Shikoku_
 
 ##### Nexen
 ### [The Nexen pipeline at the Long Lake facility near Fort McMurray, Alberta, spills 5000000 l of oil emulsion. ](/news/2015/07/16/the-nexen-pipeline-at-the-long-lake-facility-near-fort-mcmurray-alberta-spills-5000000-l-of-oil-emulsion.md)
@@ -57,11 +57,11 @@ One of the largest leaks in Alberta history has spilled about five million litre
 
 ##### James Holmes
 ### [James Holmes, a former University of Colorado neuroscience student, is found guilty of first-degree murder in the July 2012 Aurora shooting, which killed 12 and injured 70; he had plead not guilty by reason of legal insanity. ](/news/2015/07/16/james-holmes-a-former-university-of-colorado-neuroscience-student-is-found-guilty-of-first-degree-murder-in-the-july-2012-aurora-shooting.md)
-_Context: 2012 Aurora shooting, James Holmes, neuroscience, University of Colorado, legal insanity_
+_Context: University of Colorado, James Holmes, neuroscience, 2012 Aurora shooting, legal insanity_
 
 ##### Japan
 ### [Japan's lower house of parliament passes a pair of bills changing the country's security laws, allowing Japanese soldiers to fight overseas for the first time since the end of World War II under certain conditions, over strong protests from opposition lawmakers, who walked out of the vote.](/news/2015/07/16/japan-s-lower-house-of-parliament-passes-a-pair-of-bills-changing-the-country-s-security-laws-allowing-japanese-soldiers-to-fight-overseas.md)
-_Context: Japan, House of Representatives, military, World War II_
+_Context: House of Representatives, World War II, Japan, military_
 
 ## [Previous Day...](/news/2015/07/15/index.md)
 

@@ -19,7 +19,7 @@ The IRA has ended its armed campaign and has ordered all its units to dump arms.
 
 ##### tornado
 ### [ The strongest tornado in Britain in 25 years, rating a 2 on the Fujita scale, hits Birmingham, damaging homes and injuring 20 people. ](/news/2005/07/28/the-strongest-tornado-in-britain-in-25-years-rating-a-2-on-the-fujita-scale-hits-birmingham-damaging-homes-and-injuring-20-people.md)
-_Context: Fujita scale, Birmingham, tornado, British_
+_Context: Fujita scale, tornado, British, Birmingham_
 
 ##### Islamic Human Rights Commission
 ### [ The Islamic Human Rights Commission has released a statement which claims that the number of attacks on South Asians in the UK has risen 13 fold since the July 2005 London bombings. ](/news/2005/07/28/the-islamic-human-rights-commission-has-released-a-statement-which-claims-that-the-number-of-attacks-on-south-asians-in-the-uk-has-risen-13.md)
@@ -31,23 +31,23 @@ _Context: Uganda, national constitutional referendum_
 
 ##### Lal Krishna Advani
 ### [ In India, Lal Krishna Advani of the Bharatiya Janata Party and seven others are charged with inciting riots in Ayodhya in 1992 ](/news/2005/07/28/in-india-lal-krishna-advani-of-the-bharatiya-janata-party-and-seven-others-are-charged-with-inciting-riots-in-ayodhya-in-1992.md)
-_Context: Bharatiya Janata Party, Lal Krishna Advani, Ayodhya_
+_Context: Ayodhya, Bharatiya Janata Party, Lal Krishna Advani_
 
 ##### House of Representatives
 ### [ In the United States, the House of Representatives approves the Dominican Republic-Central America Free Trade Agreement, 217-215, sending the approved treaty to President George W. Bush. ](/news/2005/07/28/in-the-united-states-the-house-of-representatives-approves-the-dominican-republic-central-america-free-trade-agreement-217-215-sending-t.md)
-_Context: House of Representatives, George W. Bush, U.S. President, Dominican Republic-Central America Free Trade Agreement_
+_Context: George W. Bush, Dominican Republic-Central America Free Trade Agreement, U.S. President, House of Representatives_
 
 ##### fatwa
 ### [ In the US, number of American-Muslim scholars announce a fatwa that condemns terrorism and religious extremism ](/news/2005/07/28/in-the-us-number-of-american-muslim-scholars-announce-a-fatwa-that-condemns-terrorism-and-religious-extremism.md)
-_Context: fatwa, terrorism, religious extremism_
+_Context: terrorism, religious extremism, fatwa_
 
 ##### Serbia
 ### [ In Serbia, Ljiljana Zelen-Karadzic, wife of Radovan Karadzic, goes public to ask her husband to give himself up ](/news/2005/07/28/in-serbia-ljiljana-zelen-karada3-4ia-wife-of-radovan-karada3-4ia-goes-public-to-ask-her-husband-to-give-himself-up.md)
-_Context: Serbia, Radovan Karadzic_
+_Context: Radovan Karadzic, Serbia_
 
 ##### Poland
 ### [ Poland recalls its ambassador to Belarus and demands that the European Union impose sanctions after Belarusian police storms the offices of the country's Polish minority ](/news/2005/07/28/poland-recalls-its-ambassador-to-belarus-and-demands-that-the-european-union-impose-sanctions-after-belarusian-police-storms-the-offices-of.md)
-_Context: sanctions, European Union, Poland, Belarus_
+_Context: European Union, sanctions, Belarus, Poland_
 
 ##### Canadian
 ### [ In Canada, gene lab confirms that alleged sasquatch hairs actually belong to a bison ](/news/2005/07/28/in-canada-gene-lab-confirms-that-alleged-sasquatch-hairs-actually-belong-to-a-bison.md)
@@ -55,11 +55,11 @@ _Context: Canadian, sasquatch, bison_
 
 ##### Bulgaria
 ### [ In Bulgaria, Bulgarian Socialist Party fails to form a government due to hung parliament. President Georgi Parvanov approaches the National Movement Simeon II of former king Simeon Saxe-Coburg-Gotha ](/news/2005/07/28/in-bulgaria-bulgarian-socialist-party-fails-to-form-a-government-due-to-hung-parliament-president-georgi-parvanov-approaches-the-national.md)
-_Context: Socialist Party, Bulgaria, Georgi Parvanov, National Movement Simeon II, Simeon Saxe-Coburg-Gotha_
+_Context: National Movement Simeon II, Socialist Party, Georgi Parvanov, Simeon Saxe-Coburg-Gotha, Bulgaria_
 
 ##### Guinea-Bissau
 ### [ In Guinea-Bissau, electoral commission declares JoGBPo Bernardo Vieira winner of the presidential election with a 52-55% majority ](/news/2005/07/28/in-guinea-bissau-electoral-commission-declares-joagbpo-bernardo-vieira-winner-of-the-presidential-election-with-a-52-55-majority.md)
-_Context: JoGBPo Bernardo Vieira, Guinea-Bissau_
+_Context: Guinea-Bissau, JoGBPo Bernardo Vieira_
 
 ##### Chris Murungaru
 ### [ The UK government imposes a travel ban on Kenyan transport minister Chris Murungaru, who is investigated for corruption, forbidding him from visiting Britain ](/news/2005/07/28/the-uk-government-imposes-a-travel-ban-on-kenyan-transport-minister-chris-murungaru-who-is-investigated-for-corruption-forbidding-him-fro.md)

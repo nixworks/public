@@ -25,7 +25,7 @@ _Context: storm_
 
 ##### Guangxi Zhuang
 ### [900 ships are stranded in south China's Guangxi Zhuang autonomous region amid falling water level caused by severe drought. The waterway traffic jam started on Wuzhou City section of Xijiang River. ](/news/2010/02/28/900-ships-are-stranded-in-south-china-s-guangxi-zhuang-autonomous-region-amid-falling-water-level-caused-by-severe-drought-the-waterway-tra.md)
-_Context: Xijiang River, Wuzhou, Guangxi Zhuang_
+_Context: Guangxi Zhuang, Xijiang River, Wuzhou_
 
 ##### eastern Antarctica
 ### [Two huge icebergs let loose off Antarctica's coast. The two icebergs are drifting together about 62 to 93 miles (100 to 150 kilometers) off eastern Antarctica, according to an Australian Antarctic Division glaciologist. ](/news/2010/02/28/two-huge-icebergs-let-loose-off-antarctica-s-coast-the-two-icebergs-are-drifting-together-about-62-to-93-miles-100-to-150-kilometers-off.md)
@@ -41,11 +41,11 @@ Ibon Gogeascoechea, the leader of armed Basque separatists ETA, was caught on Su
 
 ##### lagoon
 ### [About eighty tons of dead fish are discovered and removed in a lagoon in Rio de Janeiro, Brazil, likely due to localized ocean anoxia and algal blooms.'](/news/2010/02/28/about-eighty-tons-of-dead-fish-are-discovered-and-removed-in-a-lagoon-in-rio-de-janeiro-brazil-likely-due-to-localized-ocean-anoxia-and-al.md)
-_Context: Rio de Janeiro, low oxygen, algal bloom, Brazil, lagoon_
+_Context: algal bloom, Rio de Janeiro, Brazil, lagoon, low oxygen_
 
 ##### Egypt
 ### [Egyptian authorities announce the discovery of a granite head from a statue of Tutankhamun's grandfather Amenhotep III, which was unearthed at a temple in Luxor. ](/news/2010/02/28/egyptian-authorities-announce-the-discovery-of-a-granite-head-from-a-statue-of-tutankhamun-s-grandfather-amenhotep-iii-which-was-unearthed.md)
-_Context: Luxor, Amenhotep III, Egypt, Tutankhamun_
+_Context: Amenhotep III, Tutankhamun, Luxor, Egypt_
 
 ## [Previous Day...](/news/2010/02/27/index.md)
 

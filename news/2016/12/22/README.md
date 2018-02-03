@@ -13,7 +13,7 @@ KARACHI: At least seven Pakistanis are reportedly killed in a rocket attack on a
 
 ##### Pinos Puente
 ### [Residents of the economically struggling town of Pinos Puente in Granada, Spain, win the El Gordo lottery. ](/news/2016/12/22/residents-of-the-economically-struggling-town-of-pinos-puente-in-granada-spain-win-the-el-gordo-lottery.md)
-_Context: Pinos Puente, El Gordo, Granada, Spain_
+_Context: El Gordo, Pinos Puente, Spain, Granada_
 
 ##### ebola virus
 ### [A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. ](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-be-99-78-a99-87-effective.md)
@@ -37,7 +37,7 @@ _Context: Claremont murders, Australia_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama scraps the National Security Entry-Exit Registration System (NSEERS), a registration system for Muslim immigrants. ](/news/2016/12/22/u-s-president-barack-obama-scraps-the-national-security-entry-exit-registration-system-nseers-a-registration-system-for-muslim-immigrant.md)
-_Context: Barack Obama, National Security Entry-Exit Registration System_
+_Context: National Security Entry-Exit Registration System, Barack Obama_
 
 ##### Presidential transition of Donald Trump
 ### [President-elect Donald Trump names his former presidential campaign manager Kellyanne Conway as his Counselor to the President. ](/news/2016/12/22/president-elect-donald-trump-names-his-former-presidential-campaign-manager-kellyanne-conway-as-his-counselor-to-the-president.md)

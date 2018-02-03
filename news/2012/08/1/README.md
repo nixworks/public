@@ -9,11 +9,11 @@ _Context: Vertigo, Sight and Sound, Alfred Hitchcock_
 
 ##### India
 ### [Power is restored in India following an earlier blackout in three grids that left over 600 million people without power. ](/news/2012/08/1/power-is-restored-in-india-following-an-earlier-blackout-in-three-grids-that-left-over-600-million-people-without-power.md)
-_Context: India, blackout_
+_Context: blackout, India_
 
 ##### Saudi Aramco
 ### [Saudi Aramco is ranked by "Forbes" as the first among the world's 25 largest oil companies. ](/news/2012/08/1/saudi-aramco-is-ranked-by-forbes-as-the-first-among-the-world-s-25-largest-oil-companies.md)
-_Context: Forbes, Saudi Aramco_
+_Context: Saudi Aramco, Forbes_
 
 ##### Taiwan
 ### [Heading toward Taiwan, slow-moving Typhoon Saola's torrential rains lead to the deaths of at least 12 people and displacement of 154,000 in the Philippines. ](/news/2012/08/1/heading-toward-taiwan-slow-moving-typhoon-saola-s-torrential-rains-lead-to-the-deaths-of-at-least-12-people-and-displacement-of-154-000-in.md)
@@ -29,11 +29,11 @@ _Context: Somalia, Mogadishu_
 
 ##### Mexican Army
 ### [Prosecutors formally charge three Mexican Army generals, including active General Roberto Dawe Gonzalez and retired General Toms ngeles Dauahare, and a lieutenant-colonel for their alleged links to a drug trafficking organization known as the Beltrn-Leyva Cartel. ](/news/2012/08/1/prosecutors-formally-charge-three-mexican-army-generals-including-active-general-roberto-dawe-gonzalez-and-retired-general-tomas-angeles-da.md)
-_Context: Beltrn-Leyva Cartel, Toms ngeles Dauahare, Roberto Dawe Gonzalez, Mexican Army_
+_Context: Beltrn-Leyva Cartel, Roberto Dawe Gonzalez, Mexican Army, Toms ngeles Dauahare_
 
 ##### India
 ### [Four coordinated low intensity bombs explode in the Indian city of Pune. ](/news/2012/08/1/four-coordinated-low-intensity-bombs-explode-in-the-indian-city-of-pune.md)
-_Context: Pune, India_
+_Context: India, Pune_
 
 ##### Tel Aviv
 ### [A second Israeli who set himself on fire in protest of economic difficulties in Tel Aviv dies of his injuries in hospital. ](/news/2012/08/1/a-second-israeli-who-set-himself-on-fire-in-protest-of-economic-difficulties-in-tel-aviv-dies-of-his-injuries-in-hospital.md)

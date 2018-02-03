@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/11/index.html)  [JSON](2009/07/11/index.json)  [XML](200
 
 ##### President
 ### [ The President of Peru Alan Garca names Javier Velsquez as the Prime Minister of Peru. ](/news/2009/07/11/the-president-of-peru-alan-garcia-names-javier-velasquez-as-the-prime-minister-of-peru.md)
-_Context: President, Javier Velsquez, Alan Garca, Prime Minister_
+_Context: President, Javier Velsquez, Prime Minister, Alan Garca_
 
 ##### riots
 ### [ The death toll from the recent riots in rmqi rises to 184. ](/news/2009/07/11/the-death-toll-from-the-recent-riots-in-urumqi-rises-to-184.md)
@@ -15,7 +15,7 @@ _Context: rmqi, riots_
 ### [ A mass funeral takes place in Srebrenica, Bosnia, to commemorate the 14th anniversary of the massacre that took place in the town. ](/news/2009/07/11/a-mass-funeral-takes-place-in-srebrenica-bosnia-to-commemorate-the-14th-anniversary-of-the-massacre-that-took-place-in-the-town.md)
 Ceremony held to mark anniversary of worst massacre in Europe since World War II.
 
-##### U.S.
+##### United States
 ### [ United States President Barack Obama addresses the Ghanaian parliament. ](/news/2009/07/11/united-states-president-barack-obama-addresses-the-ghanaian-parliament.md)
 US president says Ghana has set an example for good governance in the region.
 

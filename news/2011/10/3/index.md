@@ -13,7 +13,7 @@ Police fear spike in ethnic tensions during Yom Kippur; police commissioner boos
 
 ##### United States Supreme Court
 ### [The United States Supreme Court announces that it won't hear a much-noted dispute on the width of the "first sale" doctrine in copyright law. ](/news/2011/10/3/the-united-states-supreme-court-announces-that-it-won-t-hear-a-much-noted-dispute-on-the-width-of-the-first-sale-doctrine-in-copyright-law.md)
-_Context: much-noted dispute, copyright law, United States Supreme Court, first sale_
+_Context: United States Supreme Court, much-noted dispute, copyright law, first sale_
 
 ##### Surrey
 ### [Eight people are injured following an explosion and fire at a factory in Surrey, United Kingdom. ](/news/2011/10/3/eight-people-are-injured-following-an-explosion-and-fire-at-a-factory-in-surrey-united-kingdom.md)
@@ -25,15 +25,15 @@ Amanda Knox has been dramatically acquitted of the murder of Meredith Kercher, d
 
 ##### Somali
 ### [A US court sentences two more Somali pirates to life in prison for capturing a yacht off the coast of Africa in February. ](/news/2011/10/3/a-us-court-sentences-two-more-somali-pirates-to-life-in-prison-for-capturing-a-yacht-off-the-coast-of-africa-in-february.md)
-_Context: pirates, Somali, Africa_
+_Context: Africa, pirates, Somali_
 
 ##### Helle Thorning-Schmidt
 ### [Helle Thorning-Schmidt presents her new coalition government, thereby becoming the 41st and the first female Prime Minister of Denmark. She takes over the office from Lars Lkke Rasmussen. ](/news/2011/10/3/helle-thorning-schmidt-presents-her-new-coalition-government-thereby-becoming-the-41st-and-the-first-female-prime-minister-of-denmark-she.md)
-_Context: Danish coalition government, 41st, Helle Thorning-Schmidt, Denmark, first female, Prime Minister of Denmark, Lars Lkke Rasmussen_
+_Context: Danish coalition government, 41st, first female, Denmark, Helle Thorning-Schmidt, Prime Minister of Denmark, Lars Lkke Rasmussen_
 
 ##### California
 ### [Advocates for prisoners in the US state of California claim that more than 12,000 inmates are now participating in a hunger strike over prison conditions. ](/news/2011/10/3/advocates-for-prisoners-in-the-us-state-of-california-claim-that-more-than-12-000-inmates-are-now-participating-in-a-hunger-strike-over-pris.md)
-_Context: California, hunger strike_
+_Context: hunger strike, California_
 
 ##### Bruce Beutler
 ### [Bruce Beutler of the US, Jules A. Hoffmann of France and Ralph Steinman of Canada (posthumously) share the Nobel Prize in Physiology or Medicine for research into the immune system. ](/news/2011/10/3/bruce-beutler-of-the-us-jules-a-hoffmann-of-france-and-ralph-steinman-of-canada-posthumously-share-the-nobel-prize-in-physiology-or-medi.md)

@@ -3,15 +3,15 @@ Formats: [HTML](2010/08/10/index.html)  [JSON](2010/08/10/index.json)  [XML](201
 
 ## [2010-08-10](/news/2010/08/10/index.md)
 
-##### U.S.
+##### United States
 ### [A United States military judge at Guantanamo Bay rules that confessions allegedly forced via torture from Omar Khadr, a Canadian citizen they accuse of terrorism after his 2002 capture at the age of 15, count as evidence in his trial. ](/news/2010/08/10/a-united-states-military-judge-at-guanta-namo-bay-rules-that-confessions-allegedly-forced-via-torture-from-omar-khadr-a-canadian-citizen-th.md)
 Alleged confessions of a Canadian being held at Guantanamo Bay can be heard at his trial, a US military judge has ruled.
 
 ##### Defense Minister
 ### [Defense Minister of Israel Ehud Barak testifies before Israel's Turkel Commission investigating the country's role in May's Gaza flotilla raid, chaired by Israeli judge Jacob Turkel. His prime minister Benjamin Netanyahu yesterday testified that he had left Barak to "co-ordinate" the raid and response "in all of its aspects" while he visited North America. ](/news/2010/08/10/defense-minister-of-israel-ehud-barak-testifies-before-israel-s-turkel-commission-investigating-the-country-s-role-in-may-s-gaza-flotilla-ra.md)
-_Context: Gaza flotilla raid, Benjamin Netanyahu, Israel, Israel's report, Ehud Barak, Defense Minister, Jacob Turkel_
+_Context: Defense Minister, Ehud Barak, Israel's report, Israel, Benjamin Netanyahu, Jacob Turkel, Gaza flotilla raid_
 
-##### U.S.
+##### United States
 ### [The United States and Vietnam celebrate the 15th anniversary of diplomatic relations by conducting what the United States describes as a "series of naval engagement activities" in the South China Sea, risking a disagreement with China. ](/news/2010/08/10/the-united-states-and-vietnam-celebrate-the-15th-anniversary-of-diplomatic-relations-by-conducting-what-the-united-states-describes-as-a-se.md)
 The US and Vietnam stage joint naval activities in the South China Sea, a sign of increasing military ties between the former enemies.
 
@@ -21,7 +21,7 @@ A sharp rise in insurgent attacks in Afghanistan causes a 31% rise in civilian c
 
 ##### Israel
 ### [Israel's Foreign Ministry alleges Hezbollah leader Hassan Nasrallah's press conference yesterday, in which he stated he has evidence that implicates Israel in the 2005 assassination of former Prime Minister of Lebanon Rafic Hariri and 22 others, was full of "ridiculous lies". ](/news/2010/08/10/israel-s-foreign-ministry-alleges-hezbollah-leader-hassan-nasrallah-s-press-conference-yesterday-in-which-he-stated-he-has-evidence-that-im.md)
-_Context: Lebanon, Hezbollah, Israel, Foreign Minister, Hassan Nasrallah, Prime Minister, Rafic Hariri_
+_Context: Foreign Minister, Lebanon, Israel, Hezbollah, Prime Minister, Hassan Nasrallah, Rafic Hariri_
 
 ##### Spain
 ### [A much-publicised project backed by Spain's government sells just 16 of the 2,000 electric cars it had intended so far in 2010. ](/news/2010/08/10/a-much-publicised-project-backed-by-spain-s-government-sells-just-16-of-the-2-000-electric-cars-it-had-intended-so-far-in-2010.md)
@@ -33,17 +33,17 @@ _Context: Niger River_
 
 ##### earthquake
 ### [A 7.6 magnitude earthquake and small tsunami hits the Pacific Ocean nation of Vanuatu. ](/news/2010/08/10/a-7-6-magnitude-earthquake-and-small-tsunami-hits-the-pacific-ocean-nation-of-vanuatu.md)
-_Context: South Pacific Ocean, tsunami, earthquake, Vanuatu_
+_Context: South Pacific Ocean, Vanuatu, earthquake, tsunami_
 
-##### Chinese
+##### China
 ### [Rescuers in China's Gansu province continue to search for 1,100 missing people in a recent landslide, as the death toll rises to 702. ](/news/2010/08/10/rescuers-in-china-s-gansu-province-continue-to-search-for-1-100-missing-people-in-a-recent-landslide-as-the-death-toll-rises-to-702.md)
-_Context: Chinese, Gansu province, landslide_
+_Context: landslide, China, Gansu province_
 
 ##### de Havilland Canada DHC-3 Otter
 ### [A de Havilland Canada DHC-3 Otter seaplane crashes near Aleknagik, Alaska, killing five people, including former U.S. Senator Ted Stevens. Former NASA Administrator Sean O'Keefe and O'Keefe's son were aboard the plane, but survived. ](/news/2010/08/10/a-de-havilland-canada-dhc-3-otter-seaplane-crashes-near-aleknagik-alaska-killing-five-people-including-former-u-s-senator-ted-stevens-f.md)
-_Context: NASA, Ted Stevens, crashes, seaplane, de Havilland Canada DHC-3 Otter, Sean O'Keefe, United States Senate, Aleknagik, Administrator_
+_Context: Aleknagik, de Havilland Canada DHC-3 Otter, seaplane, Administrator, NASA, crashes, United States Senate, Sean O'Keefe, Ted Stevens_
 
-##### U.S.
+##### United States
 ### [The United States defends its decision to appoint as Venezuelan ambassador Larry Palmer, who has expressed negative views of the country in the past, including insinuating that it has ties with Colombian rebels. ](/news/2010/08/10/the-united-states-defends-its-decision-to-appoint-as-venezuelan-ambassador-larry-palmer-who-has-expressed-negative-views-of-the-country-in.md)
 State Department says Larry Palmer remains nominee for US ambassador to Caracas.
 
@@ -53,9 +53,9 @@ Japan apologises to South Korea for colonising the peninsula and promises to ret
 
 ##### Iran
 ### [Iran digs mass graves in Khuzestan province, using psychological warfare in preparation for an invasion by the United States armed forces after the United Nations Security Council Resolution 1929, and warns that Iran will attack American bases in the Middle East if American forces attack. ](/news/2010/08/10/iran-digs-mass-graves-in-khuzestan-province-using-psychological-warfare-in-preparation-for-an-invasion-by-the-united-states-armed-forces-af.md)
-_Context: Khuzestan, mass grave, ban on ballistic missile tests, psychological warfare, United States armed forces, Iran_
+_Context: United States armed forces, mass grave, Iran, ban on ballistic missile tests, Khuzestan, psychological warfare_
 
-##### U.S.
+##### United States
 ### [The United States convicts Noshir Gowadia, a former engineer who allegedly sold secrets to China, and who now faces life imprisonment. ](/news/2010/08/10/the-united-states-convicts-noshir-gowadia-a-former-engineer-who-allegedly-sold-secrets-to-china-and-who-now-faces-life-imprisonment.md)
 A US engineer of Indian origin is convicted of selling military secrets about the B-2 bomber to China.
 
@@ -69,7 +69,7 @@ _Context: West Bank, Tulkarm, Nablus, Israel Defense Forces_
 
 ##### Mexican Supreme Court
 ### [The Supreme Court of Justice of the Nation rules same-sex marriages in Mexico City have to be recognised across Mexico. ](/news/2010/08/10/the-supreme-court-of-justice-of-the-nation-rules-same-sex-marriages-in-mexico-city-have-to-be-recognised-across-mexico.md)
-_Context: same-sex marriage, Mexican Supreme Court, Mexico City, Mexico_
+_Context: same-sex marriage, Mexico City, Mexico, Mexican Supreme Court_
 
 ##### Saudi Arabia
 ### [Saudi Arabia permits the use of Blackberry devices for now, having previously considering banning them as they were unable to intercept and decrypt communications on that platform. ](/news/2010/08/10/saudi-arabia-permits-the-use-of-blackberry-devices-for-now-having-previously-considering-banning-them-as-they-were-unable-to-intercept-and.md)
@@ -93,7 +93,7 @@ The House of Representatives on Tuesday approved, and President Barack Obama pro
 
 ##### World Health Organization
 ### [The World Health Organization announces that the H1N1 flu pandemic which killed 18,000 people worldwide is over. ](/news/2010/08/10/the-world-health-organization-announces-that-the-h1n1-flu-pandemic-which-killed-18-000-people-worldwide-is-over.md)
-_Context: H1N1, flu pandemic, World Health Organization_
+_Context: World Health Organization, H1N1, flu pandemic_
 
 ##### Archaeologists
 ### [Archaeologists claim they have located Britain's oldest house near Scarborough, North Yorkshire, England, UK. ](/news/2010/08/10/archaeologists-claim-they-have-located-britain-s-oldest-house-near-scarborough-north-yorkshire-england-uk.md)

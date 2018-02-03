@@ -21,7 +21,7 @@ Two people have been confirmed dead in the massive gas explosion that occurred a
 
 ##### Natural History Museum
 ### [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md)
-_Context: Exhibition Road, Natural History Museum, London_
+_Context: London, Natural History Museum, Exhibition Road_
 
 ##### 2017 Russian protests
 ### [Russian police arrest 290 protesters calling on President Vladimir Putin to resign. ](/news/2017/10/7/russian-police-arrest-290-protesters-calling-on-president-vladimir-putin-to-resign.md)

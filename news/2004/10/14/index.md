@@ -5,7 +5,7 @@ Formats: [HTML](2004/10/14/index.html)  [JSON](2004/10/14/index.json)  [XML](200
 
 ##### Norodom Sihamoni
 ### [ Prince Norodom Sihamoni is named the new King of Cambodia by the country's Throne Council. His father, former King Norodom Sihanouk, abdicated on October 7. ](/news/2004/10/14/prince-norodom-sihamoni-is-named-the-new-king-of-cambodia-by-the-country-s-throne-council-his-father-former-king-norodom-sihanouk-abdica.md)
-_Context: Politics of Cambodia, King Norodom Sihanouk, Norodom Sihamoni, abdicate, Cambodia, monarch_
+_Context: abdicate, Politics of Cambodia, monarch, King Norodom Sihanouk, Cambodia, Norodom Sihamoni_
 
 ##### Abu Musab al-Zarqawi
 ### [ The British government orders the freezing of any assets that Abu Musab al-Zarqawi's militant group, Tawhid and Jihad&mdash;which has claimed responsibility for killing Kenneth Bigley&mdash;may hold in Britain. ](/news/2004/10/14/the-british-government-orders-the-freezing-of-any-assets-that-abu-musab-al-zarqawi-s-militant-group-tawhid-and-jihad-mdash-which-has-claim.md)
@@ -13,11 +13,11 @@ _Context: Abu Musab al-Zarqawi, Kenneth Bigley, Tawhid and Jihad_
 
 ##### rebel-held
 ### [ United States warplanes launch sustained air strikes against the rebel-held city of Fallujah, following a breakdown in peace talks between the Iraqi government and representatives of the city. ](/news/2004/10/14/united-states-warplanes-launch-sustained-air-strikes-against-the-rebel-held-city-of-fallujah-following-a-breakdown-in-peace-talks-between.md)
-_Context: rebel-held, Fallujah, Iraq interim government_
+_Context: Iraq interim government, rebel-held, Fallujah_
 
 ##### Jerusalem
 ### [ The Israeli government announces that it will not restrict the number of worshippers allowed to enter Jerusalem's Al-Aqsa mosque compound (located in the area known as the Temple Mount in Judaism) during the Muslim month of Ramadan, despite concerns voiced by security officials that the site is dangerously structurally unstable and could collapse if too many people visit. The Israeli government had earlier suggested it would limit the number of visitors, with mosque officials accusing Israel of having "political reasons" to do so. ](/news/2004/10/14/the-israeli-government-announces-that-it-will-not-restrict-the-number-of-worshippers-allowed-to-enter-jerusalem-s-al-aqsa-mosque-compound.md)
-_Context: Ramadan, Temple Mount, Al-Aqsa, Jerusalem_
+_Context: Temple Mount, Al-Aqsa, Jerusalem, Ramadan_
 
 ##### border dispute
 ### [ Russia and the People's Republic of China sign an agreement ending their last border dispute. Details of the agreement have not yet been released. ](/news/2004/10/14/russia-and-the-people-s-republic-of-china-sign-an-agreement-ending-their-last-border-dispute-details-of-the-agreement-have-not-yet-been-re.md)
@@ -25,7 +25,7 @@ In a historic decision, China and Russia today resolved the last of their decade
 
 ##### European Court of Human Rights
 ### [ The European Court of Human Rights agrees, for the first time, to hear cases brought against Russia by Chechen civilians. ](/news/2004/10/14/the-european-court-of-human-rights-agrees-for-the-first-time-to-hear-cases-brought-against-russia-by-chechen-civilians.md)
-_Context: civilian, Chechnya, European Court of Human Rights_
+_Context: Chechnya, European Court of Human Rights, civilian_
 
 ##### Republika Srpska
 ### [ Authorities in Republika Srpska, the Bosnian Serb division of Bosnia and Herzegovina, admit for the first time the actual scale of the 1995 Srebrenica massacre, providing a list of over 7,000 Muslim victims. The Bosnian Serb president admitted in June that Serb forces had committed the massacre, but did not give a specific number of victims. ](/news/2004/10/14/authorities-in-republika-srpska-the-bosnian-serb-division-of-bosnia-and-herzegovina-admit-for-the-first-time-the-actual-scale-of-the-1995.md)
@@ -33,7 +33,7 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 
 ##### Boeing 747
 ### [ A Boeing 747 cargo plane, en route to Spain, crashes at the end of a runway at Halifax International Airport in Nova Scotia, Canada. All seven of the crew are confirmed dead in Canada's worst-ever air cargo crash. ](/news/2004/10/14/a-boeing-747-cargo-plane-en-route-to-spain-crashes-at-the-end-of-a-runway-at-halifax-international-airport-in-nova-scotia-canada-all-se.md)
-_Context: Boeing 747, Halifax International Airport, Nova Scotia_
+_Context: Nova Scotia, Halifax International Airport, Boeing 747_
 
 ## [Previous Day...](/news/2004/10/13/index.md)
 

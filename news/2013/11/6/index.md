@@ -17,7 +17,7 @@ Group ends 20-month campaign after army captures last hilltop strongholds, raisi
 
 ##### Baghdad
 ### [A suicide bomber detonates a bomb in an oil tanker truck, killing 15 people in Baghdad, Iraq. ](/news/2013/11/6/a-suicide-bomber-detonates-a-bomb-in-an-oil-tanker-truck-killing-15-people-in-baghdad-iraq.md)
-_Context: Iraq, Baghdad_
+_Context: Baghdad, Iraq_
 
 ##### Rafael Caro Quintero
 ### [A Mexican federal court overturns a state court ruling that allowed the drug lord Rafael Caro Quintero to be released from prison earlier this year. This court response follows a decision by the U.S. Department of State to place a $5 million bounty against him. ](/news/2013/11/6/a-mexican-federal-court-overturns-a-state-court-ruling-that-allowed-the-drug-lord-rafael-caro-quintero-to-be-released-from-prison-earlier-th.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Detroit
 ### [A shooting at a barbershop in Detroit, Michigan, U.S. kills 2 people and injures 7 others. ](/news/2013/11/6/a-shooting-at-a-barbershop-in-detroit-michigan-u-s-kills-2-people-and-injures-7-others.md)
-_Context: Detroit, U.S., Mich._
+_Context: U.S., Detroit, Mich._
 
 ##### Pervez Musharraf
 ### [Pakistan's ex-president Pervez Musharraf is released on bail. ](/news/2013/11/6/pakistan-s-ex-president-pervez-musharraf-is-released-on-bail.md)

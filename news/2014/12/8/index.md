@@ -17,7 +17,7 @@ A second fire broke out shortly after 4 a.m., but authorities don&#039;t think t
 
 ##### American
 ### [A small plane crashes into a house in the American town of Gaithersburg, Maryland near Washington, D.C. with 5 people dead. ](/news/2014/12/8/a-small-plane-crashes-into-a-house-in-the-american-town-of-gaithersburg-maryland-near-washington-d-c-with-5-people-dead.md)
-_Context: Washington, D.C., Gaithersburg, Maryland, American_
+_Context: Gaithersburg, Maryland, Washington, D.C., American_
 
 ##### United Nations
 ### [The United Nations seeks $16.4 billion to fund humanitarian assistance programs in 2015 with Syria, Iraq, Sudan and South Sudan the areas of greatest need. ](/news/2014/12/8/the-united-nations-seeks-16-4-billion-to-fund-humanitarian-assistance-programs-in-2015-with-syria-iraq-sudan-and-south-sudan-the-areas-of.md)
@@ -25,7 +25,7 @@ The size of the appeal, 27 percent more than the amount sought in 2014, is aimed
 
 ##### Chinese court
 ### [A Chinese court sentences eight people to death for their role in two deadly attacks in Xinjiang. ](/news/2014/12/8/a-chinese-court-sentences-eight-people-to-death-for-their-role-in-two-deadly-attacks-in-xinjiang.md)
-_Context: Xinjiang, Chinese court_
+_Context: Chinese court, Xinjiang_
 
 ##### 
 ### [A U.S. District Judge sentences the back office director, Daniel Bonventre, to ten years. ](/news/2014/12/8/a-u-s-district-judge-sentences-the-back-office-director-daniel-bonventre-to-ten-years.md)
@@ -39,7 +39,7 @@ Attorney General Eric Holder says he hopes state and local police will adopt the
 
 ##### Israel
 ### [The Israeli Knesset votes to dissolve itself with new elections called for March 17. ](/news/2014/12/8/the-israeli-knesset-votes-to-dissolve-itself-with-new-elections-called-for-march-17.md)
-_Context: Israeli legislative election, 2015, parliament in Israel, Israel_
+_Context: parliament in Israel, Israel, Israeli legislative election, 2015_
 
 ## [Previous Day...](/news/2014/12/7/index.md)
 

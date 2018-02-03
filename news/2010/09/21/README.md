@@ -17,11 +17,11 @@ A helicopter crash Tuesday brought the number of NATO service members killed in 
 
 ##### Al-Qaeda in the Islamic Maghreb
 ### [Al-Qaeda in the Islamic Maghreb claims responsibility for kidnapping five French workers in Niger. ](/news/2010/09/21/al-qaeda-in-the-islamic-maghreb-claims-responsibility-for-kidnapping-five-french-workers-in-niger.md)
-_Context: kidnapping, Al-Qaeda in the Islamic Maghreb, Niger, France_
+_Context: Niger, kidnapping, Al-Qaeda in the Islamic Maghreb, France_
 
 ##### Lawrence Summers
 ### [Lawrence Summers announces that he will leave as head of the United States National Economic Council, responsible for advising President Barack Obama on economic policy. ](/news/2010/09/21/lawrence-summers-announces-that-he-will-leave-as-head-of-the-united-states-national-economic-council-responsible-for-advising-president-bar.md)
-_Context: Lawrence Summers, Barack Obama, U.S. President, United States National Economic Council_
+_Context: United States National Economic Council, Barack Obama, U.S. President, Lawrence Summers_
 
 ##### Mark Cuban
 ### [In the Mark Cuban insider trading case, an appeals court overturns a district court decision last fall that had dismissed the civil charges brought against Cuban by the U.S. Securities and Exchange Commission. ](/news/2010/09/21/in-the-mark-cuban-insider-trading-case-an-appeals-court-overturns-a-district-court-decision-last-fall-that-had-dismissed-the-civil-charges.md)
@@ -29,15 +29,15 @@ Appeals court says there is sufficient credible evidence to put SEC case back on
 
 ##### 2010 Atlantic hurricane season
 ### [Tropical Storm Lisa forms in the Atlantic Ocean off the Cape Verde Islands. ](/news/2010/09/21/tropical-storm-lisa-forms-in-the-atlantic-ocean-off-the-cape-verde-islands.md)
-_Context: Atlantic Ocean, 2010 Atlantic hurricane season, Cape Verde Islands_
+_Context: Atlantic Ocean, Cape Verde Islands, 2010 Atlantic hurricane season_
 
 ##### China
 ### [China rules out a meeting with Japanese Prime Minister Naoto Kan at the United Nations to resolve an ongoing diplomatic row, saying the timing is "not proper". ](/news/2010/09/21/china-rules-out-a-meeting-with-japanese-prime-minister-naoto-kan-at-the-united-nations-to-resolve-an-ongoing-diplomatic-row-saying-the-timi.md)
-_Context: United Nations, Japan, Prime Minister of Japan, China, Naoto Kan_
+_Context: Japan, Naoto Kan, China, Prime Minister of Japan, United Nations_
 
 ##### Italy
 ### [Italian authorities seize 23&nbsp;million euro (approximately US$30&nbsp;million) from a Vatican bank account in a money laundering probe. ](/news/2010/09/21/italian-authorities-seize-23-nbsp-million-euro-approximately-us-30-nbsp-million-from-a-vatican-bank-account-in-a-money-laundering-probe.md)
-_Context: Holy See, Italy, USD, euro_
+_Context: euro, Italy, Holy See, USD_
 
 ##### Paris Hilton
 ### [U.S. entertainers Paris Hilton and Nicky Hilton are stopped by immigrations at a Japanese airport and forbidden to enter the country due to Paris's drug conviction the day prior. ](/news/2010/09/21/u-s-entertainers-paris-hilton-and-nicky-hilton-are-stopped-by-immigrations-at-a-japanese-airport-and-forbidden-to-enter-the-country-due-to.md)
@@ -57,11 +57,11 @@ Eleven men on the roof of the detention centre want to speak to Department of Im
 
 ##### Workers Party of North Korea
 ### [The governing Workers Party of North Korea reschedules its first party conference for thirty years for September 28 in Pyongyang amongst speculation that Leader Kim Jong-il will name his youngest son Kim Jong-un as his successor. ](/news/2010/09/21/the-governing-workers-party-of-north-korea-reschedules-its-first-party-conference-for-thirty-years-for-september-28-in-pyongyang-amongst-spe.md)
-_Context: Workers Party of North Korea, Kim Jong-un, Kim Jong-il, Pyongyang_
+_Context: Workers Party of North Korea, Pyongyang, Kim Jong-il, Kim Jong-un_
 
 ##### Omar Abdirashid Ali Sharmarke
 ### [Omar Abdirashid Ali Sharmarke resigns as Prime Minister of Somalia following an impasse developing with President Sharif Ahmed over a new constitution. ](/news/2010/09/21/omar-abdirashid-ali-sharmarke-resigns-as-prime-minister-of-somalia-following-an-impasse-developing-with-president-sharif-ahmed-over-a-new-co.md)
-_Context: constitution, Prime Minister of Somalia, Sharif Ahmed, President, Omar Abdirashid Ali Sharmarke_
+_Context: Omar Abdirashid Ali Sharmarke, Sharif Ahmed, constitution, Prime Minister of Somalia, President_
 
 ## [Previous Day...](/news/2010/09/20/index.md)
 

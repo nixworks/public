@@ -20,7 +20,7 @@ Formats: [HTML](/news/2008/03/31/one-of-mexico-s-most-prolific-serial-killers-ju
 
 ### Related:
 
-1. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md) _Context: Mexico_
+1. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md) _Context: Mexico_
 2. [Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. ](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gunmen-a.md) _Context: Mexico_
 3. [German nurse and convicted serial killer Niels Hogel is charged with 97 further counts of murder. ](/news/2018/01/22/german-nurse-and-convicted-serial-killer-niels-hapgel-is-charged-with-97-further-counts-of-murder.md) _Context: serial killer_
 4. [Ten people are killed and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md) _Context: Mexico_

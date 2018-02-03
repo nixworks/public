@@ -9,11 +9,11 @@ Gaddafi forces reportedly attacking eastern town of Ajdabiya as fighters are als
 
 ##### Laurent Gbagbo
 ### [Forces loyal to Laurent Gbagbo regain ground in Abidjan. ](/news/2011/04/9/forces-loyal-to-laurent-gbagbo-regain-ground-in-abidjan.md)
-_Context: Laurent Gbagbo, Abidjan_
+_Context: Abidjan, Laurent Gbagbo_
 
 ##### Tahrir Square
 ### [The Egyptian Army initiates a fatal crackdown in Tahrir Square, Cairo, on people protesting that ousted president Hosni Mubarak be prosecuted for corruption. ](/news/2011/04/9/the-egyptian-army-initiates-a-fatal-crackdown-in-tahrir-square-cairo-on-people-protesting-that-ousted-president-hosni-mubarak-be-prosecute.md)
-_Context: Hosni Mubarak, Tahrir Square, Cairo_
+_Context: Cairo, Tahrir Square, Hosni Mubarak_
 
 ##### Israel
 ### [Over 120 rockets are fired into southern Israel this weekend, wounding 5 people. The Iron Dome missile system intercepts 10 rockets. ](/news/2011/04/9/over-120-rockets-are-fired-into-southern-israel-this-weekend-wounding-5-people-the-iron-dome-missile-system-intercepts-10-rockets.md)
@@ -29,7 +29,7 @@ _Context: Manhattan, U.S, Sidney Lumet_
 
 ##### tornado
 ### [A tornado hits in Iowa's Monona County in the midwestern United States. ](/news/2011/04/9/a-tornado-hits-in-iowa-s-monona-county-in-the-midwestern-united-states.md)
-_Context: Monona County, tornado, Iowa, midwestern_
+_Context: Monona County, Iowa, tornado, midwestern_
 
 ##### Australia
 ### [Australian police are condemned for their failure to treat the 2007 death of an Aboriginal boy found weighted with rocks in a waterhole as anything other than an accident in Borroloola, Northern Territory. ](/news/2011/04/9/australian-police-are-condemned-for-their-failure-to-treat-the-2007-death-of-an-aboriginal-boy-found-weighted-with-rocks-in-a-waterhole-as-a.md)
@@ -37,7 +37,7 @@ POLICE treated as an accident the death of an eight-year-old Aboriginal boy whos
 
 ##### shooting spree
 ### [A shooting spree in a shopping mall in Alphen aan den Rijn in the Netherlands leaves seven dead, including the perpetrator. ](/news/2011/04/9/a-shooting-spree-in-a-shopping-mall-in-alphen-aan-den-rijn-in-the-netherlands-leaves-seven-dead-including-the-perpetrator.md)
-_Context: Alphen aan den Rijn, Netherlands, shooting spree_
+_Context: shooting spree, Netherlands, Alphen aan den Rijn_
 
 ##### parliament
 ### [Women's groups protest outside the Oireachtas after police are filmed discussing raping women after their arrest. ](/news/2011/04/9/women-s-groups-protest-outside-the-oireachtas-after-police-are-filmed-discussing-raping-women-after-their-arrest.md)

@@ -5,15 +5,15 @@ Formats: [HTML](2005/04/2/index.html)  [JSON](2005/04/2/index.json)  [XML](2005/
 
 ##### Caltech
 ### [ Scientists at the California Institute of Technology devise a method to weigh the smallest mass ever, a cluster of xenon atoms weighing a few zeptograms, or billionths of a trillionth of a gram. ](/news/2005/04/2/scientists-at-the-california-institute-of-technology-devise-a-method-to-weigh-the-smallest-mass-ever-a-cluster-of-xenon-atoms-weighing-a-f.md)
-_Context: Caltech, zeptogram, xenon_
+_Context: xenon, zeptogram, Caltech_
 
 ##### Riccardo Muti
 ### [ Riccardo Muti resigns as music director of La Scala opera house, Milan after 18 years, following a vote of no-confidence by 700 orchestra members and staff last month. ](/news/2005/04/2/riccardo-muti-resigns-as-music-director-of-la-scala-opera-house-milan-after-18-years-following-a-vote-of-no-confidence-by-700-orchestra-m.md)
-_Context: Riccardo Muti, opera house, Milan, La Scala, music director_
+_Context: music director, Milan, La Scala, opera house, Riccardo Muti_
 
 ##### France
 ### [ In France, radical wine producers attack the offices of agriculture ministries in Montpellier and Carcassonne with dynamite. A group calling itself "Comit Rgional d'Action Viticole" (Crav) takes responsibility.](/news/2005/04/2/in-france-radical-wine-producers-attack-the-offices-of-agriculture-ministries-in-montpellier-and-carcassonne-with-dynamite-a-group-callin.md)
-_Context: France, Carcassonne, agriculture, Montpellier, dynamite, wine, Comit Rgional d'Action Viticole_
+_Context: France, dynamite, wine, agriculture, Carcassonne, Comit Rgional d'Action Viticole, Montpellier_
 
 ##### Nepal
 ### [ In Nepal, former prime minister Girija Prasad Koirala is released from house arrest and demands the return to democracy. ](/news/2005/04/2/in-nepal-former-prime-minister-girija-prasad-koirala-is-released-from-house-arrest-and-demands-the-return-to-democracy.md)

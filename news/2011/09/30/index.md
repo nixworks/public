@@ -17,7 +17,7 @@ THE death toll from a typhoon that pummelled the Philippines has climbed to 43 a
 
 ##### Supreme Court of Canada
 ### [The Supreme Court of Canada rules in a 9-0 decision that Insite, a safe injection site in Vancouver, can remain open. ](/news/2011/09/30/the-supreme-court-of-canada-rules-in-a-9-0-decision-that-insite-a-safe-injection-site-in-vancouver-can-remain-open.md)
-_Context: Supreme Court of Canada, Insite_
+_Context: Insite, Supreme Court of Canada_
 
 ##### Thein Sein
 ### [Burma's President Thein Sein halts controversial Myitsone Dam project after a rare public outcry. ](/news/2011/09/30/burma-s-president-thein-sein-halts-controversial-myitsone-dam-project-after-a-rare-public-outcry.md)

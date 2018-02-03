@@ -13,7 +13,7 @@ A suicide bomber killed at least 25 new recruits inside a police compound in the
 
 ##### rickshaw
 ### [A truck collides with a motorised rickshaw in the Adilabad district of India's Telangana state resulting in 16 deaths. ](/news/2016/05/15/a-truck-collides-with-a-motorised-rickshaw-in-the-adilabad-district-of-india-s-telangana-state-resulting-in-16-deaths.md)
-_Context: Adilabad district, Telangana, India, rickshaw_
+_Context: Telangana, India, Adilabad district, rickshaw_
 
 ##### Capital punishment in the Philippines
 ### [President-elect of the Philippines, Rodrigo Duterte, vows to reintroduce capital punishment and give security forces permission to shoot to kill for organized crime figures and people resisting arrest. Duterte is due to take office on June 30, 2016. ](/news/2016/05/15/president-elect-of-the-philippines-rodrigo-duterte-vows-to-reintroduce-capital-punishment-and-give-security-forces-permission-to-shoot-to.md)

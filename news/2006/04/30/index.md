@@ -13,15 +13,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Central African Republic
 ### [ The Government of the Central African Republic joins the United States Government and the Government of Chad in formally accusing the Government of Sudan of supporting the United Front for Democratic Change rebels and further alleges that UFDC rebels are entering southern Chad through the CAR-Chad-Sudan border area. ](/news/2006/04/30/the-government-of-the-central-african-republic-joins-the-united-states-government-and-the-government-of-chad-in-formally-accusing-the-gover.md)
-_Context: Chadian rebels, Central African Republic, Sudan, second Dby administration_
+_Context: second Dby administration, Sudan, Chadian rebels, Central African Republic_
 
 ##### Parliament
 ### [ The Parliament of Nepal, reinstated last week after a 4-year hiatus, unanimously approves a proposal by new prime minister Girija Prasad Koirala to hold elections for a special assembly to draw up a new constitution. ](/news/2006/04/30/the-parliament-of-nepal-reinstated-last-week-after-a-4-year-hiatus-unanimously-approves-a-proposal-by-new-prime-minister-girija-prasad-ko.md)
-_Context: Parliament, Prime Minister, Constitution of Nepal, Girija Prasad Koirala, reinstated last week after a 4-year hiatus, elections_
+_Context: Parliament, Girija Prasad Koirala, Constitution of Nepal, Prime Minister, elections, reinstated last week after a 4-year hiatus_
 
 ##### miners
 ### [ 24 miners have been killed in a mine explosion in the Chinese province of Shaanxi. ](/news/2006/04/30/24-miners-have-been-killed-in-a-mine-explosion-in-the-chinese-province-of-shaanxi.md)
-_Context: Shaanxi, miners_
+_Context: miners, Shaanxi_
 
 ## [Previous Day...](/news/2006/04/29/index.md)
 

@@ -17,11 +17,11 @@ The passageway, running east from the Strip into Israel, is part of a larger com
 
 ##### New Zealand
 ### [New Zealand author Eleanor Catton wins the 2013 Man Booker Prize for her work "The Luminaries". ](/news/2013/10/15/new-zealand-author-eleanor-catton-wins-the-2013-man-booker-prize-for-her-work-the-luminaries.md)
-_Context: The Luminaries, Eleanor Catton, New Zealand, 2013 Man Booker Prize_
+_Context: Eleanor Catton, New Zealand, The Luminaries, 2013 Man Booker Prize_
 
 ##### Fitch Ratings
 ### [International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/international-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-negative-in-response-to-the-looming-financia.md)
-_Context: U.S., Fitch Ratings_
+_Context: United States, Fitch Ratings_
 
 ##### Glenn Greenwald
 ### [Glenn Greenwald, a reporter with "The Guardian" who has published information provided him by NSA contractor Edward Snowden, is leaving the British newspaper to join a new journalistic enterprise to be bankrolled by Pierre Omidyar, the founder of eBay. ](/news/2013/10/15/glenn-greenwald-a-reporter-with-the-guardian-who-has-published-information-provided-him-by-nsa-contractor-edward-snowden-is-leaving-the.md)
@@ -45,7 +45,7 @@ Ex-Liberian President Charles Taylor arrives in the UK to serve the remainder of
 
 ##### 2013 Beijing Capital International Airport bombing
 ### [The perpetrator of the 2013 Beijing Capital International Airport bombing Ji Zhongxing is sentenced to 6 years imprisonment by a Chinese court. ](/news/2013/10/15/the-perpetrator-of-the-2013-beijing-capital-international-airport-bombing-ji-zhongxing-is-sentenced-to-6-years-imprisonment-by-a-chinese-cou.md)
-_Context: 2013 Beijing Capital International Airport bombing, Chinese_
+_Context: China, 2013 Beijing Capital International Airport bombing_
 
 ## [Previous Day...](/news/2013/10/14/index.md)
 

@@ -27,7 +27,7 @@ Doctors believe they have found the first evidence that a new deadly virus in th
 ### [An Irish archbishop claims the Catholic Church has no records on the burial of 796 children in a disused concrete septic tank at a building it runs in Tuam. ](/news/2014/06/5/an-irish-archbishop-claims-the-catholic-church-has-no-records-on-the-burial-of-796-children-in-a-disused-concrete-septic-tank-at-a-building.md)
 The Archbishop of Tuam in County Galway says the Catholic church has no records about the burial of nearly 800 children in a concrete septic tank at a mother and baby home.
 
-##### Chinese
+##### China
 ### [The People's Republic of China claims to have arrested 29 people following recent terrorist attacks in the Xinjiang region. ](/news/2014/06/5/the-people-s-republic-of-china-claims-to-have-arrested-29-people-following-recent-terrorist-attacks-in-the-xinjiang-region.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -45,7 +45,7 @@ A gunman opened fire inside a building on the campus of a small university near 
 
 ##### hip hop
 ### [American hip hop band the Beastie Boys win a $1.7 million copyright violation suit against the makers of Monster Energy drink for unauthorised use of their music in advertising. ](/news/2014/06/5/american-hip-hop-band-the-beastie-boys-win-a-1-7-million-copyright-violation-suit-against-the-makers-of-monster-energy-drink-for-unauthoris.md)
-_Context: Beastie Boys, copyright, Monster Energy, hip hop_
+_Context: copyright, Monster Energy, Beastie Boys, hip hop_
 
 ## [Previous Day...](/news/2014/06/4/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/26/the-united-states-national-hurricane-center-iss
 
 ### [2012-08-26](/news/2012/08/26/index.md)
 
-##### U.S.
+##### United States
 # The United States National Hurricane Center issues hurricane warnings for the states of Florida, Alabama, Mississippi and Louisiana. A state of emergency is in effect in these four areas. 
 
 Forecasters say Tropical Storm Isaac has gained added strength and should be at or near hurricane force when it reaches the Florida Keys later in the day.
@@ -26,4 +26,4 @@ Forecasters say Tropical Storm Isaac has gained added strength and should be at 
 2. [Multiple tornadoes tear through New Orleans, Baton Rouge, and other parts of southeastern Louisiana, injuring at least 20 people; no deaths have been reported. The severe weather also delivers heavy rain and hail in Mississippi and Alabama. ](/news/2017/02/7/multiple-tornadoes-tear-through-new-orleans-baton-rouge-and-other-parts-of-southeastern-louisiana-injuring-at-least-20-people-no-deaths.md) _Context: Alabama, Louisiana, Mississippi_
 3. [A moderate severe weather outbreak pounds several southern U.S. states on Christmas Day, including Texas, Alabama, Mississippi and Louisiana. More than 30 tornadoes are reported as the storms leave at least six people dead. The system is expected to move northeast and affect the East Coast with high winds and heavy snowfall. ](/news/2012/12/26/a-moderate-severe-weather-outbreak-pounds-several-southern-u-s-states-on-christmas-day-including-texas-alabama-mississippi-and-louisiana.md) _Context: Alabama, Louisiana, Mississippi_
 4. [Hurricane Nate weakens to a tropical storm, and causes flooding and power outages in Mississippi and Alabama. ](/news/2017/10/8/hurricane-nate-weakens-to-a-tropical-storm-and-causes-flooding-and-power-outages-in-mississippi-and-alabama.md) _Context: Alabama, Mississippi_
-5. [SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite SES-11 for Luxembourg-based SES, and EchoStar 105 for U.S.-headquartered EchoStar. It's the third time when a Falcon 9 first stage is re-used. ](/news/2017/10/11/spacex-launches-a-falcon-9-full-thrust-rocket-at-cape-canaveral-florida-to-supersynchronous-orbit-an-airbus-built-communications-satellite.md) _Context: U.S., the state_
+5. [SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite SES-11 for Luxembourg-based SES, and EchoStar 105 for U.S.-headquartered EchoStar. It's the third time when a Falcon 9 first stage is re-used. ](/news/2017/10/11/spacex-launches-a-falcon-9-full-thrust-rocket-at-cape-canaveral-florida-to-supersynchronous-orbit-an-airbus-built-communications-satellite.md) _Context: United States, the state_

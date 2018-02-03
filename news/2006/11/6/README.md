@@ -5,11 +5,11 @@ Formats: [HTML](2006/11/6/index.html)  [JSON](2006/11/6/index.json)  [XML](2006/
 
 ##### Somali Civil War
 ### [ Somalian War: Heavy fighting has been reported between forces of Union of Islamic Courts and Puntland, the semi-autonomous region of Somalia. ](/news/2006/11/6/somalian-war-heavy-fighting-has-been-reported-between-forces-of-union-of-islamic-courts-and-puntland-the-semi-autonomous-region-of-somali.md)
-_Context: Union of Islamic Courts, Somalia, Somali Civil War, Puntland_
+_Context: Somalia, Puntland, Somali Civil War, Union of Islamic Courts_
 
 ##### Felipe Perez Roque
 ### [ Felipe Perez Roque, the Foreign Minister of Cuba, backs away from earlier predictions that Fidel Castro would return as the President of Cuba by December raising concerns about the progress of Castro's recovery from intestinal surgery. ](/news/2006/11/6/felipe-pa-c-rez-roque-the-foreign-minister-of-cuba-backs-away-from-earlier-predictions-that-fidel-castro-would-return-as-the-president-of-c.md)
-_Context: Fidel Castro, Cuba, President, Felipe Perez Roque_
+_Context: Cuba, Fidel Castro, President, Felipe Perez Roque_
 
 ##### Iraq
 ### [ The Iraqi government prepares a law that may see former Baath Party supporters restored to their former jobs. ](/news/2006/11/6/the-iraqi-government-prepares-a-law-that-may-see-former-baath-party-supporters-restored-to-their-former-jobs.md)
@@ -25,7 +25,7 @@ Bombs have exploded at Mexico&#39;s top electoral court, an opposition party&#39
 
 ##### Operation Autumn Clouds
 ### [ Operation Autumn Clouds: A female Palestinian suicide bomber has blown herself up in a Gaza Strip town, killing herself and injuring an Israeli soldier, the Israeli army says. ](/news/2006/11/6/operation-autumn-clouds-a-female-palestinian-suicide-bomber-has-blown-herself-up-in-a-gaza-strip-town-killing-herself-and-injuring-an-isr.md)
-_Context: Israel, Operation Autumn Clouds, Gaza Strip, Israeli army_
+_Context: Gaza Strip, Israeli army, Israel, Operation Autumn Clouds_
 
 ##### President
 ### [ The Polish President, Lech Kaczynski, proposes that there be a 100,000 man-strong EU Army designed to work with NATO. ](/news/2006/11/6/the-polish-president-lech-kaczyaski-proposes-that-there-be-a-100-000-man-strong-eu-army-designed-to-work-with-nato.md)
@@ -33,15 +33,15 @@ The President of Poland, Lech Kaczynski, has proposed the creation of a 100,000-
 
 ##### Ariel Sharon
 ### [ Ariel Sharon is moved out of the intensive care unit at the Sheba Medical Center. ](/news/2006/11/6/ariel-sharon-is-moved-out-of-the-intensive-care-unit-at-the-sheba-medical-center.md)
-_Context: Sheba Medical Center, Ariel Sharon, intensive care unit_
+_Context: Ariel Sharon, Sheba Medical Center, intensive care unit_
 
 ##### Daniel Ortega
 ### [ Daniel Ortega has an early lead over Eduardo Montealegre, according to partial results from the general elections in Nicaragua. ](/news/2006/11/6/daniel-ortega-has-an-early-lead-over-eduardo-montealegre-according-to-partial-results-from-the-general-elections-in-nicaragua.md)
-_Context: Nicaragua, Daniel Ortega, 2006 general election, Eduardo Montealegre_
+_Context: Nicaragua, Daniel Ortega, Eduardo Montealegre, 2006 general election_
 
 ##### United Nations Climate Change Conference
 ### [ The United Nations Climate Change Conference (COP-12) opens in Nairobi, Kenya. ](/news/2006/11/6/the-united-nations-climate-change-conference-cop-12-opens-in-nairobi-kenya.md)
-_Context: United Nations Climate Change Conference, Nairobi_
+_Context: Nairobi, United Nations Climate Change Conference_
 
 ##### George W. Bush
 ### [ The legal challenge to President George W. Bush's ratification of the Deficit Reduction Act of 2005 ("Conyers v. Bush") led by United States Congressman and member of the House Judiciary Committee John Conyers (together with ten other representatives of the House of Representatives) is dismissed due to lack of standing ](/news/2006/11/6/the-legal-challenge-to-president-george-w-bush-s-ratification-of-the-deficit-reduction-act-of-2005-conyers-v-bush-led-by-united-state.md)

@@ -9,7 +9,7 @@ _Context: Cyprus, Annan Plan, reunification referendum_
 
 ##### Forgent Networks
 ### [ Forgent Networks sues 31 companies for infringement of their software patent, which they claim is used in the JPEG standard. ](/news/2004/04/24/forgent-networks-sues-31-companies-for-infringement-of-their-software-patent-which-they-claim-is-used-in-the-jpeg-standard.md)
-_Context: Forgent Networks, JPEG, software patent_
+_Context: software patent, JPEG, Forgent Networks_
 
 ## [Previous Day...](/news/2004/04/23/index.md)
 

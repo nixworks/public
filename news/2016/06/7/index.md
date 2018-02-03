@@ -11,7 +11,7 @@ ISTANBUL (AP) — A car bomb hit a police vehicle in Istanbul during the morning
 ### [Kazakhstan police report the death toll from Sunday's attack in Aktobe is now 19&nbsp;-- three civilians, three National Guard servicemen, and 13 attackers. ](/news/2016/06/7/kazakhstan-police-report-the-death-toll-from-sunday-s-attack-in-aktobe-is-now-19-nbsp-a-three-civilians-three-national-guard-servicemen.md)
 _Context: 2016 Aktobe shootings, Kazakhstan, Aktobe_
 
-##### U.S. Justice Department
+##### DoJ
 ### [The U.S. Justice Department announces pharmaceutical companies Genentech Inc. and OSI Pharmaceuticals Inc. will pay $67 million to settle False Claims Act allegations for misleading statements about the effectiveness of the drug Tarceva in treating non-small-cell lung carcinoma. ](/news/2016/06/7/the-u-s-justice-department-announces-pharmaceutical-companies-genentech-inc-and-osi-pharmaceuticals-inc-will-pay-67-million-to-settle-fa.md)
 Pharmaceutical firms Genentech Inc. and OSI Pharmaceuticals LLC will pay $67 million to settle False Claims Act allegations involving cancer drug Tarceva.
 

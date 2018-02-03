@@ -53,7 +53,7 @@ Government launches investigation into cause of Manila blaze which killed at lea
 
 ##### gold mine
 ### [Rescue workers attempt to rescue at least 15 gold miners trapped by floods in a mine in Colombia's Caldas Department. ](/news/2015/05/13/rescue-workers-attempt-to-rescue-at-least-15-gold-miners-trapped-by-floods-in-a-mine-in-colombia-s-caldas-department.md)
-_Context: gold mine, Caldas Department_
+_Context: Caldas Department, gold mine_
 
 ##### Catholic Church
 ### [The Vatican concludes a treaty to recognize the Palestinian state. ](/news/2015/05/13/the-vatican-concludes-a-treaty-to-recognize-the-palestinian-state.md)
@@ -69,7 +69,7 @@ A temporary block to Facebook in Nauru is to protect children from abuse, Nauru&
 
 ##### Shooting of Tony Robinson
 ### [Shooting of Tony Robinson: Demonstrators peacefully protest a Wisconsin prosecutor's decision, announced yesterday, not to pursue charges against the officer who shot and killed a 19-year-old. ](/news/2015/05/13/shooting-of-tony-robinson-demonstrators-peacefully-protest-a-wisconsin-prosecutor-s-decision-announced-yesterday-not-to-pursue-charges-ag.md)
-_Context: Wisconsin, Shooting of Tony Robinson_
+_Context: Shooting of Tony Robinson, Wisconsin_
 
 ##### Hyon Yong-chol
 ### [South Korea claims that North Korea has executed its defense chief Hyon Yong-chol with an anti-aircraft gun. ](/news/2015/05/13/south-korea-claims-that-north-korea-has-executed-its-defense-chief-hyon-yong-chol-with-an-anti-aircraft-gun.md)

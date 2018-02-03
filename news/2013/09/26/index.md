@@ -13,13 +13,13 @@ Kenya seeks the arrest of Briton Samantha Lewthwaite - suspected al-Shabab membe
 
 ##### Al-Shabaab
 ### [Al-Shabaab militants attack two Kenyan towns near the Somali border. ](/news/2013/09/26/al-shabaab-militants-attack-two-kenyan-towns-near-the-somali-border.md)
-_Context: Somalia, Al-Shabaab, Kenya_
+_Context: Kenya, Somalia, Al-Shabaab_
 
 ##### Paul Konigsberg
 ### [Authorities in the U.S. arrest Paul Konigsberg, an accountant, charging him with complicity in the Ponzi scheme of former New York financier Bernard Madoff, a scheme that unraveled in 2008. ](/news/2013/09/26/authorities-in-the-u-s-arrest-paul-konigsberg-an-accountant-charging-him-with-complicity-in-the-ponzi-scheme-of-former-new-york-financier.md)
 A former accountant for Bernard Madoff has been indicted on charges he helped the convicted swindler defraud thousands of customers in the Ponzi scheme masterminded by Madoff, nearly five years after the fraud was uncovered.
 
-##### U.S.
+##### United States
 ### [The United States and Russia agree on a draft United Nations Security Council resolution aiming to rid Syria of its chemical weapons. ](/news/2013/09/26/the-united-states-and-russia-agree-on-a-draft-united-nations-security-council-resolution-aiming-to-rid-syria-of-its-chemical-weapons.md)
 UNITED NATIONS (Reuters) - The United States and Russia reached an agreement on Thursday on a draft U.N. Security Council resolution aimed at ridding Syria of its chemical weapons arsenal. Following is the text of this draft resolution. The Security Council, PP1. Recalling the Statements of its Pres...
 

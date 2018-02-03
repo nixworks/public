@@ -13,7 +13,7 @@ Nato forces have attacked Libya&#039;s oil facilities for the first time in this
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Security forces clash with rebels near the town of Zinjibar with eight dead including one soldier. ](/news/2011/07/7/2011-yemeni-uprising-security-forces-clash-with-rebels-near-the-town-of-zinjibar-with-eight-dead-including-one-soldier.md)
-_Context: 2011 Yemeni uprising, Zinjibar_
+_Context: Zinjibar, 2011 Yemeni uprising_
 
 ##### Canadian
 ### [Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/canada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md)
@@ -21,7 +21,7 @@ The United States took complete charge of Kandahar Thursday, formally ending ove
 
 ##### Karachi
 ### [Thirty-four people are killed in attacks on buses and houses in Karachi, Pakistan, with a total three-day death toll of 63. ](/news/2011/07/7/thirty-four-people-are-killed-in-attacks-on-buses-and-houses-in-karachi-pakistan-with-a-total-three-day-death-toll-of-63.md)
-_Context: Pakistan, Karachi_
+_Context: Karachi, Pakistan_
 
 ##### Japan
 ### [Japanese automaker Toyota announces plans to fully restore production from the 2011 Tohoku earthquake and tsunami in October, one month earlier than previously announced. ](/news/2011/07/7/japanese-automaker-toyota-announces-plans-to-fully-restore-production-from-the-2011-tahoku-earthquake-and-tsunami-in-october-one-month-ear.md)
@@ -33,7 +33,7 @@ _Context: Australia, Tiger Airways, Civil Aviation Safety Authority_
 
 ##### NYSE Euronext
 ### [NYSE Euronext shareholders approve of the acquisition of that company, parent corporation of the New York Stock Exchange, by Deutsche Boerse AG. The deal still needs to receive the approval of the acquiring firm's shareholders. ](/news/2011/07/7/nyse-euronext-shareholders-approve-of-the-acquisition-of-that-company-parent-corporation-of-the-new-york-stock-exchange-by-deutsche-boerse.md)
-_Context: New York Stock Exchange, Deutsche Boerse AG, NYSE Euronext_
+_Context: Deutsche Boerse AG, New York Stock Exchange, NYSE Euronext_
 
 ##### News International
 ### [News International shuts down the British newspaper the "News of the World", as a result of a phone hacking affair, with the final edition coming out Sunday. ](/news/2011/07/7/news-international-shuts-down-the-british-newspaper-the-news-of-the-world-as-a-result-of-a-phone-hacking-affair-with-the-final-edition-c.md)
@@ -41,7 +41,7 @@ Police investigating allegations of phone hacking by the News of the World plead
 
 ##### earthquake
 ### [A 7.6 magnitude earthquake occurs off the coast of New Zealand's Kermadec Islands resulting in a tidal surge. ](/news/2011/07/7/a-7-6-magnitude-earthquake-occurs-off-the-coast-of-new-zealand-s-kermadec-islands-resulting-in-a-tidal-surge.md)
-_Context: Kermadec Islands, earthquake, New Zealand, tidal surge_
+_Context: New Zealand, Kermadec Islands, earthquake, tidal surge_
 
 ##### coal mine
 ### [At least 36 people are trapped underground in a coal mine in China's Shandong Province after a fire breaks out. ](/news/2011/07/7/at-least-36-people-are-trapped-underground-in-a-coal-mine-in-china-s-shandong-province-after-a-fire-breaks-out.md)
@@ -53,15 +53,15 @@ The bus passengers were returning from a marriage celebration. The accident happ
 
 ##### Enschede
 ### [In Enschede the Netherlands part of the roof of the stadium of football club FC Twente "De Grolsch Veste" collapses leaving persons dead and a dozen injured. ](/news/2011/07/7/in-enschede-the-netherlands-part-of-the-roof-of-the-stadium-of-football-club-fc-twente-de-grolsch-veste-collapses-leaving-persons-dead-and.md)
-_Context: Enschede, Netherlands, FC Twente, De Grolsch Veste_
+_Context: Netherlands, Enschede, FC Twente, De Grolsch Veste_
 
 ##### Denver, Colorado
 ### [A heavy storm in the US city of Denver, Colorado, causes localized flooding and causing 10,000 houses to lose power. ](/news/2011/07/7/a-heavy-storm-in-the-us-city-of-denver-colorado-causes-localized-flooding-and-causing-10-000-houses-to-lose-power.md)
-_Context: Colorado, flood, Denver, Colorado_
+_Context: Denver, Colorado, flood, Colorado_
 
 ##### South Korea
 ### [South Korea starts work on a new facility to rehouse refugees from North Korea to avoid both food shortages and political oppression. ](/news/2011/07/7/south-korea-starts-work-on-a-new-facility-to-rehouse-refugees-from-north-korea-to-avoid-both-food-shortages-and-political-oppression.md)
-_Context: South Korea, refugee, North Korea_
+_Context: refugee, North Korea, South Korea_
 
 ##### Janet Napolitano
 ### [Janet Napolitano, the United States Secretary of Homeland Security, rolls out the Obama administration's strategy to curb drug smuggling on the Mexican border. ](/news/2011/07/7/janet-napolitano-the-united-states-secretary-of-homeland-security-rolls-out-the-obama-administration-s-strategy-to-curb-drug-smuggling-on.md)
@@ -81,7 +81,7 @@ Rodrick Dantzler, 34, fatally shot himself after an hours-long standoff, manhunt
 
 ##### Mexican
 ### [Humberto Leal Garcia, a Mexican national, is executed in the US state of Texas despite concerns over whether the circumstances of his execution would breach international law. ](/news/2011/07/7/humberto-leal-garcaa-a-mexican-national-is-executed-in-the-us-state-of-texas-despite-concerns-over-whether-the-circumstances-of-his-execu.md)
-_Context: international law, Texas, Mexican_
+_Context: Mexican, international law, Texas_
 
 ##### Casey Anthony
 ### [Casey Anthony is sentenced to four years for lying to law enforcement regarding the death of her child Caylee in the U.S. state of Florida but after credit for time served will be released on July 17. ](/news/2011/07/7/casey-anthony-is-sentenced-to-four-years-for-lying-to-law-enforcement-regarding-the-death-of-her-child-caylee-in-the-u-s-state-of-florida-b.md)
@@ -93,11 +93,11 @@ Riot police patrolled the streets to break up opposition protests in Dhaka and e
 
 ##### China
 ### [The People's Republic of China dismisses reports of the death of former President Jiang Zemin as "pure rumour". ](/news/2011/07/7/the-people-s-republic-of-china-dismisses-reports-of-the-death-of-former-president-jiang-zemin-as-pure-rumour.md)
-_Context: Chinese President, China, Jiang Zemin_
+_Context: Chinese President, Jiang Zemin, China_
 
 ##### Freedom Flotilla II
 ### [Freedom Flotilla II: The Greek Coast Guard prevents the ship "Dignity Al Karama" from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-in.md)
-_Context: Freedom Flotilla II, Crete, Hellenic Coast Guard, Gaza Strip_
+_Context: Gaza Strip, Freedom Flotilla II, Hellenic Coast Guard, Crete_
 
 ##### National Congress Party
 ### [The southern branch of Sudan's ruling National Congress Party announces its split from the northern party ahead of South Sudan's independence ](/news/2011/07/7/the-southern-branch-of-sudan-s-ruling-national-congress-party-announces-its-split-from-the-northern-party-ahead-of-south-sudan-s-independenc.md)

@@ -29,7 +29,7 @@ Activists in South Korea float propaganda leaflets to the North, a week after Py
 
 ##### Damian Rzeszowski
 ### [Damian Rzeszowski is sentenced to 30 years in prison for killing six people&mdash;including his wife and children&mdash;in Jersey. ](/news/2012/10/29/damian-rzeszowski-is-sentenced-to-30-years-in-prison-for-killing-six-people-mdash-including-his-wife-and-children-mdash-in-jersey.md)
-_Context: Damian Rzeszowski, Jersey, his wife and children_
+_Context: his wife and children, Jersey, Damian Rzeszowski_
 
 ##### U.S. Supreme Court
 ### [The U.S. Supreme Court declines to take on the review of an abortion-related appeal. The case, which is a proposed measure to amend the Oklahoma state constitution that was unanimously struck down by the Oklahoma Supreme Court, dealt with the constitutionality of state "personhood" laws that endorse the viewpoint that human life begins at conception, and would give human embryos rights and privileges given to citizens, which could have made it more difficult to have abortions for non-emergency reasons. ](/news/2012/10/29/the-u-s-supreme-court-declines-to-take-on-the-review-of-an-abortion-related-appeal-the-case-which-is-a-proposed-measure-to-amend-the-okla.md)

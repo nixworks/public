@@ -5,15 +5,15 @@ Formats: [HTML](2007/12/5/index.html)  [JSON](2007/12/5/index.json)  [XML](2007/
 
 ##### National Television
 ### [ Swedish National Television reveals systematic food safety irregularities at ICA, the leading grocery store chain in Sweden. ](/news/2007/12/5/swedish-national-television-reveals-systematic-food-safety-irregularities-at-ica-the-leading-grocery-store-chain-in-sweden.md)
-_Context: systematic food safety irregularities, Sweden, ICA, National Television_
+_Context: National Television, ICA, Sweden, systematic food safety irregularities_
 
 ##### British
 ### [ Two British citizens are arrested in Lithuania after trying to ship 14 kg (31 pounds) of khat out of Vilnius. ](/news/2007/12/5/two-british-citizens-are-arrested-in-lithuania-after-trying-to-ship-14-kg-31-pounds-of-khat-out-of-vilnius.md)
-_Context: khat, Lithuania, Vilnius, British_
+_Context: Vilnius, Lithuania, British, khat_
 
 ##### Latvia
 ### [ Latvian Prime Minister Aigars Kalvitis resigns. ](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.md)
-_Context: Aigars Kalvitis, Latvia, Prime Minister of Latvia_
+_Context: Latvia, Prime Minister of Latvia, Aigars Kalvitis_
 
 ##### Baghdad
 ### [ Car bombs in Baghdad and three northern Iraqi cities kill at least 22 people and injure more than 60 others. ](/news/2007/12/5/car-bombs-in-baghdad-and-three-northern-iraqi-cities-kill-at-least-22-people-and-injure-more-than-60-others.md)

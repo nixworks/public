@@ -13,7 +13,7 @@ _Context: Boston Police_
 
 ##### Makhachkala
 ### [A bomb detonates in a busy shopping center in Makhachkala, Dagestan, Russia, killing 3 and injuring 2 others. ](/news/2013/05/1/a-bomb-detonates-in-a-busy-shopping-center-in-makhachkala-dagestan-russia-killing-3-and-injuring-2-others.md)
-_Context: Dagestan, Russia, Makhachkala_
+_Context: Makhachkala, Dagestan, Russia_
 
 ##### Iraq
 ### [Multiple bomb attacks across Iraq kill at least 15 people. ](/news/2013/05/1/multiple-bomb-attacks-across-iraq-kill-at-least-15-people.md)
@@ -21,7 +21,7 @@ At least 22 people are killed in attacks across Iraq, police and medics say, aft
 
 ##### T-Mobile
 ### [T-Mobile US debuts on the New York Stock Exchange with the ticker symbol TMUS. ](/news/2013/05/1/t-mobile-us-debuts-on-the-new-york-stock-exchange-with-the-ticker-symbol-tmus.md)
-_Context: ticker symbol, New York Stock Exchange, T-Mobile_
+_Context: New York Stock Exchange, ticker symbol, T-Mobile_
 
 ##### Saudi Arabia
 ### [Flash floods leave 16 people dead and 3 others missing in Saudi Arabia, with authorities urging citizens to avoid low-lying wadis. At least two others were killed in neighboring Oman in some of the heaviest rainfall in more than 25 years. ](/news/2013/05/1/flash-floods-leave-16-people-dead-and-3-others-missing-in-saudi-arabia-with-authorities-urging-citizens-to-avoid-low-lying-wadis-at-least.md)
@@ -45,19 +45,19 @@ A May Day protest in Seattle turned violent Wednesday night and ended with 17 ar
 
 ##### Coronation Street
 ### [British "Coronation Street" star William Roache, the world's longest-serving soap actor, is arrested and charged with two counts of raping a 15-year-old girl in 1967. ](/news/2013/05/1/british-coronation-street-star-william-roache-the-world-s-longest-serving-soap-actor-is-arrested-and-charged-with-two-counts-of-raping-a.md)
-_Context: William Roache, Coronation Street, sexual assault_
+_Context: Coronation Street, William Roache, sexual assault_
 
 ##### National Assembly
 ### [Seven Venezuelan legislators are injured as a fight breaks out between the Socialist Party and the opposition over the outcome of the last month's presidential election. ](/news/2013/05/1/seven-venezuelan-legislators-are-injured-as-a-fight-breaks-out-between-the-socialist-party-and-the-opposition-over-the-outcome-of-the-last-m.md)
-_Context: last month's presidential election, National Assembly, United Social Party of Venezuela_
+_Context: National Assembly, last month's presidential election, United Social Party of Venezuela_
 
 ##### San Jose, California
 ### [In San Jose, California, IBM researchers release "A Boy and His Atom", the smallest movie ever made, which was created by manipulating individual carbon monoxide molecules with a scanning tunneling microscope. ](/news/2013/05/1/in-san-jose-california-ibm-researchers-release-a-boy-and-his-atom-the-smallest-movie-ever-made-which-was-created-by-manipulating-indiv.md)
-_Context: San Jose, California, A Boy and His Atom, carbon monoxide, IBM, scanning tunneling microscope_
+_Context: carbon monoxide, San Jose, California, scanning tunneling microscope, A Boy and His Atom, IBM_
 
 ##### ''Nature''
 ### [An international group of researchers announce in "Nature" the creation of a digital camera that can mimic the compound eyes of insects. ](/news/2013/05/1/an-international-group-of-researchers-announce-in-nature-the-creation-of-a-digital-camera-that-can-mimic-the-compound-eyes-of-insects.md)
-_Context: digital camera, compound eye, ''Nature''_
+_Context: digital camera, ''Nature'', compound eye_
 
 ##### Wyoming
 ### [The Wyoming, United States discovery of a tiny prehistoric bird, "Eocypselus rowei", may help explain the origins of hummingbirds. ](/news/2013/05/1/the-wyoming-united-states-discovery-of-a-tiny-prehistoric-bird-eocypselus-rowei-may-help-explain-the-origins-of-hummingbirds.md)

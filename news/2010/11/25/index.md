@@ -13,11 +13,11 @@ _Context: Kohlberg Kravis Roberts, leveraged buyout, Del Monte Foods_
 
 ##### Mi-8
 ### [Seven are killed and three injured in the rough landing of a Mi-8 helicopter in the Omsk region of Siberia, Russia. ](/news/2010/11/25/seven-are-killed-and-three-injured-in-the-rough-landing-of-a-mi-8-helicopter-in-the-omsk-region-of-siberia-russia.md)
-_Context: Omsk, Russia, Mi-8, Siberia_
+_Context: Omsk, Russia, Siberia, Mi-8_
 
 ##### North Korea
 ### [North Korea warns that it will launch further attacks on South Korea if it continues "reckless military provocation". ](/news/2010/11/25/north-korea-warns-that-it-will-launch-further-attacks-on-south-korea-if-it-continues-reckless-military-provocation.md)
-_Context: South Korea, North Korea_
+_Context: North Korea, South Korea_
 
 ##### Shanghai Cooperation Organization
 ### [The heads of government of the member states of the Shanghai Cooperation Organization meet in Dushanbe for their annual summit. ](/news/2010/11/25/the-heads-of-government-of-the-member-states-of-the-shanghai-cooperation-organization-meet-in-dushanbe-for-their-annual-summit.md)
@@ -41,7 +41,7 @@ The European Commission is to ban the chemical bisphenol A from plastic baby bot
 
 ##### Egypt
 ### [156 people are detained in Egypt following clashes between police and Copts after authorities blocked construction of a church. ](/news/2010/11/25/156-people-are-detained-in-egypt-following-clashes-between-police-and-copts-after-authorities-blocked-construction-of-a-church.md)
-_Context: Copt, Egypt_
+_Context: Egypt, Copt_
 
 ##### Tonga
 ### [Tongans go to the polls in the first general election in the nation's history in which the majority of parliament will be popularly elected. ](/news/2010/11/25/tongans-go-to-the-polls-in-the-first-general-election-in-the-nation-s-history-in-which-the-majority-of-parliament-will-be-popularly-elected.md)
@@ -49,7 +49,7 @@ _Context: Tonga, first general election_
 
 ##### United States Government
 ### [The United States Government sets aside an area in Alaska twice the size of the United Kingdom as a "critical habitat" for polar bears. ](/news/2010/11/25/the-united-states-government-sets-aside-an-area-in-alaska-twice-the-size-of-the-united-kingdom-as-a-critical-habitat-for-polar-bears.md)
-_Context: United States Government, Alaska, British, polar bear_
+_Context: British, polar bear, Alaska, United States Government_
 
 ##### British
 ### [The United Kingdom experiences its earliest widespread snowfall for 17 years, with large parts of Scotland and north east England particularly affected. ](/news/2010/11/25/the-united-kingdom-experiences-its-earliest-widespread-snowfall-for-17-years-with-large-parts-of-scotland-and-north-east-england-particular.md)

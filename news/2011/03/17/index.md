@@ -9,7 +9,7 @@ At least 40 people, most of them civilians, have been killed in a US drone strik
 
 ##### Yerevan
 ### [Thousands of opposition supporters rally in Yerevan, Armenia, demanding the resignation of the government. ](/news/2011/03/17/thousands-of-opposition-supporters-rally-in-yerevan-armenia-demanding-the-resignation-of-the-government.md)
-_Context: Armenia, Yerevan_
+_Context: Yerevan, Armenia_
 
 ##### self-immolation
 ### [Hundreds of people protest in western China after the self-immolation of a Tibetan monk in Aba, Sichuan. ](/news/2011/03/17/hundreds-of-people-protest-in-western-china-after-the-self-immolation-of-a-tibetan-monk-in-aba-sichuan.md)
@@ -37,11 +37,11 @@ _Context: Yan Godovsky, Bolshoi Theatre, Gennady Yanin_
 
 ##### John Dee
 ### [It is announced that "Doctor Dee", a stage show based on the life of John Dee written by and starring Damon Albarn, is to have its premiere at the Manchester International Festival in July. ](/news/2011/03/17/it-is-announced-that-doctor-dee-a-stage-show-based-on-the-life-of-john-dee-written-by-and-starring-damon-albarn-is-to-have-its-premiere.md)
-_Context: John Dee, Manchester International Festival, Damon Albarn_
+_Context: Manchester International Festival, Damon Albarn, John Dee_
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch's News Corp is sued for nepotism over the $675 million purchase of his daughter, Elisabeth Murdoch's, Shine Limited and providing a seat for her on the board. ](/news/2011/03/17/rupert-murdoch-s-news-corp-is-sued-for-nepotism-over-the-675-million-purchase-of-his-daughter-elisabeth-murdoch-s-shine-limited-and-provi.md)
-_Context: nepotism, News Corp, Shine Limited, Elisabeth Murdoch, Rupert Murdoch_
+_Context: nepotism, Elisabeth Murdoch, Rupert Murdoch, News Corp, Shine Limited_
 
 ##### The New York Times
 ### ["The New York Times" newspaper announces it is to start charging people who access content on its website. ](/news/2011/03/17/the-new-york-times-newspaper-announces-it-is-to-start-charging-people-who-access-content-on-its-website.md)
@@ -61,7 +61,7 @@ FOREIGN SECRETARY William Hague was yesterday challenged by a Welsh MP over the 
 
 ##### Haiti
 ### [Officials suggest Haiti's first democratically elected president Jean-Bertrand Aristide is to return there tomorrow after seven years exile in South Africa. The U.S. expresses concern at this development, fearing Aristide could "destabalise" Haiti. ](/news/2011/03/17/officials-suggest-haiti-s-first-democratically-elected-president-jean-bertrand-aristide-is-to-return-there-tomorrow-after-seven-years-exile.md)
-_Context: South Africa, Haiti, Jean-Bertrand Aristide_
+_Context: Jean-Bertrand Aristide, Haiti, South Africa_
 
 ##### Taoiseach
 ### [Taoiseach Enda Kenny visits President of the United States Barack Obama at the White House for the annual Saint Patrick's Day festivities. Obama announces he is to visit Ireland in May and is excited at the prospect of visiting the home of his great, great, great, great, great, grandfather in Moneygall. ](/news/2011/03/17/taoiseach-enda-kenny-visits-president-of-the-united-states-barack-obama-at-the-white-house-for-the-annual-saint-patrick-s-day-festivities-o.md)
@@ -69,11 +69,11 @@ US President Barack Obama has said he will visit Ireland in May.
 
 ##### Malaysia
 ### [Malaysia seizes "suspected nuclear parts" in a Chinese ship bound for Iran. ](/news/2011/03/17/malaysia-seizes-suspected-nuclear-parts-in-a-chinese-ship-bound-for-iran.md)
-_Context: Iran, Malaysia, China_
+_Context: China, Malaysia, Iran_
 
 ##### Burma
 ### [A court in Burma denies bail to the chief of the "Myanmar Times" newspaper, charged with violating immigration law. ](/news/2011/03/17/a-court-in-burma-denies-bail-to-the-chief-of-the-myanmar-times-newspaper-charged-with-violating-immigration-law.md)
-_Context: Burma, Myanmar Times_
+_Context: Myanmar Times, Burma_
 
 ##### asylum seekers
 ### [Asylum seekers stage another riot at the Christmas Island Immigration Detention Centre burning parts of the Australian government facility. ](/news/2011/03/17/asylum-seekers-stage-another-riot-at-the-christmas-island-immigration-detention-centre-burning-parts-of-the-australian-government-facility.md)

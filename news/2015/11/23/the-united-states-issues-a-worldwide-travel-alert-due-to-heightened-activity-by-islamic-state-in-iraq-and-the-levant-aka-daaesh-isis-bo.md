@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/23/the-united-states-issues-a-worldwide-travel-ale
 
 ### [2015-11-23](/news/2015/11/23/index.md)
 
-##### U.S.
+##### United States
 # The United States issues a worldwide travel alert due to heightened activity by Islamic State in Iraq and the Levant (aka Da'esh-ISIS), Boko Haram, al-Qa'ida and other terrorist groups through February 24, 2016. 
 
 
@@ -20,8 +20,8 @@ Formats: [HTML](/news/2015/11/23/the-united-states-issues-a-worldwide-travel-ale
 
 ### Related:
 
-1. [United States-backed Syrian Democratic Forces begin an offensive to regain control of the city of Manbij in the Aleppo Governorate from ISIL. ](/news/2016/06/1/united-states-backed-syrian-democratic-forces-begin-an-offensive-to-regain-control-of-the-city-of-manbij-in-the-aleppo-governorate-from-isil.md) _Context: Islamic State in Iraq and the Levant, U.S._
-2. [The United States conducts airstrikes targeting Kuwaiti-British militant Jihadi John. Later, the U.S. says it is "reasonably certain" a drone strike in Syria killed Jihadi John, ne Mohammed Emwazi. ](/news/2015/11/13/the-united-states-conducts-airstrikes-targeting-kuwaiti-british-militant-jihadi-john-later-the-u-s-says-it-is-reasonably-certain-a-dron.md) _Context: Islamic State in Iraq and the Levant, U.S._
-3. [The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/the-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-nears-the-city.md) _Context: Islamic State in Iraq and the Levant, U.S._
-4. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._
-5. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: U.S._
+1. [United States-backed Syrian Democratic Forces begin an offensive to regain control of the city of Manbij in the Aleppo Governorate from ISIL. ](/news/2016/06/1/united-states-backed-syrian-democratic-forces-begin-an-offensive-to-regain-control-of-the-city-of-manbij-in-the-aleppo-governorate-from-isil.md) _Context: Islamic State in Iraq and the Levant, United States_
+2. [The United States conducts airstrikes targeting Kuwaiti-British militant Jihadi John. Later, the U.S. says it is "reasonably certain" a drone strike in Syria killed Jihadi John, ne Mohammed Emwazi. ](/news/2015/11/13/the-united-states-conducts-airstrikes-targeting-kuwaiti-british-militant-jihadi-john-later-the-u-s-says-it-is-reasonably-certain-a-dron.md) _Context: Islamic State in Iraq and the Levant, United States_
+3. [The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/the-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-nears-the-city.md) _Context: Islamic State in Iraq and the Levant, United States_
+4. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: United States_
+5. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: United States_

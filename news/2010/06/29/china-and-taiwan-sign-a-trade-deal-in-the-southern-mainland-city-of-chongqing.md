@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/29/china-and-taiwan-sign-a-trade-deal-in-the-south
 
 ### [2010-06-29](/news/2010/06/29/index.md)
 
-##### Chinese
+##### China
 # China and Taiwan sign a trade deal in the southern mainland city of Chongqing. 
 
 China can maintain its grip on Tibet &quot;forever&quot;, a senior official said on Tuesday, but conceded that a heavy security presence was still needed to ensure order in Lhasa two years after deadly riots.
@@ -27,8 +27,8 @@ China can maintain its grip on Tibet &quot;forever&quot;, a senior official said
 
 ### Related:
 
-1. [China says Chinese passengers flying from the Chinese cities of Nanchang, Kunming, and Chongqing, will be allowed to stop at Taiwan Taoyuan International Airport before flying to a third destination. Taiwan President Ma Ying-jeou applauded this step toward normalizing relations between the two states. Taiwan's opposition party expressed concern that Beijing is trying to interfere with the country's January 16, 2016, presidential and legislative elections. ](/news/2016/01/5/china-says-chinese-passengers-flying-from-the-chinese-cities-of-nanchang-kunming-and-chongqing-will-be-allowed-to-stop-at-taiwan-taoyuan.md) _Context: Chinese, Chongqing, Taiwan_
-2. [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _Context: Chinese, Taiwan_
-3. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: Chinese, Taiwan_
-4. [Taiwan scrambles navy ships and jets as Chinese warships, led by the aircraft carrier "Liaoning", sail through the Taiwan Strait following exercises in the South China Sea. ](/news/2017/01/11/taiwan-scrambles-navy-ships-and-jets-as-chinese-warships-led-by-the-aircraft-carrier-liaoning-sail-through-the-taiwan-strait-following-e.md) _Context: Chinese, Taiwan_
-5. [At least 13 people are killed and 20 others are missing following a gas explosion in a coal mine in western China's Chongqing region. ](/news/2016/10/31/at-least-13-people-are-killed-and-20-others-are-missing-following-a-gas-explosion-in-a-coal-mine-in-western-china-s-chongqing-region.md) _Context: Chinese, Chongqing_
+1. [China says Chinese passengers flying from the Chinese cities of Nanchang, Kunming, and Chongqing, will be allowed to stop at Taiwan Taoyuan International Airport before flying to a third destination. Taiwan President Ma Ying-jeou applauded this step toward normalizing relations between the two states. Taiwan's opposition party expressed concern that Beijing is trying to interfere with the country's January 16, 2016, presidential and legislative elections. ](/news/2016/01/5/china-says-chinese-passengers-flying-from-the-chinese-cities-of-nanchang-kunming-and-chongqing-will-be-allowed-to-stop-at-taiwan-taoyuan.md) _Context: China, Chongqing, Taiwan_
+2. [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _Context: China, Taiwan_
+3. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: China, Taiwan_
+4. [Taiwan scrambles navy ships and jets as Chinese warships, led by the aircraft carrier "Liaoning", sail through the Taiwan Strait following exercises in the South China Sea. ](/news/2017/01/11/taiwan-scrambles-navy-ships-and-jets-as-chinese-warships-led-by-the-aircraft-carrier-liaoning-sail-through-the-taiwan-strait-following-e.md) _Context: China, Taiwan_
+5. [At least 13 people are killed and 20 others are missing following a gas explosion in a coal mine in western China's Chongqing region. ](/news/2016/10/31/at-least-13-people-are-killed-and-20-others-are-missing-following-a-gas-explosion-in-a-coal-mine-in-western-china-s-chongqing-region.md) _Context: China, Chongqing_

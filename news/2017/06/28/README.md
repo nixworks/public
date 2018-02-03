@@ -3,9 +3,9 @@ Formats: [HTML](2017/06/28/index.html)  [JSON](2017/06/28/index.json)  [XML](201
 
 ## [2017-06-28](/news/2017/06/28/index.md)
 
-##### Chinese
+##### China
 ### [China's state-run "Global Times" newspaper reports the launching of the first Type 055 destroyer, a 10,000-ton "new generation" warship, at the Jiangnan Shipyard in Shanghai. ](/news/2017/06/28/china-s-state-run-global-times-newspaper-reports-the-launching-of-the-first-type-055-destroyer-a-10-000-ton-new-generation-warship-at.md)
-_Context: Type 055 destroyer, Global Times, Chinese, Jiangnan Shipyard, Shanghai_
+_Context: Global Times, Type 055 destroyer, Shanghai, Jiangnan Shipyard, China_
 
 ##### manslaughter by gross negligence
 ### [Six people are charged with various offences including manslaughter by gross negligence following the Hillsborough disaster in 1989. ](/news/2017/06/28/six-people-are-charged-with-various-offences-including-manslaughter-by-gross-negligence-following-the-hillsborough-disaster-in-1989.md)

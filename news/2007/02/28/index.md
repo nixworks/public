@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/28/index.html)  [JSON](2007/02/28/index.json)  [XML](200
 
 ##### President of Bolivia
 ### [ The President of Bolivia Evo Morales declares the Bolivian floods as a national disaster with 35 deaths and 72,000 people becoming homeless. ](/news/2007/02/28/the-president-of-bolivia-evo-morales-declares-the-bolivian-floods-as-a-national-disaster-with-35-deaths-and-72-000-people-becoming-homeless.md)
-_Context: Evo Morales, homeless, President of Bolivia, Bolivia_
+_Context: homeless, President of Bolivia, Bolivia, Evo Morales_
 
 ##### Marthinus van Schalkwyk
 ### [ Marthinus van Schalkwyk, the South African Minister for the Environment, releases a plan to control the elephant population which contains culling as a last resort. ](/news/2007/02/28/marthinus-van-schalkwyk-the-south-african-minister-for-the-environment-releases-a-plan-to-control-the-elephant-population-which-contains.md)
@@ -13,15 +13,15 @@ Without some form of population control, elephants will soon overwhelm public pa
 
 ##### presidential candidate
 ### [ United States Presidential Election, 2008: Senator John McCain (R- AZ) announces his candidacy for president on the "Late Show with David Letterman". ](/news/2007/02/28/united-states-presidential-election-2008-senator-john-mccain-r-az-announces-his-candidacy-for-president-on-the-late-show-with-david-l.md)
-_Context: presidential candidate, Republican, Arizona, Late Show with David Letterman, John McCain, U.S. President, United States Senate_
+_Context: presidential candidate, Arizona, U.S. President, Republican, Late Show with David Letterman, United States Senate, John McCain_
 
 ##### Romano Prodi
 ### [ Romano Prodi, the Prime Minister of Italy, survives a no-confidence motion in the Senate. ](/news/2007/02/28/romano-prodi-the-prime-minister-of-italy-survives-a-no-confidence-motion-in-the-senate.md)
-_Context: Romano Prodi, Senate of Italy, Italian Prime Minister_
+_Context: Italian Prime Minister, Romano Prodi, Senate of Italy_
 
 ##### Airbus
 ### [ Airbus announces plans to cut 10,000 jobs across Europe in the next four years. ](/news/2007/02/28/airbus-announces-plans-to-cut-10-000-jobs-across-europe-in-the-next-four-years.md)
-_Context: Airbus, Europe_
+_Context: Europe, Airbus_
 
 ##### European Union
 ### [ The European Union announces plans to make significant cuts to the European Union Force in Bosnia-Herzegovina. ](/news/2007/02/28/the-european-union-announces-plans-to-make-significant-cuts-to-the-european-union-force-in-bosnia-herzegovina.md)
@@ -29,35 +29,35 @@ _Context: Bosnia-Herzegovina, European Union Force, European Union_
 
 ##### train
 ### [ Strong wind blows a passenger train off the tracks near Turpan, Xinjiang, China, killing four and injuring 30 more. ](/news/2007/02/28/strong-wind-blows-a-passenger-train-off-the-tracks-near-turpan-xinjiang-china-killing-four-and-injuring-30-more.md)
-_Context: Turpan, Xinjiang, train, Chinese_
+_Context: Xinjiang, Turpan, train, China_
 
 ##### volcano
 ### [ Authorities monitor a volcano on the island of Stromboli off the north coast of Sicily as lava pours down its slope for a second successive day. ](/news/2007/02/28/authorities-monitor-a-volcano-on-the-island-of-stromboli-off-the-north-coast-of-sicily-as-lava-pours-down-its-slope-for-a-second-successive.md)
-_Context: Stromboli, volcano, lava, Sicily_
+_Context: Stromboli, lava, volcano, Sicily_
 
 ##### Cuba-United States relations
 ### [ Cuba-United States relations: Carlos and Elsa Alvarez are sentenced to five and three year prison terms respectively after being convicted of spying for the Cuban government. ](/news/2007/02/28/cuba-united-states-relations-carlos-and-elsa-alvarez-are-sentenced-to-five-and-three-year-prison-terms-respectively-after-being-convicted.md)
-_Context: Elsa Alvarez, prison, Cuban government, Carlos, espionage, Cuba-United States relations_
+_Context: Cuban government, espionage, Carlos, Elsa Alvarez, Cuba-United States relations, prison_
 
 ##### painting
 ### [ Two paintings by Pablo Picasso, "Maya with Doll" and "Jacqueline", have been stolen from the painter's granddaughter's apartment in Paris, France. ](/news/2007/02/28/two-paintings-by-pablo-picasso-maya-with-doll-and-jacqueline-have-been-stolen-from-the-painter-s-granddaughter-s-apartment-in-paris.md)
-_Context: Jacqueline, France, Paris, Maya with Doll, painting, Picasso, painter_
+_Context: Paris, Picasso, France, Maya with Doll, Jacqueline, painting, painter_
 
 ##### Iraq War
 ### [ Iraq War: A car bomb kills at least 10 people in Baghdad. ](/news/2007/02/28/iraq-war-a-car-bomb-kills-at-least-10-people-in-baghdad.md)
-_Context: Iraq War, car bomb, Baghdad_
+_Context: car bomb, Baghdad, Iraq War_
 
 ##### Japan
 ### [ Japan abandons its whaling hunt in the Southern Ocean for this year due to the damage caused to the "Nisshin Maru". ](/news/2007/02/28/japan-abandons-its-whaling-hunt-in-the-southern-ocean-for-this-year-due-to-the-damage-caused-to-the-nisshin-maru.md)
-_Context: whaling, Nisshin Maru, Japan, Southern Ocean_
+_Context: Nisshin Maru, Southern Ocean, Japan, whaling_
 
 ##### Sri Lanka
 ### [ The Sri Lanka Navy kills at least fifteen members of the Tamil Tigers as they try to infiltrate the port of Trincomalee. ](/news/2007/02/28/the-sri-lanka-navy-kills-at-least-fifteen-members-of-the-tamil-tigers-as-they-try-to-infiltrate-the-port-of-trincomalee.md)
-_Context: Sri Lanka, Navy, Trincomalee, Tamil Tigers_
+_Context: Trincomalee, Tamil Tigers, Sri Lanka, Navy_
 
 ##### Thailand
 ### [ Finance Minister of Thailand Pridiyathorn Devakula resigns over differences of opinion with the Prime Minister of Thailand Surayud Chulanont. ](/news/2007/02/28/finance-minister-of-thailand-pridiyathorn-devakula-resigns-over-differences-of-opinion-with-the-prime-minister-of-thailand-surayud-chulanon.md)
-_Context: Pridiyathorn Devakula, Surayud Chulanont, Prime Minister, Thailand_
+_Context: Prime Minister, Surayud Chulanont, Pridiyathorn Devakula, Thailand_
 
 ## [Previous Day...](/news/2007/02/27/index.md)
 

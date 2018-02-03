@@ -5,39 +5,39 @@ Formats: [HTML](2010/01/19/index.html)  [JSON](2010/01/19/index.json)  [XML](201
 
 ##### United Nations Security Council
 ### [The United Nations Security Council increases the size of the United Nations Stabilization Mission in Haiti by 3,500. ](/news/2010/01/19/the-united-nations-security-council-increases-the-size-of-the-united-nations-stabilization-mission-in-haiti-by-3-500.md)
-_Context: United Nations Security Council, increases the size, United Nations Stabilization Mission in Haiti_
+_Context: United Nations Security Council, United Nations Stabilization Mission in Haiti, increases the size_
 
 ##### Great Britain
 ### [British confectionery maker Cadbury is to be purchased by American company Kraft Foods for GBP11.5 billion (850 pence per share). ](/news/2010/01/19/british-confectionery-maker-cadbury-is-to-be-purchased-by-american-company-kraft-foods-for-gbp11-5-billion-850-pence-per-share.md)
-_Context: Great Britain, Cadbury, Kraft Foods, confectionery, U.S._
+_Context: confectionery, Great Britain, United States, Cadbury, Kraft Foods_
 
 ##### Iran
 ### [Iran rejects a deal offered by the International Atomic Energy Agency to exchange low-enriched uranium for nuclear fuel. ](/news/2010/01/19/iran-rejects-a-deal-offered-by-the-international-atomic-energy-agency-to-exchange-low-enriched-uranium-for-nuclear-fuel.md)
-_Context: Iran, IAEA, low-enriched uranium, nuclear fuel, nuclear program_
+_Context: nuclear fuel, nuclear program, low-enriched uranium, IAEA, Iran_
 
 ##### Massachusetts
 ### [Massachusetts voters elect Republican Scott Brown to fill the vacant United States Senate seat previously held by Ted Kennedy. ](/news/2010/01/19/massachusetts-voters-elect-republican-scott-brown-to-fill-the-vacant-united-states-senate-seat-previously-held-by-ted-kennedy.md)
-_Context: Ted Kennedy, Scott Brown, Republican, United States Senate, Massachusetts, elect_
+_Context: Scott Brown, Republican, Ted Kennedy, elect, United States Senate, Massachusetts_
 
-##### U.S.
+##### United States
 ### [The United States Supreme Court reverses a decision by the Philadelphia Court of Appeals that had blocked the execution of former Black Panther Party member Mumia Abu-Jamal. ](/news/2010/01/19/the-united-states-supreme-court-reverses-a-decision-by-the-philadelphia-court-of-appeals-that-had-blocked-the-execution-of-former-black-pant.md)
-_Context: Philadelphia, United States court, United States Supreme Court, Mumia Abu-Jamal, U.S., Black Panther Party, Capital punishment in the United States_
+_Context: Mumia Abu-Jamal, Capital punishment in the United States, Black Panther Party, United States, United States court, United States Supreme Court, Philadelphia_
 
-##### U.S.
+##### United States
 ### [The United States Supreme Court refuses to hear an appeal from the QSI Holdings decision on the 6th Circuit Court of Appeals, limiting bankruptcy trustee avoidance actions against certain owners of ](/news/2010/01/19/the-united-states-supreme-court-refuses-to-hear-an-appeal-from-the-qsi-holdings-decision-on-the-6th-circuit-court-of-appeals-limiting-bankr.md)
-_Context: United States Supreme Court, QSI Holdings, U.S._
+_Context: United States, United States Supreme Court, QSI Holdings_
 
 ##### United Nations
 ### [A United Nations survey reveals Afghans have paid about US$2.5 (or GBP1.5) billion in bribes in the last year. ](/news/2010/01/19/a-united-nations-survey-reveals-afghans-have-paid-about-us-2-5-or-gbp1-5-billion-in-bribes-in-the-last-year.md)
-_Context: Afghanistan, bribes, United Nations, GBP, US$_
+_Context: Afghanistan, bribes, US$, United Nations, GBP_
 
 ##### events earlier this year
 ### [At least 149 people are killed in two days of violence between Christians and Muslims in the Nigerian city of Jos. ](/news/2010/01/19/at-least-149-people-are-killed-in-two-days-of-violence-between-christians-and-muslims-in-the-nigerian-city-of-jos.md)
-_Context: events earlier this year, Jos, Muslim, Nigeria, Christian_
+_Context: Nigeria, events earlier this year, Jos, Muslim, Christian_
 
 ##### Exxon Valdez oil spill
 ### [Large quantities of oil still remain under beaches over 20 years after an Exxon Valdez oil spill in the Prince William Sound, Alaska. ](/news/2010/01/19/large-quantities-of-oil-still-remain-under-beaches-over-20-years-after-an-exxon-valdez-oil-spill-in-the-prince-william-sound-alaska.md)
-_Context: Alaska, Exxon Valdez oil spill, Prince William Sound_
+_Context: Prince William Sound, Exxon Valdez oil spill, Alaska_
 
 ##### Japan
 ### [Japanese air carrier Japan Airlines files for bankruptcy protection. ](/news/2010/01/19/japanese-air-carrier-japan-airlines-files-for-bankruptcy-protection.md)
@@ -45,11 +45,11 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 ##### Google
 ### [Foreign journalists in China say their emails have been hacked, as Google pulls out of launching its Android mobile phones. ](/news/2010/01/19/foreign-journalists-in-china-say-their-emails-have-been-hacked-as-google-pulls-out-of-launching-its-android-mobile-phones.md)
-_Context: Android, Google_
+_Context: Google, Android_
 
 ##### Bulgaria
 ### [Bulgarian European Commission nominee Rumiana Jeleva steps down as candidate and minister. ](/news/2010/01/19/bulgarian-european-commission-nominee-rumiana-jeleva-steps-down-as-candidate-and-minister.md)
-_Context: Rumiana Jeleva, Bulgaria, candidate, minister, European Commission_
+_Context: Bulgaria, European Commission, Rumiana Jeleva, candidate, minister_
 
 ##### China
 ### [Chinese senior judge Huang Songyou is sentenced to life in prison over corruption charges. ](/news/2010/01/19/chinese-senior-judge-huang-songyou-is-sentenced-to-life-in-prison-over-corruption-charges.md)
@@ -57,15 +57,15 @@ Chinese court hands down life sentence to senior judge accused of taking bribes.
 
 ##### Guinea
 ### [The Guinean junta appoints opposition leader Jean-Marie Dor as the new prime minister. ](/news/2010/01/19/the-guinean-junta-appoints-opposition-leader-jean-marie-dore-as-the-new-prime-minister.md)
-_Context: Jean-Marie Dor, junta, Guinea, prime minister, opposition leader_
+_Context: opposition leader, junta, prime minister, Jean-Marie Dor, Guinea_
 
 ##### storm
 ### [A powerful storm in California, United States, causes the evacuation of at least 200 homes in threat of mudslides, and knocks out power for 65,000 customers. One fatality is reported in Kern County. ](/news/2010/01/19/a-powerful-storm-in-california-united-states-causes-the-evacuation-of-at-least-200-homes-in-threat-of-mudslides-and-knocks-out-power-for.md)
-_Context: mudslides, U.S., storm, California, Kern County_
+_Context: storm, Kern County, California, mudslides, United States_
 
 ##### Russian President
 ### [Russian President Dmitry Medvedev approves the establishment of the North Caucasian Federal District (from Southern Federal District) and appoints Alexander Khloponin as the Vice-Premier and Presidential Representative to the new federal district. ](/news/2010/01/19/russian-president-dmitry-medvedev-approves-the-establishment-of-the-north-caucasian-federal-district-from-southern-federal-district-and-ap.md)
-_Context: Vice-Premier, Dmitry Medvedev, Alexander Khloponin, North Caucasian Federal District, Southern Federal District, Presidential Representative to the new federal district, Russian President_
+_Context: Vice-Premier, Alexander Khloponin, Dmitry Medvedev, Presidential Representative to the new federal district, North Caucasian Federal District, Southern Federal District, Russian President_
 
 ##### Number Resource Organisation
 ### [The Number Resource Organisation warns the Internet is running out of IP addresses, with less than 10% of current-generation IPv4 addresses still available. ](/news/2010/01/19/the-number-resource-organisation-warns-the-internet-is-running-out-of-ip-addresses-with-less-than-10-of-current-generation-ipv4-addresses.md)

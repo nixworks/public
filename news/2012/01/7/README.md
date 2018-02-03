@@ -5,15 +5,15 @@ Formats: [HTML](2012/01/7/index.html)  [JSON](2012/01/7/index.json)  [XML](2012/
 
 ##### two days of attacks
 ### [At least 37 people are killed in two days of attacks in northeastern Nigeria, after radical Islamic group Boko Haram issues an ultimatum for all Christians to leave the north. ](/news/2012/01/7/at-least-37-people-are-killed-in-two-days-of-attacks-in-northeastern-nigeria-after-radical-islamic-group-boko-haram-issues-an-ultimatum-for.md)
-_Context: Christian, Nigeria, Boko Haram, Islam, two days of attacks_
+_Context: Nigeria, two days of attacks, Boko Haram, Christian, Islam_
 
 ##### Iran
 ### [Iran praises the United States Navy after American sailors rescued Iranian fishermen from armed pirates in the Arabian Sea. ](/news/2012/01/7/iran-praises-the-united-states-navy-after-american-sailors-rescued-iranian-fishermen-from-armed-pirates-in-the-arabian-sea.md)
-_Context: pirate, Iran, United States Navy, Arabian Sea_
+_Context: United States Navy, Arabian Sea, Iran, pirate_
 
 ##### Bosnian
 ### [Several of Bosnia's leading cultural institutions are due to close following funding disputes. The affected institutions include the National Library, the National Museum, the Historical Museum and the National Gallery. ](/news/2012/01/7/several-of-bosnia-s-leading-cultural-institutions-are-due-to-close-following-funding-disputes-the-affected-institutions-include-the-nationa.md)
-_Context: Bosnian, National Museum, National Library, National Gallery, Historical Museum_
+_Context: Bosnian, Historical Museum, National Museum, National Gallery, National Library_
 
 ##### hot air balloon
 ### [A hot air balloon crashes near Carterton, New Zealand, killing all eleven onboard. The accident was reportedly caused by a collision with a power line. ](/news/2012/01/7/a-hot-air-balloon-crashes-near-carterton-new-zealand-killing-all-eleven-onboard-the-accident-was-reportedly-caused-by-a-collision-with-a.md)

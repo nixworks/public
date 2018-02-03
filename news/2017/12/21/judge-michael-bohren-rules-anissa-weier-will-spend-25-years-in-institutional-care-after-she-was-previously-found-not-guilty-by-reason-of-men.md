@@ -13,3 +13,7 @@ WAUKESHA — One of the two Wisconsin girls accused of stabbing a classmate to g
 
 1. [WITI](http://fox6now.com/2017/12/21/1-of-2-girls-accused-in-slenderman-stabbing-to-be-sentenced/)
 1. [Cover Image](https://localtvwiti.files.wordpress.com/2017/12/weier-thurs.jpg?quality=85&amp;strip=all)
+
+### Related:
+
+1. [Morgan Geyser is sentenced to 40 years in a mental institution for her role in the attempted murder of Payton Leutner. ](/news/2018/02/1/morgan-geyser-is-sentenced-to-40-years-in-a-mental-institution-for-her-role-in-the-attempted-murder-of-payton-leutner.md) _Context: Slender Man stabbing_

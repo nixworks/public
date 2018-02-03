@@ -17,7 +17,7 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 
 ##### Rolling Stones
 ### [The Rolling Stones postpone their tours of Australia and New Zealand following the death of Mick Jagger's girlfriend L'Wren Scott. ](/news/2014/03/18/the-rolling-stones-postpone-their-tours-of-australia-and-new-zealand-following-the-death-of-mick-jagger-s-girlfriend-l-wren-scott.md)
-_Context: Rolling Stones, L'Wren Scott, Mick Jagger, Australia, New Zealand_
+_Context: L'Wren Scott, New Zealand, Mick Jagger, Australia, Rolling Stones_
 
 ##### KOMO-TV
 ### [At least two people are dead and one is in critical condition after a KOMO-TV news helicopter crashes near the Seattle Space Needle in Seattle, Washington. ](/news/2014/03/18/at-least-two-people-are-dead-and-one-is-in-critical-condition-after-a-komo-tv-news-helicopter-crashes-near-the-seattle-space-needle-in-seatt.md)
@@ -27,13 +27,13 @@ The Seattle Fire Department said in addition to the fatalities, a 37-year-old ma
 ### [Japan announces it will fall in line with American sanctions against Russia for its role in promoting the secession of Crimea from Ukraine. ](/news/2014/03/18/japan-announces-it-will-fall-in-line-with-american-sanctions-against-russia-for-its-role-in-promoting-the-secession-of-crimea-from-ukraine.md)
 Japan has announced a set of sanctions against Russia for its recognition of Crimea as an independent state.
 
-##### U.S.
+##### United States
 ### [The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md)
-_Context: embassy, U.S., Washington D.C., Syrian_
+_Context: Syrian, embassy, United States, Washington D.C._
 
 ##### continue to occupy
 ### [Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces-the-cross-strait-service-t.md)
-_Context: legislative chamber, Kuomintang (Chinese Nationalist Party), trade deal, Taiwan, continue to occupy_
+_Context: legislative chamber, continue to occupy, trade deal, Taiwan, Kuomintang (Chinese Nationalist Party)_
 
 ## [Previous Day...](/news/2014/03/17/index.md)
 

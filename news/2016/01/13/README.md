@@ -17,7 +17,7 @@ Afghan security forces exchanged fire with gunmen barricaded in a house near the
 
 ##### Syrian Civil War
 ### [Following the death of its leader, Zahran Alloush, Jaysh al-Islam names Essam al-Buwaydhani as its new leader. ](/news/2016/01/13/following-the-death-of-its-leader-zahran-alloush-jaysh-al-islam-names-essam-al-buwaydhani-as-its-new-leader.md)
-_Context: Zahran Alloush, Jaysh al-Islam, Essam al-Buwaydhani, Syrian Civil War_
+_Context: Jaysh al-Islam, Zahran Alloush, Syrian Civil War, Essam al-Buwaydhani_
 
 ##### January 2016 Istanbul bombing
 ### [Turkish Interior Minister Efkan Ala says yesterday's ISIS suicide bomber had registered with Turkish immigration authorities but was not on any known militant suspects list. ](/news/2016/01/13/turkish-interior-minister-efkan-ala-says-yesterday-s-isis-suicide-bomber-had-registered-with-turkish-immigration-authorities-but-was-not-on.md)
@@ -37,7 +37,7 @@ _Context: 2016 Atlantic hurricane season, Subtropical Storm Alex, Azores_
 
 ##### avalanche
 ### [An avalanche kills three and injures one at the Les Deux Alpes ski resort in Isere departement of the French Alps. Officials are searching for other possible victims. ](/news/2016/01/13/an-avalanche-kills-three-and-injures-one-at-the-les-deux-alpes-ski-resort-in-isa-re-da-c-partement-of-the-french-alps-officials-are-searching.md)
-_Context: French Alps, Isere, avalanche, Les Deux Alpes, ski resort, departments_
+_Context: French Alps, ski resort, Les Deux Alpes, departments, Isere, avalanche_
 
 ##### Iran-United States relations
 ### [Iran claims that it has interrogated ten United States Navy personnel that it captured allegedly in its territorial waters. ](/news/2016/01/13/iran-claims-that-it-has-interrogated-ten-united-states-navy-personnel-that-it-captured-allegedly-in-its-territorial-waters.md)

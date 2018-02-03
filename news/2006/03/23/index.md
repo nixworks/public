@@ -17,7 +17,7 @@ _Context: Cameroon_
 
 ##### Baghdad
 ### [ The British Embassy in Baghdad confirms the rescue of three Christian Peacemaker hostages held in Iraq for nearly four months; Briton Norman Kember and Canadians Harmeet Singh Sooden and James Loney. They were freed during a British led multinational military operation involving American, British, Canadian and Iraqi forces. ](/news/2006/03/23/the-british-embassy-in-baghdad-confirms-the-rescue-of-three-christian-peacemaker-hostages-held-in-iraq-for-nearly-four-months-briton-norma.md)
-_Context: James Loney, multinational, Iraq, Harmeet Singh Sooden, Baghdad, Norman Kember, Christian Peacemaker hostages_
+_Context: multinational, Christian Peacemaker hostages, Norman Kember, James Loney, Iraq, Harmeet Singh Sooden, Baghdad_
 
 ## [Previous Day...](/news/2006/03/22/index.md)
 

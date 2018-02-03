@@ -9,7 +9,7 @@ A gunman killed an Israeli soldier and wounded at least 11 other people at a bus
 
 ##### Kunduz hospital airstrike
 ### [Afghanistan's acting defense minister has stated that the Medecins Sans Frontieres hospital in Kunduz bombed on 3 October by U.S. forces was being used as a safe haven by insurgents. MSF has repeatedly denied the allegation, stating "Every staff member in Kunduz working for MSF has repeatedly reported to us that there were no armed people in the hospital at the time of the bombing". ](/news/2015/10/19/afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kunduz-bombed-on-3-october-by-u-s-forces.md)
-_Context: Kunduz, Afghanistan, Medecins Sans Frontieres, Kunduz hospital airstrike_
+_Context: Medecins Sans Frontieres, Kunduz hospital airstrike, Kunduz, Afghanistan_
 
 ##### Economy of China
 ### [China's economy expanded 6.9% in third quarter over last year's growth, just slightly better than forecast. ](/news/2015/10/19/chinaas-economy-expanded-6-9-in-third-quarter-over-last-yearas-growth-just-slightly-better-than-forecast.md)
@@ -33,7 +33,7 @@ Prime Minister Shinzo Abe on Sunday became the first sitting Japanese leader to 
 
 ##### Pope Francis
 ### [Pope Francis encourages bishops from around the world to sign an appeal to world leaders, meeting in Paris next month, for crucial climate change talks. In a major teaching document in June, the encyclical Laudato Si' (Latin: Praised be), Francis denounced what he called the "structurally perverse" fossil fuel-based world economy that exploits the poor and destroys the habitability of the Earth for humans. ](/news/2015/10/19/pope-francis-encourages-bishops-from-around-the-world-to-sign-an-appeal-to-world-leaders-meeting-in-paris-next-month-for-crucial-climate-c.md)
-_Context: 2015 United Nations Climate Change Conference, encyclical, climate change, Pope Francis, Laudato Si', world economy, fossil fuel, world leaders, habitable, Paris_
+_Context: 2015 United Nations Climate Change Conference, Laudato Si', world economy, habitable, climate change, Pope Francis, encyclical, Paris, fossil fuel, world leaders_
 
 ##### European migrant crisis
 ### [Croatia reopens its border with Serbia allowing thousands of refugees to cross. ](/news/2015/10/19/croatia-reopens-its-border-with-serbia-allowing-thousands-of-refugees-to-cross.md)
@@ -45,7 +45,7 @@ aval warships, aircraft carriers and submarines from the U.S.
 
 ##### Leonid Tibilov
 ### [South Ossetian President Leonid Tibilov announces South Ossetia intends on holding a referendum on joining the Russian Federation. Tibilov said reuniting with Russia "is a century-long dream of the South Ossetian people". ](/news/2015/10/19/south-ossetian-president-leonid-tibilov-announces-south-ossetia-intends-on-holding-a-referendum-on-joining-the-russian-federation-tibilov-s.md)
-_Context: South Ossetia, Leonid Tibilov, Russia_
+_Context: Russia, Leonid Tibilov, South Ossetia_
 
 ##### Spencer Stone
 ### [Spencer Stone, primarily responsible for thwarting an August terrorist attack on a train en route to Paris from Amsterdam and later stabbed in downtown Sacramento has undergone open heart surgery. The wounds from the most recent altercation were more serious than previously reported. ](/news/2015/10/19/spencer-stone-primarily-responsible-for-thwarting-an-august-terrorist-attack-on-a-train-en-route-to-paris-from-amsterdam-and-later-stabbed.md)
@@ -61,7 +61,7 @@ The jurors had already acquitted three former leaders of the law firm on dozens 
 
 ##### Canadian federal election, 2015
 ### [The Canadian Liberal party led by Justin Trudeau won the federal election with 184 seats. ](/news/2015/10/19/the-canadian-liberal-party-led-by-justin-trudeau-won-the-federal-election-with-184-seats.md)
-_Context: Canadian federal election, 2015, Justin Trudeau_
+_Context: Justin Trudeau, Canadian federal election, 2015_
 
 ##### ministerial screening, Amaechi response to the Senate
 ### [The screening of ministerial nominees resumed on Thursday, with the screening of six nominees including former River State Governor, Rotimi Amaechi, PDP senators were also silent as senate screens amaechi and six others. ](/news/2015/10/19/the-screening-of-ministerial-nominees-resumed-on-thursday-with-the-screening-of-six-nominees-including-former-river-state-governor-rotimi.md)
@@ -81,7 +81,7 @@ Soviet nostalgia rules as images of the former dictator go on display in the cen
 
 ##### Eric Chu
 ### [Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan's ruling party candidate just months ahead of elections. ](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwanas-ruling-party-candidate-just-months-ahead-of-elections.md)
-_Context: Taiwan, KMT, Hung Hsiu-chu, Eric Chu_
+_Context: Eric Chu, Hung Hsiu-chu, Taiwan, KMT_
 
 ##### Apple Inc.
 ### [Apple pulls hundreds of iOS mobile applications from its App Store which, the company discovered, includes software that was secretly sending users' personal information to an advertising firm in China. ](/news/2015/10/19/apple-pulls-hundreds-of-ios-mobile-applications-from-its-app-store-which-the-company-discovered-includes-software-that-was-secretly-sendin.md)

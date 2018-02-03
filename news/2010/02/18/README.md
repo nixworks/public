@@ -3,7 +3,7 @@ Formats: [HTML](2010/02/18/index.html)  [JSON](2010/02/18/index.json)  [XML](201
 
 ## [2010-02-18](/news/2010/02/18/index.md)
 
-##### U.S.
+##### United States
 ### [United States President Barack Obama meets with the Dalai Lama amid opposition from China. ](/news/2010/02/18/united-states-president-barack-obama-meets-with-the-dalai-lama-amid-opposition-from-china.md)
 Obama holds talks with exiled Tibetan spiritual leader despite Chinese opposition.
 
@@ -33,7 +33,7 @@ Coup leaders suspend constitution after soldiers storm presidential palace in ca
 
 ##### Live Earth
 ### [Live Earth, organizer of The Dow Live Earth Run for Water, Cape Town race director announced The Parlotones concert at the Speir Wine Estate in Cape Town. ](/news/2010/02/18/live-earth-organizer-of-the-dow-live-earth-run-for-water-cape-town-race-director-announced-the-parlotones-concert-at-the-speir-wine-estate.md)
-_Context: The Dow Live Earth Run for Water, Cape Town, Live Earth, The Parlotones_
+_Context: The Parlotones, The Dow Live Earth Run for Water, Live Earth, Cape Town_
 
 ##### United Nations
 ### [The top climate change official at the United Nations and Executive Secretary of the United Nations Framework Convention on Climate Change, Yvo de Boer, announces his resignation. ](/news/2010/02/18/the-top-climate-change-official-at-the-united-nations-and-executive-secretary-of-the-united-nations-framework-convention-on-climate-change.md)

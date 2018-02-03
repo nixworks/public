@@ -9,11 +9,11 @@ Protesters in Cairo demand the resignation of the head of Egypt governing milita
 
 ##### Syria
 ### [Two people are injured after Syrian soldiers attack buses carrying Turkish citizens returning through Syria from a hajj pilgrimage to Saudi Arabia. ](/news/2011/11/21/two-people-are-injured-after-syrian-soldiers-attack-buses-carrying-turkish-citizens-returning-through-syria-from-a-hajj-pilgrimage-to-saudi.md)
-_Context: Syria, Saudi Arabia, hajj, Turkish_
+_Context: hajj, Turkish, Syria, Saudi Arabia_
 
-##### U.S.
+##### United States
 ### [The United States, United Kingdom, and Canada impose further sanctions against Iran's nuclear program. ](/news/2011/11/21/the-united-states-united-kingdom-and-canada-impose-further-sanctions-against-iran-s-nuclear-program.md)
-_Context: U.S., nuclear program, sanctions, British, Iran, Canadian_
+_Context: Canadian, Iran, sanctions, British, nuclear program, United States_
 
 ##### Russian President
 ### [The President of Russia Dmitry Medvedev states that the decision to go to war with Georgia in 2008 prevented the eastward enlargement of NATO. ](/news/2011/11/21/the-president-of-russia-dmitry-medvedev-states-that-the-decision-to-go-to-war-with-georgia-in-2008-prevented-the-eastward-enlargement-of-nat.md)
@@ -29,7 +29,7 @@ Seattle Mariners outfielder Greg Halman was stabbed to death early Monday and hi
 
 ##### Marshall Islands
 ### [Voters in the Marshall Islands go to the polls for a general election. ](/news/2011/11/21/voters-in-the-marshall-islands-go-to-the-polls-for-a-general-election.md)
-_Context: general election, Marshall Islands_
+_Context: Marshall Islands, general election_
 
 ##### Congressional panel
 ### [A Congressional panel fails to agree on proposals to cut the United States' national budget deficit by $1.2 trillion, leading to automatic budget cuts. ](/news/2011/11/21/a-congressional-panel-fails-to-agree-on-proposals-to-cut-the-united-states-national-budget-deficit-by-1-2-trillion-leading-to-automatic-b.md)

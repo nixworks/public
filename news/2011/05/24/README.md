@@ -5,7 +5,7 @@ Formats: [HTML](2011/05/24/index.html)  [JSON](2011/05/24/index.json)  [XML](201
 
 ##### Tunisia
 ### [Clashes break out in southern Tunisia between local residents and Libyan refugees fleeing that country's civil war. ](/news/2011/05/24/clashes-break-out-in-southern-tunisia-between-local-residents-and-libyan-refugees-fleeing-that-country-s-civil-war.md)
-_Context: Libya, Tunisia, civil war_
+_Context: Libya, civil war, Tunisia_
 
 ##### 2011 Yemeni protests
 ### [Fresh clashes take place in Yemen between police and opposition tribesmen who have taken control of several government buildings in the capital Sana'a. ](/news/2011/05/24/fresh-clashes-take-place-in-yemen-between-police-and-opposition-tribesmen-who-have-taken-control-of-several-government-buildings-in-the-capi.md)
@@ -13,7 +13,7 @@ _Context: 2011 Yemeni protests, Sana'a, Yemen_
 
 ##### Muammar Gaddafi
 ### [Smoke is seen rising from Muammar Gaddafi's compound in Tripoli, Libya, following a NATO airstrike which reportedly kills three people. ](/news/2011/05/24/smoke-is-seen-rising-from-muammar-gaddafi-s-compound-in-tripoli-libya-following-a-nato-airstrike-which-reportedly-kills-three-people.md)
-_Context: compound, Libya, Tripoli, NATO, Muammar Gaddafi_
+_Context: Libya, compound, Muammar Gaddafi, NATO, Tripoli_
 
 ##### suicide bomber
 ### [A suicide bomber attacks the headquarters of Kazakhstan's security service, causing casualties. ](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-kazakhstan-s-security-service-causing-casualties.md)
@@ -29,11 +29,11 @@ Rights groups say they have documented names of civilians allegedly killed by se
 
 ##### United Nations
 ### [The United Nations claims that about 20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/the-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese-forces-took-control.md)
-_Context: United Nations, Sudan, Agok, Abyei, Southern Sudan_
+_Context: Southern Sudan, Sudan, United Nations, Abyei, Agok_
 
 ##### Oprah Winfrey
 ### [US television personality Oprah Winfrey records the final episode of "The Oprah Winfrey Show". ](/news/2011/05/24/us-television-personality-oprah-winfrey-records-the-final-episode-of-the-oprah-winfrey-show.md)
-_Context: Oprah Winfrey, Oprah Winfrey Show_
+_Context: Oprah Winfrey Show, Oprah Winfrey_
 
 ##### Gearbox Software
 ### [Gearbox Software announces that the video game "Duke Nukem Forever", infamous for its 14-year development cycle, has gone gold and will (presumably) meet its current release date of June. ](/news/2011/05/24/gearbox-software-announces-that-the-video-game-duke-nukem-forever-infamous-for-its-14-year-development-cycle-has-gone-gold-and-will-pre.md)
@@ -59,7 +59,7 @@ Many residents cannot contact possible survivors, and officials have not shared 
 ### [Israeli Prime Minister Benjamin Netanyahu addresses a joint session of the United States Congress and says he is prepared to make "far-reaching compromises" for a peace deal with Palestinians, but states that Israel will not return to its pre-1967 borders. ](/news/2011/05/24/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-session-of-the-united-states-congress-and-says-he-is-prepared-to-make-far-reach.md)
 Israeli Prime Minister Benjamin Netanyahu told a joint meeting of the U.S. Congress Tuesday that he is prepared to make &quot;painful compromises&quot; for a peace deal with Palestinians, but reiterated his insistence that Israel will never return to the boundaries that existed before the 1967 Middl...
 
-##### U.S.
+##### United States
 ### [A delegation from the United States arrives in the North Korean capital Pyongyang to assess the food shortage in the country. ](/news/2011/05/24/a-delegation-from-the-united-states-arrives-in-the-north-korean-capital-pyongyang-to-assess-the-food-shortage-in-the-country.md)
 A U.S. delegation will travel to North Korea on Tuesday for a four-day trip to assess the food situation in the reclusive nation.
 
@@ -69,7 +69,7 @@ Barack Obama has met the Queen and senior royals at the start of a three-day sta
 
 ##### Malaysia
 ### [Malaysian authorities break up a mass gathering of Shiite Muslims, detaining four. ](/news/2011/05/24/malaysian-authorities-break-up-a-mass-gathering-of-shiite-muslims-detaining-four.md)
-_Context: Malaysia, Muslim, Shia_
+_Context: Muslim, Shia, Malaysia_
 
 ##### Somalia
 ### [Security forces in Somalia seize two planes carrying ransom money for pirates, and detain six foreigners. ](/news/2011/05/24/security-forces-in-somalia-seize-two-planes-carrying-ransom-money-for-pirates-and-detain-six-foreigners.md)
@@ -77,11 +77,11 @@ Somali authorities seized twoaircraft carrying $3.6 million in ransom payments f
 
 ##### Egypt
 ### [Former Egyptian President Hosni Mubarak and his two sons are to be tried over the deaths of anti-government protesters. ](/news/2011/05/24/former-egyptian-president-hosni-mubarak-and-his-two-sons-are-to-be-tried-over-the-deaths-of-anti-government-protesters.md)
-_Context: Egypt, Hosni Mubarak_
+_Context: Hosni Mubarak, Egypt_
 
 ##### Human Rights Watch
 ### [Human Rights Watch calls for the release of a Saudi woman detained for driving. ](/news/2011/05/24/human-rights-watch-calls-for-the-release-of-a-saudi-woman-detained-for-driving.md)
-_Context: Saudi Arabia, Human Rights Watch_
+_Context: Human Rights Watch, Saudi Arabia_
 
 ##### manslaughter by gross negligence
 ### [A British police officer is to be charged with manslaughter over the death of newspaper seller Ian Tomlinson during the 2009 G-20 protests. ](/news/2011/05/24/a-british-police-officer-is-to-be-charged-with-manslaughter-over-the-death-of-newspaper-seller-ian-tomlinson-during-the-2009-g-20-protests.md)
@@ -101,7 +101,7 @@ _Context: Tunisia_
 
 ##### Lord Wei
 ### [Lord Wei, who was in charge of David Cameron's Big Society project, has announced he is standing down from the role. ](/news/2011/05/24/lord-wei-who-was-in-charge-of-david-cameron-s-big-society-project-has-announced-he-is-standing-down-from-the-role.md)
-_Context: Lord Wei, Big Society, David Cameron_
+_Context: David Cameron, Lord Wei, Big Society_
 
 ##### Kathy Hochul
 ### [Kathy Hochul, the Democratic Party candidate, wins a special election to represent New York's 26th congressional district in the United States House of Representatives. ](/news/2011/05/24/kathy-hochul-the-democratic-party-candidate-wins-a-special-election-to-represent-new-york-s-26th-congressional-district-in-the-united-stat.md)
@@ -109,7 +109,7 @@ The morning after Democrat Kathy Hochul used the Medicare issue to win what had 
 
 ##### Soyuz TMA-20
 ### [The Soyuz TMA-20 spacecraft, carrying half of the members of Expedition 27 back from their crew rotation aboard the International Space Station, lands safely in Kazakhstan. ](/news/2011/05/24/the-soyuz-tma-20-spacecraft-carrying-half-of-the-members-of-expedition-27-back-from-their-crew-rotation-aboard-the-international-space-stat.md)
-_Context: International Space Station, Kazakhstan, Expedition 27, Soyuz TMA-20_
+_Context: International Space Station, Expedition 27, Soyuz TMA-20, Kazakhstan_
 
 ## [Previous Day...](/news/2011/05/23/index.md)
 

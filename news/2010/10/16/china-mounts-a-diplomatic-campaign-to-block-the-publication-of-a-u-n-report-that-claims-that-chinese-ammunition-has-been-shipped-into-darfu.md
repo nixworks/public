@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/16/china-mounts-a-diplomatic-campaign-to-block-the
 
 ### [2010-10-16](/news/2010/10/16/index.md)
 
-##### Chinese
+##### China
 # China mounts a diplomatic campaign to block the publication of a U.N. report that claims that Chinese ammunition has been shipped into Darfur in the past year in violation of U.N. sanctions. 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2010/10/16/china-mounts-a-diplomatic-campaign-to-block-the
 
 ### Related:
 
-1. [Russia and China have blocked a proposal by the United States and France to impose U.N. sanctions on Central African Republic's former President Francois Bozize and two other people linked to the conflict. ](/news/2014/04/23/russia-and-china-have-blocked-a-proposal-by-the-united-states-and-france-to-impose-u-n-sanctions-on-central-african-republic-s-former-presi.md) _Context: Chinese, U.N._
-2. [China condemns a United Nations report that says Chinese bullets were used in attacks on international peacekeeping forces in the Darfur region of Sudan. ](/news/2010/10/21/china-condemns-a-united-nations-report-that-says-chinese-bullets-were-used-in-attacks-on-international-peacekeeping-forces-in-the-darfur-reg.md) _Context: Chinese, Darfur_
-3. [ Chinese President Hu Jintao tells a U.N. summit on climate change that China will reduce greenhouse gas emissions and increase reliance on clean energy sources in coming years. ](/news/2009/09/22/chinese-president-hu-jintao-tells-a-u-n-summit-on-climate-change-that-china-will-reduce-greenhouse-gas-emissions-and-increase-reliance-on.md) _Context: Chinese, U.N._
-4. [Sanchi is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/sanchi-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md) _Context: Chinese_
-5. [Thirty-two sailors are missing after Iranian oil tanker Sanchi and Chinese freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-iranian-oil-tanker-sanchi-and-chinese-freighter-cf-crystal-collide-off-the-east-coast-of-china-the-c.md) _Context: Chinese_
+1. [Russia and China have blocked a proposal by the United States and France to impose U.N. sanctions on Central African Republic's former President Francois Bozize and two other people linked to the conflict. ](/news/2014/04/23/russia-and-china-have-blocked-a-proposal-by-the-united-states-and-france-to-impose-u-n-sanctions-on-central-african-republic-s-former-presi.md) _Context: China, U.N._
+2. [China condemns a United Nations report that says Chinese bullets were used in attacks on international peacekeeping forces in the Darfur region of Sudan. ](/news/2010/10/21/china-condemns-a-united-nations-report-that-says-chinese-bullets-were-used-in-attacks-on-international-peacekeeping-forces-in-the-darfur-reg.md) _Context: China, Darfur_
+3. [ Chinese President Hu Jintao tells a U.N. summit on climate change that China will reduce greenhouse gas emissions and increase reliance on clean energy sources in coming years. ](/news/2009/09/22/chinese-president-hu-jintao-tells-a-u-n-summit-on-climate-change-that-china-will-reduce-greenhouse-gas-emissions-and-increase-reliance-on.md) _Context: China, U.N._
+4. [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md) _Context: China_
+5. [Sanchi is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/sanchi-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md) _Context: China_

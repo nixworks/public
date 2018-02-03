@@ -5,19 +5,19 @@ Formats: [HTML](2007/06/5/index.html)  [JSON](2007/06/5/index.json)  [XML](2007/
 
 ##### British Antarctic Survey
 ### [ The British Antarctic Survey announces that the flow rate of 300 previously unmeasured glaciers increased by 12% between 1993 and 2003, adding to concerns over glacier retreat and the rise in sea levels caused by global warming. ](/news/2007/06/5/the-british-antarctic-survey-announces-that-the-flow-rate-of-300-previously-unmeasured-glaciers-increased-by-12-between-1993-and-2003-add.md)
-_Context: global warming, Retreat of glaciers since 1850, sea level rise, glaciers, British Antarctic Survey_
+_Context: Retreat of glaciers since 1850, British Antarctic Survey, glaciers, sea level rise, global warming_
 
 ##### Guyana
 ### [ A Guyanese suspect who allegedly planned an attack on New York City's JFK Airport surrenders in Port of Spain, Trinidad and Tobago. ](/news/2007/06/5/a-guyanese-suspect-who-allegedly-planned-an-attack-on-new-york-city-s-jfk-airport-surrenders-in-port-of-spain-trinidad-and-tobago.md)
-_Context: Guyana, JFK, Trinidad and Tobago, allegedly planned an attack, New York City, Port-of-Spain_
+_Context: New York City, Guyana, Trinidad and Tobago, Port-of-Spain, JFK, allegedly planned an attack_
 
 ##### United States v. Libby
 ### [ United States v. Libby: I. Lewis "Scooter" Libby, Jr., former chief of staff to Vice President Dick Cheney, is sentenced to 30 months in prison after being convicted of perjury and obstruction of justice in the CIA leak grand jury investigation. ](/news/2007/06/5/united-states-v-libby-i-lewis-scooter-libby-jr-former-chief-of-staff-to-vice-president-dick-cheney-is-sentenced-to-30-months-in-pr.md)
-_Context: Dick Cheney, Scooter Libby, prison, U.S. Vice President, obstruction of justice, chief of staff, CIA leak grand jury investigation, perjury, United States v. Libby_
+_Context: perjury, Scooter Libby, United States v. Libby, prison, obstruction of justice, CIA leak grand jury investigation, Dick Cheney, U.S. Vice President, chief of staff_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush begins his tour of Europe in Prague before the G8 summit in Germany. During his visit, he intends to address the deployment of interceptor rockets, the establishment of radar bases in Poland and the Czech Republic, and the related tension that has arisen between the United States and Russia. ](/news/2007/06/5/u-s-president-george-w-bush-begins-his-tour-of-europe-in-prague-before-the-g8-summit-in-germany-during-his-visit-he-intends-to-address.md)
-_Context: Poland, Czech Republic, Prague, German, Group of Eight, interceptor rockets, Russia, U.S., Europe, U.S. President, George W. Bush_
+_Context: Czech Republic, George W. Bush, Poland, interceptor rockets, Prague, Group of Eight, German, United States, U.S. President, Russia, Europe_
 
 ##### Spain
 ### [ Spanish Basque separatist group ETA announces it will end its 15-month cease-fire tonight at midnight (CEST). ](/news/2007/06/5/spanish-basque-separatist-group-eta-announces-it-will-end-its-15-month-cease-fire-tonight-at-midnight-cest.md)

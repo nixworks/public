@@ -13,11 +13,11 @@ A top rebel commander in eastern Ukraine has been killed in a car bombing that r
 
 ##### Ukraine-United States relations
 ### [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call, discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strategi.md)
-_Context: Donbass, Ukraine-United States relations, Donald Trump, Ukrainian President, Russia, Petro Poroshenko, War in Donbass, U.S. President_
+_Context: Ukraine-United States relations, Petro Poroshenko, Donald Trump, Donbass, U.S. President, Russia, War in Donbass, Ukrainian President_
 
 ##### 2017 Romanian protests
 ### [Romanian Prime Minister Sorin Grindeanu announces that his government will scrap its proposed decree of decriminalizing some graft offenses on Sunday. ](/news/2017/02/4/romanian-prime-minister-sorin-grindeanu-announces-that-his-government-will-scrap-its-proposed-decree-of-decriminalizing-some-graft-offenses.md)
-_Context: Prime Minister, 2017 Romanian protests, Sorin Grindeanu_
+_Context: Sorin Grindeanu, Prime Minister, 2017 Romanian protests_
 
 ##### United Nations
 ### [The United Nations drop sanctions on Gulbuddin Hekmatyar after his Hezb-e Islami faction and the Afghan government reached a deal in September. Hekmatyar is granted immunity in exchange for his abandoning violence and supporting the Constitution of Afghanistan. ](/news/2017/02/4/the-united-nations-drop-sanctions-on-gulbuddin-hekmatyar-after-his-hezb-e-islami-faction-and-the-afghan-government-reached-a-deal-in-septemb.md)

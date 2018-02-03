@@ -21,15 +21,15 @@ Hurricane Matthew is gaining strength in the Caribbean, its current track from t
 
 ##### Philippines and the United Nations
 ### [President Rodrigo Duterte likens himself to Adolf Hitler saying he would "be happy" to kill 3 million drug users and dealers in the country. United Nations adviser Adama Dieng cautions Duterte that his use of language could lead to "crimes against humanity". ](/news/2016/09/30/president-rodrigo-duterte-likens-himself-to-adolf-hitler-saying-he-would-be-happy-to-kill-3-million-drug-users-and-dealers-in-the-country.md)
-_Context: Adama Dieng, Rodrigo Duterte, Adolf Hitler, Philippines and the United Nations_
+_Context: Adama Dieng, Rodrigo Duterte, Philippines and the United Nations, Adolf Hitler_
 
-##### Chinese
+##### China
 ### [China arrests a man, Yang Qingpei, for killing his parents and then killing 17 neighbors in an attempt to cover up his crime in Kunming, the capital of Yunnan Province. ](/news/2016/09/30/china-arrests-a-man-yang-qingpei-for-killing-his-parents-and-then-killing-17-neighbors-in-an-attempt-to-cover-up-his-crime-in-kunming-the.md)
 A Chinese man has confessed to killing his parents and then killing 17 neighbours in an attempt to cover up his crime, state media report.
 
 ##### Alabama Court of the Judiciary
 ### [The Alabama Court of the Judiciary finds Alabama Supreme Court Chief Justice Roy Moore guilty of six charges of violation of canon of judicial ethics and suspends him for the remainder of his term which is slated to end in 2019. The judge told other judges to ignore the Supreme Court of the United States ruling on gay marriage ("Obergefell v. Hodges"). ](/news/2016/09/30/the-alabama-court-of-the-judiciary-finds-alabama-supreme-court-chief-justice-roy-moore-guilty-of-six-charges-of-violation-of-canon-of-judici.md)
-_Context: Alabama Supreme Court, Obergefell v. Hodges, Supreme Court of the United States, Alabama Court of the Judiciary, Roy Moore_
+_Context: Roy Moore, Supreme Court of the United States, Alabama Court of the Judiciary, Alabama Supreme Court, Obergefell v. Hodges_
 
 ##### European Space Agency
 ### [The European Space Agency's "Rosetta" space probe ends its 12-year mission studying comet 67P-Churyumov-Gerasimenko in a "collision maneuver" into the comet's surface. ](/news/2016/09/30/the-european-space-agency-s-rosetta-space-probe-ends-its-12-year-mission-studying-comet-67p-churyumovagerasimenko-in-a-collision-maneuv.md)

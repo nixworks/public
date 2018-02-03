@@ -13,11 +13,11 @@ _Context: Guatemala City_
 
 ##### Iran Aseman Airlines
 ### [ Iran Aseman Airlines Flight 6895, a Boeing 737, crashes in Bishkek, Kyrgyzstan shortly after takeoff, killing 71 people. ](/news/2008/08/24/iran-aseman-airlines-flight-6895-a-boeing-737-crashes-in-bishkek-kyrgyzstan-shortly-after-takeoff-killing-71-people.md)
-_Context: Bishkek, Kyrgyzstan, Iran Aseman Airlines, Flight 6895, Boeing 737_
+_Context: Flight 6895, Boeing 737, Bishkek, Iran Aseman Airlines, Kyrgyzstan_
 
 #####  Georgian
 ### [ A train carrying oil products hits a landmine and catches fire. A Georgian Interior Ministry spokesman blamed Russia for the blast. ](/news/2008/08/24/a-train-carrying-oil-products-hits-a-landmine-and-catches-fire-a-georgian-interior-ministry-spokesman-blamed-russia-for-the-blast.md)
-_Context:  Georgian, Russia_
+_Context: Russia,  Georgian_
 
 ##### Samuel Wanjiru
 ### [ Samuel Wanjiru of Kenya wins the gold medal in the men's marathon at the 2008 Summer Olympics setting a new Olympic record of 2:06:32. ](/news/2008/08/24/samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic-record-of-2-06-32.md)
@@ -25,7 +25,7 @@ Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and 
 
 ##### India
 ### [ Protesters in the Indian state of West Bengal "lay siege" to the factory producing the Tata Nano, in a dispute over land expropriation. ](/news/2008/08/24/protesters-in-the-indian-state-of-west-bengal-lay-siege-to-the-factory-producing-the-tata-nano-in-a-dispute-over-land-expropriation.md)
-_Context: West Bengal, India, Tata Nano_
+_Context: India, Tata Nano, West Bengal_
 
 ## [Previous Day...](/news/2008/08/23/index.md)
 

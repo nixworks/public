@@ -5,15 +5,15 @@ Formats: [HTML](2010/04/13/index.html)  [JSON](2010/04/13/index.json)  [XML](201
 
 ##### U.S. President
 ### [President of the United States Barack Obama opening the biggest international meeting hosted by the US since 1945, greets leaders from nearly 50 countries. World leaders at the summit hear dire warnings of the danger of nuclear material falling into the wrong hands. ](/news/2010/04/13/president-of-the-united-states-barack-obama-opening-the-biggest-international-meeting-hosted-by-the-us-since-1945-greets-leaders-from-nearl.md)
-_Context: U.S., U.S. President, Barack Obama_
+_Context: United States, U.S. President, Barack Obama_
 
 ##### Qinghai
 ### [A magnitude 6.9 earthquake strikes southeastern Qinghai, China, near the Yangtze River. There were no immediate reports of casualties. ](/news/2010/04/13/a-magnitude-6-9-earthquake-strikes-southeastern-qinghai-china-near-the-yangtze-river-there-were-no-immediate-reports-of-casualties.md)
-_Context: Qinghai, Yangtze River, Chinese_
+_Context: Qinghai, Yangtze River, China_
 
 ##### cobalt-60
 ### [A bar of radioactive cobalt-60 found in a New Dehli market causes life-threatening radiation sickness in one person and contingency measures from the authorities. ](/news/2010/04/13/a-bar-of-radioactive-cobalt-60-found-in-a-new-dehli-market-causes-life-threatening-radiation-sickness-in-one-person-and-contingency-measures.md)
-_Context: New Dehli, radiation sickness, cobalt-60_
+_Context: cobalt-60, radiation sickness, New Dehli_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan's ousted president Kurmanbek Bakiyev says he will resign if the interim government guarantees his family's safety. ](/news/2010/04/13/kyrgyzstan-s-ousted-president-kurmanbek-bakiyev-says-he-will-resign-if-the-interim-government-guarantees-his-family-s-safety.md)
@@ -29,23 +29,23 @@ Israel on Tuesday night issued an urgent warning of impending terrorist attacks 
 
 ##### Israel
 ### [Israeli soldiers kill four heavily-armed Islamic Jihad gunmen sent to attack Israeli forces and believed to be planting explosives along the security fence with Gaza. ](/news/2010/04/13/israeli-soldiers-kill-four-heavily-armed-islamic-jihad-gunmen-sent-to-attack-israeli-forces-and-believed-to-be-planting-explosives-along-the.md)
-_Context: Israel, Hamas_
+_Context: Hamas, Israel_
 
 ##### Lebanon
 ### [A group of Lebanese politicians play a match of association football to commemorate the 35th anniversary of the Lebanese Civil War. ](/news/2010/04/13/a-group-of-lebanese-politicians-play-a-match-of-association-football-to-commemorate-the-35th-anniversary-of-the-lebanese-civil-war.md)
-_Context: Lebanon, Lebanese Civil War, association football_
+_Context: association football, Lebanese Civil War, Lebanon_
 
 ##### Poland
 ### [The body of Poland's First Lady, Maria Kaczynska, is flown to Warsaw to lie in state alongside that of her husband, President Lech Kaczynski. Poland has seen an outpouring of grief since the couple and scores of other senior Polish officials died in a plane crash in western Russia on Saturday. ](/news/2010/04/13/the-body-of-poland-s-first-lady-maria-kaczyaska-is-flown-to-warsaw-to-lie-in-state-alongside-that-of-her-husband-president-lech-kaczyas.md)
-_Context: Maria Kaczynska, Poland, Russia, 2010 Polish Air Force Tu-154 crash, Warsaw, Lech Kaczynski_
+_Context: Maria Kaczynska, Lech Kaczynski, Poland, Warsaw, 2010 Polish Air Force Tu-154 crash, Russia_
 
 ##### First Lady
 ### [The First Lady of the United States, Michelle Obama, makes an unannounced visit to Haiti. It is her first official trip overseas without US President Barack Obama since he took office last year. ](/news/2010/04/13/the-first-lady-of-the-united-states-michelle-obama-makes-an-unannounced-visit-to-haiti-it-is-her-first-official-trip-overseas-without-us.md)
-_Context: Haiti, Michelle Obama, First Lady, Barack Obama_
+_Context: Barack Obama, First Lady, Haiti, Michelle Obama_
 
 ##### Isabela City
 ### [11 people are killed in Isabela City, Philippines, after 25 suspected members of the Abu Sayyaf extremist group clash with security forces. ](/news/2010/04/13/11-people-are-killed-in-isabela-city-philippines-after-25-suspected-members-of-the-abu-sayyaf-extremist-group-clash-with-security-forces.md)
-_Context: Abu Sayyaf, Isabela City, Philippines_
+_Context: Isabela City, Philippines, Abu Sayyaf_
 
 ##### Pakistan
 ### [At least 73 civilians were killed when an army jet bombed a remote village in Pakistan's tribal region of Khyber, a local official has told the BBC. ](/news/2010/04/13/at-least-73-civilians-were-killed-when-an-army-jet-bombed-a-remote-village-in-pakistan-s-tribal-region-of-khyber-a-local-official-has-told.md)
@@ -53,15 +53,15 @@ _Context: Pakistan_
 
 ##### Conservative Party
 ### [Conservative leader David Cameron launches his party's election manifesto, which he says is a "plan to change Britain for the better". He said the "optimistic" plan would bring a "new kind of government" with less state and more "people power". ](/news/2010/04/13/conservative-leader-david-cameron-launches-his-party-s-election-manifesto-which-he-says-is-a-plan-to-change-britain-for-the-better-he-sa.md)
-_Context: 2010 general election, David Cameron, British, Conservative Party_
+_Context: Conservative Party, British, 2010 general election, David Cameron_
 
 ##### Boeing 737-300
 ### [All 103 passengers and crew escape alive after a Boeing 737-300 overruns the runway at Rendani Airport, Manokwari, Indonesia. ](/news/2010/04/13/all-103-passengers-and-crew-escape-alive-after-a-boeing-737-300-overruns-the-runway-at-rendani-airport-manokwari-indonesia.md)
-_Context: overruns the runway, Rendani Airport, Indonesia, Manokwari, Boeing 737-300_
+_Context: Rendani Airport, Manokwari, overruns the runway, Boeing 737-300, Indonesia_
 
 ##### Boeing 767
 ### [An American Boeing 767 passenger jet makes an emergency landing in Iceland after reports of chemical fumes in the cabin. A spokesman for Keflavik airport outside Reykjavik says several crew members on the American Airlines flight had complained of dizziness. ](/news/2010/04/13/an-american-boeing-767-passenger-jet-makes-an-emergency-landing-in-iceland-after-reports-of-chemical-fumes-in-the-cabin-a-spokesman-for-kef.md)
-_Context: Iceland, Reykjavik, American Airlines, Boeing 767_
+_Context: American Airlines, Iceland, Boeing 767, Reykjavik_
 
 ##### Japan
 ### [Japanese car maker Toyota faces further safety concerns after Consumer Reports issues a recommendation not to buy the Lexus GX 460 four-wheel drive because of fears that the car could roll over. ](/news/2010/04/13/japanese-car-maker-toyota-faces-further-safety-concerns-after-consumer-reports-issues-a-recommendation-not-to-buy-the-lexus-gx-460-four-whee.md)
@@ -69,7 +69,7 @@ _Context: Consumer Reports, Japan_
 
 ##### Australia
 ### [The Australian authorities say a Chinese bulk carrier which ran aground off Queensland has caused widespread damage to the famed Great Barrier Reef. The cleanup is likely to be the biggest operation ever undertaken there. ](/news/2010/04/13/the-australian-authorities-say-a-chinese-bulk-carrier-which-ran-aground-off-queensland-has-caused-widespread-damage-to-the-famed-great-barri.md)
-_Context: Queensland, Chinese, Australia, Great Barrier Reef_
+_Context: Great Barrier Reef, China, Queensland, Australia_
 
 ##### 
 ### [A mentally ill man goes on a stabbing rampage outside a primary school in southern China, killing two and wounding five. ](/news/2010/04/13/a-mentally-ill-man-goes-on-a-stabbing-rampage-outside-a-primary-school-in-southern-china-killing-two-and-wounding-five.md)
@@ -81,7 +81,7 @@ _Context: Radovan Karadzic_
 
 ##### Twitter
 ### [Twitter sells advertising on its site for the first time. Advertisers will be able to buy "Promoted Tweets" that will appear on Twitter's search results pages. ](/news/2010/04/13/twitter-sells-advertising-on-its-site-for-the-first-time-advertisers-will-be-able-to-buy-promoted-tweets-that-will-appear-on-twitter-s-se.md)
-_Context: Twitter, advertising_
+_Context: advertising, Twitter_
 
 ##### 
 ### [Spanish police say they have seized more than 800kg (1,760lbs) of cocaine from a lorry disguised as an official backup vehicle for the Dakar rally. ](/news/2010/04/13/spanish-police-say-they-have-seized-more-than-800kg-1-760lbs-of-cocaine-from-a-lorry-disguised-as-an-official-backup-vehicle-for-the-dakar.md)

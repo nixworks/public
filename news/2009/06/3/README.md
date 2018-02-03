@@ -9,39 +9,39 @@ The Organization of American States lifted its 47-year suspension of Cuba on Wed
 
 ##### Labour Party
 ### [ Labour Party Members of the United Kingdom's Parliament circulate an e-mail that requests Prime Minister Gordon Brown's resignation. ](/news/2009/06/3/labour-party-members-of-the-united-kingdom-s-parliament-circulate-an-e-mail-that-requests-prime-minister-gordon-brown-s-resignation.md)
-_Context: e-mail, Parliament, MP, Gordon Brown, British, Labour Party, Prime Minister_
+_Context: British, Gordon Brown, MP, Parliament, e-mail, Prime Minister, Labour Party_
 
 ##### remotely operated vehicle
 ### [ The remotely operated vehicle "Nereus" reaches the Challenger Deep in the Pacific Ocean's Mariana Trench. ](/news/2009/06/3/the-remotely-operated-vehicle-nereus-reaches-the-challenger-deep-in-the-pacific-ocean-s-mariana-trench.md)
-_Context: Nereus, remotely operated vehicle, Mariana Trench, South Pacific Ocean, Challenger Deep_
+_Context: South Pacific Ocean, Challenger Deep, Nereus, remotely operated vehicle, Mariana Trench_
 
 ##### India
 ### [ Indian Member of Parliament Meira Kumar becomes the first female Speaker of the House of the People. ](/news/2009/06/3/indian-member-of-parliament-meira-kumar-becomes-the-first-female-speaker-of-the-house-of-the-people.md)
-_Context: India, Meira Kumar, becomes, Lok Sabha, Parliament of India, MP, Speaker_
+_Context: Meira Kumar, India, Speaker, MP, Parliament of India, becomes, Lok Sabha_
 
 ##### President
 ### [ President Jacob Zuma vows to create 500,000 jobs through 2009 in South Africa's State of the Nation Address. ](/news/2009/06/3/president-jacob-zuma-vows-to-create-500-000-jobs-through-2009-in-south-africa-s-state-of-the-nation-address.md)
-_Context: 2009, Jacob Zuma, President, State of the Nation Address, South Africa_
+_Context: President, Jacob Zuma, 2009, South Africa, State of the Nation Address_
 
 ##### Nigeria
 ### [ The Nigerian government recaptures 130 of 150 inmates who escaped from a prison in Enugu. ](/news/2009/06/3/the-nigerian-government-recaptures-130-of-150-inmates-who-escaped-from-a-prison-in-enugu.md)
-_Context: Enugu, Nigeria, escape, Politics of Nigeria_
+_Context: Enugu, escape, Politics of Nigeria, Nigeria_
 
 ##### Madagascar
 ### [ Former Malagasy President Marc Ravalomanana is sentenced "in absentia" to incarceration until 2013 for misconduct. ](/news/2009/06/3/former-malagasy-president-marc-ravalomanana-is-sentenced-in-absentia-to-incarceration-until-2013-for-misconduct.md)
-_Context: in absentia, Madagascar, political crisis, President, incarceration, Marc Ravalomanana, misconduct in office, 2013_
+_Context: Madagascar, misconduct in office, President, in absentia, incarceration, Marc Ravalomanana, political crisis, 2013_
 
-##### U.S.
+##### United States
 ### [ American author Marilynne Robinson wins the Orange Prize for Fiction for her novel "Home". ](/news/2009/06/3/american-author-marilynne-robinson-wins-the-orange-prize-for-fiction-for-her-novel-home.md)
-_Context: U.S., author, Marilynne Robinson, novel, Orange Prize for Fiction, Home_
+_Context: Home, Marilynne Robinson, novel, author, Orange Prize for Fiction, United States_
 
 ##### U.S. state
 ### [ The U.S. state of New Hampshire legalizes same-sex marriage. ](/news/2009/06/3/the-u-s-state-of-new-hampshire-legalizes-same-sex-marriage.md)
-_Context: U.S. state, same-sex marriage, New Hampshire, legalizes_
+_Context: New Hampshire, same-sex marriage, U.S. state, legalizes_
 
 ##### al-Qaeda
 ### [ The al-Qaeda Organization in the Islamic Maghreb executes British hostage Edwin Dwyer in the Sahara. ](/news/2009/06/3/the-al-qaeda-organization-in-the-islamic-maghreb-executes-british-hostage-edwin-dwyer-in-the-sahara.md)
-_Context: hostage, British, al-Qaeda, Islam, Maghreb, Insurgency in the Maghreb (2002-present), Al Qaeda in the Islamic Maghreb, Sahara_
+_Context: Insurgency in the Maghreb (2002-present), Islam, Al Qaeda in the Islamic Maghreb, hostage, al-Qaeda, Maghreb, Sahara, British_
 
 ## [Previous Day...](/news/2009/06/2/index.md)
 

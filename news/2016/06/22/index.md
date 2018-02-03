@@ -13,7 +13,7 @@ At least 18 civilians have been killed in air strikes in the Syrian city of Raqq
 
 ##### during fighting
 ### [The United Nations reports 80,000 civilians have fled Fallujah, as Iraqi Army and Shia militias retake most of the city from ISIL. ](/news/2016/06/22/the-united-nations-reports-80-000-civilians-have-fled-fallujah-as-iraqi-army-and-shia-militias-retake-most-of-the-city-from-isil.md)
-_Context: during fighting, ISIL, Fallujah, Shi'ite volunteers, Iraqi Armed Forces, United Nations_
+_Context: Shi'ite volunteers, Iraqi Armed Forces, ISIL, United Nations, Fallujah, during fighting_
 
 ##### Sectarianism in Pakistan
 ### [Gunmen kill Sufi devotional singer Amjad Sabri in Pakistan with a faction of the Pakistani Taliban claiming responsibility. ](/news/2016/06/22/gunmen-kill-sufi-devotional-singer-amjad-sabri-in-pakistan-with-a-faction-of-the-pakistani-taliban-claiming-responsibility.md)
@@ -33,7 +33,7 @@ A tornado and hailstorm kill at least 98 people and injure nearly 800 in the eas
 
 ##### North Korea-South Korea relations
 ### [South Korea reports that North Korea has tested two BM25 Musudan intermediate-range ballistic missiles. ](/news/2016/06/22/south-korea-reports-that-north-korea-has-tested-two-bm25-musudan-intermediate-range-ballistic-missiles.md)
-_Context: BM25 Musudan, South Korea, North Korea-South Korea relations, intermediate-range ballistic missile, North Korea's nuclear program, North Korea_
+_Context: South Korea, North Korea, BM25 Musudan, North Korea's nuclear program, North Korea-South Korea relations, intermediate-range ballistic missile_
 
 ##### Spillover of the Syrian Civil War
 ### [Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-suicide-bomb-attack-in-rukban-mafraq.md)

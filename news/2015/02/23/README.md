@@ -9,11 +9,11 @@ Kiev accused pro-Russian rebels of opening fire with rockets and artillery at vi
 
 ##### Second Libyan Civil War (2014-present)
 ### [The internationally recognized Tobruk-based Parliament of Libya suspends participation in United Nations brokered talks. ](/news/2015/02/23/the-internationally-recognized-tobruk-based-parliament-of-libya-suspends-participation-in-united-nations-brokered-talks.md)
-_Context: internationally-recognized government, Second Libyan Civil War (2014-present), United Nations, Tobruk_
+_Context: Tobruk, Second Libyan Civil War (2014-present), internationally-recognized government, United Nations_
 
 ##### ferry disaster
 ### [The death toll from the weekend ferry disaster in Bangladesh rises to 70. ](/news/2015/02/23/the-death-toll-from-the-weekend-ferry-disaster-in-bangladesh-rises-to-70.md)
-_Context: ferry disaster, Bangladesh_
+_Context: Bangladesh, ferry disaster_
 
 ##### Rolf Harris
 ### [Entertainer Rolf Harris is stripped of his Order of Australia honours following recent convictions in the United Kingdom for indecent assault. ](/news/2015/02/23/entertainer-rolf-harris-is-stripped-of-his-order-of-australia-honours-following-recent-convictions-in-the-united-kingdom-for-indecent-assaul.md)

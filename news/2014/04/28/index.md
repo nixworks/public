@@ -21,7 +21,7 @@ A royal mummy discovery in Egypt&#039;s Valley of the Kings includes several pri
 
 ##### Scottish-American
 ### [Scottish-American comedian Craig Ferguson announces his departure from the CBS late-night talk show "The Late Late Show", effective December 2014. ](/news/2014/04/28/scottish-american-comedian-craig-ferguson-announces-his-departure-from-the-cbs-late-night-talk-show-the-late-late-show-effective-december.md)
-_Context: Craig Ferguson, CBS, The Late Late Show, Scottish-American_
+_Context: The Late Late Show, Craig Ferguson, CBS, Scottish-American_
 
 ##### Microsoft
 ### [Microsoft announces a major vulnerability in Internet Explorer versions 6 to 11 that could enable hackers to gain access and user rights to its customers' computers. ](/news/2014/04/28/microsoft-announces-a-major-vulnerability-in-internet-explorer-versions-6-to-11-that-could-enable-hackers-to-gain-access-and-user-rights-to.md)
@@ -33,7 +33,7 @@ _Context: Indian_
 
 ##### tornado
 ### [Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. ](/news/2014/04/28/seventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-united-states.md)
-_Context: central, southern United States, tornado_
+_Context: tornado, southern United States, central_
 
 ##### Slovakia
 ### [Slovakia and Ukraine agree to a deal that will allow gas from Central Europe to reach Ukraine via Slovakia. ](/news/2014/04/28/slovakia-and-ukraine-agree-to-a-deal-that-will-allow-gas-from-central-europe-to-reach-ukraine-via-slovakia.md)
@@ -41,7 +41,7 @@ A new deal will allow a limited amount of central European gas to flow to Ukrain
 
 ##### House of Representatives
 ### [U.S. Representative Michael Grimm is taken into federal custody on charges relating to a failed restaurant business and allegations that he made false statements. ](/news/2014/04/28/u-s-representative-michael-grimm-is-taken-into-federal-custody-on-charges-relating-to-a-failed-restaurant-business-and-allegations-that-he.md)
-_Context: House of Representatives, Michael Grimm_
+_Context: Michael Grimm, House of Representatives_
 
 ##### Paul Simon
 ### [Paul Simon and wife Edie Brickell are arrested and charged with disorderly conduct. ](/news/2014/04/28/paul-simon-and-wife-edie-brickell-are-arrested-and-charged-with-disorderly-conduct.md)

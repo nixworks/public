@@ -15,7 +15,7 @@ Formats: [HTML](/news/2004/07/28/a-united-airlines-flight-carrying-246-passenger
 
 ### Related:
 
-1. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _Context: Los Angeles_
+1. [Two 15-year-old students are seriously wounded and three other people injured in a shooting at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-and-three-other-people-injured-in-a-shooting-at-sal-castro-middle-school-in-los-angeles-cali.md) _Context: Los Angeles_
 2. [Police in Serbia arrest three Australians, one of them Rohan Arnold, a known businessman, for allegedly smuggling 1,280 kg of cocaine into Sydney in 2016. ](/news/2018/01/18/police-in-serbia-arrest-three-australians-one-of-them-rohan-arnold-a-known-businessman-for-allegedly-smuggling-1-280-kg-of-cocaine-into-s.md) _Context: Sydney_
 3. [A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people. ](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkesbury-river-near-sydney-killing-at-least-six-people.md) _Context: Sydney_
 4. [Police shoot and kill a man in Wichita, Kansas, after a hoax emergency call sends them there. ](/news/2017/12/28/police-shoot-and-kill-a-man-in-wichita-kansas-after-a-hoax-emergency-call-sends-them-there.md) _Context: hoax_

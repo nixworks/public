@@ -9,7 +9,7 @@ The novelist JRR Tolkien secretly trained as a Government spy in the run up to t
 
 ##### Jose Manuel Barroso
 ### [ Jose Manuel Barroso is re-elected as President of the European Commission, by Members of the European Parliament. ](/news/2009/09/16/josa-c-manuel-barroso-is-re-elected-as-president-of-the-european-commission-by-members-of-the-european-parliament.md)
-_Context: President of the European Commission, Members of the European Parliament, Jose Manuel Barroso_
+_Context: Jose Manuel Barroso, President of the European Commission, Members of the European Parliament_
 
 ##### Yukio Hatoyama
 ### [ Yukio Hatoyama is sworn in as the 60th Prime Minister of Japan. ](/news/2009/09/16/yukio-hatoyama-is-sworn-in-as-the-60th-prime-minister-of-japan.md)
@@ -25,7 +25,7 @@ Argentina formally accepted Wednesday apologies from the Spanish government whic
 
 ##### Kenya
 ### [ Kenya's parliament nullifies President Mwai Kibaki's reappointment of Kenya's anti-corruption chief, Justice Aaron Ringera, who critics say has shown little interest in fighting graft. ](/news/2009/09/16/kenya-s-parliament-nullifies-president-mwai-kibaki-s-reappointment-of-kenya-s-anti-corruption-chief-justice-aaron-ringera-who-critics-say.md)
-_Context: Mwai Kibaki, Kenya, Justice Aaron Ringera, president_
+_Context: Mwai Kibaki, Justice Aaron Ringera, Kenya, president_
 
 ##### European Union
 ### [ The European Union casts doubt on last month's election results showing Afghan President Hamid Karzai winning the presidential election outright in the first round. ](/news/2009/09/16/the-european-union-casts-doubt-on-last-month-s-election-results-showing-afghan-president-hamid-karzai-winning-the-presidential-election-out.md)
@@ -37,11 +37,11 @@ _Context: World Meteorological Organisation, Ozone layer, Ozone depletion_
 
 ##### China
 ### [ China says it has foiled a possible terrorist attack in Xinjiang, detaining six people. ](/news/2009/09/16/china-says-it-has-foiled-a-possible-terrorist-attack-in-xinjiang-detaining-six-people.md)
-_Context: China, Xinjiang_
+_Context: Xinjiang, China_
 
 ##### Somalia
 ### [ The Somalian Islamist group Al-Shabaab call for reinforcements after a U.S. raid killed its leader Saleh Ali Saleh Nabhan. ](/news/2009/09/16/the-somalian-islamist-group-al-shabaab-call-for-reinforcements-after-a-u-s-raid-killed-its-leader-saleh-ali-saleh-nabhan.md)
-_Context: U.S., Saleh Ali Saleh Nabhan, Islam, Al-Shabaab, Somalia_
+_Context: Somalia, United States, Islam, Saleh Ali Saleh Nabhan, Al-Shabaab_
 
 ##### Mexico
 ### [ Gunmen kill 10 people at a drug rehabilitation clinic in Mexico. ](/news/2009/09/16/gunmen-kill-10-people-at-a-drug-rehabilitation-clinic-in-mexico.md)
@@ -49,7 +49,7 @@ _Context: Mexico_
 
 ##### Kenya
 ### [ Kenya begins moving the first residents out of slums in the capital Nairobi, as part of a plan to clear all shanty towns over the next two to five years. ](/news/2009/09/16/kenya-begins-moving-the-first-residents-out-of-slums-in-the-capital-nairobi-as-part-of-a-plan-to-clear-all-shanty-towns-over-the-next-two.md)
-_Context: slum, Kenya, Nairobi, shanties_
+_Context: Nairobi, slum, Kenya, shanties_
 
 ##### Luas
 ### [ 21 people are injured, three seriously, after a collision involving a Luas tram and a double-decker bus on O'Connell Street in Dublin, the worst ever accident involving the city's trams. ](/news/2009/09/16/21-people-are-injured-three-seriously-after-a-collision-involving-a-luas-tram-and-a-double-decker-bus-on-o-connell-street-in-dublin-the.md)
@@ -61,11 +61,11 @@ _Context: East Africa, TEAMS, broadband_
 
 ##### Egypt
 ### [ Egyptian border guards shoot dead two sub-Saharan migrants, bringing to at least 14 the number killed this year as they try to cross illegally into Israel. ](/news/2009/09/16/egyptian-border-guards-shoot-dead-two-sub-saharan-migrants-bringing-to-at-least-14-the-number-killed-this-year-as-they-try-to-cross-illega.md)
-_Context: Egypt, Sahara, Israel_
+_Context: Israel, Egypt, Sahara_
 
 ##### Bamali
 ### [ A lightning bolt kills five children at their school in Bamali, Cameroon, as they are preparing to begin their school day. ](/news/2009/09/16/a-lightning-bolt-kills-five-children-at-their-school-in-bamali-cameroon-as-they-are-preparing-to-begin-their-school-day.md)
-_Context: Bamali, Cameroon_
+_Context: Cameroon, Bamali_
 
 ## [Previous Day...](/news/2009/09/15/index.md)
 

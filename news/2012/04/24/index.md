@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Leon Panetta
 ### [Leon Panetta, the United States Secretary of Defense, warns North Korea against further provocations against South Korea. ](/news/2012/04/24/leon-panetta-the-united-states-secretary-of-defense-warns-north-korea-against-further-provocations-against-south-korea.md)
-_Context: United States Secretary of Defense, North Korea, South Korea, Leon Panetta_
+_Context: Leon Panetta, South Korea, United States Secretary of Defense, North Korea_
 
 ##### Leveson Inquiry
 ### [Appearing before the Leveson Inquiry, James Murdoch tells the hearing that News International's corporate systems failed to pick up on legal issues posed by its news gathering techniques. ](/news/2012/04/24/appearing-before-the-leveson-inquiry-james-murdoch-tells-the-hearing-that-news-international-s-corporate-systems-failed-to-pick-up-on-legal.md)

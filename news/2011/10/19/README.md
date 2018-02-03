@@ -15,9 +15,9 @@ Chart-topping act Westlife are to split &#039;&#039;amicably&#039;&#039; after 1
 ### [Google unveils the latest version of its Android mobile operating system, 4.0 (code named Ice Cream Sandwich), along with the Galaxy Nexus, its newest flagship smartphone. ](/news/2011/10/19/google-unveils-the-latest-version-of-its-android-mobile-operating-system-4-0-code-named-ice-cream-sandwich-along-with-the-galaxy-nexus.md)
 Google has unveiled its latest flagship phone, the Galaxy Nexus, and its latest Android software, Ice Cream Sandwich
 
-##### U.S.
+##### United States
 ### [The United States' largest bank, Bank of America, is surpassed by JPMorgan Chase in total assets, according to Bank of America's quarterly financial earnings report. ](/news/2011/10/19/the-united-states-largest-bank-bank-of-america-is-surpassed-by-jpmorgan-chase-in-total-assets-according-to-bank-of-america-s-quarterly-f.md)
-_Context: JPMorgan Chase, U.S., Bank of America_
+_Context: United States, Bank of America, JPMorgan Chase_
 
 ##### American Airlines
 ### [The parent of American Airlines, AMR, reports a larger third-quarter loss than expected, due to the cost of aviation fuel and the volatility of foreign exchange. ](/news/2011/10/19/the-parent-of-american-airlines-amr-reports-a-larger-third-quarter-loss-than-expected-due-to-the-cost-of-aviation-fuel-and-the-volatility.md)
@@ -33,7 +33,7 @@ The Queen will arrive in Canberra today for what may be her last official tour o
 
 ##### South Korean President
 ### [The President of South Korea, Lee Myung-bak, meets with the Prime Minister of Japan, Yoshihiko Noda, in Seoul. ](/news/2011/10/19/the-president-of-south-korea-lee-myung-bak-meets-with-the-prime-minister-of-japan-yoshihiko-noda-in-seoul.md)
-_Context: South Korean President, Yoshihiko Noda, Seoul, Lee Myung-bak, Prime Minister of Japan_
+_Context: Prime Minister of Japan, Yoshihiko Noda, Lee Myung-bak, Seoul, South Korean President_
 
 ##### exotic animal
 ### [56 animals are intentionally released by their owner from an exotic animal farm in Muskingum County, Ohio. The owner subsequently commits suicide. ](/news/2011/10/19/56-animals-are-intentionally-released-by-their-owner-from-an-exotic-animal-farm-in-muskingum-county-ohio-the-owner-subsequently-commits-su.md)

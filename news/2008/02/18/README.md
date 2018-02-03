@@ -17,11 +17,11 @@ _Context: New Zealand, Wellington, cluster bombs_
 
 ##### suicide bombing
 ### [ A suicide bombing targeting a Canadian military convoy kills at least 37 Afghan civilians and injures three Canadian soldiers in Spin Boldak, Afghanistan. ](/news/2008/02/18/a-suicide-bombing-targeting-a-canadian-military-convoy-kills-at-least-37-afghan-civilians-and-injures-three-canadian-soldiers-in-spin-bolda.md)
-_Context: Afghanistan, Spin Boldak, Canadian, Canadian Armed Forces, suicide bombing_
+_Context: suicide bombing, Spin Boldak, Canadian Armed Forces, Afghanistan, Canadian_
 
-##### Chinese
+##### China
 ### [ In China, the trial of human rights activist Yang Chunlin commenced in the city of Jiamusi. Yang helped organise a petition entitled, "We want human rights, not the Olympics", and is accused of "inciting subversion of state power". ](/news/2008/02/18/in-china-the-trial-of-human-rights-activist-yang-chunlin-commenced-in-the-city-of-jiamusi-yang-helped-organise-a-petition-entitled-we-w.md)
-_Context: Chinese, Jiamusi, Yang Chunlin_
+_Context: Jiamusi, Yang Chunlin, China_
 
 ## [Previous Day...](/news/2008/02/17/index.md)
 

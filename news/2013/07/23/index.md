@@ -29,7 +29,7 @@ Japan says it is taking steps to prevent contaminated water from the crippled Fu
 
 ##### Gulf of Mexico
 ### [Hercules 264, a Gulf of Mexico natural gas drilling rig, partially collapses off the coast of Louisiana after catching fire. ](/news/2013/07/23/hercules-264-a-gulf-of-mexico-natural-gas-drilling-rig-partially-collapses-off-the-coast-of-louisiana-after-catching-fire.md)
-_Context: Gulf of Mexico, Louisiana, natural gas_
+_Context: Louisiana, Gulf of Mexico, natural gas_
 
 ##### Burma
 ### [Burma frees dozens of political prisoners as part of the country's ongoing effort at political reform. ](/news/2013/07/23/burma-frees-dozens-of-political-prisoners-as-part-of-the-country-s-ongoing-effort-at-political-reform.md)
@@ -39,9 +39,9 @@ _Context: ongoing effort at political reform, Burma, political prisoner_
 ### [Eighteen Britons are arrested on the Greek island of Crete, following the murder of a male tourist and a violent confrontation between tourists and local police. ](/news/2013/07/23/eighteen-britons-are-arrested-on-the-greek-island-of-crete-following-the-murder-of-a-male-tourist-and-a-violent-confrontation-between-touri.md)
 Eighteen young British men are arrested in connection with the fatal stabbing of another British man on the Greek island of Crete.
 
-##### Chinese
+##### China
 ### [China announces a five-year ban on the construction of new government buildings, as part of a major effort to curtail state corruption and overspending. ](/news/2013/07/23/china-announces-a-five-year-ban-on-the-construction-of-new-government-buildings-as-part-of-a-major-effort-to-curtail-state-corruption-and-o.md)
-_Context: Chinese_
+_Context: China_
 
 ##### Simon Wiesenthal Center
 ### [The Simon Wiesenthal Center begins a public campaign in Germany to bring to justice the last surviving Nazi war criminals from the Second World War. ](/news/2013/07/23/the-simon-wiesenthal-center-begins-a-public-campaign-in-germany-to-bring-to-justice-the-last-surviving-nazi-war-criminals-from-the-second-wo.md)
@@ -53,11 +53,11 @@ _Context: New York, nuclear power plant_
 
 ##### Parliament of Bulgaria
 ### [Protesters besiege the Parliament of Bulgaria in Sofia amid major anti-government rallies. ](/news/2013/07/23/protesters-besiege-the-parliament-of-bulgaria-in-sofia-amid-major-anti-government-rallies.md)
-_Context: Parliament of Bulgaria, Sofia_
+_Context: Sofia, Parliament of Bulgaria_
 
 ##### President of South Sudan
 ### [The President of South Sudan, Salva Kiir Mayardit, sacks his entire government, including the Vice President, Riek Machar. ](/news/2013/07/23/the-president-of-south-sudan-salva-kiir-mayardit-sacks-his-entire-government-including-the-vice-president-riek-machar.md)
-_Context: Riek Machar, Salva Kiir Mayardit, President of South Sudan_
+_Context: Salva Kiir Mayardit, President of South Sudan, Riek Machar_
 
 ## [Previous Day...](/news/2013/07/22/index.md)
 

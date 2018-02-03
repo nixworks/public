@@ -45,7 +45,7 @@ _Context: Equatorial Guinean presidential election, 2016, Teodoro Obiang Nguema 
 
 ##### final leg
 ### [The final leg of the Philippine presidential debate series is held in Dagupan. ](/news/2016/04/24/the-final-leg-of-the-philippine-presidential-debate-series-is-held-in-dagupan.md)
-_Context: Dagupan, debate series, final leg_
+_Context: final leg, debate series, Dagupan_
 
 ##### Serbian parliamentary election, 2016
 ### [Serbians elect a new parliament under the backdrop of its accession to the European Union. Preliminary results indicate the incumbent, pro-EU populists sweeping the election. ](/news/2016/04/24/serbians-elect-a-new-parliament-under-the-backdrop-of-its-accession-to-the-european-union-preliminary-results-indicate-the-incumbent-pro-e.md)
@@ -53,11 +53,11 @@ Serbian Prime Minister Aleksandar Vucic’s Progressive Party won a majority in 
 
 ##### 2015-16 protests in Moldova
 ### [Protests continue in Moldova as thousands of anti-government protesters demonstrate in the capital Chisinau despite concessions given to the protesters last month by the government. ](/news/2016/04/24/protests-continue-in-moldova-as-thousands-of-anti-government-protesters-demonstrate-in-the-capital-chieinau-despite-concessions-given-to-t.md)
-_Context: Moldova, 2015-16 protests in Moldova, Chisinau_
+_Context: Chisinau, Moldova, 2015-16 protests in Moldova_
 
 ##### Kazakhstan
 ### [Around 1,000 people stage a rare public protest in the Kazakh city of Atyrau, rallying against the government's decision to sell land in auctions amid a heavy police presence, though they did not forcibly disperse the rally. ](/news/2016/04/24/around-1-000-people-stage-a-rare-public-protest-in-the-kazakh-city-of-atyrau-rallying-against-the-government-s-decision-to-sell-land-in-auc.md)
-_Context: Kazakhstan, Atyrau, policemen_
+_Context: Atyrau, Kazakhstan, policemen_
 
 ## [Previous Day...](/news/2016/04/23/index.md)
 

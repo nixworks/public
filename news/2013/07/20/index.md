@@ -3,7 +3,7 @@ Formats: [HTML](2013/07/20/index.html)  [JSON](2013/07/20/index.json)  [XML](201
 
 ## [2013-07-20](/news/2013/07/20/index.md)
 
-##### U.S.
+##### United States
 ### [American veteran journalist Helen Thomas, who covered the White House for nearly five decades, dies at 92. ](/news/2013/07/20/american-veteran-journalist-helen-thomas-who-covered-the-white-house-for-nearly-five-decades-dies-at-92.md)
 Helen Thomas, a trailblazing journalist who covered the White House for nearly five decades, has died aged 92.
 
@@ -25,11 +25,11 @@ Israel has agreed to release Palestinian prisoners in order to resume peace talk
 
 ##### an attack
 ### [17 government soldiers are killed in an attack by FARC revolutionaries in the Colombian department of Arauca. ](/news/2013/07/20/17-government-soldiers-are-killed-in-an-attack-by-farc-revolutionaries-in-the-colombian-department-of-arauca.md)
-_Context: Colombia, an attack, Arauca, FARC_
+_Context: FARC, an attack, Colombia, Arauca_
 
 ##### Costa Crociere
 ### [Five Costa Crociere employees plead guilty to manslaughter and negligence charges in relation to the Costa Concordia disaster that cost 32 crew and passengers their lives off the coast of Italy. Captain Francesco Schettino is being tried separately. ](/news/2013/07/20/five-costa-crociere-employees-plead-guilty-to-manslaughter-and-negligence-charges-in-relation-to-the-costa-concordia-disaster-that-cost-32-c.md)
-_Context: Costa Crociere, negligence, sunk, manslaughter by gross negligence_
+_Context: sunk, Costa Crociere, manslaughter by gross negligence, negligence_
 
 ##### Beijing Capital International Airport
 ### [A man sets off homemade black powder explosive in Beijing Capital International Airport, injuring himself. No one else was hurt in the explosion. ](/news/2013/07/20/a-man-sets-off-homemade-black-powder-explosive-in-beijing-capital-international-airport-injuring-himself-no-one-else-was-hurt-in-the-explo.md)
@@ -37,7 +37,7 @@ _Context: Beijing Capital International Airport_
 
 ##### East Cleveland, Ohio
 ### [Three female bodies are found in plastic sheets in East Cleveland, Ohio; a 35-year-old sex offender was arrested on suspicion of all three cases, but has not been charged. Police say he may have been influenced by convicted Cleveland serial killer Anthony Sowell. ](/news/2013/07/20/three-female-bodies-are-found-in-plastic-sheets-in-east-cleveland-ohio-a-35-year-old-sex-offender-was-arrested-on-suspicion-of-all-three-c.md)
-_Context: East Cleveland, Ohio, a 35-year-old sex offender, Cleveland, Anthony Sowell_
+_Context: Cleveland, East Cleveland, Ohio, Anthony Sowell, a 35-year-old sex offender_
 
 ## [Previous Day...](/news/2013/07/19/index.md)
 

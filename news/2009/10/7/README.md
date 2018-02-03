@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/7/index.html)  [JSON](2009/10/7/index.json)  [XML](2009/
 
 ##### Nobel Prize in Chemistry
 ### [ The 2009 Nobel Prize in Chemistry goes to Venkatraman Ramakrishnan, Thomas A. Steitz, and Ada E. Yonath, "for studies of the structure and function of the ribosome". ](/news/2009/10/7/the-2009-nobel-prize-in-chemistry-goes-to-venkatraman-ramakrishnan-thomas-a-steitz-and-ada-e-yonath-for-studies-of-the-structure-and.md)
-_Context: Thomas A. Steitz, ribosome, Ada E. Yonath, Nobel Prize in Chemistry, Venkatraman Ramakrishnan_
+_Context: Nobel Prize in Chemistry, ribosome, Thomas A. Steitz, Ada E. Yonath, Venkatraman Ramakrishnan_
 
 ##### European Union
 ### [ European Union leaders again warn the Czech Republic of the costs which will be imposed by the further delaying of the Lisbon Treaty. ](/news/2009/10/7/european-union-leaders-again-warn-the-czech-republic-of-the-costs-which-will-be-imposed-by-the-further-delaying-of-the-lisbon-treaty.md)
@@ -17,15 +17,15 @@ _Context: Saturn, new ring_
 
 ##### Somalia
 ### [ The Somali junior Defence Minister Youssuf Mohamed Siad, mistakenly detained in Uganda yesterday, is released. ](/news/2009/10/7/the-somali-junior-defence-minister-youssuf-mohamed-siad-mistakenly-detained-in-uganda-yesterday-is-released.md)
-_Context: Somalia, Uganda_
+_Context: Uganda, Somalia_
 
 ##### Typhoon Melor
 ### [ Typhoon Melor, forecast to be the strongest typhoon to make landfall in Japan for a decade, approaches the country. ](/news/2009/10/7/typhoon-melor-forecast-to-be-the-strongest-typhoon-to-make-landfall-in-japan-for-a-decade-approaches-the-country.md)
-_Context: typhoon, Typhoon Melor, Japan_
+_Context: Japan, Typhoon Melor, typhoon_
 
 ##### Guinea
 ### [ The opposition in Guinea urges Captain Moussa Dadis Camara, head of the ruling junta, to resign. ](/news/2009/10/7/the-opposition-in-guinea-urges-captain-moussa-dadis-camara-head-of-the-ruling-junta-to-resign.md)
-_Context: Moussa Dadis Camara, junta, Guinea_
+_Context: junta, Moussa Dadis Camara, Guinea_
 
 ##### Saudi Arabia
 ### [ A Saudi man, Mazen Abdul-Jawad, is sentenced to five years imprisonment and 1,000 lashes after bragging about sex on a TV talk show. ](/news/2009/10/7/a-saudi-man-mazen-abdul-jawad-is-sentenced-to-five-years-imprisonment-and-1-000-lashes-after-bragging-about-sex-on-a-tv-talk-show.md)
@@ -33,15 +33,15 @@ _Context: Saudi Arabia, Mazen Abdul-Jawad_
 
 ##### Burma
 ### [ Burmese National League for Democracy leader Aung San Suu Kyi meets for a second time with the ruling junta after her offer to lobby for nations to lift sanctions on the country. ](/news/2009/10/7/burmese-national-league-for-democracy-leader-aung-san-suu-kyi-meets-for-a-second-time-with-the-ruling-junta-after-her-offer-to-lobby-for-na.md)
-_Context: State Peace and Development Council, Burma, National League for Democracy, Aung San Suu Kyi_
+_Context: National League for Democracy, Burma, State Peace and Development Council, Aung San Suu Kyi_
 
 ##### Somalia
 ### [ Somali pirates attack the French Navy replenishment tanker "Somme" (A631) in error, believing it to be a cargo ship. ](/news/2009/10/7/somali-pirates-attack-the-french-navy-replenishment-tanker-somme-a631-in-error-believing-it-to-be-a-cargo-ship.md)
-_Context: Somalia, French naval, France, Somali pirates_
+_Context: France, Somali pirates, French naval, Somalia_
 
 ##### drought
 ### [ More than a million people are affected in one of the worst droughts to affect Syria in decades. ](/news/2009/10/7/more-than-a-million-people-are-affected-in-one-of-the-worst-droughts-to-affect-syria-in-decades.md)
-_Context: drought, Syria_
+_Context: Syria, drought_
 
 ##### Taiwan
 ### [ Taiwan's National Palace Museum refuses to display two artifacts stolen from China 150 years ago. ](/news/2009/10/7/taiwan-s-national-palace-museum-refuses-to-display-two-artifacts-stolen-from-china-150-years-ago.md)
@@ -49,7 +49,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Constitutional Court
 ### [ The Constitutional Court of Italy overturns a law offering Prime Minister Silvio Berlusconi immunity from prosecution while in office, ruling it unconstitutional. ](/news/2009/10/7/the-constitutional-court-of-italy-overturns-a-law-offering-prime-minister-silvio-berlusconi-immunity-from-prosecution-while-in-office-ruli.md)
-_Context: Italian Prime Minister, Constitutional Court, Italy, Silvio Berlusconi, immunity from prosecution_
+_Context: Constitutional Court, immunity from prosecution, Silvio Berlusconi, Italian Prime Minister, Italy_
 
 ##### Irish
 ### [ Ambassadors from Ireland and Uganda, along with the Sudanese minister overseeing negotiations, visit Al-Fashir in a renewed effort to win the freedom of aid workers Sharon Cummins and Hilda Kawuki, kidnapped since 3 July. ](/news/2009/10/7/ambassadors-from-ireland-and-uganda-along-with-the-sudanese-minister-overseeing-negotiations-visit-al-fashir-in-a-renewed-effort-to-win-t.md)
@@ -57,11 +57,11 @@ A diplomatic team, including Ireland&#39;s ambassador to Sudan, have renewed eff
 
 ##### magnitude
 ### [ A 7.8 magnitude earthquake strikes Vanuatu, followed 15 minutes later by a 7.3 magnitude aftershock. A tsunami warning is issued. ](/news/2009/10/7/a-7-8-magnitude-earthquake-strikes-vanuatu-followed-15-minutes-later-by-a-7-3-magnitude-aftershock-a-tsunami-warning-is-issued.md)
-_Context: magnitude, Vanuatu, aftershock, earthquake_
+_Context: Vanuatu, aftershock, earthquake, magnitude_
 
 ##### The Red Book
 ### [ "The Red Book" by Swiss psychiatrist Carl Jung is displayed for the first time in public. ](/news/2009/10/7/the-red-book-by-swiss-psychiatrist-carl-jung-is-displayed-for-the-first-time-in-public.md)
-_Context: psychiatrist, The Red Book, Switzerland, Carl Jung_
+_Context: Carl Jung, Switzerland, psychiatrist, The Red Book_
 
 ## [Previous Day...](/news/2009/10/6/index.md)
 

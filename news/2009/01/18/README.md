@@ -13,27 +13,27 @@ Get box score updates on the Baltimore Ravens vs. Pittsburgh Steelers football g
 
 ##### Born Again in Christ Church
 ### [ The roof of the Born Again in Christ Church in SGBPo Paulo, Brazil, collapses, killing nine worshippers and injuring more than one hundred others. ](/news/2009/01/18/the-roof-of-the-born-again-in-christ-church-in-sagbpo-paulo-brazil-collapses-killing-nine-worshippers-and-injuring-more-than-one-hundred.md)
-_Context: Born Again in Christ Church, SGBPo Paulo, Brazil_
+_Context: SGBPo Paulo, Brazil, Born Again in Christ Church_
 
 ##### Taiwan
 ### [ The Republic of China (Taiwan) distributes shopping vouchers to all its 22.7 million citizens as part of a US$2.53-billion plan to stimulate the economy. ](/news/2009/01/18/the-republic-of-china-taiwan-distributes-shopping-vouchers-to-all-its-22-7-million-citizens-as-part-of-a-us-2-53-billion-plan-to-stimulat.md)
-_Context: Taiwan, economy, $, shopping, Taiwan, voucher_
+_Context: shopping, Taiwan, Taiwan, $, economy, voucher_
 
 ##### France
 ### [ A French military helicopter crashes off the coast of Gabon, killing at least seven people and rendering one other missing. ](/news/2009/01/18/a-french-military-helicopter-crashes-off-the-coast-of-gabon-killing-at-least-seven-people-and-rendering-one-other-missing.md)
-_Context: helicopter, crashes, military, France, Gabon_
+_Context: military, helicopter, Gabon, crashes, France_
 
 ##### avalanche
 ### [ A series of avalanches occurs near Kabul, Afghanistan, killing at least ten people and injuring eleven others. ](/news/2009/01/18/a-series-of-avalanches-occurs-near-kabul-afghanistan-killing-at-least-ten-people-and-injuring-eleven-others.md)
-_Context: avalanche, occurs, Afghanistan, Kabul_
+_Context: occurs, avalanche, Afghanistan, Kabul_
 
 ##### Hamas
 ### [ Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md)
-_Context: Hamas, Israel, rocket, ceasefire_
+_Context: Israel, ceasefire, rocket, Hamas_
 
 ##### US Airways
 ### [ Most of the wreckage of US Airways Flight 1549 is successfully recovered from the Hudson River. ](/news/2009/01/18/most-of-the-wreckage-of-us-airways-flight-1549-is-successfully-recovered-from-the-hudson-river.md)
-_Context: US Airways Flight 1549, US Airways, Hudson River_
+_Context: US Airways, Hudson River, US Airways Flight 1549_
 
 ## [Previous Day...](/news/2009/01/17/index.md)
 

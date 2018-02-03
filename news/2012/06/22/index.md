@@ -5,15 +5,15 @@ Formats: [HTML](2012/06/22/index.html)  [JSON](2012/06/22/index.json)  [XML](201
 
 ##### government forces
 ### [The Syrian military shoots down a Turkish F-4 Phantom fighter jet after it had entered Syrian airpsace over the Mediterranean Sea. ](/news/2012/06/22/the-syrian-military-shoots-down-a-turkish-f-4-phantom-fighter-jet-after-it-had-entered-syrian-airpsace-over-the-mediterranean-sea.md)
-_Context: Turkish, Mediterranean Sea, government forces, Syria, F-4 Phantom II_
+_Context: Turkish, Mediterranean Sea, F-4 Phantom II, Syria, government forces_
 
 ##### NATO
 ### [NATO-backed Afghan security forces end a 12-hour siege carried out by Taliban insurgents on the Spozhmai Hotel outside Kabul, killing all five insurgents. ](/news/2012/06/22/nato-backed-afghan-security-forces-end-a-12-hour-siege-carried-out-by-taliban-insurgents-on-the-spozhmai-hotel-outside-kabul-killing-all-fi.md)
-_Context: Kabul, Afghanistan, Taliban, NATO_
+_Context: Afghanistan, Kabul, NATO, Taliban_
 
 ##### Anti-austerity protests
 ### [Anti-austerity protests spread through the Sudanese city of Khartoum, with security forces breaking them up. ](/news/2012/06/22/anti-austerity-protests-spread-through-the-sudanese-city-of-khartoum-with-security-forces-breaking-them-up.md)
-_Context: Anti-austerity protests, Sudan, Khartoum_
+_Context: Anti-austerity protests, Khartoum, Sudan_
 
 ##### Baghdad
 ### [At least 14 people are killed and 106 others wounded in two successive bombings at a popular market on the northern outskirts of Baghdad. ](/news/2012/06/22/at-least-14-people-are-killed-and-106-others-wounded-in-two-successive-bombings-at-a-popular-market-on-the-northern-outskirts-of-baghdad.md)
@@ -21,11 +21,11 @@ _Context: Baghdad_
 
 ##### Carol Ann Duffy
 ### [Carol Ann Duffy, Jeanette Winterson, Simon Armitage, Melvin Burgess and the creator of "Coronation Street" are among signatories calling for the destruction of books to stop in Manchester. ](/news/2012/06/22/carol-ann-duffy-jeanette-winterson-simon-armitage-melvin-burgess-and-the-creator-of-coronation-street-are-among-signatories-calling-for.md)
-_Context: Coronation Street, Simon Armitage, Melvin Burgess, Carol Ann Duffy, Manchester, Jeanette Winterson, the creator_
+_Context: Jeanette Winterson, Manchester, Melvin Burgess, the creator, Coronation Street, Simon Armitage, Carol Ann Duffy_
 
 ##### Islamist
 ### [Thousands of students in rebel Islamist-controlled northern Mali leave schools after the imposition of Sharia law. ](/news/2012/06/22/thousands-of-students-in-rebel-islamist-controlled-northern-mali-leave-schools-after-the-imposition-of-sharia-law.md)
-_Context: Islamist, Sharia law, Mali_
+_Context: Islamist, Mali, Sharia law_
 
 ##### Isle of Wight musical festival
 ### [Torrential rain causes chaos at the Isle of Wight musical festival. ](/news/2012/06/22/torrential-rain-causes-chaos-at-the-isle-of-wight-musical-festival.md)
@@ -37,15 +37,15 @@ Wells Fargo & Co, the fourth-largest U.S. bank by assets, is looking tomove some
 
 ##### WikiLeaks
 ### [WikiLeaks editor-in-chief Julian Assange gives an interview on Australian radio as his attempt to gain political asylum in Ecuador continues. ](/news/2012/06/22/wikileaks-editor-in-chief-julian-assange-gives-an-interview-on-australian-radio-as-his-attempt-to-gain-political-asylum-in-ecuador-continues.md)
-_Context: WikiLeaks, Ecuador, Julian Assange_
+_Context: Ecuador, Julian Assange, WikiLeaks_
 
-##### Chinese
+##### China
 ### [China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/china-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md)
-_Context: Vietnam, Chinese, Spratly Islands_
+_Context: China, Vietnam, Spratly Islands_
 
 ##### Uganda
 ### [Ugandan ethics minister Simon Lokodo signs a government statement saying that it does not discriminate against homosexuals and that they are free to meet. ](/news/2012/06/22/ugandan-ethics-minister-simon-lokodo-signs-a-government-statement-saying-that-it-does-not-discriminate-against-homosexuals-and-that-they-are.md)
-_Context: Uganda, Simon Lokodo, gay_
+_Context: Simon Lokodo, gay, Uganda_
 
 ##### Azeri
 ### [Khilal Mamedov, a prominent Azeri human rights activist and journalist, is arrested on suspicion of drug possession, a move a fellow rights watchdog says is politically motivated. ](/news/2012/06/22/khilal-mamedov-a-prominent-azeri-human-rights-activist-and-journalist-is-arrested-on-suspicion-of-drug-possession-a-move-a-fellow-rights.md)
@@ -53,7 +53,7 @@ _Context: journalist, Azeri_
 
 ##### Jerry Sandusky
 ### [Jerry Sandusky, former American football coach at Pennsylvania State University, is convicted on 45 charges of child sex abuse. He is on suicide watch. ](/news/2012/06/22/jerry-sandusky-former-american-football-coach-at-pennsylvania-state-university-is-convicted-on-45-charges-of-child-sex-abuse-he-is-on-sui.md)
-_Context: American football, child sex abuse, Jerry Sandusky, Penn State, Penn State sex abuse scandal_
+_Context: Penn State sex abuse scandal, American football, child sex abuse, Penn State, Jerry Sandusky_
 
 ##### Bolivia
 ### [Protests over pay by police officers in Bolivia spread; a police building is ransacked while president Evo Morales offers concessions. ](/news/2012/06/22/protests-over-pay-by-police-officers-in-bolivia-spread-a-police-building-is-ransacked-while-president-evo-morales-offers-concessions.md)
@@ -69,11 +69,11 @@ Paraguay&#x27;s Senate removed President Fernando Lugo from office in a rapid im
 
 ##### Egyptian
 ### [Thousands of Egyptians crowd Cairo's Tahrir Square ahead of the announcement of the results of the presidential election. ](/news/2012/06/22/thousands-of-egyptians-crowd-cairo-s-tahrir-square-ahead-of-the-announcement-of-the-results-of-the-presidential-election.md)
-_Context: Egyptian, Tahrir Square, Cairo, presidential election_
+_Context: Egyptian, presidential election, Tahrir Square, Cairo_
 
 ##### Pakistan People's Party
 ### [The ruling Pakistan People's Party nominates Raja Pervez Ashraf to replace Yousuf Raza Gilani after a judge orders the arrest of its first choice candidate Makhdoom Shahabuddin for alleged illegal importation of drugs. ](/news/2012/06/22/the-ruling-pakistan-people-s-party-nominates-raja-pervez-ashraf-to-replace-yousuf-raza-gilani-after-a-judge-orders-the-arrest-of-its-first-c.md)
-_Context: Makhdoom Shahabuddin, Yousuf Raza Gilani, Raja Pervez Ashraf, Pakistan People's Party_
+_Context: Pakistan People's Party, Raja Pervez Ashraf, Makhdoom Shahabuddin, Yousuf Raza Gilani_
 
 ##### Daphne Leef
 ### [Daphne Leef and several other Israeli activists tried to restart the housing protests by re-erecting a tent encampment in the Rothschild Boulevard in Tel-Aviv. The municipality had not given a permit and as a result Leef, along with eleven other activists, were arrested when they resisted the 20 policemen and municipal inspectors who arrived to dismantle the tents. The protesters' tents were confiscated by the police forces as well.](/news/2012/06/22/daphne-leef-and-several-other-israeli-activists-tried-to-restart-the-housing-protests-by-re-erecting-a-tent-encampment-in-the-rothschild-bou.md)
@@ -81,7 +81,7 @@ One of key figures of social justice movement arrested along with 11 others; Yec
 
 ##### Sinn Fein
 ### [Sinn Fein's Martin McGuinness will shake hands with Elizabeth II at a historic first meeting between a British Monarch and member of Sinn Fein during the Queen's forthcoming trip to Northern Ireland. ](/news/2012/06/22/sinn-fein-s-martin-mcguinness-will-shake-hands-with-elizabeth-ii-at-a-historic-first-meeting-between-a-british-monarch-and-member-of-sinn-fa.md)
-_Context: Elizabeth II, Sinn Fein, Northern Ireland, Martin McGuinness_
+_Context: Northern Ireland, Martin McGuinness, Elizabeth II, Sinn Fein_
 
 ## [Previous Day...](/news/2012/06/21/index.md)
 

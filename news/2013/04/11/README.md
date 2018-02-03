@@ -5,11 +5,11 @@ Formats: [HTML](2013/04/11/index.html)  [JSON](2013/04/11/index.json)  [XML](201
 
 ##### drug traffickers
 ### [At least 14 people are killed in a series of clashes between alleged drug traffickers and police in the Mexican state of Michoacan. The government states that a high-profile drug lord was killed in the battle. ](/news/2013/04/11/at-least-14-people-are-killed-in-a-series-of-clashes-between-alleged-drug-traffickers-and-police-in-the-mexican-state-of-michoaca-n-the-gov.md)
-_Context: Mexico, drug traffickers, drug lord, police, Michoacan, government_
+_Context: drug traffickers, police, Mexico, drug lord, government, Michoacan_
 
 ##### bomb
 ### [Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/two-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing-shooting-and-arson-attacks.md)
-_Context: shooting spree, bomb, Pattani region, arson, Thailand_
+_Context: bomb, Thailand, arson, Pattani region, shooting spree_
 
 ##### Syrian Army
 ### [At least 57 people are killed by the Syrian Army in the towns of Sanamayn and Ghabaghib, Daraa Governorate, Syria. ](/news/2013/04/11/at-least-57-people-are-killed-by-the-syrian-army-in-the-towns-of-sanamayn-and-ghabaghib-daraa-governorate-syria.md)
@@ -17,11 +17,11 @@ Children and women said to be among victims of attacks on two towns in Deraa app
 
 ##### Boko Haram
 ### [Boko Haram rejects the idea of an amnesty offer for militants by Nigerian President Goodluck Jonathan. ](/news/2013/04/11/boko-haram-rejects-the-idea-of-an-amnesty-offer-for-militants-by-nigerian-president-goodluck-jonathan.md)
-_Context: President, amnesty, Goodluck Jonathan, Boko Haram, Nigeria_
+_Context: Nigeria, President, amnesty, Boko Haram, Goodluck Jonathan_
 
 ##### general election
 ### [A candidate for election in Pakistan is attacked and killed by assumed Taliban militants. ](/news/2013/04/11/a-candidate-for-election-in-pakistan-is-attacked-and-killed-by-assumed-taliban-militants.md)
-_Context: Pakistan, general election, Taliban_
+_Context: general election, Pakistan, Taliban_
 
 ##### Madonna
 ### [Singer Madonna is accused by the office of Malawi President Joyce Banda of "bullying state officials" after she reportedly exaggerated her charity's contribution and complained about her treatment on a recent visit to the country. ](/news/2013/04/11/singer-madonna-is-accused-by-the-office-of-malawi-president-joyce-banda-of-bullying-state-officials-after-she-reportedly-exaggerated-her-c.md)
@@ -29,11 +29,11 @@ Malawi accuses US singer Madonna of &quot;bullying state officials&quot; after s
 
 ##### episode
 ### [An episode of the American TV show "Glee" causes controversy by featuring a school shooting scene. ](/news/2013/04/11/an-episode-of-the-american-tv-show-glee-causes-controversy-by-featuring-a-school-shooting-scene.md)
-_Context: U.S., school shooting, Glee, episode, TV show_
+_Context: school shooting, episode, Glee, United States, TV show_
 
-##### U.S.
+##### United States
 ### [American comedian Jonathan Winters dies at the age of 87 in Montecito, California. ](/news/2013/04/11/american-comedian-jonathan-winters-dies-at-the-age-of-87-in-montecito-california.md)
-_Context: Jonathan Winters, California, comedian, Montecito's, U.S._
+_Context: California, Montecito's, Jonathan Winters, comedian, United States_
 
 ##### Maria Tallchief
 ### [Maria Tallchief, the first Native American to achieve the rank of prima ballerina at a major ballet company, dies at the age of 88. ](/news/2013/04/11/maria-tallchief-the-first-native-american-to-achieve-the-rank-of-prima-ballerina-at-a-major-ballet-company-dies-at-the-age-of-88.md)
@@ -45,11 +45,11 @@ Japanese automakers Honda, Nissan, Toyota and Mazda announced Thursday they are 
 
 ##### tornado
 ### [Tornadoes destroy a church and damage dozens of homes in the Midwestern United States, cutting off electricity in several areas, and prompting Missouri Governor Jay Nixon to declare a state of emergency. ](/news/2013/04/11/tornadoes-destroy-a-church-and-damage-dozens-of-homes-in-the-midwestern-united-states-cutting-off-electricity-in-several-areas-and-prompti.md)
-_Context: Missouri Governor, destroy, state of emergency, church, Missouri, Jay Nixon, Midwestern, electricity, tornado_
+_Context: Midwestern, Missouri Governor, state of emergency, electricity, destroy, Jay Nixon, church, tornado, Missouri_
 
 ##### bus
 ### [Two people are killed and 41 injured in a bus crash in Irving, Texas, United States. ](/news/2013/04/11/two-people-are-killed-and-41-injured-in-a-bus-crash-in-irving-texas-united-states.md)
-_Context: bus, Irving, U.S., Texas_
+_Context: United States, Irving, Texas, bus_
 
 ##### North Korea
 ### [North Korea renews a threat to permanently close its Kaesong joint industrial zone with South Korea, blaming the "confrontation" policies of the South Korea's new president, Park Geun-hye. ](/news/2013/04/11/north-korea-renews-a-threat-to-permanently-close-its-kaesong-joint-industrial-zone-with-south-korea-blaming-the-confrontation-policies-of.md)
@@ -79,7 +79,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Father Emil Kapaun is awarded a Medal of Honor posthumously by U.S. President Barack Obama. ](/news/2013/04/11/father-emil-kapaun-is-awarded-a-medal-of-honor-posthumously-by-u-s-president-barack-obama.md)
 Father Emil Kapaun performed battlefield miracles, saving lives and souls of fellow Korean War POWs
 
-##### U.S.
+##### United States
 ### [In the United States, Maryland Governor Martin O'Malley decides to impose a storm management fee. ](/news/2013/04/11/in-the-united-states-maryland-governor-martin-o-malley-decides-to-impose-a-storm-management-fee.md)
 A controversial new tax for the amount of rain that falls on homes has been imposed by an environmentally-friendly governor.
 
@@ -93,7 +93,7 @@ Fast-growing bones point to SUPER-SHORT incubation period
 
 ##### sleep
 ### [A study finds that carefully timed sounds played during sleep can enhance memory. ](/news/2013/04/11/a-study-finds-that-carefully-timed-sounds-played-during-sleep-can-enhance-memory.md)
-_Context: sleep, memory_
+_Context: memory, sleep_
 
 ## [Previous Day...](/news/2013/04/10/index.md)
 

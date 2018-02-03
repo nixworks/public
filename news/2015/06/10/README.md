@@ -9,7 +9,7 @@ A suicide bomber has blown himself up near a tourist site in the Egyptian city o
 
 ##### U.S. President
 ### [President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-forces.md)
-_Context: U.S. President, Iraq, Barack Obama, Sunni Muslim_
+_Context: U.S. President, Barack Obama, Sunni Muslim, Iraq_
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [At least 43 people have been killed in fighting in Yemen. ](/news/2015/06/10/at-least-43-people-have-been-killed-in-fighting-in-yemen.md)
@@ -29,7 +29,7 @@ Pope Francis has approved the outline of a new system of accountability for Cath
 
 ##### Supreme Court
 ### [The Supreme Federal Court of Brazil strikes down a law allowing the subjects of biographies to quash works they disapprove of. ](/news/2015/06/10/the-supreme-federal-court-of-brazil-strikes-down-a-law-allowing-the-subjects-of-biographies-to-quash-works-they-disapprove-of.md)
-_Context: Brazil, Supreme Court, biographies_
+_Context: Supreme Court, Brazil, biographies_
 
 ## [Previous Day...](/news/2015/06/9/index.md)
 

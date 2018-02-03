@@ -9,15 +9,15 @@ A eerie turquoise light spotted over Norway has sparked a mystery, with suggesti
 
 ##### Israel
 ### [ Thousands of Jewish settlers stage a protest at the curbs on settlement building in the West Bank. ](/news/2009/12/9/thousands-of-jewish-settlers-stage-a-protest-at-the-curbs-on-settlement-building-in-the-west-bank.md)
-_Context: West Bank, Israel, Israeli settlement_
+_Context: Israel, Israeli settlement, West Bank_
 
 ##### British
 ### [ British Chancellor of the Exchequer Alistair Darling delivers the pre Budget report, with tax rises and spending cuts to reduce the government debt. ](/news/2009/12/9/british-chancellor-of-the-exchequer-alistair-darling-delivers-the-pre-budget-report-with-tax-rises-and-spending-cuts-to-reduce-the-governm.md)
-_Context: British, Alistair Darling, Chancellor of the Exchequer_
+_Context: Chancellor of the Exchequer, Alistair Darling, British_
 
 ##### Irish
 ### [ Irish Minister for Finance Brian Lenihan delivers the nation's Budget for 2010. ](/news/2009/12/9/irish-minister-for-finance-brian-lenihan-delivers-the-nation-s-budget-for-2010.md)
-_Context: Irish, Brian Lenihan, Jnr, Budget for 2010, Finance Minister_
+_Context: Irish, Brian Lenihan, Jnr, Finance Minister, Budget for 2010_
 
 ##### Irish Bishops Conference
 ### [ The Irish Bishops Conference apologises for the sexual abuse suffered by its children after spending the first day of its winter conference examining the Murphy Report. ](/news/2009/12/9/the-irish-bishops-conference-apologises-for-the-sexual-abuse-suffered-by-its-children-after-spending-the-first-day-of-its-winter-conference.md)
@@ -29,7 +29,7 @@ _Context: Maguindanao massacre, Philippines_
 
 ##### Irish
 ### [ A legal challenge to Ireland's abortion laws takes place at the European Court of Human Rights in Strasbourg. ](/news/2009/12/9/a-legal-challenge-to-ireland-s-abortion-laws-takes-place-at-the-european-court-of-human-rights-in-strasbourg.md)
-_Context: Strasbourg, European Court of Human Rights, Irish, Abortion in the Republic of Ireland_
+_Context: Irish, Strasbourg, European Court of Human Rights, Abortion in the Republic of Ireland_
 
 ##### Australia
 ### [ The Australian government is accused of "censorship" after it refuses visas to several North Korean artists who were to attend an international exhibition displaying their work. ](/news/2009/12/9/the-australian-government-is-accused-of-censorship-after-it-refuses-visas-to-several-north-korean-artists-who-were-to-attend-an-internati.md)
@@ -49,7 +49,7 @@ _Context: corruption, Indonesia_
 
 ##### Aung San Suu Kyi
 ### [ Aung San Suu Kyi meets with an official from the military junta for the third time, as Burmese state media accuse her of being "dishonest". ](/news/2009/12/9/aung-san-suu-kyi-meets-with-an-official-from-the-military-junta-for-the-third-time-as-burmese-state-media-accuse-her-of-being-dishonest.md)
-_Context: State Peace and Development Council, Aung San Suu Kyi, go on sale, Burma_
+_Context: Burma, go on sale, Aung San Suu Kyi, State Peace and Development Council_
 
 ##### Cobell v. Salazar
 ### [ The United States government agrees to pay $3.4 billion to settle "Cobell v. Salazar", a class-action lawsuit brought by Native American representatives who claimed that it has incorrectly accounted for Native American trust assets. ](/news/2009/12/9/the-united-states-government-agrees-to-pay-3-4-billion-to-settle-cobell-v-salazar-a-class-action-lawsuit-brought-by-native-american-re.md)
@@ -57,11 +57,11 @@ The Obama administration on Tuesday announced it would pay Native Americans $3.4
 
 ##### Congress of the Philippines
 ### [ For the first time since the return of democracy in 1986, the Congress of the Philippines is debating in a joint session to discuss whether to approve, revoke or extend the declaration of martial law in Maguindanao. ](/news/2009/12/9/for-the-first-time-since-the-return-of-democracy-in-1986-the-congress-of-the-philippines-is-debating-in-a-joint-session-to-discuss-whether.md)
-_Context: Congress of the Philippines, Maguindanao, martial law_
+_Context: Maguindanao, Congress of the Philippines, martial law_
 
 ##### North Korea
 ### [ North Korea announces for the first time an outbreak of the H1N1 swine flu virus in the country. ](/news/2009/12/9/north-korea-announces-for-the-first-time-an-outbreak-of-the-h1n1-swine-flu-virus-in-the-country.md)
-_Context: flu pandemic, North Korea, outbreak, H1N1_
+_Context: outbreak, North Korea, H1N1, flu pandemic_
 
 ## [Previous Day...](/news/2009/12/8/index.md)
 

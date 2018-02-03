@@ -5,7 +5,7 @@ Formats: [HTML](2007/10/21/index.html)  [JSON](2007/10/21/index.json)  [XML](200
 
 ##### Tokelau
 ### [ Tokelauan ex-pats in Samoa go to the polls for the Tokelauan self-determination referendum. ](/news/2007/10/21/tokelauan-ex-pats-in-samoa-go-to-the-polls-for-the-tokelauan-self-determination-referendum.md)
-_Context: Tokelau, Samoa, Tokelauan self-determination referendum_
+_Context: Samoa, Tokelau, Tokelauan self-determination referendum_
 
 ##### Turkish
 ### [ Turkish people vote in favor of a constitutional referendum on electoral reform with a 69% majority. ](/news/2007/10/21/turkish-people-vote-in-favor-of-a-constitutional-referendum-on-electoral-reform-with-a-69-majority.md)
@@ -13,23 +13,23 @@ _Context: Turkish, electoral reform, constitutional referendum_
 
 ##### 2007 Slovenian presidential elections
 ### [ Voters go to the polls in Slovenia to elect a new President, with Lojze Peterle winning most votes but not a majority. A runoff between him and Danilo Trk will be held on November 11. ](/news/2007/10/21/voters-go-to-the-polls-in-slovenia-to-elect-a-new-president-with-lojze-peterle-winning-most-votes-but-not-a-majority-a-runoff-between-him.md)
-_Context: Slovenian President, Slovenia, second round, November 11, 2007 Slovenian presidential elections, Lojze Peterle, Danilo Trk_
+_Context: 2007 Slovenian presidential elections, second round, Danilo Trk, Slovenia, November 11, Slovenian President, Lojze Peterle_
 
 ##### Marco Fu
 ### [ Marco Fu wins the 2007 Royal London Watches Grand Prix snooker tournament, defeating Ronnie O'Sullivan 9 frames to 6. ](/news/2007/10/21/marco-fu-wins-the-2007-royal-london-watches-grand-prix-snooker-tournament-defeating-ronnie-o-sullivan-9-frames-to-6.md)
-_Context: Marco Fu, 2007 Royal London Watches Grand Prix snooker tournament, Ronnie O'Sullivan_
+_Context: Ronnie O'Sullivan, 2007 Royal London Watches Grand Prix snooker tournament, Marco Fu_
 
 ##### Kyrgyzstan
 ### [ Kyrgyz people go to the polls to vote on a constitutional referendum called by President Kurmanbek Bakiyev. ](/news/2007/10/21/kyrgyz-people-go-to-the-polls-to-vote-on-a-constitutional-referendum-called-by-president-kurmanbek-bakiyev.md)
-_Context: Kyrgyzstan, constitutional changes in a referendum, president, Kurmanbek Bakiyev_
+_Context: constitutional changes in a referendum, Kurmanbek Bakiyev, Kyrgyzstan, president_
 
 ##### Washington Institute for Near East Policy
 ### [ Speaking at the Washington Institute for Near East Policy, United States Vice President Dick Cheney states: "The United States joins other nations in sending a clear message - we will not allow Iran to have a nuclear weapon." ](/news/2007/10/21/speaking-at-the-washington-institute-for-near-east-policy-united-states-vice-president-dick-cheney-states-the-united-states-joins-other.md)
-_Context: nuclear weapon, Washington Institute for Near East Policy, Iran, U.S. Vice President, U.S., Dick Cheney_
+_Context: Washington Institute for Near East Policy, Dick Cheney, Iran, nuclear weapon, U.S. Vice President, United States_
 
 ##### factory
 ### [ A fire in an illegal shoe factory kills at least 34 people in Putian in Fujian province, China. ](/news/2007/10/21/a-fire-in-an-illegal-shoe-factory-kills-at-least-34-people-in-putian-in-fujian-province-china.md)
-_Context: factory, Chinese, Putian, Fujian_
+_Context: factory, China, Putian, Fujian_
 
 ##### Boston Red Sox
 ### [ The Boston Red Sox defeat the Cleveland Indians 11-2 winning the 2007 American League Championship Series and going on to meet the Colorado Rockies, the 2007 National League champions, in the 2007 World Series. ](/news/2007/10/21/the-boston-red-sox-defeat-the-cleveland-indians-11-2-winning-the-2007-american-league-championship-series-and-going-on-to-meet-the-colorado.md)
@@ -45,7 +45,7 @@ _Context: bank, United States Treasury_
 
 ##### Jaroslaw Kaczynski
 ### [ Polish Prime Minister Jaroslaw Kaczynski is conceding defeat as exit polls give Donald Tusk's Civic Platform a large lead over his ruling nationalists in the parliamentary elections. ](/news/2007/10/21/polish-prime-minister-jaroslaw-kaczynski-is-conceding-defeat-as-exit-polls-give-donald-tusk-s-civic-platform-a-large-lead-over-his-ruling-n.md)
-_Context: Civic Platform, parliamentary elections, Jaroslaw Kaczynski, Donald Tusk_
+_Context: Donald Tusk, Jaroslaw Kaczynski, Civic Platform, parliamentary elections_
 
 ##### Kimi Rikknen
 ### [ Kimi Rikknen wins the 2007 Formula One World Drivers Championship. ](/news/2007/10/21/kimi-raikkonen-wins-the-2007-formula-one-world-drivers-championship.md)
@@ -57,19 +57,19 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Soyuz TMA-10
 ### [ Soyuz TMA-10 lands safely outside Arkalyk, 340 km short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-340-km-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-glitch.md)
-_Context: Arkalyk, Kazakhstan, Soyuz TMA-10_
+_Context: Arkalyk, Soyuz TMA-10, Kazakhstan_
 
 ##### 2007 Ogaden conflict
 ### [ 2007 Ogaden conflict: A rebel group in eastern Ethiopia, the Ogaden National Liberation Front, says it has carried out an attack on government troops, killing 140 troops. ](/news/2007/10/21/2007-ogaden-conflict-a-rebel-group-in-eastern-ethiopia-the-ogaden-national-liberation-front-says-it-has-carried-out-an-attack-on-governm.md)
-_Context: Ethiopia, 2007 Ogaden conflict, Ogaden National Liberation Front_
+_Context: Ogaden National Liberation Front, Ethiopia, 2007 Ogaden conflict_
 
 ##### Switzerland
 ### [ Swiss voters go to the polls for the Swiss federal election, 2007, with the right-wing Swiss People's Party set to win. ](/news/2007/10/21/swiss-voters-go-to-the-polls-for-the-swiss-federal-election-2007-with-the-right-wing-swiss-people-s-party-set-to-win.md)
-_Context: 2007 election, Switzerland, Swiss People's Party_
+_Context: 2007 election, Swiss People's Party, Switzerland_
 
 ##### Chinese
 ### [ Three of the Peoples Republic of China's top politicians, namely, Vice-President Zeng Qinghong, anti-corruption chief Wu Guanzheng, and Luo Gan, are dropped from the Communist Party of China's Central Committee. Also retiring are Vice-Premier Wu Yi, Vice-Premier Zeng Peiyan, and Defence Minister Cao Gangchuan. Hu's "Scientific Development Concept" is enshrined in the Party Constitution. ](/news/2007/10/21/three-of-the-peoples-republic-of-china-s-top-politicians-namely-vice-president-zeng-qinghong-anti-corruption-chief-wu-guanzheng-and-luo.md)
-_Context: Zeng Peiyan, Chinese, Zeng Qinghong, Wu Guanzheng, Wu Yi, Scientific Development Concept, Communist Party of China, Luo Gan, Cao Gangchuan, Central Committee_
+_Context: Zeng Qinghong, Zeng Peiyan, Wu Guanzheng, Central Committee, Communist Party of China, Cao Gangchuan, Luo Gan, Chinese, Scientific Development Concept, Wu Yi_
 
 ## [Previous Day...](/news/2007/10/20/index.md)
 

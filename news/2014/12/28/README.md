@@ -29,7 +29,7 @@ Twenty-four people have been killed and eight others are missing due to floods a
 
 ##### San Antonio
 ### [An apartment building fire near San Antonio, Texas, USA, kills five people. ](/news/2014/12/28/an-apartment-building-fire-near-san-antonio-texas-usa-kills-five-people.md)
-_Context: Texas, San Antonio_
+_Context: San Antonio, Texas_
 
 ##### Croatian presidential election
 ### [The Croatian presidential election goes to a run-off between incumbent Ivo Josipovic and challenger Kolinda Grabar-Kitarovic. ](/news/2014/12/28/the-croatian-presidential-election-goes-to-a-run-off-between-incumbent-ivo-josipovia-and-challenger-kolinda-grabar-kitarovia.md)

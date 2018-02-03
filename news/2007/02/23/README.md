@@ -9,31 +9,31 @@ Though clashes in the town of Khan Younis were being portrayed in the Palestinia
 
 ##### control
 ### [ The United States and South Korea reach agreement to return control over South Korea's military to South Korea by 2012. ](/news/2007/02/23/the-united-states-and-south-korea-reach-agreement-to-return-control-over-south-korea-s-military-to-south-korea-by-2012.md)
-_Context: control, South Korea's military, 2012_
+_Context: South Korea's military, control, 2012_
 
 ##### Prime Minister
 ### [ Prime Minister of Papua New Guinea Michael Somare disbands an inquiry into the extradition of Julian Moti to the Solomon Islands to avoid extradition to Australia. ](/news/2007/02/23/prime-minister-of-papua-new-guinea-michael-somare-disbands-an-inquiry-into-the-extradition-of-julian-moti-to-the-solomon-islands-to-avoid-e.md)
-_Context: Julian Moti, extradition, Solomon Islands, Prime Minister, Michael Somare_
+_Context: Solomon Islands, Prime Minister, Julian Moti, Michael Somare, extradition_
 
 ##### Oslo
 ### [ At a summit in Oslo, Norway, forty-six nations agree to work towards a treaty banning the use of cluster bombs. ](/news/2007/02/23/at-a-summit-in-oslo-norway-forty-six-nations-agree-to-work-towards-a-treaty-banning-the-use-of-cluster-bombs.md)
-_Context: Oslo, treaty, cluster bomb_
+_Context: cluster bomb, Oslo, treaty_
 
 ##### Grayrigg derailment
 ### [ Grayrigg derailment: A Virgin Pendolino train derails in Cumbria, United Kingdom, killing one person and injuring dozens more. ](/news/2007/02/23/grayrigg-derailment-a-virgin-pendolino-train-derails-in-cumbria-united-kingdom-killing-one-person-and-injuring-dozens-more.md)
-_Context: Grayrigg derailment, Virgin Trains, Cumbria, Pendolino_
+_Context: Cumbria, Grayrigg derailment, Pendolino, Virgin Trains_
 
 ##### Democrat
 ### [ Democratic Party members of the United States Senate are planning a challenge to the authority given to President Bush in 2002. ](/news/2007/02/23/democratic-party-members-of-the-united-states-senate-are-planning-a-challenge-to-the-authority-given-to-president-bush-in-2002.md)
-_Context: 2002, Democrat, authority, George W. Bush, United States Senate_
+_Context: authority, Democrat, United States Senate, 2002, George W. Bush_
 
 ##### nursing home
 ### [ A fire in a nursing home in Alsunga, Latvia, kills at least 26 people. ](/news/2007/02/23/a-fire-in-a-nursing-home-in-alsunga-latvia-kills-at-least-26-people.md)
-_Context: nursing home, Latvia, Alsunga_
+_Context: Alsunga, Latvia, nursing home_
 
 ##### Pakistan
 ### [ Pakistan successfully tests a new version of its Shaheen-II missile]] capable of carrying nuclear warheads. ](/news/2007/02/23/pakistan-successfully-tests-a-new-version-of-its-shaheen-ii-missile-capable-of-carrying-nuclear-warheads.md)
-_Context: Pakistan, Shaheen-II, nuclear warheads_
+_Context: nuclear warheads, Pakistan, Shaheen-II_
 
 ##### Sri Lanka Navy
 ### [ The Sri Lanka Navy sinks two Tamil Tiger boats off the northwest coast killing nine rebels. ](/news/2007/02/23/the-sri-lanka-navy-sinks-two-tamil-tiger-boats-off-the-northwest-coast-killing-nine-rebels.md)
@@ -41,7 +41,7 @@ _Context: Tamil Tiger, Sri Lanka Navy_
 
 ##### NSW
 ### [ New South Wales, Queensland and South Australia as well as the Australian Capital Territory have agreed to hand over control of the Murray-Darling basin to the federal government. Negotiations continue with Victoria. ](/news/2007/02/23/new-south-wales-queensland-and-south-australia-as-well-as-the-australian-capital-territory-have-agreed-to-hand-over-control-of-the-murraya.md)
-_Context: Murray-Darling basin, NSW, Victoria, Australian Capital Territory, Queensland, Government of Australia, South Australia_
+_Context: Australian Capital Territory, Government of Australia, Victoria, Murray-Darling basin, Queensland, NSW, South Australia_
 
 ## [Previous Day...](/news/2007/02/22/index.md)
 

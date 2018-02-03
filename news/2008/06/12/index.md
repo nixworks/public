@@ -5,11 +5,11 @@ Formats: [HTML](2008/06/12/index.html)  [JSON](2008/06/12/index.json)  [XML](200
 
 ##### Wildfire
 ### [ Wildfires in northern California lead to the evacuation of residents in Paradise, California and Bonny Doon, California. ](/news/2008/06/12/wildfires-in-northern-california-lead-to-the-evacuation-of-residents-in-paradise-california-and-bonny-doon-california.md)
-_Context: Bonny Doon, California, Paradise, California, California, Wildfire_
+_Context: Bonny Doon, California, Wildfire, Paradise, California, California_
 
 ##### Ecuador
 ### [ Ecuadorean police arrest four men including three Colombians on suspicion of plotting an assassination of the President of Ecuador Rafael Correa. ](/news/2008/06/12/ecuadorean-police-arrest-four-men-including-three-colombians-on-suspicion-of-plotting-an-assassination-of-the-president-of-ecuador-rafael-c.md)
-_Context: Rafael Correa, President, Ecuador, Colombia_
+_Context: Ecuador, Colombia, President, Rafael Correa_
 
 ##### Tendai Biti
 ### [ Tendai Biti, the Secretary of the Movement for Democratic Change in Zimbabwe, is arrested in Harare. ](/news/2008/06/12/tendai-biti-the-secretary-of-the-movement-for-democratic-change-in-zimbabwe-is-arrested-in-harare.md)
@@ -17,35 +17,35 @@ The secretary general of Zimbabwe&#039;s Opposition, the Movement for Democratic
 
 ##### Cedar Rapids
 ### [ Four thousand homes in Cedar Rapids, Iowa are evacuated as the Cedar River floods due to heavy rain in recent days. ](/news/2008/06/12/four-thousand-homes-in-cedar-rapids-iowa-are-evacuated-as-the-cedar-river-floods-due-to-heavy-rain-in-recent-days.md)
-_Context: Cedar River, Cedar Rapids_
+_Context: Cedar Rapids, Cedar River_
 
 ##### David Davis
 ### [ David Davis, the Conservative Shadow Home Secretary resigns as the Member of Parliament for Haltemprice and Howden in order to contest the Haltemprice and Howden by-election, 2008 on civil liberties issues. ](/news/2008/06/12/david-davis-the-conservative-shadow-home-secretary-resigns-as-the-member-of-parliament-for-haltemprice-and-howden-in-order-to-contest-the.md)
-_Context: Haltemprice and Howden by-election, Conservative Party, civil liberties, Haltemprice and Howden, Shadow Home Secretary, David Davis, MP_
+_Context: Shadow Home Secretary, Conservative Party, Haltemprice and Howden by-election, David Davis, Haltemprice and Howden, civil liberties, MP_
 
 ##### Salmonella
 ### [ The Salmonella outbreak in the United States caused by tainted tomatoes continues to worsen with 228 victims in 23 states. ](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.md)
-_Context: Salmonella, U.S., tomato_
+_Context: tomato, Salmonella, United States_
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Robert Gates invites Pakistan and Afghanistan to participate in an investigation of the Gora Prai airstrike. ](/news/2008/06/12/the-united-states-secretary-of-defense-robert-gates-invites-pakistan-and-afghanistan-to-participate-in-an-investigation-of-the-gora-prai-ai.md)
-_Context: Afghanistan, Pakistan, Gora Prai airstrike, Robert Gates, United States Secretary of Defense_
+_Context: Pakistan, Robert Gates, Afghanistan, United States Secretary of Defense, Gora Prai airstrike_
 
 ##### Cuba
 ### [ Cuban hurdler Dayron Robles sets a world record of 12.87 seconds for the 110 metre hurdles at a Golden Spike meet in Ostrava, Czech Republic. ](/news/2008/06/12/cuban-hurdler-dayron-robles-sets-a-world-record-of-12-87-seconds-for-the-110-metre-hurdles-at-a-golden-spike-meet-in-ostrava-czech-republi.md)
-_Context: Ostrava, 110 metre hurdles, world record, Dayron Robles, Czech Republic, Cuba_
+_Context: Cuba, 110 metre hurdles, Dayron Robles, world record, Ostrava, Czech Republic_
 
 ##### international aid
 ### [ More than 80 countries and international aid organisations meet in Paris to develop a strategy for delivering billions of dollars in aid to Afghanistan. ](/news/2008/06/12/more-than-80-countries-and-international-aid-organisations-meet-in-paris-to-develop-a-strategy-for-delivering-billions-of-dollars-in-aid-to.md)
-_Context: Paris, Afghanistan, international aid_
+_Context: international aid, Afghanistan, Paris_
 
 ##### China
 ### [ The People's Republic of China and Taiwan begin their first formal talks in a decade on improving cross-strait relations. ](/news/2008/06/12/the-people-s-republic-of-china-and-taiwan-begin-their-first-formal-talks-in-a-decade-on-improving-cross-strait-relations.md)
-_Context: Taiwan, cross-strait relations, China_
+_Context: China, cross-strait relations, Taiwan_
 
 ##### Ireland
 ### [ Irish voters go to the polls for the Twenty-eighth Amendment of the Constitution of Ireland to enable ratification of the Treaty of Lisbon of the European Union. ](/news/2008/06/12/irish-voters-go-to-the-polls-for-the-twenty-eighth-amendment-of-the-constitution-of-ireland-to-enable-ratification-of-the-treaty-of-lisbon.md)
-_Context: the second Irish referendum, European Union, Treaty of Lisbon, ratification, Ireland_
+_Context: Treaty of Lisbon, the second Irish referendum, European Union, Ireland, ratification_
 
 ##### Boumediene v. Bush
 ### [ In "Boumediene v. Bush", the U.S. Supreme Court holds that foreign terrorism suspects held at Guantanamo Bay have constitutional rights to challenge their detention there in US courts. ](/news/2008/06/12/in-boumediene-v-bush-the-u-s-supreme-court-holds-that-foreign-terrorism-suspects-held-at-guanta-namo-bay-have-constitutional-rights-to.md)
@@ -53,7 +53,7 @@ The Supreme Court rejected the Bush administration’s argument that the Guantá
 
 ##### Washington Capitals
 ### [ Washington Capitals forward Alexander Ovechkin wins the Hart Memorial Trophy as most valuable player for the National Hockey League 2007-2008 season as well as the Art Ross Trophy for most points and the Rocket Richard Trophy for top goal scorer. ](/news/2008/06/12/washington-capitals-forward-alexander-ovechkin-wins-the-hart-memorial-trophy-as-most-valuable-player-for-the-national-hockey-league-2007-20.md)
-_Context: National Hockey League, Hart Memorial Trophy, Art Ross Trophy, Alexander Ovechkin, Washington Capitals, Rocket Richard Trophy_
+_Context: Art Ross Trophy, Alexander Ovechkin, Rocket Richard Trophy, National Hockey League, Hart Memorial Trophy, Washington Capitals_
 
 ##### Bill C-61
 ### [ Bill C-61, An Act to amend the Copyright Act, is tabled in the second session of the 39th Canadian Parliament by Minister of Industry Jim Prentice, in efforts to better comply to the WIPO treaty. ](/news/2008/06/12/bill-c-61-an-act-to-amend-the-copyright-act-is-tabled-in-the-second-session-of-the-39th-canadian-parliament-by-minister-of-industry-jim-p.md)

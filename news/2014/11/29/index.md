@@ -17,11 +17,11 @@ _Context: Shani, Nigeria, Christian, Boko Haram_
 
 ##### President
 ### [A Cairo court clears former President of Egypt Hosni Mubarak on murder charges related to the death of hundreds of protesters in the 2011 Egyptian revolution. ](/news/2014/11/29/a-cairo-court-clears-former-president-of-egypt-hosni-mubarak-on-murder-charges-related-to-the-death-of-hundreds-of-protesters-in-the-2011-eg.md)
-_Context: 2011 Egyptian revolution, Hosni Mubarak, President_
+_Context: Hosni Mubarak, 2011 Egyptian revolution, President_
 
 ##### Shooting of Michael Brown
 ### [Ferguson PD officer Darren Wilson resigns following a grand jury decision not to indict him in the Michael Brown case. ](/news/2014/11/29/ferguson-pd-officer-darren-wilson-resigns-following-a-grand-jury-decision-not-to-indict-him-in-the-michael-brown-case.md)
-_Context: police force, Shooting of Michael Brown, indicted_
+_Context: Shooting of Michael Brown, police force, indicted_
 
 ##### Jiang Yi-huah
 ### [Jiang Yi-huah resigns as the Premier of Taiwan as the ruling Kuomintang suffers heavy losses in local government elections. ](/news/2014/11/29/jiang-yi-huah-resigns-as-the-premier-of-taiwan-as-the-ruling-kuomintang-suffers-heavy-losses-in-local-government-elections.md)
@@ -29,7 +29,7 @@ Jiang Yi-huah announced that he had stepped down, saying that he took “politic
 
 ##### 2014 pro-democracy street protests
 ### [Thousands of pro-democracy demonstrators clash with police in the Mong Kok district as they try to reclaim their former protest site. ](/news/2014/11/29/thousands-of-pro-democracy-demonstrators-clash-with-police-in-the-mong-kok-district-as-they-try-to-reclaim-their-former-protest-site.md)
-_Context: 2014 pro-democracy street protests, Mong Kok_
+_Context: Mong Kok, 2014 pro-democracy street protests_
 
 ##### Sunni Muslim
 ### [Sunni candidates retain a majority of seats in the Bahraini Council of Representatives after an election which was boycotted by the main Shi'ite opposition. ](/news/2014/11/29/sunni-candidates-retain-a-majority-of-seats-in-the-bahraini-council-of-representatives-after-an-election-which-was-boycotted-by-the-main-shi.md)
@@ -41,7 +41,7 @@ Coalition leader Denis Napthine has conceded defeat and announced that he will b
 
 ##### UMP
 ### [The Union for a Popular Movement reelects former French President Nicolas Sarkozy, as the party leader. ](/news/2014/11/29/the-union-for-a-popular-movement-reelects-former-french-president-nicolas-sarkozy-as-the-party-leader.md)
-_Context: Nicolas Sarkozy, UMP, French President_
+_Context: French President, UMP, Nicolas Sarkozy_
 
 ## [Previous Day...](/news/2014/11/28/index.md)
 

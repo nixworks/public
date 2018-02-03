@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/8/index.html)  [JSON](2013/01/8/index.json)  [XML](2013/
 
 ##### U.S.
 ### [Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md)
-_Context: drone strike, U.S., Pakistan, North Waziristan_
+_Context: drone strike, Pakistan, U.S., North Waziristan_
 
 ##### protests
 ### [In a fifth night of protests in Belfast, protestors throw rocks, "missiles", and petrol bombs at police, with law enforcement responding with water cannons and plastic bullets. ](/news/2013/01/8/in-a-fifth-night-of-protests-in-belfast-protestors-throw-rocks-missiles-and-petrol-bombs-at-police-with-law-enforcement-responding-wit.md)
@@ -33,7 +33,7 @@ More than 100 wildfires have broken out across Australia&#039;s east coast and f
 
 ##### British
 ### [A new inquest begins into the death of British singer Amy Winehouse after it was discovered that the original coroner was not qualified to conduct the inquiry. A second inquiry into Winehouse's death concludes that the singer died of alcohol poisoning. ](/news/2013/01/8/a-new-inquest-begins-into-the-death-of-british-singer-amy-winehouse-after-it-was-discovered-that-the-original-coroner-was-not-qualified-to-c.md)
-_Context: coroner, alcohol poisoning, Amy Winehouse, British_
+_Context: coroner, Amy Winehouse, alcohol poisoning, British_
 
 ##### Illinois
 ### [An Illinois man is killed by cyanide poisoning after winning the lottery. ](/news/2013/01/8/an-illinois-man-is-killed-by-cyanide-poisoning-after-winning-the-lottery.md)
@@ -41,19 +41,19 @@ _Context: Illinois, cyanide poisoning_
 
 ##### Venezuela
 ### [The Venezuelan government announces that Hugo Chavez is in stable condition, and is still receiving medical treatment for a respiratory infection. ](/news/2013/01/8/the-venezuelan-government-announces-that-hugo-cha-vez-is-in-stable-condition-and-is-still-receiving-medical-treatment-for-a-respiratory-inf.md)
-_Context: Hugo Chavez, Venezuela, Venezuelan government_
+_Context: Venezuelan government, Venezuela, Hugo Chavez_
 
 ##### Roberto Maroni
 ### [Roberto Maroni announces that an electoral pact signed between his Lega Nord party and Silvio Berlusconi's People of Freedom party explicitly rules out Berlusconi assuming the Prime Minister of Italy position again. ](/news/2013/01/8/roberto-maroni-announces-that-an-electoral-pact-signed-between-his-lega-nord-party-and-silvio-berlusconi-s-people-of-freedom-party-explicitl.md)
-_Context: People of Freedom, Roberto Maroni, Silvio Berlusconi, Lega Nord, Italian Prime Minister_
+_Context: Lega Nord, People of Freedom, Silvio Berlusconi, Italian Prime Minister, Roberto Maroni_
 
 ##### Bob Brown
 ### [Bob Brown, former leader of the Australian Greens, becomes the President of the Sea Shepherd Conservation Society leading the campaign against Japanese whaling in the Southern Ocean. ](/news/2013/01/8/bob-brown-former-leader-of-the-australian-greens-becomes-the-president-of-the-sea-shepherd-conservation-society-leading-the-campaign-again.md)
 Bob Brown will spearhead Sea Shepherd Society&#039;s next anti-whaling protest in the Southern Ocean.
 
-##### U.S.
+##### United States
 ### [The United States records its hottest year on record in 2012. ](/news/2013/01/8/the-united-states-records-its-hottest-year-on-record-in-2012.md)
-_Context: U.S._
+_Context: United States_
 
 ## [Previous Day...](/news/2013/01/7/index.md)
 

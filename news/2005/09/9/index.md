@@ -5,19 +5,19 @@ Formats: [HTML](2005/09/9/index.html)  [JSON](2005/09/9/index.json)  [XML](2005/
 
 ##### Department of Homeland Security
 ### [ United States Department of Homeland Security Secretary Michael Chertoff appoints Vice Admiral Thad W. Allen, chief of staff of the United States Coast Guard, to direct Hurricane Katrina relief efforts in New Orleans, in place of Federal Emergency Management Agency director Michael D. Brown, who returns to Washington to direct planning for future disaster relief. ](/news/2005/09/9/united-states-department-of-homeland-security-secretary-michael-chertoff-appoints-vice-admiral-thad-w-allen-chief-of-staff-of-the-united.md)
-_Context: Michael Brown, Secretary of Homeland Security, United States Coast Guard, Hurricane Katrina, Department of Homeland Security, Thad W. Allen, Michael Chertoff, federal aid_
+_Context: federal aid, Michael Brown, Department of Homeland Security, Secretary of Homeland Security, Michael Chertoff, United States Coast Guard, Thad W. Allen, Hurricane Katrina_
 
 ##### Belgian Air Force
 ### [ During a military exercise, a Belgian Air Force F-16 fighter jet crashes in the Wadden Sea (Waddenzee), near the Dutch island of Vlieland. The pilot failed to eject, and died in the crash. ](/news/2005/09/9/during-a-military-exercise-a-belgian-air-force-f-16-fighter-jet-crashes-in-the-wadden-sea-waddenzee-near-the-dutch-island-of-vlieland.md)
-_Context: ejected, Wadden Sea, Netherlands, Belgian Air Force, Vlieland, F-16_
+_Context: Wadden Sea, Netherlands, Vlieland, ejected, Belgian Air Force, F-16_
 
 ##### China
 ### [ People's Republic of China President Hu Jintao meets with Canadian Prime Minister Paul Martin in Ottawa. The event is met with protesters and supporters of the Chinese government. Martin and Hu agree on a new "Strategic Partnership", and sign a series of agreements on transportation, food inspection, and scientific research. Hu also meets with Governor General Adrienne Clarkson. ](/news/2005/09/9/people-s-republic-of-china-president-hu-jintao-meets-with-canadian-prime-minister-paul-martin-in-ottawa-the-event-is-met-with-protesters-a.md)
-_Context: Prime Minister of Canada, Paul Martin, China, Hu Jintao, Canadian, Chinese President, Governor General of Canada, Adrienne Clarkson_
+_Context: Prime Minister of Canada, Chinese President, China, Governor General of Canada, Canadian, Paul Martin, Hu Jintao, Adrienne Clarkson_
 
 ##### grand jury
 ### [ A federal grand jury in Providence, Rhode Island indicts Richard Hatch, winner of "Survivor: Pulau Tiga", for income tax evasion and fraud for allegedly failing to pay taxes on his winnings and misusing charity funds. ](/news/2005/09/9/a-federal-grand-jury-in-providence-rhode-island-indicts-richard-hatch-winner-of-survivor-pulau-tiga-for-income-tax-evasion-and-fraud.md)
-_Context: Rhode Island, Richard Hatch, presumption of innocence, fraud, grand jury, evasion, Providence, Rhode Island, indicted, Survivor: Pulau Tiga, income tax_
+_Context: Richard Hatch, evasion, indicted, Providence, Rhode Island, presumption of innocence, Rhode Island, income tax, fraud, Survivor: Pulau Tiga, grand jury_
 
 ##### earthquake
 ### [ An earthquake measuring 7.3 on the Richter scale is detected off the eastern coast of Papua New Guinea, though no damage has been recorded. ](/news/2005/09/9/an-earthquake-measuring-7-3-on-the-richter-scale-is-detected-off-the-eastern-coast-of-papua-new-guinea-though-no-damage-has-been-recorded.md)

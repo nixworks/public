@@ -9,7 +9,7 @@ A blast alongside a convoy of vehicles used by Yemen’s defense minister came o
 
 ##### Somalia
 ### [In Somalia, more than fifty Al-Shabaab fighters are killed as African Union Kenyan peacekeepers, and the Somali National Army, continue their march towards the port city of Kismayo. ](/news/2012/09/11/in-somalia-more-than-fifty-al-shabaab-fighters-are-killed-as-african-union-kenyan-peacekeepers-and-the-somali-national-army-continue-thei.md)
-_Context: Kenyan army forces, AMISOM, Kismayo, Somalia, Al-Shabaab, Somali National Army, African Union_
+_Context: AMISOM, Kismayo, Somali National Army, Al-Shabaab, Kenyan army forces, Somalia, African Union_
 
 ##### Taliban
 ### [Taliban bombard Bagram Air Base. They kill three people and destroy a helicopter, wounding three personnel on board. ](/news/2012/09/11/taliban-bombard-bagram-air-base-they-kill-three-people-and-destroy-a-helicopter-wounding-three-personnel-on-board.md)
@@ -47,29 +47,29 @@ _Context: Nepal_
 ### [China dispatches two Chinese Marine Surveillance patrol boats to the islands in order to "safeguard its sovereignty" over the territory. ](/news/2012/09/11/china-dispatches-two-chinese-marine-surveillance-patrol-boats-to-the-islands-in-order-to-safeguard-its-sovereignty-over-the-territory.md)
 China summoned Japan’s ambassador to protest sovereignty of islands in dispute today, according to a statement posted on the Ministry of Foreign Affairs website today.
 
-##### U.S.
+##### United States
 ### [Newly declassified documents confirm that the United States deliberately ignored Soviet involvement in the 1940 Katyn massacre, despite credible evidence to the contrary provided no later than 1943. While until 1945 this choice could be explained as World War II grand strategy, it is not known why the White House remained silent on the matter until now. ](/news/2012/09/11/newly-declassified-documents-confirm-that-the-united-states-deliberately-ignored-soviet-involvement-in-the-1940-katyn-massacre-despite-cred.md)
-_Context: U.S., White House, Soviet, Katyn massacre, World War II_
+_Context: White House, Soviet, World War II, Katyn massacre, United States_
 
 ##### White House
 ### [A White House spokesperson says that a Presidential executive order is being considered to ensure the United States' cybersecurity if Congress remains deadlocked over a "CISPA" law. ](/news/2012/09/11/a-white-house-spokesperson-says-that-a-presidential-executive-order-is-being-considered-to-ensure-the-united-states-cybersecurity-if-congre.md)
-_Context: "CISPA", executive order, lawmakers, White House, U.S._
+_Context: United States, executive order, "CISPA", lawmakers, White House_
 
 ##### Frankfurter Allgemeine
 ### [Sources tell the "Frankfurter Allgemeine" newspaper that the German military spying agency MAD tried to recruit Uwe Mundlos in 1995. Mundlos refused to cooperate and subsequently participated in ten terrorist murders with the nazi group NSU. He died in 2011; police say he committed suicide. ](/news/2012/09/11/sources-tell-the-frankfurter-allgemeine-newspaper-that-the-german-military-spying-agency-mad-tried-to-recruit-uwe-mundlos-in-1995-mundlos.md)
-_Context: Frankfurter Allgemeine, MAD, Uwe Mundlos, NSU_
+_Context: NSU, MAD, Uwe Mundlos, Frankfurter Allgemeine_
 
 ##### Egypt
 ### [Egypt presses formal charges against Gamel and Alaa Mubarak, sons of ousted president Hosni Mubarak, and Ahmed Shafiq, a recent presidential candidate, over alleged illegal acquisition of land. An arrest warrant has been issued against Shafiq, now a resident in the United Arab Emirates. ](/news/2012/09/11/egypt-presses-formal-charges-against-gamel-and-alaa-mubarak-sons-of-ousted-president-hosni-mubarak-and-ahmed-shafiq-a-recent-presidential.md)
-_Context: Ahmed Shafik, Hosni Mubarak, Alaa Mubarak, Gamel, United Arab Emirates, Egypt_
+_Context: Ahmed Shafik, Hosni Mubarak, United Arab Emirates, Alaa Mubarak, Gamel, Egypt_
 
-##### U.S.
+##### United States
 ### [The United States commemorates the victims of the terrorist attacks of September 11, 2001. For the first time, no special security alert is raised on the anniversary of the attacks. ](/news/2012/09/11/the-united-states-commemorates-the-victims-of-the-terrorist-attacks-of-september-11-2001-for-the-first-time-no-special-security-alert-is.md)
 NEW YORK -- With bagpipes and somber bells sounding a sharp counterpoint to the commemorative moments of silence, the nation on Tuesday marked the 11th anniversary of the terrorist attack that...
 
 ##### Barcelona
 ### [Barcelona's streets are paralyzed as protesters peacefully demand independence on the National Day of Catalonia. Police say the demonstrators numbered 1.5 million; organizers estimate the numbers at 2 million. No incidences of violence are reported. The protest is the largest in Catalonia's history. ](/news/2012/09/11/barcelona-s-streets-are-paralyzed-as-protesters-peacefully-demand-independence-on-the-national-day-of-catalonia-police-say-the-demonstrator.md)
-_Context: Catalonia's, Barcelona, National Day of Catalonia, demonstration for independence_
+_Context: National Day of Catalonia, Barcelona, demonstration for independence, Catalonia's_
 
 ##### Cairo
 ### [Protestors in Cairo condemn a film promoted by controversial American pastor Terry Jones as a "humiliation of Muhammad under the pretext of freedom of speech". They climb over the walls of the US Embassy and tear down an American flag, replacing it with a black flag inscribed with Islamic emblems. Egyptian police have surrounded the compound to block further incursions. ](/news/2012/09/11/protestors-in-cairo-condemn-a-film-promoted-by-controversial-american-pastor-terry-jones-as-a-humiliation-of-muhammad-under-the-pretext-of.md)

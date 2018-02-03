@@ -29,11 +29,11 @@ _Context: 2015 Colombian landslide, Colombia, Salgar_
 
 ##### Germanwings Flight 9525
 ### [French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been-identified-and-their-bod.md)
-_Context: French-born, France, Germanwings Flight 9525_
+_Context: French-born, Germanwings Flight 9525, France_
 
 ##### Baku
 ### [ At least 16 people are killed and scores are injured in a residential building fire in Baku, Azerbaijan. ](/news/2015/05/19/at-least-16-people-are-killed-and-scores-are-injured-in-a-residential-building-fire-in-baku-azerbaijan.md)
-_Context: Baku, Azerbaijan_
+_Context: Azerbaijan, Baku_
 
 ##### Norwegian Cruise Line's
 ### [ Norwegian Cruise Line's "Norwegian Dawn" ran aground three miles off Bermuda when departing for a return trip to Boston, Massachusetts, U.S.A.. ](/news/2015/05/19/norwegian-cruise-line-s-norwegian-dawn-ran-aground-three-miles-off-bermuda-when-departing-for-a-return-trip-to-boston-massachusetts-u-s.md)
@@ -57,7 +57,7 @@ Mohawk Industries Inc and fiveother companies have agreed to pay a combined $275
 
 ##### Presidents
 ### [The President of Burundi Pierre Nkurunziza says that the government will proceed with a presidential election despite protests and a recent failed coup. ](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.md)
-_Context: Presidents, failed coup, Burundian presidential election, 2015, 2015 Burundian unrest, Pierre Nkurunziza_
+_Context: Pierre Nkurunziza, failed coup, Burundian presidential election, 2015, 2015 Burundian unrest, Presidents_
 
 ##### lawmakers
 ### [The United States Congress sends a human trafficking bill to President Barack Obama for signature. ](/news/2015/05/19/the-united-states-congress-sends-a-human-trafficking-bill-to-president-barack-obama-for-signature.md)

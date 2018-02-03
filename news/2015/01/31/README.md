@@ -5,7 +5,7 @@ Formats: [HTML](2015/01/31/index.html)  [JSON](2015/01/31/index.json)  [XML](201
 
 ##### military intervention in Ukraine
 ### [Ukraine and Russian-backed separatists conduct peace talks as fighting rages in eastern Ukraine. ](/news/2015/01/31/ukraine-and-russian-backed-separatists-conduct-peace-talks-as-fighting-rages-in-eastern-ukraine.md)
-_Context: eastern Ukraine, Russia, military intervention in Ukraine, Ukraine_
+_Context: Russia, eastern Ukraine, military intervention in Ukraine, Ukraine_
 
 ##### DR Congo
 ### [The Democratic Republic of the Congo launches a campaign against Hutu rebels. ](/news/2015/01/31/the-democratic-republic-of-the-congo-launches-a-campaign-against-hutu-rebels.md)
@@ -21,11 +21,11 @@ _Context: Indonesia AirAsia Flight 8501, France_
 
 ##### Italian presidential election, 2015
 ### [Voters elect Sergio Mattarella President of Italy. ](/news/2015/01/31/voters-elect-sergio-mattarella-president-of-italy.md)
-_Context: Sergio Mattarella, President of Italy, Italian presidential election, 2015_
+_Context: Italian presidential election, 2015, Sergio Mattarella, President of Italy_
 
 ##### Richard von Weizsacker
 ### [Richard von Weizsacker, who was president of West Germany from 1984 to 1990 and became the first president of reunified Germany from 1990 to 1994, dies at the age of 94. ](/news/2015/01/31/richard-von-weizsa-cker-who-was-president-of-west-germany-from-1984-to-1990-and-became-the-first-president-of-reunified-germany-from-1990-t.md)
-_Context: West German, reunified Germany, Richard von Weizsacker_
+_Context: Richard von Weizsacker, reunified Germany, West German_
 
 ##### Queensland state election, 2015
 ### [The Liberal National Party of Queensland loses its parliamentary majority, with outgoing Premier Campbell Newman losing his own seat of Ashgrove. It is unclear whether the Australian Labor Party, led by Annastacia Palaszczuk, has won an outright majority or if the result is a hung parliament.](/news/2015/01/31/the-liberal-national-party-of-queensland-loses-its-parliamentary-majority-with-outgoing-premier-campbell-newman-losing-his-own-seat-of-ashg.md)

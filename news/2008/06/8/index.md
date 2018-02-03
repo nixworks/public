@@ -5,7 +5,7 @@ Formats: [HTML](2008/06/8/index.html)  [JSON](2008/06/8/index.json)  [XML](2008/
 
 ##### Two bombs explode
 ### [ Two bombs explode at a train station near Algiers, Algeria, killing at least 12 people. ](/news/2008/06/8/two-bombs-explode-at-a-train-station-near-algiers-algeria-killing-at-least-12-people.md)
-_Context: Algiers, Two bombs explode, Algeria_
+_Context: Algiers, Algeria, Two bombs explode_
 
 ##### Texas Governor's Mansion
 ### [ A fire sweeps through the historic Texas Governor's Mansion, leaving much of the 152-year-old building charred and severely damaged. ](/news/2008/06/8/a-fire-sweeps-through-the-historic-texas-governor-s-mansion-leaving-much-of-the-152-year-old-building-charred-and-severely-damaged.md)
@@ -13,15 +13,15 @@ _Context: Texas Governor's Mansion_
 
 ##### Southern Sudan
 ### [ A dispute between Southern Sudan and the central Sudanese government over Abyei will go to international arbitration. ](/news/2008/06/8/a-dispute-between-southern-sudan-and-the-central-sudanese-government-over-abyei-will-go-to-international-arbitration.md)
-_Context: Sudanese cabinet, Abyei, Southern Sudan_
+_Context: Southern Sudan, Sudanese cabinet, Abyei_
 
 ##### an earthquake
 ### [ At least two people have been killed as an earthquake rocked southern Greece, collapsing buildings and causing panic. ](/news/2008/06/8/at-least-two-people-have-been-killed-as-an-earthquake-rocked-southern-greece-collapsing-buildings-and-causing-panic.md)
-_Context: Greece, an earthquake_
+_Context: an earthquake, Greece_
 
 ##### Southern Sudan
 ### [ The government of Southern Sudan withdraws its mediation efforts at the Juba talks between Uganda and the rebel Lord's Resistance Army. ](/news/2008/06/8/the-government-of-southern-sudan-withdraws-its-mediation-efforts-at-the-juba-talks-between-uganda-and-the-rebel-lord-s-resistance-army.md)
-_Context: Southern Sudan, Juba talks, Uganda, Lord's Resistance Army_
+_Context: Lord's Resistance Army, Southern Sudan, Juba talks, Uganda_
 
 ##### Ukraine
 ### [ At least 37 miners go missing after an explosion in an Ukrainian coal mine causes it to collapse. ](/news/2008/06/8/at-least-37-miners-go-missing-after-an-explosion-in-an-ukrainian-coal-mine-causes-it-to-collapse.md)

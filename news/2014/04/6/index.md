@@ -29,7 +29,7 @@ _Context: American, Mickey Rooney_
 
 ##### Nigeria's economy
 ### [Nigeria's economy passes South Africa's to become the largest in Africa. ](/news/2014/04/6/nigeria-s-economy-passes-south-africa-s-to-become-the-largest-in-africa.md)
-_Context: South Africa, Nigeria's economy_
+_Context: Nigeria's economy, South Africa_
 
 ##### Turkmenistan
 ### [The Ambassador of Italy to Turkmenistan is charged for alleged child abuse while on holiday in the Philippines. ](/news/2014/04/6/the-ambassador-of-italy-to-turkmenistan-is-charged-for-alleged-child-abuse-while-on-holiday-in-the-philippines.md)
@@ -45,7 +45,7 @@ _Context: Viktor Orbn, Hungarian Prime Minister, Fidesz party, Christian Democra
 
 ##### Communist Party
 ### [Communist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of-novosibirsk-defeating-ruli.md)
-_Context: United Russia, Communist Party, Anatoly Lokot, Novosibirsk_
+_Context: Communist Party, Novosibirsk, United Russia, Anatoly Lokot_
 
 ## [Previous Day...](/news/2014/04/5/index.md)
 

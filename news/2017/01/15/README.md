@@ -33,7 +33,7 @@ As the element that makes up 75 percent of all the mass in the Universe, and mor
 
 ##### SpaceX
 ### [SpaceX returns to flight by placing 10 Iridium NEXT satellites in orbit and successfully recovering the first stage of its Falcon 9 launcher on a droneship. ](/news/2017/01/15/spacex-returns-to-flight-by-placing-10-iridium-next-satellites-in-orbit-and-successfully-recovering-the-first-stage-of-its-falcon-9-launcher.md)
-_Context: Falcon 9, SpaceX, placing 10 Iridium NEXT satellites in orbit, recovering the first stage_
+_Context: recovering the first stage, SpaceX, placing 10 Iridium NEXT satellites in orbit, Falcon 9_
 
 ## [Previous Day...](/news/2017/01/14/index.md)
 

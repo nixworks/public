@@ -5,11 +5,11 @@ Formats: [HTML](2007/07/4/index.html)  [JSON](2007/07/4/index.json)  [XML](2007/
 
 ##### Chinese slave scandal
 ### [ Twelve defendants involved in the Chinese slave scandal are charged for illegal detention and murder. ](/news/2007/07/4/twelve-defendants-involved-in-the-chinese-slave-scandal-are-charged-for-illegal-detention-and-murder.md)
-_Context: Chinese slave scandal, murder, detention_
+_Context: murder, detention, Chinese slave scandal_
 
 ##### Ayman al-Zawahri
 ### [ Ayman al-Zawahri, the second in charge of Al Qaeda, issues a video calling for further jihad and calling for the overthrow of "corrupt" Governments in the Middle East. ](/news/2007/07/4/ayman-al-zawahri-the-second-in-charge-of-al-qaeda-issues-a-video-calling-for-further-jihad-and-calling-for-the-overthrow-of-corrupt-gov.md)
-_Context: video, Middle East, Ayman al-Zawahri, jihad, Al Qaeda_
+_Context: Middle East, video, jihad, Ayman al-Zawahri, Al Qaeda_
 
 ##### landslide
 ### [ A landslide buries a bus carrying at least 40 people in mountains near Tehuacan in the Mexican state of Puebla. ](/news/2007/07/4/a-landslide-buries-a-bus-carrying-at-least-40-people-in-mountains-near-tehuaca-n-in-the-mexican-state-of-puebla.md)
@@ -21,7 +21,7 @@ _Context: 2007 attack, suicide note_
 
 ##### Fretilin
 ### [ Fretilin wins more votes than any other party in the East Timorese election with 29 per cent of the vote but has to form a coalition with other parties to form a government. ](/news/2007/07/4/fretilin-wins-more-votes-than-any-other-party-in-the-east-timorese-election-with-29-per-cent-of-the-vote-but-has-to-form-a-coalition-with-o.md)
-_Context: East Timor, coalition, Fretilin, party_
+_Context: East Timor, Fretilin, coalition, party_
 
 #####  Georgian
 ### [ A power blackout hits eastern Georgia, leaving 2.5m people without electricity and briefly stranding a thousand on the Tbilisi Metro. ](/news/2007/07/4/a-power-blackout-hits-eastern-georgia-leaving-2-5m-people-without-electricity-and-briefly-stranding-a-thousand-on-the-tbilisi-metro.md)
@@ -33,19 +33,19 @@ _Context: British_
 
 ##### Assembly of the African Union
 ### [ The 9th summit of the Assembly of the African Union, which lasted for 3 days, ends in Accra, Ghana. ](/news/2007/07/4/the-9th-summit-of-the-assembly-of-the-african-union-which-lasted-for-3-days-ends-in-accra-ghana.md)
-_Context: Assembly of the African Union, Accra, Ghana_
+_Context: Accra, Assembly of the African Union, Ghana_
 
 ##### 700 students surrender
 ### [ Over 700 students surrender at a mosque in Islamabad after being surrounded by Pakistani security forces. ](/news/2007/07/4/over-700-students-surrender-at-a-mosque-in-islamabad-after-being-surrounded-by-pakistani-security-forces.md)
-_Context: Pakistan, Islamabad, mosque, 700 students surrender_
+_Context: Islamabad, mosque, 700 students surrender, Pakistan_
 
 ##### Japan
 ### [ Japan's first female Minister of Defense, Yuriko Koike, is sworn in a day after the resignation of her predecessor, Fumio Kyuma. ](/news/2007/07/4/japan-s-first-female-minister-of-defense-yuriko-koike-is-sworn-in-a-day-after-the-resignation-of-her-predecessor-fumio-kyuma.md)
-_Context: Japan, Fumio Kyuma, Yuriko Koike, Minister of Defense_
+_Context: Yuriko Koike, Minister of Defense, Fumio Kyuma, Japan_
 
 ##### International Olympic Committee
 ### [ The International Olympic Committee elects Sochi as the host city for the 2014 Winter Olympics during its session in Guatemala City. ](/news/2007/07/4/the-international-olympic-committee-elects-sochi-as-the-host-city-for-the-2014-winter-olympics-during-its-session-in-guatemala-city.md)
-_Context: 2014 Winter Olympics, Guatemala City, International Olympic Committee, Sochi_
+_Context: Sochi, International Olympic Committee, 2014 Winter Olympics, Guatemala City_
 
 ##### tornado
 ### [ A tornado kills 14 people and injures at least 146 near Tianchang, Anhui Province, in eastern China. ](/news/2007/07/4/a-tornado-kills-14-people-and-injures-at-least-146-near-tianchang-anhui-province-in-eastern-china.md)
@@ -53,15 +53,15 @@ A tornado swept across eastern China, killing 14 people and injuring 146, state 
 
 ##### Syria
 ### [ Syrian Foreign Minister Walid Muallem says the government is open to peace negotiations with Israel without preconditions. ](/news/2007/07/4/syrian-foreign-minister-walid-muallem-says-the-government-is-open-to-peace-negotiations-with-israel-without-preconditions.md)
-_Context: Foreign Minister, Syria, Walid Muallem, Israel_
+_Context: Foreign Minister, Walid Muallem, Israel, Syria_
 
 ##### BBC
 ### [ BBC reporter Alan Johnston, held captive in Gaza for nearly four months, is released. ](/news/2007/07/4/bbc-reporter-alan-johnston-held-captive-in-gaza-for-nearly-four-months-is-released.md)
-_Context: Gaza Strip, Alan Johnston, BBC_
+_Context: Alan Johnston, BBC, Gaza Strip_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: Six Canadian soldiers were killed by a roadside bomb in the Panjwaii district. ](/news/2007/07/4/war-in-afghanistan-six-canadian-soldiers-were-killed-by-a-roadside-bomb-in-the-panjwaii-district.md)
-_Context: Panjwaii, Canadian, War in Afghanistan (2001-present)_
+_Context: War in Afghanistan (2001-present), Canadian, Panjwaii_
 
 ## [Previous Day...](/news/2007/07/3/index.md)
 

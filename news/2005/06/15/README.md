@@ -25,7 +25,7 @@ Reuters India offers top Business and market news updates covering Indian Stock 
 
 ##### Prime Minister
 ### [ Qatari Prime Minister Abdallah ibn Khalifah Al Thani and German Chancellor Gerhard Schroder agree to begin a study to look into the feasibility of building a maglev line approximately 160&nbsp;km long linking Qatar and Bahrain, powered by Transrapid technology developed by Siemens AG and ThyssenKrupp. Also being considered is a possible extension to the United Arab Emirates that would make the combined length of the line roughly 800&nbsp;km. ](/news/2005/06/15/qatari-prime-minister-abdallah-ibn-khalifah-al-thani-and-german-chancellor-gerhard-schrapder-agree-to-begin-a-study-to-look-into-the-feasib.md)
-_Context: Gerhard Schroder, maglev, Prime Minister, Bahrain, Transrapid, United Arab Emirates, ThyssenKrupp, Siemens AG, Chancellor, Abdallah ibn Khalifah Al Thani_
+_Context: Transrapid, maglev, Gerhard Schroder, Siemens AG, United Arab Emirates, Chancellor, Prime Minister, Abdallah ibn Khalifah Al Thani, Bahrain, ThyssenKrupp_
 
 ##### Abu Musab al-Zarqawi
 ### [ Spanish police arrest 17 suspected Islamic extremists in a series of raids around the country. Eleven are alleged to be associated with Abu Musab al-Zarqawi, and 5 are alleged to be connected to the Madrid train bombings of 11 March 2004. ](/news/2005/06/15/spanish-police-arrest-17-suspected-islamic-extremists-in-a-series-of-raids-around-the-country-eleven-are-alleged-to-be-associated-with-abu.md)
@@ -33,7 +33,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Israel
 ### [ The Israeli Shin Bet (SHABAK) states that one month ago it arrested an alleged eight-member Palestinian militant cell in Nablus that included four teenage would-be suicide bombers. It claimed that the cell was part of Fatah (the ruling party of the Palestinian Authority), and that the Lebanese group Hezbollah was behind it. ](/news/2005/06/15/the-israeli-shin-bet-shabak-states-that-one-month-ago-it-arrested-an-alleged-eight-member-palestinian-militant-cell-in-nablus-that-includ.md)
-_Context: Nablus, suicide bomber, Palestinian Authority, Fatah, Hezbollah, Israel, Palestinian, Shin Bet's_
+_Context: suicide bomber, Israel, Hezbollah, Nablus, Palestinian Authority, Palestinian, Fatah, Shin Bet's_
 
 ##### Russia
 ### [ In Russia, explosion and fire in an oil depot near Moscow kills two ](/news/2005/06/15/in-russia-explosion-and-fire-in-an-oil-depot-near-moscow-kills-two.md)
@@ -41,11 +41,11 @@ _Context: Moscow, Russia, oil depot_
 
 ##### Archbishop Chaput
 ### [ Catholic Archbishop Chaput warns Europe about growing anti-Semitism and intolerance. ](/news/2005/06/15/catholic-archbishop-chaput-warns-europe-about-growing-anti-semitism-and-intolerance.md)
-_Context: anti-Semitism, Archbishop Chaput_
+_Context: Archbishop Chaput, anti-Semitism_
 
 ##### Douglas Wood
 ### [ Douglas Wood, an Australian hostage residing in California is released in Iraq after 47 days in captivity, and is now being moved to a secret location. ](/news/2005/06/15/douglas-wood-an-australian-hostage-residing-in-california-is-released-in-iraq-after-47-days-in-captivity-and-is-now-being-moved-to-a-secr.md)
-_Context: Douglas Wood, California, Iraq, Australia_
+_Context: Douglas Wood, Australia, Iraq, California_
 
 ## [Previous Day...](/news/2005/06/14/index.md)
 

@@ -21,11 +21,11 @@ A bombing attack in central Ankara on Tuesday killed three people and wounded at
 
 ##### Gears of War 3
 ### ["Gears of War 3", the final game in the acclaimed "Gears of War" video game franchise, goes on sale, with 20,000 game stores around the world opening at midnight for its release. ](/news/2011/09/20/gears-of-war-3-the-final-game-in-the-acclaimed-gears-of-war-video-game-franchise-goes-on-sale-with-20-000-game-stores-around-the-worl.md)
-_Context: video game, Gears of War 3, Gears of War_
+_Context: Gears of War, video game, Gears of War 3_
 
 ##### Qantas
 ### [Qantas flights throughout Australia are disrupted by a four-hour strike by airport ground staff and baggage handlers. ](/news/2011/09/20/qantas-flights-throughout-australia-are-disrupted-by-a-four-hour-strike-by-airport-ground-staff-and-baggage-handlers.md)
-_Context: Qantas, Australia_
+_Context: Australia, Qantas_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund warns of a possible global double-dip recession in the coming years. ](/news/2011/09/20/the-international-monetary-fund-warns-of-a-possible-global-double-dip-recession-in-the-coming-years.md)
@@ -33,7 +33,7 @@ _Context: International Monetary Fund, double-dip recession_
 
 ##### search engine
 ### [The world's 8th-largest search engine, Yandex, expands into Turkey, marking its first venture outside the Commonwealth of Independent States. ](/news/2011/09/20/the-world-s-8th-largest-search-engine-yandex-expands-into-turkey-marking-its-first-venture-outside-the-commonwealth-of-independent-states.md)
-_Context: search engine, Turkish, Yandex, Commonwealth of Independent States_
+_Context: Commonwealth of Independent States, search engine, Turkish, Yandex_
 
 ##### Wadah Khanfar
 ### [Wadah Khanfar steps down as the head of the Al Jazeera news network, and is replaced by Sheikh Ahmad bin Jassim bin Mohammad Al Thani, a member of the Qatari royal family. ](/news/2011/09/20/wadah-khanfar-steps-down-as-the-head-of-the-al-jazeera-news-network-and-is-replaced-by-sheikh-ahmad-bin-jassim-bin-mohammad-al-thani-a-mem.md)
@@ -53,7 +53,7 @@ Two days after the earthquake that hit Sikkim, the road connecting the worst aff
 
 ##### European Court of Human Rights
 ### [The European Court of Human Rights rules that Russia did not abuse legal processes to destroy Yukos, once its largest oil company. ](/news/2011/09/20/the-european-court-of-human-rights-rules-that-russia-did-not-abuse-legal-processes-to-destroy-yukos-once-its-largest-oil-company.md)
-_Context: Yukos, European Court of Human Rights, Russia_
+_Context: Russia, European Court of Human Rights, Yukos_
 
 ##### Hurricane Rina
 ### [2011 Atlantic hurricane season: Tropical Storm Ophelia forms in the central Atlantic Ocean, with no storm warnings currently in place. ](/news/2011/09/20/2011-atlantic-hurricane-season-tropical-storm-ophelia-forms-in-the-central-atlantic-ocean-with-no-storm-warnings-currently-in-place.md)
@@ -61,11 +61,11 @@ Storm is too far away to be a threat to land for now
 
 ##### African Union
 ### [The African Union officially recognises the National Transitional Council as Libya's legitimate leadership. ](/news/2011/09/20/the-african-union-officially-recognises-the-national-transitional-council-as-libya-s-legitimate-leadership.md)
-_Context: Libya, African Union, National Transitional Council_
+_Context: Libya, National Transitional Council, African Union_
 
 ##### Norway
 ### [A Norwegian judge orders Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, to be kept in solitary confinement for four more weeks. ](/news/2011/09/20/a-norwegian-judge-orders-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-to-be-kept-in-solitary-confinement-for-four-mor.md)
-_Context: solitary confinement, 2011 Norway attacks, Norway, Anders Behring Breivik_
+_Context: solitary confinement, 2011 Norway attacks, Anders Behring Breivik, Norway_
 
 ##### United States military
 ### [The United States military officially ends its policy known as "don't ask, don't tell" and allows homosexual personnel to publicly declare their sexual orientation without being dismissed. ](/news/2011/09/20/the-united-states-military-officially-ends-its-policy-known-as-don-t-ask-don-t-tell-and-allows-homosexual-personnel-to-publicly-declare-t.md)
@@ -77,11 +77,11 @@ A group of Italian scientists went on trial yesterday accused of manslaughter fo
 
 ##### Mexican
 ### [Mexican gunmen dump 35 bodies in the city of Boca del Rio, with at least some of the victims having links to organised crime. ](/news/2011/09/20/mexican-gunmen-dump-35-bodies-in-the-city-of-boca-del-rio-with-at-least-some-of-the-victims-having-links-to-organised-crime.md)
-_Context: links to organised crime, Mexican, Boca del Rio_
+_Context: Mexican, Boca del Rio, links to organised crime_
 
 ##### Zambia
 ### [Voters in Zambia go to the polls for a general election, with a close presidential race expected between incumbent Rupiah Banda and opposition leader Michael Sata. ](/news/2011/09/20/voters-in-zambia-go-to-the-polls-for-a-general-election-with-a-close-presidential-race-expected-between-incumbent-rupiah-banda-and-oppositi.md)
-_Context: Michael Sata, Rupiah Banda, presidential election, Zambia_
+_Context: Zambia, Michael Sata, Rupiah Banda, presidential election_
 
 ## [Previous Day...](/news/2011/09/19/index.md)
 

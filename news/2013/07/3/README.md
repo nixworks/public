@@ -9,7 +9,7 @@ Mohamed Morsi rejected a military ultimatum to strike a deal with his opponents 
 
 ##### drones launch
 ### [The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. ](/news/2013/07/3/the-death-toll-from-a-united-states-drone-strike-on-a-militants-camp-in-the-north-waziristan-area-of-pakistan-rises-to-16.md)
-_Context: Pakistan, drones launch, North Waziristan_
+_Context: North Waziristan, drones launch, Pakistan_
 
 ##### 6.2 magnitude earthquake
 ### [The death toll from a 6.2 magnitude earthquake in Indonesia's Aceh Province rises to 42, with more than 400 injured and thousands of buildings damaged. ](/news/2013/07/3/the-death-toll-from-a-6-2-magnitude-earthquake-in-indonesia-s-aceh-province-rises-to-42-with-more-than-400-injured-and-thousands-of-buildin.md)

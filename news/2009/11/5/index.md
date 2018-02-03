@@ -9,11 +9,11 @@ Formats: [HTML](2009/11/5/index.html)  [JSON](2009/11/5/index.json)  [XML](2009/
 
 ##### U2
 ### [ A U2 concert held at the Brandenburg Gate to mark the 20th anniversary of the Berlin Wall's fall is controversial when a wall is built around the venue. ](/news/2009/11/5/a-u2-concert-held-at-the-brandenburg-gate-to-mark-the-20th-anniversary-of-the-berlin-wall-s-fall-is-controversial-when-a-wall-is-built-arou.md)
-_Context: U2, Brandenburg Gate, Berlin Wall_
+_Context: Berlin Wall, U2, Brandenburg Gate_
 
 ##### Saudi Arabia
 ### [ Saudi Arabia lifts a nine-year ban on Somali livestock imports, reopening Somalia's main export market. ](/news/2009/11/5/saudi-arabia-lifts-a-nine-year-ban-on-somali-livestock-imports-reopening-somalia-s-main-export-market.md)
-_Context: Somalia, reopening Somalia's main export market, Saudi Arabia_
+_Context: reopening Somalia's main export market, Saudi Arabia, Somalia_
 
 ##### scientists
 ### [ An international team of scientists announces that the genome of the domestic horse has been successfully sequenced. ](/news/2009/11/5/an-international-team-of-scientists-announces-that-the-genome-of-the-domestic-horse-has-been-successfully-sequenced.md)
@@ -21,15 +21,15 @@ An old grey mare named Twilight has provided an international team of researcher
 
 ##### Venezuela
 ### [ Venezuela deploys 15,000 troops to its border with Colombia. ](/news/2009/11/5/venezuela-deploys-15-000-troops-to-its-border-with-colombia.md)
-_Context: Colombia, Venezuela_
+_Context: Venezuela, Colombia_
 
 ##### Fort Hood massacre
 ### [ 13 people die and 30 people are injured in a shooting at the Fort Hood U.S. Army base in Texas. ](/news/2009/11/5/13-people-die-and-30-people-are-injured-in-a-shooting-at-the-fort-hood-u-s-army-base-in-texas.md)
-_Context: Fort Hood massacre, United States soldier, Texas, Fort Hood_
+_Context: Texas, Fort Hood, Fort Hood massacre, United States soldier_
 
 ##### ICC
 ### [ The International Criminal Court is to open an investigation into the 2007 Kenyan post-election violence in which more than 1,000 people died. ](/news/2009/11/5/the-international-criminal-court-is-to-open-an-investigation-into-the-2007-kenyan-post-election-violence-in-which-more-than-1-000-people-di.md)
-_Context: ICC, Kenya, post-election violence_
+_Context: Kenya, post-election violence, ICC_
 
 ##### United Nations
 ### [ A United Nations court imposes a defense lawyer on former Bosnian Serb leader Radovan Karadzic, and postpones his trial until March 2010. ](/news/2009/11/5/a-united-nations-court-imposes-a-defense-lawyer-on-former-bosnian-serb-leader-radovan-karada3-4ia-and-postpones-his-trial-until-march-2010.md)
@@ -37,11 +37,11 @@ Radovan Karadzic will have a defence lawyer imposed on him after United Nations 
 
 ##### Zimbabwe
 ### [ Zimbabwean Prime Minister Morgan Tsvangirai ends his boycott of the unity government. ](/news/2009/11/5/zimbabwean-prime-minister-morgan-tsvangirai-ends-his-boycott-of-the-unity-government.md)
-_Context: Morgan Tsvangirai, Prime Minister, Zimbabwe_
+_Context: Zimbabwe, Prime Minister, Morgan Tsvangirai_
 
 ##### Thailand
 ### [ Thailand and Cambodia recall their ambassadors over the Cambodian government appointment of former Thai Prime Minister Thaksin Shinawatra. ](/news/2009/11/5/thailand-and-cambodia-recall-their-ambassadors-over-the-cambodian-government-appointment-of-former-thai-prime-minister-thaksin-shinawatra.md)
-_Context: Thailand, Cambodia, Thaksin Shinawatra_
+_Context: Cambodia, Thailand, Thaksin Shinawatra_
 
 ##### Hurricane Ida
 ### [ Hurricane Ida makes landfall in Nicaragua. ](/news/2009/11/5/hurricane-ida-makes-landfall-in-nicaragua.md)
@@ -53,7 +53,7 @@ _Context: United Nations, Afghanistan_
 
 ##### France
 ### [ France's Europe Minister Pierre Lellouche describes the UK's Conservative Party pledge to return powers from Brussels to London as "pathetic". ](/news/2009/11/5/france-s-europe-minister-pierre-lellouche-describes-the-uk-s-conservative-party-pledge-to-return-powers-from-brussels-to-london-as-patheti.md)
-_Context: British, Conservative Party, France, Pierre Lellouche_
+_Context: Conservative Party, British, Pierre Lellouche, France_
 
 ##### Indonesia
 ### [ Two senior Indonesian officials resign over a plot to weaken the anti-corruption agency. ](/news/2009/11/5/two-senior-indonesian-officials-resign-over-a-plot-to-weaken-the-anti-corruption-agency.md)
@@ -61,7 +61,7 @@ _Context: Indonesia_
 
 ##### Paraguay
 ### [ Paraguay's President Fernando Lugo replaces top military commanders amid rumours of a coup d'etat. ](/news/2009/11/5/paraguay-s-president-fernando-lugo-replaces-top-military-commanders-amid-rumours-of-a-coup-d-a-c-tat.md)
-_Context: coup, Paraguayan President, Paraguay, Fernando Lugo_
+_Context: coup, Paraguay, Fernando Lugo, Paraguayan President_
 
 ##### China
 ### [ China postpones a plan to raise the Three Gorges reservoir to its ideal height due to lack of water. ](/news/2009/11/5/china-postpones-a-plan-to-raise-the-three-gorges-reservoir-to-its-ideal-height-due-to-lack-of-water.md)
@@ -69,11 +69,11 @@ _Context: Three Gorges Dam, China_
 
 ##### Epeli Nailatikau
 ### [ Ratu Epeli Nailatikau is sworn in as President of Fiji, succeeding Ratu Josefa Iloilo who retired in July 2009. ](/news/2009/11/5/ratu-epeli-nailatikau-is-sworn-in-as-president-of-fiji-succeeding-ratu-josefa-iloilo-who-retired-in-july-2009.md)
-_Context: President of Fiji, Josefa Iloilo, Epeli Nailatikau_
+_Context: Epeli Nailatikau, President of Fiji, Josefa Iloilo_
 
 ##### South Africa
 ### [ South Africa's Olympic governing body suspends Leonard Chuene, the President of Athletics South Africa, and apologises to Caster Semenya over the controversy it generated over her gender. ](/news/2009/11/5/south-africa-s-olympic-governing-body-suspends-leonard-chuene-the-president-of-athletics-south-africa-and-apologises-to-caster-semenya-ov.md)
-_Context: Leonard Chuene, Athletics South Africa, South Africa, Caster Semenya_
+_Context: Caster Semenya, Athletics South Africa, Leonard Chuene, South Africa_
 
 ## [Previous Day...](/news/2009/11/4/index.md)
 

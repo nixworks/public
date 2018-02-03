@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Devon
 ### [ Dozens of containers, some containing toxic chemicals, are washed ashore at Devon, England after MSC "Napoli" ran aground on the coast last Thursday during Kyrill. ](/news/2007/01/21/dozens-of-containers-some-containing-toxic-chemicals-are-washed-ashore-at-devon-england-after-msc-napoli-ran-aground-on-the-coast-last.md)
-_Context: MSC ''Napoli'', Kyrill, Devon_
+_Context: Kyrill, MSC ''Napoli'', Devon_
 
 ##### Palestinian Authority
 ### [ Palestinian Authority President Mahmoud Abbas and Hamas leader Khaled Mashal meet together in Syria to try to end violence between the two factions. However, differences remain and talks will resume possibly next week. ](/news/2007/01/21/palestinian-authority-president-mahmoud-abbas-and-hamas-leader-khaled-mashal-meet-together-in-syria-to-try-to-end-violence-between-the-two.md)
@@ -37,15 +37,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Muqtada al-Sadr
 ### [ Muqtada al-Sadr's bloc lifts its boycott of the Iraqi political process and rejoins the government. ](/news/2007/01/21/muqtada-al-sadr-s-bloc-lifts-its-boycott-of-the-iraqi-political-process-and-rejoins-the-government.md)
-_Context: Iraq, Muqtada al-Sadr, government_
+_Context: Muqtada al-Sadr, Iraq, government_
 
 ##### Ogn  Samast
 ### [ Ogn Samast, who was arrested for murdering Hrant Dink, admits that he has killed Dink. ](/news/2007/01/21/ogun-samast-who-was-arrested-for-murdering-hrant-dink-admits-that-he-has-killed-dink.md)
-_Context: Hrant Dink, Ogn  Samast_
+_Context: Ogn  Samast, Hrant Dink_
 
 ##### Serbia
 ### [ Voters in Serbia participate in the first general election since it became an independent state in 2006. ](/news/2007/01/21/voters-in-serbia-participate-in-the-first-general-election-since-it-became-an-independent-state-in-2006.md)
-_Context: 2007 elections, Serbia_
+_Context: Serbia, 2007 elections_
 
 ## [Previous Day...](/news/2007/01/20/index.md)
 

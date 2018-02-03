@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/11/index.html)  [JSON](2015/06/11/index.json)  [XML](201
 
 ##### Military intervention against ISIL
 ### [A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action-near-kobani.md)
-_Context: YPG, Military intervention against ISIL, ISIL, Kobani_
+_Context: Military intervention against ISIL, ISIL, YPG, Kobani_
 
 ##### Syrian Civil War
 ### [Al-Qaeda's affiliate in Syria, the Al-Nusra Front, shoots dead at least 20 Druze villagers in Idlib in what is being described as a "massacre". ](/news/2015/06/11/al-qaeda-s-affiliate-in-syria-the-al-nusra-front-shoots-dead-at-least-20-druze-villagers-in-idlib-in-what-is-being-described-as-a-massacr.md)
@@ -25,7 +25,7 @@ _Context: Miguel de Cervantes, Don Quixote_
 
 ##### Twitter
 ### [After a poor 1st quarter earnings report, Twitter CEO Dick Costolo steps down with co-founder Jack Dorsey taking over as interim CEO effective July 1. ](/news/2015/06/11/after-a-poor-1st-quarter-earnings-report-twitter-ceo-dick-costolo-steps-down-with-co-founder-jack-dorsey-taking-over-as-interim-ceo-effecti.md)
-_Context: Dick Costolo, Jack Dorsey, Twitter_
+_Context: Jack Dorsey, Dick Costolo, Twitter_
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch will step aside as CEO of 21st Century Fox to be replaced by his son James Murdoch. ](/news/2015/06/11/rupert-murdoch-will-step-aside-as-ceo-of-21st-century-fox-to-be-replaced-by-his-son-james-murdoch.md)
@@ -35,9 +35,9 @@ Rupert Murdoch is standing down as chief executive of his media-entertainment co
 ### [At least 41 people have been killed, 8 injured, and scores are missing in landslides in Nepal's Taplejung District caused by heavy rain. ](/news/2015/06/11/at-least-41-people-have-been-killed-8-injured-and-scores-are-missing-in-landslides-in-nepal-s-taplejung-district-caused-by-heavy-rain.md)
 At least 41 people were killed and eight injured on Thursday in a landslide triggered by heavy rainfall that buried six villages in Nepal’s mountainous northeast, the second major disaster to hit the
 
-##### U.S.
+##### United States
 ### [Health officials in the United States are advising doctors to be on the lookout for MERS following an outbreak in South Korea. ](/news/2015/06/11/health-officials-in-the-united-states-are-advising-doctors-to-be-on-the-lookout-for-mers-following-an-outbreak-in-south-korea.md)
-_Context: South Korea, Middle East respiratory syndrome, U.S._
+_Context: South Korea, United States, Middle East respiratory syndrome_
 
 ##### Pakistan
 ### [Federal Interior Ministry of Pakistan has sealed the offices of the NGO Save the Children in Pakistan and issued order for its foreign staff to leave the country within 15 days on account of the NGO's anti-Pakistan activities. ](/news/2015/06/11/federal-interior-ministry-of-pakistan-has-sealed-the-offices-of-the-ngo-save-the-children-in-pakistan-and-issued-order-for-its-foreign-staff.md)
@@ -47,7 +47,7 @@ Save the children says it was served a notice, denies it has expatriate staff wo
 ### [A new version of the Israeli-linked malware Duqu is found at hotels hosting Iran nuclear talks by Kaspersky; Israel denies involvement. ](/news/2015/06/11/a-new-version-of-the-israeli-linked-malware-duqu-is-found-at-hotels-hosting-iran-nuclear-talks-by-kaspersky-israel-denies-involvement.md)
 Internet security company Kaspersky says software was used to infiltrate venues for international negotiations on Tehran’s nuclear programme
 
-##### Chinese
+##### China
 ### [China's former security chief Zhou Yongkang is given a life sentence for bribery, leaking state secrets and abuse of power. ](/news/2015/06/11/china-s-former-security-chief-zhou-yongkang-is-given-a-life-sentence-for-bribery-leaking-state-secrets-and-abuse-of-power.md)
 China&#039;s former domestic security chief is sentenced to life in jail after being found guilty of bribery and corruption.
 
@@ -61,7 +61,7 @@ Spain&#x27;s King Felipe VI has issued a decree stripping his sister Princess Cr
 
 ##### Lake Champlain
 ### [Authorities from the Marshal's Service, the FBI, Customs, state and local police, and the Forest Police searching for 6 days in northeastern New York (about 25 miles south of the Canadian border, near Lake Champlain and Vermont, in the Adirondack Forest area, in Dannemora, New York and Plattsburgh, New York) for two high-risk murderers who staged an elaborate escape from the high-security Clinton Correctional Facility- the first there- the night of Friday, June 5, 2015 (it was discovered the next morning), using bloodhounds, find a scent and leftover evidence that could be from the two, Richard Matt and David Sweat. ](/news/2015/06/11/authorities-from-the-marshal-s-service-the-fbi-customs-state-and-local-police-and-the-forest-police-searching-for-6-days-in-northeastern.md)
-_Context: Plattsburgh, New York, Richard Matt, Clinton Correctional Facility, Adirondack Forest, Dannemora, New York, Vermont, Lake Champlain, David Sweat_
+_Context: Lake Champlain, Vermont, David Sweat, Dannemora, New York, Richard Matt, Adirondack Forest, Clinton Correctional Facility, Plattsburgh, New York_
 
 ## [Previous Day...](/news/2015/06/10/index.md)
 

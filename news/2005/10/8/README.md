@@ -9,7 +9,7 @@ _Context: DARPA Grand Challenge, autonomous robot_
 
 ##### Guatemala
 ### [ A mudslide in Guatemala triggered by heavy rains buries the village of Panabaj. All 800 residents of the village are feared dead. ](/news/2005/10/8/a-mudslide-in-guatemala-triggered-by-heavy-rains-buries-the-village-of-panabaj-all-800-residents-of-the-village-are-feared-dead.md)
-_Context: Panabaj, Guatemala_
+_Context: Guatemala, Panabaj_
 
 ##### 2005 South Asia earthquake
 ### [ 2005 South Asia earthquake: An earthquake measuring 7.6 on the Richter scale occurred at 08:52:38 UTC in a Pakistan- disputed territory of Kashmir, killing over 175,000 people. ](/news/2005/10/8/2005-south-asia-earthquake-an-earthquake-measuring-7-6-on-the-richter-scale-occurred-at-08-52-38-utc-in-a-pakistan-disputed-territory-of.md)
@@ -21,7 +21,7 @@ _Context: Nanjing, Five-Year Plan, China_
 
 ##### Uganda Human Rights Commission
 ### [ Uganda Human Rights Commission, in its 2004 report, states that at least 4,000 children who were among the tens of thousands abducted by the Lord's Resistance Army rebels cannot be traced. This estimate is much lower than the previous estimate of 20,000 kidnapped children released by the most recent Human Rights Watch report. The UHRC accuses the Uganda People's Defence Forces (UPDF) of torturing the Acholi people of northern Uganda through brutal methods to extract information or to instill discipline in suspects. ](/news/2005/10/8/uganda-human-rights-commission-in-its-2004-report-states-that-at-least-4-000-children-who-were-among-the-tens-of-thousands-abducted-by-th.md)
-_Context: Acholi, Uganda Human Rights Commission, Human Rights Watch, Uganda People's Defence Forces, Lord's Resistance Army_
+_Context: Acholi, Uganda People's Defence Forces, Uganda Human Rights Commission, Human Rights Watch, Lord's Resistance Army_
 
 ## [Previous Day...](/news/2005/10/7/index.md)
 

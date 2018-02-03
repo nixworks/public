@@ -13,7 +13,7 @@ North Korea says it will use its &quot;nuclear deterrent&quot; in response to jo
 
 ##### Switzerland
 ### [One person is killed and 42 injured after a Swiss tourist train derails in the Alps. ](/news/2010/07/23/one-person-is-killed-and-42-injured-after-a-swiss-tourist-train-derails-in-the-alps.md)
-_Context: Switzerland, Alps_
+_Context: Alps, Switzerland_
 
 ##### Israel Defense Forces
 ### [Israel Defense Forces soldiers kill a Palestinian man attempting to enter the Israeli settlement of Barkan. ](/news/2010/07/23/israel-defense-forces-soldiers-kill-a-palestinian-man-attempting-to-enter-the-israeli-settlement-of-barkan.md)
@@ -53,7 +53,7 @@ _Context: Gulf of Mexico, Deepwater Horizon oil spill, Deepwater Horizon, explos
 
 ##### Serbia
 ### [Serbia states its intention to never recognize Kosovo's independence after International Court of Justice's yesterday ruling. ](/news/2010/07/23/serbia-states-its-intention-to-never-recognize-kosovo-s-independence-after-international-court-of-justice-s-yesterday-ruling.md)
-_Context: yesterday ruling, Kosovo, International Court of Justice, Serbia, Kosovo_
+_Context: Kosovo, Kosovo, Serbia, yesterday ruling, International Court of Justice_
 
 ##### Venezuela
 ### [Venezuela severs diplomatic relations with Colombia after Colombia claims Venezuela is a "haven for guerrillas". ](/news/2010/07/23/venezuela-severs-diplomatic-relations-with-colombia-after-colombia-claims-venezuela-is-a-haven-for-guerrillas.md)
@@ -77,7 +77,7 @@ A former Pennsylvania judge pleads guilty to a charge of racketeering conspiracy
 
 ##### China
 ### [China sentences an Uyghur journalist who spoke to foreign media after riots in Xinjiang last year to 15 years imprisonment. ](/news/2010/07/23/china-sentences-an-uyghur-journalist-who-spoke-to-foreign-media-after-riots-in-xinjiang-last-year-to-15-years-imprisonment.md)
-_Context: Xinjiang, China, Uyghur, ethnic riots_
+_Context: Xinjiang, Uyghur, ethnic riots, China_
 
 ##### U.S. state
 ### [A court in the U.S. state of Arizona listens to challenges to the state's policy against illegal immigrants. ](/news/2010/07/23/a-court-in-the-u-s-state-of-arizona-listens-to-challenges-to-the-state-s-policy-against-illegal-immigrants.md)
@@ -113,7 +113,7 @@ Dissident Ariel Sigler released as part of deal between church and Cuban governm
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad announces plans to launch a manned shuttle into space by 2019. ](/news/2010/07/23/president-of-iran-mahmoud-ahmadinejad-announces-plans-to-launch-a-manned-shuttle-into-space-by-2019.md)
-_Context: Mahmoud Ahmadinejad, Iran, President_
+_Context: Mahmoud Ahmadinejad, President, Iran_
 
 ##### iPad
 ### [The Indian government unveils a solar power touch-screen laptop, cheaper than America's iPad, expected to be on sale next year. ](/news/2010/07/23/the-indian-government-unveils-a-solar-power-touch-screen-laptop-cheaper-than-america-s-ipad-expected-to-be-on-sale-next-year.md)

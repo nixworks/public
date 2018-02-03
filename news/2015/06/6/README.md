@@ -9,7 +9,7 @@ Four&#x20;Saudi&#x20;soldiers&#x20;and&#x20;dozens&#x20;of&#x20;Yemeni&#x20;rebe
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban launches a major offensive in the Yamgan District of Badakhshan Province with hundreds of militants involved. ](/news/2015/06/6/the-taliban-launches-a-major-offensive-in-the-yamgan-district-of-badakhshan-province-with-hundreds-of-militants-involved.md)
-_Context: War in Afghanistan (2015-present), Taliban, Yamgan District, Badakhshan_
+_Context: Yamgan District, War in Afghanistan (2015-present), Badakhshan, Taliban_
 
 ##### War in Donbass
 ### [The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.md)
@@ -45,15 +45,15 @@ Agreement signed in Dhaka to allow people living stateless in border enclaves fi
 
 ##### Reuters
 ### [Reuters reports that an Egyptian court has overturned a ruling that Hamas is a terrorist organisation. ](/news/2015/06/6/reuters-reports-that-an-egyptian-court-has-overturned-a-ruling-that-hamas-is-a-terrorist-organisation.md)
-_Context: Reuters, Hamas, Egypt, terrorism_
+_Context: terrorism, Egypt, Reuters, Hamas_
 
 ##### police
 ### [Five police are injured following violent protests at a gay pride march in Kiev. ](/news/2015/06/6/five-police-are-injured-following-violent-protests-at-a-gay-pride-march-in-kiev.md)
-_Context: gay pride, Kiev, police_
+_Context: gay pride, police, Kiev_
 
 ##### President of Sudan
 ### [The President of Sudan Omar al-Bashir swears in a new Cabinet after having been sworn in for a five-year term earlier in the week. ](/news/2015/06/6/the-president-of-sudan-omar-al-bashir-swears-in-a-new-cabinet-after-having-been-sworn-in-for-a-five-year-term-earlier-in-the-week.md)
-_Context: President of Sudan, Omar al-Bashir_
+_Context: Omar al-Bashir, President of Sudan_
 
 ## [Previous Day...](/news/2015/06/5/index.md)
 

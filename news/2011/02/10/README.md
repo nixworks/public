@@ -41,7 +41,7 @@ _Context: Allentown, Pennsylvania_
 
 ##### snowstorm
 ### [A snowstorm hits the Southeastern United States and Tennessee Valley with warnings in place across ten states. ](/news/2011/02/10/a-snowstorm-hits-the-southeastern-united-states-and-tennessee-valley-with-warnings-in-place-across-ten-states.md)
-_Context: Southeastern United States, Tennessee Valley, snowstorm_
+_Context: snowstorm, Southeastern United States, Tennessee Valley_
 
 ##### Communist Party of Cuba
 ### [Cuban Information and Communications Minister Medardo Diaz welcomes the arrival of an undersea fibre-optic cable linking it to Venezuela, which offered to help the island speed up its internet connection after the United States refused. ](/news/2011/02/10/cuban-information-and-communications-minister-medardo-diaz-welcomes-the-arrival-of-an-undersea-fibre-optic-cable-linking-it-to-venezuela-wh.md)
@@ -57,11 +57,11 @@ India and Pakistan haveagreed to formally resume peace talks that were broken of
 
 ##### Indonesia
 ### [The trial of Indonesian Muslim cleric Abu Bakar Bashir on terrorism charges begins in Jakarta. ](/news/2011/02/10/the-trial-of-indonesian-muslim-cleric-abu-bakar-bashir-on-terrorism-charges-begins-in-jakarta.md)
-_Context: Indonesia, terrorism, Jakarta, Muslim, Abu Bakar Bashir_
+_Context: Jakarta, Indonesia, terrorism, Abu Bakar Bashir, Muslim_
 
 ##### China
 ### [Blind Chinese activist Chen Guangcheng says, in a secretly shot video, that he is still under house arrest after being released from prison. ](/news/2011/02/10/blind-chinese-activist-chen-guangcheng-says-in-a-secretly-shot-video-that-he-is-still-under-house-arrest-after-being-released-from-prison.md)
-_Context: China, house arrest, Chen Guangcheng_
+_Context: Chen Guangcheng, house arrest, China_
 
 ##### the House of Commons
 ### [The British House of Commons votes 234-22 against prisoners receiving the right to vote. ](/news/2011/02/10/the-british-house-of-commons-votes-234-22-against-prisoners-receiving-the-right-to-vote.md)

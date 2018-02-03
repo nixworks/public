@@ -5,11 +5,11 @@ Formats: [HTML](2008/10/4/index.html)  [JSON](2008/10/4/index.json)  [XML](2008/
 
 ##### Mexico
 ### [ Police find nine more dead bodies around the Mexican city of Tijuana with 50 people having died over the past week as a result of a week of drug trade related violence. ](/news/2008/10/4/police-find-nine-more-dead-bodies-around-the-mexican-city-of-tijuana-with-50-people-having-died-over-the-past-week-as-a-result-of-a-week-of.md)
-_Context: narcotics, Tijuana, Mexico_
+_Context: Tijuana, narcotics, Mexico_
 
 ##### Mahir al-Zubaydi
 ### [ Mahir al-Zubaydi, senior commander for al Qaeda in Iraq for Baghdad east of the Tigris River, is killed by U.S. troops. ](/news/2008/10/4/mahir-al-zubaydi-senior-commander-for-al-qaeda-in-iraq-for-baghdad-east-of-the-tigris-river-is-killed-by-u-s-troops.md)
-_Context: al Qaeda in Iraq, Mahir al-Zubaydi, Baghdad, Tigris River, U.S._
+_Context: al Qaeda in Iraq, U.S., Mahir al-Zubaydi, Baghdad, Tigris River_
 
 ##### Ivan Petrik
 ### [ Colonel Ivan Petrik, chief of staff of the Russian ground force in South Ossetia, is confirmed dead from wounds he suffered in the Friday blast in Tskhinvali.](/news/2008/10/4/colonel-ivan-petrik-chief-of-staff-of-the-russian-ground-force-in-south-ossetia-is-confirmed-dead-from-wounds-he-suffered-in-the-friday-b.md)

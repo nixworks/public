@@ -25,11 +25,11 @@ _Context: Syrian civil war_
 
 ##### Yash Chopra
 ### [Yash Chopra, one of India's most influential filmmakers, dies from dengue fever in Mumbai. ](/news/2012/10/21/yash-chopra-one-of-india-s-most-influential-filmmakers-dies-from-dengue-fever-in-mumbai.md)
-_Context: Yash Chopra, Mumbai, dengue_
+_Context: dengue, Yash Chopra, Mumbai_
 
 ##### Benedict XVI
 ### [Pope Benedict XVI names seven new saints, including Kateri Tekakwitha, Marianne Cope, Pedro Calungsod, and Anna Schffer. ](/news/2012/10/21/pope-benedict-xvi-names-seven-new-saints-including-kateri-tekakwitha-marianne-cope-pedro-calungsod-and-anna-schaffer.md)
-_Context: Marianne Cope, Benedict XVI, Anna Schffer, Pedro Calungsod, Kateri Tekakwitha_
+_Context: Kateri Tekakwitha, Marianne Cope, Benedict XVI, Anna Schffer, Pedro Calungsod_
 
 ##### shooting
 ### [A shooting at a spa in Brookfield, Wisconsin, USA, leaves four people dead, including the shooter. ](/news/2012/10/21/a-shooting-at-a-spa-in-brookfield-wisconsin-usa-leaves-four-people-dead-including-the-shooter.md)
@@ -37,13 +37,13 @@ A man who opened fire at a beauty spa in the US state of Wisconsin has killed th
 
 ##### Sharmeka Moffitt
 ### [Sharmeka Moffitt, 20, a female from Winnsboro, Louisiana, sustains burns to over 60% of her body in what was initially believed to be a possible hate crime after she had claimed, through relatives, to have been set afire by three unknown at large male hoodie-wearing assailants in Winnsboro's Civitan Park. It turned out she is believed by police to have set herself on fire and to have written the slur on her car (she has since opened her eyes and blinked to communicate with relatives at Louisiana State University Hospital Shreveport, where she underwent surgery). ](/news/2012/10/21/sharmeka-moffitt-20-a-female-from-winnsboro-louisiana-sustains-burns-to-over-60-of-her-body-in-what-was-initially-believed-to-be-a-poss.md)
-_Context: Sharmeka Moffitt, Winnsboro, Louisiana, Louisiana State University Hospital Shreveport_
+_Context: Louisiana State University Hospital Shreveport, Sharmeka Moffitt, Winnsboro, Louisiana_
 
 ##### Fidel Castro
 ### [Fidel Castro appears in public for the first time in many months. A photograph of the Cuban revolutionary leader appears to show him "doing very well." ](/news/2012/10/21/fidel-castro-appears-in-public-for-the-first-time-in-many-months-a-photograph-of-the-cuban-revolutionary-leader-appears-to-show-him-doing.md)
 A Venezuelan politician confirms reports by Cuban hotel staff that Fidel Castro made a public appearance there, amid rumours about his health.
 
-##### U.S.
+##### United States
 ### [Former United States Senator and 1972 Democratic presidential nominee George McGovern dies at the age of 90 in Sioux Falls. ](/news/2012/10/21/former-united-states-senator-and-1972-democratic-presidential-nominee-george-mcgovern-dies-at-the-age-of-90-in-sioux-falls.md)
 To the liberal Democratic faithful, Mr. McGovern remained a standard-bearer well into old age, writing and lecturing even as his name was routinely invoked by conservatives as synonymous with what they considered the failures of liberal politics.
 

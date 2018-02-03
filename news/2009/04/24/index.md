@@ -11,21 +11,21 @@ _Context: Mexico, current outbreak, swine flu_
 ### [ A suicide attack kills at least 60 people and injures 125 more in Baghdad, Iraq. ](/news/2009/04/24/a-suicide-attack-kills-at-least-60-people-and-injures-125-more-in-baghdad-iraq.md)
 Two suicide bombers have blown themselves up at the gates of a revered Shiite Muslim shrine in Baghdad, killing at least 60.
 
-##### U.S.
+##### United States
 ### [ Two American Current TV journalists will be tried on criminal charges in North Korea. ](/news/2009/04/24/two-american-current-tv-journalists-will-be-tried-on-criminal-charges-in-north-korea.md)
-_Context: Current TV, indicted, journalist, U.S., North Korea, trial_
+_Context: journalist, trial, United States, indicted, Current TV, North Korea_
 
 ##### Northern Mariana Islands
 ### [ Northern Mariana Islands Lieutenant Governor Timothy P. Villagomez is convicted of fraud, wire fraud, and bribery. ](/news/2009/04/24/northern-mariana-islands-lieutenant-governor-timothy-p-villagomez-is-convicted-of-fraud-wire-fraud-and-bribery.md)
-_Context: Northern Mariana Islands, wire fraud, Timothy P. Villagomez, fraud, Lieutenant Governor, bribes_
+_Context: fraud, Lieutenant Governor, wire fraud, bribes, Northern Mariana Islands, Timothy P. Villagomez_
 
 ##### Democrat
 ### [ Democrat Scott Murphy wins New York's 20th congressional district special election. ](/news/2009/04/24/democrat-scott-murphy-wins-new-york-s-20th-congressional-district-special-election.md)
-_Context: special election, Scott Murphy, Democrat, New York, 20th congressional district_
+_Context: Democrat, Scott Murphy, 20th congressional district, New York, special election_
 
 ##### American Southern Bank
 ### [ American Southern Bank in Kennesaw, Georgia, is closed. ](/news/2009/04/24/american-southern-bank-in-kennesaw-georgia-is-closed.md)
-_Context: American Southern Bank, Kennesaw, banks failed, Georgia_
+_Context: Kennesaw, American Southern Bank, Georgia, banks failed_
 
 ##### bovine genome
 ### [ The bovine genome is sequenced. ](/news/2009/04/24/the-bovine-genome-is-sequenced.md)

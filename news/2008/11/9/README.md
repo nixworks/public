@@ -5,7 +5,7 @@ Formats: [HTML](2008/11/9/index.html)  [JSON](2008/11/9/index.json)  [XML](2008/
 
 ##### EUR
 ### [ A total of EUR750 million of cocaine is seized off the coast of Ireland, in the largest such seizure in the country's history. ](/news/2008/11/9/a-total-of-a-750-million-of-cocaine-is-seized-off-the-coast-of-ireland-in-the-largest-such-seizure-in-the-country-s-history.md)
-_Context: cocaine, EUR, is seized, Ireland_
+_Context: cocaine, Ireland, EUR, is seized_
 
 ##### Latvia
 ### [ The Latvian government effectively nationalizes the country's second-largest bank, Parex, acquiring a controlling 51% stake for the symbolic sum of just two lati.](/news/2008/11/9/the-latvian-government-effectively-nationalizes-the-country-s-second-largest-bank-parex-acquiring-a-controlling-51-stake-for-the-symboli.md)
@@ -21,11 +21,11 @@ At least 20 people are killed after the failure of a fire-extinguishing system.
 
 ##### Huda bin Abdul Haq
 ### [ Huda bin Abdul Haq, Imam Samudra, and Amrozi bin Nurhasyim are executed by firing squad on Kambangan Island in Indonesia for their involvement in the 2002 Bali bombings. ](/news/2008/11/9/huda-bin-abdul-haq-imam-samudra-and-amrozi-bin-nurhasyim-are-executed-by-firing-squad-on-kambangan-island-in-indonesia-for-their-involvem.md)
-_Context: Kambangan Island, Imam Samudra, Amrozi bin Nurhasyim, Huda bin Abdul Haq, 2002 Bali bombings, Indonesia, executed by firing squad_
+_Context: Indonesia, Amrozi bin Nurhasyim, executed by firing squad, 2002 Bali bombings, Huda bin Abdul Haq, Kambangan Island, Imam Samudra_
 
 ##### anti-police riot
 ### [ An anti-police riot in Shenzhen, China involving 400 people, takes place after a police official threw a walkie-talkie at a motorcyclist causing his death. ](/news/2008/11/9/an-anti-police-riot-in-shenzhen-china-involving-400-people-takes-place-after-a-police-official-threw-a-walkie-talkie-at-a-motorcyclist-ca.md)
-_Context: walkie-talkie, anti-police riot, China, Shenzhen_
+_Context: walkie-talkie, China, anti-police riot, Shenzhen_
 
 ## [Previous Day...](/news/2008/11/8/index.md)
 

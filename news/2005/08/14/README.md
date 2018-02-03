@@ -13,23 +13,23 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 ##### Time magazine
 ### [ Time magazine cites United States military intelligence documents that an Iranian-backed Iraqi insurgent network, led by Abu Mustafa al-Sheibani, had introduced a bomb design based on Iranian-backed Lebanese militia Hizbollah plans in last eight months. ](/news/2005/08/14/time-magazine-cites-united-states-military-intelligence-documents-that-an-iranian-backed-iraqi-insurgent-network-led-by-abu-mustafa-al-she.md)
-_Context: Abu Mustafa al-Sheibani, military intelligence, Iraqi insurgency, Iran, Lebanon, Time magazine, Hizbollah, militia_
+_Context: military intelligence, Iraqi insurgency, Iran, Abu Mustafa al-Sheibani, Time magazine, Lebanon, militia, Hizbollah_
 
 ##### coalition forces
 ### [ U.S. forces in Iraq raid a warehouse in Mosul. They uncover a suspected chemical weapons factory. ](/news/2005/08/14/u-s-forces-in-iraq-raid-a-warehouse-in-mosul-they-uncover-a-suspected-chemical-weapons-factory.md)
-_Context: Mosul, coalition forces, chemical weapon, factory_
+_Context: coalition forces, chemical weapon, Mosul, factory_
 
 ##### Helios Airways
 ### [ Helios Airways Flight 522 en route from Larnaca, Cyprus via Athens, Greece to Prague, Czech Republic crashes near Athens, with at least 121 onboard. Observations from Greek fighter aircraft indicate a decompression problem. ](/news/2005/08/14/helios-airways-flight-522-en-route-from-larnaca-cyprus-via-athens-greece-to-prague-czech-republic-crashes-near-athens-with-at-least-121.md)
-_Context: Flight 522, Larnaca, Athens, Cyprus, Prague, Helios Airways, Czech Republic_
+_Context: Helios Airways, Larnaca, Czech Republic, Cyprus, Athens, Flight 522, Prague_
 
 ##### Uganda
 ### [ Ugandan journalist Andrew Mwenda has been charged with sedition after a radio debate speculating on the death of Sudan's vice-president John Garang.](/news/2005/08/14/ugandan-journalist-andrew-mwenda-has-been-charged-with-sedition-after-a-radio-debate-speculating-on-the-death-of-sudan-s-vice-president-joh.md)
-_Context: sedition, Sudan, John Garang, Uganda, Andrew Mwenda_
+_Context: Sudan, John Garang, Uganda, Andrew Mwenda, sedition_
 
 ##### Liberia
 ### [ Liberian football hero George Weah has been given the go-ahead to contest the country's presidency. Liberia's election commission dismissed a complaint that his French citizenship barred him from standing.](/news/2005/08/14/liberian-football-hero-george-weah-has-been-given-the-go-ahead-to-contest-the-country-s-presidency-liberia-s-election-commission-dismissed.md)
-_Context: contest the country's presidency, Liberia, France, George Weah, citizenship_
+_Context: contest the country's presidency, citizenship, Liberia, France, George Weah_
 
 ## [Previous Day...](/news/2005/08/13/index.md)
 

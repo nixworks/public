@@ -13,7 +13,7 @@ Bombings in Baghdad, Kirkuk and Samara leave at least 35 people dead and dozens 
 
 ##### Ma Jian
 ### [Ma Jian, author of the banned novel "Beijing Coma", daubs red paint over his face at the London Book Fair and calls Chinese publishers "the mouthpiece of the Chinese communist party." ](/news/2012/04/19/ma-jian-author-of-the-banned-novel-beijing-coma-daubs-red-paint-over-his-face-at-the-london-book-fair-and-calls-chinese-publishers-the.md)
-_Context: China, Ma Jian, London Book Fair, Beijing Coma_
+_Context: Ma Jian, London Book Fair, China, Beijing Coma_
 
 ##### Alan Turing
 ### [Two papers on Alan Turing's theory of code-breaking are released to the UK's National Archives after 70 years. ](/news/2012/04/19/two-papers-on-alan-turing-s-theory-of-code-breaking-are-released-to-the-uk-s-national-archives-after-70-years.md)
@@ -25,7 +25,7 @@ Irish comedian Dylan Moran becomes the first professional English-speaking comed
 
 ##### Men At Work
 ### [Men At Work flautist Greg Ham is found dead at his Melbourne home. ](/news/2012/04/19/men-at-work-flautist-greg-ham-is-found-dead-at-his-melbourne-home.md)
-_Context: Greg Ham, Men At Work, Melbourne_
+_Context: Greg Ham, Melbourne, Men At Work_
 
 ##### The Band
 ### [The Band singer and drummer Levon Helm dies of throat cancer at the age of 71. ](/news/2012/04/19/the-band-singer-and-drummer-levon-helm-dies-of-throat-cancer-at-the-age-of-71.md)
@@ -33,7 +33,7 @@ Mr. Helm, whose drumming merged muscle, swing, economy and finesse, helped forge
 
 ##### UH-60 Black Hawk
 ### [A UH-60 Black Hawk helicopter reportedly crashed in Afghanistan, killing all four on board. ](/news/2012/04/19/a-uh-60-black-hawk-helicopter-reportedly-crashed-in-afghanistan-killing-all-four-on-board.md)
-_Context: Afghanistan, UH-60 Black Hawk_
+_Context: UH-60 Black Hawk, Afghanistan_
 
 ##### The New York Times
 ### [An agent at the centre of the U.S. prostitution scandal in Colombia denied one of his escorts $770 from an agreed fee of $800, according to "The New York Times", thus prompting the row that revealed the scandal to the public. ](/news/2012/04/19/an-agent-at-the-centre-of-the-u-s-prostitution-scandal-in-colombia-denied-one-of-his-escorts-770-from-an-agreed-fee-of-800-according-to.md)
@@ -45,7 +45,7 @@ The solid-fuelled missile, which will bring the whole of China as well as other 
 
 ##### South Korea
 ### [South Korea deploys new cruise missiles capable of destroying targets such as missile and nuclear bases anywhere in North Korea. ](/news/2012/04/19/south-korea-deploys-new-cruise-missiles-capable-of-destroying-targets-such-as-missile-and-nuclear-bases-anywhere-in-north-korea.md)
-_Context: South Korea, military installations, cruise missiles, North Korea_
+_Context: military installations, North Korea, cruise missiles, South Korea_
 
 ##### Irish Department of Health
 ### [A report commissioned by the Irish Department of Health finds significant increase in narcolepsy among individuals given the GlaxoSmithKline developed swine flu vaccine Pandemrix compared to those who did not receive the vaccine. ](/news/2012/04/19/a-report-commissioned-by-the-irish-department-of-health-finds-significant-increase-in-narcolepsy-among-individuals-given-the-glaxosmithkline.md)

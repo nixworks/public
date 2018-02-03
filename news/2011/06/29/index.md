@@ -21,11 +21,11 @@ A gunfight in the Democratic Republic of Congo mining capital of Lubumbashi leav
 
 ##### International Organization for Migration
 ### [The International Organization for Migration (IOM) expresses concern about thousands of Chadian people, mainly women, children and the elderly, stranded on dangerous territory on the border between Chad and Libya. ](/news/2011/06/29/the-international-organization-for-migration-iom-expresses-concern-about-thousands-of-chadian-people-mainly-women-children-and-the-elder.md)
-_Context: Chad, International Organization for Migration, Libya_
+_Context: Libya, Chad, International Organization for Migration_
 
 ##### Brown University
 ### [Research by Brown University finds the U.S. wars on Iraq and Afghanistan are expected to cost at least $3.2 trillion, and maybe as much as $4.4 trillion, higher than previously expected. ](/news/2011/06/29/research-by-brown-university-finds-the-u-s-wars-on-iraq-and-afghanistan-are-expected-to-cost-at-least-3-2-trillion-and-maybe-as-much-as.md)
-_Context: Brown University, War in Afghanistan (2001-present), Iraq War_
+_Context: Iraq War, Brown University, War in Afghanistan (2001-present)_
 
 ##### Abuja
 ### [A curfew is imposed on Abuja by the Nigerian government due to recent deadly attacks. ](/news/2011/06/29/a-curfew-is-imposed-on-abuja-by-the-nigerian-government-due-to-recent-deadly-attacks.md)
@@ -37,7 +37,7 @@ Colombian President Juan Manuel Santos condemns an attack by left-wing Farc rebe
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI launches a new Vatican website, ](/news/2011/06/29/pope-benedict-xvi-launches-a-new-vatican-website.md)
-_Context: Holy See, Pope Benedict XVI_
+_Context: Pope Benedict XVI, Holy See_
 
 ##### Rick Gekoski
 ### [Rick Gekoski, the chairman of the Man Booker International Prize judging panel, admits they were "animated by disagreement" over the controversial decision to give the 2011 award to Philip Roth amid fears that it would offend women after one of the female judges resigned in disgust. ](/news/2011/06/29/rick-gekoski-the-chairman-of-the-man-booker-international-prize-judging-panel-admits-they-were-animated-by-disagreement-over-the-controv.md)
@@ -57,7 +57,7 @@ _Context: British_
 
 ##### Alderney Gambling Control Commission
 ### [The Alderney Gambling Control Commission suspends Full Tilt Poker's gaming license prior to a hearing over an indictment by the United States Department of Justice. ](/news/2011/06/29/the-alderney-gambling-control-commission-suspends-full-tilt-poker-s-gaming-license-prior-to-a-hearing-over-an-indictment-by-the-united-state.md)
-_Context: Full Tilt Poker, indicted, U.S. Justice Department, Alderney Gambling Control Commission_
+_Context: DoJ, Full Tilt Poker, Alderney Gambling Control Commission, indicted_
 
 ##### Media conglomerate
 ### [Media conglomerate News Corporation sells MySpace to Specific Media. ](/news/2011/06/29/media-conglomerate-news-corporation-sells-myspace-to-specific-media.md)
@@ -81,11 +81,11 @@ South Sudan claims the North is using rebels to sow chaos ahead of its official 
 
 ##### North Korea
 ### [North Korea accuses South Korea of slander and threatens "a retaliatory sacred war". ](/news/2011/06/29/north-korea-accuses-south-korea-of-slander-and-threatens-a-retaliatory-sacred-war.md)
-_Context: slander, South Korea, North Korea_
+_Context: North Korea, South Korea, slander_
 
 ##### Omar al-Bashir
 ### [Omar al-Bashir of Sudan and Hu Jintao of the People's Republic of China meet. ](/news/2011/06/29/omar-al-bashir-of-sudan-and-hu-jintao-of-the-people-s-republic-of-china-meet.md)
-_Context: Hu Jintao, Sudan, China, Omar al-Bashir_
+_Context: Sudan, Hu Jintao, Omar al-Bashir, China_
 
 ##### U.S. state
 ### [A lawsuit of $25 million is brought by the mother of a U.S. teen, who was kidnapped, bound and forced to consume alcoholic substances before his death at a fraternity house, against the group responsible for his ordeal in the U.S. state of New York. ](/news/2011/06/29/a-lawsuit-of-25-million-is-brought-by-the-mother-of-a-u-s-teen-who-was-kidnapped-bound-and-forced-to-consume-alcoholic-substances-before.md)
@@ -121,7 +121,7 @@ Fianna Fáil Senator Ned O&#39;Sullivan has said he made &#39;around a dozen&#39
 
 ##### Rhode Island General Assembly
 ### [The Rhode Island General Assembly passes legislation allowing same-sex couples in the US state to enter civil unions. ](/news/2011/06/29/the-rhode-island-general-assembly-passes-legislation-allowing-same-sex-couples-in-the-us-state-to-enter-civil-unions.md)
-_Context: civil union, Rhode Island General Assembly_
+_Context: Rhode Island General Assembly, civil union_
 
 ## [Previous Day...](/news/2011/06/28/index.md)
 

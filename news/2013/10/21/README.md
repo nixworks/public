@@ -17,7 +17,7 @@ NSW is in a state of emergency as authorities warn of an unparalleled fire emerg
 
 ##### 2013 Harbin smog
 ### [Heavy smog envelopes the Chinese city of Harbin leading to the closure of schools and highways. ](/news/2013/10/21/heavy-smog-envelopes-the-chinese-city-of-harbin-leading-to-the-closure-of-schools-and-highways.md)
-_Context: Harbin, 2013 Harbin smog_
+_Context: 2013 Harbin smog, Harbin_
 
 ##### Laurent Fabius
 ### [Laurent Fabius, the Foreign Minister of France, summons the United States ambassador over allegations of US spying on millions of French phone calls reported in "Le Monde". ](/news/2013/10/21/laurent-fabius-the-foreign-minister-of-france-summons-the-united-states-ambassador-over-allegations-of-us-spying-on-millions-of-french-pho.md)

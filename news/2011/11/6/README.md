@@ -9,11 +9,11 @@ _Context: Oklahoma, 5.6 magnitude earthquake, Shawnee_
 
 ##### landslide
 ### [A landslide kills 18 and injures dozens in Manizales, Caldas, Colombia ](/news/2011/11/6/a-landslide-kills-18-and-injures-dozens-in-manizales-caldas-colombia.md)
-_Context: Caldas Department, Colombia, landslide, Manizales_
+_Context: Manizales, Colombia, landslide, Caldas Department_
 
 ##### Hungarian
 ### [Eleven Hungarian tourists die after a bus overturns near the Egyptian resort of Hurghada. ](/news/2011/11/6/eleven-hungarian-tourists-die-after-a-bus-overturns-near-the-egyptian-resort-of-hurghada.md)
-_Context: Egypt, Hungarian, Hurghada_
+_Context: Hungarian, Egypt, Hurghada_
 
 ##### Washington DC
 ### [Thousands of people protest in Washington DC against the proposed Keystone XL project. ](/news/2011/11/6/thousands-of-people-protest-in-washington-dc-against-the-proposed-keystone-xl-project.md)

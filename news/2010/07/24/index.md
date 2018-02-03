@@ -3,13 +3,13 @@ Formats: [HTML](2010/07/24/index.html)  [JSON](2010/07/24/index.json)  [XML](201
 
 ## [2010-07-24](/news/2010/07/24/index.md)
 
-##### U.S.
+##### United States
 ### [The United States and South Korea begin showing off their navy and air force by maneuvering dozens of ships and planes and thousands of troops in the Sea of Japan with intent to "rattle" North Korea. ](/news/2010/07/24/the-united-states-and-south-korea-begin-showing-off-their-navy-and-air-force-by-maneuvering-dozens-of-ships-and-planes-and-thousands-of-troo.md)
 The US and South Korea hold a major military exercise in the Sea of Japan, despite threats of retaliation from North Korea.
 
 ##### Royal Air Force
 ### [The Royal Air Force tests fighter jets with which it intends to use to shoot down any rogue passenger planes. ](/news/2010/07/24/the-royal-air-force-tests-fighter-jets-with-which-it-intends-to-use-to-shoot-down-any-rogue-passenger-planes.md)
-_Context: fighter jet, Royal Air Force_
+_Context: Royal Air Force, fighter jet_
 
 ##### Monterrey
 ### [A mass grave containing at least 50 tortured and burned corpses is unearthed east of Monterrey, Nuevo Leon, in Mexico. ](/news/2010/07/24/a-mass-grave-containing-at-least-50-tortured-and-burned-corpses-is-unearthed-east-of-monterrey-nuevo-lea3n-in-mexico.md)
@@ -29,7 +29,7 @@ Protesters around the world rally in support of jailed woman facing execution fo
 
 ##### Academy Award
 ### [Thousands of people across the globe film their daily lives for Oscar-winning director Kevin Macdonald and producer Ridley Scott's YouTube-based documentary "Life in a Day". ](/news/2010/07/24/thousands-of-people-across-the-globe-film-their-daily-lives-for-oscar-winning-director-kevin-macdonald-and-producer-ridley-scott-s-youtube-b.md)
-_Context: Kevin Macdonald, Life in a Day, Ridley Scott, Academy Award_
+_Context: Academy Award, Life in a Day, Kevin Macdonald, Ridley Scott_
 
 ##### Peru
 ### [More than half of Peru enters a state of emergency due to unusually cold weather. ](/news/2010/07/24/more-than-half-of-peru-enters-a-state-of-emergency-due-to-unusually-cold-weather.md)
@@ -57,7 +57,7 @@ _Context: child pornography, U.S. military_
 
 ##### House of Representatives
 ### [In the United States House of Representatives, Republicans introduce Resolution 1553, which expresses United States support for Israeli use of any necessary military force to eliminate any threat it believes Iran poses. ](/news/2010/07/24/in-the-united-states-house-of-representatives-republicans-introduce-resolution-1553-which-expresses-united-states-support-for-israeli-use.md)
-_Context: Israel, Iran, House of Representatives, U.S._
+_Context: United States, House of Representatives, Israel, Iran_
 
 ##### Prime Minister of Russia
 ### [Prime Minister of Russia Vladimir Putin meets the Russian intelligence agents who were swapped with the United States. ](/news/2010/07/24/prime-minister-of-russia-vladimir-putin-meets-the-russian-intelligence-agents-who-were-swapped-with-the-united-states.md)

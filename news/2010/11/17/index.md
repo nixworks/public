@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/17/index.html)  [JSON](2010/11/17/index.json)  [XML](201
 
 ##### Alpha Conde's
 ### [After Alpha Conde was declared the first democratically elected president of Guinea, at least nine people have been killed during riots in Guinea's capital, Conakry. ](/news/2010/11/17/after-alpha-conda-c-was-declared-the-first-democratically-elected-president-of-guinea-at-least-nine-people-have-been-killed-during-riots-in.md)
-_Context: Alpha Conde's, Guinea, Conakry_
+_Context: Guinea, Alpha Conde's, Conakry_
 
 ##### German
 ### [Germany heightens its police security presence at its airports after identifying "concrete indications" that a terrorist attack is planned for the end of November ](/news/2010/11/17/germany-heightens-its-police-security-presence-at-its-airports-after-identifying-concrete-indications-that-a-terrorist-attack-is-planned-f.md)
@@ -35,7 +35,7 @@ Prime Minister Saad Hariri on Tuesday wrapped up a two-day official visit to Rus
 ### [EU finance ministers downplay the importance of talks on a potential bailout for Ireland, claiming that no detailed discussions were held on the issue ](/news/2010/11/17/eu-finance-ministers-downplay-the-importance-of-talks-on-a-potential-bailout-for-ireland-claiming-that-no-detailed-discussions-were-held-on.md)
 European finance ministers say they did not hold detailed discussions on a potential bail-out for the Irish Republic at a meeting in Brussels.
 
-##### U.S.
+##### United States
 ### [A United States bankruptcy judge orders Bank of America to return $500 million it seized from the bank accounts of the defunct Lehman Brothers trading firm a few weeks before Lehman declared bankruptcy in 2008. ](/news/2010/11/17/a-united-states-bankruptcy-judge-orders-bank-of-america-to-return-500-million-it-seized-from-the-bank-accounts-of-the-defunct-lehman-brothe.md)
 Barclays Plc said disputes over an $11 billion profit it allegedly made buying bankrupt Lehman Brothers Holdings Inc.’s brokerage may not all be resolved in a current trial and might need “further adjudication.”
 
@@ -49,7 +49,7 @@ More than 100 homes are evacuated in Cornwall as heavy rain and gale-force winds
 
 ##### Janni Letta
 ### [Italian Vice Prime Minister Janni Letta held talks with visiting Head of Iran's Cultural Heritage, Handcrafts and Tourism Organization (ICHTO) Hamid Baqaei. ](/news/2010/11/17/italian-vice-prime-minister-janni-letta-held-talks-with-visiting-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-icht.md)
-_Context: Janni Letta, Hamid Baqaei, Cultural Heritage, Handcrafts and Tourism Organization_
+_Context: Janni Letta, Cultural Heritage, Handcrafts and Tourism Organization, Hamid Baqaei_
 
 ##### Italian
 ### [Italian police arrest fugitive Camorra crime boss Antonio Iovine. ](/news/2010/11/17/italian-police-arrest-fugitive-camorra-crime-boss-antonio-iovine.md)
@@ -65,19 +65,19 @@ _Context: organ trafficking_
 
 ##### Cook Islands
 ### [People in the Pacific island nation of Cook Islands go to the polls for the general election as well as a referendum on reducing the number of MPs. ](/news/2010/11/17/people-in-the-pacific-island-nation-of-cook-islands-go-to-the-polls-for-the-general-election-as-well-as-a-referendum-on-reducing-the-number.md)
-_Context: Cook Islands, MP, referendum, general election_
+_Context: general election, MP, referendum, Cook Islands_
 
 ##### Republican
 ### [The Republican and Democratic party caucuses in the United States House of Representatives hold leadership elections. Nancy Pelosi of the Democrats is elected as Minority Leader when the new House sits in January with John Boehner to become Speaker of the United States House of Representatives. ](/news/2010/11/17/the-republican-and-democratic-party-caucuses-in-the-united-states-house-of-representatives-hold-leadership-elections-nancy-pelosi-of-the-de.md)
-_Context: Democrat, Nancy Pelosi, Minority Leader, U.S. Speaker of the House of Representatives, House of Representatives, John Boehner, caucus, Republican_
+_Context: Minority Leader, Nancy Pelosi, caucus, Democrat, John Boehner, Republican, U.S. Speaker of the House of Representatives, House of Representatives_
 
 ##### state of emergency
 ### [A state of emergency is declared in Guinea after post election violence. ](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.md)
-_Context: November's presidential poll, Guinea, state of emergency_
+_Context: state of emergency, Guinea, November's presidential poll_
 
 ##### United States Senate
 ### [Senator Lisa Murkowski wins the Alaska senate election becoming the first successful write-in candidate to be elected since 1954. ](/news/2010/11/17/senator-lisa-murkowski-wins-the-alaska-senate-election-becoming-the-first-successful-write-in-candidate-to-be-elected-since-1954.md)
-_Context: write-in candidate, Lisa Murkowski, Alaska senate  election, United States Senate_
+_Context: write-in candidate, United States Senate, Alaska senate  election, Lisa Murkowski_
 
 ##### Facebook
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)

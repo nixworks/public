@@ -9,11 +9,11 @@ The emergency landing of two U.S. Marine Corps F-18 fighter jets on the island o
 
 ##### Mexico
 ### [Flames engulf a Mexican state-run Pemex oil platform in the Gulf of Mexico, killing four workers. ](/news/2015/04/1/flames-engulf-a-mexican-state-run-pemex-oil-platform-in-the-gulf-of-mexico-killing-four-workers.md)
-_Context: Petroleos Mexicanos, Gulf of Mexico, Mexico_
+_Context: Mexico, Gulf of Mexico, Petroleos Mexicanos_
 
 ##### Russia
 ### [The Russian trawler "Dalniy Vostok" with 132 crew sinks off of the Kamchatka peninsula leaving at least 54 dead and 15 missing. ](/news/2015/04/1/the-russian-trawler-dalniy-vostok-with-132-crew-sinks-off-of-the-kamchatka-peninsula-leaving-at-least-54-dead-and-15-missing.md)
-_Context: Russia, sinks, Kamchatka peninsula, ''Dalniy Vostok''_
+_Context: ''Dalniy Vostok'', Russia, sinks, Kamchatka peninsula_
 
 ##### California
 ### [California governor Jerry Brown announces mandatory water restrictions in response to the worst drought in California history. ](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.md)
@@ -41,7 +41,7 @@ President Barack Obama launched a sanctions program on Wednesday to target indiv
 
 ##### Thailand
 ### [Thailand's military junta repeals martial law in favor of an imposed constitutional provision that allows the leader of the government to make extra-constitutional orders. ](/news/2015/04/1/thailand-s-military-junta-repeals-martial-law-in-favor-of-an-imposed-constitutional-provision-that-allows-the-leader-of-the-government-to-ma.md)
-_Context: military junta, Thailand_
+_Context: Thailand, military junta_
 
 ## [Previous Day...](/news/2015/03/31/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2009/04/27/index.html)  [JSON](2009/04/27/index.json)  [XML](200
 
 ##### Boeing Company
 ### [ A low-flying Boeing VC-25, "Air Force One", causes momentary panic in New York City, New York, United States. ](/news/2009/04/27/a-low-flying-boeing-vc-25-air-force-one-causes-momentary-panic-in-new-york-city-new-york-united-states.md)
-_Context: VC-25, Air Force One, New York City, U.S., New York, panic, Boeing Company_
+_Context: United States, Air Force One, New York City, VC-25, New York, Boeing Company, panic_
 
 ##### Mexico
 ### [ Mexico reports 149 deaths from the outbreak of swine influenza. ](/news/2009/04/27/mexico-reports-149-deaths-from-the-outbreak-of-swine-influenza.md)
-_Context: Mexico, current outbreak, swine flu_
+_Context: swine flu, current outbreak, Mexico_
 
 ##### General Motors
 ### [ General Motors announces that its Pontiac brand will be eliminated by 2010. ](/news/2009/04/27/general-motors-announces-that-its-pontiac-brand-will-be-eliminated-by-2010.md)
@@ -17,19 +17,19 @@ _Context: General Motors, Pontiac, brand_
 
 ##### Japan
 ### [ Japan's NEC Corporation and Renesas Technology announce their intentions to merge. ](/news/2009/04/27/japan-s-nec-corporation-and-renesas-technology-announce-their-intentions-to-merge.md)
-_Context: pre-merger, Japan, Renesas Technology, NEC Corporation_
+_Context: Japan, NEC Corporation, pre-merger, Renesas Technology_
 
 ##### Yemen
 ### [ Yemen's military rescues four oil tankers from Somali pirates. ](/news/2009/04/27/yemen-s-military-rescues-four-oil-tankers-from-somali-pirates.md)
-_Context: Somali pirates, Yemeni, Yemen, Somalia, oil tanker_
+_Context: Yemeni, Yemen, Somalia, oil tanker, Somali pirates_
 
 ##### magnitude
 ### [ A 5.6-magnitude earthquake strikes near Chilpancingo, Guerrero, Mexico. ](/news/2009/04/27/a-5-6-magnitude-earthquake-strikes-near-chilpancingo-guerrero-mexico.md)
-_Context: Mexico, earthquake, magnitude, Chilpancingo, Guerrero_
+_Context: Guerrero, Mexico, earthquake, Chilpancingo, magnitude_
 
 ##### Madagascan Army
 ### [ The People's Armed Forces invade Madagascar's constitutional court. ](/news/2009/04/27/the-people-s-armed-forces-invade-madagascar-s-constitutional-court.md)
-_Context: Madagascar, political crisis, Madagascan Army, constitutional court_
+_Context: Madagascan Army, constitutional court, Madagascar, political crisis_
 
 ##### police officer
 ### [ A police officer suffers a mental breakdown and kills 3 people in Moscow, Russia. ](/news/2009/04/27/a-police-officer-suffers-a-mental-breakdown-and-kills-3-people-in-moscow-russia.md)

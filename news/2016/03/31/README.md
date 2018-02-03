@@ -5,7 +5,7 @@ Formats: [HTML](2016/03/31/index.html)  [JSON](2016/03/31/index.json)  [XML](201
 
 ##### Israeli-Palestinian conflict (2015-present)
 ### [Israeli security forces arrest 16 Palestinian suspects on the West Bank. ](/news/2016/03/31/israeli-security-forces-arrest-16-palestinian-suspects-on-the-west-bank.md)
-_Context: Israel, West Bank, Israeli-Palestinian conflict (2015-present), Palestinian_
+_Context: Palestinian, Israeli-Palestinian conflict (2015-present), Israel, West Bank_
 
 ##### War in Somalia
 ### [A suicide bomber in Somalia's Puntland region detonates while hugging Saeed Ali, the treasurer of Galkayo, killing him and several police officers guarding him. Islamic militant group Al-Shabaab claims responsibility. ](/news/2016/03/31/a-suicide-bomber-in-somaliaas-puntland-region-detonates-while-hugging-saeed-ali-the-treasurer-of-galkayo-killing-him-and-several-police.md)
@@ -17,11 +17,11 @@ WASHINGTON: Turkish President Tayyip Erdogan said an attack in the southeastern 
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports a drone attack, "most likely operated by the US-led coalition," kills Abu al-Hija, a high-ranking Tunisian ISIL commander, near the Islamic State's de facto Syrian capital Raqqa. ](/news/2016/03/31/the-syrian-observatory-for-human-rights-reports-a-drone-attack-amost-likely-operated-by-the-us-led-coalition-a-kills-abu-al-hija-a-hig.md)
-_Context: ISIL, Syrian Civil War, Al-Raqqah, Syrian Observatory for Human Rights, Tunisia, Syria_
+_Context: Tunisia, Syria, Syrian Observatory for Human Rights, Al-Raqqah, ISIL, Syrian Civil War_
 
 ##### U.S. Federal Trade Commission
 ### [The U.S. Federal Trade Commission files an anti-trust suit against Endo Pharmaceuticals, Inc., and several other drug companies for using pay-for-delay settlements to block consumers' access to lower-cost generic versions of pain medications, Opana ER and Lidoderm. ](/news/2016/03/31/the-u-s-federal-trade-commission-files-an-anti-trust-suit-against-endo-pharmaceuticals-inc-and-several-other-drug-companies-for-using-pa.md)
-_Context: pain medications, pay-for-delay settlements, generic, reduced competition and higher prices, Lidoderm, Endo International plc, U.S. Federal Trade Commission, Opana ER_
+_Context: generic, reduced competition and higher prices, pay-for-delay settlements, U.S. Federal Trade Commission, pain medications, Opana ER, Lidoderm, Endo International plc_
 
 ##### consortium
 ### [A consortium led by China's Anbang Insurance Group announces it will walk away from its $14 billion takeover bid for Starwood Hotels. This restores Marriott International as the highest bidder ($13.6 billion). ](/news/2016/03/31/a-consortium-led-by-china-s-anbang-insurance-group-announces-it-will-walk-away-from-its-14-billion-takeover-bid-for-starwood-hotels-this-r.md)
@@ -33,13 +33,13 @@ Three more bodies were recovered from under the debris of the flyover that colla
 
 ##### Nuclear Security Summit
 ### [More than 50 heads of state as well as representatives from international organizations attend the annual Nuclear Security Summit in Washington, D.C., with the notable exception of Russia, which declined to attend. The main agenda of the two-day gathering is the discussion of North Korea and the threat it poses with its nuclear weapons and the possibility of ISIS extremists getting a nuclear weapon. ](/news/2016/03/31/more-than-50-heads-of-state-as-well-as-representatives-from-international-organizations-attend-the-annual-nuclear-security-summit-in-washing.md)
-_Context: Washington, D.C., ISIL, Nuclear Security Summit, North Korea's nuclear program, Nuclear Security Summit, North Korea, Russia_
+_Context: Washington, D.C., Russia, North Korea, Nuclear Security Summit, ISIL, Nuclear Security Summit, North Korea's nuclear program_
 
 ##### Yugoslav Wars
 ### [Former Deputy Prime Minister of Serbia and nationalist politician, Vojislav Seselj, is acquitted of all nine charges of committing atrocities in Bosnia and Croatia during the early 1990s by the International Criminal Tribunal for the former Yugoslavia. ](/news/2016/03/31/former-deputy-prime-minister-of-serbia-and-nationalist-politician-vojislav-a-ea-elj-is-acquitted-of-all-nine-charges-of-committing-atrocit.md)
 Former Serbian deputy PM was charged by ICTY with crimes against humanity and war crimes in Croatia and Bosnia in 1990s
 
-##### U.S.
+##### United States
 ### [A U.S. official announces that The Pentagon plans to transfer about a dozen inmates from the Guantanamo Bay detention camp to at least two countries that have agreed to take them, in the latest move in Barack Obama's final push to close the facility. The official declined to name the countries ready to take them in. ](/news/2016/03/31/a-u-s-official-announces-that-the-pentagon-plans-to-transfer-about-a-dozen-inmates-from-the-guantanamo-bay-detention-camp-to-at-least-two-c.md)
 Transfers from the US military prison in Cuba are expected to begin in the next few days, in latest move in Obama’s final push to close the facility
 
@@ -53,11 +53,11 @@ A Virginia State trooper who was shot when a suspect opened fire at a Greyhound 
 
 ##### Vietnam
 ### [Vietnam elects Nguyen Thi Kim Ngan chairwoman of the National Assembly. Ngan, who won 95.5 percent of the votes, is the first woman to lead Vietnam's legislature. In January, she was re-elected to the powerful Politburo at the Communist Party Congress. ](/news/2016/03/31/vietnam-elects-nguya-n-tha-kim-ngac-n-chairwoman-of-the-national-assembly-ngac-n-who-won-95-5-percent-of-the-votes-is-the-first-woman-to.md)
-_Context: Nguyen Thi Kim Ngan, Communist Party Congress, Parliament, Politburo, Vietnam_
+_Context: Vietnam, Parliament, Communist Party Congress, Politburo, Nguyen Thi Kim Ngan_
 
 ##### South African Constitutional Court
 ### [The Constitutional Court of South Africa delivered a unanimous judgement that President Jacob Zuma and the National Assembly failed to uphold the country's constitution by ignoring the findings of the Public Protector regarding public expenditure on Zuma's private homestead. ](/news/2016/03/31/the-constitutional-court-of-south-africa-delivered-a-unanimous-judgement-that-president-jacob-zuma-and-the-national-assembly-failed-to-uphol.md)
-_Context: National Assembly of South Africa, South African Constitutional Court, Public Protector, Jacob Zuma_
+_Context: Jacob Zuma, South African Constitutional Court, Public Protector, National Assembly of South Africa_
 
 ##### 2016 U.S. presidential election
 ### [Pennsylvania's Supreme Court upholds the previous court ruling that dismissed the case against Ted Cruz which challenged his eligibility to appear on the state's GOP primary ballot, and serve as president. ](/news/2016/03/31/pennsylvania-s-supreme-court-upholds-the-previous-court-ruling-that-dismissed-the-case-against-ted-cruz-which-challenged-his-eligibility-to.md)
@@ -65,11 +65,11 @@ _Context: National Assembly of South Africa, South African Constitutional Court,
 
 ##### National Assembly
 ### [Venezuela's National Assembly, responding to last month's Central Bank of Venezuela report that the country experienced a 180.9 percent inflation increase in 2015, passes legislation, "The Law of Bonds for Food and Medicine for Retirees and Pensioners", that could make it easier for pensioners and retirees to pay for food and medicine. The approved bill has been forwarded for President Nicolas Maduro's signature. ](/news/2016/03/31/venezuela-s-national-assembly-responding-to-last-month-s-central-bank-of-venezuela-report-that-the-country-experienced-a-180-9-percent-infl.md)
-_Context: President, Nicolas Maduro, National Assembly, inflation, Venezuelan Central Bank_
+_Context: National Assembly, inflation, Venezuelan Central Bank, President, Nicolas Maduro_
 
 ##### Italy
 ### [Italy's Minister of Economic Development, Federica Guidi, resigns amid allegations that she passed along confidential information to her boyfriend that helped his business interests. ](/news/2016/03/31/italy-s-minister-of-economic-development-federica-guidi-resigns-amid-allegations-that-she-passed-along-confidential-information-to-her-boy.md)
-_Context: Federica Guidi, Italy, Minister of Economic Development_
+_Context: Italy, Federica Guidi, Minister of Economic Development_
 
 ##### Brazil protests
 ### [Brazil's Supreme Court voted 8-2 to take over the corruption investigation of former President Luiz Inacio Lula da Silva. Silva alleges Judge Sergio Moro unfairly targets him. The court also overruled Moro's decision to release the recording of Silva's call with President Dilma Rousseff, since it is the only court that can authorize a wiretap on presidential conversations. The full court is still to rule on the injunction that prevents Silva from taking office as the President's Chief of Staff. ](/news/2016/03/31/brazil-s-supreme-court-voted-8-2-to-take-over-the-corruption-investigation-of-former-president-luiz-ina-cio-lula-da-silva-silva-alleges-jud.md)

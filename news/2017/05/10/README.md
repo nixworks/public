@@ -5,11 +5,11 @@ Formats: [HTML](2017/05/10/index.html)  [JSON](2017/05/10/index.json)  [XML](201
 
 ##### Pope Francis
 ### [Pope Francis intends to canonize two of the children who had visions at Fatima. ](/news/2017/05/10/pope-francis-intends-to-canonize-two-of-the-children-who-had-visions-at-fatima.md)
-_Context: Fatima, canonize, Pope Francis_
+_Context: Pope Francis, Fatima, canonize_
 
 ##### Cross-Strait relations
 ### [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed the Beijing view that both sides belong to a single China under the One-China policy; the spokesman further said that the health of people in Taiwan is not being put at risk by Taiwan's inability to attend. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md)
-_Context: Taiwan, Cross-Strait relations, One-China policy, World Health Assembly, Tsai Ing-wen, China, Taiwan Affairs Office_
+_Context: Tsai Ing-wen, Taiwan Affairs Office, World Health Assembly, One-China policy, China, Taiwan, Cross-Strait relations_
 
 ##### Bahamian general election, 2017
 ### [Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md)
@@ -21,7 +21,7 @@ Members of parliament dismiss government in no-confidence motion, triggering a s
 
 ##### Russian interference in the 2016 United States elections
 ### [The U.S. Attorney's Office in Alexandria, Virginia, through U.S. Attorney Dana Boente, issues subpoenas to former National Security Advisor Michael T. Flynn to assess the extent of his ties to Russia. ](/news/2017/05/10/the-u-s-attorney-s-office-in-alexandria-virginia-through-u-s-attorney-dana-boente-issues-subpoenas-to-former-national-security-advisor.md)
-_Context: Russian interference in the 2016 United States elections, subpoena, Russia, Alexandria, Virginia, Dana Boente, National Security Advisor, Michael Flynn_
+_Context: Russia, subpoena, Russian interference in the 2016 United States elections, National Security Advisor, Alexandria, Virginia, Michael Flynn, Dana Boente_
 
 ## [Previous Day...](/news/2017/05/9/index.md)
 

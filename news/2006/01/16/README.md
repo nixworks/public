@@ -5,27 +5,27 @@ Formats: [HTML](2006/01/16/index.html)  [JSON](2006/01/16/index.json)  [XML](200
 
 ##### U.S. President
 ### [ Former United States President Gerald Ford is hospitalized with pneumonia. ](/news/2006/01/16/former-united-states-president-gerald-ford-is-hospitalized-with-pneumonia.md)
-_Context: U.S. President, pneumonia, Gerald Ford_
+_Context: pneumonia, Gerald Ford, U.S. President_
 
 ##### Rizgar Mohammed Amin
 ### [ Rizgar Mohammed Amin, the chief judge in the Saddam Hussein trial, tenders his resignation, following criticism of his handling of the trial. ](/news/2006/01/16/rizgar-mohammed-amin-the-chief-judge-in-the-saddam-hussein-trial-tenders-his-resignation-following-criticism-of-his-handling-of-the-tria.md)
-_Context: Rizgar Mohammed Amin, Saddam Hussein, Trials of Saddam Hussein_
+_Context: Rizgar Mohammed Amin, Trials of Saddam Hussein, Saddam Hussein_
 
 ##### United Nations
 ### [ The United Nations appeals for US$240 million of food aid for West Africa to feed at least 10 million people affected by the food crisis, with Niger being the worst-affected country. ](/news/2006/01/16/the-united-nations-appeals-for-us-240-million-of-food-aid-for-west-africa-to-feed-at-least-10-million-people-affected-by-the-food-crisis-w.md)
-_Context: West Africa, United Nations, Niger_
+_Context: Niger, West Africa, United Nations_
 
 ##### dockworker
 ### [ A dockworkers' strike in Europe has thousands of workers off the job in protest over proposed liberalization of European Union rules on port services. A demonstration outside the European Parliament in Strasbourg leaves twelve French police officers injured. ](/news/2006/01/16/a-dockworkers-strike-in-europe-has-thousands-of-workers-off-the-job-in-protest-over-proposed-liberalization-of-european-union-rules-on-por.md)
-_Context: European Parliament, dockworker, strike, European Union, Strasbourg_
+_Context: dockworker, European Parliament, Strasbourg, strike, European Union_
 
 ##### U.S. Vice President
 ### [ Former US Vice President Al Gore blasts President George W. Bush's policy of spying on American citizen conversations with suspected overseas terrorists, saying President Bush "repeatedly and persistently" broke the law in connection with the NSA warrantless surveillance controversy, says the United States Constitution is in danger. ](/news/2006/01/16/former-us-vice-president-al-gore-blasts-president-george-w-bush-s-policy-of-spying-on-american-citizen-conversations-with-suspected-overse.md)
-_Context: United States Constitution, warrantless wiretapping, Al Gore, U.S. President, U.S. Vice President, George W. Bush_
+_Context: U.S. Vice President, Al Gore, warrantless wiretapping, U.S. President, United States Constitution, George W. Bush_
 
 ##### Premier
 ### [ The Premier of Western Australia, Geoff Gallop, resigns his office after announcing he is suffering from depression. ](/news/2006/01/16/the-premier-of-western-australia-geoff-gallop-resigns-his-office-after-announcing-he-is-suffering-from-depression.md)
-_Context: Premier, depression, Geoff Gallop_
+_Context: Geoff Gallop, Premier, depression_
 
 ##### Afghanistan
 ### [ At least 27 people are killed in two suicide bombings in Afghanistan. ](/news/2006/01/16/at-least-27-people-are-killed-in-two-suicide-bombings-in-afghanistan.md)

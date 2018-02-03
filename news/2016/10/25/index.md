@@ -9,7 +9,7 @@ Militant group Islamic State said on Tuesday that fighters loyal to its movement
 
 ##### War in Somalia (2009-present)
 ### [A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md)
-_Context: Mogadishu, War in Somalia (2009-present), Al-Shabaab_
+_Context: War in Somalia (2009-present), Mogadishu, Al-Shabaab_
 
 ##### Dammam, Saudi Arabia
 ### [A shooting in Dammam, Saudi Arabia, leaves two security officers dead. ](/news/2016/10/25/a-shooting-in-dammam-saudi-arabia-leaves-two-security-officers-dead.md)
@@ -31,7 +31,7 @@ Paul Beatty&#039;s The Sellout, a stinging satire of race and class in the Unite
 ### [The Catholic Church announces that cremated remains must be kept in consecrated land, rather than scattered about or kept at home. The Church first permitted cremation in 1963, but still strongly favours burial. ](/news/2016/10/25/the-catholic-church-announces-that-cremated-remains-must-be-kept-in-consecrated-land-rather-than-scattered-about-or-kept-at-home-the-churc.md)
 The ashes of cremated Catholics cannot be kept at home, scattered or divided among family members, the Vatican announces.
 
-##### Chinese
+##### China
 ### [Illegally stored explosives cause an explosion in a house in northwestern China that kills at least 14 people and injures 147 others in the town of Xinmin in Shaanxi province. ](/news/2016/10/25/illegally-stored-explosives-cause-an-explosion-in-a-house-in-northwestern-china-that-kills-at-least-14-people-and-injures-147-others-in-the.md)
 A powerful blast at a prefabricated house in northwestern China on Monday killed at least 14 people and injured 147, state news agency Xinhua said.
 
@@ -53,7 +53,7 @@ A former nurse from Woodstock, Ont., has been charged with eight counts of first
 
 ##### Charles R. Breyer
 ### [U.S. District Judge Charles R. Breyer in San Francisco approves German automaker Volkswagen $14.7 billion settlement with federal and California regulators and the owners of the 475,000 polluting diesel vehicles over diesel emissions cheating scandal. Volkswagen still faces billions of dollars more in fines and litigation. ](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-francisco-approves-german-automaker-volkswagen-14-7-billion-settlement-with-federal-and-califo.md)
-_Context: California, German, Volkswagen, Charles R. Breyer, $, San Francisco_
+_Context: San Francisco, California, Volkswagen, $, German, Charles R. Breyer_
 
 ## [Previous Day...](/news/2016/10/24/index.md)
 

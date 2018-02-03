@@ -17,7 +17,7 @@ Jihadists shot down a Syrian warplane conducting strikes on the Islamic State st
 
 ##### Mayon Volcano
 ### [Twelve thousand people have been evacuated from the area near the Mayon Volcano on the Philippines island of Luzon due to concerns over a possible eruption. ](/news/2014/09/16/twelve-thousand-people-have-been-evacuated-from-the-area-near-the-mayon-volcano-on-the-philippines-island-of-luzon-due-to-concerns-over-a-po.md)
-_Context: Luzon, Philippines, Mayon Volcano_
+_Context: Philippines, Luzon, Mayon Volcano_
 
 ##### Typhoon Kalmaegi
 ### [Typhoon Kalmaegi sweeps past Hong Kong after causing six deaths in the Philippines on Saturday. ](/news/2014/09/16/typhoon-kalmaegi-sweeps-past-hong-kong-after-causing-six-deaths-in-the-philippines-on-saturday.md)
@@ -27,7 +27,7 @@ Hong Kong was shuttered today as a powerful typhoon swept past the city, bringin
 ### [Indonesian police chief General Sutarman says he knows what happened to the MH370 and an aviation expert claims MH370's pilot, Zaharie Ahmad Shah, caused the plane to crash by locking his copilot out of the cockpit, depressurised the cabin and shut down all communications before turning the plane around. ](/news/2014/09/16/indonesian-police-chief-general-sutarman-says-he-knows-what-happened-to-the-mh370-and-an-aviation-expert-claims-mh370as-pilot-zaharie-ahm.md)
 TWO people have come forward claiming they know what caused Flight MH370 to disappear without a trace.
 
-##### U.S.
+##### United States
 ### [The United States will send thousands of troops to West Africa to build Ebola virus clinics and train health workers. ](/news/2014/09/16/the-united-states-will-send-thousands-of-troops-to-west-africa-to-build-ebola-virus-clinics-and-train-health-workers.md)
 The United States will send thousands of troops to respond to the Ebola outbreak in West Africa by building clinics and training hundreds of healthcare workers, US President Barack Obama announced on
 
@@ -37,7 +37,7 @@ Ukrainian MPs and the European Parliament are set to ratify a key EU association
 
 ##### Russian
 ### [Russian billionaire Vladimir Yevtushenkov is placed under house arrest for alleged money laundering. ](/news/2014/09/16/russian-billionaire-vladimir-yevtushenkov-is-placed-under-house-arrest-for-alleged-money-laundering.md)
-_Context: money laundering, Vladimir Yevtushenkov, Russian_
+_Context: Vladimir Yevtushenkov, Russian, money laundering_
 
 ## [Previous Day...](/news/2014/09/15/index.md)
 

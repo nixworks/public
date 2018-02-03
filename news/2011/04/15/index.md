@@ -5,7 +5,7 @@ Formats: [HTML](2011/04/15/index.html)  [JSON](2011/04/15/index.json)  [XML](201
 
 ##### civil war
 ### [2011 Libyan civil war: Human rights groups accuse pro-Gaddafi troops of using cluster bombs in Misrata. ](/news/2011/04/15/2011-libyan-civil-war-human-rights-groups-accuse-pro-gaddafi-troops-of-using-cluster-bombs-in-misrata.md)
-_Context: cluster bomb, civil war, Misrata, Muammar Gaddafi_
+_Context: civil war, Muammar Gaddafi, Misrata, cluster bomb_
 
 ##### protestors
 ### [2011 Syrian protests: Police use tear gas to disperse tens of thousands of protesters in the capital Damascus. ](/news/2011/04/15/2011-syrian-protests-police-use-tear-gas-to-disperse-tens-of-thousands-of-protesters-in-the-capital-damascus.md)
@@ -21,15 +21,15 @@ At least 13 people killed in worst attack by fighters since lifting of longtime 
 
 ##### Hamas
 ### [Hamas finds the dead body of kidnapped Italian activist Vittorio Arrigoni in Gaza City. ](/news/2011/04/15/hamas-finds-the-dead-body-of-kidnapped-italian-activist-vittorio-arrigoni-in-gaza-city.md)
-_Context: Hamas, Italian, Gaza, Vittorio Arrigoni_
+_Context: Italian, Vittorio Arrigoni, Hamas, Gaza_
 
 ##### A bomb explodes
 ### [A bomb explodes in a mosque in the Indonesian city of Cirebon in West Java with at least one person dead and seventeen injured. ](/news/2011/04/15/a-bomb-explodes-in-a-mosque-in-the-indonesian-city-of-cirebon-in-west-java-with-at-least-one-person-dead-and-seventeen-injured.md)
-_Context: mosque, Cirebon, A bomb explodes, West Java, Indonesia_
+_Context: Indonesia, mosque, A bomb explodes, Cirebon, West Java_
 
 ##### Blaise Compaore
 ### [Blaise Compaore, President of Burkina Faso, who took power in a coup 24 years ago, reportedly flees a mutiny of his military bodyguards. ](/news/2011/04/15/blaise-compaore-president-of-burkina-faso-who-took-power-in-a-coup-24-years-ago-reportedly-flees-a-mutiny-of-his-military-bodyguards.md)
-_Context: Burkina Faso, Blaise Compaore, President_
+_Context: Blaise Compaore, Burkina Faso, President_
 
 ##### Australia
 ### [Australian artist Ben Quilty wins the Archibald Prize for his portrait of artist Margaret Olley. ](/news/2011/04/15/australian-artist-ben-quilty-wins-the-archibald-prize-for-his-portrait-of-artist-margaret-olley.md)
@@ -41,19 +41,19 @@ _Context: China_
 
 ##### South Korea
 ### [Two South Korean internet search engines accuse Google of antitrust violations. ](/news/2011/04/15/two-south-korean-internet-search-engines-accuse-google-of-antitrust-violations.md)
-_Context: internet search engine, antitrust, Google, South Korea_
+_Context: Google, South Korea, antitrust, internet search engine_
 
 ##### Credit rating agency
 ### [Credit rating agency Moody's downgrades Ireland's rating to Baa3, one step above junk bond status. ](/news/2011/04/15/credit-rating-agency-moody-s-downgrades-ireland-s-rating-to-baa3-one-step-above-junk-bond-status.md)
-_Context: Credit rating agency, junk bond, Ireland, Moody's_
+_Context: junk bond, Credit rating agency, Ireland, Moody's_
 
 ##### Nasdaq
 ### [Nasdaq, in pursuit of its bid for control of NYSE Euronext, would be willing to sell one key NYSE Euronext property, the American Stock Exchange, in order to resolve antitrust issues, according to an unnamed source cited by Reuters. ](/news/2011/04/15/nasdaq-in-pursuit-of-its-bid-for-control-of-nyse-euronext-would-be-willing-to-sell-one-key-nyse-euronext-property-the-american-stock-exch.md)
-_Context: American Stock Exchange, Nasdaq, antitrust, NYSE Euronext_
+_Context: Nasdaq, American Stock Exchange, antitrust, NYSE Euronext_
 
 ##### Tokyo Electric Power Company
 ### [The Tokyo Electric Power Company will pay a provisional 1 million yen to each household living within the exclusion zone near the Fukushima I Nuclear Power Plant. ](/news/2011/04/15/the-tokyo-electric-power-company-will-pay-a-provisional-1-million-yen-to-each-household-living-within-the-exclusion-zone-near-the-fukushima.md)
-_Context: Tokyo Electric Power Company, yen, Fukushima I Nuclear Power Plant_
+_Context: Fukushima I Nuclear Power Plant, yen, Tokyo Electric Power Company_
 
 ##### Oklahoma
 ### [Two people in Oklahoma and seven in Arkansas are killed by a strong tornado outbreak. ](/news/2011/04/15/two-people-in-oklahoma-and-seven-in-arkansas-are-killed-by-a-strong-tornado-outbreak.md)
@@ -61,15 +61,15 @@ Three days of severe storms leave 24 people dead in the US south, with the Carol
 
 ##### Texas
 ### [Wildfires in Texas, United States destroy dozens of homes and kill a firefighter. ](/news/2011/04/15/wildfires-in-texas-united-states-destroy-dozens-of-homes-and-kill-a-firefighter.md)
-_Context: Texas, U.S._
+_Context: Texas, United States_
 
 ##### Australia
 ### [Former Australian water polo player Keli Lane is jailed for 18 years for murdering her baby daughter Tegan Lane in 1996. ](/news/2011/04/15/former-australian-water-polo-player-keli-lane-is-jailed-for-18-years-for-murdering-her-baby-daughter-tegan-lane-in-1996.md)
-_Context: Keli Lane, Australia, water polo_
+_Context: Australia, water polo, Keli Lane_
 
 ##### Hong Kong
 ### [Hong Kong's Independent Commission Against Corruption arrests 11 Deutsche Bank staff, including two senior officials, for alleged involvement in a fraudulent trading case. ](/news/2011/04/15/hong-kong-s-independent-commission-against-corruption-arrests-11-deutsche-bank-staff-including-two-senior-officials-for-alleged-involvemen.md)
-_Context: Hong Kong, Independent Commission Against Corruption, Deutsche Bank_
+_Context: Hong Kong, Deutsche Bank, Independent Commission Against Corruption_
 
 ##### Croatia
 ### [Croatian military leaders Ante Gotovina and Mladen Markac were convicted of war crimes ](/news/2011/04/15/croatian-military-leaders-ante-gotovina-and-mladen-markaa-were-convicted-of-war-crimes.md)
@@ -81,7 +81,7 @@ PokerStars, Full Tilt Poker and Absolute Poker have been charged by Manhattan U.
 
 ##### Karl Rodney
 ### [Karl Rodney, the organiser of controversial trips to the Caribbean by United States House of Representatives member Charles Rangel, is charged with lying to investigators about them. ](/news/2011/04/15/karl-rodney-the-organiser-of-controversial-trips-to-the-caribbean-by-united-states-house-of-representatives-member-charles-rangel-is-charg.md)
-_Context: Karl Rodney, Charles Rangel, House of Representatives, Caribbean_
+_Context: House of Representatives, Karl Rodney, Caribbean, Charles Rangel_
 
 ##### Nicolas Cage
 ### [US actor Nicolas Cage is arrested in New Orleans for alleged domestic abuse battery, disturbing the peace and public drunkenness. ](/news/2011/04/15/us-actor-nicolas-cage-is-arrested-in-new-orleans-for-alleged-domestic-abuse-battery-disturbing-the-peace-and-public-drunkenness.md)
@@ -89,15 +89,15 @@ Actor Nicolas Cage was freed from jail Saturday after an alleged drunken inciden
 
 ##### Beijing
 ### [A Chinese student from Beijing studying at York University in Toronto is found dead after a male stalker entered her room to use a cell phone while she was chatting online via webcam to a friend in China; she was found undressed and her computer is missing. ](/news/2011/04/15/a-chinese-student-from-beijing-studying-at-york-university-in-toronto-is-found-dead-after-a-male-stalker-entered-her-room-to-use-a-cell-phon.md)
-_Context: Beijing, Toronto, York University, webcam_
+_Context: Beijing, York University, Toronto, webcam_
 
 ##### Australian Council of Trade Unions
 ### [The Australian Council of Trade Unions and Australian Workers' Union threatens to withdraw support for the Julia Gillard minority government's plans to introduce a carbon tax unless it can be guaranteed that no jobs will be lost. ](/news/2011/04/15/the-australian-council-of-trade-unions-and-australian-workers-union-threatens-to-withdraw-support-for-the-julia-gillard-minority-government.md)
-_Context: Australian Council of Trade Unions, carbon tax, Australian Workers' Union, minority government, Julia Gillard_
+_Context: Julia Gillard, Australian Workers' Union, minority government, carbon tax, Australian Council of Trade Unions_
 
 ##### Barack Obama
 ### [At a fundraiser, Barack Obama is caught on an open mic confronting Paul Ryan's record of creating the debt which he is now claiming to be trying to fix, among numerous other things. ](/news/2011/04/15/at-a-fundraiser-barack-obama-is-caught-on-an-open-mic-confronting-paul-ryan-s-record-of-creating-the-debt-which-he-is-now-claiming-to-be-tr.md)
-_Context: Paul Ryan, Barack Obama_
+_Context: Barack Obama, Paul Ryan_
 
 ##### Japan
 ### [Researchers in Japan and Australia successfully teleport wave packets of light, the first transfer of quantum information from one point to another in a Schrodinger's cat experiment. ](/news/2011/04/15/researchers-in-japan-and-australia-successfully-teleport-wave-packets-of-light-the-first-transfer-of-quantum-information-from-one-point-to.md)

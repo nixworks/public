@@ -11,9 +11,9 @@ Thousands march outside Manama while police use sound bombs to disperse a smalle
 ### [The Casoria Contemporary Art Museum in Naples begins burning its artworks due to government budget cuts affecting cultural institutions. ](/news/2012/04/18/the-casoria-contemporary-art-museum-in-naples-begins-burning-its-artworks-due-to-government-budget-cuts-affecting-cultural-institutions.md)
 A museum in Italy has started burning its artworks in protest at budget cuts which it says have left cultural institutions out of pocket.
 
-##### U.S.
+##### United States
 ### [American television personality and producer Dick Clark dies of a heart attack at the age of 82. ](/news/2012/04/18/american-television-personality-and-producer-dick-clark-dies-of-a-heart-attack-at-the-age-of-82.md)
-_Context: U.S., Dick Clark_
+_Context: United States, Dick Clark_
 
 ##### U.S.
 ### [In the U.S., the Commodity Futures Trading Commission and the Securities and Exchange Commission finalize joint rules that will limit which firms must register with either or both of those agencies as "swap dealers." ](/news/2012/04/18/in-the-u-s-the-commodity-futures-trading-commission-and-the-securities-and-exchange-commission-finalize-joint-rules-that-will-limit-which.md)
@@ -35,13 +35,13 @@ Israel dismisses from his post a soldier who hit a pro-Palestinian activist in t
 ### [Senior U.S. officials condemn graphic photos depicting their troops posing with the mangled corpses of suspected Afghan suicide bombers on at least two separate occasions months apart. The "Los Angeles Times" defends its publication of the photos after being warned against the move by the U.S. military. ](/news/2012/04/18/senior-u-s-officials-condemn-graphic-photos-depicting-their-troops-posing-with-the-mangled-corpses-of-suspected-afghan-suicide-bombers-on-a.md)
 Probe ordered into behaviour depicted by images showing troops posing with mangled bodies of suspected suicide bombers.
 
-##### Chinese
+##### China
 ### [China pledges an investigation into the death of British businessman Neil Haywood, and the alleged role of former politician Bo Xilai and his wife. ](/news/2012/04/18/china-pledges-an-investigation-into-the-death-of-british-businessman-neil-haywood-and-the-alleged-role-of-former-politician-bo-xilai-and-hi.md)
 China promises a &quot;thorough&quot; investigation into a top politician linked to the death of a UK businessman, after PM David Cameron holds talks with envoy.
 
 ##### the High Court in Edinburgh
 ### [In a rare move for courts in the United Kingdom, television cameras are allowed into the High Court in Edinburgh to film the sentencing of David Gilroy for the murder of Suzanne Pilley. ](/news/2012/04/18/in-a-rare-move-for-courts-in-the-united-kingdom-television-cameras-are-allowed-into-the-high-court-in-edinburgh-to-film-the-sentencing-of-d.md)
-_Context: murder of Suzanne Pilley, the High Court in Edinburgh_
+_Context: the High Court in Edinburgh, murder of Suzanne Pilley_
 
 ## [Previous Day...](/news/2012/04/17/index.md)
 

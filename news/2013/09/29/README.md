@@ -29,7 +29,7 @@ The city has incurred an estimated loss of Rs 10 crore due to damage caused to r
 
 ##### Austria
 ### [Voters in Austria go to the polls for a legislative election. ](/news/2013/09/29/voters-in-austria-go-to-the-polls-for-a-legislative-election.md)
-_Context: Austria, legislative election_
+_Context: legislative election, Austria_
 
 ## [Previous Day...](/news/2013/09/28/index.md)
 

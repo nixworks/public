@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/9/the-united-states-department-of-state-issues-an-
 
 ### [2010-03-9](/news/2010/03/9/index.md)
 
-##### State Department's
+##### State Department
 # The United States Department of State issues an apology for Department spokesman P.J. Crowley's personal comments, which described Libyan leader Muammar al-Gaddafi's comments on the minaret controversy in Switzerland as "lots of words, not necessarily a lot of sense". 
 
 

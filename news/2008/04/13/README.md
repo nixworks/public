@@ -13,15 +13,15 @@ _Context: Robert Zoellick, World Bank_
 
 ##### Prime Minister
 ### [ Deputy Prime Minister of Kosovo Hajredin Kui announces that the newly independent country plans to open 20 embassies abroad. ](/news/2008/04/13/deputy-prime-minister-of-kosovo-hajredin-kuci-announces-that-the-newly-independent-country-plans-to-open-20-embassies-abroad.md)
-_Context: Kosovo, Hajredin Kui, Prime Minister, embassies_
+_Context: Prime Minister, Kosovo, embassies, Hajredin Kui_
 
 ##### Australian Prime Minister
 ### [ The Prime Minister of Australia Kevin Rudd announces that current Governor of Queensland Quentin Bryce will become Australia's next Governor-General. Ms Bryce will be the first woman appointed to the role. ](/news/2008/04/13/the-prime-minister-of-australia-kevin-rudd-announces-that-current-governor-of-queensland-quentin-bryce-will-become-australia-s-next-governo.md)
-_Context: Quentin Bryce, Governor-General of Australia, Governor, Kevin Rudd, Australia, Australian Prime Minister_
+_Context: Governor, Quentin Bryce, Australia, Australian Prime Minister, Governor-General of Australia, Kevin Rudd_
 
 ##### China
 ### [ Thousands of pro-China demonstrators gathered in front of the Canadian Parliament Building in Ottawa to show their support for the Chinese government and 2008 Beijing Olympics. ](/news/2008/04/13/thousands-of-pro-china-demonstrators-gathered-in-front-of-the-canadian-parliament-building-in-ottawa-to-show-their-support-for-the-chinese.md)
-_Context: China, government, Ottawa, 2008 Beijing Olympics, Parliament of Canada_
+_Context: government, Ottawa, Parliament of Canada, China, 2008 Beijing Olympics_
 
 ## [Previous Day...](/news/2008/04/12/index.md)
 

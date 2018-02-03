@@ -5,11 +5,11 @@ Formats: [HTML](2014/05/25/index.html)  [JSON](2014/05/25/index.json)  [XML](201
 
 ##### Yemeni
 ### [The Yemeni Military kills 5 al-Qaeda militants and arrests 4 in a raid north of Sana'a. ](/news/2014/05/25/the-yemeni-military-kills-5-al-qaeda-militants-and-arrests-4-in-a-raid-north-of-sana-a.md)
-_Context: al-Qaeda, Yemeni, Sana'a_
+_Context: Sana'a, al-Qaeda, Yemeni_
 
 ##### Homs
 ### [3 bombs detonate in Homs, Syria, killing 9 people and injuring another 20. ](/news/2014/05/25/3-bombs-detonate-in-homs-syria-killing-9-people-and-injuring-another-20.md)
-_Context: Syria, Homs_
+_Context: Homs, Syria_
 
 ##### Spain
 ### [3 Spanish airmen are injured in a grenade attack in Djibouti. ](/news/2014/05/25/3-spanish-airmen-are-injured-in-a-grenade-attack-in-djibouti.md)
@@ -21,15 +21,15 @@ The rainstorms, stated to be once-in-a-century phenomenon, slashed Guangzhou, Zh
 
 ##### Pope Francis
 ### [Pope Francis invites the President of Israel Shimon Peres and the President of the State of Palestine Mahmoud Abbas to pray with him at the Vatican for peace and the invitations are accepted. ](/news/2014/05/25/pope-francis-invites-the-president-of-israel-shimon-peres-and-the-president-of-the-state-of-palestine-mahmoud-abbas-to-pray-with-him-at-the.md)
-_Context: Shimon Peres, Mahmoud Abbas, President of the State of Palestine, Pope Francis, Vatican City, President_
+_Context: President, Vatican City, Shimon Peres, Pope Francis, President of the State of Palestine, Mahmoud Abbas_
 
 ##### Lebanon
 ### [Lebanese security forces arrest Islamist militant leader Omar Bakri Muhammad. ](/news/2014/05/25/lebanese-security-forces-arrest-islamist-militant-leader-omar-bakri-muhammad.md)
-_Context: Lebanon, Islamists, Omar Bakri Muhammad_
+_Context: Islamists, Lebanon, Omar Bakri Muhammad_
 
 ##### Colombia
 ### [Voters in Colombia go to the polls for the first round in the presidential election. Opposition candidate Oscar Ivan Zuluaga wins a plurality of votes and will face the incumbent Juan Manuel Santos in the second round. ](/news/2014/05/25/voters-in-colombia-go-to-the-polls-for-the-first-round-in-the-presidential-election-opposition-candidate-ascar-iva-n-zuluaga-wins-a-plural.md)
-_Context: Oscar Ivan Zuluaga, Juan Manuel Santos, Colombia_
+_Context: Colombia, Oscar Ivan Zuluaga, Juan Manuel Santos_
 
 ##### Ukraine
 ### [Voters in Ukraine go to the polls for the first round of voting in the presidential election amidst ongoing violence in the east of the country with exit polls indicating that businessman Petro Poroshenko is headed for victory. ](/news/2014/05/25/voters-in-ukraine-go-to-the-polls-for-the-first-round-of-voting-in-the-presidential-election-amidst-ongoing-violence-in-the-east-of-the-coun.md)

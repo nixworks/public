@@ -13,11 +13,11 @@ Surprise move follows data showing economic dip amid new fears of deepening glob
 
 ##### Buk missile system
 ### [Debris from a Buk surface-to-air missile is found at an unspecified location in eastern Ukraine. According to the Dutch Safety Board and the Dutch prosecutor overseeing the criminal investigation, it may have come from a Buk (possibly of Russian origin) fired by rebel fighters, accidentally or purposefully, in the downing of Malaysia Airlines Flight 17. The investigation remains classified. ](/news/2015/08/11/debris-from-a-buk-surface-to-air-missile-is-found-at-an-unspecified-location-in-eastern-ukraine-according-to-the-dutch-safety-board-and-the.md)
-_Context: Malaysia Airlines Flight 17, Buk missile system, Ukraine_
+_Context: Ukraine, Malaysia Airlines Flight 17, Buk missile system_
 
 ##### heatwave
 ### [A heatwave in Egypt has killed at least 42 people. ](/news/2015/08/11/a-heatwave-in-egypt-has-killed-at-least-42-people.md)
-_Context: Egypt, heatwave_
+_Context: heatwave, Egypt_
 
 ##### Argentina
 ### [Flooding in Argentina kills at least three people and 11,000 are made homeless. ](/news/2015/08/11/flooding-in-argentina-kills-at-least-three-people-and-11-000-are-made-homeless.md)
@@ -25,11 +25,11 @@ Flooding in Argentina which burst riverbanks and deluged city streets killed thr
 
 ##### Japan
 ### [Japan's Sendai Nuclear Power Plant in Satsumasendai in Kagoshima Prefecture on Kyushu restarts reactor no. 1. This is the first of 50-plus shut-down nuclear reactors to go back online since the 2011 Fukushima Daiichi nuclear disaster. The problems discovered in the reactor model after the disaster have not been fixed. ](/news/2015/08/11/japan-s-sendai-nuclear-power-plant-in-satsumasendai-in-kagoshima-prefecture-on-kyushu-restarts-reactor-no-1-this-is-the-first-of-50-plus-s.md)
-_Context: 50-plus shut-down nuclear reactors to go back online since the 2011, Kyushu, Japan, Sendai Nuclear Power Plant, Satsumasendai, Kagoshima Prefecture, Fukushima Daiichi nuclear disaster_
+_Context: Kagoshima Prefecture, Fukushima Daiichi nuclear disaster, Satsumasendai, 50-plus shut-down nuclear reactors to go back online since the 2011, Sendai Nuclear Power Plant, Japan, Kyushu_
 
 ##### Syrian Civil War
 ### [In talks held regarding the course of the Syrian Civil War, Russia and Saudi Arabia fail to reach agreement over cooperation in the fight against ISIL, with the Saudi representative refusing any common struggle with Assad's regime. ](/news/2015/08/11/in-talks-held-regarding-the-course-of-the-syrian-civil-war-russia-and-saudi-arabia-fail-to-reach-agreement-over-cooperation-in-the-fight-ag.md)
-_Context: Syrian Civil War, ISIL, Bashar al-Assad, Saudi Arabia, Russia_
+_Context: Russia, Syrian Civil War, Saudi Arabia, ISIL, Bashar al-Assad_
 
 #####  Georgian
 ### [Georgia accuses Russia of cutting off its citizens from their farmland by installing border signposts demarcating the breakaway South Ossetia region, calling on Moscow to refrain from "escalation". ](/news/2015/08/11/georgia-accuses-russia-of-cutting-off-its-citizens-from-their-farmland-by-installing-border-signposts-demarcating-the-breakaway-south-osseti.md)

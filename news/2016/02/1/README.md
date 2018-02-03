@@ -33,7 +33,7 @@ _Context: Tibetan, Akong Rinpoche_
 
 ##### parliament
 ### [The Assembly of the Union for Myanmar meets with Aung San Suu Kyi's National League for Democracy having the majority for the first time. ](/news/2016/02/1/the-assembly-of-the-union-for-myanmar-meets-with-aung-san-suu-kyi-s-national-league-for-democracy-having-the-majority-for-the-first-time.md)
-_Context: Myanmar, National League for Democracy, Aung San Suu Kyi, parliament_
+_Context: National League for Democracy, parliament, Aung San Suu Kyi, Myanmar_
 
 ## [Previous Day...](/news/2016/01/31/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2005/05/28/index.html)  [JSON](2005/05/28/index.json)  [XML](200
 
 ##### clock tower
 ### [ The clock tower of the Palace of Westminster in London, commonly known as Big Ben, renowned for its accuracy and chimes, stopped ticking for 90 minutes, an engineer said Saturday. ](/news/2005/05/28/the-clock-tower-of-the-palace-of-westminster-in-london-commonly-known-as-big-ben-renowned-for-its-accuracy-and-chimes-stopped-ticking-fo.md)
-_Context: clock tower, minute, Parliament, Big Ben, chimes, London_
+_Context: chimes, Big Ben, London, clock tower, minute, Parliament_
 
 ##### Japan
 ### [ Japan announces closure of World War II sex slave fund by March 2007. The Asian Women's Fund, set up in 1995, paid 2M yen ($19,470) each in compensation, plus medical and welfare support, to 285 so-called "comfort women" in the Philippines, South Korea and Taiwan. ](/news/2005/05/28/japan-announces-closure-of-world-war-ii-sex-slave-fund-by-march-2007-the-asian-women-s-fund-set-up-in-1995-paid-2m-yen-19-470-each-in.md)
-_Context: Japan, comfort women, sex slave, South Korea, 1995, Asian Women's Fund, Philippines, Taiwan, World War II_
+_Context: Philippines, Japan, 1995, comfort women, South Korea, sex slave, Asian Women's Fund, Taiwan, World War II_
 
 ##### Ethiopia
 ### [ In Ethiopia, provisional results indicate that the ruling Ethiopian People's Revolutionary Democratic Front of prime minister Meles Zenawi has won parliamentary majority. Opposition claims vote rigging. Final results are due June 8 ](/news/2005/05/28/in-ethiopia-provisional-results-indicate-that-the-ruling-ethiopian-people-s-revolutionary-democratic-front-of-prime-minister-meles-zenawi.md)

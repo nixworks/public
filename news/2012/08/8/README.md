@@ -11,9 +11,9 @@ Egyptian forces kill 20 people during air strikes on Sinai, in response to deadl
 ### [Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/heavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md)
 Jordan says Riyad Hijab and his family arrived Wednesday, contradicting earlier reports he entered kingdom on Monday.
 
-##### Chinese
+##### China
 ### [China announces plan to close one-third of the nation's 23 rare earth mines and about half of 99 smelting companies. ](/news/2012/08/8/china-announces-plan-to-close-one-third-of-the-nation-s-23-rare-earth-mines-and-about-half-of-99-smelting-companies.md)
-_Context: Chinese, rare earth_
+_Context: China, rare earth_
 
 ##### Typhoon Haikui
 ### [Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md)
@@ -25,7 +25,7 @@ _Context: Hurricane Ernesto, Yucatn Peninsula_
 
 ##### One World Trade Center
 ### [A welding fire breaks out but is soon extinguished, with no injuries, on the 88th floor of One World Trade Center in New York City.](/news/2012/08/8/a-welding-fire-breaks-out-but-is-soon-extinguished-with-no-injuries-on-the-88th-floor-of-one-world-trade-center-in-new-york-city.md)
-_Context: New York City, One World Trade Center_
+_Context: One World Trade Center, New York City_
 
 ##### Orange County
 ### [A preliminary magnitude 4.5 earthquake strikes Orange County, California. Minimal damage was reported.](/news/2012/08/8/a-preliminary-magnitude-4-5-earthquake-strikes-orange-county-california-minimal-damage-was-reported.md)
@@ -65,7 +65,7 @@ Japan is set to pass legislation tomorrow to raise the sales tax after the main 
 
 ##### Ukrainian President
 ### [President of Ukraine Viktor Yanukovych signs a controversial law about official status of 18 languages (including Russian, Hungarian, Crimean Tatar language, etc.) as regional and minority languages, allowing officials in Russian-speaking regions of the country to use Russian at public events and in documents. ](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.md)
-_Context: minority language, Russian-speaking regions, Crimean Tatar language, regional, Ukrainian President, Viktor Yanukovych, Hungarian, Russian language_
+_Context: minority language, Russian-speaking regions, Ukrainian President, Russian language, Viktor Yanukovych, regional, Crimean Tatar language, Hungarian_
 
 ## [Previous Day...](/news/2012/08/7/index.md)
 

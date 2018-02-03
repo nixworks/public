@@ -5,11 +5,11 @@ Formats: [HTML](2014/08/30/index.html)  [JSON](2014/08/30/index.json)  [XML](201
 
 ##### Prime Minister of Lesotho
 ### [Prime Minister Tom Thabane of Lesotho flees to South Africa as the army allegedly stages a coup. ](/news/2014/08/30/prime-minister-tom-thabane-of-lesotho-flees-to-south-africa-as-the-army-allegedly-stages-a-coup.md)
-_Context: Lesotho, Prime Minister of Lesotho, army, Tom Thabane, allegedly stages a coup_
+_Context: allegedly stages a coup, Prime Minister of Lesotho, Tom Thabane, Lesotho, army_
 
 ##### Taliban insurgency
 ### [Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. ](/news/2014/08/30/taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.md)
-_Context: Taliban, Taliban insurgency, National Directorate of Security, Jalalabad_
+_Context: National Directorate of Security, Jalalabad, Taliban, Taliban insurgency_
 
 ##### Prime Minister
 ### [At least 230 people have been injured in clashes between opponents of Prime Minister of Pakistan Nawaz Sharif and police in Islamabad. ](/news/2014/08/30/at-least-230-people-have-been-injured-in-clashes-between-opponents-of-prime-minister-of-pakistan-nawaz-sharif-and-police-in-islamabad.md)
@@ -33,7 +33,7 @@ _Context: mobile home, Clinton, North Carolina_
 
 ##### Bolivia
 ### [Nine tourists are killed as a bus crashes returning from Bolivia's Salar de Uyuni salt flats to La Paz. ](/news/2014/08/30/nine-tourists-are-killed-as-a-bus-crashes-returning-from-bolivia-s-salar-de-uyuni-salt-flats-to-la-paz.md)
-_Context: Salar de Uyuni, La Paz, Bolivia_
+_Context: La Paz, Bolivia, Salar de Uyuni_
 
 ##### Donald Tusk
 ### [Donald Tusk, the Prime Minister of Poland, is chosen as the President of the European Council, while Federica Mogherini is chosen as the High Representative of the Union for Foreign Affairs and Security Policy. ](/news/2014/08/30/donald-tusk-the-prime-minister-of-poland-is-chosen-as-the-president-of-the-european-council-while-federica-mogherini-is-chosen-as-the-hig.md)
@@ -45,11 +45,11 @@ Judith Collins has confirmed she is resigning as a Minister from Cabinet, with t
 
 ##### United States Senate election in Kentucky, 2014
 ### [United States Senate Minority Leader Mitch McConnell's campaign manager Jesse Benton resigns after being involved in an alleged bribery scandal involving Iowa state Senator Kent Sorenson switching his support from Michele Bachmann to Ron Paul in the United States presidential election, 2012. ](/news/2014/08/30/united-states-senate-minority-leader-mitch-mcconnell-s-campaign-manager-jesse-benton-resigns-after-being-involved-in-an-alleged-bribery-scan.md)
-_Context: Iowa, bribes, Jesse Benton, United States Senate Minority Leader, Michele Bachmann, United States Senate election in Kentucky, 2014, Ron Paul, Kent Sorenson, Mitch McConnell, United States presidential election, 2012_
+_Context: Kent Sorenson, Jesse Benton, bribes, Mitch McConnell, United States Senate election in Kentucky, 2014, United States presidential election, 2012, United States Senate Minority Leader, Ron Paul, Iowa, Michele Bachmann_
 
 ##### 2014
 ### [Environmentalist Marina Silva widens a sudden lead in opinion polls over current president Dilma Rousseff to 10 percentage points. ](/news/2014/08/30/environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff-to-10-percentage-points.md)
-_Context: 2014, Marina Silva, Dilma Rousseff_
+_Context: Dilma Rousseff, Marina Silva, 2014_
 
 ## [Previous Day...](/news/2014/08/29/index.md)
 

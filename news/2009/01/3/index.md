@@ -5,23 +5,23 @@ Formats: [HTML](2009/01/3/index.html)  [JSON](2009/01/3/index.json)  [XML](2009/
 
 ##### National Democratic Congress
 ### [ National Democratic Congress candidate John Atta Mills wins Ghana's 2008 presidential election after narrowly defeating Nana Akufo-Addo of the incumbent New Patriotic Party in a run-off. ](/news/2009/01/3/national-democratic-congress-candidate-john-atta-mills-wins-ghana-s-2008-presidential-election-after-narrowly-defeating-nana-akufo-addo-of.md)
-_Context: National Democratic Congress, second round, John Atta Mills, 2008 presidential election, Nana Akufo-Addo, New Patriotic Party, Ghana_
+_Context: John Atta Mills, 2008 presidential election, National Democratic Congress, New Patriotic Party, second round, Nana Akufo-Addo, Ghana_
 
 ##### Israel
 ### [ An Israeli airstrike on the mosque in the Gaza Strip village of Beit Lahia kills at least 13 people. ](/news/2009/01/3/an-israeli-airstrike-on-the-mosque-in-the-gaza-strip-village-of-beit-lahia-kills-at-least-13-people.md)
-_Context: Israel, fire, Gaza Strip, Beit Lahia, mosque_
+_Context: fire, mosque, Israel, Gaza Strip, Beit Lahia_
 
 ##### Israel
 ### [ Israel's Defense Forces launch a ground attack on the Gaza Strip. ](/news/2009/01/3/israel-s-defense-forces-launch-a-ground-attack-on-the-gaza-strip.md)
-_Context: Israel Defense Forces, Gaza Strip, ground attack, Israel_
+_Context: Israel, Gaza Strip, ground attack, Israel Defense Forces_
 
 ##### 2009
 ### [ The 2009 Dakar Rally begins in Buenos Aires, Argentina. ](/news/2009/01/3/the-2009-dakar-rally-begins-in-buenos-aires-argentina.md)
-_Context: Argentina, Buenos Aires, 2009, Dakar Rally_
+_Context: Dakar Rally, 2009, Argentina, Buenos Aires_
 
 ##### Governor
 ### [ Governor of American Samoa Togiola Tulafono is sworn into office for a second term. ](/news/2009/01/3/governor-of-american-samoa-togiola-tulafono-is-sworn-into-office-for-a-second-term.md)
-_Context: Togiola Tulafono, Governor, American Samoa_
+_Context: American Samoa, Togiola Tulafono, Governor_
 
 ##### Satoshi Nakamoto
 ### [ Satoshi Nakamoto creates the genesis block of bitcoin. ](/news/2009/01/3/satoshi-nakamoto-creates-the-genesis-block-of-bitcoin.md)

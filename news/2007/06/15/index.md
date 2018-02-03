@@ -13,11 +13,11 @@ The district attorney who prosecuted three Duke University lacrosse players accu
 
 ##### Switzerland
 ### [ Switzerland opens the world's longest rail tunnel on land, the 34-kilometre Ltschberg tunnel under the Alps. ](/news/2007/06/15/switzerland-opens-the-world-s-longest-rail-tunnel-on-land-the-34-kilometre-lotschberg-tunnel-under-the-alps.md)
-_Context: Ltschberg tunnel, Switzerland, Alps, tunnel_
+_Context: Alps, Switzerland, tunnel, Ltschberg tunnel_
 
 ##### UK
 ### [ In the UK, seven members of Dhiren Barot's al Qaeda cell are sentenced to a total of 136 years in prison. ](/news/2007/06/15/in-the-uk-seven-members-of-dhiren-barot-s-al-qaeda-cell-are-sentenced-to-a-total-of-136-years-in-prison.md)
-_Context: UK, al Qaeda, Dhiren Barot_
+_Context: al Qaeda, UK, Dhiren Barot_
 
 ##### Indonesia
 ### [ Indonesia claims that it has captured Jemaah Islamiyah leader Zarkarsih. ](/news/2007/06/15/indonesia-claims-that-it-has-captured-jemaah-islamiyah-leader-zarkarsih.md)
@@ -25,7 +25,7 @@ Indonesia has captured the head of Southeast Asian militant group Jemaah Islamiy
 
 ##### soldier
 ### [ A roadside bomb kills at least seven soldiers in Yala Province, Thailand. ](/news/2007/06/15/a-roadside-bomb-kills-at-least-seven-soldiers-in-yala-province-thailand.md)
-_Context: soldier, Yala Province, Thailand_
+_Context: Yala Province, soldier, Thailand_
 
 ##### United States Secretary of Defense
 ### [ United States Secretary of Defense Robert Gates meets with Iraqi Prime Minister Nuri Kamal Al-Maliki and U.S. military leaders in Iraq to discuss the effectiveness of the current military campaign. ](/news/2007/06/15/united-states-secretary-of-defense-robert-gates-meets-with-iraqi-prime-minister-nuri-kamal-al-maliki-and-u-s-military-leaders-in-iraq-to-d.md)

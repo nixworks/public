@@ -13,15 +13,15 @@ AUSTRIAN environmentalists are trying to stop an AC/DC concert from going ahead 
 
 ##### Foreign investment
 ### [Foreign direct investment (FDI) into China rose for the sixth consecutive month in January, up 7.79 percent year-on-year to $8.13 billion, Chinese Ministry of Commerce announced. ](/news/2010/02/21/foreign-direct-investment-fdi-into-china-rose-for-the-sixth-consecutive-month-in-january-up-7-79-percent-year-on-year-to-8-13-billion-c.md)
-_Context: Chinese, Chinese Ministry of Commerce, Foreign investment_
+_Context: China, Foreign investment, Chinese Ministry of Commerce_
 
 ##### King Mohammed
 ### [King Mohammed of Morocco requests structural examinations of all the country's old mosques after a minaret collapse kills 41 people. ](/news/2010/02/21/king-mohammed-of-morocco-requests-structural-examinations-of-all-the-country-s-old-mosques-after-a-minaret-collapse-kills-41-people.md)
-_Context: King Mohammed, a minaret collapse, Morocco_
+_Context: Morocco, King Mohammed, a minaret collapse_
 
 ##### Japan
 ### [Japanese Foreign Minister Katsuya Okada dismisses Australia's threat to take the country to the International Court of Justice over Japan's whaling in the Antarctic. ](/news/2010/02/21/japanese-foreign-minister-katsuya-okada-dismisses-australia-s-threat-to-take-the-country-to-the-international-court-of-justice-over-japan-s.md)
-_Context: Australia, Foreign Minister, Antarctic, Japan, Katsuya Okada, International Court of Justice, whaling_
+_Context: Australia, Foreign Minister, Antarctic, Katsuya Okada, Japan, International Court of Justice, whaling_
 
 ##### Prime Minister
 ### [Prime Minister of the Netherlands Jan Peter Balkenende says the country will begin pulling out of Afghanistan in August and be gone by the end of the year following the collapse of Balkenende-4 over the issue. ](/news/2010/02/21/prime-minister-of-the-netherlands-jan-peter-balkenende-says-the-country-will-begin-pulling-out-of-afghanistan-in-august-and-be-gone-by-the-e.md)

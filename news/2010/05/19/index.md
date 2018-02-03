@@ -13,7 +13,7 @@ The independent investigation into the sinking of the Cheonan has concluded that
 
 ##### 2010 North Indian Ocean cyclone season
 ### [Cyclone Laila approaches landfall in southeastern India, having already caused at least ten deaths and prompting the evacuations of 10,000 people in Tamil Nadu.](/news/2010/05/19/cyclone-laila-approaches-landfall-in-southeastern-india-having-already-caused-at-least-ten-deaths-and-prompting-the-evacuations-of-10-000-p.md)
-_Context: Tamil Nadu, 2010 North Indian Ocean cyclone season, India, Cyclone Laila_
+_Context: Cyclone Laila, India, Tamil Nadu, 2010 North Indian Ocean cyclone season_
 
 ##### red shirt
 ### [Red shirt protesters surrender in Bangkok, Thailand. ](/news/2010/05/19/red-shirt-protesters-surrender-in-bangkok-thailand.md)
@@ -29,11 +29,11 @@ Tens of thousands of public sector workers demonstrate in the Romanian capital t
 
 ##### Pakistan Telecommunication Authority
 ### [Pakistan Telecommunication Authority acting on orders from Lahore High court blocks access to Facebook in the country until May 31 due to a Facebook group encouraging drawings of the Prophet Mohammed on May 20, labeled as Everybody Draw Mohammed Day. ](/news/2010/05/19/pakistan-telecommunication-authority-acting-on-orders-from-lahore-high-court-blocks-access-to-facebook-in-the-country-until-may-31-due-to-a.md)
-_Context: Facebook, Mohammed, Everybody Draw Mohammed Day, Pakistan Telecommunication Authority, Lahore High court_
+_Context: Mohammed, Facebook, Everybody Draw Mohammed Day, Lahore High court, Pakistan Telecommunication Authority_
 
 ##### Ukraine
 ### [Ukraine and China are interested in cooperation in cargo transportation sphere. Konstyantyn Hryshchenko says this at the joint news conference with Foreign Minister of China Yang Jiechi. ](/news/2010/05/19/ukraine-and-china-are-interested-in-cooperation-in-cargo-transportation-sphere-konstyantyn-hryshchenko-says-this-at-the-joint-news-conferen.md)
-_Context: Konstyantyn Hryshchenko, Yang, Chinese, Foreign Minister of China, Ukraine_
+_Context: Konstyantyn Hryshchenko, China, Foreign Minister of China, Ukraine, Yang_
 
 ##### Shanxi Province
 ### [10 people are confirmed dead and one is missing after a coal mine gas explosion Tuesday in north China's Shanxi Province ](/news/2010/05/19/10-people-are-confirmed-dead-and-one-is-missing-after-a-coal-mine-gas-explosion-tuesday-in-north-china-s-shanxi-province.md)
@@ -45,7 +45,7 @@ _Context: National Computer Network Emergency Response Center of China, CNETCC_
 
 ##### Yandex
 ### [Yandex, Russia's largest search engine and the eighth-largest in the world, launches an English language search engine. ](/news/2010/05/19/yandex-russia-s-largest-search-engine-and-the-eighth-largest-in-the-world-launches-an-english-language-search-engine.md)
-_Context: Yandex, Russia, English, search engine_
+_Context: Russia, Yandex, English, search engine_
 
 ## [Previous Day...](/news/2010/05/18/index.md)
 

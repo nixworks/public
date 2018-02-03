@@ -17,7 +17,7 @@ _Context: North Caucasus, Dagestan_
 
 ##### Russian President
 ### [Russian President Dmitry Medvedev fires top airport security officials, two days after a suicide bombing at Moscow's Domodedovo International Airport killed 35 people and injured 130. ](/news/2011/01/26/russian-president-dmitry-medvedev-fires-top-airport-security-officials-two-days-after-a-suicide-bombing-at-moscow-s-domodedovo-internationa.md)
-_Context: Moscow, Domodedovo International Airport, bombing, Russian President, Dmitry Medvedev_
+_Context: Russian President, bombing, Domodedovo International Airport, Dmitry Medvedev, Moscow_
 
 ##### Sudan People's Armed Forces
 ### [The Sudanese army clashes with Sudan Liberation Army rebels in Darfur for the second time in a week, and insurgents said they shot down a helicopter gunship, killing at least three people, a claim denied by the army, which said it had killed 25 rebels. ](/news/2011/01/26/the-sudanese-army-clashes-with-sudan-liberation-army-rebels-in-darfur-for-the-second-time-in-a-week-and-insurgents-said-they-shot-down-a-he.md)
@@ -29,23 +29,23 @@ _Context: Hadramut, Yemen_
 
 ##### Sky Sports
 ### [Sky Sports presenter Richard Keys resigns following his comments about female referee Sian Massey. ](/news/2011/01/26/sky-sports-presenter-richard-keys-resigns-following-his-comments-about-female-referee-sian-massey.md)
-_Context: Sky Sports, Richard Keys, Sian Massey_
+_Context: Richard Keys, Sky Sports, Sian Massey_
 
 ##### Canadian
 ### [Canadian singer Mary-Lu Zahalan-Kennedy becomes the first person in the world to graduate with a Masters degree in The Beatles, which she studied at Liverpool Hope University. ](/news/2011/01/26/canadian-singer-mary-lu-zahalan-kennedy-becomes-the-first-person-in-the-world-to-graduate-with-a-masters-degree-in-the-beatles-which-she-st.md)
 A Canadian singer is the first person in the world to graduate with a Masters degree in The Beatles.
 
-##### Chinese
+##### China
 ### [The newly released figures show China had 6.31 million new college graduates, and about 90.7 percent of them found employment by the end of 2010, which represented a 3 percent year-on-year increase. ](/news/2011/01/26/the-newly-released-figures-show-china-had-6-31-million-new-college-graduates-and-about-90-7-percent-of-them-found-employment-by-the-end-of.md)
-_Context: Chinese, employment, million_
+_Context: million, China, employment_
 
 ##### World Economic Forum
 ### [The 41st World Economic Forum opens in Davos, Switzerland. ](/news/2011/01/26/the-41st-world-economic-forum-opens-in-davos-switzerland.md)
-_Context: Davos, Switzerland, World Economic Forum_
+_Context: World Economic Forum, Davos, Switzerland_
 
 ##### Ivory Coast
 ### [Incumbent Ivorian leader Laurent Gbagbo orders the seizure of all local branches of the Central Bank of West African States. ](/news/2011/01/26/incumbent-ivorian-leader-laurent-gbagbo-orders-the-seizure-of-all-local-branches-of-the-central-bank-of-west-african-states.md)
-_Context: Ivory Coast, Laurent Gbagbo, Central Bank of West African States_
+_Context: Central Bank of West African States, Ivory Coast, Laurent Gbagbo_
 
 ##### Colombia
 ### [At least 30 miners are trapped after an explosion in a coal mine in northeastern Colombia. ](/news/2011/01/26/at-least-30-miners-are-trapped-after-an-explosion-in-a-coal-mine-in-northeastern-colombia.md)
@@ -57,7 +57,7 @@ Giant gas deal with Iran still on; sanctions target Iranian energy, nuclear prol
 
 ##### Kyrgyzstan
 ### [Former Kyrgyz energy minister Saparbek Balkibekov, who fled the country during the 2010 uprising, is detained in Ireland by an Interpol operation. ](/news/2011/01/26/former-kyrgyz-energy-minister-saparbek-balkibekov-who-fled-the-country-during-the-2010-uprising-is-detained-in-ireland-by-an-interpol-oper.md)
-_Context: Kyrgyzstan, Interpol, Ireland, 2010 uprising_
+_Context: 2010 uprising, Kyrgyzstan, Ireland, Interpol_
 
 ##### Iranian state media
 ### [Iranian media censor pictures of EU foreign minister Catherine Ashton's cleavage taken at recent failed talks on Iran's nuclear program; Ashton covers up in later meetings to prevent further diplomatic incident. ](/news/2011/01/26/iranian-media-censor-pictures-of-eu-foreign-minister-catherine-ashton-s-cleavage-taken-at-recent-failed-talks-on-iran-s-nuclear-program-ash.md)
@@ -73,7 +73,7 @@ _Context: arrest warrant, Tunisia, demonstrations that toppled his regime, Zine 
 
 ##### Vietnam
 ### [A court in Vietnam sentences a former Communist Party member to eight years in jail for posting articles on the Internet calling for multi-party democracy. ](/news/2011/01/26/a-court-in-vietnam-sentences-a-former-communist-party-member-to-eight-years-in-jail-for-posting-articles-on-the-internet-calling-for-multi-p.md)
-_Context: Internet, democratic, Communist Party, multi-party, Vietnam_
+_Context: Vietnam, Internet, multi-party, democratic, Communist Party_
 
 ##### Member of the Scottish Parliament
 ### [Former Member of the Scottish Parliament Tommy Sheridan is jailed for three years for committing perjury. ](/news/2011/01/26/former-member-of-the-scottish-parliament-tommy-sheridan-is-jailed-for-three-years-for-committing-perjury.md)
@@ -89,11 +89,11 @@ Ireland&#039;s ruling Fianna Fail party on Wednesday elected former foreign mini
 
 ##### Barack Obama
 ### [U.S. President Barack Obama delivers the annual State of the Union address calling on the United States Congress to improve the nation's "crumbling" infrastructure, saying it will create jobs and help the nation compete in the global economy. ](/news/2011/01/26/u-s-president-barack-obama-delivers-the-annual-state-of-the-union-address-calling-on-the-united-states-congress-to-improve-the-nation-s-cr.md)
-_Context: State of the Union, Barack Obama, lawmakers_
+_Context: lawmakers, Barack Obama, State of the Union_
 
 ##### Southern Sudanese Independence Referendum
 ### [The preliminary results of the referendum on an independence for Southern Sudan will be announced in the next few days, with final results as early as February 7; most of the count in the south already completed shows 99% voted for independence.](/news/2011/01/26/the-preliminary-results-of-the-referendum-on-an-independence-for-southern-sudan-will-be-announced-in-the-next-few-days-with-final-results-a.md)
-_Context: Southern Sudanese Independence Referendum, Southern Sudan_
+_Context: Southern Sudan, Southern Sudanese Independence Referendum_
 
 ##### China
 ### [Chinese Premier Wen Jiabao asks citizens to voice their criticisms of the government and speak out about injustice during a visit to the country's highest petition bureau. ](/news/2011/01/26/chinese-premier-wen-jiabao-asks-citizens-to-voice-their-criticisms-of-the-government-and-speak-out-about-injustice-during-a-visit-to-the-cou.md)

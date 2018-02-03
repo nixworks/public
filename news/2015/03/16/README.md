@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/16/index.html)  [JSON](2015/03/16/index.json)  [XML](201
 
 ##### Libyan Civil War
 ### [Islamic State kidnaps about 20 medical workers from the Ibn Sina Hospital in the Libyan city of Sirte. ](/news/2015/03/16/islamic-state-kidnaps-about-20-medical-workers-from-the-ibn-sina-hospital-in-the-libyan-city-of-sirte.md)
-_Context: Libya, Libyan Civil War, ISIL, Ibn Sina Hospital, Sirte_
+_Context: Libya, Ibn Sina Hospital, Sirte, ISIL, Libyan Civil War_
 
 ##### Cyclone Pam
 ### [The remnants of Cyclone Pam move down the east coast of New Zealand causing evacuations, heavy flooding, and power outages. ](/news/2015/03/16/the-remnants-of-cyclone-pam-move-down-the-east-coast-of-new-zealand-causing-evacuations-heavy-flooding-and-power-outages.md)
@@ -21,7 +21,7 @@ Russian President Vladimir Putin ordered troops placed on full combat readiness 
 
 ##### Italy
 ### [Italian police arrest four people while 51 others are under investigation for corruption associated with public works including a stretch of the high-speed rail line near Florence. ](/news/2015/03/16/italian-police-arrest-four-people-while-51-others-are-under-investigation-for-corruption-associated-with-public-works-including-a-stretch-of.md)
-_Context: Florence, Italy_
+_Context: Italy, Florence_
 
 ##### Egypt
 ### [An Egyptian court hands down a death sentence to Muslim Brotherhood leader Mohammed Badie and thirteen others. ](/news/2015/03/16/an-egyptian-court-hands-down-a-death-sentence-to-muslim-brotherhood-leader-mohammed-badie-and-thirteen-others.md)

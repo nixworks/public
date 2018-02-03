@@ -9,19 +9,19 @@ FM Alain Juppe says &#39;vise is tightening&#39; around Assad regime; pro-regime
 
 ##### drones launch
 ### [Suspected US drone missiles kill 13 militants in a compound in Pakistan's South Waziristan province. ](/news/2011/11/16/suspected-us-drone-missiles-kill-13-militants-in-a-compound-in-pakistan-s-south-waziristan-province.md)
-_Context: South Waziristan, drones launch, Pakistan_
+_Context: drones launch, Pakistan, South Waziristan_
 
 ##### House of Representatives
 ### [The chairman of the U.S. House of Representatives' Oversight Committee, Darrell Issa, whose panel has been investigating charges that defunct lender Countrywide Financial used its VIP-lending program to buy influence, says that a forthcoming report will include "significant new findings" on that point. ](/news/2011/11/16/the-chairman-of-the-u-s-house-of-representatives-oversight-committee-darrell-issa-whose-panel-has-been-investigating-charges-that-defunc.md)
-_Context: House Oversight Committee, Darrell Issa, Countrywide Financial, House of Representatives_
+_Context: House Oversight Committee, Countrywide Financial, Darrell Issa, House of Representatives_
 
 ##### Thai authorities
 ### [Thai authorities consider constructing a waterway linking existing natural canals into a 200-km long "super-canal" that would hold 1.6B cubic meters of water and speed the draining of run-off to prevent flooding like that currently inundating Bangkok and other parts of the country. ](/news/2011/11/16/thai-authorities-consider-constructing-a-waterway-linking-existing-natural-canals-into-a-200-km-long-super-canal-that-would-hold-1-6b-cubi.md)
-_Context: floods, Bangkok, Thai authorities, super-canal_
+_Context: super-canal, Thai authorities, Bangkok, floods_
 
 ##### collides
 ### [Eighteen children and two adults die after an overloaded school bus collides with a coal truck in northwest China's Gansu province. ](/news/2011/11/16/eighteen-children-and-two-adults-die-after-an-overloaded-school-bus-collides-with-a-coal-truck-in-northwest-china-s-gansu-province.md)
-_Context: collides, Chinese, Gansu province_
+_Context: China, collides, Gansu province_
 
 ##### Tibetan
 ### [Tibetans demonstrate near the Chinese embassy in New Delhi, India, following recent self-immolations by Tibetan monks and nuns protesting the Chinese government's repressive policies in Tibet. ](/news/2011/11/16/tibetans-demonstrate-near-the-chinese-embassy-in-new-delhi-india-following-recent-self-immolations-by-tibetan-monks-and-nuns-protesting-th.md)
@@ -33,19 +33,19 @@ President Obama said the move to base 2,500 Marines in Australia is not intended
 
 ##### White House
 ### [Two bullets are found to have been fired at the White House in Washington, DC., one into a window that was stopped by bullet-proof glass. ](/news/2011/11/16/two-bullets-are-found-to-have-been-fired-at-the-white-house-in-washington-dc-one-into-a-window-that-was-stopped-by-bullet-proof-glass.md)
-_Context: White House, bullet-proof glass, Washington, DC._
+_Context: White House, Washington, DC., bullet-proof glass_
 
 ##### Mario Monti
 ### [Mario Monti is sworn in as Italian prime minister and temporary finance minister, with the task of implementing austerity measures to prevent the euro area's third-biggest economy from collapsing as a result of the debt crisis. ](/news/2011/11/16/mario-monti-is-sworn-in-as-italian-prime-minister-and-temporary-finance-minister-with-the-task-of-implementing-austerity-measures-to-preven.md)
-_Context: Mario Monti, Eurozone, Italian Prime Minister, Economy Minister, Eurozone crisis, third-biggest economy_
+_Context: Eurozone crisis, Mario Monti, Italian Prime Minister, Eurozone, third-biggest economy, Economy Minister_
 
 ##### Gordon Lilo Darcy
 ### [Gordon Lilo Darcy of the ruling National Coalition for Reform and Advancement is elected Prime Minister of the Solomon Islands in a 29-20 parliamentary vote over Milner Tozaka. ](/news/2011/11/16/gordon-lilo-darcy-of-the-ruling-national-coalition-for-reform-and-advancement-is-elected-prime-minister-of-the-solomon-islands-in-a-29-20-pa.md)
-_Context: Milner Tozaka, Gordon Lilo Darcy, National Coalition for Reform and Advancement, Prime Minister_
+_Context: National Coalition for Reform and Advancement, Prime Minister, Gordon Lilo Darcy, Milner Tozaka_
 
 ##### Greek Prime Minister
 ### [The new Greek prime minister, Lucas Papademos, wins a vote of confidence in Parliament, opening the way for his government of national unity to take the steps to restore financial stability in Greece. ](/news/2011/11/16/the-new-greek-prime-minister-lucas-papademos-wins-a-vote-of-confidence-in-parliament-opening-the-way-for-his-government-of-national-unity.md)
-_Context: Hellenic Parliament, Greek Prime Minister, Greek government debt crisis, Lucas Papademos_
+_Context: Greek Prime Minister, Lucas Papademos, Hellenic Parliament, Greek government debt crisis_
 
 ## [Previous Day...](/news/2011/11/15/index.md)
 

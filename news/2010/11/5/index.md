@@ -13,7 +13,7 @@ _Context: Khanur Mahar, Sindh_
 
 ##### al-Qaida
 ### [Al-Qaeda in the Arabian Peninsula claims responsibility for the cargo plane bomb plot of October 29, 2010 and a September UPS plane crash in Dubai. ](/news/2010/11/5/al-qaeda-in-the-arabian-peninsula-claims-responsibility-for-the-cargo-plane-bomb-plot-of-october-29-2010-and-a-september-ups-plane-crash-in.md)
-_Context: al-Qaida, UPS, Dubai, Yemen bomb attacks_
+_Context: UPS, Dubai, al-Qaida, Yemen bomb attacks_
 
 ##### National Union of Journalists
 ### [In the United Kingdom, members of the National Union of Journalists at the BBC begin a 48 hour strike in a dispute over proposed changes to the Corporation's pension scheme. BBC News operates a reduced service. ](/news/2010/11/5/in-the-united-kingdom-members-of-the-national-union-of-journalists-at-the-bbc-begin-a-48-hour-strike-in-a-dispute-over-proposed-changes-to.md)
@@ -21,11 +21,11 @@ Members of the National Union of Journalists working for BBC News take industria
 
 ##### MSNBC
 ### [MSNBC suspends U.S. television pundit Keith Olbermann indefinitely for making political donations to three Democratic Party candidates. ](/news/2010/11/5/msnbc-suspends-u-s-television-pundit-keith-olbermann-indefinitely-for-making-political-donations-to-three-democratic-party-candidates.md)
-_Context: MSNBC, political donation, Keith Olbermann, Democrat_
+_Context: MSNBC, political donation, Democrat, Keith Olbermann_
 
 ##### Ready Steady Cook
 ### ["Ready Steady Cook", thought to be the longest running cookery show currently on television, is axed by the BBC. ](/news/2010/11/5/ready-steady-cook-thought-to-be-the-longest-running-cookery-show-currently-on-television-is-axed-by-the-bbc.md)
-_Context: BBC, Ready Steady Cook_
+_Context: Ready Steady Cook, BBC_
 
 ##### Airbus A400M
 ### [A final funding deal for the Airbus A400M military transport aircraft has been agreed to by the United Kingdom, France, Germany, Belgium, Luxembourg, Spain and Turkey. ](/news/2010/11/5/a-final-funding-deal-for-the-airbus-a400m-military-transport-aircraft-has-been-agreed-to-by-the-united-kingdom-france-germany-belgium-lu.md)
@@ -49,11 +49,11 @@ At least 21 people, including some foreign nationals, were feared killed when a 
 
 ##### East China
 ### [12 people are dead after a 41-vehicle traffic accident on an expressway in East China's Jiangxi province. ](/news/2010/11/5/12-people-are-dead-after-a-41-vehicle-traffic-accident-on-an-expressway-in-east-china-s-jiangxi-province.md)
-_Context: East China, Jiangxi_
+_Context: Jiangxi, East China_
 
 ##### Haiti
 ### [At least one person dies in Haiti from flooding caused by Hurricane Tomas, adding to the fourteen people who died in Saint Lucia. ](/news/2010/11/5/at-least-one-person-dies-in-haiti-from-flooding-caused-by-hurricane-tomas-adding-to-the-fourteen-people-who-died-in-saint-lucia.md)
-_Context: Saint Lucia, Haiti, flood, Tropical Storm Tomas_
+_Context: Haiti, Saint Lucia, Tropical Storm Tomas, flood_
 
 ##### falls on a train
 ### [A concrete mixer lorry falls on a train near Oxshott, England. ](/news/2010/11/5/a-concrete-mixer-lorry-falls-on-a-train-near-oxshott-england.md)
@@ -73,15 +73,15 @@ Greece resumed the shipment of all mail and packages abroad after midnight on Fr
 
 ##### Government of Norway
 ### [The Government of Norway demands an explanation from the US Government on reports that the US embassy in Oslo conducted illegal surveillance on Norwegian citizens for more than ten years. ](/news/2010/11/5/the-government-of-norway-demands-an-explanation-from-the-us-government-on-reports-that-the-us-embassy-in-oslo-conducted-illegal-surveillance.md)
-_Context: Government of Norway, Oslo, Government of the United States, Norway, U.S._
+_Context: Government of Norway, Government of the United States, Norway, Oslo, United States_
 
 ##### Peru
 ### [A Peruvian judge orders that United States born militant Lori Berenson be released from prison in Lima. ](/news/2010/11/5/a-peruvian-judge-orders-that-united-states-born-militant-lori-berenson-be-released-from-prison-in-lima.md)
-_Context: Lori Berenson, U.S., Lima, Peru_
+_Context: Lima, United States, Peru, Lori Berenson_
 
 ##### Mexico
 ### [Mexican drug cartel leader Ezequiel Cardenas Guilln is shot dead by Mexican security forces in Matamoros following a gun fight of several hours. ](/news/2010/11/5/mexican-drug-cartel-leader-ezequiel-cardenas-guillen-is-shot-dead-by-mexican-security-forces-in-matamoros-following-a-gun-fight-of-several-h.md)
-_Context: Matamoros, Ezequiel Cardenas Guilln, drug cartel, Mexico_
+_Context: drug cartel, Mexico, Ezequiel Cardenas Guilln, Matamoros_
 
 ##### Oakland, California
 ### [Violent protests occur in Oakland, California following Johannes Mehserle receiving two years jail for the shooting of Oscar Grant on the Bay Area Rapid Transit system with Oakland police chief Anthony Batts expecting to make 150 arrests. ](/news/2010/11/5/violent-protests-occur-in-oakland-california-following-johannes-mehserle-receiving-two-years-jail-for-the-shooting-of-oscar-grant-on-the-ba.md)
@@ -101,7 +101,7 @@ Nigel Farage is re-elected as leader of the UK Independence Party, replacing Lor
 
 ##### France
 ### [A protest by French anti-nuclear organisation GANVA blocks a train carrying nuclear waste near Caen in northwestern France. ](/news/2010/11/5/a-protest-by-french-anti-nuclear-organisation-ganva-blocks-a-train-carrying-nuclear-waste-near-caen-in-northwestern-france.md)
-_Context: France, Caen, GANVA, nuclear waste_
+_Context: France, Caen, nuclear waste, GANVA_
 
 ##### presidency
 ### [The President of Tanzania Jakaya Kikwete is reelected to a second term despite allegations of vote-rigging. ](/news/2010/11/5/the-president-of-tanzania-jakaya-kikwete-is-reelected-to-a-second-term-despite-allegations-of-vote-rigging.md)

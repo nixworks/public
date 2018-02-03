@@ -19,7 +19,7 @@ A blast struck a market in the northeastern Nigerian city of Yola on Tuesday eve
 ### [Two Air France flights bound for Paris from the United States are diverted for several hours on following anonymous bomb threats. ](/news/2015/11/17/two-air-france-flights-bound-for-paris-from-the-united-states-are-diverted-for-several-hours-on-following-anonymous-bomb-threats.md)
 Two Air France flights bound for Paris from the United States were diverted for several hours on Tuesday following anonymous bomb threats, and more than 700 passengers and crew were safely taken off the planes, officials said.
 
-##### U.S.
+##### United States
 ### [American actor Charlie Sheen confirms he has HIV. ](/news/2015/11/17/american-actor-charlie-sheen-confirms-he-has-hiv.md)
 A look at celebrities with HIV/AIDS
 
@@ -27,7 +27,7 @@ A look at celebrities with HIV/AIDS
 ### [A 6.5-magnitude earthquake strikes southwest of Ioannina in Greece, at a depth of 6.2 mi killing at least two people. The quake damages the main road in the southwestern part of Lefkada. ](/news/2015/11/17/a-6-5-magnitude-earthquake-strikes-southwest-of-ioannina-in-greece-at-a-depth-of-6-2-mi-killing-at-least-two-people-the-quake-damages-the.md)
 A 6.5-magnitude earthquake struck southwest of Ioannina in Greece at a depth of some 10 kilometers, according to the US Geological Service. Two people have been reported dead. 
 
-##### U.S.
+##### United States
 ### [In the United States, the National Weather Service issues a blizzard warning for northeastern Colorado and western Kansas with an expected snowfall by midday of 12 inches in Denver, Colorado. Denver International Airport cancels 143 arriving and departing flighits. Several tornadoes occur overnight in northern Texas, western Kansas, and southern Nebraska. ](/news/2015/11/17/in-the-united-states-the-national-weather-service-issues-a-blizzard-warning-for-northeastern-colorado-and-western-kansas-with-an-expected-s.md)
 More than 100 flights were canceled at Denver International Airport on Tuesday as a powerful storm system dropped snow over the Rocky Mountains, while tornadoes were reported from Texas to Nebraska, officials said.
 
@@ -49,7 +49,7 @@ Domestic Islamist movement has ties to Hamas and the Egyptian Muslim Brotherhood
 
 ##### Japan
 ### [The Japanese government officially sues the governor of Okinawa, Takeshi Onaga, over his denial of permits to allow work to begin on the Relocation of Marine Corps Air Station Futenma. ](/news/2015/11/17/the-japanese-government-officially-sues-the-governor-of-okinawa-takeshi-onaga-over-his-denial-of-permits-to-allow-work-to-begin-on-the-rel.md)
-_Context: Japan, relocate MCAS Futenma to Henoko Bay in Nago, Okinawa, Takeshi Onaga_
+_Context: Japan, Takeshi Onaga, relocate MCAS Futenma to Henoko Bay in Nago, Okinawa_
 
 ##### refugees from Syria
 ### [More than half of the state governors in the United States reject accepting asylum seekers from Syria after the attacks in Paris. All except one of them are Republicans. ](/news/2015/11/17/more-than-half-of-the-state-governors-in-the-united-states-reject-accepting-asylum-seekers-from-syria-after-the-attacks-in-paris-all-except.md)

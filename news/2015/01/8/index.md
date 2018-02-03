@@ -49,7 +49,7 @@ The oil-rich nation has prohibited future public celebrations of Christmas as pa
 
 ##### Sri Lankan presidential election, 2015
 ### [Voters in Sri Lanka go to the polls for a presidential election with a tight contest predicted between President Mahinda Rajapaksa and challenger Maithripala Sirisena. ](/news/2015/01/8/voters-in-sri-lanka-go-to-the-polls-for-a-presidential-election-with-a-tight-contest-predicted-between-president-mahinda-rajapaksa-and-chall.md)
-_Context: Mahinda Rajapaksa, Maithripala Sirisena, Sri Lanka, President of Sri Lanka, Sri Lankan presidential election, 2015_
+_Context: Sri Lankan presidential election, 2015, President of Sri Lanka, Mahinda Rajapaksa, Maithripala Sirisena, Sri Lanka_
 
 ## [Previous Day...](/news/2015/01/7/index.md)
 

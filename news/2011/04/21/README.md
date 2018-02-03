@@ -21,7 +21,7 @@ The Federal Energy Regulatory Commission issued a $30 million civil penalty agai
 
 ##### Vietnam
 ### [Prominent Vietnamese dissident Cu Huy Ha Vu appeals his sentence for "anti-state propaganda". ](/news/2011/04/21/prominent-vietnamese-dissident-cu-huy-ha-vu-appeals-his-sentence-for-anti-state-propaganda.md)
-_Context: Vietnam, Cu Huy Ha Vu_
+_Context: Cu Huy Ha Vu, Vietnam_
 
 ##### Uganda
 ### [Protests take place in Uganda after the arrest of opposition leader Kizza Besigye during a demonstration. ](/news/2011/04/21/protests-take-place-in-uganda-after-the-arrest-of-opposition-leader-kizza-besigye-during-a-demonstration.md)

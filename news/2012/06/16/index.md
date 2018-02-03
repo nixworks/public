@@ -21,11 +21,11 @@ The Myanmar activist said the prize helped her keep going in captivity.
 
 ##### Kenneth Branagh
 ### [Actors Kenneth Branagh and Kate Winslet and singer Gary Barlow are among those recognised in the Queen's Birthday Honours. ](/news/2012/06/16/actors-kenneth-branagh-and-kate-winslet-and-singer-gary-barlow-are-among-those-recognised-in-the-queen-s-birthday-honours.md)
-_Context: Queen's Birthday Honours, Kenneth Branagh, Gary Barlow, Kate Winslet_
+_Context: Queen's Birthday Honours, Gary Barlow, Kenneth Branagh, Kate Winslet_
 
 ##### Coca-Cola
 ### [Coca-Cola returns to Myanmar after 60 years, leaving North Korea and Cuba as the only two countries in the world where the company does not do business. ](/news/2012/06/16/coca-cola-returns-to-myanmar-after-60-years-leaving-north-korea-and-cuba-as-the-only-two-countries-in-the-world-where-the-company-does-not.md)
-_Context: Coca-Cola, North Korea, Cuba, Myanmar_
+_Context: Cuba, North Korea, Coca-Cola, Myanmar_
 
 ##### Radiohead
 ### [The collapse of a stage intended for a Radiohead concert in the Canadian city of Toronto kills one person. ](/news/2012/06/16/the-collapse-of-a-stage-intended-for-a-radiohead-concert-in-the-canadian-city-of-toronto-kills-one-person.md)
@@ -33,7 +33,7 @@ One person is killed and another seriously hurt after a stage collapses before a
 
 ##### gorge
 ### [More than 30 people are killed and 15 injured after a bus falls into a gorge in Osmanabad district in the Indian state of Maharashtra. ](/news/2012/06/16/more-than-30-people-are-killed-and-15-injured-after-a-bus-falls-into-a-gorge-in-osmanabad-district-in-the-indian-state-of-maharashtra.md)
-_Context: Indian state, gorge, Osmanabad district, Maharashtra_
+_Context: Osmanabad district, Indian state, Maharashtra, gorge_
 
 ##### Blue Islands
 ### [A Blue Islands ATR 42 aircraft suffers an undercarriage collapse on the runway at Jersey Airport. The aircraft is later evacuated with no injuries reported. ](/news/2012/06/16/a-blue-islands-atr-42-aircraft-suffers-an-undercarriage-collapse-on-the-runway-at-jersey-airport-the-aircraft-is-later-evacuated-with-no-in.md)
@@ -43,7 +43,7 @@ The undercarriage of a Blue Islands plane from Guernsey gives way after landing 
 ### [A priest is stabbed to death in a church in the city of Focsani, Romania. ](/news/2012/06/16/a-priest-is-stabbed-to-death-in-a-church-in-the-city-of-foceani-romania.md)
 _Context: Romania, Focsani_
 
-##### U.S.
+##### United States
 ### [One of the United States's most wanted fugitives, Air Force deserter David A. Hemler, has reportedly been living and working in Stockholm, Sweden, for the past 28 years. ](/news/2012/06/16/one-of-the-united-states-s-most-wanted-fugitives-air-force-deserter-david-a-hemler-has-reportedly-been-living-and-working-in-stockholm-s.md)
 In October 1984, a 21-year-old American Airman deserted and hitch-hiked from an Air Force base in Augsburg, Germany to Stockholm.
 
@@ -55,7 +55,7 @@ High turnout reported in some governorates as Egyptians turn out to cast ballots
 ### [Saudi Arabia states that Crown Prince Nayef has died in Geneva. ](/news/2012/06/16/saudi-arabia-states-that-crown-prince-nayef-has-died-in-geneva.md)
 Prince Nayef bin Abdulaziz Al Saud, next in line to the throne, has died abroad at the age of 78.
 
-##### Chinese
+##### China
 ### [China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts &ndash; including the first female Chinese astronaut, Liu Yang &ndash; to the Tiangong-1 orbital module. ](/news/2012/06/16/china-successfully-launches-its-shenzhou-9-spacecraft-carrying-three-astronauts-ndash-including-the-first-female-chinese-astronaut-liu-y.md)
 China sends its first woman into space as 33-year-old fighter pilot Liu Yang is one of three astronauts travelling to the orbiting Tiangong space lab.
 

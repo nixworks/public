@@ -9,11 +9,11 @@ _Context: lungs, hospital, BBC, King Fahd_
 
 ##### Qur'an desecration by US military
 ### [ Qur'an desecration by US military: Protests have occurred in Egypt, Pakistan, Jordan, Lebanon and Malaysia after the US military admitted that the Qur'an had been "mishandled" by soldiers. ](/news/2005/05/27/qur-an-desecration-by-us-military-protests-have-occurred-in-egypt-pakistan-jordan-lebanon-and-malaysia-after-the-us-military-admitted-t.md)
-_Context: US military, Malaysia, Lebanon, Pakistan, Jordan, Qur'an desecration by US military, Qur'an, Egypt_
+_Context: Lebanon, Qur'an, Pakistan, Egypt, Qur'an desecration by US military, US military, Jordan, Malaysia_
 
 ##### Bundesrat of Germany
 ### [ The Bundesrat of Germany ratifies the Treaty establishing a Constitution for Europe. ](/news/2005/05/27/the-bundesrat-of-germany-ratifies-the-treaty-establishing-a-constitution-for-europe.md)
-_Context: Bundesrat of Germany, European constitution_
+_Context: European constitution, Bundesrat of Germany_
 
 ##### Australia
 ### [ Australian Schapelle Corby has been found guilty by a Bali court of importing a narcotic into Indonesia. She has appealed the AU$13,875 fine and the 20-year jail sentence. ](/news/2005/05/27/australian-schapelle-corby-has-been-found-guilty-by-a-bali-court-of-importing-a-narcotic-into-indonesia-she-has-appealed-the-au-13-875-fin.md)
@@ -25,11 +25,11 @@ _Context: Federal Court of Australia_
 
 ##### World Trade Organization
 ### [ The 148 members of the World Trade Organization officially appoint the former European Union Trade Commissioner, Pascal Lamy, as its 5th Director-General. ](/news/2005/05/27/the-148-members-of-the-world-trade-organization-officially-appoint-the-former-european-union-trade-commissioner-pascal-lamy-as-its-5th-di.md)
-_Context: Pascal Lamy, World Trade Organization, European Union, Director-General_
+_Context: Pascal Lamy, World Trade Organization, Director-General, European Union_
 
 ##### Basque
 ### [ The majority of members of Basque parliament, Spain, condemn the ETA bomb attack in Madrid, though the communists abstain. A bomb explodes later in a Basque train station. ](/news/2005/05/27/the-majority-of-members-of-basque-parliament-spain-condemn-the-eta-bomb-attack-in-madrid-though-the-communists-abstain-a-bomb-explodes.md)
-_Context: Spain, Basque, Basque, ETA, abstain, Madrid_
+_Context: Spain, Basque, Madrid, Basque, ETA, abstain_
 
 ##### BBC
 ### [ The planned 48 hour strike at the BBC in Britain is called off, unions announce, following talks. ](/news/2005/05/27/the-planned-48-hour-strike-at-the-bbc-in-britain-is-called-off-unions-announce-following-talks.md)
@@ -41,7 +41,7 @@ _Context: Pakistan, Islamabad_
 
 ##### 2005 elections
 ### [ Ethiopian general elections: European Union observers report that the National Elections Board of Ethiopia (NEBE) may be losing control of the vote counting for the recent May 15 election, potentially marring the most open election in Ethiopian history. Meanwhile the NEBE has postponed announcement of the election's provisional results until June 8, due to the volume of complaints of election irregularities. ](/news/2005/05/27/ethiopian-general-elections-european-union-observers-report-that-the-national-elections-board-of-ethiopia-nebe-may-be-losing-control-of.md)
-_Context: European Union, June 8, 2005 elections, May 15_
+_Context: June 8, May 15, European Union, 2005 elections_
 
 ## [Previous Day...](/news/2005/05/26/index.md)
 

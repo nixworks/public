@@ -5,23 +5,23 @@ Formats: [HTML](2005/09/28/index.html)  [JSON](2005/09/28/index.json)  [XML](200
 
 ##### United States military
 ### [ The Pentagon announces it will investigate allegations that US soldiers posted photographs of dead Iraqis on a website so as to get access to free Internet porn. CAIR had earlier called for the investigation after the details of the site came to light. ](/news/2005/09/28/the-pentagon-announces-it-will-investigate-allegations-that-us-soldiers-posted-photographs-of-dead-iraqis-on-a-website-so-as-to-get-access.md)
-_Context: CAIR, US soldiers, Internet porn, United States military, Iraq, website_
+_Context: US soldiers, CAIR, Internet porn, United States military, Iraq, website_
 
 ##### unionize
 ### [ Trade unions inflict defeats against the UK Labour Party government, during the party's annual conference, including on the plan to use private companies in the National Health Service. ](/news/2005/09/28/trade-unions-inflict-defeats-against-the-uk-labour-party-government-during-the-party-s-annual-conference-including-on-the-plan-to-use-pri.md)
-_Context: British, Labour Party, National Health Service, unionize_
+_Context: National Health Service, unionize, Labour Party, British_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israeli airstrikes on Palestinian areas continue. IDF planes and artillery strike Gaza knocking out power to parts of the city, destroy a bridge in Beit Hanoun, fire missiles at a Fatah Youth Centre, an office and a refugee camp in the central Gaza Strip. Israeli troops later raided offices of Hamas and Islamic Jihad in the West Bank. ](/news/2005/09/28/israeli-palestinian-conflict-israeli-airstrikes-on-palestinian-areas-continue-idf-planes-and-artillery-strike-gaza-knocking-out-power-to.md)
-_Context: Israel Defense Forces, Youth Centre, artillery, refugee, Israel, Beit Hanoun, Israeli-Palestinian Conflict, airstrike, Fatah, Palestinian Islamic Jihad, bridge, Hamas, Palestine, West Bank, Gaza Strip_
+_Context: bridge, Palestinian Islamic Jihad, Israeli-Palestinian Conflict, West Bank, Hamas, Beit Hanoun, Fatah, Palestine, Gaza Strip, airstrike, Youth Centre, Israel, refugee, Israel Defense Forces, artillery_
 
 ##### Asif Chotu
 ### [ According to reports, Asif Chotu, allegedly a leader of the al Qaeda-linked militant group Lashkar-e-Jhangvi, has been arrested in Pakistan. ](/news/2005/09/28/according-to-reports-asif-chotu-allegedly-a-leader-of-the-al-qaeda-linked-militant-group-lashkar-e-jhangvi-has-been-arrested-in-pakistan.md)
-_Context: Asif Chotu, al Qaeda, Lashkar-e-Jhangvi_
+_Context: al Qaeda, Asif Chotu, Lashkar-e-Jhangvi_
 
 ##### British
 ### [ An 82-year-old British man was manhandled out of Labour Party Conference for loudly protesting that Jack Straw was lying about Britain's involvement with the Conflict in Iraq. ](/news/2005/09/28/an-82-year-old-british-man-was-manhandled-out-of-labour-party-conference-for-loudly-protesting-that-jack-straw-was-lying-about-britain-s-in.md)
-_Context: Conflict in Iraq, Jack Straw, British_
+_Context: Jack Straw, Conflict in Iraq, British_
 
 ## [Previous Day...](/news/2005/09/27/index.md)
 

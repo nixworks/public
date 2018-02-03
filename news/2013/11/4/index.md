@@ -13,7 +13,7 @@ _Context: Mali_
 
 ##### German magazine ''Focus''
 ### [German magazine "Focus" reports the 2012 discovery of Nazi plundered art worth EUR1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and-m.md)
-_Context: Picasso, German magazine ''Focus'', Munich, 2012 discovery, Matisse, Nazi plunder_
+_Context: Munich, Matisse, 2012 discovery, German magazine ''Focus'', Picasso, Nazi plunder_
 
 ##### Ardal
 ### [A man fatally stabs three people on a bus en route between Ardal and Tyin in Norway. ](/news/2013/11/4/a-man-fatally-stabs-three-people-on-a-bus-en-route-between-ardal-and-tyin-in-norway.md)

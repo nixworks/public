@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/11/index.html)  [JSON](2007/07/11/index.json)  [XML](200
 
 ##### Organisation for the Prohibition of Chemical Weapons
 ### [ The Organisation for the Prohibition of Chemical Weapons confirmed the destruction of the entire chemical weapons stockpile in Albania.](/news/2007/07/11/the-organisation-for-the-prohibition-of-chemical-weapons-confirmed-the-destruction-of-the-entire-chemical-weapons-stockpile-in-albania.md)
-_Context: Albania, chemical weapons, Organisation for the Prohibition of Chemical Weapons_
+_Context: Organisation for the Prohibition of Chemical Weapons, chemical weapons, Albania_
 
 ##### South Dakota
 ### [ South Dakota executes Elijah Page for murder, the first execution in the state in 60 years.](/news/2007/07/11/south-dakota-executes-elijah-page-for-murder-the-first-execution-in-the-state-in-60-years.md)
@@ -13,7 +13,7 @@ South Dakota carried out its first execution in 60 years on Wednesday, putting t
 
 ##### British Museum
 ### [ The British Museum states that the Nebo-Sarsekim Tablet, a clay tablet dating from 695 BC, contains a cuneiform inscription confirming the existence of a figure mentioned in the Old Testament. ](/news/2007/07/11/the-british-museum-states-that-the-nebo-sarsekim-tablet-a-clay-tablet-dating-from-695-bc-contains-a-cuneiform-inscription-confirming-the.md)
-_Context: Old Testament, clay tablet, British Museum, cuneiform, 695 BC, Nebo-Sarsekim Tablet_
+_Context: cuneiform, British Museum, clay tablet, Nebo-Sarsekim Tablet, Old Testament, 695 BC_
 
 ##### Pakistan Army
 ### [ The Pakistan Army claims that Operation Silence at the Lal Masjid is in its final stages and that 95% of the complex is under its control. It has found the bodies of 73 militants. ](/news/2007/07/11/the-pakistan-army-claims-that-operation-silence-at-the-lal-masjid-is-in-its-final-stages-and-that-95-of-the-complex-is-under-its-control.md)
@@ -33,7 +33,7 @@ _Context: Philippines, killed by insurgents_
 
 ##### Libya
 ### [ The Supreme Court of Libya upholds the death penalty for the six Bulgarian medics and one Palestinian doctor accused of infecting children with HIV. ](/news/2007/07/11/the-supreme-court-of-libya-upholds-the-death-penalty-for-the-six-bulgarian-medics-and-one-palestinian-doctor-accused-of-infecting-children.md)
-_Context: Libya, HIV trial in Libya, Bulgaria, Palestinian, sentenced to death_
+_Context: HIV trial in Libya, sentenced to death, Palestinian, Bulgaria, Libya_
 
 ##### China
 ### [ The People's Republic of China bans diethylene glycol as an ingredient in toothpaste. ](/news/2007/07/11/the-people-s-republic-of-china-bans-diethylene-glycol-as-an-ingredient-in-toothpaste.md)
@@ -41,7 +41,7 @@ China has banned the use in toothpaste of a chemical linked to the recall of Chi
 
 ##### Chile
 ### [ A Chilean court rejects the extradition of former Peruvian President Alberto Fujimori. ](/news/2007/07/11/a-chilean-court-rejects-the-extradition-of-former-peruvian-president-alberto-fujimori.md)
-_Context: Peru, President, Chile, extradition, Alberto Fujimori_
+_Context: Chile, President, Alberto Fujimori, extradition, Peru_
 
 ## [Previous Day...](/news/2007/07/10/index.md)
 

@@ -9,7 +9,7 @@ _Context: George W. Bush, CIA, U.S. President, Scooter Libby_
 
 ##### Parliamentary elections
 ### [ Hungarian parliamentary election, 2006: The ruling Hungarian Socialist Party wins the first round. Voter turnout was 67.7 percent.](/news/2006/04/9/hungarian-parliamentary-election-2006-the-ruling-hungarian-socialist-party-wins-the-first-round-voter-turnout-was-67-7-percent.md)
-_Context: Voter turnout, Parliamentary elections, Hungarian Socialist Party_
+_Context: Voter turnout, Hungarian Socialist Party, Parliamentary elections_
 
 ## [Previous Day...](/news/2006/04/8/index.md)
 

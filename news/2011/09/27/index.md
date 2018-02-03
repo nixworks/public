@@ -17,15 +17,15 @@ Women will be allowed to serve in frontline combat roles within five years under
 
 ##### Syrian Army
 ### [The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md)
-_Context: Syrian Army, Rastan, Homs_
+_Context: Homs, Syrian Army, Rastan_
 
 ##### Abu Sayyaf
 ### [Abu Sayyaf gunmen attack pro-government militia in the township of Sumisip on Basilan Island in the Philippines, with six people reported killed and five wounded. ](/news/2011/09/27/abu-sayyaf-gunmen-attack-pro-government-militia-in-the-township-of-sumisip-on-basilan-island-in-the-philippines-with-six-people-reported-ki.md)
-_Context: Basilan Island, Sumisip, Abu Sayyaf, Philippines_
+_Context: Abu Sayyaf, Sumisip, Philippines, Basilan Island_
 
 ##### suicide bomber
 ### [A suicide bomber kills at least two people in the city of Lashkar Gah in Afghanistan's Helmand Province. ](/news/2011/09/27/a-suicide-bomber-kills-at-least-two-people-in-the-city-of-lashkar-gah-in-afghanistan-s-helmand-province.md)
-_Context: Afghanistan, Lashkar Gah, Helmand Province, suicide bomber_
+_Context: Afghanistan, suicide bomber, Lashkar Gah, Helmand Province_
 
 ##### Australia
 ### [Visitors to Australia face delays as Australian Customs and Border Protection Service staff go on strike over a pay dispute. ](/news/2011/09/27/visitors-to-australia-face-delays-as-australian-customs-and-border-protection-service-staff-go-on-strike-over-a-pay-dispute.md)
@@ -45,7 +45,7 @@ _Context: BAE Systems_
 
 ##### LCH.Clearnet
 ### [The board of LCH.Clearnet, an independent European clearing house, reportedly approves of a takeover proposal by the London Stock Exchange. ](/news/2011/09/27/the-board-of-lch-clearnet-an-independent-european-clearing-house-reportedly-approves-of-a-takeover-proposal-by-the-london-stock-exchange.md)
-_Context: London Stock Exchange, clearing house, LCH.Clearnet_
+_Context: clearing house, London Stock Exchange, LCH.Clearnet_
 
 ##### Typhoon Nesat
 ### [Typhoon Nesat hits the island of Luzon in the Philippines with at least sixteen deaths, 100,000 people evacuated and the capital Manila brought to a standstill. ](/news/2011/09/27/typhoon-nesat-hits-the-island-of-luzon-in-the-philippines-with-at-least-sixteen-deaths-100-000-people-evacuated-and-the-capital-manila-brou.md)
@@ -69,15 +69,15 @@ Israel approves the construction of 1,100 homes in the Jewish settlement of Gilo
 
 ##### CEO
 ### [CEOs of Iranian Melli Bank and Saderat Bank resign from their positions as a result of $2.6 billion bank fraud. ](/news/2011/09/27/ceos-of-iranian-melli-bank-and-saderat-bank-resign-from-their-positions-as-a-result-of-2-6-billion-bank-fraud.md)
-_Context: CEO, Melli Bank, Saderat Bank_
+_Context: Melli Bank, Saderat Bank, CEO_
 
 ##### hijacker
 ### [Fugitive hijacker George Wright is caught in Portugal, thirty-nine years after he and members of the Black Liberation Army took control of Delta Air Lines Flight 841 and flew it to Algeria. ](/news/2011/09/27/fugitive-hijacker-george-wright-is-caught-in-portugal-thirty-nine-years-after-he-and-members-of-the-black-liberation-army-took-control-of-d.md)
-_Context: Delta Air Lines Flight 841, Portugal, George Wright, Black Liberation Army, hijacker_
+_Context: Delta Air Lines Flight 841, George Wright, Black Liberation Army, Portugal, hijacker_
 
 ##### trial of Dr Conrad Murray
 ### [The trial of Dr Conrad Murray for manslaughter in connection to the death of American singer Michael Jackson begins in California. ](/news/2011/09/27/the-trial-of-dr-conrad-murray-for-manslaughter-in-connection-to-the-death-of-american-singer-michael-jackson-begins-in-california.md)
-_Context: California, death of Michael Jackson, Michael Jackson, manslaughter by gross negligence, trial of Dr Conrad Murray_
+_Context: manslaughter by gross negligence, death of Michael Jackson, California, Michael Jackson, trial of Dr Conrad Murray_
 
 ## [Previous Day...](/news/2011/09/26/index.md)
 

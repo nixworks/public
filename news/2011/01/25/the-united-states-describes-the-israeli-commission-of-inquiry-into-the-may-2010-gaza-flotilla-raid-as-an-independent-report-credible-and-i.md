@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/25/the-united-states-describes-the-israeli-commiss
 
 ### [2011-01-25](/news/2011/01/25/index.md)
 
-##### State Department's
+##### State Department
 # The United States describes the Israeli commission of inquiry into the May 2010 Gaza flotilla raid as "an independent report, credible and impartial and transparent", but says the "primary forum" for examining the event was the international committee operating under the auspices of UN Secretary-General Ban Ki-moon. 
 
 

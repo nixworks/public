@@ -25,7 +25,7 @@ The Somali National Theatre reopens in Mogadishu more than two decades after it 
 
 ##### German
 ### [Public sector workers in the German states of Lower Saxony and Bremen begin a 24-hour strike as part of pay negotiations. ](/news/2012/03/19/public-sector-workers-in-the-german-states-of-lower-saxony-and-bremen-begin-a-24-hour-strike-as-part-of-pay-negotiations.md)
-_Context: German, Bremen, Lower Saxony_
+_Context: Bremen, Lower Saxony, German_
 
 ##### Wendy's
 ### [Wendy's becomes the second best selling hamburger chain in the USA, overtaking Burger King. ](/news/2012/03/19/wendy-s-becomes-the-second-best-selling-hamburger-chain-in-the-usa-overtaking-burger-king.md)
@@ -69,7 +69,7 @@ Opposition supporters demonstrate against President Mohammed Waheed Hassan, who 
 
 ##### President
 ### [The President of East Timor Jose Ramos-Horta concedes defeat in the East Timorese presidential election with Taur Matan Ruak and Francisco Guterres likely to contest a runoff in April. ](/news/2012/03/19/the-president-of-east-timor-josa-c-ramos-horta-concedes-defeat-in-the-east-timorese-presidential-election-with-taur-matan-ruak-and-francisco.md)
-_Context: President, Francisco Guterres, Taur Matan Ruak, Jose Ramos-Horta, 2012_
+_Context: Jose Ramos-Horta, Taur Matan Ruak, President, Francisco Guterres, 2012_
 
 ##### Tonga
 ### [Tonga is in mourning following the death of King George Tupou V. ](/news/2012/03/19/tonga-is-in-mourning-following-the-death-of-king-george-tupou-v.md)

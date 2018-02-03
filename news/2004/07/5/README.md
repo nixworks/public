@@ -13,11 +13,11 @@ _Context: International Committee of the Red Cross, Abu Ghraib prisoner abuse, U
 
 ##### presidential election
 ### [ The first direct Indonesian presidential election is held, with Susilo Bambang Yudhoyono expected to win with one-third of the vote. If no candidate wins at least 50 percent of the vote, the two top finishers will compete in a September runoff. The race for second place, between President Megawati Sukarnoputri and former army chief General Wiranto, is still too close to call. ](/news/2004/07/5/the-first-direct-indonesian-presidential-election-is-held-with-susilo-bambang-yudhoyono-expected-to-win-with-one-third-of-the-vote-if-no.md)
-_Context: Wiranto, Susilo Bambang Yudhoyono, second round, Megawati Sukarnoputri, presidential election_
+_Context: presidential election, Wiranto, second round, Megawati Sukarnoputri, Susilo Bambang Yudhoyono_
 
 ##### Alfonso Durazo
 ### [ Alfonso Durazo, spokesman and private secretary to Mexican President Vicente Fox, resigns over "political differences" with his boss, including the presidential ambitions of First Lady Marta Sahagn. The announcement came shortly after, but was not related to, a bad day for Fox's PAN party in state elections in its northern heartland. ](/news/2004/07/5/alfonso-durazo-spokesman-and-private-secretary-to-mexican-president-vicente-fox-resigns-over-political-differences-with-his-boss-inclu.md)
-_Context: Mexico, President, Alfonso Durazo, Vicente Fox, Marta Sahagn, National Action Party (PAN)_
+_Context: Vicente Fox, Alfonso Durazo, President, Mexico, National Action Party (PAN), Marta Sahagn_
 
 ## [Previous Day...](/news/2004/07/4/index.md)
 

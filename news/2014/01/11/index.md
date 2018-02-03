@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/11/index.html)  [JSON](2014/01/11/index.json)  [XML](201
 
 ##### Aitizaz Hassan
 ### [Aitizaz Hassan, a Pakistani boy who died after trying to stop a suicide bomber, is nominated for an award by Nawaz Sharif. ](/news/2014/01/11/aitizaz-hassan-a-pakistani-boy-who-died-after-trying-to-stop-a-suicide-bomber-is-nominated-for-an-award-by-nawaz-sharif.md)
-_Context: Nawaz Sharif, Aitizaz Hassan, Pakistan_
+_Context: Pakistan, Aitizaz Hassan, Nawaz Sharif_
 
 ##### Syrian Civil War
 ### [500 people are killed in inter-factional fighting between an alliance of secular rebels and moderate Islamists against radical Islamists. ](/news/2014/01/11/500-people-are-killed-in-inter-factional-fighting-between-an-alliance-of-secular-rebels-and-moderate-islamists-against-radical-islamists.md)
@@ -41,7 +41,7 @@ Get the latest health&nbsp;news, diet &amp; fitness information, medical researc
 
 ##### chemical leak
 ### [A chemical leak in West Virginia morphs into a crisis after the contamination of a portion of the state's water supply. ](/news/2014/01/11/a-chemical-leak-in-west-virginia-morphs-into-a-crisis-after-the-contamination-of-a-portion-of-the-state-s-water-supply.md)
-_Context: West Virginia, chemical leak, water supply_
+_Context: West Virginia, water supply, chemical leak_
 
 ##### Cyclone Ian
 ### [Cyclone Ian strikes Tonga with damage to buildings reported. ](/news/2014/01/11/cyclone-ian-strikes-tonga-with-damage-to-buildings-reported.md)
@@ -51,13 +51,13 @@ The South Pacific nation of Tonga was lashed by a powerful cyclone on Saturday, 
 ### [United States Attorney General Eric Holder says that same-sex marriages conducted in Utah are recognized as legal under federal law. The state of Utah however, does not recognize the marriages under state laws. ](/news/2014/01/11/united-states-attorney-general-eric-holder-says-that-same-sex-marriages-conducted-in-utah-are-recognized-as-legal-under-federal-law-the-sta.md)
 &ldquo;These families should not be asked to endure uncertainty regarding their status,&rdquo; the attorney general said.
 
-##### U.S.
+##### United States
 ### [The United States Air Force expands an illegal drugs investigation involving ten officers in six military bases in the United States and the United Kingdom. ](/news/2014/01/11/the-united-states-air-force-expands-an-illegal-drugs-investigation-involving-ten-officers-in-six-military-bases-in-the-united-states-and-the.md)
 Ten U.S. Air Force officers are being investigated for alleged illegal drug possession, the Air Force said on Friday, a day after the probe surfaced as Defense Secretary Chuck Hagel was visiting a base to rally airmen in the U.S. nuclear force.
 
 ##### torture
 ### [A ten-year-old servant girl is tortured to death in Punjab raising concerns about human rights in Pakistan. ](/news/2014/01/11/a-ten-year-old-servant-girl-is-tortured-to-death-in-punjab-raising-concerns-about-human-rights-in-pakistan.md)
-_Context: Pakistan, Punjab Province, human rights, torture_
+_Context: torture, Pakistan, human rights, Punjab Province_
 
 ##### Bilbao
 ### [About 110,000 people march peacefully through Bilbao, demanding Basque independence and freedom for more than 600 ETA prisoners. ](/news/2014/01/11/about-110-000-people-march-peacefully-through-bilbao-demanding-basque-independence-and-freedom-for-more-than-600-eta-prisoners.md)
@@ -65,7 +65,7 @@ At least 100,000 people march through the northern Spanish city of Bilbao after 
 
 ##### X-ray astronomers
 ### [X-ray astronomers find evidence of a black hole at the center of a dwarf galaxy gobbling up a star; this is the first such event ever filmed. ](/news/2014/01/11/x-ray-astronomers-find-evidence-of-a-black-hole-at-the-center-of-a-dwarf-galaxy-gobbling-up-a-star-this-is-the-first-such-event-ever-filmed.md)
-_Context: X-ray astronomers, black hole, dwarf galaxy, star_
+_Context: black hole, X-ray astronomers, star, dwarf galaxy_
 
 ##### Prime Minister of Israel
 ### [Former Israeli Prime Minister Ariel Sharon dies at the age of 85 after spending eight years in a coma following a stroke. ](/news/2014/01/11/former-israeli-prime-minister-ariel-sharon-dies-at-the-age-of-85-after-spending-eight-years-in-a-coma-following-a-stroke.md)
@@ -73,7 +73,7 @@ Former PM and general was polarising figure who backed Jewish settlements but pu
 
 ##### India
 ### [India says that it has "no stand-off" with the United States even after the Devyani Khobragade incident. ](/news/2014/01/11/india-says-that-it-has-no-stand-off-with-the-united-states-even-after-the-devyani-khobragade-incident.md)
-_Context: Devyani Khobragade incident, U.S., India_
+_Context: India, Devyani Khobragade incident, United States_
 
 ##### French President
 ### [French President Francois Hollande is under pressure after photos of him and actress Julie Gayet appear in a magazine. ](/news/2014/01/11/french-president-franassois-hollande-is-under-pressure-after-photos-of-him-and-actress-julie-gayet-appear-in-a-magazine.md)

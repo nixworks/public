@@ -5,19 +5,19 @@ Formats: [HTML](2006/05/1/index.html)  [JSON](2006/05/1/index.json)  [XML](2006/
 
 ##### Gyanendra of Nepal
 ### [ King Gyanendra of Nepal swears in Girija Prasad Koirala as the new Prime Minister of Nepal. Baburam Bhattarai of the CPN(M) which controls two thirds of the country, states that his party will respect the results of an election to a constituent assembly, so long as these are "free and fair". ](/news/2006/05/1/king-gyanendra-of-nepal-swears-in-girija-prasad-koirala-as-the-new-prime-minister-of-nepal-baburam-bhattarai-of-the-cpn-m-which-controls.md)
-_Context: Maoist supporters, Gyanendra of Nepal, Girija Prasad Koirala, Prime Minister, Baburam Bhattarai, constituent assembly_
+_Context: Gyanendra of Nepal, constituent assembly, Prime Minister, Girija Prasad Koirala, Maoist supporters, Baburam Bhattarai_
 
 ##### President of Chad
 ### [ President of Chad Idriss Dby refuses to delay upcoming presidential elections despite pressure from U.S. diplomat Donald Yamamoto, high ranking Chadian Christian officials, and the head of the Chadian human rights league. However, he announced the Chadian government is negotiating with the United Front for Democratic Change rebel group to avoid violence. ](/news/2006/05/1/president-of-chad-idriss-deby-refuses-to-delay-upcoming-presidential-elections-despite-pressure-from-u-s-diplomat-donald-yamamoto-high-ra.md)
-_Context: President of Chad, Donald Yamamoto, presidential elections, Chadian rebels, Chadian government, Idriss Dby_
+_Context: Chadian government, Donald Yamamoto, presidential elections, Chadian rebels, Idriss Dby, President of Chad_
 
 ##### Spain
 ### [ Spain, Portugal, Finland and Greece join the United Kingdom, Republic of Ireland and Sweden in allowing workers from the ten countries which joined the European Union two years ago free access to their labour markets. ](/news/2006/05/1/spain-portugal-finland-and-greece-join-the-united-kingdom-republic-of-ireland-and-sweden-in-allowing-workers-from-the-ten-countries-whic.md)
-_Context: European Union, Irish, Portugal, Spain, Greece, British, Finland, Sweden_
+_Context: Portugal, European Union, Spain, Sweden, Irish, Greece, Finland, British_
 
 ##### Bolivian Gas War
 ### [ Bolivian Gas War: President Evo Morales has signed a decree nationalising the nation's natural gas industry, instructing foreign energy firms to channel their activities through the Bolivian government within a six-month deadline or face expulsion, and ordering the Bolivian military to occupy and secure key energy installations. ](/news/2006/05/1/bolivian-gas-war-president-evo-morales-has-signed-a-decree-nationalising-the-nation-s-natural-gas-industry-instructing-foreign-energy-fir.md)
-_Context: Bolivian Gas War, Bolivian military, Evo Morales, natural gas, nationalising, President of Bolivia_
+_Context: nationalising, Evo Morales, natural gas, Bolivian Gas War, Bolivian military, President of Bolivia_
 
 ##### Puerto Rico budget crisis
 ### [ Puerto Rico budget crisis: The government of Puerto Rico is partially shut down, including public schools. More than 90,000 employees of the public sector are put in license without salary. Their salary will not be paid until further notice, but they will remain employed whether they present themselves to work or not. If they present themselves to work it will be on a voluntary basis without retroactive payment. ](/news/2006/05/1/puerto-rico-budget-crisis-the-government-of-puerto-rico-is-partially-shut-down-including-public-schools-more-than-90-000-employees-of-th.md)
@@ -35,9 +35,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ Beaconsfield mine collapse: Rescuers at a mine in Beaconsfield, Tasmania have begun work after two miners were detected alive. The two had been trapped alive over 1 kilometre underground for the past five days. ](/news/2006/05/1/beaconsfield-mine-collapse-rescuers-at-a-mine-in-beaconsfield-tasmania-have-begun-work-after-two-miners-were-detected-alive-the-two-had.md)
 _Context: Beaconsfield mine collapse, Beaconsfield, Tasmania_
 
-##### U.S.
+##### United States
 ### [ Immigrant workers and their supporters across the United States stay home from work or school and abstain from commerce during the 2006 Immigration Policy Boycott in the United States, also called the "Great American Boycott" or "Day Without Immigrants", a protest against the enforcement of immigration law. Demonstrations are planned nationwide. In Latin America, a one-day boycott of American products called the "Nothing Gringo Boycott" is planned in conjunction with U.S. events. ](/news/2006/05/1/immigrant-workers-and-their-supporters-across-the-united-states-stay-home-from-work-or-school-and-abstain-from-commerce-during-the-2006-imm.md)
-_Context: 2006 Immigration Policy Boycott in the United States, demonstration, U.S., Latin America_
+_Context: Latin America, demonstration, United States, 2006 Immigration Policy Boycott in the United States_
 
 ##### Batticaloa
 ### [ Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col-karuna-amman.md)
@@ -45,7 +45,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### last year's toxic chemical spill
 ### [ A second wave of pollutants from last year's toxic chemical spill in Jilin City, China, trapped in the frozen Amur and Songhua Rivers during the winter, is now being released by the spring thaw, affecting Khabarovsk and other settlements in the Russian Far East. ](/news/2006/05/1/a-second-wave-of-pollutants-from-last-year-s-toxic-chemical-spill-in-jilin-city-china-trapped-in-the-frozen-amur-and-songhua-rivers-durin.md)
-_Context: Amur, Songhua River, last year's toxic chemical spill, Far East, Khabarovsk, Jilin City, Chinese_
+_Context: Amur, Songhua River, Far East, Jilin City, Khabarovsk, last year's toxic chemical spill, China_
 
 ## [Previous Day...](/news/2006/04/30/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2012/05/18/index.html)  [JSON](2012/05/18/index.json)  [XML](201
 
 ##### Mexico
 ### [Masked gunmen kidnap and kill Marcos Antonio Avila Garcia, a journalist who often wrote about organized crime. His corpse was found inside a plastic bag in the Mexican city of Empalme. ](/news/2012/05/18/masked-gunmen-kidnap-and-kill-marcos-antonio-avila-garcia-a-journalist-who-often-wrote-about-organized-crime-his-corpse-was-found-inside-a.md)
-_Context: Empalme, Mexico_
+_Context: Mexico, Empalme_
 
 ##### Baghdad
 ### [Three roadside bombs explode at an outdoor pet market in Baghdad, Iraq, killing five people. ](/news/2012/05/18/three-roadside-bombs-explode-at-an-outdoor-pet-market-in-baghdad-iraq-killing-five-people.md)
@@ -25,11 +25,11 @@ Stocks closed near session lows Friday, with all three major averages posting th
 
 ##### Group of Eight
 ### [The Group of Eight meets in the United States at Camp David with the Greek debt crisis and associated Eurozone problems on the agenda. ](/news/2012/05/18/the-group-of-eight-meets-in-the-united-states-at-camp-david-with-the-greek-debt-crisis-and-associated-eurozone-problems-on-the-agenda.md)
-_Context: Group of Eight, U.S., Greek debt crisis, Camp David, Eurozone_
+_Context: United States, Camp David, Group of Eight, Greek debt crisis, Eurozone_
 
 ##### Sybrand van Haersma Buma
 ### [Sybrand van Haersma Buma is elected as the new party leader of the Christian Democratic Appeal (CDA) and becomes the "lijsttrekker" (top candidate) for the Dutch general election of 2012. ](/news/2012/05/18/sybrand-van-haersma-buma-is-elected-as-the-new-party-leader-of-the-christian-democratic-appeal-cda-and-becomes-the-lijsttrekker-top-can.md)
-_Context: party leader, Sybrand van Haersma Buma, CDA, lijsttrekker, general election in the Netherlands_
+_Context: general election in the Netherlands, Sybrand van Haersma Buma, CDA, lijsttrekker, party leader_
 
 ## [Previous Day...](/news/2012/05/17/index.md)
 

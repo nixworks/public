@@ -5,7 +5,7 @@ Formats: [HTML](2017/08/31/index.html)  [JSON](2017/08/31/index.json)  [XML](201
 
 ##### Wells Fargo account fraud scandal
 ### [Wells Fargo reports finding an additional 1.4 million potentially fake bank and credit card accounts, bringing the total problematic accounts to approximately 3.5 million. ](/news/2017/08/31/wells-fargo-reports-finding-an-additional-1-4-million-potentially-fake-bank-and-credit-card-accounts-bringing-the-total-problematic-account.md)
-_Context: Wells Fargo account fraud scandal, Wells Fargo_
+_Context: Wells Fargo, Wells Fargo account fraud scandal_
 
 ##### Hurricane Harvey
 ### [A series of small explosions occur at the Arkema chemical plant in Crosby, Texas, and according to the company more are expected, after floodwaters shut down the cooling systems that kept the chemicals stable. Houston Methodist San Jacinto Hospital in Baytown, Texas treated 21 first responders for chemical exposure. Residents living within a 1.5 mi radius of the plant are evacuated. ](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-and-according-to-the-company-more-are-expected-after-floo.md)
@@ -37,7 +37,7 @@ A nurse says she was assaulted and illegally arrested by a Salt Lake City police
 
 ##### Politics of China
 ### [The 19th National Congress of the Communist Party of China is expected to start on October 18, 2017. ](/news/2017/08/31/the-19th-national-congress-of-the-communist-party-of-china-is-expected-to-start-on-october-18-2017.md)
-_Context: Politics of China, 19th National Congress of the Communist Party of China, Communist Party of China_
+_Context: Politics of China, Communist Party of China, 19th National Congress of the Communist Party of China_
 
 ##### Political appointments by Donald Trump
 ### [President Donald Trump is expected to nominate Columbia University law professor Robert Jackson to be a member of the Securities and Exchange Commission. ](/news/2017/08/31/president-donald-trump-is-expected-to-nominate-columbia-university-law-professor-robert-jackson-to-be-a-member-of-the-securities-and-exchang.md)

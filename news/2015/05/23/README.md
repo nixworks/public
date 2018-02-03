@@ -17,7 +17,7 @@ One of the top rebel commanders in eastern Ukraine, Alexei Mozgovoi, is killed i
 
 ##### Oscar Romero
 ### [The Salvadoran Archbishop Oscar Romero, assassinated at the start of the Salvadoran Civil War, is beatified in Pope Francis's name, by Cardinal Angelo Amato, Prefect of the Congregation for the Causes of Saints, in San Salvador. ](/news/2015/05/23/the-salvadoran-archbishop-ascar-romero-assassinated-at-the-start-of-the-salvadoran-civil-war-is-beatified-in-pope-francis-s-name-by-card.md)
-_Context: Salvadoran Civil War, Pope Francis, Oscar Romero, Angelo Amato, San Salvador, Congregation for the Causes of Saints_
+_Context: Oscar Romero, San Salvador, Salvadoran Civil War, Congregation for the Causes of Saints, Pope Francis, Angelo Amato_
 
 ##### Eurovision Song Contest 2015
 ### [The final of the Eurovision Song Contest 2015 is held in Vienna, Austria with MCNYns Zelmerlow of Sweden winning for the song Heroes. ](/news/2015/05/23/the-final-of-the-eurovision-song-contest-2015-is-held-in-vienna-austria-with-macnyns-zelmerlapw-of-sweden-winning-for-the-song-heroes.md)
@@ -25,11 +25,11 @@ _Context: Salvadoran Civil War, Pope Francis, Oscar Romero, Angelo Amato, San Sa
 
 ##### Scotland
 ### [A memorial service is held in the Scottish capital Edinburgh for the Quintinshill rail disaster which occurred 100 years ago and claimed over 200 lives. ](/news/2015/05/23/a-memorial-service-is-held-in-the-scottish-capital-edinburgh-for-the-quintinshill-rail-disaster-which-occurred-100-years-ago-and-claimed-ove.md)
-_Context: Quintinshill rail disaster, Scotland, Edinburgh_
+_Context: Edinburgh, Scotland, Quintinshill rail disaster_
 
-##### Chinese
+##### China
 ### [The death toll from China's latest round of flooding rises to at least 48. ](/news/2015/05/23/the-death-toll-from-china-s-latest-round-of-flooding-rises-to-at-least-48.md)
-_Context: Chinese_
+_Context: China_
 
 ##### 2015 India heat wave
 ### [An Indian heat wave claims over 200 lives with the states of Andhra Pradesh and Telangana worst affected. ](/news/2015/05/23/an-indian-heat-wave-claims-over-200-lives-with-the-states-of-andhra-pradesh-and-telangana-worst-affected.md)
@@ -37,7 +37,7 @@ Down south in A.P., among those who succumbed to the killer heat were 40 persons
 
 ##### flood
 ### [Record breaking rain causes flooding in the American states of Oklahoma and Texas with Oklahoma City recording record rainfall levels for the month of May. ](/news/2015/05/23/record-breaking-rain-causes-flooding-in-the-american-states-of-oklahoma-and-texas-with-oklahoma-city-recording-record-rainfall-levels-for-th.md)
-_Context: flood, Texas, Oklahoma City, Oklahoma_
+_Context: Oklahoma City, flood, Texas, Oklahoma_
 
 ##### Rohingya refugee crisis
 ### [ Julie Bishop, the Foreign Minister of Australia, says that Indonesia has advised that most of the people who have traveled to South East Asia by boat are from Bangladesh, not Rohingya from Myanmar. ](/news/2015/05/23/julie-bishop-the-foreign-minister-of-australia-says-that-indonesia-has-advised-that-most-of-the-people-who-have-traveled-to-south-east-as.md)
@@ -49,7 +49,7 @@ Cleveland police officer Michael Brelo was acquitted Saturday of manslaughter ch
 
 ##### Nigeria
 ### [Nigerian drug agents arrest senator-elect Buruji Kashamu for extradition to the United States for his alleged involvement in a drug deal 20 years ago that is claimed to be the basis for the television show "Orange is the New Black". ](/news/2015/05/23/nigerian-drug-agents-arrest-senator-elect-buruji-kashamu-for-extradition-to-the-united-states-for-his-alleged-involvement-in-a-drug-deal-20.md)
-_Context: U.S., Orange is the New Black, Nigeria_
+_Context: Orange is the New Black, Nigeria, United States_
 
 ##### Myanmar's president's office
 ### [The President of Myanmar, Thein Sein, signs the Population Control Health Care Bill requiring some parents to space each child three years apart. ](/news/2015/05/23/the-president-of-myanmar-thein-sein-signs-the-population-control-health-care-bill-requiring-some-parents-to-space-each-child-three-years-a.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2013/12/20/index.html)  [JSON](2013/12/20/index.json)  [XML](201
 
 ##### airport terminal
 ### [A gunman opens fire outside a terminal at Ninoy Aquino International Airport in Manila, Philippines, killing four people, including the mayor of Labangan, Ukol Talumpa. ](/news/2013/12/20/a-gunman-opens-fire-outside-a-terminal-at-ninoy-aquino-international-airport-in-manila-philippines-killing-four-people-including-the-mayo.md)
-_Context: Philippines, Labangan, Ninoy Aquino International Airport, Manila, airport terminal_
+_Context: Ninoy Aquino International Airport, Philippines, Labangan, Manila, airport terminal_
 
 ##### Egypt
 ### [Two Egyptian soldiers are killed and eight wounded in an operation targeting Sinai militants in the northern Sinai Peninsula. ](/news/2013/12/20/two-egyptian-soldiers-are-killed-and-eight-wounded-in-an-operation-targeting-sinai-militants-in-the-northern-sinai-peninsula.md)
@@ -37,11 +37,11 @@ TEHRAN – Iranian lawmakers Friday threatened retaliation for a Senate bill tha
 
 ##### Supreme Court of Canada
 ### [The Supreme Court of Canada strikes down anti-prostitution laws in the country. ](/news/2013/12/20/the-supreme-court-of-canada-strikes-down-anti-prostitution-laws-in-the-country.md)
-_Context: anti-prostitution laws, Supreme Court of Canada_
+_Context: Supreme Court of Canada, anti-prostitution laws_
 
 ##### Same-sex marriage
 ### [Same-sex marriage becomes legal in the U.S. state of Utah, and gay couples begin receiving marriage licenses, after a federal judge strikes down a provision of the Utah Constitution. ](/news/2013/12/20/same-sex-marriage-becomes-legal-in-the-u-s-state-of-utah-and-gay-couples-begin-receiving-marriage-licenses-after-a-federal-judge-strikes.md)
-_Context: Utah Constitution, Same-sex marriage, U.S., Utah_
+_Context: Utah Constitution, Utah, Same-sex marriage, United States_
 
 ##### Uganda
 ### [Uganda passes law banning homosexuality. ](/news/2013/12/20/uganda-passes-law-banning-homosexuality.md)
@@ -51,7 +51,7 @@ _Context: law, Uganda_
 ### [United States Senate Majority Leader Harry Reid (D-NV) is hospitalized after falling ill. ](/news/2013/12/20/united-states-senate-majority-leader-harry-reid-d-nv-is-hospitalized-after-falling-ill.md)
 Senator Harry Reid, the majority leader, fell ill Friday morning and went to the hospital as a precaution, a spokesman said.
 
-##### Chinese
+##### China
 ### [China successfully launches the Bolivian Tupac Katari from the Xichang Satellite Launch Center. ](/news/2013/12/20/china-successfully-launches-the-bolivian-taopac-katari-from-the-xichang-satellite-launch-center.md)
 BNamericas is the business intelligence tool for Latin America with data, news, analysis and events to identify job opportunities, projects, companies and contacts
 

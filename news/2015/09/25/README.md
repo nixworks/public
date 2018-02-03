@@ -5,13 +5,13 @@ Formats: [HTML](2015/09/25/index.html)  [JSON](2015/09/25/index.json)  [XML](201
 
 ##### 2015 Burkinab coup d'tat
 ### [Burkina Faso's cabinet dissolves the elite presidential guard behind last week's coup d'tat, creates a commission to investigate these events, and dismisses the minister in charge of security. ](/news/2015/09/25/burkina-faso-s-cabinet-dissolves-the-elite-presidential-guard-behind-last-week-s-coup-d-etat-creates-a-commission-to-investigate-these-even.md)
-_Context: coup d'tat, elite presidential guard, 2015 Burkinab coup d'tat, Burkina Faso_
+_Context: coup d'tat, elite presidential guard, Burkina Faso, 2015 Burkinab coup d'tat_
 
 ##### Syrian Civil War
 ### [New Syrian Forces trade American supplied equipment to the Al Qaeda-linked Nusra Front in return for safe passage. ](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.md)
-_Context: Al Qaeda, Syrian Civil War, New Syrian Forces, Nusra Front_
+_Context: Nusra Front, Syrian Civil War, Al Qaeda, New Syrian Forces_
 
-##### Chinese
+##### China
 ### [The People's Republic of China will launch a cap and trade policy creating a carbon market in 2017. ](/news/2015/09/25/the-people-s-republic-of-china-will-launch-a-cap-and-trade-policy-creating-a-carbon-market-in-2017.md)
 White House officials announce deal, which will make China the world’s biggest carbon market, on eve of summit between Barack Obama and Xi Jinping
 
@@ -25,11 +25,11 @@ Saudi Arabia&#039;s King orders an investigation into a stampede at the annual H
 
 ##### recent incident of hazes in 2015
 ### [Singapore closes its primary and secondary schools as smoke from the Indonesian fires raises air pollution to hazardous levels. ](/news/2015/09/25/singapore-closes-its-primary-and-secondary-schools-as-smoke-from-the-indonesian-fires-raises-air-pollution-to-hazardous-levels.md)
-_Context: Singapore, Indonesia, recent incident of hazes in 2015, air pollution_
+_Context: Indonesia, recent incident of hazes in 2015, air pollution, Singapore_
 
 ##### Indonesia
 ### [Thirty-nine people are injured after an earthquake in the waters off the coast of the Indonesian province of West Papua. ](/news/2015/09/25/thirty-nine-people-are-injured-after-an-earthquake-in-the-waters-off-the-coast-of-the-indonesian-province-of-west-papua.md)
-_Context: Indonesia, West Papua_
+_Context: West Papua, Indonesia_
 
 ##### Johns Island, South Carolina
 ### [A tornado, with maximum sustained winds of 130 mph, strikes Johns Island, South Carolina with no deaths or injuries, but 75 homes are damaged, 10 heavily. ](/news/2015/09/25/a-tornado-with-maximum-sustained-winds-of-130-mph-strikes-johns-island-south-carolina-with-no-deaths-or-injuries-but-75-homes-are-damage.md)
@@ -41,15 +41,15 @@ The World Health Organization removes Nigeria from the list of polio endemic cou
 
 ##### 2015 FIFA corruption case
 ### [The Office of the Attorney General of Switzerland opens criminal proceedings against the President of FIFA Sepp Blatter. ](/news/2015/09/25/the-office-of-the-attorney-general-of-switzerland-opens-criminal-proceedings-against-the-president-of-fifa-sepp-blatter.md)
-_Context: Switzerland, Sepp Blatter, President of FIFA, 2015 FIFA corruption case_
+_Context: 2015 FIFA corruption case, Sepp Blatter, President of FIFA, Switzerland_
 
 ##### European migrant crisis
 ### [Croatia reopens its border with Serbia. ](/news/2015/09/25/croatia-reopens-its-border-with-serbia.md)
-_Context: Serbia, European migrant crisis, Croatia_
+_Context: European migrant crisis, Serbia, Croatia_
 
 ##### Hakubun Shimomura
 ### [Hakubun Shimomura resigns as Japan's Minister of Education, Culture, Sports, Science and Technology due to the design for the stadium for the 2020 Summer Olympics being abandoned. ](/news/2015/09/25/hakubun-shimomura-resigns-as-japan-s-minister-of-education-culture-sports-science-and-technology-due-to-the-design-for-the-stadium-for-th.md)
-_Context: Hakubun Shimomura, Japan, Minister of Education, Culture, Sports, Science and Technology, 2020 Summer Olympics, stadium_
+_Context: 2020 Summer Olympics, stadium, Japan, Hakubun Shimomura, Minister of Education, Culture, Sports, Science and Technology_
 
 ##### John Boehner
 ### [John Boehner schedules his resignation from the position of Speaker of the United States House of Representatives and from Congress for the end of October. ](/news/2015/09/25/john-boehner-schedules-his-resignation-from-the-position-of-speaker-of-the-united-states-house-of-representatives-and-from-congress-for-the.md)

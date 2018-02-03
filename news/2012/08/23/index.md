@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/23/index.html)  [JSON](2012/08/23/index.json)  [XML](201
 
 ##### Tropical Storm Isaac
 ### [Tropical Storm Isaac (2012): The U.S. National Hurricane Center lowers its previous hurricane warning threat level for Hispaniola island in the Caribbean Sea to a storm warning and hurricane watch in its 23.00 PM bulletin. ](/news/2012/08/23/tropical-storm-isaac-2012-the-u-s-national-hurricane-center-lowers-its-previous-hurricane-warning-threat-level-for-hispaniola-island-in.md)
-_Context: Caribbean, Tropical Storm Isaac, Hispaniola, National Hurricane Center_
+_Context: Caribbean, Tropical Storm Isaac, National Hurricane Center, Hispaniola_
 
 ##### Typhoon Tembin
 ### [Typhoon Tembin (2012): Taiwanese authorities evacuate almost 5,000 people ahead of the typhoon. ](/news/2012/08/23/typhoon-tembin-2012-taiwanese-authorities-evacuate-almost-5-000-people-ahead-of-the-typhoon.md)
@@ -21,19 +21,19 @@ A hot air balloon crashes and catches fire in Slovenia, killing four people and 
 
 ##### new
 ### [A new, seemingly chronic but non-contagious, immunodeficiency disease is diagnosed since 2004, affecting mainly people of Asian genotype aged around 50. Most patients create interferon-gamma-blocking autoantibodies more frequently. Genetic factors are suspected but it would not "run in families". Also, something in the environment may trigger the disease. ](/news/2012/08/23/a-new-seemingly-chronic-but-non-contagious-immunodeficiency-disease-is-diagnosed-since-2004-affecting-mainly-people-of-asian-genotype-age.md)
-_Context: Genetic, environment, Asia, new, autoantibodies, disease, contagious, genotype, immunodeficiency, chronic, interferon-gamma_
+_Context: new, Asia, chronic, genotype, contagious, Genetic, autoantibodies, disease, environment, interferon-gamma, immunodeficiency_
 
 ##### Waddenvereniging
 ### [The "Waddenvereniging" in the Netherlands expects the human-friendly starry smooth-hound shark to return to the Wadden Sea in a few years, after specimina were marked in the Oosterschelde and in another Zeeland part of the Rhine-Meuse-Scheldt delta. ](/news/2012/08/23/the-waddenvereniging-in-the-netherlands-expects-the-human-friendly-starry-smooth-hound-shark-to-return-to-the-wadden-sea-in-a-few-years-a.md)
-_Context: Oosterschelde, starry smooth-hound, Zeeland, Netherlands, Rhine-Meuse-Scheldt delta, Wadden Sea, specimina, Waddenvereniging, shark_
+_Context: Oosterschelde, Rhine-Meuse-Scheldt delta, Zeeland, starry smooth-hound, Waddenvereniging, Netherlands, specimina, Wadden Sea, shark_
 
 ##### Shimon Peres
 ### [Israel's President Shimon Peres stresses that circumcision is "at the core of Jewish identity", in a letter on a controversy in Germany over circumcision. ](/news/2012/08/23/israel-s-president-shimon-peres-stresses-that-circumcision-is-at-the-core-of-jewish-identity-in-a-letter-on-a-controversy-in-germany-over.md)
-_Context: circumcision, circumcision, Jewish identity, Shimon Peres, controversy_
+_Context: circumcision, controversy, circumcision, Shimon Peres, Jewish identity_
 
 ##### Baltasar Garzon
 ### [Baltasar Garzon promises he has a surprise in the case against his client Julian Assange. The Swedish prosecutor refuses to travel to London. ](/news/2012/08/23/baltasar-garza3n-promises-he-has-a-surprise-in-the-case-against-his-client-julian-assange-the-swedish-prosecutor-refuses-to-travel-to-londo.md)
-_Context: Baltasar Garzon, Julian Assange, Swedish, London_
+_Context: London, Julian Assange, Baltasar Garzon, Swedish_
 
 ##### Russia
 ### [Russia says that it is working closely with the Syrian government to establish guarantees that Assad won't move or use Syria's chemical weapons. ](/news/2012/08/23/russia-says-that-it-is-working-closely-with-the-syrian-government-to-establish-guarantees-that-assad-won-t-move-or-use-syria-s-chemical-weap.md)
@@ -49,7 +49,7 @@ Former fugitive tycoon Asil Nadir is jailed for 10 years for stealing nearly £2
 
 ##### Mark David Chapman
 ### [The 7th parole request of Mark David Chapman, murderer of former Beatle John Lennon, is denied. ](/news/2012/08/23/the-7th-parole-request-of-mark-david-chapman-murderer-of-former-beatle-john-lennon-is-denied.md)
-_Context: John Lennon, Beatle, Mark David Chapman_
+_Context: Mark David Chapman, John Lennon, Beatle_
 
 ## [Previous Day...](/news/2012/08/22/index.md)
 

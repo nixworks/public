@@ -5,7 +5,7 @@ Formats: [HTML](2006/06/4/index.html)  [JSON](2006/06/4/index.json)  [XML](2006/
 
 ##### Islamic Courts militia
 ### [ The Islamic Courts militia captures the key town of Balad, located near the Somalian capital Mogadishu, from a member of the warlord coalition, ARPCT. Reports say at least 15 people are killed in the fighting. ](/news/2006/06/4/the-islamic-courts-militia-captures-the-key-town-of-balad-located-near-the-somalian-capital-mogadishu-from-a-member-of-the-warlord-coalit.md)
-_Context: Mogadishu, Alliance for the Restoration of Peace and Counter-Terrorism, Islamic Courts militia, Somalia, Balad_
+_Context: Somalia, Mogadishu, Islamic Courts militia, Alliance for the Restoration of Peace and Counter-Terrorism, Balad_
 
 ## [Previous Day...](/news/2006/06/3/index.md)
 

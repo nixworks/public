@@ -17,15 +17,15 @@ Google Inc began selling basic laptop computers to schools at a price of $99, me
 
 ##### Philippines
 ### [The death toll in the Philippines from Typhoon Bopha rises to 647 with 780 people still missing. ](/news/2012/12/10/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-to-647-with-780-people-still-missing.md)
-_Context: Typhoon Bopha, Philippines_
+_Context: Philippines, Typhoon Bopha_
 
 ##### New Zealand
 ### [A New Zealand Royal Commission finds that the CTV Building that collapsed during the 2011 Christchurch earthquake killing 115 people was poorly designed and built and should not have received a building permit. ](/news/2012/12/10/a-new-zealand-royal-commission-finds-that-the-ctv-building-that-collapsed-during-the-2011-christchurch-earthquake-killing-115-people-was-poo.md)
-_Context: Royal Commission, CTV Building, New Zealand, 2011 Christchurch earthquake_
+_Context: New Zealand, CTV Building, Royal Commission, 2011 Christchurch earthquake_
 
 ##### Minquan County
 ### [Eleven people are killed and 23 injured in Minquan County, Henan province, China, after a passenger bus swerves off the road and falls in a roadside pond. ](/news/2012/12/10/eleven-people-are-killed-and-23-injured-in-minquan-county-henan-province-china-after-a-passenger-bus-swerves-off-the-road-and-falls-in-a.md)
-_Context: Chinese, bus, pond, Henan province, Minquan County_
+_Context: bus, pond, Henan province, China, Minquan County_
 
 ##### Tolima department
 ### [At least nine people are killed and at 32 others are wounded in Tolima department, Colombia, after a bus falls of a 300-meter cliff. ](/news/2012/12/10/at-least-nine-people-are-killed-and-at-32-others-are-wounded-in-tolima-department-colombia-after-a-bus-falls-of-a-300-meter-cliff.md)
@@ -33,23 +33,23 @@ _Context: Colombia, Tolima department_
 
 ##### Japan
 ### [Japan goes on full alert as North Korea announces it has delayed its launch of a long range Unha rocket until 29 December. ](/news/2012/12/10/japan-goes-on-full-alert-as-north-korea-announces-it-has-delayed-its-launch-of-a-long-range-unha-rocket-until-29-december.md)
-_Context: launches, Japan-North Korea relations, Unha, Japan, North Korea_
+_Context: Japan-North Korea relations, launches, Unha, Japan, North Korea_
 
 ##### European Union
 ### [Leaders of the European Union accept the 2012 Nobel Peace Prize in Oslo, Norway. ](/news/2012/12/10/leaders-of-the-european-union-accept-the-2012-nobel-peace-prize-in-oslo-norway.md)
-_Context: 2012, Oslo, Norway, Nobel Peace Prize, European Union_
+_Context: Oslo, Norway, European Union, Nobel Peace Prize, 2012_
 
 ##### John Hickenlooper
 ### [John Hickenlooper, the Governor of the US state of Colorado, issues a proclamation allowing the personal use of marijuana following the passage of an amendment to the state constitution last month. ](/news/2012/12/10/john-hickenlooper-the-governor-of-the-us-state-of-colorado-issues-a-proclamation-allowing-the-personal-use-of-marijuana-following-the-pass.md)
-_Context: US, Colorado, John Hickenlooper, marijuana, Governor, state constitution_
+_Context: state constitution, marijuana, Colorado, US, John Hickenlooper, Governor_
 
 ##### Baghdadi Mahmudi
 ### [Baghdadi Mahmudi, a former Prime Minister of Libya, under Muammar Gaddafi, goes on trial in Tripoli charged with "acts that led to the unjust killing of Libyans". ](/news/2012/12/10/baghdadi-mahmudi-a-former-prime-minister-of-libya-under-muammar-gaddafi-goes-on-trial-in-tripoli-charged-with-acts-that-led-to-the-unjus.md)
-_Context: Libyans, Muammar Gaddafi, Baghdadi Mahmudi, Tripoli, Libyan Prime Minister_
+_Context: Muammar Gaddafi, Baghdadi Mahmudi, Tripoli, Libyan Prime Minister, Libyans_
 
 ##### 2Day FM
 ### [The two 2Day FM presenters who made a prank call to London's King Edward VII's Hospital give their first interviews to Australian television following the death of Jacintha Saldanha, the nurse who answered the call. ](/news/2012/12/10/the-two-2day-fm-presenters-who-made-a-prank-call-to-london-s-king-edward-vii-s-hospital-give-their-first-interviews-to-australian-television.md)
-_Context: Jacintha Saldanha, King Edward VII's Hospital, prank call, Australian television, 2Day FM_
+_Context: 2Day FM, Jacintha Saldanha, Australian television, King Edward VII's Hospital, prank call_
 
 ##### President
 ### [Former President of Bangladesh Iajuddin Ahmed dies at the age of 81. ](/news/2012/12/10/former-president-of-bangladesh-iajuddin-ahmed-dies-at-the-age-of-81.md)
@@ -61,7 +61,7 @@ Venezuelan President Hugo Chavez flew to Cuba on Monday for cancer surgery, with
 
 ##### landslide
 ### [In a landslide victory, Prime Minister Victor Ponta's ruling Social Liberal Union wins nearly 60% of votes in Romania's parliamentary election, with a projected 66-67% of MP mandates. ](/news/2012/12/10/in-a-landslide-victory-prime-minister-victor-ponta-s-ruling-social-liberal-union-wins-nearly-60-of-votes-in-romania-s-parliamentary-electi.md)
-_Context: MP, Victor Ponta, Romania, Prime Minister, landslide, parliamentary election, Social Liberal Union_
+_Context: Romania, Prime Minister, Social Liberal Union, Victor Ponta, landslide, MP, parliamentary election_
 
 ##### government
 ### [The government of Malta loses a budget vote, causing early elections to be called. ](/news/2012/12/10/the-government-of-malta-loses-a-budget-vote-causing-early-elections-to-be-called.md)
@@ -69,7 +69,7 @@ The Budget was defeated this evening, with Franco Debono, as promised, joining t
 
 ##### Thales Alenia Space
 ### [Specialists from Thales Alenia Space carry out some maneuvers to bring the Russian Yamal-402 satellite into its designated orbit after a premature separation from Briz-M, the upper stage of a Proton-M carrier rocket, during the launch on 8 December. ](/news/2012/12/10/specialists-from-thales-alenia-space-carry-out-some-maneuvers-to-bring-the-russian-yamal-402-satellite-into-its-designated-orbit-after-a-pre.md)
-_Context: orbit, Thales Alenia Space, Briz-M, carrier rocket, Russia, successfully, Yamal-402, Proton-M, satellite_
+_Context: orbit, successfully, carrier rocket, Proton-M, Thales Alenia Space, satellite, Russia, Briz-M, Yamal-402_
 
 ## [Previous Day...](/news/2012/12/9/index.md)
 

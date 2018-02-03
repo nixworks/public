@@ -5,11 +5,11 @@ Formats: [HTML](2012/09/3/index.html)  [JSON](2012/09/3/index.json)  [XML](2012/
 
 ##### International Committee of the Red Cross
 ### [The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/the-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-government-of-the-humanita.md)
-_Context: International Committee of the Red Cross, Syria, humanitarian situation, Government of Syria, Damascus_
+_Context: Damascus, International Committee of the Red Cross, humanitarian situation, Syria, Government of Syria_
 
 ##### New Zealand
 ### [New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
-_Context: New Zealand, New Zealand Defence Force, Afghanistan, Bamiyan_
+_Context: Afghanistan, Bamiyan, New Zealand, New Zealand Defence Force_
 
 ##### car bomb
 ### [A car bomb explodes near the U.S. consulate in the Pakistani city of Peshawar, killing at least three people and wounding up to 19 others. ](/news/2012/09/3/a-car-bomb-explodes-near-the-u-s-consulate-in-the-pakistani-city-of-peshawar-killing-at-least-three-people-and-wounding-up-to-19-others.md)
@@ -41,7 +41,7 @@ Before heading to lunch or going out for drinks, find an ashtray and stub out th
 
 ##### South Korea
 ### [South Korea and Japan temporarily halt some military cooperation programs in a long-running dispute over control of the Liancourt Rocks. South Korea's first fleet plans a "biannual" drill around the area from September 7 to 11. ](/news/2012/09/3/south-korea-and-japan-temporarily-halt-some-military-cooperation-programs-in-a-long-running-dispute-over-control-of-the-liancourt-rocks-sou.md)
-_Context: South Korea, dispute, Liancourt Rocks, first fleet, Japan_
+_Context: Japan, Liancourt Rocks, South Korea, first fleet, dispute_
 
 ##### DR Congo
 ### [The Democratic Republic of the Congo wants United Nations sanctions on Rwandese top military officials named in a June U.N. report as supporting the M23 rebels in the current east Congo conflict. ](/news/2012/09/3/the-democratic-republic-of-the-congo-wants-united-nations-sanctions-on-rwandese-top-military-officials-named-in-a-june-u-n-report-as-suppor.md)

@@ -21,8 +21,8 @@ More than 50 cars crash on a motorway in northern China, killing 17 people.
 
 ### Related:
 
-1. [ A gas explosion at a coal mine in Shanxi, China, kills at least 14 people. ](/news/2009/08/25/a-gas-explosion-at-a-coal-mine-in-shanxi-china-kills-at-least-14-people.md) _Context: Chinese, Shanxi province_
-2. [ A gas explosion at an illegal mine in Shanxi, China kills at least 20. ](/news/2008/01/21/a-gas-explosion-at-an-illegal-mine-in-shanxi-china-kills-at-least-20.md) _Context: Chinese, Shanxi province_
-3. [ Chinese police rescue 31 workers kept as slaves at a brickworks in Linfen, in Shanxi province, run by the son of a local official of the Communist Party of China. ](/news/2007/06/8/chinese-police-rescue-31-workers-kept-as-slaves-at-a-brickworks-in-linfen-in-shanxi-province-run-by-the-son-of-a-local-official-of-the-co.md) _Context: Chinese, Shanxi province_
-4. [ A gas explosion in a coal mine in Shanxi province in northern China traps 21 miners. ](/news/2007/03/18/a-gas-explosion-in-a-coal-mine-in-shanxi-province-in-northern-china-traps-21-miners.md) _Context: Chinese, Shanxi province_
-5. [ A colliery explosion in Shanxi province in northern China kills at least 24 miners. ](/news/2006/11/13/a-colliery-explosion-in-shanxi-province-in-northern-china-kills-at-least-24-miners.md) _Context: Chinese, Shanxi province_
+1. [ A gas explosion at a coal mine in Shanxi, China, kills at least 14 people. ](/news/2009/08/25/a-gas-explosion-at-a-coal-mine-in-shanxi-china-kills-at-least-14-people.md) _Context: China, Shanxi province_
+2. [ A gas explosion at an illegal mine in Shanxi, China kills at least 20. ](/news/2008/01/21/a-gas-explosion-at-an-illegal-mine-in-shanxi-china-kills-at-least-20.md) _Context: China, Shanxi province_
+3. [ Chinese police rescue 31 workers kept as slaves at a brickworks in Linfen, in Shanxi province, run by the son of a local official of the Communist Party of China. ](/news/2007/06/8/chinese-police-rescue-31-workers-kept-as-slaves-at-a-brickworks-in-linfen-in-shanxi-province-run-by-the-son-of-a-local-official-of-the-co.md) _Context: China, Shanxi province_
+4. [ A gas explosion in a coal mine in Shanxi province in northern China traps 21 miners. ](/news/2007/03/18/a-gas-explosion-in-a-coal-mine-in-shanxi-province-in-northern-china-traps-21-miners.md) _Context: China, Shanxi province_
+5. [ A colliery explosion in Shanxi province in northern China kills at least 24 miners. ](/news/2006/11/13/a-colliery-explosion-in-shanxi-province-in-northern-china-kills-at-least-24-miners.md) _Context: China, Shanxi province_

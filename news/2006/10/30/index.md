@@ -5,15 +5,15 @@ Formats: [HTML](2006/10/30/index.html)  [JSON](2006/10/30/index.json)  [XML](200
 
 ##### Bulgaria
 ### [ President of Bulgaria Georgi Parvanov is reelected after a run-off election with Volen Siderov in the presidential elections. ](/news/2006/10/30/president-of-bulgaria-georgi-parvanov-is-reelected-after-a-run-off-election-with-volen-siderov-in-the-presidential-elections.md)
-_Context: Volen Siderov, presidential elections, Bulgaria, Georgi Parvanov_
+_Context: Bulgaria, Volen Siderov, presidential elections, Georgi Parvanov_
 
 ##### Chenagai airstrike
 ### [ Chenagai airstrike: Pakistani helicopter gunships fired missiles and destroyed an al-Qaeda-linked training facility and killed 80 suspected terrorists in a northwestern tribal area near the Afghan border, in a madrassa near the town of Khar. ](/news/2006/10/30/chenagai-airstrike-pakistani-helicopter-gunships-fired-missiles-and-destroyed-an-al-qaeda-linked-training-facility-and-killed-80-suspected.md)
-_Context: Khar, al-Qaeda, Pakistan, madrassa, helicopter, terrorism, Afghanistan, Chenagai airstrike_
+_Context: Chenagai airstrike, terrorism, Pakistan, al-Qaeda, helicopter, madrassa, Afghanistan, Khar_
 
 ##### Israeli cabinet
 ### [ The Israeli cabinet has approved the addition of the Yisrael Beitenu party into the governing coalition. ](/news/2006/10/30/the-israeli-cabinet-has-approved-the-addition-of-the-yisrael-beitenu-party-into-the-governing-coalition.md)
-_Context: Israeli cabinet, Yisrael Beitenu_
+_Context: Yisrael Beitenu, Israeli cabinet_
 
 ##### Nicholas Stern
 ### [ Sir Nicholas Stern, the former chief economist of the World Bank, submits a report to the British Government warning of the economic costs and damage to the world that could result from global warming. ](/news/2006/10/30/sir-nicholas-stern-the-former-chief-economist-of-the-world-bank-submits-a-report-to-the-british-government-warning-of-the-economic-costs.md)

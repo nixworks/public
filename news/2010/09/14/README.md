@@ -13,15 +13,15 @@ _Context: Indian-administered Kashmir_
 
 ##### Palestinian
 ### [One Palestinian gunman is killed and four more are wounded in a Gaza firefight after launching RPGs and missiles at Israeli soldiers. ](/news/2010/09/14/one-palestinian-gunman-is-killed-and-four-more-are-wounded-in-a-gaza-firefight-after-launching-rpgs-and-missiles-at-israeli-soldiers.md)
-_Context: Israel Defense Forces, rocket-propelled grenades, Palestinian, missiles, Gaza Strip_
+_Context: Israel Defense Forces, Palestinian, missiles, rocket-propelled grenades, Gaza Strip_
 
 ##### French police
 ### [French police evacuate the Eiffel Tower and the surrounding Champ de Mars park in Paris following a bomb threat. ](/news/2010/09/14/french-police-evacuate-the-eiffel-tower-and-the-surrounding-champ-de-mars-park-in-paris-following-a-bomb-threat.md)
-_Context: Champ de Mars, Eiffel Tower, French police_
+_Context: Champ de Mars, French police, Eiffel Tower_
 
 ##### Kia
 ### [Kia Motors suspends exports to Iran partly in response to South Korea's sanctions against Iran's nuclear program. ](/news/2010/09/14/kia-motors-suspends-exports-to-iran-partly-in-response-to-south-korea-s-sanctions-against-iran-s-nuclear-program.md)
-_Context: nuclear program, Kia, sanctions, Iran_
+_Context: Iran, sanctions, Kia, nuclear program_
 
 ##### Virgin Blue
 ### [Virgin Blue fights for approval of its transtasman alliance with Air New Zealand. ](/news/2010/09/14/virgin-blue-fights-for-approval-of-its-transtasman-alliance-with-air-new-zealand.md)
@@ -57,7 +57,7 @@ Sarah Shourd, held for over a year with two others on suspicion of spying, arriv
 
 ##### Viviane Reding
 ### [Viviane Reding, a Luxembourg politician and currently the European Commissioner for Justice, Fundamental Rights and Citizenship, describes France's deportation of Romani migrants as a "disgrace". ](/news/2010/09/14/viviane-reding-a-luxembourg-politician-and-currently-the-european-commissioner-for-justice-fundamental-rights-and-citizenship-describes-f.md)
-_Context: Commissioner for Justice, Fundamental Rights and Citizenship, Roma, Viviane Reding, deportation, Luxembourg_
+_Context: deportation, Luxembourg, Roma, Viviane Reding, Commissioner for Justice, Fundamental Rights and Citizenship_
 
 ##### resume negotiations
 ### [A second round of Middle East peace talks between Israel and the Palestinian Authority concludes in Sharm el-Sheikh, Egypt. ](/news/2010/09/14/a-second-round-of-middle-east-peace-talks-between-israel-and-the-palestinian-authority-concludes-in-sharm-el-sheikh-egypt.md)
@@ -93,11 +93,11 @@ U.S. Defense Secretary Robert Gates Tuesday gave a taste of his $100 billion, fi
 
 ##### Cecilia Romero
 ### [Cecilia Romero resigns as the head of the Mexican National Institute of Migration in the wake of massacre of 72 migrants at the hands of a drug cartel. ](/news/2010/09/14/cecilia-romero-resigns-as-the-head-of-the-mexican-national-institute-of-migration-in-the-wake-of-massacre-of-72-migrants-at-the-hands-of-a-d.md)
-_Context: Cecilia Romero, drug cartel, National Institute of Migration_
+_Context: National Institute of Migration, Cecilia Romero, drug cartel_
 
 ##### Christine O'Donnell
 ### [Christine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/christine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md)
-_Context: Republican, Delaware, US Senate race, Christine O'Donnell_
+_Context: Republican, Delaware, Christine O'Donnell, US Senate race_
 
 ## [Previous Day...](/news/2010/09/13/index.md)
 

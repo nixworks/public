@@ -5,15 +5,15 @@ Formats: [HTML](2011/01/2/index.html)  [JSON](2011/01/2/index.json)  [XML](2011/
 
 ##### Darfur
 ### [International mediators propose the establishment of a regional authority for Darfur, as a compromise between the Sudanese government and rebels' demands, in a diplomatic effort to respond to Sudanese President Bashir's order last week to withdraw the Sudanese government delegation from talks in Doha. ](/news/2011/01/2/international-mediators-propose-the-establishment-of-a-regional-authority-for-darfur-as-a-compromise-between-the-sudanese-government-and-re.md)
-_Context: Omar al-Bashir, Darfur, Sudanese government, Doha_
+_Context: Omar al-Bashir, Sudanese government, Doha, Darfur_
 
 ##### Egypt
 ### [Egyptian police shoot and kill an African illegal immigrant outside the Israeli border. ](/news/2011/01/2/egyptian-police-shoot-and-kill-an-african-illegal-immigrant-outside-the-israeli-border.md)
 Officers on patrol opened fire on the infiltrator after he refused orders to stop, hitting him twice in the stomach.
 
-##### U.S.
+##### United States
 ### [The U.S. Internal Revenue Service announces that, due to the late passage of the extension of the Bush tax cuts and other itemizations, up to 50 million Americans will not be able to file their 2010 tax returns until mid-February. ](/news/2011/01/2/the-u-s-internal-revenue-service-announces-that-due-to-the-late-passage-of-the-extension-of-the-bush-tax-cuts-and-other-itemizations-up-t.md)
-_Context: Internal Revenue Service, tax returns, extension of the Bush tax cuts and other itemizations, U.S._
+_Context: Internal Revenue Service, extension of the Bush tax cuts and other itemizations, tax returns, United States_
 
 ##### Afghanistan
 ### [Officials in Afghanistan said that the price of opium has doubled due to a blight. There are fears the higher prices will draw more farmers into that business. ](/news/2011/01/2/officials-in-afghanistan-said-that-the-price-of-opium-has-doubled-due-to-a-blight-there-are-fears-the-higher-prices-will-draw-more-farmers.md)
@@ -29,7 +29,7 @@ Queensland still on edge as rivers surge to new heights and flow into low-lying 
 
 ##### San Antonio River
 ### [Flooding occurs along the San Antonio River in Monterey County, California as flooding from previous weeks subsides. ](/news/2011/01/2/flooding-occurs-along-the-san-antonio-river-in-monterey-county-california-as-flooding-from-previous-weeks-subsides.md)
-_Context: Monterey County, San Antonio River, California_
+_Context: California, Monterey County, San Antonio River_
 
 ##### New Year
 ### [Ten people are crushed to death in a bar packed with New Year's revelers in Ipelegeng, South Africa. ](/news/2011/01/2/ten-people-are-crushed-to-death-in-a-bar-packed-with-new-year-s-revelers-in-ipelegeng-south-africa.md)
@@ -37,7 +37,7 @@ _Context: New Year, South Africa_
 
 ##### Politics of Germany
 ### [One hundred German political and business leaders publish an appeal to Iran to free two German reporters imprisoned in Iran since October after being arrested while interviewing the son of Sakineh Mohammadi Ashtiani who has been sentenced to death for murder, manslaughter, and adultery. ](/news/2011/01/2/one-hundred-german-political-and-business-leaders-publish-an-appeal-to-iran-to-free-two-german-reporters-imprisoned-in-iran-since-october-af.md)
-_Context: Capital punishment in Iran, Politics of Germany, Iran, Sakineh Mohammadi Ashtiani_
+_Context: Politics of Germany, Sakineh Mohammadi Ashtiani, Iran, Capital punishment in Iran_
 
 ##### 250,000 documents
 ### [A 2009 Wikileaks document from the US embassy in Tel Aviv says that Israel is preparing for large scale war against Hamas or Hezbollah, and quotes the Israeli chief of staff as saying that the Israel Defense Forces must be prepared to stop the firing of rockets on Tel Aviv. ](/news/2011/01/2/a-2009-wikileaks-document-from-the-us-embassy-in-tel-aviv-says-that-israel-is-preparing-for-large-scale-war-against-hamas-or-hezbollah-and.md)
@@ -45,7 +45,7 @@ Leaked US diplomatic cables quote IDF chief as saying army must stop Hamas from 
 
 ##### Canada Border Services Agency
 ### [The Canada Border Services Agency confirms the deportation of a Toronto student to Mexico, who immigrated with his sister, who cited homophobia as the reason for claiming refugee status. Reports state he boarded the plane unwillingly. ](/news/2011/01/2/the-canada-border-services-agency-confirms-the-deportation-of-a-toronto-student-to-mexico-who-immigrated-with-his-sister-who-cited-homopho.md)
-_Context: Canada Border Services Agency, homophobia, deportees, Mexico, Toronto student_
+_Context: deportees, Toronto student, Mexico, Canada Border Services Agency, homophobia_
 
 ##### Israel
 ### [Israel extends a six-month ban on the immigration of Palestinian Arabs married to Israelis. ](/news/2011/01/2/israel-extends-a-six-month-ban-on-the-immigration-of-palestinian-arabs-married-to-israelis.md)
@@ -57,7 +57,7 @@ IT was a bad New Year Day for some over 1,000 Nigerian pilgrims performing the 2
 
 ##### banning
 ### [Strict new anti-smoking legislation comes into effect in Spain. ](/news/2011/01/2/strict-new-anti-smoking-legislation-comes-into-effect-in-spain.md)
-_Context: banning, Spain_
+_Context: Spain, banning_
 
 ##### U.S. President
 ### [US President Barack Obama signs the 9-11 health bill into law to cover the cost of medical care for rescue workers and others sickened by toxic fumes and dust after the 2001 attack on the World Trade Center. ](/news/2011/01/2/us-president-barack-obama-signs-the-9-11-health-bill-into-law-to-cover-the-cost-of-medical-care-for-rescue-workers-and-others-sickened-by-to.md)
@@ -81,7 +81,7 @@ Charles Ble Goude, the notorious &#039;Street General&#039; of Ivory Coast&#039;
 
 ##### Coptic Church
 ### [Hundreds of Coptic Christians protest in Alexandria and Cairo and shout slogans against Hosni Mubarak's rule following the church bombing, where some people held mass. Egyptian media warns of civil war and increasing sectarian violence between Christians and Muslims, and Pope Benedict XVI publicly condemns the bombing. ](/news/2011/01/2/hundreds-of-coptic-christians-protest-in-alexandria-and-cairo-and-shout-slogans-against-hosni-mubarak-s-rule-following-the-church-bombing-w.md)
-_Context: Hosni Mubarak, sectarian violence, mass, Cairo, New Year's Day church bombing, Pope Benedict XVI, Alexandria, civil war, Coptic Church, Christians_
+_Context: Pope Benedict XVI, Cairo, mass, sectarian violence, Hosni Mubarak, civil war, Alexandria, Christians, New Year's Day church bombing, Coptic Church_
 
 ## [Previous Day...](/news/2011/01/1/index.md)
 

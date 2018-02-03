@@ -9,7 +9,7 @@ KUNDUZ, Afghanistan -- Six village police officers were poisoned and then shot t
 
 ##### central bank
 ### [The central bank of Mexico announces that it is holding its benchmark interest rate at 4%, where it has been since a half-point cut announced in March, despite recent reports of inflating consumer prices. ](/news/2013/04/26/the-central-bank-of-mexico-announces-that-it-is-holding-its-benchmark-interest-rate-at-4-where-it-has-been-since-a-half-point-cut-announce.md)
-_Context: central bank, Mexico, interest rate_
+_Context: interest rate, Mexico, central bank_
 
 ##### Governor of the Bank of England
 ### [Governor of the Bank of England Mervyn King announces that Winston Churchill will be featured on the 5 pound bank note which he says will likely begin circulation in 2016. ](/news/2013/04/26/governor-of-the-bank-of-england-mervyn-king-announces-that-winston-churchill-will-be-featured-on-the-5-pound-bank-note-which-he-says-will-li.md)
@@ -33,11 +33,11 @@ _Context: Kaesong area, South Korea, North Korea_
 
 ##### White House
 ### [The White House reports that the United States may have to use military action against Syria. ](/news/2013/04/26/the-white-house-reports-that-the-united-states-may-have-to-use-military-action-against-syria.md)
-_Context: U.S., Syria, White House_
+_Context: United States, Syria, White House_
 
 ##### Boston Marathon bombings
 ### [Boston Marathon bombings suspect Dzhokhar Tsarnaev is transferred from Beth Israel Deaconess Medical Center to the federal prison facility in Fort Devens in the U.S. state of Massachusetts. ](/news/2013/04/26/boston-marathon-bombings-suspect-dzhokhar-tsarnaev-is-transferred-from-beth-israel-deaconess-medical-center-to-the-federal-prison-facility-i.md)
-_Context: federal prison, facility, Boston Marathon bombings, Massachusetts, Fort Devens, Beth Israel Deaconess Medical Center, Dzhokhar Tsarnaev, U.S._
+_Context: Beth Israel Deaconess Medical Center, Boston Marathon bombings, U.S., Fort Devens, federal prison, Massachusetts, Dzhokhar Tsarnaev, facility_
 
 ##### Birmingham
 ### [Eleven members of a Birmingham, United Kingdom, terror cell are jailed for planning an attack to rival the 7 July and 9-11 atrocities. ](/news/2013/04/26/eleven-members-of-a-birmingham-united-kingdom-terror-cell-are-jailed-for-planning-an-attack-to-rival-the-7-july-and-9-11-atrocities.md)

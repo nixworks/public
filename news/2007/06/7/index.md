@@ -5,19 +5,19 @@ Formats: [HTML](2007/06/7/index.html)  [JSON](2007/06/7/index.json)  [XML](2007/
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: Police in Sri Lanka force hundreds of the minority Sri Lankan Tamils community out of Colombo for what they say are security reasons. ](/news/2007/06/7/sri-lankan-civil-war-police-in-sri-lanka-force-hundreds-of-the-minority-sri-lankan-tamils-community-out-of-colombo-for-what-they-say-are-s.md)
-_Context: Sri Lanka, Colombo, Police, Sri Lankan Civil War, hundreds of the minority Sri Lankan Tamils_
+_Context: Sri Lanka, Colombo, hundreds of the minority Sri Lankan Tamils, Sri Lankan Civil War, Police_
 
 ##### Italy
 ### [ Italian police arrest a group of people for allegedly providing material support for an al Qaeda-linked organisation, Salafist Group for Call and Combat. ](/news/2007/06/7/italian-police-arrest-a-group-of-people-for-allegedly-providing-material-support-for-an-al-qaeda-linked-organisation-salafist-group-for-ca.md)
-_Context: Salafist Group for Call and Combat, al Qaeda, Italy_
+_Context: Italy, al Qaeda, Salafist Group for Call and Combat_
 
 ##### U.S. President
 ### [ President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md)
-_Context: missile defense, Vladimir Putin, George W. Bush, Russian President, U.S. President_
+_Context: George W. Bush, Vladimir Putin, Russian President, U.S. President, missile defense_
 
 ##### Oman
 ### [ At least 12 citizens of Oman are killed by Cyclone Gonu. ](/news/2007/06/7/at-least-12-citizens-of-oman-are-killed-by-cyclone-gonu.md)
-_Context: Cyclone Gonu, Oman_
+_Context: Oman, Cyclone Gonu_
 
 ##### Hamas
 ### [ Hamas militants kill a Fatah member, and five other Palestinians are injured in a renewal of fighting between the two groups. ](/news/2007/06/7/hamas-militants-kill-a-fatah-member-and-five-other-palestinians-are-injured-in-a-renewal-of-fighting-between-the-two-groups.md)
@@ -25,15 +25,15 @@ _Context: Palestinians, Fatah, Hamas_
 
 ##### Reserve Bank of New Zealand
 ### [ The Reserve Bank of New Zealand raises interest rates in New Zealand to 8%, the highest level of any industrialised nation. ](/news/2007/06/7/the-reserve-bank-of-new-zealand-raises-interest-rates-in-new-zealand-to-8-the-highest-level-of-any-industrialised-nation.md)
-_Context: New Zealand, interest rate, Reserve Bank of New Zealand_
+_Context: New Zealand, Reserve Bank of New Zealand, interest rate_
 
-##### U.S.
+##### United States
 ### [ American scientists identify a new strain of potentially lethal bacteria called "Bartonella rochalimae". ](/news/2007/06/7/american-scientists-identify-a-new-strain-of-potentially-lethal-bacteria-called-bartonella-rochalimae.md)
-_Context: strain, bacteria, U.S., scientist, Bartonella rochalimae_
+_Context: Bartonella rochalimae, scientist, United States, strain, bacteria_
 
 ##### Cloture
 ### [ Cloture votes fail in the United States Senate on the Comprehensive Immigration Reform Act of 2007, potentially killing the bill. ](/news/2007/06/7/cloture-votes-fail-in-the-united-states-senate-on-the-comprehensive-immigration-reform-act-of-2007-potentially-killing-the-bill.md)
-_Context: Cloture, Comprehensive Immigration Reform Act of 2007, United States Senate_
+_Context: Cloture, United States Senate, Comprehensive Immigration Reform Act of 2007_
 
 ## [Previous Day...](/news/2007/06/6/index.md)
 

@@ -13,11 +13,11 @@ Sergent convicted of killing unarmed Iraqi man released from prison pending appe
 
 ##### Afghanistan
 ### [Militants kill 12 police officers in a string of attacks and six civilians die in bombings in Afghanistan, and a U.S. soldier is killed in a gun battle in eastern Afghanistan in the latest fighting in the war in Afghanistan. ](/news/2010/06/15/militants-kill-12-police-officers-in-a-string-of-attacks-and-six-civilians-die-in-bombings-in-afghanistan-and-a-u-s-soldier-is-killed-in-a.md)
-_Context: Afghanistan, War in Afghanistan (2001-present)_
+_Context: War in Afghanistan (2001-present), Afghanistan_
 
 ##### Kangding
 ### [Heavy rain triggers landslides that leave at least 24 people dead in Sichuan province's Kangding county. In one incident, part of a mountain fell on a construction site in Sichuan province, crushing workers who were sleeping in tents. ](/news/2010/06/15/heavy-rain-triggers-landslides-that-leave-at-least-24-people-dead-in-sichuan-province-s-kangding-county-in-one-incident-part-of-a-mountain.md)
-_Context: tent, Sichuan province, Kangding_
+_Context: tent, Kangding, Sichuan province_
 
 #####  Ergenekon
 ### [The trial begins of 33 alleged members of Ergenekon over alleged plans to topple the Turkish government, while groups hold small protests outside the courthouse in their favour. ](/news/2010/06/15/the-trial-begins-of-33-alleged-members-of-ergenekon-over-alleged-plans-to-topple-the-turkish-government-while-groups-hold-small-protests-ou.md)
@@ -25,7 +25,7 @@ Court tries suspects of alleged plan to attack non-Muslims in bid to topple gove
 
 ##### Mexico
 ### [Two trains collide in the northern Mexican state of Sinaloa resulting in the death of at least 13 people. ](/news/2010/06/15/two-trains-collide-in-the-northern-mexican-state-of-sinaloa-resulting-in-the-death-of-at-least-13-people.md)
-_Context: Mexico, Sinaloa_
+_Context: Sinaloa, Mexico_
 
 ##### Saville Inquiry
 ### [The Saville Inquiry into the events of Bloody Sunday (1972) in Northern Ireland is published, as a result of the longest-running public inquiry in British legal history. ](/news/2010/06/15/the-saville-inquiry-into-the-events-of-bloody-sunday-1972-in-northern-ireland-is-published-as-a-result-of-the-longest-running-public-inqu.md)
@@ -33,7 +33,7 @@ The Bloody Sunday killings were unjustified and unjustifiable, the Prime Ministe
 
 ##### North Korea
 ### [North Korea threatens a military response if the United Nations Security Council questions or condemns it for the ROKS Cheonan sinking. North Korean UN Permanent Representative Sin Son Ho demands that a North Korean investigation team be allowed to travel to the site of the sinking. ](/news/2010/06/15/north-korea-threatens-a-military-response-if-the-united-nations-security-council-questions-or-condemns-it-for-the-roks-cheonan-sinking-nort.md)
-_Context: Sin Son Ho, North Korea, sinking, Permanent Representative, United Nations Security Council_
+_Context: Sin Son Ho, sinking, Permanent Representative, North Korea, United Nations Security Council_
 
 ##### Islamist
 ### [Islamist gunmen in Somalia shoot two people dead and detain 10 others who were watching a televised FIFA World Cup match; a member of one group later said watching the World Cup is anti-Islamic. ](/news/2010/06/15/islamist-gunmen-in-somalia-shoot-two-people-dead-and-detain-10-others-who-were-watching-a-televised-fifa-world-cup-match-a-member-of-one-gr.md)
@@ -43,7 +43,7 @@ _Context: 2010 FIFA World Cup, Somalia, Islamist_
 ### [The leaders of Ireland's two main political parties, Fianna Fail and Fine Gael, come under fire. Irish Taoiseach Brian Cowen faces a motion of no confidence in Dail Eireann, his second in just over a year. Leader of the Opposition, Enda Kenny, who sacked his deputy leader yesterday to prevent a potential coup, faces further revolt from his party as nine more members of his frontbench call on him to resign. ](/news/2010/06/15/the-leaders-of-ireland-s-two-main-political-parties-fianna-fa-il-and-fine-gael-come-under-fire-irish-taoiseach-brian-cowen-faces-a-motion.md)
 Nine members of the Fine Gael frontbench have said they do not have confidence in Enda Kenny to lead their party.
 
-##### U.S.
+##### United States
 ### [An American claiming to be hunting Osama bin Laden is arrested with a sword, a pistol and night-vision goggles in northwestern Pakistan.](/news/2010/06/15/an-american-claiming-to-be-hunting-osama-bin-laden-is-arrested-with-a-sword-a-pistol-and-night-vision-goggles-in-northwestern-pakistan.md)
 Pakistan detains US armed man for trying to cross into Afghanistan to hunt al-Qaeda leader.
 

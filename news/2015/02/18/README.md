@@ -5,11 +5,11 @@ Formats: [HTML](2015/02/18/index.html)  [JSON](2015/02/18/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights estimates that at least 70 Syrian Army soldiers and more than 80 insurgents have died in recent fighting around the city of Aleppo. ](/news/2015/02/18/the-syrian-observatory-for-human-rights-estimates-that-at-least-70-syrian-army-soldiers-and-more-than-80-insurgents-have-died-in-recent-figh.md)
-_Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights, Syrian Army_
+_Context: Syrian Civil War, Syrian Army, Syrian Observatory for Human Rights, Aleppo_
 
 ##### Shi'ite
 ### [A bomb in a Shi'ite mosque in the Pakistani city of Rawalpindi kills at least two people and injures six. ](/news/2015/02/18/a-bomb-in-a-shi-ite-mosque-in-the-pakistani-city-of-rawalpindi-kills-at-least-two-people-and-injures-six.md)
-_Context: Shi'ite, Rawalpindi, Pakistan_
+_Context: Shi'ite, Pakistan, Rawalpindi_
 
 ##### Boko Haram
 ### [The Nigerian Army claims to have killed 300 militants in northeastern Nigeria. ](/news/2015/02/18/the-nigerian-army-claims-to-have-killed-300-militants-in-northeastern-nigeria.md)
@@ -17,15 +17,15 @@ Thirty-seven people have died in an air strike in southern Niger during military
 
 ##### Japan Post
 ### [Japan Post acquires Australian transport company Toll Holdings at a cost of A$6.5 billion. ](/news/2015/02/18/japan-post-acquires-australian-transport-company-toll-holdings-at-a-cost-of-a-6-5-billion.md)
-_Context: Australia, Toll Holdings, Japan Post_
+_Context: Toll Holdings, Japan Post, Australia_
 
 ##### 2014-15 Australian region cyclone season
 ### [The Australian Bureau of Meteorology is predicting that a low pressure system in the Coral Sea will develop into tropical cyclone Marcia within 24 hours and bring heavy rain to South East Queensland with the potential to cause flooding. ](/news/2015/02/18/the-australian-bureau-of-meteorology-is-predicting-that-a-low-pressure-system-in-the-coral-sea-will-develop-into-tropical-cyclone-marcia-wit.md)
-_Context: low pressure system, South East Queensland, Coral Sea, Australian Bureau of Meteorology, tropical cyclone, 2014-15 Australian region cyclone season, flood_
+_Context: Australian Bureau of Meteorology, South East Queensland, tropical cyclone, flood, low pressure system, Coral Sea, 2014-15 Australian region cyclone season_
 
 ##### Turkish
 ### [A snowstorm in the Turkish city of Istanbul leads to the closure of Istanbul Ataturk Airport, causes the cancellation of 300 Turkish Airlines flights and closes the Bosphorus Strait to shipping. ](/news/2015/02/18/a-snowstorm-in-the-turkish-city-of-istanbul-leads-to-the-closure-of-istanbul-atata1-4rk-airport-causes-the-cancellation-of-300-turkish-airlin.md)
-_Context: Istanbul Ataturk Airport, Turkish, Istanbul, Bosphorus Strait, Turkish Airlines_
+_Context: Istanbul, Bosphorus Strait, Turkish Airlines, Istanbul Ataturk Airport, Turkish_
 
 ##### Islamic State
 ### [The United Nations Security Council meets to discuss the recent beheadings of 21 Coptic Christians in Libya. ](/news/2015/02/18/the-united-nations-security-council-meets-to-discuss-the-recent-beheadings-of-21-coptic-christians-in-libya.md)
@@ -33,15 +33,15 @@ THE UN Security Council will meet Wednesday to discuss the situation in Libya af
 
 ##### Australian
 ### [Australian David Hicks wins an appeal in the U.S. Court of Military Commission Review against his conviction for providing material support to terrorism in 2007 in a U.S. Navy court in Guantanamo Bay. ](/news/2015/02/18/australian-david-hicks-wins-an-appeal-in-the-u-s-court-of-military-commission-review-against-his-conviction-for-providing-material-support.md)
-_Context: terrorism, United States Navy, U.S. Court of Military Commission Review, Guantanamo Bay, Australian, David Hicks_
+_Context: David Hicks, Guantanamo Bay, U.S. Court of Military Commission Review, terrorism, United States Navy, Australian_
 
 ##### Swede
 ### [Swede Alex Yucel pleads guilty in the United States to distributing Blackshades software that was used to hack into 500,000 computers worldwide. ](/news/2015/02/18/swede-alex-yucel-pleads-guilty-in-the-united-states-to-distributing-blackshades-software-that-was-used-to-hack-into-500-000-computers-worldw.md)
-_Context: hackers, software, Blackshades, U.S., Swede_
+_Context: Blackshades, Swede, software, United States, hackers_
 
 ##### Vanilla Ice
 ### [Robert van Winkle aka Vanilla Ice is arrested for burglary and grand theft in Florida. ](/news/2015/02/18/robert-van-winkle-aka-vanilla-ice-is-arrested-for-burglary-and-grand-theft-in-florida.md)
-_Context: burglary, grand theft, the state, Vanilla Ice_
+_Context: burglary, Vanilla Ice, grand theft, the state_
 
 ##### President of Indonesia
 ### [The President of Indonesia Joko Widodo drops his nomination of Budi Gunawan as national police chief following allegations that Gunawan was involved in a bribery scandal. ](/news/2015/02/18/the-president-of-indonesia-joko-widodo-drops-his-nomination-of-budi-gunawan-as-national-police-chief-following-allegations-that-gunawan-was.md)
@@ -53,11 +53,11 @@ The Modi government has cleared the indigenous construction of seven stealth fri
 
 ##### Hellenic Parliament
 ### [The Hellenic Parliament elects Prokopis Pavlopoulos as the new President of Greece. ](/news/2015/02/18/the-hellenic-parliament-elects-prokopis-pavlopoulos-as-the-new-president-of-greece.md)
-_Context: elects, Hellenic Parliament, President of Greece, Prokopis Pavlopoulos_
+_Context: President of Greece, elects, Hellenic Parliament, Prokopis Pavlopoulos_
 
 ##### Moldovan Parliament
 ### [The Moldovan Parliament appoints a new government with Chiril Gaburici as Prime Minister and a legislative support formed by the PLDM, PDM and PCRM. ](/news/2015/02/18/the-moldovan-parliament-appoints-a-new-government-with-chiril-gaburici-as-prime-minister-and-a-legislative-support-formed-by-the-pldm-pdm-a.md)
-_Context: PLDM, government, PCRM, PDM, Moldovan Parliament, Chiril Gaburici, Moldovan Prime Minister_
+_Context: Moldovan Prime Minister, PDM, government, PLDM, Moldovan Parliament, Chiril Gaburici, PCRM_
 
 ## [Previous Day...](/news/2015/02/17/index.md)
 

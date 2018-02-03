@@ -25,7 +25,7 @@ The Philippines evacuated northern coastal villages, suspended ferry services an
 
 ##### Iran
 ### [Iranian President Hassan Rouhani calls for "constructive dialogue" and an end to "unhealthy rivalries". ](/news/2013/09/20/iranian-president-hassan-rouhani-calls-for-constructive-dialogue-and-an-end-to-unhealthy-rivalries.md)
-_Context: Hassan Rouhani, Iran_
+_Context: Iran, Hassan Rouhani_
 
 ##### Greenpeace India's
 ### [The Greenpeace ship "Arctic Sunrise", which was protesting against Gazprom drilling in the Arctic area 60km north of the Russian coast, is boarded by the Russian military. The activists claim that oil exploitation would risk three nature reserves protected by Russian law. ](/news/2013/09/20/the-greenpeace-ship-arctic-sunrise-which-was-protesting-against-gazprom-drilling-in-the-arctic-area-60km-north-of-the-russian-coast-is-b.md)

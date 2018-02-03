@@ -5,11 +5,11 @@ Formats: [HTML](2007/10/29/index.html)  [JSON](2007/10/29/index.json)  [XML](200
 
 ##### HIV
 ### [ The strain of HIV most common in the United States, Europe, Japan, Australia and much of South America is traced back to Haiti in 1969. ](/news/2007/10/29/the-strain-of-hiv-most-common-in-the-united-states-europe-japan-australia-and-much-of-south-america-is-traced-back-to-haiti-in-1969.md)
-_Context: Europe, United States, HIV, Haiti, South America, Australia, Japan_
+_Context: Europe, HIV, Australia, Haiti, Japan, United States, South America_
 
 ##### USS ''Arleigh Burke''
 ### [ The USS "Arleigh Burke" enters Somali waters in pursuit of a Japanese ship carrying benzene that was hijacked by pirates. ](/news/2007/10/29/the-uss-arleigh-burke-enters-somali-waters-in-pursuit-of-a-japanese-ship-carrying-benzene-that-was-hijacked-by-pirates.md)
-_Context: USS ''Arleigh Burke'', pirates, Japan, Somalia, benzene_
+_Context: USS ''Arleigh Burke'', benzene, Somalia, pirates, Japan_
 
 ##### Argentine general election, 2007
 ### [ Argentine general election, 2007: Cristina Fernndez de Kirchner is elected President of Argentina. ](/news/2007/10/29/argentine-general-election-2007-cristina-fernandez-de-kirchner-is-elected-president-of-argentina.md)
@@ -25,7 +25,7 @@ Prime Minister Ehud Olmert said that the early stage cancer was not life-threate
 
 ##### Salim Aliyow Ibrow
 ### [ Salim Aliyow Ibrow becomes Prime Minister of Somalia in the Transitional Federal Government as the embattled Ali Mohamed Ghedi resigns. ](/news/2007/10/29/salim-aliyow-ibrow-becomes-prime-minister-of-somalia-in-the-transitional-federal-government-as-the-embattled-ali-mohamed-ghedi-resigns.md)
-_Context: Ali Mohamed Ghedi, Prime Minister of Somalia, Transitional Federal Government, Salim Aliyow Ibrow_
+_Context: Prime Minister of Somalia, Ali Mohamed Ghedi, Transitional Federal Government, Salim Aliyow Ibrow_
 
 ##### UK
 ### [ The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented. The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack." ](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-closes.md)
@@ -37,11 +37,11 @@ Regulators hailed the arrests, made during a nationwide crackdown on tainted foo
 
 ##### Borlnge
 ### [ All banks and post offices in Borlnge, Sweden, are kept closed by the local police due to an "elevated risk level of bank robbery". ](/news/2007/10/29/all-banks-and-post-offices-in-borlange-sweden-are-kept-closed-by-the-local-police-due-to-an-elevated-risk-level-of-bank-robbery.md)
-_Context: bank robbery, Borlnge, Sweden_
+_Context: Sweden, bank robbery, Borlnge_
 
 ##### Kasereka Kabamba
 ### [ Kasereka Kabamba, a Mai Mai militia leader in the Democratic Republic of the Congo, surrenders to Nord-Kivu Army Chief Vainqueur Mayala. Kabamba maintains his forces fought against rebels loyal to Laurent Kabila, in the service of the government. ](/news/2007/10/29/kasereka-kabamba-a-mai-mai-militia-leader-in-the-democratic-republic-of-the-congo-surrenders-to-nord-kivu-army-chief-vainqueur-mayala-ka.md)
-_Context: Laurent Kabila, Nord-Kivu, Mai Mai, Kasereka Kabamba, DR Congo_
+_Context: Laurent Kabila, Nord-Kivu, Kasereka Kabamba, DR Congo, Mai Mai_
 
 ##### UK
 ### [ One of two men alleged to be involved in a gay-sex-and-drugs blackmail plot against a minor member of the British Royal Family will appear in court this week. ](/news/2007/10/29/one-of-two-men-alleged-to-be-involved-in-a-gay-sex-and-drugs-blackmail-plot-against-a-minor-member-of-the-british-royal-family-will-appear.md)

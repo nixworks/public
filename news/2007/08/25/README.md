@@ -13,15 +13,15 @@ Ohio residents removed piles of waterlogged carpet, couches and upended refriger
 
 ##### 2007 Greek fires
 ### [ 2007 Greek fires: More than 53 people, including children, die during the Peloponnese forest fires in Greece and many are missing in burnt villages. Huge fires also occur in the Imitos mountain area, Filothei, Athens and also in the Styra, Euboea and Keratea regions. The Greek government declares a national emergency and seeks assistance from the European Union. ](/news/2007/08/25/2007-greek-fires-more-than-53-people-including-children-die-during-the-peloponnese-forest-fires-in-greece-and-many-are-missing-in-burnt.md)
-_Context: Euboea, Keratea, 2007 Greek fires, Greece, Athens, European Union, Styra, Filothei, Imitos, Peloponnese_
+_Context: Athens, Greece, Filothei, Imitos, Styra, European Union, Peloponnese, Keratea, Euboea, 2007 Greek fires_
 
 ##### 11th IAAF World Championships in Athletics
 ### [ The 11th IAAF World Championships in Athletics get underway in Osaka, Japan. ](/news/2007/08/25/the-11th-iaaf-world-championships-in-athletics-get-underway-in-osaka-japan.md)
-_Context: Japan, 11th IAAF World Championships in Athletics, Osaka_
+_Context: 11th IAAF World Championships in Athletics, Japan, Osaka_
 
 ##### first crossing
 ### [ On the 132-year anniversary of the first crossing, Bulgarian swimmer Petar Stoychev becomes the fastest person ever to swim across the English Channel. ](/news/2007/08/25/on-the-132-year-anniversary-of-the-first-crossing-bulgarian-swimmer-petar-stoychev-becomes-the-fastest-person-ever-to-swim-across-the-engl.md)
-_Context: Bulgaria, English Channel, Petar Stoychev, first crossing_
+_Context: Petar Stoychev, first crossing, English Channel, Bulgaria_
 
 ##### Nauru
 ### [ Voters in Nauru go to the polls for the Nauruan parliamentary election, 2007. ](/news/2007/08/25/voters-in-nauru-go-to-the-polls-for-the-nauruan-parliamentary-election-2007.md)

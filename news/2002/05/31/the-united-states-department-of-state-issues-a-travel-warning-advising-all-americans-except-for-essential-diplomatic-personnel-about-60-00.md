@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/05/31/the-united-states-department-of-state-issues-a-
 
 ### [2002-05-31](/news/2002/05/31/index.md)
 
-##### State Department's
+##### State Department
 #  The United States Department of State issues a travel warning advising all Americans except for essential diplomatic personnel (about 60,000 people) to leave India because "conditions along India's border with Pakistan and in the state of Jammu and Kashmir have deteriorated."
 
 

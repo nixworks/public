@@ -19,7 +19,7 @@ Tropical Storm Hagupit weakens as it sweeps across the Philippines towards Manil
 ### [A bus goes off a mountain road in western Nepal, killing 17 passengers. ](/news/2014/12/7/a-bus-goes-off-a-mountain-road-in-western-nepal-killing-17-passengers.md)
 Overcrowded bus plunges off a mountain road, leaving at least 17 dead and 50 more injured.
 
-##### Chinese
+##### China
 ### [China condemns the Philippines over the latter's "pressure" over the South China Sea despite the disadvantage of the Armed Forces of the Philippines against China's People's Liberation Army. ](/news/2014/12/7/china-condemns-the-philippines-over-the-latter-s-pressure-over-the-south-china-sea-despite-the-disadvantage-of-the-armed-forces-of-the-phi.md)
 BEIJING (Reuters) - China denounced the Philippines on Sunday for putting it under political pressure with an international arbitration case over disputed waters, and refused again to participate a week ahead of a deadline to respond in the case.. Read more at straitstimes.com.
 
@@ -33,7 +33,7 @@ Interior ministry says some of those arrested were linked to ISIL and were plann
 
 ##### chlorine
 ### [A chlorine gas leak injures 19 at the Chicago's 'Furfest', a Furry convention. Police say the act was intentional. ](/news/2014/12/7/a-chlorine-gas-leak-injures-19-at-the-chicago-s-furfest-a-furry-convention-police-say-the-act-was-intentional.md)
-_Context: chlorine, chlorine, convention, Furry_
+_Context: convention, chlorine, Furry, chlorine_
 
 ##### United States Senate election in Louisiana, 2014
 ### [Democrat Mary Landrieu loses her bid for a fourth term representing Louisiana in the United States Senate to Republican Congressman Bill Cassidy in Saturday's runoff election, increasing the GOP majority in the U.S. Senate to 54 seats. ](/news/2014/12/7/democrat-mary-landrieu-loses-her-bid-for-a-fourth-term-representing-louisiana-in-the-united-states-senate-to-republican-congressman-bill-cas.md)

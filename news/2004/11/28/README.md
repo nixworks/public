@@ -9,17 +9,17 @@ _Context: stem cells_
 
 ##### coal miners
 ### [ An explosion in a coal mine in the Chinese central province of Shaanxi leaves 187 men trapped underground. Official figures show 4,153 mining accident deaths in the last nine months, while 119 miners are still missing from a November 20 iron mine fire in Hebei. ](/news/2004/11/28/an-explosion-in-a-coal-mine-in-the-chinese-central-province-of-shaanxi-leaves-187-men-trapped-underground-official-figures-show-4-153-mini.md)
-_Context: mine, coal miners, Hebei, Shaanxi_
+_Context: coal miners, Shaanxi, Hebei, mine_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: 42 primarily Shi'a parties release a statement saying a postponement of elections would be illegal. The U.S. military reports a U.S. soldier is killed by a roadside bomb in Duluiya north of Baghdad and that troops discover 17 more corpses in Mosul, raising the number found to at least 50 in two weeks. Hospital officials in Ramadi say two people are killed and three wounded when U.S. troops fire on suspected insurgents. ](/news/2004/11/28/conflict-in-iraq-42-primarily-shi-a-parties-release-a-statement-saying-a-postponement-of-elections-would-be-illegal-the-u-s-military-rep.md)
-_Context: Mosul, Ramadi, United States military, Shi'a, Baghdad, Conflict in Iraq, Duluiya, Iraqi insurgency_
+_Context: Mosul, Ramadi, Shi'a, Baghdad, Conflict in Iraq, United States military, Duluiya, Iraqi insurgency_
 
 ##### 
 ### [ Russia intimates that its opposition to fresh elections might not be unshakable. ](/news/2004/11/28/russia-intimates-that-its-opposition-to-fresh-elections-might-not-be-unshakable.md)
 ##### oil tanker
 ### [ An oil tanker, the "Athos 1", leaks approximately 30,000 US gallons (100 m 3 ) of crude oil into the Delaware River in the eastern United States while pulling into a Citgo oil refinery. The Coast Guard closes part of the river to commercial traffic while cleanup begins. ](/news/2004/11/28/an-oil-tanker-the-athos-1-leaks-approximately-30-000-us-gallons-100-m-3-of-crude-oil-into-the-delaware-river-in-the-eastern-united-s.md)
-_Context: crude oil, oil tanker, United States Coast Guard, oil refinery, Citgo, Delaware River_
+_Context: crude oil, Citgo, United States Coast Guard, Delaware River, oil refinery, oil tanker_
 
 ## [Previous Day...](/news/2004/11/27/index.md)
 

@@ -13,11 +13,11 @@ Officials acknowledge that killings might have been prevented with proper enforc
 
 ##### Turkish troops
 ### [Clashes between Turkish security forces and Kurdish rebels in the southeastern province of Sirnak kill ten Turkish troops and twenty fighters from the Kurdistan Workers' Party. ](/news/2012/09/2/clashes-between-turkish-security-forces-and-kurdish-rebels-in-the-southeastern-province-of-aa-rnak-kill-ten-turkish-troops-and-twenty-fight.md)
-_Context: Sirnak Province, Turkish troops, Kurdistan Workers' Party, Kurdish_
+_Context: Turkish troops, Kurdistan Workers' Party, Kurdish, Sirnak Province_
 
 ##### Movement for Oneness and Jihad in West Africa
 ### [The Movement for Oneness and Jihad in West Africa reports the execution of a kidnapped Algerian diplomat in northern Mali. ](/news/2012/09/2/the-movement-for-oneness-and-jihad-in-west-africa-reports-the-execution-of-a-kidnapped-algerian-diplomat-in-northern-mali.md)
-_Context: Mali, Algeria, Movement for Oneness and Jihad in West Africa_
+_Context: Movement for Oneness and Jihad in West Africa, Algeria, Mali_
 
 ##### Libya
 ### [A car bomb explodes in the eastern Libyan city of Benghazi, killing at least one person. ](/news/2012/09/2/a-car-bomb-explodes-in-the-eastern-libyan-city-of-benghazi-killing-at-least-one-person.md)
@@ -41,11 +41,11 @@ A plane that was part of an air show in eastern Iowa has crashed, and authoritie
 
 ##### South Sudan
 ### [South Sudan appoints Francis Deng as its first ambassador to the United Nations. ](/news/2012/09/2/south-sudan-appoints-francis-deng-as-its-first-ambassador-to-the-united-nations.md)
-_Context: South Sudan, Francis Deng, United Nations_
+_Context: Francis Deng, United Nations, South Sudan_
 
 ##### Burma
 ### [Burma's new information minister Aung Kyi says that private newspapers will be allowed to publish daily from 2013. ](/news/2012/09/2/burma-s-new-information-minister-aung-kyi-says-that-private-newspapers-will-be-allowed-to-publish-daily-from-2013.md)
-_Context: Burma, Aung Kyi_
+_Context: Aung Kyi, Burma_
 
 ##### Cambodia
 ### [Police in Cambodia announce that Gottfrid Svartholm Warg, one of the founders of The Pirate Bay, was arrested on August 30 in Phnom Penh, enforcing a suspected Interpol warrant by his homeland Sweden. Warg has been sentenced in April 2012 by a court in Stockholm for copyright violations to 12 months in jail and his quarter share (about EUR 900,000) in a solidary fine of 30 million SKr. ](/news/2012/09/2/police-in-cambodia-announce-that-gottfrid-svartholm-warg-one-of-the-founders-of-the-pirate-bay-was-arrested-on-august-30-in-phnom-penh-en.md)

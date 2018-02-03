@@ -5,15 +5,15 @@ Formats: [HTML](2012/01/28/index.html)  [JSON](2012/01/28/index.json)  [XML](201
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: The Arab League suspends its observer mission, citing increased violence. ](/news/2012/01/28/2011a2012-syrian-uprising-the-arab-league-suspends-its-observer-mission-citing-increased-violence.md)
-_Context: Arab League, 2011-2012 Syrian uprising_
+_Context: 2011-2012 Syrian uprising, Arab League_
 
 ##### Dakar
 ### [Fires rage through Dakar after Senegal's top court rules that President Abdoulaye Wade can run for a third term in office next month and prevents his best-known opponent, Grammy Award-winning musician Youssou N'Dour, from running against him. ](/news/2012/01/28/fires-rage-through-dakar-after-senegal-s-top-court-rules-that-president-abdoulaye-wade-can-run-for-a-third-term-in-office-next-month-and-pre.md)
-_Context: Abdoulaye Wade, Dakar, Senegal, Youssou N'Dour, Grammy Award_
+_Context: Senegal, Dakar, Youssou N'Dour, Grammy Award, Abdoulaye Wade_
 
 ##### Islamist
 ### [11 Islamist militants are killed in a shootout in the northeastern Nigerian city of Maiduguri. ](/news/2012/01/28/11-islamist-militants-are-killed-in-a-shootout-in-the-northeastern-nigerian-city-of-maiduguri.md)
-_Context: Nigeria, Maiduguri, Islamist_
+_Context: Nigeria, Islamist, Maiduguri_
 
 ##### Archbishop of York
 ### [Archbishop of York Dr. John Sentamu calls on the Church of England not to permit same-sex marriage. ](/news/2012/01/28/archbishop-of-york-dr-john-sentamu-calls-on-the-church-of-england-not-to-permit-same-sex-marriage.md)
@@ -41,7 +41,7 @@ At least eight sea lions have been shot dead in the US state of Washington in th
 
 ##### Red Cross
 ### [Israeli police enter the Red Cross compound and arrest two more Palestinian MPs associated with Hamas. ](/news/2012/01/28/israeli-police-enter-the-red-cross-compound-and-arrest-two-more-palestinian-mps-associated-with-hamas.md)
-_Context: Red Cross, Hamas_
+_Context: Hamas, Red Cross_
 
 ##### Ireland
 ### [A poll finds most voters in Ireland want to see any new European Treaty put to a referendum, though the government remains undecided. ](/news/2012/01/28/a-poll-finds-most-voters-in-ireland-want-to-see-any-new-european-treaty-put-to-a-referendum-though-the-government-remains-undecided.md)
@@ -53,7 +53,7 @@ Tommy Sheridan&#039;s lawyer, Aamer Anwar, has accused prison authorities of try
 
 ##### Oakland, California
 ### [Approximately 300 people are arrested in the US city of Oakland, California during Occupy Oakland protests. ](/news/2012/01/28/approximately-300-people-are-arrested-in-the-us-city-of-oakland-california-during-occupy-oakland-protests.md)
-_Context: Oakland, California, California, Occupy Oakland_
+_Context: California, Oakland, California, Occupy Oakland_
 
 ## [Previous Day...](/news/2012/01/27/index.md)
 

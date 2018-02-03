@@ -9,7 +9,7 @@ The remains of a Western Australian Aboriginal warrior have been laid to rest ne
 
 ##### Blizzard Entertainment
 ### [After public outcry, gamemaker Blizzard Entertainment rescinds its plan to force users of its World of Warcraft online game to post under their real names. ](/news/2010/07/10/after-public-outcry-gamemaker-blizzard-entertainment-rescinds-its-plan-to-force-users-of-its-world-of-warcraft-online-game-to-post-under-th.md)
-_Context: Blizzard Entertainment, World of Warcraft_
+_Context: World of Warcraft, Blizzard Entertainment_
 
 ##### China
 ### [Chinese exports rose by 43.9% this past June, compared to the same time last year. ](/news/2010/07/10/chinese-exports-rose-by-43-9-this-past-june-compared-to-the-same-time-last-year.md)
@@ -25,7 +25,7 @@ A ship with supplies for Gaza will dock in Egypt, officials say, following press
 
 ##### Israel
 ### [A new bill is introduced in the Israeli Knesset that would force Haredi Jewish schools to teach core subjects such as mathematics, science, English, and civics, or lose state funding. ](/news/2010/07/10/a-new-bill-is-introduced-in-the-israeli-knesset-that-would-force-haredi-jewish-schools-to-teach-core-subjects-such-as-mathematics-science.md)
-_Context: parliament in Israel, ultra-orthodox, Israel_
+_Context: ultra-orthodox, Israel, parliament in Israel_
 
 ##### demonstrate
 ### [Between 1.1 and 1.5 million people, according to organisers, and 56000 demonstrators, according to spanish protesters-counting specialized company "Lynce", demonstrate in central Barcelona demanding greater autonomy for Catalonia within Spain. ](/news/2010/07/10/between-1-1-and-1-5-million-people-according-to-organisers-and-56000-demonstrators-according-to-spanish-protesters-counting-specialized-c.md)
@@ -37,7 +37,7 @@ _Context: general elections, National League for Democracy, Burma_
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan makes a final campaign push on the eve of the country's Upper House election. ](/news/2010/07/10/japanese-prime-minister-naoto-kan-makes-a-final-campaign-push-on-the-eve-of-the-country-s-upper-house-election.md)
-_Context: Prime Minister of Japan, Japan, loses its majority, Naoto Kan_
+_Context: Japan, Naoto Kan, loses its majority, Prime Minister of Japan_
 
 ##### North Korea
 ### [North Korea offers to return to the six-party talks over its nuclear weapons programme. ](/news/2010/07/10/north-korea-offers-to-return-to-the-six-party-talks-over-its-nuclear-weapons-programme.md)
@@ -61,7 +61,7 @@ Underwater robots successfully remove a leaking cap as BP tries again to halt th
 
 ##### 2010 FIFA World Cup
 ### [2010 FIFA World Cup: Germany defeats Uruguay 3-2 to finish third. ](/news/2010/07/10/2010-fifa-world-cup-germany-defeats-uruguay-3-2-to-finish-third.md)
-_Context: Uruguay, third, 2010 FIFA World Cup, Germany_
+_Context: Germany, Uruguay, third, 2010 FIFA World Cup_
 
 ##### UEFA
 ### [UEFA President Michel Platini is released from hospital. ](/news/2010/07/10/uefa-president-michel-platini-is-released-from-hospital.md)

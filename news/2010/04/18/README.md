@@ -5,7 +5,7 @@ Formats: [HTML](2010/04/18/index.html)  [JSON](2010/04/18/index.json)  [XML](201
 
 ##### Live Earth
 ### [The Dow Live Earth Run for Water started on April 18th. The host cities are: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis, New York, Lisboa, Rio de Janeiro, SGBPo Paulo, Singapore City, Stockholm, Toronto and Washington, D.C.. ](/news/2010/04/18/the-dow-live-earth-run-for-water-started-on-april-18th-the-host-cities-are-buenos-aires-cape-town-chicago-hong-kong-jimbaran-london.md)
-_Context: Milan, Melbourne, Stockholm, New York City, Lisboa, Chicago, London, Manchester, Minneapolis, Singapore, SGBPo Paulo, Mexico City, Buenos Aires, Live Earth, Toronto, Jimbaran, Los Angeles, Hong Kong, Washington, D.C., Rio de Janeiro, Cape Town_
+_Context: Minneapolis, Los Angeles, Melbourne, Jimbaran, Toronto, Milan, Chicago, Rio de Janeiro, Lisboa, Mexico City, Live Earth, Cape Town, Singapore, SGBPo Paulo, London, Stockholm, Hong Kong, New York City, Buenos Aires, Manchester, Washington, D.C._
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad says Iran wants "peace, progress and security for all", asks "supporters and creators" of the Israeli-Palestinian conflict to "allow the regional nations and the Palestinians to settle things" themselves and calls on "alien troops" to leave the region. ](/news/2010/04/18/president-of-iran-mahmoud-ahmadinejad-says-iran-wants-peace-progress-and-security-for-all-asks-supporters-and-creators-of-the-israelia.md)
@@ -45,15 +45,15 @@ Investigation clears three doctors of plot to kill the governor of Helmand provi
 
 ##### Saudi Arabia
 ### [Increasing numbers of women from Saudi Arabia are running away from home, studies by the International Muslim Organization for Women and Family (IMOWF) in Jeddah say. ](/news/2010/04/18/increasing-numbers-of-women-from-saudi-arabia-are-running-away-from-home-studies-by-the-international-muslim-organization-for-women-and-fam.md)
-_Context: Saudi Arabia, International Muslim Organization for Women and Family, Jeddah_
+_Context: International Muslim Organization for Women and Family, Saudi Arabia, Jeddah_
 
 ##### Bahrain
 ### [Bahrain gives Abdullah of Saudi Arabia the Ajrab sword of Imam Turki bin Abdullah kept by Bahrain for 140 years and confers on him the Sheikh Isa bin Salman Al Khalifah Medal during a ceremony at Al-Sakhir Palace. ](/news/2010/04/18/bahrain-gives-abdullah-of-saudi-arabia-the-ajrab-sword-of-imam-turki-bin-abdullah-kept-by-bahrain-for-140-years-and-confers-on-him-the-sheik.md)
-_Context: Imam Turki bin Abdullah, Al-Sakhir Palace, Bahrain, Sheikh Isa bin Salman Al Khalifah, Abdullah_
+_Context: Imam Turki bin Abdullah, Al-Sakhir Palace, Abdullah, Bahrain, Sheikh Isa bin Salman Al Khalifah_
 
 ##### King Oyo, Rukidi IV of Toro
 ### [King Oyo, Rukidi IV of Toro, one of Uganda's last remaining kings and the world's youngest monarch, reaches the age of 18 at the end of a four-day ceremony and takes full control of his kingdom. ](/news/2010/04/18/king-oyo-rukidi-iv-of-toro-one-of-uganda-s-last-remaining-kings-and-the-world-s-youngest-monarch-reaches-the-age-of-18-at-the-end-of-a-fo.md)
-_Context: Uganda, King Oyo, Rukidi IV of Toro_
+_Context: King Oyo, Rukidi IV of Toro, Uganda_
 
 ##### U.S. President
 ### [Former President of the United States George Washington owes $300,000 for overdue library books he borrowed from New York Society Library five months into his presidency and which he failed to return. ](/news/2010/04/18/former-president-of-the-united-states-george-washington-owes-300-000-for-overdue-library-books-he-borrowed-from-new-york-society-library-fi.md)
@@ -61,11 +61,11 @@ _Context: George Washington, U.S. President, New York Society Library_
 
 ##### Spain
 ### [69-year-old Spanish tenor opera star Placido Domingo returns to the stage at Milan's Teatro alla Scala weeks after colorectal cancer surgery. ](/news/2010/04/18/69-year-old-spanish-tenor-opera-star-pla-cido-domingo-returns-to-the-stage-at-milan-s-teatro-alla-scala-weeks-after-colorectal-cancer-surger.md)
-_Context: Milan, Spain, colorectal cancer, Placido Domingo, Teatro alla Scala_
+_Context: colorectal cancer, Spain, Milan, Teatro alla Scala, Placido Domingo_
 
 ##### The Rolling Stones
 ### [A recently unearthed track by The Rolling Stones is released as a limited edition 7" single for Record Store Day. The first song recorded by Blur's original line-up since guitarist Graham Coxon quit in 2002 is also released for the same purpose. ](/news/2010/04/18/a-recently-unearthed-track-by-the-rolling-stones-is-released-as-a-limited-edition-7-single-for-record-store-day-the-first-song-recorded-by.md)
-_Context: Graham Coxon, first song recorded, Record Store Day, The Rolling Stones, Blur_
+_Context: Graham Coxon, Blur, Record Store Day, first song recorded, The Rolling Stones_
 
 ## [Previous Day...](/news/2010/04/17/index.md)
 

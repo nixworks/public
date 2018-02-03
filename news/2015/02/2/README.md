@@ -29,11 +29,11 @@ It&#039;s up and running again with a few modifications, though some &#034;staff
 
 ##### 2014-15 North American winter
 ### [A winter storm causes the cancellation of school in the midwestern United States and the cancellation of 1,000 flights. ](/news/2015/02/2/a-winter-storm-causes-the-cancellation-of-school-in-the-midwestern-united-states-and-the-cancellation-of-1-000-flights.md)
-_Context: 2014-15 North American winter, midwestern_
+_Context: midwestern, 2014-15 North American winter_
 
 ##### Gaza-Israel conflict
 ### [Canadian academic William Schabas resigns as the head of a United Nations committee investigating alleged Israeli war crimes in an offensive in the Gaza Strip during 2014 due to Israel alleging bias due to consultancy work he did for the Palestine Liberation Organisation. ](/news/2015/02/2/canadian-academic-william-schabas-resigns-as-the-head-of-a-united-nations-committee-investigating-alleged-israeli-war-crimes-in-an-offensive.md)
-_Context: Gaza Strip, Israel, Gaza-Israel conflict, Canadian, Palestine Liberation Organisation, William Schabas, United Nations_
+_Context: United Nations, Canadian, Palestine Liberation Organisation, Gaza-Israel conflict, William Schabas, Gaza Strip, Israel_
 
 ##### International Monetary Fund
 ### [Former International Monetary Fund head Dominique Strauss-Kahn goes on trial in France on pimping charges. ](/news/2015/02/2/former-international-monetary-fund-head-dominique-strauss-kahn-goes-on-trial-in-france-on-pimping-charges.md)
@@ -45,7 +45,7 @@ _Context: Tupelo, Mississippi, LaGrange, Georgia_
 
 ##### Iran
 ### [Iran successfully puts the Fajr satellite in orbit using a Safir-B1 rocket. ](/news/2015/02/2/iran-successfully-puts-the-fajr-satellite-in-orbit-using-a-safir-b1-rocket.md)
-_Context: Iran, Safir-B1, Fajr_
+_Context: Safir-B1, Fajr, Iran_
 
 ## [Previous Day...](/news/2015/02/1/index.md)
 

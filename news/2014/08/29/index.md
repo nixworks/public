@@ -33,7 +33,7 @@ _Context: Senegal, 2014 West Africa Ebola virus outbreak, Ebola virus_
 
 ##### British
 ### [The United Kingdom raises its terror threat level from "substantial" to "severe" in response to conflicts in Iraq and Syria. ](/news/2014/08/29/the-united-kingdom-raises-its-terror-threat-level-from-substantial-to-severe-in-response-to-conflicts-in-iraq-and-syria.md)
-_Context: Syria, terror threat level, British, Iraq_
+_Context: Syria, Iraq, terror threat level, British_
 
 ## [Previous Day...](/news/2014/08/28/index.md)
 

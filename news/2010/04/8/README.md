@@ -13,19 +13,19 @@ _Context: Sri Lanka, parliamentary election_
 
 ##### Pakistan
 ### [Pakistan adopts the 18th amendment to the Constitution, stripping President Asif Ali Zardari of key powers. ](/news/2010/04/8/pakistan-adopts-the-18th-amendment-to-the-constitution-stripping-president-asif-ali-zardari-of-key-powers.md)
-_Context: president, Pakistan, Asif Ali Zardari, Constitution_
+_Context: Asif Ali Zardari, president, Constitution, Pakistan_
 
 ##### Diyala Governorate
 ### [5 people are killed and 11 others are injured in separate attacks in Diyala and Nineveh. ](/news/2010/04/8/5-people-are-killed-and-11-others-are-injured-in-separate-attacks-in-diyala-and-nineveh.md)
-_Context: Diyala Governorate, Nineveh_
+_Context: Nineveh, Diyala Governorate_
 
-##### U.S.
+##### United States
 ### [United States President Barack Obama and Russian President Dmitry Medvedev sign a new arms reduction treaty that will cut both countries' arsenals by a third. ](/news/2010/04/8/united-states-president-barack-obama-and-russian-president-dmitry-medvedev-sign-a-new-arms-reduction-treaty-that-will-cut-both-countries-ar.md)
-_Context: U.S., Russia, Dmitry Medvedev, Russian President, Barack Obama, new arms reduction treaty, U.S. President_
+_Context: Russian President, Dmitry Medvedev, United States, new arms reduction treaty, Barack Obama, U.S. President, Russia_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu will send deputy prime-minister to a summit on nuclear weapons in the United States over concerns that Egypt and Turkey might shift the focus away from preventing militants from obtaining nuclear weapons by insisting that Israel sign the Nuclear Non-Proliferation Treaty (NPT). ](/news/2010/04/8/israeli-prime-minister-benjamin-netanyahu-will-send-deputy-prime-minister-to-a-summit-on-nuclear-weapons-in-the-united-states-over-concerns.md)
-_Context: Benjamin Netanyahu, Turkish, Israel, Nuclear Non-Proliferation Treaty, Israeli Prime Minister, U.S., Egypt_
+_Context: Benjamin Netanyahu, Israel, Nuclear Non-Proliferation Treaty, Israeli Prime Minister, United States, Egypt, Turkish_
 
 ##### Palestinian
 ### [A Palestinian teen reported to have been killed returns home safely. ](/news/2010/04/8/a-palestinian-teen-reported-to-have-been-killed-returns-home-safely.md)
@@ -33,11 +33,11 @@ _Context: Palestinian_
 
 ##### Lee R. Berger
 ### [Professor Lee R. Berger announces the discovery of a new hominid species, "Australopithecus sediba", believed to be an ancestor of either "Homo habilis" or "Homo erectus". ](/news/2010/04/8/professor-lee-r-berger-announces-the-discovery-of-a-new-hominid-species-australopithecus-sediba-believed-to-be-an-ancestor-of-either-h.md)
-_Context: Homo habilis, Australopithecus sediba, Lee R. Berger, Homo erectus_
+_Context: Lee R. Berger, Australopithecus sediba, Homo habilis, Homo erectus_
 
 ##### Bangladesh
 ### [The Bangladeshi army distributes drinking water among more than 12 million people in Dhaka as fears grow over the city's water crisis. ](/news/2010/04/8/the-bangladeshi-army-distributes-drinking-water-among-more-than-12-million-people-in-dhaka-as-fears-grow-over-the-city-s-water-crisis.md)
-_Context: Dhaka, Bangladesh_
+_Context: Bangladesh, Dhaka_
 
 ##### Edo State
 ### [More than 50 doctors in Edo State, Nigeria go on strike after a colleague is kidnapped by unidentified gunmen. ](/news/2010/04/8/more-than-50-doctors-in-edo-state-nigeria-go-on-strike-after-a-colleague-is-kidnapped-by-unidentified-gunmen.md)
@@ -45,11 +45,11 @@ _Context: Nigeria, Edo State_
 
 ##### mutinous soldiers
 ### [29 paramilitary troops are convicted of mutiny and imprisoned for up to seven years at a Bangladeshi tribunal. ](/news/2010/04/8/29-paramilitary-troops-are-convicted-of-mutiny-and-imprisoned-for-up-to-seven-years-at-a-bangladeshi-tribunal.md)
-_Context: Bangladesh, mutinous soldiers_
+_Context: mutinous soldiers, Bangladesh_
 
 ##### buried in their homes by a large landslide
 ### [The death toll in the storm which caused severe damage to Brazil's Rio de Janeiro metro area reaches 200. ](/news/2010/04/8/the-death-toll-in-the-storm-which-caused-severe-damage-to-brazil-s-rio-de-janeiro-metro-area-reaches-200.md)
-_Context: Brazil, buried in their homes by a large landslide, Rio de Janeiro_
+_Context: Brazil, Rio de Janeiro, buried in their homes by a large landslide_
 
 ##### London
 ### [Separation surgery is declared successful in London on the conjoined twins from Cork, Ireland, born on 2 December. ](/news/2010/04/8/separation-surgery-is-declared-successful-in-london-on-the-conjoined-twins-from-cork-ireland-born-on-2-december.md)

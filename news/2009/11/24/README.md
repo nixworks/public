@@ -9,7 +9,7 @@ _Context: Morocco, Casablanca, Chahib Khayari_
 
 ##### France
 ### [ Two French charity workers are kidnapped in the Central African Republic, in the latest in a series of kidnappings. ](/news/2009/11/24/two-french-charity-workers-are-kidnapped-in-the-central-african-republic-in-the-latest-in-a-series-of-kidnappings.md)
-_Context: France, Central African Republic_
+_Context: Central African Republic, France_
 
 ##### Netanya
 ### [ Four people are killed in a helicopter crash off the coast of Netanya in northern Israel. ](/news/2009/11/24/four-people-are-killed-in-a-helicopter-crash-off-the-coast-of-netanya-in-northern-israel.md)
@@ -23,13 +23,13 @@ Trade unions have announced plans for a second national strike in public sector 
 ### [ The Government of Ireland announces a EUR10 million humanitarian fund for the worst affected by ongoing floods in the country. ](/news/2009/11/24/the-government-of-ireland-announces-a-a-10-million-humanitarian-fund-for-the-worst-affected-by-ongoing-floods-in-the-country.md)
 The Government has announced a €10m humanitarian fund to help those worst affected by the worst flooding on record.
 
-##### U.S.
+##### United States
 ### [ Over 1,500 complaints are received from American viewers after a gay kiss involving Adam Lambert is televised during an awards ceremony. ](/news/2009/11/24/over-1-500-complaints-are-received-from-american-viewers-after-a-gay-kiss-involving-adam-lambert-is-televised-during-an-awards-ceremony.md)
-_Context: U.S., homosexual, Adam Lambert_
+_Context: United States, Adam Lambert, homosexual_
 
 ##### Iran
 ### [ Iran lifts a ban on one of its best-selling newspapers, "Hamshahri", a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-picture.md)
-_Context: Iran, Hamshahri, banned, Baha'i faith_
+_Context: Hamshahri, Baha'i faith, Iran, banned_
 
 ##### DR Congo
 ### [ The trial of two Congolese militia leaders, Germain Katanga and Mathieu Ngudjolo Chui, begins at the International Criminal Court in The Hague. ](/news/2009/11/24/the-trial-of-two-congolese-militia-leaders-germain-katanga-and-mathieu-ngudjolo-chui-begins-at-the-international-criminal-court-in-the-ha.md)
@@ -57,7 +57,7 @@ State media says two executed over tainted milk that sickened thousands in 2008.
 
 ##### Hindu
 ### [ In a tribute to Hindu goddess Gadhimai, approximately 20,000 buffalo and 300,000 birds, sheep and goats are ritually slaughtered in a festival in Bariyapur, Nepal. ](/news/2009/11/24/in-a-tribute-to-hindu-goddess-gadhimai-approximately-20-000-buffalo-and-300-000-birds-sheep-and-goats-are-ritually-slaughtered-in-a-festi.md)
-_Context: goddess, ritually slaughtered, Bariyapur, Nepal, Gadhimai, Hindu, festival_
+_Context: festival, ritually slaughtered, goddess, Bariyapur, Gadhimai, Nepal, Hindu_
 
 ##### Gloria Macapagal Arroyo
 ### [ Philippine President Gloria Macapagal Arroyo declares a state of emergency in the entire Maguindanao province in southern Philippines following the bloodiest election-related massacre in Philippine history which left at least 40 people dead, including a local politician and about a dozen journalists. ](/news/2009/11/24/philippine-president-gloria-macapagal-arroyo-declares-a-state-of-emergency-in-the-entire-maguindanao-province-in-southern-philippines-follo.md)
@@ -65,7 +65,7 @@ _Context: goddess, ritually slaughtered, Bariyapur, Nepal, Gadhimai, Hindu, fest
 
 ##### 2009 gubernatorial election and runoff
 ### [ In the Northern Mariana Islands' first ever runoff, incumbent Governor Benigno Fitial of the Covenant Party leads Republican Party Rep. Heinz Hofschneider by 501 votes. ](/news/2009/11/24/in-the-northern-mariana-islands-first-ever-runoff-incumbent-governor-benigno-fitial-of-the-covenant-party-leads-republican-party-rep-hei.md)
-_Context: Governor of the Northern Mariana Islands, Benigno Fitial, Republican, Covenant Party, second round, Northern Mariana Islands House of Representatives, Heinz Hofschneider, Northern Mariana Islands, 2009 gubernatorial election and runoff_
+_Context: Republican, Governor of the Northern Mariana Islands, Northern Mariana Islands House of Representatives, 2009 gubernatorial election and runoff, Benigno Fitial, second round, Heinz Hofschneider, Northern Mariana Islands, Covenant Party_
 
 ##### Opera
 ### [ Web browser Opera closes a loophole which allowed Chinese users to access websites banned by the government. ](/news/2009/11/24/web-browser-opera-closes-a-loophole-which-allowed-chinese-users-to-access-websites-banned-by-the-government.md)

@@ -9,11 +9,11 @@ Armed gunmen burst into a drug rehabilitation clinic in northern Mexico late on 
 
 ##### drone attack
 ### [A US drone attack kills at least 15 suspected militants in Pakistan's North Waziristan region. High ranked al-Qaeda official Abu Yahya al-Libi is killed in the attack. ](/news/2012/06/4/a-us-drone-attack-kills-at-least-15-suspected-militants-in-pakistan-s-north-waziristan-region-high-ranked-al-qaeda-official-abu-yahya-al-li.md)
-_Context: North Waziristan, Abu Yahya al-Libi, al-Qaeda, Pakistan, drone attack_
+_Context: drone attack, North Waziristan, Pakistan, Abu Yahya al-Libi, al-Qaeda_
 
 ##### car bomb
 ### [A car bomb explodes near Iraqi government offices in central Baghdad, killing at least 26 and injuring 190. Eight others are killed in additional attacks across the country. ](/news/2012/06/4/a-car-bomb-explodes-near-iraqi-government-offices-in-central-baghdad-killing-at-least-26-and-injuring-190-eight-others-are-killed-in-addit.md)
-_Context: Baghdad, car bomb, Government of Iraq_
+_Context: Government of Iraq, Baghdad, car bomb_
 
 ##### Myanmar
 ### [Buddhist vigilantes attack a bus in western Myanmar, killing nine Muslim passengers. ](/news/2012/06/4/buddhist-vigilantes-attack-a-bus-in-western-myanmar-killing-nine-muslim-passengers.md)
@@ -45,7 +45,7 @@ Police in Berlin arrest the Canadian porn actor wanted for the murder and dismem
 
 ##### parliament
 ### [The Parliament of Albania fails without a vote in the second round to elect the President of the Republic of Albania. ](/news/2012/06/4/the-parliament-of-albania-fails-without-a-vote-in-the-second-round-to-elect-the-president-of-the-republic-of-albania.md)
-_Context: President of Albania, elects, Republic of Albania, parliament_
+_Context: President of Albania, parliament, elects, Republic of Albania_
 
 ##### Prime Minister of Japan
 ### [The Prime Minister of Japan Yoshihiko Noda announces a Cabinet reshuffle following a split in the ruling Democratic Party of Japan. ](/news/2012/06/4/the-prime-minister-of-japan-yoshihiko-noda-announces-a-cabinet-reshuffle-following-a-split-in-the-ruling-democratic-party-of-japan.md)
@@ -55,7 +55,7 @@ Japanese Prime Minister Yoshihiko Noda reshuffled his Cabinet in an effort to wi
 ### [Indian cricketer Sachin Tendulkar is sworn in as a member of Parliament's upper house the Rajya Sabha. ](/news/2012/06/4/indian-cricketer-sachin-tendulkar-is-sworn-in-as-a-member-of-parliament-s-upper-house-the-rajya-sabha.md)
 _Context: Indians, Rajya Sabha, Sachin Tendulkar_
 
-##### Chinese
+##### China
 ### [China blocks Internet access to terms related to the Tiananmen Square protests of 1989 on the 23rd anniversary of the protests. ](/news/2012/06/4/china-blocks-internet-access-to-terms-related-to-the-tiananmen-square-protests-of-1989-on-the-23rd-anniversary-of-the-protests.md)
 Lee Wee and Ben Blanchard
 

@@ -5,39 +5,39 @@ Formats: [HTML](2009/11/9/index.html)  [JSON](2009/11/9/index.json)  [XML](2009/
 
 ##### Berlin Wall
 ### [ World leaders mark the twentieth anniversary of the Berlin Wall's fall, with the main celebrations taking place at the Brandenburg Gate. ](/news/2009/11/9/world-leaders-mark-the-twentieth-anniversary-of-the-berlin-wall-s-fall-with-the-main-celebrations-taking-place-at-the-brandenburg-gate.md)
-_Context: Brandenburg Gate, Berlin Wall_
+_Context: Berlin Wall, Brandenburg Gate_
 
 ##### Burma
 ### [ A senior Burmese diplomat says the military government will release Aung San Suu Kyi soon. ](/news/2009/11/9/a-senior-burmese-diplomat-says-the-military-government-will-release-aung-san-suu-kyi-soon.md)
-_Context: State Peace and Development Council, Burma, Aung San Suu Kyi_
+_Context: Burma, State Peace and Development Council, Aung San Suu Kyi_
 
 ##### Somali pirates
 ### [ Somali pirates attack a Hong Kong-flagged oil tanker with long range rocket-propelled grenades 1,000 miles east off the Somali coast in the Indian Ocean. ](/news/2009/11/9/somali-pirates-attack-a-hong-kong-flagged-oil-tanker-with-long-range-rocket-propelled-grenades-1-000-miles-east-off-the-somali-coast-in-the.md)
-_Context: rocket-propelled grenade, Somalia, oil tanker, Hong Kong, Somali pirates, Indian_
+_Context: Somali pirates, Somalia, oil tanker, rocket-propelled grenade, Indian, Hong Kong_
 
 ##### Lebanon
 ### [ Lebanese Prime Minister Saad Hariri announces the formation of a unity government with Hezbollah. ](/news/2009/11/9/lebanese-prime-minister-saad-hariri-announces-the-formation-of-a-unity-government-with-hezbollah.md)
-_Context: unity, Lebanon, Hezbollah, Saad Hariri, Prime Minister of Lebanon_
+_Context: Saad Hariri, Prime Minister of Lebanon, unity, Lebanon, Hezbollah_
 
 ##### 2009 gubernatorial election and runoff
 ### [ The Northern Mariana Islands election commission sets November 23 as the guberntorial runoff election between Governor Benigno Fitial and challenger Heinz Hofschneider. ](/news/2009/11/9/the-northern-mariana-islands-election-commission-sets-november-23-as-the-guberntorial-runoff-election-between-governor-benigno-fitial-and-c.md)
-_Context: Governor of the Northern Mariana Islands, runoff election, Benigno Fitial, Northern Mariana Islands, 2009 gubernatorial election and runoff, Heinz Hofschneider_
+_Context: Benigno Fitial, 2009 gubernatorial election and runoff, Governor of the Northern Mariana Islands, runoff election, Heinz Hofschneider, Northern Mariana Islands_
 
 ##### Iraq
 ### [ Iraq sets its next general election for January 21, 2010. ](/news/2009/11/9/iraq-sets-its-next-general-election-for-january-21-2010.md)
-_Context: next general election, Iraq_
+_Context: Iraq, next general election_
 
 ##### Gautrain
 ### [ A high speed rail link under construction, Gautrain, will not be ready for the 2010 FIFA World Cup in South Africa. ](/news/2009/11/9/a-high-speed-rail-link-under-construction-gautrain-will-not-be-ready-for-the-2010-fifa-world-cup-in-south-africa.md)
-_Context: 2010 FIFA World Cup, Gautrain, South Africa_
+_Context: 2010 FIFA World Cup, South Africa, Gautrain_
 
-##### U.S.
+##### United States
 ### [ Three American hikers detained on the border between Iraqi Kurdistan and Iran are to be charged for espionage by Iranian authorities. ](/news/2009/11/9/three-american-hikers-detained-on-the-border-between-iraqi-kurdistan-and-iran-are-to-be-charged-for-espionage-by-iranian-authorities.md)
 Iran&#039;s judiciary indicated yesterday that three young American trekkers who apparently blundered into Iran from neighbouring Iraq in July and who have been in custody since are to be tried for espionage.
 
 ##### Houthi
 ### [ Houthi fighters in Yemen say Saudi Arabia is using phosphorus bombs against them. ](/news/2009/11/9/houthi-fighters-in-yemen-say-saudi-arabia-is-using-phosphorus-bombs-against-them.md)
-_Context: Saudi Arabia, phosphorus bomb, Houthi, Yemen_
+_Context: Houthi, phosphorus bomb, Yemen, Saudi Arabia_
 
 ##### Uyghur
 ### [ In China eight ethnic Uyghurs and one Han are executed for their role in the Urumqi riots in July, in the first executions to take place. ](/news/2009/11/9/in-china-eight-ethnic-uyghurs-and-one-han-are-executed-for-their-role-in-the-urumqi-riots-in-july-in-the-first-executions-to-take-place.md)
@@ -45,7 +45,7 @@ Clashes between ethnic Uighurs and Han Chinese in western China left more than 2
 
 ##### Movement for Democratic Change
 ### [ MDC official Roy Bennett's trial on terrorism charges begins in Zimbabwe. ](/news/2009/11/9/mdc-official-roy-bennett-s-trial-on-terrorism-charges-begins-in-zimbabwe.md)
-_Context: Zimbabwe, Movement for Democratic Change, Roy Bennett_
+_Context: Roy Bennett, Zimbabwe, Movement for Democratic Change_
 
 ##### El Salvador
 ### [ The death toll in El Salvador's floods and mudslides reaches 140. ](/news/2009/11/9/the-death-toll-in-el-salvador-s-floods-and-mudslides-reaches-140.md)
@@ -57,7 +57,7 @@ Tawang (Arunachal Pradesh): Tibetan spiritual leader the Dalai Lama on Monday ca
 
 ##### Downing Street
 ### [ Downing Street defends Prime Minister Gordon Brown's habits after the mother of a soldier killed in Afghanistan labels a misspelled letter she received from him as a "hastily scrawled insult". ](/news/2009/11/9/downing-street-defends-prime-minister-gordon-brown-s-habits-after-the-mother-of-a-soldier-killed-in-afghanistan-labels-a-misspelled-letter.md)
-_Context: Gordon Brown, Prime Minister, Afghanistan, Downing Street_
+_Context: Gordon Brown, Downing Street, Prime Minister, Afghanistan_
 
 ##### Jason Somerville
 ### [ "House of Horrors" murderer Jason Somerville pleads guilty to strangling his wife Rebecca Somerville and neighbour Tisha Lowry before having sex with their corpses in Christchurch, New Zealand. ](/news/2009/11/9/house-of-horrors-murderer-jason-somerville-pleads-guilty-to-strangling-his-wife-rebecca-somerville-and-neighbour-tisha-lowry-before-havin.md)
@@ -69,7 +69,7 @@ The private train North Korean leader Kim Jong-il uses on his trips either withi
 
 ##### Connecticut
 ### [ Connecticut Governor Jodi Rell announces that she will not seek re-election in 2010. ](/news/2009/11/9/connecticut-governor-jodi-rell-announces-that-she-will-not-seek-re-election-in-2010.md)
-_Context: re-election in 2010, Connecticut, Governor, Jodi Rell_
+_Context: Jodi Rell, re-election in 2010, Connecticut, Governor_
 
 ## [Previous Day...](/news/2009/11/8/index.md)
 

@@ -5,19 +5,19 @@ Formats: [HTML](2015/06/13/index.html)  [JSON](2015/06/13/index.json)  [XML](201
 
 ##### War in Afghanistan
 ### [The Taliban kill 20 policemen in an attack in Helmand, Afghanistan. ](/news/2015/06/13/the-taliban-kill-20-policemen-in-an-attack-in-helmand-afghanistan.md)
-_Context: War in Afghanistan, Helmand, Taliban, Afghanistan_
+_Context: Helmand, Taliban, War in Afghanistan, Afghanistan_
 
 ##### Syrian Civil War
 ### [Some 13,000 refugees have crossed into Turkey as Syrian Kurd People's Protection Units encircle the ISIL-held town of Suluk. ](/news/2015/06/13/some-13-000-refugees-have-crossed-into-turkey-as-syrian-kurd-people-s-protection-units-encircle-the-isil-held-town-of-suluk.md)
-_Context: Syrian Civil War, Suluk, Turkish, Islamic State in Iraq and the Levant, YPG, Syria, Kurd_
+_Context: YPG, Suluk, Syrian Civil War, Islamic State in Iraq and the Levant, Turkish, Syria, Kurd_
 
 ##### War on Terror
 ### [An American air strike targeting jihadist Mokhtar Belmokhtar in Libya reportedly kills him. ](/news/2015/06/13/an-american-air-strike-targeting-jihadist-mokhtar-belmokhtar-in-libya-reportedly-kills-him.md)
-_Context: Libya, War on Terror, Mokhtar Belmokhtar_
+_Context: War on Terror, Libya, Mokhtar Belmokhtar_
 
 ##### trooping the colour
 ### [The trooping the colour ceremony is held in London to celebrate the Queen's Official Birthday while singer Van Morrison and American actor Kevin Spacey are given knighthoods at the Birthday Honours. ](/news/2015/06/13/the-trooping-the-colour-ceremony-is-held-in-london-to-celebrate-the-queen-s-official-birthday-while-singer-van-morrison-and-american-actor-k.md)
-_Context: trooping the colour, Queen's Official Birthday, Birthday Honours, Van Morrison, Kevin Spacey, London_
+_Context: trooping the colour, London, Birthday Honours, Queen's Official Birthday, Kevin Spacey, Van Morrison_
 
 ##### wedding of Prince Carl Philip, Duke of Vrmland, and Sofia Hellqvist
 ### [The wedding of Prince Carl Philip, Duke of Vrmland, and Sofia Hellqvist takes place in Stockholm. ](/news/2015/06/13/the-wedding-of-prince-carl-philip-duke-of-varmland-and-sofia-hellqvist-takes-place-in-stockholm.md)
@@ -49,7 +49,7 @@ Italian police moved in Saturday to disperse around 200 migrants who were stagin
 
 ##### opens fire
 ### [A man opens fire at policemen outside the police headquarters in the Texan city of Dallas, while a bag containing a pipe bomb is also found. He was later shot dead by police snipers following a car chase and standoff. ](/news/2015/06/13/a-man-opens-fire-at-policemen-outside-the-police-headquarters-in-the-texan-city-of-dallas-while-a-bag-containing-a-pipe-bomb-is-also-found.md)
-_Context: Dallas, Texas, police, opens fire, pipe bomb_
+_Context: pipe bomb, opens fire, Texas, police, Dallas_
 
 ##### Skopje
 ### [Thousands of people protest in Skopje demanding the resignation of the Prime Minister of Macedonia Nikola Gruevski. ](/news/2015/06/13/thousands-of-people-protest-in-skopje-demanding-the-resignation-of-the-prime-minister-of-macedonia-nikola-gruevski.md)

@@ -37,7 +37,7 @@ A New York businesswoman who wanted to bring a &quot;grander scale&quot; to her 
 
 ##### Karowe AK6
 ### [The world's second-largest diamond of gem quality, Karowe AK6, is found in the Karowe mine located north of the Botswanan capital Gaborone by the Lucara Diamond Corp. The 1,111-carat diamond is second only to the 3,106-carat Cullinan diamond (Star of Africa) found in South Africa in 1905. ](/news/2015/11/20/the-worldas-second-largest-diamond-of-gem-quality-karowe-ak6-is-found-in-the-karowe-mine-located-north-of-the-botswanan-capital-gaborone.md)
-_Context: Botswana, Karowe AK6, Gaborone, Cullinan diamond, South Africa, Lucara Diamond Corp._
+_Context: Cullinan diamond, Lucara Diamond Corp., Gaborone, Karowe AK6, Botswana, South Africa_
 
 ##### National Union of Journalists
 ### [Britain's National Union of Journalists announces a strike against the "Financial Times", protesting the changes in pension arrangements since the acquisition of the FT by a Japanese media group, Nikkei. ](/news/2015/11/20/britain-s-national-union-of-journalists-announces-a-strike-against-the-financial-times-protesting-the-changes-in-pension-arrangements-sin.md)
@@ -49,7 +49,7 @@ EU ministers hold emergency talks today on tightening border checks after the ki
 
 ##### North Korea-South Korea relations
 ### [North Korea and South Korea agree to hold talks next week. ](/news/2015/11/20/north-korea-and-south-korea-agree-to-hold-talks-next-week.md)
-_Context: North Korea, North Korea-South Korea relations, South Korea_
+_Context: North Korea-South Korea relations, South Korea, North Korea_
 
 ##### Sweden
 ### [Sweden's national security service "Sapo" are questioning terrorist suspect Moder Mothama Magid, a 22-year-old Iraqi, who is accused of planning to launch a terror attack on the Swedish capital Stockholm. ](/news/2015/11/20/sweden-s-national-security-service-sa-po-are-questioning-terrorist-suspect-moder-mothama-magid-a-22-year-old-iraqi-who-is-accused-of-pla.md)
@@ -63,11 +63,11 @@ Swedish diplomat who saved thousands of Jews during the Holocaust disappeared in
 ### [The United States releases on parole convicted Israeli spy Jonathan Pollard, a former U.S. intelligence analyst, who served 30 years in federal prison. His parole, approved on July 28, 2015, is for five years during which time he has to remain in the United States. A supporter said Pollard will have a curfew and will wear a GPS unit. ](/news/2015/11/20/the-united-states-releases-on-parole-convicted-israeli-spy-jonathan-pollard-a-former-u-s-intelligence-analyst-who-served-30-years-in-fede.md)
 Jonathan Pollard to be paroled on Friday, but won’t be able to travel or use the Internet
 
-##### U.S. Justice Department
+##### DoJ
 ### [The U.S. Justice Department files criminal charges against three individuals and three companies--Black Elk, Grand Isle Shipyard and oil field services company Wood Group--in connection with a 2012 oil platform incident in the Gulf of Mexico that left three workers dead. The charges range from manslaughter to violations of the federal Clean Water Act. ](/news/2015/11/20/the-u-s-justice-department-files-criminal-charges-against-three-individuals-and-three-companies-black-elk-grand-isle-shipyard-and-oil-fie.md)
 The U.S. Justice Department said it filed criminal charges in response to a 2012 oil platform incident in the Gulf of Mexico that left three workers dead.
 
-##### U.S. Justice Department
+##### DoJ
 ### [USPlabs and S.K. Laboratory are indicted following a U.S. Department of Justice investigation finds synthetic ingredients manufactured in China were added to workout boosters and weight-loss products the firms claimed to be natural. Supplements from these companies were previously implicated in consumer illnesses and death. Several other defendants from the companies face additional charges. ](/news/2015/11/20/usplabs-and-s-k-laboratory-are-indicted-following-a-u-s-department-of-justice-investigation-finds-synthetic-ingredients-manufactured-in-ch.md)
 The makers of dietary supplements Jack3d and OxyElite Pro face criminal charges following a Justice Department investigation that alleges key ingredients in thwere made in a Chinese laboratory rather than extracted from natural ingredients as claimed
 
@@ -81,7 +81,7 @@ NASA has officially ordered its first commercial crew mission from private space
 
 ##### Apple Inc.
 ### [A jury in a Texas federal court finds for Apple Inc., in a lawsuit brought against Apple by a subsidiary of Pendrell Corporation. Pendrell has charged that Apple infringed patents on techniques that help restrict the use of web content to authorized persons, i.e. anti-piracy software. ](/news/2015/11/20/a-jury-in-a-texas-federal-court-finds-for-apple-inc-in-a-lawsuit-brought-against-apple-by-a-subsidiary-of-pendrell-corporation-pendrell-h.md)
-_Context: Apple Inc., anti-piracy, Pendrell Corporation_
+_Context: Pendrell Corporation, anti-piracy, Apple Inc._
 
 ## [Previous Day...](/news/2015/11/19/index.md)
 

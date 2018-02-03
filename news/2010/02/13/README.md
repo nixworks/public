@@ -5,11 +5,11 @@ Formats: [HTML](2010/02/13/index.html)  [JSON](2010/02/13/index.json)  [XML](201
 
 ##### U Tin Oo
 ### [U Tin Oo, the Vice-Chairman of the National League for Democracy was released today in Yangon, the largest city in Myanmar, after the expiration of his term of house arrest. ](/news/2010/02/13/u-tin-oo-the-vice-chairman-of-the-national-league-for-democracy-was-released-today-in-yangon-the-largest-city-in-myanmar-after-the-expira.md)
-_Context: National League for Democracy, Myanmar, Yangon, U Tin Oo_
+_Context: National League for Democracy, Yangon, U Tin Oo, Myanmar_
 
 ##### Cyclone Rene
 ### [Cyclone Rene approaches Manu'a at full force winds of 150 kilometres an hour. ](/news/2010/02/13/cyclone-rene-approaches-manu-a-at-full-force-winds-of-150-kilometres-an-hour.md)
-_Context: Cyclone Rene, Manu'a_
+_Context: Manu'a, Cyclone Rene_
 
 ##### 2010 Pune bombing
 ### [A suspected terrorist attack in the western Indian city of Pune kills 9 people and injures more than 45 others. ](/news/2010/02/13/a-suspected-terrorist-attack-in-the-western-indian-city-of-pune-kills-9-people-and-injures-more-than-45-others.md)
@@ -37,7 +37,7 @@ Neo-Nazis and leftists hold competing rallies marking 65th anniversary of Dresde
 
 ##### Kenya
 ### [Kenyan President Mwai Kibaki demands eight senior officials to resign due to corruption scandals in the education ministry and a maize scandal. ](/news/2010/02/13/kenyan-president-mwai-kibaki-demands-eight-senior-officials-to-resign-due-to-corruption-scandals-in-the-education-ministry-and-a-maize-scand.md)
-_Context: Kenya, maize, president, Mwai Kibaki_
+_Context: president, maize, Mwai Kibaki, Kenya_
 
 ##### NATO
 ### [NATO forces in Afghanistan launch Operation Moshtarak against the Taliban-controlled village of Marja in Helmand Province. ](/news/2010/02/13/nato-forces-in-afghanistan-launch-operation-moshtarak-against-the-taliban-controlled-village-of-marja-in-helmand-province.md)

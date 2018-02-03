@@ -17,13 +17,13 @@ Al Shabaab fighters attacked a remote Somali army base and entered a nearby town
 
 ##### Syrian Civil War
 ### [UNICEF confirms severe malnutrition in the besieged Syrian town of Madaya. Russia calls for humanitarian aid to be let into besieged towns like Madaya, Fua and Kafraya. ](/news/2016/01/15/unicef-confirms-severe-malnutrition-in-the-besieged-syrian-town-of-madaya-russia-calls-for-humanitarian-aid-to-be-let-into-besieged-towns-l.md)
-_Context: Al-Fu'ah, Syrian Civil War, Madaya, UNICEF, Russia, malnutrition, Syria, Kafraya_
+_Context: UNICEF, malnutrition, Syria, Syrian Civil War, Madaya, Al-Fu'ah, Kafraya, Russia_
 
 ##### Wikipedia
 ### [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md)
 _Context: Wikipedia_
 
-##### Chinese
+##### China
 ### [China's Haier Group buys General Electric's appliance unit for $5.4 billion. ](/news/2016/01/15/china-s-haier-group-buys-general-electric-s-appliance-unit-for-5-4-billion.md)
 China’s Haier Group agreed to buy General Electric Co.’s appliance business for $5.4 billion in the country’s biggest acquisition of an overseas electronics company.
 
@@ -33,7 +33,7 @@ At least 14 people were killed after a bus carrying skiers flipped over a guardr
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Alex heads towards the Azores with hurricane warnings in place for several islands. ](/news/2016/01/15/hurricane-alex-heads-towards-the-azores-with-hurricane-warnings-in-place-for-several-islands.md)
-_Context: Azores, Hurricane Alex, 2016 Atlantic hurricane season_
+_Context: 2016 Atlantic hurricane season, Hurricane Alex, Azores_
 
 ##### Udhampur district
 ### [Twelve people are feared dead following a road accident in the Udhampur district of India's Jammu and Kashmir state. ](/news/2016/01/15/twelve-people-are-feared-dead-following-a-road-accident-in-the-udhampur-district-of-india-s-jammu-and-kashmir-state.md)
@@ -85,11 +85,11 @@ _Context: Turkish, PKK rebellion (2015-present), Turkish, Kurdistan Workers Part
 
 ##### Anti-corruption campaign in China
 ### [Wei Hong, Governor of Sichuan province, is announced to be under investigation for "breaching discipline" by the Central Commission for Discipline Inspection. ](/news/2016/01/15/wei-hong-governor-of-sichuan-province-is-announced-to-be-under-investigation-for-breaching-discipline-by-the-central-commission-for-disc.md)
-_Context: Wei Hong, Sichuan, Central Commission for Discipline Inspection, Anti-corruption campaign in China_
+_Context: Wei Hong, Sichuan, Anti-corruption campaign in China, Central Commission for Discipline Inspection_
 
 ##### Azerbaijan
 ### [Azerbaijani National Police use tear gas and water cannons to forcibly disperse protesters in the Quba District who were protesting the country's worsening economic situation, resulting in scores being arrested. ](/news/2016/01/15/azerbaijani-national-police-use-tear-gas-and-water-cannons-to-forcibly-disperse-protesters-in-the-quba-district-who-were-protesting-the-coun.md)
-_Context: National Police, Azerbaijan,  Quba District_
+_Context: Azerbaijan, National Police,  Quba District_
 
 ## [Previous Day...](/news/2016/01/14/index.md)
 

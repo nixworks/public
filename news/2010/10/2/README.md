@@ -21,7 +21,7 @@ Hundreds of thousands of people across France take part in the third day of demo
 
 ##### Chang'an
 ### [A four-story residential building under construction collapsed Saturday morning in Chang'an District of Xi'an City, northwest China's Shaanxi Province, killing eight workers and injuring three. ](/news/2010/10/2/a-four-story-residential-building-under-construction-collapsed-saturday-morning-in-chang-an-district-of-xi-an-city-northwest-china-s-shaanx.md)
-_Context: Shaanxi, Chang'an, Xi'an City_
+_Context: Shaanxi, Xi'an City, Chang'an_
 
 ##### Indonesia
 ### [In Indonesia, two trains are involved in a rear-end collision at Petarukan, killing 43 and injuring 50. Another train crash at Solo kills one person. ](/news/2010/10/2/in-indonesia-two-trains-are-involved-in-a-rear-end-collision-at-petarukan-killing-43-and-injuring-50-another-train-crash-at-solo-kills-on.md)
@@ -37,7 +37,7 @@ The British architect Zaha Hadid has finally won the RIBA Stirling Prize on her 
 
 ##### 60th edition
 ### [The 60th Miss World 2010 pageant begins as the last delegates from 120 nations worldwide arrive in China. ](/news/2010/10/2/the-60th-miss-world-2010-pageant-begins-as-the-last-delegates-from-120-nations-worldwide-arrive-in-china.md)
-_Context: 60th edition, Chinese_
+_Context: China, 60th edition_
 
 ##### 10:10
 ### [A film produced for the 10:10 campaign in which a teacher explodes two of her students is withdrawn due to complaints and an apology is issued. ](/news/2010/10/2/a-film-produced-for-the-10-10-campaign-in-which-a-teacher-explodes-two-of-her-students-is-withdrawn-due-to-complaints-and-an-apology-is-issu.md)
@@ -49,7 +49,7 @@ Paris Hilton is headed back to television -- this time in what is billed as a be
 
 ##### Palestinian Authority
 ### [Palestinian President Mahmoud Abbas tells that peace negotiations will not continue until Israel makes a new settlement freeze on the West Bank, ending the current Israel-Palestine peace negotiations after just one month, though maintaining contacts with the United States. ](/news/2010/10/2/palestinian-president-mahmoud-abbas-tells-that-peace-negotiations-will-not-continue-until-israel-makes-a-new-settlement-freeze-on-the-west-b.md)
-_Context: peace talks, West Bank, Palestinian Authority, Israel, Mahmoud Abbas, U.S., Palestinian Authority President_
+_Context: peace talks, Israel, West Bank, Palestinian Authority President, United States, Palestinian Authority, Mahmoud Abbas_
 
 ##### Sweden
 ### [Sweden raises its threat level in response to reports that the country could be targeted by terrorists. ](/news/2010/10/2/sweden-raises-its-threat-level-in-response-to-reports-that-the-country-could-be-targeted-by-terrorists.md)
@@ -81,7 +81,7 @@ A report on the second Lisbon Treaty has been published suggesting the reasons t
 
 ##### Kwa Geok Choo
 ### [Kwa Geok Choo, wife of first Prime Minister of Singapore Lee Kuan Yew and mother of current prime minister Lee Hsien Loong, dies at home. ](/news/2010/10/2/kwa-geok-choo-wife-of-first-prime-minister-of-singapore-lee-kuan-yew-and-mother-of-current-prime-minister-lee-hsien-loong-dies-at-home.md)
-_Context: Lee Kuan Yew, Prime Minister of Singapore, Kwa Geok Choo, Lee Hsien Loong_
+_Context: Prime Minister of Singapore, Kwa Geok Choo, Lee Hsien Loong, Lee Kuan Yew_
 
 ##### Washington, D.C.
 ### [Thousands of people rally in Washington, D.C., calling for improved civil rights in the country. ](/news/2010/10/2/thousands-of-people-rally-in-washington-d-c-calling-for-improved-civil-rights-in-the-country.md)

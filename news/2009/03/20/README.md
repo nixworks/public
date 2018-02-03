@@ -3,9 +3,9 @@ Formats: [HTML](2009/03/20/index.html)  [JSON](2009/03/20/index.json)  [XML](200
 
 ## [2009-03-20](/news/2009/03/20/index.md)
 
-##### U.S.
+##### United States
 ### [ The United States Navy's USS "Hartford" and USS "New Orleans" collide in the Strait of Hormuz. ](/news/2009/03/20/the-united-states-navy-s-uss-hartford-and-uss-new-orleans-collide-in-the-strait-of-hormuz.md)
-_Context: USS ''Hartford'', U.S., United States Navy, Strait of Hormuz, USS ''New Orleans'', collide_
+_Context: collide, USS ''Hartford'', USS ''New Orleans'', United States, Strait of Hormuz, United States Navy_
 
 ##### Somalia
 ### [ Somali pirates hijack the Greek cargo ship MV "Titan". ](/news/2009/03/20/somali-pirates-hijack-the-greek-cargo-ship-mv-titan.md)
@@ -17,7 +17,7 @@ A homemade bomb exploded in a central Athens avenue late on Thursday, causing se
 
 ##### Fermi National Accelerator Laboratory
 ### [ The Fermi National Accelerator Laboratory discovers Y(4140), a new subatomic particle. ](/news/2009/03/20/the-fermi-national-accelerator-laboratory-discovers-y-4140-a-new-subatomic-particle.md)
-_Context: Fermi National Accelerator Laboratory, subatomic particle, Y(4140)_
+_Context: Fermi National Accelerator Laboratory, Y(4140), subatomic particle_
 
 ## [Previous Day...](/news/2009/03/19/index.md)
 

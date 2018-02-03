@@ -21,19 +21,19 @@ At least six people are killed and 15 injured in a suicide bomb attack on the to
 
 ##### Pakistan Navy
 ### [At least 2 people are killed when a bomb explodes on a Pakistan Navy bus taking employees to work in Karachi. ](/news/2011/04/28/at-least-2-people-are-killed-when-a-bomb-explodes-on-a-pakistan-navy-bus-taking-employees-to-work-in-karachi.md)
-_Context: Karachi, Pakistan Navy_
+_Context: Pakistan Navy, Karachi_
 
 ##### Uganda
 ### [Protesters riot in the Ugandan capital, Kampala, after the arrest of the opposition leader, Kizza Besigye for the fourth time in two weeks. ](/news/2011/04/28/protesters-riot-in-the-ugandan-capital-kampala-after-the-arrest-of-the-opposition-leader-kizza-besigye-for-the-fourth-time-in-two-weeks.md)
-_Context: Uganda, Kizza Besigye, Kampala_
+_Context: Kampala, Kizza Besigye, Uganda_
 
 ##### Thailand
 ### [Thailand announces that it will send more troops to its border with Cambodia after a seventh day of fighting near the disputed Preah Vihear Temple that has killed 15 people. ](/news/2011/04/28/thailand-announces-that-it-will-send-more-troops-to-its-border-with-cambodia-after-a-seventh-day-of-fighting-near-the-disputed-preah-vihear.md)
-_Context: Preah Vihear Temple, Cambodia, Thailand_
+_Context: Preah Vihear Temple, Thailand, Cambodia_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama nominates General David Petraeus, current head of the war on Afghanistan, as his new CIA chief, and names outgoing CIA chief Leon Panetta as head of The Pentagon. ](/news/2011/04/28/u-s-president-barack-obama-nominates-general-david-petraeus-current-head-of-the-war-on-afghanistan-as-his-new-cia-chief-and-names-outgoi.md)
-_Context: Leon Panetta, War in Afghanistan (2001-present), Barack Obama, General, United States military, Director of the CIA, David Petraeus_
+_Context: David Petraeus, Director of the CIA, Leon Panetta, War in Afghanistan (2001-present), United States military, Barack Obama, General_
 
 ##### Wal-Mart
 ### [U.S. retail giant Wal-Mart vows increased sales of weapons, including rifles and shotguns. ](/news/2011/04/28/u-s-retail-giant-wal-mart-vows-increased-sales-of-weapons-including-rifles-and-shotguns.md)
@@ -49,7 +49,7 @@ _Context: Omar al-Bashir, South Sudan, Abyei_
 
 ##### Japan
 ### [Japan's industrial output declined by a record level of 15.3% in March due to the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/28/japan-s-industrial-output-declined-by-a-record-level-of-15-3-in-march-due-to-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japan, 2011 Tohoku earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan_
 
 ##### Panasonic Corporation
 ### [Panasonic Corporation will announce cuts to 40,000 jobs according to reports. ](/news/2011/04/28/panasonic-corporation-will-announce-cuts-to-40-000-jobs-according-to-reports.md)

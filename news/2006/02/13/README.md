@@ -5,7 +5,7 @@ Formats: [HTML](2006/02/13/index.html)  [JSON](2006/02/13/index.json)  [XML](200
 
 ##### Kenya
 ### [ In a televised address to the nation, Kenyan President Mwai Kibaki announces the resignations of two government ministers in connection with two separate corruption scandals, the "Goldenberg" and "Anglo Leasing" affairs. Energy minister Kiraitu Murungi and education minister George Saitoti both deny any wrongdoing. ](/news/2006/02/13/in-a-televised-address-to-the-nation-kenyan-president-mwai-kibaki-announces-the-resignations-of-two-government-ministers-in-connection-wit.md)
-_Context: Anglo Leasing affair, Kenya, biggest fraud, Mwai Kibaki, Kiraitu Murungi, George Saitoti_
+_Context: Mwai Kibaki, Kenya, Anglo Leasing affair, George Saitoti, Kiraitu Murungi, biggest fraud_
 
 ##### Baghdad
 ### [ In Baghdad, a suicide bomber detonates an explosive belt in a line of people waiting to receive government payments, killing at least eight other people and wounding about 30, including children and police. ](/news/2006/02/13/in-baghdad-a-suicide-bomber-detonates-an-explosive-belt-in-a-line-of-people-waiting-to-receive-government-payments-killing-at-least-eight.md)
@@ -21,7 +21,7 @@ _Context: Lavaka Ata 'Ulukalala, Tonga, Feleti Sevele_
 
 ##### Renae Lawrence
 ### [ Australian Renae Lawrence, 28, the only female member of the Bali Nine group arrested in 2005, and fellow accused Scott Rush, 19, are convicted in Indonesia of attempting to import heroin to Australia and sentenced to life imprisonment. ](/news/2006/02/13/australian-renae-lawrence-28-the-only-female-member-of-the-bali-nine-group-arrested-in-2005-and-fellow-accused-scott-rush-19-are-convi.md)
-_Context: Scott Rush, Bali Nine, life imprisonment, Renae Lawrence_
+_Context: life imprisonment, Renae Lawrence, Scott Rush, Bali Nine_
 
 ## [Previous Day...](/news/2006/02/12/index.md)
 

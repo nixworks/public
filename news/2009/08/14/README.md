@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/14/index.html)  [JSON](2009/08/14/index.json)  [XML](200
 
 ##### Pakistan
 ### [ Pakistan begins its first international freight train service from Islamabad to Istanbul. ](/news/2009/08/14/pakistan-begins-its-first-international-freight-train-service-from-islamabad-to-istanbul.md)
-_Context: Islamabad, Pakistan, Istanbul_
+_Context: Pakistan, Istanbul, Islamabad_
 
 ##### Caracas
 ### [ Hundreds of people protest in Caracas, Venezuela, after journalists protesting a new education law were beaten the previous day. ](/news/2009/08/14/hundreds-of-people-protest-in-caracas-venezuela-after-journalists-protesting-a-new-education-law-were-beaten-the-previous-day.md)
@@ -33,7 +33,7 @@ Paraguay&#039;s government withdrew a bill that would approve the incorporation 
 
 ##### Sudan
 ### [ In an unexpected move, Sudanese President Omar al-Bashir replaces Salah Gosh, his country's chief of security and intelligence since the mid-1990s, with General Mohamed Atta al-Mawla. ](/news/2009/08/14/in-an-unexpected-move-sudanese-president-omar-al-bashir-replaces-salah-gosh-his-country-s-chief-of-security-and-intelligence-since-the-mi.md)
-_Context: General, Mohamed Atta al-Mawla, Salah Gosh, President, Sudan, Omar al-Bashir_
+_Context: Sudan, Mohamed Atta al-Mawla, Omar al-Bashir, Salah Gosh, General, President_
 
 ##### Poland
 ### [ The remains of over 2,000 people discovered in Poland's largest mass grave from World War II are reburied in a military cemetery. ](/news/2009/08/14/the-remains-of-over-2-000-people-discovered-in-poland-s-largest-mass-grave-from-world-war-ii-are-reburied-in-a-military-cemetery.md)
@@ -65,19 +65,19 @@ Lawyers for the Lockerbie bomber say he is abandoning his second appeal against 
 
 ##### British
 ### [ The United Kingdom imposes direct rule on the Turks and Caicos Islands after an inquiry found evidence of government corruption. ](/news/2009/08/14/the-united-kingdom-imposes-direct-rule-on-the-turks-and-caicos-islands-after-an-inquiry-found-evidence-of-government-corruption.md)
-_Context: British, direct rule, government, Turks and Caicos Islands_
+_Context: Turks and Caicos Islands, government, British, direct rule_
 
 ##### Gaza Strip
 ### [ At least 13 people are killed and at least 85 are injured in a fierce gun battle in Gaza. ](/news/2009/08/14/at-least-13-people-are-killed-and-at-least-85-are-injured-in-a-fierce-gun-battle-in-gaza.md)
 _Context: Gaza Strip_
 
-##### U.S.
+##### United States
 ### [ United States senator Jim Webb arrives in Burma for talks with General Than Shwe. ](/news/2009/08/14/united-states-senator-jim-webb-arrives-in-burma-for-talks-with-general-than-shwe.md)
-_Context: Than Shwe, Jim Webb, Burma, U.S._
+_Context: Jim Webb, Burma, United States, Than Shwe_
 
 ##### University of Glasgow
 ### [ A University of Glasgow study suggests Asians may view faces differently from others. ](/news/2009/08/14/a-university-of-glasgow-study-suggests-asians-may-view-faces-differently-from-others.md)
-_Context: Asia, University of Glasgow_
+_Context: University of Glasgow, Asia_
 
 ## [Previous Day...](/news/2009/08/13/index.md)
 

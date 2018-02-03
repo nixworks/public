@@ -17,7 +17,7 @@ South Korea holds live-firing exercises on an island close to the border with No
 
 ##### Taliban
 ### [13 Afghan soldiers were killed in two separate suicide attacks launched by Taliban in the capital city of Afghanistan. ](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.md)
-_Context: Taliban, Afghanistan, Kabul_
+_Context: Kabul, Afghanistan, Taliban_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI discusses sexual abuse of children by priests while dining with cardinals and bishops at his traditional Christmas audience. ](/news/2010/12/20/pope-benedict-xvi-discusses-sexual-abuse-of-children-by-priests-while-dining-with-cardinals-and-bishops-at-his-traditional-christmas-audienc.md)
@@ -25,7 +25,7 @@ Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed 
 
 ##### Social network
 ### [Social network chief Mark Zuckerberg is photographed meeting CEO of Chinese search engine Baidu Robin Li, in Beijing, China. ](/news/2010/12/20/social-network-chief-mark-zuckerberg-is-photographed-meeting-ceo-of-chinese-search-engine-baidu-robin-li-in-beijing-china.md)
-_Context: Mark Zuckerberg, Baidu, Social network, Beijing, Robin Li, search engine_
+_Context: Social network, Robin Li, Mark Zuckerberg, search engine, Baidu, Beijing_
 
 ##### European Central Bank
 ### [The European Central Bank worries about its ability to provide further financial assistance to eurozone members due to flawed legislation. ](/news/2010/12/20/the-european-central-bank-worries-about-its-ability-to-provide-further-financial-assistance-to-eurozone-members-due-to-flawed-legislation.md)
@@ -49,7 +49,7 @@ _Context: Thailand, Malaysia_
 
 ##### Nairobi
 ### [Three people were killed and 23 wounded in a bomb attack on a bus in central Nairobi, Kenya. ](/news/2010/12/20/three-people-were-killed-and-23-wounded-in-a-bomb-attack-on-a-bus-in-central-nairobi-kenya.md)
-_Context: Kenya, Nairobi_
+_Context: Nairobi, Kenya_
 
 ##### earthquake
 ### [A 6.5 magnitude earthquake hits southeastern Iran, near Bam with at least eleven people dead and hundreds injured. ](/news/2010/12/20/a-6-5-magnitude-earthquake-hits-southeastern-iran-near-bam-with-at-least-eleven-people-dead-and-hundreds-injured.md)
@@ -61,7 +61,7 @@ Russian President Dimitry Medvedev arrives in India on Tuesday to secure nuclear
 
 ##### North Korea
 ### [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md)
-_Context: Bill Richardson, IAEA, North Korea, U.S., United Nations_
+_Context: United Nations, North Korea, IAEA, Bill Richardson, United States_
 
 ##### Israel
 ### [Israel orders all of their foreign envoys to thwart Palestinian attempts to draft a UN resolution with the aims of recognition of Palestinian and to pressure Israel to stop settling its citizens within Palestine. ](/news/2010/12/20/israel-orders-all-of-their-foreign-envoys-to-thwart-palestinian-attempts-to-draft-a-un-resolution-with-the-aims-of-recognition-of-palestinia.md)
@@ -81,7 +81,7 @@ _Context: Indonesia_
 
 ##### David Paterson
 ### [David Paterson, Governor of New York, is fined $62,125 for accepting free gifts from a registered lobbyist--the New York Yankees. ](/news/2010/12/20/david-paterson-governor-of-new-york-is-fined-62-125-for-accepting-free-gifts-from-a-registered-lobbyistathe-new-york-yankees.md)
-_Context: David Paterson, New York Yankees, New York Governor, lobbyist_
+_Context: David Paterson, lobbyist, New York Yankees, New York Governor_
 
 ##### Iranian director
 ### [Iranian director Jafar Panahi is sentenced to six years imprisonment for making a film "against the regime." ](/news/2010/12/20/iranian-director-jafar-panahi-is-sentenced-to-six-years-imprisonment-for-making-a-film-against-the-regime.md)
@@ -97,7 +97,7 @@ Police in Belarus beat and arrest scores of protesters and several presidential 
 
 ##### Mexico
 ### [Mexican politician Diego Fernandez de Cevallos is released by his kidnappers seven months after being abducted. ](/news/2010/12/20/mexican-politician-diego-fernandez-de-cevallos-is-released-by-his-kidnappers-seven-months-after-being-abducted.md)
-_Context: Diego Fernandez de Cevallos, Mexico_
+_Context: Mexico, Diego Fernandez de Cevallos_
 
 ##### sea creatures
 ### [1,200 new species and varieties of sea creatures discovered during the first world survey of marine life are presented at a conference in Jerusalem, Israel. ](/news/2010/12/20/1-200-new-species-and-varieties-of-sea-creatures-discovered-during-the-first-world-survey-of-marine-life-are-presented-at-a-conference-in-je.md)

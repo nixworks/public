@@ -17,7 +17,7 @@ Russia plans to create its own Wikipedia to ensure its citizens have access to m
 
 ##### Shandong
 ### [A fire at a food processing plant kills at least 18 workers in Shandong, China. ](/news/2014/11/16/a-fire-at-a-food-processing-plant-kills-at-least-18-workers-in-shandong-china.md)
-_Context: Shandong, Chinese_
+_Context: China, Shandong_
 
 ##### Alaska
 ### [US planes are warned to avoid an Alaskan volcano, Pavlof. ](/news/2014/11/16/us-planes-are-warned-to-avoid-an-alaskan-volcano-pavlof.md)
@@ -29,7 +29,7 @@ At least four people are killed when landslides engulf homes in southern Switzer
 
 ##### Influenza A virus subtype H5N1
 ### [Authorities in the Netherlands ban the sale of poultry and eggs following the discovery of the bird flu virus at a chicken farm. Authorities in the United Kingdom have also confirmed that the virus has been discovered at a Yorkshire duck farm with the birds being culled. ](/news/2014/11/16/authorities-in-the-netherlands-ban-the-sale-of-poultry-and-eggs-following-the-discovery-of-the-bird-flu-virus-at-a-chicken-farm-authorities.md)
-_Context: British, Netherlands, Influenza A virus subtype H5N1, eggs, Yorkshire, poultry_
+_Context: Netherlands, eggs, British, poultry, Yorkshire, Influenza A virus subtype H5N1_
 
 ##### Brisbane
 ### [Protestors in Brisbane burn Australian flags over indigenous rights. ](/news/2014/11/16/protestors-in-brisbane-burn-australian-flags-over-indigenous-rights.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2015/05/27/index.html)  [JSON](2015/05/27/index.json)  [XML](201
 
 ##### Islamic State in Iraq and the Levant
 ### [Islamic State militants have carried out multiple suicide bombings targeting the Iraqi Army in Anbar Province killing at least 17 people. ](/news/2015/05/27/islamic-state-militants-have-carried-out-multiple-suicide-bombings-targeting-the-iraqi-army-in-anbar-province-killing-at-least-17-people.md)
-_Context: suicide bombing, Iraqi Army, Islamic State in Iraq and the Levant, Anbar province_
+_Context: Islamic State in Iraq and the Levant, suicide bombing, Iraqi Army, Anbar province_
 
 ##### Chinese
 ### [At least 12 people, associated with the Kangleyuan Rest Home in the Chinese city of Pingdingshan in Henan province which was destroyed by fire with the loss of 38 lives, are detained for questioning. ](/news/2015/05/27/at-least-12-people-associated-with-the-kangleyuan-rest-home-in-the-chinese-city-of-pingdingshan-in-henan-province-which-was-destroyed-by-fi.md)
-_Context: Chinese, Henan, Pingdingshan_
+_Context: Pingdingshan, Henan, Chinese_
 
 ##### 2015 Texas-Oklahoma flood and tornado outbreak
 ### [A sixth person is found to have died in this week's floods in Harris County, Texas, which contains the city of Houston. ](/news/2015/05/27/a-sixth-person-is-found-to-have-died-in-this-week-s-floods-in-harris-county-texas-which-contains-the-city-of-houston.md)
@@ -17,11 +17,11 @@ A day after heavy storms left at least five dead and large swaths of the city un
 
 ##### 2015 Indian heat wave
 ### [The death toll in the two worst affected states Andhra Pradesh and Telangana passes 800. ](/news/2015/05/27/the-death-toll-in-the-two-worst-affected-states-andhra-pradesh-and-telangana-passes-800.md)
-_Context: Andhra Pradesh, 2015 Indian heat wave, Telangana_
+_Context: Telangana, 2015 Indian heat wave, Andhra Pradesh_
 
-##### U.S.
+##### United States
 ### [Representatives from the United States, Japan and South Korea meet in Seoul on how to respond to North Korea's nuclear weapons program. ](/news/2015/05/27/representatives-from-the-united-states-japan-and-south-korea-meet-in-seoul-on-how-to-respond-to-north-korea-s-nuclear-weapons-program.md)
-_Context: U.S., North Korea's nuclear program, Japan, South Korea, Seoul_
+_Context: Japan, South Korea, Seoul, United States, North Korea's nuclear program_
 
 ##### Prime Minister
 ### [Former Prime Minister of the United Kingdom Tony Blair resigns as the peace envoy of the Quartet on the Middle East. ](/news/2015/05/27/former-prime-minister-of-the-united-kingdom-tony-blair-resigns-as-the-peace-envoy-of-the-quartet-on-the-middle-east.md)
@@ -33,7 +33,7 @@ Officials were arrested in Switzerland, which is also probing corruption in awar
 
 ##### Legislature
 ### [The Legislature of the US state of Nebraska votes to outlaw the death penalty, overriding a veto by Governor Pete Ricketts. ](/news/2015/05/27/the-legislature-of-the-us-state-of-nebraska-votes-to-outlaw-the-death-penalty-overriding-a-veto-by-governor-pete-ricketts.md)
-_Context: Legislature, Nebraska, Pete Ricketts, death penalty, Governor_
+_Context: Pete Ricketts, Governor, death penalty, Legislature, Nebraska_
 
 ##### Greenland
 ### [The parliament of Greenland unanimously votes to legalize same-sex marriage by 1 October, 2015. ](/news/2015/05/27/the-parliament-of-greenland-unanimously-votes-to-legalize-same-sex-marriage-by-1-october-2015.md)
@@ -41,7 +41,7 @@ Greenland became the 21st country in the world to legalize gay marriage thanks t
 
 ##### newly elected
 ### [The newly elected British House of Commons commences its session with the State Opening of Parliament ceremony in which the Queen's Speech is delivered. ](/news/2015/05/27/the-newly-elected-british-house-of-commons-commences-its-session-with-the-state-opening-of-parliament-ceremony-in-which-the-queen-s-speech-i.md)
-_Context: newly elected, State Opening of Parliament, Queen's Speech, British House of Commons_
+_Context: State Opening of Parliament, newly elected, British House of Commons, Queen's Speech_
 
 ##### Prime Minister of Denmark
 ### [The Prime Minister of Denmark Helle Thorning-Schmidt calls an election for June 18. ](/news/2015/05/27/the-prime-minister-of-denmark-helle-thorning-schmidt-calls-an-election-for-june-18.md)

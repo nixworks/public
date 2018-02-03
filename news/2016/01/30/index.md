@@ -13,7 +13,7 @@ WA residents in the north-west Pilbara region are bracing for strong wind gusts 
 
 ##### South Korea
 ### [A helicopter fighting forest fires in South Korea's North Jeolla Province crashes near the Geumsansa Temple in Gimje. The 61-year-old pilot dies in the crash. ](/news/2016/01/30/a-helicopter-fighting-forest-fires-in-south-korea-s-north-jeolla-province-crashes-near-the-geumsansa-temple-in-gimje-the-61-year-old-pilot.md)
-_Context: Gimje, South Korea, Geumsansa Temple, North Jeolla Province_
+_Context: Gimje, South Korea, North Jeolla Province, Geumsansa Temple_
 
 ##### European migrant crisis
 ### [Almost 40 people are killed and 75 are rescued after a boat carrying migrants sinks between Turkey and Greece. ](/news/2016/01/30/almost-40-people-are-killed-and-75-are-rescued-after-a-boat-carrying-migrants-sinks-between-turkey-and-greece.md)
@@ -21,7 +21,7 @@ _Context: Greece, European migrant crisis, Turkish_
 
 ##### Zika virus outbreak in the Americas (2015-present)
 ### [Jamaican health officials confirm the country's first case of the Zika virus in a 4-year-old child who recently returned from a trip to Texas. ](/news/2016/01/30/jamaican-health-officials-confirm-the-country-s-first-case-of-the-zika-virus-in-a-4-year-old-child-who-recently-returned-from-a-trip-to-texa.md)
-_Context: Jamaica, Zika virus, Texas, Zika virus outbreak in the Americas (2015-present)_
+_Context: Texas, Jamaica, Zika virus outbreak in the Americas (2015-present), Zika virus_
 
 ##### Global surveillance disclosures (2013-present)
 ### [NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-fighter-jets.md)
@@ -33,7 +33,7 @@ The US sails a warship close to a disputed island in the South China Sea, in wha
 
 ##### 2015 FIFA corruption case
 ### [Reuters reports that a million dollars in FIFA funding is missing from the accounts of the National Football Federation of Guatemala. ](/news/2016/01/30/reuters-reports-that-a-million-dollars-in-fifa-funding-is-missing-from-the-accounts-of-the-national-football-federation-of-guatemala.md)
-_Context: National Football Federation of Guatemala, 2015 FIFA corruption case, FIFA, Reuters_
+_Context: Reuters, 2015 FIFA corruption case, National Football Federation of Guatemala, FIFA_
 
 ##### Orange County Men's Central Jail escape
 ### [Two of the inmates who escaped from a jail in Santa Ana, California, were arrested in San Francisco. ](/news/2016/01/30/two-of-the-inmates-who-escaped-from-a-jail-in-santa-ana-california-were-arrested-in-san-francisco.md)

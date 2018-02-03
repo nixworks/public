@@ -25,7 +25,7 @@ Eurozone finance ministers agree a deal on a bailout for Cyprus to prevent its b
 
 ##### Bolivia
 ### [Bolivia's President Evo Morales vows to take a border dispute with Chile to the International Court of Justice in The Hague. ](/news/2013/03/24/bolivia-s-president-evo-morales-vows-to-take-a-border-dispute-with-chile-to-the-international-court-of-justice-in-the-hague.md)
-_Context: Chile, International Court of Justice, border dispute, President of Bolivia, The Hague, Bolivia, Evo Morales_
+_Context: The Hague, Bolivia, International Court of Justice, Evo Morales, Chile, border dispute, President of Bolivia_
 
 ##### US Secretary of State
 ### [US Secretary of State John Kerry arrives in Iraq on an unannounced visit to press for greater co-operation over the conflict in Syria. ](/news/2013/03/24/us-secretary-of-state-john-kerry-arrives-in-iraq-on-an-unannounced-visit-to-press-for-greater-co-operation-over-the-conflict-in-syria.md)
@@ -41,11 +41,11 @@ Khoso, 84, is a venerated officer bearing a reputation of honesty.
 
 ##### Syria
 ### [Syria's opposition chief Ahmed Moaz al-Khatib resigns from the Syrian National Coalition after inconclusive talks with the European Union. ](/news/2013/03/24/syria-s-opposition-chief-ahmed-moaz-al-khatib-resigns-from-the-syrian-national-coalition-after-inconclusive-talks-with-the-european-union.md)
-_Context: Ahmed Moaz al-Khatib, Syria, European Union, Syrian National Coalition_
+_Context: Syria, European Union, Syrian National Coalition, Ahmed Moaz al-Khatib_
 
 ##### gay marriage
 ### [Hundreds of thousands of people march in Paris against proposals to legalise same-sex marriage in France with violent clashes after police deny marchers access to the Champs-Elysees. ](/news/2013/03/24/hundreds-of-thousands-of-people-march-in-paris-against-proposals-to-legalise-same-sex-marriage-in-france-with-violent-clashes-after-police-d.md)
-_Context: gay marriage, Champs-Elysees_
+_Context: Champs-Elysees, gay marriage_
 
 ## [Previous Day...](/news/2013/03/23/index.md)
 

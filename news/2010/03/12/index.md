@@ -5,11 +5,11 @@ Formats: [HTML](2010/03/12/index.html)  [JSON](2010/03/12/index.json)  [XML](201
 
 ##### 2010 Indian Premier League
 ### [The 2010 Indian Premier League starts under "heavy security" in DY Patil Stadium Navi Mumbai. ](/news/2010/03/12/the-2010-indian-premier-league-starts-under-heavy-security-in-dy-patil-stadium-navi-mumbai.md)
-_Context: 2010 Indian Premier League, Navi Mumbai, DY Patil Stadium_
+_Context: Navi Mumbai, DY Patil Stadium, 2010 Indian Premier League_
 
 ##### Madagascar
 ### [Madagascar's disaster officials say at least 14 people have died and 32,000 have been affected by Tropical Storm Hubert. ](/news/2010/03/12/madagascar-s-disaster-officials-say-at-least-14-people-have-died-and-32-000-have-been-affected-by-tropical-storm-hubert.md)
-_Context: Tropical Storm Hubert, Madagascar_
+_Context: Madagascar, Tropical Storm Hubert_
 
 ##### suicide bombing
 ### [Nine suicide bombing attacks on the Pakistani military kill more than 350 people in Lahore. ](/news/2010/03/12/nine-suicide-bombing-attacks-on-the-pakistani-military-kill-more-than-350-people-in-lahore.md)
@@ -21,7 +21,7 @@ In response to rocket fired at Eshkol Regional Council, Israeli jets strikes smu
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI is "distraught" by news alleged of child sexual abuse in Catholic dioceses in Germany, according to Archbishop Robert Zollitsch, as the church also faces paedophilia scandals in Ireland, Austria, and the Netherlands, while Pope Benedict defends clerical celibacy, calling it a symbol of "full devotion" and of "giving oneself to God and to others." ](/news/2010/03/12/pope-benedict-xvi-is-distraught-by-news-alleged-of-child-sexual-abuse-in-catholic-dioceses-in-germany-according-to-archbishop-robert-zoll.md)
-_Context: sexual abuse, Austria, paedophilia, Pope Benedict XVI, Netherlands, Irish, German, celibacy, Robert Zollitsch_
+_Context: Netherlands, German, paedophilia, Austria, Robert Zollitsch, Irish, celibacy, Pope Benedict XVI, sexual abuse_
 
 ##### Karl Rove
 ### [Karl Rove appears on British television to promote waterboarding and speaks of his pride that "we used techniques that broke the will of these terrorists", saying these techniques were "appropriate". ](/news/2010/03/12/karl-rove-appears-on-british-television-to-promote-waterboarding-and-speaks-of-his-pride-that-we-used-techniques-that-broke-the-will-of-the.md)
@@ -45,11 +45,11 @@ Thai capital braces for violence as anti-government red shirts prepare for major
 
 ##### United Nations
 ### [The United Nations Special Rapporteur to Burma Tomas Quintana calls for investigations into war crimes and crimes against humanity perpetrated against Burmese civilians. ](/news/2010/03/12/the-united-nations-special-rapporteur-to-burma-tomas-quintana-calls-for-investigations-into-war-crimes-and-crimes-against-humanity-perpetrat.md)
-_Context: Burma, United Nations, crimes against humanity, United Nations special human rights envoy, war crime_
+_Context: Burma, United Nations special human rights envoy, crimes against humanity, United Nations, war crime_
 
 ##### conflict
 ### [Darfur peace talks are threatened by new violence as Sudanese army steps up military operations against a major Darfur rebel faction. ](/news/2010/03/12/darfur-peace-talks-are-threatened-by-new-violence-as-sudanese-army-steps-up-military-operations-against-a-major-darfur-rebel-faction.md)
-_Context: conflict, Sudan_
+_Context: Sudan, conflict_
 
 ##### Russia
 ### [Russia signs a nuclear reactor deal with India which will see it build 16 nuclear reactors in India. ](/news/2010/03/12/russia-signs-a-nuclear-reactor-deal-with-india-which-will-see-it-build-16-nuclear-reactors-in-india.md)
@@ -65,7 +65,7 @@ Eleven rare Siberian tigers kept in small cages and fed only chicken bones have 
 
 ##### Jacksonville, Florida
 ### [American photographer Jill Sonsteby from Jacksonville, Florida captures a zebra putting its head inside the mouth of a hippopotamus and surviving at Zurich Zoologischer Garten. ](/news/2010/03/12/american-photographer-jill-sonsteby-from-jacksonville-florida-captures-a-zebra-putting-its-head-inside-the-mouth-of-a-hippopotamus-and-surv.md)
-_Context: zebra, Zurich Zoologischer Garten, Jacksonville, Florida, hippopotamus_
+_Context: zebra, Zurich Zoologischer Garten, hippopotamus, Jacksonville, Florida_
 
 ##### Margaret Thatcher
 ### [Margaret Thatcher, in a rare moment of publicity since her withdrawal from public life, puts her weight and "heavy heart" behind a campaign by Combat Stress for the mental health of ex-servicemen in Afghanistan and Iraq. ](/news/2010/03/12/margaret-thatcher-in-a-rare-moment-of-publicity-since-her-withdrawal-from-public-life-puts-her-weight-and-heavy-heart-behind-a-campaign.md)

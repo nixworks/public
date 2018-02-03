@@ -29,13 +29,13 @@ It comes amid heightened tensions, and fears North Korea is planning more nuclea
 
 ##### Germany-Israel relations
 ### [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence saying the group "slanders IDF soldiers as war criminals](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md)
-_Context: Germany-Israel relations, Breaking the Silence, NGO, Benjamin Netanyahu, Sigmar Gabriel, Israeli Prime Minister, Foreign Minister, veteran, Israel Defense Forces_
+_Context: Foreign Minister, NGO, Sigmar Gabriel, Germany-Israel relations, Benjamin Netanyahu, Breaking the Silence, Israeli Prime Minister, Israel Defense Forces, veteran_
 
 ##### India
 ### [India is to provide every cow with a biometric dog tag, in an effort to prevent cattle smuggling. ](/news/2017/04/25/india-is-to-provide-every-cow-with-a-biometric-dog-tag-in-an-effort-to-prevent-cattle-smuggling.md)
 NEW DELHI: All cows, their calves, oxen and bulls in the country will be tagged with a tamper-proof Unique Identification Number (UIN) to stop their smuggling, the Centre told the Supreme Court on Monday.
 
-##### U.S.
+##### United States
 ### [The United States announced it will end a six-year Central-African hunt for Joseph Kony the following day. ](/news/2017/04/25/the-united-states-announced-it-will-end-a-six-year-central-african-hunt-for-joseph-kony-the-following-day.md)
 One of Africas longest-surviving rebel groups, the LRA has terrorised parts of central Africa for 30 years.
 
@@ -45,7 +45,7 @@ The national gun lobbying group on Monday filed a lawsuit aimed at overturning a
 
 ##### Immigration policy of Donald Trump
 ### [U.S. District Court Judge William Orrick rules that President Donald Trump's executive order withholding federal funds from sanctuary cities is unconstitutional. ](/news/2017/04/25/u-s-district-court-judge-william-orrick-rules-that-president-donald-trump-s-executive-order-withholding-federal-funds-from-sanctuary-cities.md)
-_Context: executive order, William Orrick, sanctuary cities, Donald Trump, Immigration policy of Donald Trump_
+_Context: Immigration policy of Donald Trump, executive order, sanctuary cities, Donald Trump, William Orrick_
 
 ## [Previous Day...](/news/2017/04/24/index.md)
 

@@ -9,7 +9,7 @@ Israeli Prime Minister Benjamin Netanyahu has ruled out any apology from his cou
 
 ##### Israel's blockade on Gaza
 ### [A series of studies published by Palestinian scientists in "The Lancet" claims that Israel's blockade of the Gaza Strip threatens to cause long-term health damage, malnutrition and stunted growth in children. ](/news/2010/07/2/a-series-of-studies-published-by-palestinian-scientists-in-the-lancet-claims-that-israel-s-blockade-of-the-gaza-strip-threatens-to-cause-l.md)
-_Context: Israel, Gaza Strip, The Lancet, Israel's blockade on Gaza_
+_Context: Israel, Israel's blockade on Gaza, Gaza Strip, The Lancet_
 
 ##### Africa
 ### [Senegal enters eight days of national mourning as President Abdoulaye Wade swears allegiance to the new Grand Marabout of the Mourides following the death of his predecessor, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/2/senegal-enters-eight-days-of-national-mourning-as-president-abdoulaye-wade-swears-allegiance-to-the-new-grand-marabout-of-the-mourides-follo.md)
@@ -53,7 +53,7 @@ _Context: Ian Paisley, Antichrist_
 
 ##### U.S. President
 ### [President of the United States Barack Obama signs into law the CISAD Act, which bans US banks from doing business with foreign banks that provide services to Iran's elite Revolutionary Guards. ](/news/2010/07/2/president-of-the-united-states-barack-obama-signs-into-law-the-cisad-act-which-bans-us-banks-from-doing-business-with-foreign-banks-that-pr.md)
-_Context: Revolutionary Guards, Barack Obama, U.S. President, CISAD Act_
+_Context: U.S. President, Barack Obama, CISAD Act, Revolutionary Guards_
 
 ##### German
 ### [Germany vows to suspend aid to Zimbabwe unless occupiers leave a farm owned by a German national. ](/news/2010/07/2/germany-vows-to-suspend-aid-to-zimbabwe-unless-occupiers-leave-a-farm-owned-by-a-german-national.md)

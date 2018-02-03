@@ -21,7 +21,7 @@ _Context: Suleja, Nigeria_
 
 ##### suicide bomber
 ### [A suicide bomber kills at least 19 officers and cadets and injures 26 outside an Iraqi police academy in northeastern Baghdad. ](/news/2012/02/19/a-suicide-bomber-kills-at-least-19-officers-and-cadets-and-injures-26-outside-an-iraqi-police-academy-in-northeastern-baghdad.md)
-_Context: Baghdad, Iraqi police, suicide bomber_
+_Context: suicide bomber, Baghdad, Iraqi police_
 
 ##### Chad
 ### [Rebels from Chad rob 40 people &ndash; including a local government official &ndash; in attacks in the Central African Republic. ](/news/2012/02/19/rebels-from-chad-rob-40-people-ndash-including-a-local-government-official-ndash-in-attacks-in-the-central-african-republic.md)
@@ -41,7 +41,7 @@ Prime Minister Julia Gillard has described the bombing of Darwin during World Wa
 
 ##### ESPN
 ### [ESPN admits two other instances in which it referred to the American basketball player Jeremy Lin by the racial slur "chink". It comes after yesterday's controversial "Chink in the Armor" headline which ESPN defended as only having appeared to mobile browsers for 35 minutes. ](/news/2012/02/19/espn-admits-two-other-instances-in-which-it-referred-to-the-american-basketball-player-jeremy-lin-by-the-racial-slur-chink-it-comes-after.md)
-_Context: Jeremy Lin, chink, ESPN_
+_Context: ESPN, chink, Jeremy Lin_
 
 ##### Whitney Houston
 ### [Whitney Houston is buried at Fairview Cemetery in Westfield, New Jersey, USA. ](/news/2012/02/19/whitney-houston-is-buried-at-fairview-cemetery-in-westfield-new-jersey-usa.md)
@@ -89,11 +89,11 @@ On the second day of an Irish visit that focused on trade, Chinese Vice Presiden
 
 ##### Burma
 ### [Burmese dissident monk U Gambira, released last month from prison, is to face trial on charges breaking into and squatting in monasteries. ](/news/2012/02/19/burmese-dissident-monk-u-gambira-released-last-month-from-prison-is-to-face-trial-on-charges-breaking-into-and-squatting-in-monasteries.md)
-_Context: monastery, U Gambira, Burma_
+_Context: U Gambira, monastery, Burma_
 
 ##### Mexican
 ### [A fight amongst inmates leads to a prison riot in the Mexican city of Apodaca, Nuevo Leon, with 44 people dead. ](/news/2012/02/19/a-fight-amongst-inmates-leads-to-a-prison-riot-in-the-mexican-city-of-apodaca-nuevo-lea3n-with-44-people-dead.md)
-_Context: Nuevo Leon, Mexican, Apodaca_
+_Context: Mexican, Nuevo Leon, Apodaca_
 
 ##### Hosni Mubarak
 ### [Egyptian election officials fail to confirm the date of the first presidential election since Hosni Mubarak was ousted from power in last year's revolution. ](/news/2012/02/19/egyptian-election-officials-fail-to-confirm-the-date-of-the-first-presidential-election-since-hosni-mubarak-was-ousted-from-power-in-last-ye.md)

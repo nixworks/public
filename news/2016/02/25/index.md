@@ -5,11 +5,11 @@ Formats: [HTML](2016/02/25/index.html)  [JSON](2016/02/25/index.json)  [XML](201
 
 ##### War in Donbass
 ### [The Ukrainian military retakes control of the strategic village of Shyrokyne. ](/news/2016/02/25/the-ukrainian-military-retakes-control-of-the-strategic-village-of-shyrokyne.md)
-_Context: Shyrokyne, War in Donbass, Ukrainian military_
+_Context: Ukrainian military, Shyrokyne, War in Donbass_
 
 ##### Iraqi Civil War (2014-present)
 ### [Two ISIL suicide bombers attack a Shiite mosque in Baghdad, killing at least 15 people. ](/news/2016/02/25/two-isil-suicide-bombers-attack-a-shiite-mosque-in-baghdad-killing-at-least-15-people.md)
-_Context: Baghdad, Shiite, ISIL, Iraqi Civil War (2014-present), suicide bomber_
+_Context: ISIL, suicide bomber, Iraqi Civil War (2014-present), Shiite, Baghdad_
 
 ##### Syrian Civil War
 ### [The Syrian Army, backed by Russian airstrikes, recaptures the town of Khanasir from ISIL militants in the Aleppo Governorate. ](/news/2016/02/25/the-syrian-army-backed-by-russian-airstrikes-recaptures-the-town-of-khanasir-from-isil-militants-in-the-aleppo-governorate.md)
@@ -29,11 +29,11 @@ Sharp Corp. agreed to a 700 billion yen ($6.2 billion) rescue deal from Taiwanâ€
 
 ##### Dick Smith
 ### [Australian electronics retailer Dick Smith, placed in administration by creditors in January, will close 301 stores in Australia and 62 in New Zealand with nearly 3000 people to lose their jobs. ](/news/2016/02/25/australian-electronics-retailer-dick-smith-placed-in-administration-by-creditors-in-january-will-close-301-stores-in-australia-and-62-in-n.md)
-_Context: New Zealand, Australia, administration, Dick Smith_
+_Context: administration, Australia, Dick Smith, New Zealand_
 
 ##### 2015-16 South Pacific cyclone season
 ### [Fiji's known casualties are 42 dead, one missing, and more than 100 injured. Authorities say five percent of the country (45,245 people) is staying in evacuation centers and about 80 schools have been damaged. UNICEF reports at least 120,000 of Fiji's children have been affected. The current identified destruction is more than $1 billion. About 80 percent of the plantations were damaged, especially sugar fields. However, tourism's infrastructure has escaped serious damage. ](/news/2016/02/25/fiji-s-known-casualties-are-42-dead-one-missing-and-more-than-100-injured-authorities-say-five-percent-of-the-country-45-245-people-is.md)
-_Context: infrastructure, evacuation centers, Fiji, tourism's, 2015-16 South Pacific cyclone season, UNICEF, Cyclone Winston, plantations, sugar fields_
+_Context: tourism's, evacuation centers, Fiji, plantations, Cyclone Winston, infrastructure, 2015-16 South Pacific cyclone season, UNICEF, sugar fields_
 
 ##### nuclear test
 ### [The United States will present the draft resolution, resulting from yesterday's meeting with China, to the United Nations Security Council expanding sanctions on North Korea over its nuclear program. ](/news/2016/02/25/the-united-states-will-present-the-draft-resolution-resulting-from-yesterday-s-meeting-with-china-to-the-united-nations-security-council-e.md)

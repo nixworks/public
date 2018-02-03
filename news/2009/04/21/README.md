@@ -9,11 +9,11 @@ _Context: cut, Yahoo!_
 
 ##### maritime forces
 ### [ Twelve navies from the Americas begin annual UNITAS Gold exercises near Florida, United States. ](/news/2009/04/21/twelve-navies-from-the-americas-begin-annual-unitas-gold-exercises-near-florida-united-states.md)
-_Context: maritime forces, UNITAS Gold, U.S., the state, Americas, drill_
+_Context: Americas, United States, UNITAS Gold, the state, drill, maritime forces_
 
 ##### World Digital Library
 ### [ The World Digital Library launches at UNESCO's headquarters in Paris, France. ](/news/2009/04/21/the-world-digital-library-launches-at-unesco-s-headquarters-in-paris-france.md)
-_Context: World Digital Library, France, UNESCO, Paris_
+_Context: Paris, UNESCO, France, World Digital Library_
 
 ##### The Wall Street Journal
 ### [ "The Wall Street Journal" reports that cyber-spies have hacked the U.S. Joint Strike Fighter Program. ](/news/2009/04/21/the-wall-street-journal-reports-that-cyber-spies-have-hacked-the-u-s-joint-strike-fighter-program.md)
@@ -25,7 +25,7 @@ _Context: inflation, British, Retail Prices Index_
 
 ##### killed
 ### [ Twenty-four people are killed during combat between the Mungiki criminal organization and citizens of Karatina in Kenya. ](/news/2009/04/21/twenty-four-people-are-killed-during-combat-between-the-mungiki-criminal-organization-and-citizens-of-karatina-in-kenya.md)
-_Context: organized crime, killed, Mungiki, Kenya, Karatina, citizen_
+_Context: citizen, killed, Karatina, Mungiki, organized crime, Kenya_
 
 ##### extrasolar planet
 ### [ The smallest confirmed extrasolar planet, Gliese 581 e, is discovered. ](/news/2009/04/21/the-smallest-confirmed-extrasolar-planet-gliese-581-e-is-discovered.md)

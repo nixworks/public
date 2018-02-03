@@ -5,15 +5,15 @@ Formats: [HTML](2011/07/24/index.html)  [JSON](2011/07/24/index.json)  [XML](201
 
 ##### Thailand
 ### [A Thai military helicopter crashes near the Myanmar border, the third in a week, with three people feared dead in the latest crash. ](/news/2011/07/24/a-thai-military-helicopter-crashes-near-the-myanmar-border-the-third-in-a-week-with-three-people-feared-dead-in-the-latest-crash.md)
-_Context: Thailand, military, Myanmar, helicopter_
+_Context: military, Myanmar, Thailand, helicopter_
 
 ##### car bomb
 ### [A car bomb in the Yemeni port of Aden kills at least eight Army soldiers and wounds scores. ](/news/2011/07/24/a-car-bomb-in-the-yemeni-port-of-aden-kills-at-least-eight-army-soldiers-and-wounds-scores.md)
-_Context: car bomb, Aden, Yemeni, Yemen_
+_Context: Yemeni, Aden, Yemen, car bomb_
 
 ##### Japanese television
 ### [Japanese television switches totally to digital television from midday. ](/news/2011/07/24/japanese-television-switches-totally-to-digital-television-from-midday.md)
-_Context: Japanese television, digital television_
+_Context: digital television, Japanese television_
 
 ##### Timothy Geithner
 ### [Timothy Geithner, the United States Secretary of the Treasury, says that President Barack Obama will not invoke the United States Constitution to raise the debt ceiling unilaterally. The idea has been under consideration due to the 14th amendment requiring that "the validity of the public debt of the United States [...] shall not be questioned." ](/news/2011/07/24/timothy-geithner-the-united-states-secretary-of-the-treasury-says-that-president-barack-obama-will-not-invoke-the-united-states-constituti.md)

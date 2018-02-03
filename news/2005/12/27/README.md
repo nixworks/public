@@ -13,7 +13,7 @@ _Context: Iraq, Poland_
 
 ##### mass grave
 ### [ A mass grave is discovered in the predominantly Shia city of Karbala south of Baghdad, Iraqi police said. ](/news/2005/12/27/a-mass-grave-is-discovered-in-the-predominantly-shia-city-of-karbala-south-of-baghdad-iraqi-police-said.md)
-_Context: mass grave, Karbala, Shia, Baghdad_
+_Context: Karbala, Baghdad, mass grave, Shia_
 
 ##### Colombia
 ### [ Rebels in Colombia kill 24 soldiers guarding coca eradication workers. ](/news/2005/12/27/rebels-in-colombia-kill-24-soldiers-guarding-coca-eradication-workers.md)

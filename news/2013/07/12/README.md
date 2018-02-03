@@ -5,7 +5,7 @@ Formats: [HTML](2013/07/12/index.html)  [JSON](2013/07/12/index.json)  [XML](201
 
 ##### Moro National Liberation Front
 ### [The Moro National Liberation Front kidnaps eight civilians in the Philippines Basilan province later releasing four of them. ](/news/2013/07/12/the-moro-national-liberation-front-kidnaps-eight-civilians-in-the-philippines-basilan-province-later-releasing-four-of-them.md)
-_Context: Philippines, Basilan island, Moro National Liberation Front_
+_Context: Basilan island, Philippines, Moro National Liberation Front_
 
 ##### 
 ### [A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/a-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md)
@@ -25,7 +25,7 @@ China and Taiwan braced on Friday for the impact of Typhoon Soulik as the toll o
 
 ##### Australian
 ### [9 people are feared dead and 88 are rescued by Australian authorities after a boat carrying asylum seekers capsizes north of Christmas Island. ](/news/2013/07/12/9-people-are-feared-dead-and-88-are-rescued-by-australian-authorities-after-a-boat-carrying-asylum-seekers-capsizes-north-of-christmas-islan.md)
-_Context: Christmas Island, asylum seeker, Australian_
+_Context: Australian, Christmas Island, asylum seeker_
 
 ##### derails
 ### [A commuter train derails in the Paris suburb of Bretigny-sur-Orge with at least eight people dead. ](/news/2013/07/12/a-commuter-train-derails-in-the-paris-suburb-of-bra-c-tigny-sur-orge-with-at-least-eight-people-dead.md)
@@ -33,15 +33,15 @@ An Intercity train to Limoges derailed today around 5pm in the municipality of B
 
 ##### San Francisco General Hospital
 ### [A third person, a critically injured unidentified girl, dies at San Francisco General Hospital of injuries she sustained as a result of the Saturday, July 6, 2013 crash-landing of Asiana Airlines Flight 214, a Boeing 777 (180 were injured, 16 remain hospitalized, including two critical adults; autopsy results will take about 3 weeks). ](/news/2013/07/12/a-third-person-a-critically-injured-unidentified-girl-dies-at-san-francisco-general-hospital-of-injuries-she-sustained-as-a-result-of-the.md)
-_Context: Asiana Airlines Flight 214, Boeing 777, San Francisco General Hospital_
+_Context: Asiana Airlines Flight 214, San Francisco General Hospital, Boeing 777_
 
 ##### Ethiopian Airlines
 ### [An empty Ethiopian Airlines Boeing 787 Dreamliner catches fire eight hours after landing at London Heathrow Airport, closing runways for an hour. Another Boeing 787 Dreamliner (Thomson Airways-owned) was forced to return to Britain's Manchester Airport after an unspecified mechanical problem. ](/news/2013/07/12/an-empty-ethiopian-airlines-boeing-787-dreamliner-catches-fire-eight-hours-after-landing-at-london-heathrow-airport-closing-runways-for-an.md)
-_Context: Ethiopian Airlines, Thomson Airways, 787 Dreamliner, Manchester, London Heathrow Airport_
+_Context: London Heathrow Airport, 787 Dreamliner, Ethiopian Airlines, Thomson Airways, Manchester_
 
-##### U.S.
+##### United States
 ### [The US calls on the Egyptian Army to free deposed president Mohamed Morsi. ](/news/2013/07/12/the-us-calls-on-the-egyptian-army-to-free-deposed-president-mohamed-morsi.md)
-_Context: Egypt, U.S., Mohamed Morsi, President, 2013 coup d'etat, Egyptian Army_
+_Context: 2013 coup d'etat, Mohamed Morsi, United States, Egypt, Egyptian Army, President_
 
 ##### Malala Yousafzai
 ### [Malala Yousafzai of Pakistan visits the UN headquarters in New York City to celebrate her 16th birthday with the UN address. ](/news/2013/07/12/malala-yousafzai-of-pakistan-visits-the-un-headquarters-in-new-york-city-to-celebrate-her-16th-birthday-with-the-un-address.md)
@@ -61,13 +61,13 @@ Two women were killed and a man was injured Friday at a South of Market jewelry 
 
 ##### Romanian Transport minister
 ### [Romanian Transport minister Relu Fenechiu is sentenced to 5 years imprisonment for complicity in abuse of power but the decision is not final. ](/news/2013/07/12/romanian-transport-minister-relu-fenechiu-is-sentenced-to-5-years-imprisonment-for-complicity-in-abuse-of-power-but-the-decision-is-not-fina.md)
-_Context: Romanian Transport minister, Relu Fenechiu_
+_Context: Relu Fenechiu, Romanian Transport minister_
 
 ##### President
 ### [Supporters and opponents of deposed President of Egypt Mohamed Morsi hold rallies on the first Friday of Ramadan. ](/news/2013/07/12/supporters-and-opponents-of-deposed-president-of-egypt-mohamed-morsi-hold-rallies-on-the-first-friday-of-ramadan.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
-##### U.S.
+##### United States
 ### [U.S. Homeland Security Secretary Janet Napolitano announces her resignation to become the President of the University of California. ](/news/2013/07/12/u-s-homeland-security-secretary-janet-napolitano-announces-her-resignation-to-become-the-president-of-the-university-of-california.md)
 Janet Napolitano , the U.S. secretary of Homeland Security and former governor of Arizona, is being named as the next president of the University of California system, in an unusual choice that brings a national-level politician to a position usually held by an academic, The Times has learned. Her a...
 

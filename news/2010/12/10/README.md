@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/10/index.html)  [JSON](2010/12/10/index.json)  [XML](201
 
 ##### Somali pirates
 ### [Somali pirates hijack a Liberian ship 80 nautical miles east of the border between Tanzania and Mozambique, in their most southerly attack yet. ](/news/2010/12/10/somali-pirates-hijack-a-liberian-ship-80-nautical-miles-east-of-the-border-between-tanzania-and-mozambique-in-their-most-southerly-attack-y.md)
-_Context: Liberia, Tanzania, Somali pirates, hijack, Mozambique_
+_Context: Liberia, Somali pirates, hijack, Mozambique, Tanzania_
 
 ##### Khyber Pakhtunkhwa
 ### [At least 15 people are killed and several dozen others sustain wounds during a suicide attack at a Shia hospital in Khyber Pakhtunkhwa. ](/news/2010/12/10/at-least-15-people-are-killed-and-several-dozen-others-sustain-wounds-during-a-suicide-attack-at-a-shia-hospital-in-khyber-pakhtunkhwa.md)
@@ -31,7 +31,7 @@ _Context: Picasso, Paris_
 ### [Traces of cocaine "likely" triggered the death of Gerry Ryan in April. ](/news/2010/12/10/traces-of-cocaine-likely-triggered-the-death-of-gerry-ryan-in-april.md)
 Traces of cocaine were the likely trigger that led to the death of Irish broadcaster Gerry Ryan, an inquest in Dublin is told.
 
-##### U.S.
+##### United States
 ### [The United States "loses track" of 119,000 private planes, with uncertainty over who has access to them. ](/news/2010/12/10/the-united-states-loses-track-of-119-000-private-planes-with-uncertainty-over-who-has-access-to-them.md)
 Aviation agency does not know who owns one-third of the aircraft in US, a gap it fears could be exploited by criminals.
 
@@ -53,7 +53,7 @@ The British government has trained a paramilitary force accused of hundreds of k
 
 ##### World War II
 ### [For the first time since World War II, German troops are stationed in France. ](/news/2010/12/10/for-the-first-time-since-world-war-ii-german-troops-are-stationed-in-france.md)
-_Context: France, German, World War II_
+_Context: German, France, World War II_
 
 ##### WikiLeaks
 ### [Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/christine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the-australian-government-espec.md)
@@ -61,7 +61,7 @@ London, Dec 10 (DPA) WikiLeaks founder Julian Assange, who is being held in extr
 
 ##### Italy
 ### [Prosecutors in Italy open an investigation into allegations that Prime Minister Silvio Berlusconi bought MPs before important votes. ](/news/2010/12/10/prosecutors-in-italy-open-an-investigation-into-allegations-that-prime-minister-silvio-berlusconi-bought-mps-before-important-votes.md)
-_Context: Italy, Silvio Berlusconi, Italian Prime Minister_
+_Context: Silvio Berlusconi, Italian Prime Minister, Italy_
 
 ##### Croatia
 ### [Prosecutors in Croatia issue an arrest warrant for former Prime Minister Ivo Sanader on suspected corruption charges. He is then arrested. ](/news/2010/12/10/prosecutors-in-croatia-issue-an-arrest-warrant-for-former-prime-minister-ivo-sanader-on-suspected-corruption-charges-he-is-then-arrested.md)

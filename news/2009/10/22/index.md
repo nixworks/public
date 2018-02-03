@@ -5,19 +5,19 @@ Formats: [HTML](2009/10/22/index.html)  [JSON](2009/10/22/index.json)  [XML](200
 
 ##### Sweden
 ### [ Sweden's Lutheran Church decides to conduct same-sex marriages, becoming the first major church to do so. ](/news/2009/10/22/sweden-s-lutheran-church-decides-to-conduct-same-sex-marriages-becoming-the-first-major-church-to-do-so.md)
-_Context: Lutheran Church, same-sex marriage, decides, Sweden_
+_Context: same-sex marriage, decides, Lutheran Church, Sweden_
 
 ##### China
 ### [ China's economy grows at 8.9% in the third quarter from a year earlier, the fastest pace in a year. ](/news/2009/10/22/china-s-economy-grows-at-8-9-in-the-third-quarter-from-a-year-earlier-the-fastest-pace-in-a-year.md)
-_Context: Economy of the People's Republic of China, China_
+_Context: China, Economy of the People's Republic of China_
 
 ##### BBC
 ### [ In a change of policy, the British Broadcasting Corporation controversially gives a platform on "Question Time" to the far right British National Party (BNP) leader Nick Griffin. ](/news/2009/10/22/in-a-change-of-policy-the-british-broadcasting-corporation-controversially-gives-a-platform-on-question-time-to-the-far-right-british-na.md)
-_Context: BBC, British National Party, Question Time, Nick Griffin, controversially gives a platform_
+_Context: Question Time, BBC, British National Party, Nick Griffin, controversially gives a platform_
 
 ##### Microsoft
 ### [ The Microsoft operating systems Windows 7 and Windows Server 2008 R2 go on retail sale worldwide. ](/news/2009/10/22/the-microsoft-operating-systems-windows-7-and-windows-server-2008-r2-go-on-retail-sale-worldwide.md)
-_Context: Windows Server 2008 R2, operating system, Microsoft, Windows 7_
+_Context: Microsoft, Windows 7, Windows Server 2008 R2, operating system_
 
 ##### Russia
 ### [ The Russian civil rights society "Memorial" is awarded the 2009 Sakharov Prize for freedom of thought. ](/news/2009/10/22/the-russian-civil-rights-society-memorial-is-awarded-the-2009-sakharov-prize-for-freedom-of-thought.md)
@@ -33,7 +33,7 @@ _Context: Tamil, Sri Lanka_
 
 ##### Department of Homeland Security
 ### [ The U.S. Department of Homeland Security will allow Chinese and Russian tourists to travel to the Northern Mariana Islands without a visa. ](/news/2009/10/22/the-u-s-department-of-homeland-security-will-allow-chinese-and-russian-tourists-to-travel-to-the-northern-mariana-islands-without-a-visa.md)
-_Context: Russia, visa-free travel, tourists, Northern Mariana Islands, Chinese, Department of Homeland Security_
+_Context: Russia, China, Northern Mariana Islands, visa-free travel, Department of Homeland Security, tourists_
 
 ## [Previous Day...](/news/2009/10/21/index.md)
 

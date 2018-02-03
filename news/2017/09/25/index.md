@@ -5,7 +5,7 @@ Formats: [HTML](2017/09/25/index.html)  [JSON](2017/09/25/index.json)  [XML](201
 
 ##### Northern Rakhine State clashes
 ### [A mass grave of 28 Hindus, including children, allegedly slain by the Arakan Rohingya Salvation Army, is discovered by the Myanmar Army. ](/news/2017/09/25/a-mass-grave-of-28-hindus-including-children-allegedly-slain-by-the-arakan-rohingya-salvation-army-is-discovered-by-the-myanmar-army.md)
-_Context: Myanmar Army, ARSA, Northern Rakhine State clashes_
+_Context: Northern Rakhine State clashes, ARSA, Myanmar Army_
 
 ##### 2017 North Korea crisis
 ### [North Korea says that the recent flight of U.S. aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-recent-flight-of-u-s-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md)
@@ -21,11 +21,11 @@ The service will provide news, sport, business and culture through a website and
 
 ##### Atlantic hurricanes
 ### [Puerto Rican officials request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/puerto-rican-officials-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humanitar.md)
-_Context: U.S. government, Atlantic hurricanes, Puerto Rico, Hurricane Maria_
+_Context: U.S. government, Atlantic hurricanes, Hurricane Maria, Puerto Rico_
 
 ##### Crime in Nigeria
 ### [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md)
-_Context: Crime in Nigeria, Ogba Zoo, Benin City, Nigeria_
+_Context: Crime in Nigeria, Ogba Zoo, Nigeria, Benin City_
 
 ##### Crime in Russia
 ### [Russian police arrest a couple from the southern Krasnodar region that has allegedly murdered as many as 30 people since 1999 and consumed parts of the human bodies. ](/news/2017/09/25/russian-police-arrest-a-couple-from-the-southern-krasnodar-region-that-has-allegedly-murdered-as-many-as-30-people-since-1999-and-consumed-p.md)

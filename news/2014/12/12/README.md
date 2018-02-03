@@ -17,7 +17,7 @@ The Dow posted its worst week in more than three years as oil prices continued t
 
 ##### capsized ferry MV Mutambala
 ### [The ferry MV Mutambala capsizes on Lake Tanganyika, Democratic Republic of the Congo leaving at least 26 dead. ](/news/2014/12/12/the-ferry-mv-mutambala-capsizes-on-lake-tanganyika-democratic-republic-of-the-congo-leaving-at-least-26-dead.md)
-_Context: Lake Tanganyika, capsized ferry MV Mutambala, DR Congo_
+_Context: Lake Tanganyika, DR Congo, capsized ferry MV Mutambala_
 
 ##### Portland, Oregon
 ### [An unknown person shoots four people outside of Rosemary Anderson High School, an alternative high school in Portland, Oregon. Police later question a 22-year-old man. ](/news/2014/12/12/an-unknown-person-shoots-four-people-outside-of-rosemary-anderson-high-school-an-alternative-high-school-in-portland-oregon-police-later.md)

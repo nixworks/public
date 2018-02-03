@@ -13,11 +13,11 @@ Two civilians were killed and four wounded in bomb and shooting attacks in south
 
 ##### Duekoue
 ### [At least 13 people are killed in clashes in Duekoue and a camp for displaced people in Ivory Coast. ](/news/2012/07/20/at-least-13-people-are-killed-in-clashes-in-dua-c-koua-c-and-a-camp-for-displaced-people-in-ivory-coast.md)
-_Context: Ivory Coast, Duekoue_
+_Context: Duekoue, Ivory Coast_
 
 ##### Amnesty International
 ### [Amnesty International says Muslim Rohingyas in western Burma have been subject to attacks and arbitrary arrests. ](/news/2012/07/20/amnesty-international-says-muslim-rohingyas-in-western-burma-have-been-subject-to-attacks-and-arbitrary-arrests.md)
-_Context: Burma, Muslim, Rohingya, Amnesty International_
+_Context: Muslim, Amnesty International, Rohingya, Burma_
 
 ##### Olympic Torch
 ### [The Olympic Torch arrives in London for the final stages of the UK-wide relay ahead of the 2012 Summer Olympics. ](/news/2012/07/20/the-olympic-torch-arrives-in-london-for-the-final-stages-of-the-uk-wide-relay-ahead-of-the-2012-summer-olympics.md)

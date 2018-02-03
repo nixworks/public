@@ -5,11 +5,11 @@ Formats: [HTML](2013/03/2/index.html)  [JSON](2013/03/2/index.json)  [XML](2013/
 
 ##### Bangladesh
 ### [The death toll in Bangladesh rises to at least 50 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/2/the-death-toll-in-bangladesh-rises-to-at-least-50-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md)
-_Context: Delwar Hossain Sayeedi, Bangladesh_
+_Context: Bangladesh, Delwar Hossain Sayeedi_
 
 ##### Chad
 ### [Chadian soldiers kill Mokhtar Belmokhtar, an al-Qaeda commander in Africa responsible for a mass hostage-taking at an Algerian gas plant. ](/news/2013/03/2/chadian-soldiers-kill-mokhtar-belmokhtar-an-al-qaeda-commander-in-africa-responsible-for-a-mass-hostage-taking-at-an-algerian-gas-plant.md)
-_Context: Africa, Military, mass hostage-taking, Mokhtar Belmokhtar, Chad, Algeria, al-Qaeda_
+_Context: Algeria, Africa, Military, Mokhtar Belmokhtar, mass hostage-taking, Chad, al-Qaeda_
 
 ##### Southern Thailand
 ### [Suspected insurgents detonate a motorcycle bomb in Southern Thailand killing 2 Thai Military rangers and wounding 11 people. ](/news/2013/03/2/suspected-insurgents-detonate-a-motorcycle-bomb-in-southern-thailand-killing-2-thai-military-rangers-and-wounding-11-people.md)

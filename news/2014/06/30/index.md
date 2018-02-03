@@ -5,11 +5,11 @@ Formats: [HTML](2014/06/30/index.html)  [JSON](2014/06/30/index.json)  [XML](201
 
 ##### Post-coup unrest in Egypt
 ### [A police officer was killed and several others wounded in a small explosion near the presidential palace in Cairo. A second officer was killed while defusing another bomb at the same site. ](/news/2014/06/30/a-police-officer-was-killed-and-several-others-wounded-in-a-small-explosion-near-the-presidential-palace-in-cairo-a-second-officer-was-kill.md)
-_Context: Cairo, Post-coup unrest in Egypt, presidential palace_
+_Context: Post-coup unrest in Egypt, presidential palace, Cairo_
 
 ##### South Thailand insurgency
 ### [A group of gunmen open fire at a mosque in the Panare district in Pattani province in Thailand, resulting in at least one death. ](/news/2014/06/30/a-group-of-gunmen-open-fire-at-a-mosque-in-the-panare-district-in-pattani-province-in-thailand-resulting-in-at-least-one-death.md)
-_Context: mosque, Panare, South Thailand insurgency, Thailand, Pattani province_
+_Context: South Thailand insurgency, Thailand, Pattani province, Panare, mosque_
 
 ##### 2014 pro-Russian conflict in Ukraine
 ### [A cameraman from Russia's Channel One dies after being shot in Donetsk. ](/news/2014/06/30/a-cameraman-from-russia-s-channel-one-dies-after-being-shot-in-donetsk.md)
@@ -21,7 +21,7 @@ According to military assessments, Hamas has not been behind recent rocket attac
 
 ##### War in North-West Pakistan
 ### [The Pakistan Army begins a ground offensive against militants in the town of Miramshah in North Waziristan. ](/news/2014/06/30/the-pakistan-army-begins-a-ground-offensive-against-militants-in-the-town-of-miramshah-in-north-waziristan.md)
-_Context: War in North-West Pakistan, North Waziristan, Pakistan Army, Miramshah_
+_Context: Pakistan Army, North Waziristan, Miramshah, War in North-West Pakistan_
 
 ##### Israeli-Palestinian conflict
 ### [The bodies of three kidnapped Israeli teenagers, including one with dual American citizenship, are found partially buried near Hebron on the West Bank. Shin Bet determined they were murdered shortly after being kidnapped, and is searching for two Hamas kidnappers and accomplices.](/news/2014/06/30/the-bodies-of-three-kidnapped-israeli-teenagers-including-one-with-dual-american-citizenship-are-found-partially-buried-near-hebron-on-the.md)
@@ -35,9 +35,9 @@ _Context: Mexican Army, Mexico, Mexican Drug War, Tlatlaya_
 ### [Yosemite National Park commemorates the 150th anniversary of Abraham Lincoln signing into law the Yosemite Grant Act, establishing Yosemite as a federally-protected area. ](/news/2014/06/30/yosemite-national-park-commemorates-the-150th-anniversary-of-abraham-lincoln-signing-into-law-the-yosemite-grant-act-establishing-yosemite.md)
 _Context: Yosemite National Park, Abraham Lincoln_
 
-##### Chinese
+##### China
 ### [The People's Republic of China jails 113 people in Xinjiang autonomous region for terrorism and other offences. ](/news/2014/06/30/the-people-s-republic-of-china-jails-113-people-in-xinjiang-autonomous-region-for-terrorism-and-other-offences.md)
-_Context: Chinese, Xinjiang_
+_Context: China, Xinjiang_
 
 ##### North Korea
 ### [North Korea says it will put on trial two American tourists, Jeffrey Fowle and Michael Miller, for crimes against the state. ](/news/2014/06/30/north-korea-says-it-will-put-on-trial-two-american-tourists-jeffrey-fowle-and-michael-miller-for-crimes-against-the-state.md)

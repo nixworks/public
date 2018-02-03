@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/24/index.html)  [JSON](2016/06/24/index.json)  [XML](201
 
 ##### Moro conflict
 ### [Seven Indonesian sailors are kidnapped off the coast of Sulu near Mindanao in the southern Philippines raising terrorism fears. ](/news/2016/06/24/seven-indonesian-sailors-are-kidnapped-off-the-coast-of-sulu-near-mindanao-in-the-southern-philippines-raising-terrorism-fears.md)
-_Context: Philippines, Mindanao, Moro conflict, Indonesia, Sulu_
+_Context: Indonesia, Mindanao, Philippines, Sulu, Moro conflict_
 
 ##### War in North-West Pakistan
 ### [At least three people are killed and 32 more are wounded by a bomb blast in Quetta. ](/news/2016/06/24/at-least-three-people-are-killed-and-32-more-are-wounded-by-a-bomb-blast-in-quetta.md)
@@ -37,11 +37,11 @@ Indonesia said on Friday a halt on coal shipments to the Philippines will remain
 
 ##### Volkswagen emissions scandal
 ### [South Korea issues an arrest warrant for a Korean-based Volkswagen AG executive in relation to the emissions scandal. ](/news/2016/06/24/south-korea-issues-an-arrest-warrant-for-a-korean-based-volkswagen-ag-executive-in-relation-to-the-emissions-scandal.md)
-_Context: Volkswagen AG, Korean Peninsula, Volkswagen emissions scandal, South Korea_
+_Context: Volkswagen emissions scandal, South Korea, Volkswagen AG, Korean Peninsula_
 
 ##### drug crackdown
 ### [More than 50 people accused of dealing in illegal drugs have been murdered in the Philippines within a month after incoming president Rodrigo Duterte called for more extrajudicial killings against suspected criminals. ](/news/2016/06/24/more-than-50-people-accused-of-dealing-in-illegal-drugs-have-been-murdered-in-the-philippines-within-a-month-after-incoming-president-rodrig.md)
-_Context: illegal drugs, drug crackdown, Rodrigo Duterte, extrajudicial killings_
+_Context: extrajudicial killings, illegal drugs, drug crackdown, Rodrigo Duterte_
 
 ##### European Union membership referendum
 ### [The United Kingdom votes, 52% to 48%, to leave the European Union. Prime Minister David Cameron, who called the referendum three years ago, announces his resignation indicating he will leave office by October. ](/news/2016/06/24/the-united-kingdom-votes-52-to-48-to-leave-the-european-union-prime-minister-david-cameron-who-called-the-referendum-three-years-ago.md)
@@ -49,7 +49,7 @@ Up to the minute results for the 2016 EU Referendum from BBC News
 
 ##### nickel
 ### [The price of nickel is expected to skyrocket after the incoming Philippine government appoints an anti-mining bureaucrat Gina Lopez to the national cabinet. The Philippines is the biggest exporter of nickel to China. ](/news/2016/06/24/the-price-of-nickel-is-expected-to-skyrocket-after-the-incoming-philippine-government-appoints-an-anti-mining-bureaucrat-gina-lopez-to-the-n.md)
-_Context: Chinese, cabinet, nickel, Gina Lopez_
+_Context: Gina Lopez, cabinet, nickel, China_
 
 ##### 2016 U.S. presidential election
 ### [American conservative columnist George Will tells the Federalist Society that he is no longer a Republican because of Donald Trump, and has officially changed his Maryland voter registration from the GOP to "unaffiliated". ](/news/2016/06/24/american-conservative-columnist-george-will-tells-the-federalist-society-that-he-is-no-longer-a-republican-because-of-donald-trump-and-has.md)

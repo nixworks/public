@@ -37,7 +37,7 @@ PSLV-C38 blasted off from the first launch pad at Satish Dhawan Space Centre in 
 
 ##### Creation-evolution controversy
 ### [Turkey decides to stop teaching evolution to its students until their university level curriculum, deeming it controversial and too complex to understand. Critics say this undermines the secular foundation of the Turkish state. ](/news/2017/06/23/turkey-decides-to-stop-teaching-evolution-to-its-students-until-their-university-level-curriculum-deeming-it-controversial-and-too-complex.md)
-_Context: evolution, controversial, Creation-evolution controversy, university, Turkish, complex, secular foundation_
+_Context: evolution, Turkish, secular foundation, controversial, complex, Creation-evolution controversy, university_
 
 ## [Previous Day...](/news/2017/06/22/index.md)
 

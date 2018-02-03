@@ -9,11 +9,11 @@ _Context: 2009 Bangladesh Rifles revolt, Bangladesh_
 
 ##### Coptic Christians
 ### [Coptic Christians clash with police in Cairo and Alexandria, Egypt, as they demand more protection for Egypt's Christian minority following a New Year's Day bombing of a Coptic church that killed 21. ](/news/2011/01/3/coptic-christians-clash-with-police-in-cairo-and-alexandria-egypt-as-they-demand-more-protection-for-egypt-s-christian-minority-following.md)
-_Context: Coptic Christians, Alexandria, police officers, New Year's Day church bombing, Cairo, Egypt, Copt_
+_Context: New Year's Day church bombing, Egypt, police officers, Cairo, Alexandria, Copt, Coptic Christians_
 
 ##### Sudanese soldiers
 ### [Sudanese soldiers kill one woman and rape six others near Attash Camp in South Darfur. ](/news/2011/01/3/sudanese-soldiers-kill-one-woman-and-rape-six-others-near-attash-camp-in-south-darfur.md)
-_Context: South Darfur, Sudanese soldiers_
+_Context: Sudanese soldiers, South Darfur_
 
 ##### Palestinian rocket attacks on Israel
 ### [In response to the firing of a Kassam rocket from the Gaza Strip into southern Israel, Israel planes bomb three targets, including two refugee camps and a weapons factory in the Gaza Strip, injuring two people. ](/news/2011/01/3/in-response-to-the-firing-of-a-kassam-rocket-from-the-gaza-strip-into-southern-israel-israel-planes-bomb-three-targets-including-two-refug.md)
@@ -33,7 +33,7 @@ _Context: Australian government_
 
 ##### Xi River
 ### [7 people are missing after a fishing boat sank in the Xi River in south China. ](/news/2011/01/3/7-people-are-missing-after-a-fishing-boat-sank-in-the-xi-river-in-south-china.md)
-_Context: Xi River, China_
+_Context: China, Xi River_
 
 ##### Yemen
 ### [Two boats capsize off the southern coast of Yemen with a total of 80 people missing. Only three have been found alive. ](/news/2011/01/3/two-boats-capsize-off-the-southern-coast-of-yemen-with-a-total-of-80-people-missing-only-three-have-been-found-alive.md)
@@ -45,31 +45,31 @@ The face of Yonge Street in Downtown Toronto has been forever changed thanks to 
 
 ##### Africa
 ### [A delegation of African leaders from Benin, Cape Verde, Kenya and Sierra Leone travels to Cote d'Ivoire to offer incumbent President Laurent Gbagbo an amnesty if he resigns from office. ](/news/2011/01/3/a-delegation-of-african-leaders-from-benin-cape-verde-kenya-and-sierra-leone-travels-to-ca-te-d-ivoire-to-offer-incumbent-president-lauren.md)
-_Context: amnesty, Kenya, President, Cape Verde, Beninese, Laurent Gbagbo, Cote d'Ivoire, Africa, Sierra Leone_
+_Context: amnesty, Cape Verde, President, Cote d'Ivoire, Kenya, Beninese, Sierra Leone, Laurent Gbagbo, Africa_
 
 ##### 250,000 documents
 ### [According to a new Wikileaks document, U.S. ambassador to France, Craig Stapleton, asked Washington to penalize nations, including France, who do not support genetically modified crops.](/news/2011/01/3/according-to-a-new-wikileaks-document-u-s-ambassador-to-france-craig-stapleton-asked-washington-to-penalize-nations-including-france-w.md)
-_Context: genetically modified crops, France, 250,000 documents, Craig Stapleton, U.S._
+_Context: France, U.S., 250,000 documents, genetically modified crops, Craig Stapleton_
 
 ##### Iran's conservative judiciary
 ### [An Iranian judiciary official says that Sakineh Mohammadi Ashtiani could be spared execution by stoning for murder, manslaughter, and adultery, pointing out that ambiguities remain in her case. ](/news/2011/01/3/an-iranian-judiciary-official-says-that-sakineh-mohammadi-ashtiani-could-be-spared-execution-by-stoning-for-murder-manslaughter-and-adulte.md)
-_Context: manslaughter by gross negligence, Capital punishment in Iran, adultery, murder, Iran's conservative judiciary, Sakineh Mohammadi Ashtiani_
+_Context: manslaughter by gross negligence, Capital punishment in Iran, adultery, Iran's conservative judiciary, Sakineh Mohammadi Ashtiani, murder_
 
 ##### Pakistan
 ### [The second-largest party in Pakistan's coalition, Muttahida Qaumi Movement, quits the government leaving it with a minority in parliament. ](/news/2011/01/3/the-second-largest-party-in-pakistan-s-coalition-muttahida-qaumi-movement-quits-the-government-leaving-it-with-a-minority-in-parliament.md)
-_Context: Pakistan, Muttahida Qaumi Movement_
+_Context: Muttahida Qaumi Movement, Pakistan_
 
-##### U.S.
+##### United States
 ### [A study reports that 61% of Americans believe the best way to solve the budget deficit is to raise taxes for the wealthiest, in contrast to a plan by Republicans to permanently extend Bush-era tax cuts for the wealthiest Americans](/news/2011/01/3/a-study-reports-that-61-of-americans-believe-the-best-way-to-solve-the-budget-deficit-is-to-raise-taxes-for-the-wealthiest-in-contrast-to.md)
 Most Americans think the United States should raise taxes for the rich to balance the budget, according to a 60 Minutes/Vanity Fair poll released on Monday.
 
 ##### Republican
 ### [Republican U.S. Representative Darrell Issa calls for Attorney General Eric Holder to resign over lack of progress in prosecuting Julian Assange, and plans are announced of holding a congressional inquiry into Wikileaks and Assange. ](/news/2011/01/3/republican-u-s-representative-darrell-issa-calls-for-attorney-general-eric-holder-to-resign-over-lack-of-progress-in-prosecuting-julian-ass.md)
-_Context: Julian Assange, Wikileaks, United States Attorney General, Republican, congressional inquiry, Darrell Issa, House of Representatives, Eric Holder_
+_Context: United States Attorney General, Darrell Issa, Julian Assange, Wikileaks, Republican, Eric Holder, House of Representatives, congressional inquiry_
 
 ##### red-winged blackbird
 ### [Scientists are investigating the sudden dieoff of over 5,000 red-winged blackbirds in Beebe, Arkansas, United States, on New Year's Eve. ](/news/2011/01/3/scientists-are-investigating-the-sudden-dieoff-of-over-5-000-red-winged-blackbirds-in-beebe-arkansas-united-states-on-new-year-s-eve.md)
-_Context: red-winged blackbird, U.S., Beebe, Arkansas_
+_Context: United States, red-winged blackbird, Beebe, Arkansas_
 
 ##### China
 ### [China announces a breakthrough in spent nuclear fuel reprocessing technology that could solve the country's uranium supply problem. ](/news/2011/01/3/china-announces-a-breakthrough-in-spent-nuclear-fuel-reprocessing-technology-that-could-solve-the-country-s-uranium-supply-problem.md)

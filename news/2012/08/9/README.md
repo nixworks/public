@@ -13,7 +13,7 @@ MEXICO CITY (Reuters) - Assailants kidnapped and murdered 14 men and left their 
 
 ##### Botlikhsky District
 ### [At least 5 police officers and 3 militants are killed in clash in the Botlikhsky District in Russia's North Caucasus Republic of Dagestan. ](/news/2012/08/9/at-least-5-police-officers-and-3-militants-are-killed-in-clash-in-the-botlikhsky-district-in-russia-s-north-caucasus-republic-of-dagestan.md)
-_Context: Republic of Dagestan, Botlikhsky District_
+_Context: Botlikhsky District, Republic of Dagestan_
 
 ##### Afghan military
 ### [A gunman in Afghan military uniform kills three U.S. soldiers in the southwestern Afghan province of Helmand. ](/news/2012/08/9/a-gunman-in-afghan-military-uniform-kills-three-u-s-soldiers-in-the-southwestern-afghan-province-of-helmand.md)
@@ -29,7 +29,7 @@ _Context: Philippines_
 
 ##### Hurricane Ernesto
 ### [Hurricane Ernesto makes landfall in the Mexican state of Veracruz causing at least three deaths. ](/news/2012/08/9/hurricane-ernesto-makes-landfall-in-the-mexican-state-of-veracruz-causing-at-least-three-deaths.md)
-_Context: Veracruz, Hurricane Ernesto, Mexico_
+_Context: Mexico, Hurricane Ernesto, Veracruz_
 
 ##### Gu Kailai
 ### [The trial of Gu Kailai, wife of former Communist powerbroker Bo Xilai, for the alleged murder of British businessman Neil Haywood begins in the Chinese city of Hefei. ](/news/2012/08/9/the-trial-of-gu-kailai-wife-of-former-communist-powerbroker-bo-xilai-for-the-alleged-murder-of-british-businessman-neil-haywood-begins-in.md)

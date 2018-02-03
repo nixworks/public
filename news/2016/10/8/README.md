@@ -13,7 +13,7 @@ Bangladeshi security officials have killed 11 suspected militants of the banned 
 
 ##### Hungary
 ### [The Hungarian newspaper "Nepszabadsag" shuts down after 60 years amid significant financial losses. ](/news/2016/10/8/the-hungarian-newspaper-na-c-pszabadsa-g-shuts-down-after-60-years-amid-significant-financial-losses.md)
-_Context: Nepszabadsag, Hungary_
+_Context: Hungary, Nepszabadsag_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Matthew, responsible for killing 13 people and knocking out power to 2.2 million households and businesses in the Southeastern United States, is now a Category 1 hurricane (75 mph;120 km-h winds) approaching the North Carolina coast. ](/news/2016/10/8/hurricane-matthew-responsible-for-killing-13-people-and-knocking-out-power-to-2-2-million-households-and-businesses-in-the-southeastern-uni.md)

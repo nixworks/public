@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/16/index.html)  [JSON](2012/07/16/index.json)  [XML](201
 
 ##### Mexican Drug War
 ### [Mexican Drug War: The Mexican Federal Police arrested one of the three ringleaders responsible for the deadly shootout last month in the Mexico City International Airport's busy food court. An anonymous tip-off led police to his whereabouts. ](/news/2012/07/16/mexican-drug-war-the-mexican-federal-police-arrested-one-of-the-three-ringleaders-responsible-for-the-deadly-shootout-last-month-in-the-mex.md)
-_Context: Mexican Drug War, Mexico City International Airport, Mexican Police_
+_Context: Mexican Police, Mexican Drug War, Mexico City International Airport_
 
 ##### Damascus
 ### [Heavy fighting is reported in the capital Damascus overnight with claims of at least five deaths and dozens of injuries. ](/news/2012/07/16/heavy-fighting-is-reported-in-the-capital-damascus-overnight-with-claims-of-at-least-five-deaths-and-dozens-of-injuries.md)
@@ -13,7 +13,7 @@ Syrian troops backed by armoured vehicles today entered the district of Midan in
 
 ##### Pakistani Taliban
 ### [Pakistani Taliban attack an office of the security force's intelligence agency in Bannu and take several hostages. ](/news/2012/07/16/pakistani-taliban-attack-an-office-of-the-security-force-s-intelligence-agency-in-bannu-and-take-several-hostages.md)
-_Context: Bannu, Pakistani Taliban_
+_Context: Pakistani Taliban, Bannu_
 
 ##### Sinai Peninsula
 ### [Two American tourists who were kidnapped in the Sinai Peninsula in Egypt on 13 July 2012 are freed. ](/news/2012/07/16/two-american-tourists-who-were-kidnapped-in-the-sinai-peninsula-in-egypt-on-13-july-2012-are-freed.md)
@@ -33,7 +33,7 @@ Kitty Wells, the long-reigning “Queen of Country Music” and the first woman 
 
 ##### United States Senate
 ### [The United States Senate accuses the HSBC bank of laundering Mexican drug money. ](/news/2012/07/16/the-united-states-senate-accuses-the-hsbc-bank-of-laundering-mexican-drug-money.md)
-_Context: United States Senate, HSBC_
+_Context: HSBC, United States Senate_
 
 ##### flagship nuclear power
 ### [The launch of a flagship nuclear power station in Finland is delayed for a third time. ](/news/2012/07/16/the-launch-of-a-flagship-nuclear-power-station-in-finland-is-delayed-for-a-third-time.md)
@@ -57,11 +57,11 @@ Former NRL player Craig Field has been charged with murder after a man he allege
 
 ##### shooting
 ### [A "multiple shooting" incident at Scarborough, a major district in Toronto, Canada, results in at least one death and 19 injured. ](/news/2012/07/16/a-multiple-shooting-incident-at-scarborough-a-major-district-in-toronto-canada-results-in-at-least-one-death-and-19-injured.md)
-_Context: Canadian, Scarborough, Toronto, shooting_
+_Context: shooting, Scarborough, Toronto, Canadian_
 
 ##### North Korea
 ### [North Korea announces that Ri Yong-ho, a senior military figure and a member of the central presidium of the Workers' Party of Korea, is relieved of all duties due to illness. ](/news/2012/07/16/north-korea-announces-that-ri-yong-ho-a-senior-military-figure-and-a-member-of-the-central-presidium-of-the-workers-party-of-korea-is-rel.md)
-_Context: Workers' Party of Korea, North Korea, Ri Yong-ho_
+_Context: North Korea, Workers' Party of Korea, Ri Yong-ho_
 
 ##### Food and Drug Administration
 ### [The U.S. Food and Drug Administration approves Truvada as the first drug shown to reduce the risk of HIV infection. ](/news/2012/07/16/the-u-s-food-and-drug-administration-approves-truvada-as-the-first-drug-shown-to-reduce-the-risk-of-hiv-infection.md)

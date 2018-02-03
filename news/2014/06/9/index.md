@@ -29,7 +29,7 @@ Six dancers from the Cuban National Ballet have arrived in Miami, after they def
 
 ##### Merck & Co.
 ### [Merck & Co. agrees to buy Idenix Pharmaceuticals for US$3.85 billion. ](/news/2014/06/9/merck-co-agrees-to-buy-idenix-pharmaceuticals-for-us-3-85-billion.md)
-_Context: $, Merck & Co._
+_Context: Merck & Co., $_
 
 ##### Tyson Foods Incorporated
 ### [American multinational food corporation Tyson Foods agrees to buy Hillshire Brands for US$7.7 billion. ](/news/2014/06/9/american-multinational-food-corporation-tyson-foods-agrees-to-buy-hillshire-brands-for-us-7-7-billion.md)

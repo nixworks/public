@@ -17,27 +17,27 @@ Exclusive: Gary McKinnon is set to be sent to America to answer computer hacking
 
 ##### Namibia
 ### [ The Namibian National Society for Human Rights announces it will approach the High Court after the electoral commission withdraws its observer status for the general election on Friday. ](/news/2009/11/26/the-namibian-national-society-for-human-rights-announces-it-will-approach-the-high-court-after-the-electoral-commission-withdraws-its-obser.md)
-_Context: elections last week, Namibia_
+_Context: Namibia, elections last week_
 
 ##### Committee to Protect Journalists
 ### [ The Committee to Protect Journalists (CPJ) labels the Maguindanao massacre in the Philippines the "single deadliest event for the press" ever documented. ](/news/2009/11/26/the-committee-to-protect-journalists-cpj-labels-the-maguindanao-massacre-in-the-philippines-the-single-deadliest-event-for-the-press-ev.md)
-_Context: Committee to Protect Journalists, media, Philippines, Maguindanao massacre_
+_Context: media, Philippines, Maguindanao massacre, Committee to Protect Journalists_
 
 ##### Supreme Court
 ### [ The Supreme Court in Bogot convicts and sentences former general Jaime Usctegui to 40 years in prison for his role in the Mapiripn Massacre in 1997 by far right militias. ](/news/2009/11/26/the-supreme-court-in-bogota-convicts-and-sentences-former-general-jaime-uscategui-to-40-years-in-prison-for-his-role-in-the-mapiripan-massa.md)
-_Context: Bogot, Supreme Court, far right militias, Jaime Usctegui, Mapiripn Massacre in 1997_
+_Context: Mapiripn Massacre in 1997, far right militias, Bogot, Jaime Usctegui, Supreme Court_
 
 ##### Floods in Saudi Arabia
 ### [ Floods in Saudi Arabia kill around 77 people in Jeddah, Rabigh and Mecca, and a further 351 are missing in the heaviest rainfall in years. ](/news/2009/11/26/floods-in-saudi-arabia-kill-around-77-people-in-jeddah-rabigh-and-mecca-and-a-further-351-are-missing-in-the-heaviest-rainfall-in-years.md)
-_Context: Jeddah, Floods in Saudi Arabia, Mecca, Rabigh_
+_Context: Floods in Saudi Arabia, Rabigh, Jeddah, Mecca_
 
 ##### German
 ### [ Germany's army chief Wolfgang Schneiderhan resigns over allegations of a cover up related to a September NATO airstrike in northern Afghanistan. ](/news/2009/11/26/germany-s-army-chief-wolfgang-schneiderhan-resigns-over-allegations-of-a-cover-up-related-to-a-september-nato-airstrike-in-northern-afghani.md)
-_Context: German, Afghanistan, Kunduz airstrike, NATO, Wolfgang Schneiderhan_
+_Context: Kunduz airstrike, German, Afghanistan, NATO, Wolfgang Schneiderhan_
 
 ##### South Korea
 ### [ South Korea's Constitutional Court strikes down a decades old law that punished men for making false promises of marriage to engage in sexual relations with women. ](/news/2009/11/26/south-korea-s-constitutional-court-strikes-down-a-decades-old-law-that-punished-men-for-making-false-promises-of-marriage-to-engage-in-sexu.md)
-_Context: sexual relations, South Korea, Constitutional Court_
+_Context: South Korea, sexual relations, Constitutional Court_
 
 ##### University of Pcs
 ### [ A gunman attacks the University of Pcs in southern Hungary, killing one and injuring at least three people. ](/news/2009/11/26/a-gunman-attacks-the-university-of-pecs-in-southern-hungary-killing-one-and-injuring-at-least-three-people.md)
@@ -53,11 +53,11 @@ Harrison and Chris Buckley
 
 ##### Hong Kong
 ### [ Police in Hong Kong attempt to find the founder of a Facebook group whose members claim to have planned to commit a mass suicide on December 21. ](/news/2009/11/26/police-in-hong-kong-attempt-to-find-the-founder-of-a-facebook-group-whose-members-claim-to-have-planned-to-commit-a-mass-suicide-on-decembe.md)
-_Context: Hong Kong, mass suicide, Facebook_
+_Context: mass suicide, Facebook, Hong Kong_
 
 ##### St Vincent and the Grenadines
 ### [ Citizens of St Vincent and the Grenadines reject a new constitution which would have replaced Queen Elizabeth II with a president as Head of State. ](/news/2009/11/26/citizens-of-st-vincent-and-the-grenadines-reject-a-new-constitution-which-would-have-replaced-queen-elizabeth-ii-with-a-president-as-head-o.md)
-_Context: heads of state, Queen Elizabeth II, constitution, reject, St Vincent and the Grenadines_
+_Context: constitution, St Vincent and the Grenadines, reject, Queen Elizabeth II, heads of state_
 
 ## [Previous Day...](/news/2009/11/25/index.md)
 

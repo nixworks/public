@@ -7,9 +7,9 @@ Formats: [HTML](2015/09/6/index.html)  [JSON](2015/09/6/index.json)  [XML](2015/
 ### [At least 10 people die and 8 are missing from a South Korean fishing charter that capsized Saturday night off the country's southern coast. Coast Guard officers said three people survived by clinging to the wreckage for 10 hours. ](/news/2015/09/6/at-least-10-people-die-and-8-are-missing-from-a-south-korean-fishing-charter-that-capsized-saturday-night-off-the-country-s-southern-coast.md)
 At least 10 people have died after clinging to their capsized charter boat for 10 hours.
 
-##### Chinese
+##### China
 ### [The death toll from the September 1 chemical factory blast in China rises to 13. ](/news/2015/09/6/the-death-toll-from-the-september-1-chemical-factory-blast-in-china-rises-to-13.md)
-_Context: Chinese_
+_Context: China_
 
 ##### Spain
 ### [A Spain car rally race crash leaves six dead after a car veers off a straight section into spectators. ](/news/2015/09/6/a-spain-car-rally-race-crash-leaves-six-dead-after-a-car-veers-off-a-straight-section-into-spectators.md)
@@ -17,7 +17,7 @@ Six people, including a pregnant woman, are killed after a car veers off the roa
 
 ##### European migrant crisis
 ### [Pope Francis asks Catholic faithful in Europe to host refugee families fleeing death from war and hunger, and announces the Vatican's two churches will welcome two families of refugees. ](/news/2015/09/6/pope-francis-asks-catholic-faithful-in-europe-to-host-refugee-families-fleeing-death-from-war-and-hunger-and-announces-the-vatican-s-two-ch.md)
-_Context: Europe, European migrant crisis, Vatican City, Pope Francis, Catholic faithful_
+_Context: Vatican City, Europe, European migrant crisis, Pope Francis, Catholic faithful_
 
 ##### Tampa, Florida
 ### [In Tampa, Florida, former University of South Florida football player Elkino Watson is killed and Desmon Watson, another former player, is injured after an early morning stabbing after an argument broke out outside a nightclub in Ybor City. ](/news/2015/09/6/in-tampa-florida-former-university-of-south-florida-football-player-elkino-watson-is-killed-and-desmon-watson-another-former-player-is-i.md)
@@ -33,7 +33,7 @@ A Las Vegas police officer reportedly received non-life-threatening injuries aft
 
 ##### Dallas
 ### [Crystal Cortes of Dallas, Texas is charged with capital murder of dentist Kendra Hatcher on September 2. Her borrowed Jeep Cherokee was seen entering a parking garage on video. She told police she conspired with an unidentified man who paid her to drive him to the garage with the intention of robbery. ](/news/2015/09/6/crystal-cortes-of-dallas-texas-is-charged-with-capital-murder-of-dentist-kendra-hatcher-on-september-2-her-borrowed-jeep-cherokee-was-seen.md)
-_Context: Jeep Cherokee, Dallas_
+_Context: Dallas, Jeep Cherokee_
 
 ##### Guatemalan general election, 2015
 ### [Voters in Guatemala go to the polls for a general election. The presidential election appears headed for a runoff. ](/news/2015/09/6/voters-in-guatemala-go-to-the-polls-for-a-general-election-the-presidential-election-appears-headed-for-a-runoff.md)

@@ -37,7 +37,7 @@ Rescue workers searched on Thursday through thick mud, broken homes and fallen t
 
 ##### South Korea
 ### [South Korea and the People's Republic of China hold discussions about measures in response to North Korea's plans to launch a Unha rocket later this month. ](/news/2012/12/6/south-korea-and-the-people-s-republic-of-china-hold-discussions-about-measures-in-response-to-north-korea-s-plans-to-launch-a-unha-rocket-la.md)
-_Context: China, North Korea, South Korea, Unha_
+_Context: Unha, China, South Korea, North Korea_
 
 ##### marijuana
 ### [Possession of marijuana for personal use of people aged over 21 becomes legal according to state law in the US state of Washington. ](/news/2012/12/6/possession-of-marijuana-for-personal-use-of-people-aged-over-21-becomes-legal-according-to-state-law-in-the-us-state-of-washington.md)
@@ -49,11 +49,11 @@ A convicted sex offender who provided home day-care services to unsuspecting fam
 
 ##### Republican
 ### [Republican Jim DeMint announces that he will resign from the Senate of the United States in January to lead the Heritage Foundation. ](/news/2012/12/6/republican-jim-demint-announces-that-he-will-resign-from-the-senate-of-the-united-states-in-january-to-lead-the-heritage-foundation.md)
-_Context: Senator, Jim DeMint, Heritage Foundation, Republican_
+_Context: Republican, Jim DeMint, Heritage Foundation, Senator_
 
 ##### Netherlands
 ### [In the Netherlands State Secretary for Economic Affairs Co Verdaas resigns following an expense-affair after only thirty-one days in office. ](/news/2012/12/6/in-the-netherlands-state-secretary-for-economic-affairs-co-verdaas-resigns-following-an-expense-affair-after-only-thirty-one-days-in-office.md)
-_Context: expense, Co Verdaas, State Secretary, Netherlands, Economic Affairs_
+_Context: expense, Netherlands, Co Verdaas, Economic Affairs, State Secretary_
 
 ##### U.S. Senate
 ### [The U.S. Senate votes to repeal the Jackson-Vanik amendment, a long-standing trade restriction with Russia. In its place, the Magnitsky bill is adopted instead. The law requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death of Sergei Magnitsky three years ago. ](/news/2012/12/6/the-u-s-senate-votes-to-repeal-the-jacksonavanik-amendment-a-long-standing-trade-restriction-with-russia-in-its-place-the-magnitsky-bi.md)

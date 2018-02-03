@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/24/index.html)  [JSON](2015/06/24/index.json)  [XML](201
 
 ##### Boko Haram
 ### [Over 42 people are shot dead by suspected Boko Haram gunmen in two attacks on villages in Nigeria's Borno state. ](/news/2015/06/24/over-42-people-are-shot-dead-by-suspected-boko-haram-gunmen-in-two-attacks-on-villages-in-nigeria-s-borno-state.md)
-_Context: Boko Haram, Borno State, Nigeria_
+_Context: Nigeria, Boko Haram, Borno State_
 
 ##### Xinjiang Conflict
 ### [A police checkpoint on the outskirts of Kashgar in Xinjiang is attacked by ethnic Uighurs, with at least 18 killed according to US-based Radio Free Asia. ](/news/2015/06/24/a-police-checkpoint-on-the-outskirts-of-kashgar-in-xinjiang-is-attacked-by-ethnic-uighurs-with-at-least-18-killed-according-to-us-based-rad.md)
@@ -13,13 +13,13 @@ At least 18 people are killed in the Chinese region of Xinjiang during a clash a
 
 ##### Pakistani heat wave
 ### [The death toll from the heat wave reaches nears 800 in Sindh province with 744 people dead in the city of Karachi alone. ](/news/2015/06/24/the-death-toll-from-the-heat-wave-reaches-nears-800-in-sindh-province-with-744-people-dead-in-the-city-of-karachi-alone.md)
-_Context: Karachi, Pakistani heat wave, Sindh_
+_Context: Sindh, Pakistani heat wave, Karachi_
 
 ##### Middle East respiratory syndrome outbreak in South Korea
 ### [The government of South Korea announces that it will provide maximum financial aid to hospitals and clinics affected by the MERS outbreak. ](/news/2015/06/24/the-government-of-south-korea-announces-that-it-will-provide-maximum-financial-aid-to-hospitals-and-clinics-affected-by-the-mers-outbreak.md)
  The government will provide the maximum financial aid possible to hospitals and clinics that have suffered damages in their efforts to contain Middle East Respiratory Syndrome (MERS), the top economic policymaker said Wednesday.
 
-##### Chinese
+##### China
 ### [The People's Republic of China claims that the Golden Triangle regions of Laos, Myanmar and Thailand are the source of most of its imports of heroin and methamphetamine. The region has been known for drug cultivation for centuries. ](/news/2015/06/24/the-people-s-republic-of-china-claims-that-the-golden-triangle-regions-of-laos-myanmar-and-thailand-are-the-source-of-most-of-its-imports-o.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -29,7 +29,7 @@ President Obama tells his French counterpart, Francois Hollande, that the US is 
 
 ##### Israel
 ### [Israel revokes permits for 500 Palestinians from the Gaza Strip to enter Jerusalem for Friday prayers following a rocket attack on southern Israel. ](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.md)
-_Context: Israel, Friday prayers, Jerusalem, Gaza Strip, Palestinian_
+_Context: Palestinian, Jerusalem, Gaza Strip, Israel, Friday prayers_
 
 ##### Trans-Pacific Partnership
 ### [The United States Senate approves a motion giving President Barack Obama fast track authority to complete trade negotiations with 11 countries in the Asia-Pacific region. ](/news/2015/06/24/the-united-states-senate-approves-a-motion-giving-president-barack-obama-fast-track-authority-to-complete-trade-negotiations-with-11-countri.md)

@@ -37,7 +37,7 @@ Julian Assange takes refuge in embassy in London to avoid extradition to Sweden 
 
 ##### 2012 G-20 Mexico summit
 ### [2012 G-20 Mexico summit: UK prime minister David Cameron confronts Argentine president Cristina Fernandez de Kirchner over a letter she sent to him regarding the Falkland Islands. ](/news/2012/06/19/2012-g-20-mexico-summit-uk-prime-minister-david-cameron-confronts-argentine-president-cristina-ferna-ndez-de-kirchner-over-a-letter-she-sen.md)
-_Context: Falkland Islands, Cristina Fernandez de Kirchner, David Cameron, 2012 G-20 Mexico summit_
+_Context: David Cameron, Cristina Fernandez de Kirchner, 2012 G-20 Mexico summit, Falkland Islands_
 
 ##### Supreme Court
 ### [The Supreme Court of Pakistan disqualifies prime minister Yousaf Raza Gillani from holding office after Gillani was found guilty in a contempt-of-court case on April 26. ](/news/2012/06/19/the-supreme-court-of-pakistan-disqualifies-prime-minister-yousaf-raza-gillani-from-holding-office-after-gillani-was-found-guilty-in-a-contem.md)

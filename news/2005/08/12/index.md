@@ -5,11 +5,11 @@ Formats: [HTML](2005/08/12/index.html)  [JSON](2005/08/12/index.json)  [XML](200
 
 ##### Iraq War
 ### [ Moqtada Sadr, the Shia cleric and leader, has announced that his Mahdi army has freed four hostages. ](/news/2005/08/12/moqtada-sadr-the-shia-cleric-and-leader-has-announced-that-his-mahdi-army-has-freed-four-hostages.md)
-_Context: Mahdi army, Moqtada Sadr, Shia, Iraq War_
+_Context: Moqtada Sadr, Iraq War, Mahdi army, Shia_
 
 ##### Sri Lanka
 ### [ Sri Lankan Foreign Minister Lakshman Kadirgamar is assassinated by suspected Tamil Tigers sniper team in Colombo. ](/news/2005/08/12/sri-lankan-foreign-minister-lakshman-kadirgamar-is-assassinated-by-suspected-tamil-tigers-sniper-team-in-colombo.md)
-_Context: Tamil Tigers, Lakshman Kadirgamar, Sri Lanka, Foreign Minister, Colombo_
+_Context: Foreign Minister, Tamil Tigers, Lakshman Kadirgamar, Sri Lanka, Colombo_
 
 ##### Kashmir
 ### [ Kashmiri insurgents kill two defence committee soldiers and three members of their families, and injured nine others, three of them critically, in Mahore area of Udhampur district. ](/news/2005/08/12/kashmiri-insurgents-kill-two-defence-committee-soldiers-and-three-members-of-their-families-and-injured-nine-others-three-of-them-critica.md)
@@ -17,11 +17,11 @@ _Context: Udhampur, Kashmir_
 
 ##### India
 ### [ At least 80 people have died from water-borne diseases and over 5,000 are sick in the western Indian state of Maharashtra following recent floods. ](/news/2005/08/12/at-least-80-people-have-died-from-water-borne-diseases-and-over-5-000-are-sick-in-the-western-indian-state-of-maharashtra-following-recent.md)
-_Context: India, recent floods, Maharashtra_
+_Context: India, Maharashtra, recent floods_
 
 ##### Heathrow
 ### [ An unofficial strike by ground staff at Heathrow forces British Airways to cancel over 100 flights. Flights have resumed. ](/news/2005/08/12/an-unofficial-strike-by-ground-staff-at-heathrow-forces-british-airways-to-cancel-over-100-flights-flights-have-resumed.md)
-_Context: Heathrow, British Airways_
+_Context: British Airways, Heathrow_
 
 ##### Salva Kiir
 ### [ Salva Kiir, the new vice-president of Sudan, is opposed to independence for the country's south. ](/news/2005/08/12/salva-kiir-the-new-vice-president-of-sudan-is-opposed-to-independence-for-the-country-s-south.md)
@@ -33,11 +33,11 @@ _Context: British, Omar Bakri Mohammed_
 
 ##### Israel
 ### [ Former Israeli sergeant Taysir Hayb is sentenced to eight years in prison and two years suspended sentence for shooting and killing Tom Hurndall. ](/news/2005/08/12/former-israeli-sergeant-taysir-hayb-is-sentenced-to-eight-years-in-prison-and-two-years-suspended-sentence-for-shooting-and-killing-tom-hur.md)
-_Context: Taysir Hayb, Tom Hurndall, Israel_
+_Context: Tom Hurndall, Israel, Taysir Hayb_
 
 ##### Mars Reconnaissance Orbiter
 ### [ The Mars Reconnaissance Orbiter launches successfully from Cape Canaveral, Florida, at 11:43 GMT ](/news/2005/08/12/the-mars-reconnaissance-orbiter-launches-successfully-from-cape-canaveral-florida-at-11-43-gmt.md)
-_Context: Mars Reconnaissance Orbiter, Cape Canaveral, GMT, the state_
+_Context: the state, Cape Canaveral, Mars Reconnaissance Orbiter, GMT_
 
 ## [Previous Day...](/news/2005/08/11/index.md)
 

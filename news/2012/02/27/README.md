@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/27/index.html)  [JSON](2012/02/27/index.json)  [XML](201
 
 ##### protests
 ### [2012 Afghanistan Quran burning protests: A suicide car bomber explodes at Jalalabad Airport in Afghanistan, killing nine. ](/news/2012/02/27/2012-afghanistan-quran-burning-protests-a-suicide-car-bomber-explodes-at-jalalabad-airport-in-afghanistan-killing-nine.md)
-_Context: Jalalabad Airport, Afghanistan, protests_
+_Context: protests, Jalalabad Airport, Afghanistan_
 
 ##### Vladimir Putin
 ### [An alleged plot to assassinate Vladimir Putin after this year's Russian presidential election is foiled by Ukrainian and Russian intelligence services. ](/news/2012/02/27/an-alleged-plot-to-assassinate-vladimir-putin-after-this-year-s-russian-presidential-election-is-foiled-by-ukrainian-and-russian-intelligenc.md)
@@ -17,7 +17,7 @@ The Syrian military launches a new offensive against opposition-held towns in th
 
 ##### Bradley Manning
 ### [Jailed U.S. serviceman Bradley Manning, U.S. political scientist Gene Sharp and news network Al Jazeera are among those known to have been nominated for the 2012 Nobel Peace Prize. ](/news/2012/02/27/jailed-u-s-serviceman-bradley-manning-u-s-political-scientist-gene-sharp-and-news-network-al-jazeera-are-among-those-known-to-have-been-n.md)
-_Context: Al Jazeera, Nobel Peace Prize, Bradley Manning, Gene Sharp_
+_Context: Gene Sharp, Al Jazeera, Bradley Manning, Nobel Peace Prize_
 
 ##### German
 ### [The German Bundestag votes overwhelmingly in support for a Greek bailout. ](/news/2012/02/27/the-german-bundestag-votes-overwhelmingly-in-support-for-a-greek-bailout.md)
@@ -29,11 +29,11 @@ _Context: Yahoo, Facebook_
 
 ##### Astrakhan
 ### [A section of a nine-story apartment building in the city of Astrakhan, Russia, collapses in a natural gas explosion, injuring at least 12 people with 11 people missing ](/news/2012/02/27/a-section-of-a-nine-story-apartment-building-in-the-city-of-astrakhan-russia-collapses-in-a-natural-gas-explosion-injuring-at-least-12-pe.md)
-_Context: Astrakhan apartment gas explosion, Astrakhan, Russia_
+_Context: Russia, Astrakhan, Astrakhan apartment gas explosion_
 
 ##### East Africa
 ### [East Africa's high-speed internet access is severely damaged by a ship dropping its anchor onto the fibre-optic cables of the TEAMS and EASSy cable systems off the coast of Mombasa, Kenya. ](/news/2012/02/27/east-africa-s-high-speed-internet-access-is-severely-damaged-by-a-ship-dropping-its-anchor-onto-the-fibre-optic-cables-of-the-teams-and-eass.md)
-_Context: Mombasa, East Africa, EASSy, TEAMS, Kenya_
+_Context: EASSy, East Africa, TEAMS, Kenya, Mombasa_
 
 ##### Wales
 ### [A farming alert is issued in Wales as an outbreak of Schmallenberg virus affects livestock in at least 74 farms in England. ](/news/2012/02/27/a-farming-alert-is-issued-in-wales-as-an-outbreak-of-schmallenberg-virus-affects-livestock-in-at-least-74-farms-in-england.md)
@@ -41,11 +41,11 @@ Welsh farmers were today on high alert for signs of a deadly virus that has kill
 
 ##### Costa Allegra
 ### [The "Costa Allegra" cruise ship is left adrift in the Indian Ocean near the Seychelles following an engine room fire. ](/news/2012/02/27/the-costa-allegra-cruise-ship-is-left-adrift-in-the-indian-ocean-near-the-seychelles-following-an-engine-room-fire.md)
-_Context: Seychelles, engine room, Indian, Costa Allegra_
+_Context: Seychelles, Indian, engine room, Costa Allegra_
 
 ##### Transportation Safety Board of Canada
 ### [The Transportation Safety Board of Canada begins its investigation into the Burlington train derailment. ](/news/2012/02/27/the-transportation-safety-board-of-canada-begins-its-investigation-into-the-burlington-train-derailment.md)
-_Context: Burlington train derailment, Transportation Safety Board of Canada_
+_Context: Transportation Safety Board of Canada, Burlington train derailment_
 
 ##### Japanese government
 ### [A report by the Rebuild Japan Initiative Foundation claims that the Japanese government considered the evacuation of Tokyo during the Fukushima Daiichi nuclear disaster. ](/news/2012/02/27/a-report-by-the-rebuild-japan-initiative-foundation-claims-that-the-japanese-government-considered-the-evacuation-of-tokyo-during-the-fukush.md)
@@ -53,7 +53,7 @@ In the darkest moments of last year’s nuclear accident, leaders secretly consi
 
 ##### Argentina
 ### [Argentina turns away two cruise ships from the port of Ushuaia &ndash; P&O Cruises "Adonia" and Princess Cruises' "Star Princess" &ndash; because the ships had earlier visited the Falkland Islands. ](/news/2012/02/27/argentina-turns-away-two-cruise-ships-from-the-port-of-ushuaia-ndash-p-o-cruises-adonia-and-princess-cruises-star-princess-ndash-be.md)
-_Context: P&O Cruises, cruise ship, Ushuaia, Princess Cruises, Falkland Islands, Argentina_
+_Context: P&O Cruises, Princess Cruises, cruise ship, Ushuaia, Falkland Islands, Argentina_
 
 ##### WikiLeaks
 ### [WikiLeaks begins disclosing 5 million e-mails from the private intelligence company Stratfor. ](/news/2012/02/27/wikileaks-begins-disclosing-5-million-e-mails-from-the-private-intelligence-company-stratfor.md)
@@ -69,11 +69,11 @@ One student was killed and four were injured in a shooting Monday morning&nbsp;a
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia Julia Gillard wins a leadership ballot in the Australian Labor Party, defeating former Prime Minister Kevin Rudd. ](/news/2012/02/27/the-prime-minister-of-australia-julia-gillard-wins-a-leadership-ballot-in-the-australian-labor-party-defeating-former-prime-minister-kevin.md)
-_Context: leadership ballot, Kevin Rudd, Australian Prime Minister, Julia Gillard, Australian Labor Party_
+_Context: Australian Labor Party, Julia Gillard, Australian Prime Minister, leadership ballot, Kevin Rudd_
 
 ##### Ukraine's Minister of the Interior
 ### [Former Ukrainian interior minister Yuriy Lutsenko is sentenced to fours year in jail for embezzlement and abuse of office. ](/news/2012/02/27/former-ukrainian-interior-minister-yuriy-lutsenko-is-sentenced-to-fours-year-in-jail-for-embezzlement-and-abuse-of-office.md)
-_Context: Ukraine's Minister of the Interior, embezzlement, Yuriy Lutsenko, abuse of office_
+_Context: Ukraine's Minister of the Interior, abuse of office, Yuriy Lutsenko, embezzlement_
 
 ## [Previous Day...](/news/2012/02/26/index.md)
 

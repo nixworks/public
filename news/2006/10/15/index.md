@@ -5,11 +5,11 @@ Formats: [HTML](2006/10/15/index.html)  [JSON](2006/10/15/index.json)  [XML](200
 
 ##### Ecuador
 ### [ Ecuador's presidential election goes to a second-round run-off between Rafael Correa and lvaro Noboa, to be held on 26 November. ](/news/2006/10/15/ecuador-s-presidential-election-goes-to-a-second-round-run-off-between-rafael-correa-and-alvaro-noboa-to-be-held-on-26-november.md)
-_Context: Rafael Correa, 26 November, Ecuador, 2006 campaign, lvaro Noboa_
+_Context: 26 November, Rafael Correa, lvaro Noboa, Ecuador, 2006 campaign_
 
 ##### Hawaii earthquake
 ### [ Hawaii earthquake: A 6.7-magnitude earthquake and a series of aftershocks hit the U.S. state of Hawaii at 7:07am local time, with an epicentre 9 miles (14 km) NNW of Kalaoa. 95% of power was lost throughout the state. Widespread structural damage on the Big Island is being reported, but no major injuries and no fatalities as of yet. Airports are only accepting incoming flights. ](/news/2006/10/15/hawaii-earthquake-a-6-7-magnitude-earthquake-and-a-series-of-aftershocks-hit-the-u-s-state-of-hawaii-at-7-07am-local-time-with-an-epicen.md)
-_Context: Hawaii, U.S. state, epicentre, Hawaii earthquake, magnitude, island of Hawaii, earthquake, Kalaoa_
+_Context: Hawaii earthquake, Kalaoa, island of Hawaii, magnitude, epicentre, earthquake, U.S. state, Hawaii_
 
 ## [Previous Day...](/news/2006/10/14/index.md)
 

@@ -13,7 +13,7 @@ _Context: loses_
 
 ##### automakers
 ### [ United States automaker General Motors announces it will cut 10,000 jobs in its salaried workforce and the pay of remaining employees. ](/news/2009/02/10/united-states-automaker-general-motors-announces-it-will-cut-10-000-jobs-in-its-salaried-workforce-and-the-pay-of-remaining-employees.md)
-_Context: workforce, automakers, cut, salaried, General Motors_
+_Context: cut, salaried, General Motors, automakers, workforce_
 
 ##### Karl-Theodor zu Guttenberg
 ### [ Karl-Theodor zu Guttenberg is named Germany's Federal Minister of Economics and Technology. ](/news/2009/02/10/karl-theodor-zu-guttenberg-is-named-germany-s-federal-minister-of-economics-and-technology.md)
@@ -21,27 +21,27 @@ _Context: Karl-Theodor zu Guttenberg, Federal Minister of Economics and Technolo
 
 ##### $
 ### [ Russia will request postponement of repayment of US$400 billion in private-sector debt to foreign banks. ](/news/2009/02/10/russia-will-request-postponement-of-repayment-of-us-400-billion-in-private-sector-debt-to-foreign-banks.md)
-_Context: $, private-sector, debt_
+_Context: debt, $, private-sector_
 
 ##### financial services
 ### [ Swiss financial services company UBS AG lost 19.7 billion francs for fiscal year 2008 and will cut 15,000 jobs throughout 2009. ](/news/2009/02/10/swiss-financial-services-company-ubs-ag-lost-19-7-billion-francs-for-fiscal-year-2008-and-will-cut-15-000-jobs-throughout-2009.md)
-_Context: UBS AG, financial services, fiscal year, francs, cut_
+_Context: cut, fiscal year, financial services, UBS AG, francs_
 
 ##### Israel
 ### [ Israel's legislative election takes place. ](/news/2009/02/10/israel-s-legislative-election-takes-place.md)
-_Context: legislative election, Israel_
+_Context: Israel, legislative election_
 
 ##### Zimbabwe
 ### [ Zimbabwe's dollar depreciates and its cholera epidemic has killed more than 3,000 people. ](/news/2009/02/10/zimbabwe-s-dollar-depreciates-and-its-cholera-epidemic-has-killed-more-than-3-000-people.md)
-_Context: Zimbabwe, dollar, cholera, depreciates, epidemic_
+_Context: depreciates, dollar, cholera, epidemic, Zimbabwe_
 
 ##### United States Senate
 ### [ The United States Senate approves the American Recovery and Reinvestment Act of 2009. ](/news/2009/02/10/the-united-states-senate-approves-the-american-recovery-and-reinvestment-act-of-2009.md)
-_Context: American Recovery and Reinvestment Act, United States Senate_
+_Context: United States Senate, American Recovery and Reinvestment Act_
 
 ##### visa-free travel
 ### [ The United Kingdom imposes new visa requirements on nationals from Bolivia, Lesotho, South Africa, Swaziland, and Venezuela. ](/news/2009/02/10/the-united-kingdom-imposes-new-visa-requirements-on-nationals-from-bolivia-lesotho-south-africa-swaziland-and-venezuela.md)
-_Context: national, Venezuela, visa-free travel, Lesotho, Bolivia, Swaziland_
+_Context: national, Venezuela, Swaziland, visa-free travel, Lesotho, Bolivia_
 
 ##### mobile phone
 ### [ Mexico will nationally register all its mobile phone users and catalog their fingerprints. ](/news/2009/02/10/mexico-will-nationally-register-all-its-mobile-phone-users-and-catalog-their-fingerprints.md)
@@ -49,11 +49,11 @@ Mexico will start a national register of mobile phone users that will include fi
 
 ##### EF-2
 ### [ An EF4 tornado kills at least eight people and injures 50 in Lone Grove, Oklahoma, United States. ](/news/2009/02/10/an-ef4-tornado-kills-at-least-eight-people-and-injures-50-in-lone-grove-oklahoma-united-states.md)
-_Context: EF-2, tornado, Oklahoma, Lone Grove, kills_
+_Context: Lone Grove, kills, tornado, Oklahoma, EF-2_
 
 ##### ongoing general strikes
 ### [ Fifty thousand people protest living costs in Guadeloupe and Martinique. ](/news/2009/02/10/fifty-thousand-people-protest-living-costs-in-guadeloupe-and-martinique.md)
-_Context: ongoing general strikes, Guadeloupe, living costs, Martinique_
+_Context: ongoing general strikes, Martinique, living costs, Guadeloupe_
 
 ## [Previous Day...](/news/2009/02/9/index.md)
 

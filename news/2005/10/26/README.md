@@ -5,15 +5,15 @@ Formats: [HTML](2005/10/26/index.html)  [JSON](2005/10/26/index.json)  [XML](200
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Three U.S. Soldiers die in two separate insurgent attacks in Baghdad and near Baqouba. ](/news/2005/10/26/conflict-in-iraq-three-u-s-soldiers-die-in-two-separate-insurgent-attacks-in-baghdad-and-near-baqouba.md)
-_Context: U.S., United States soldier, Iraqi insurgency, Baqouba, Baghdad, Conflict in Iraq_
+_Context: United States soldier, Baghdad, Conflict in Iraq, Iraqi insurgency, Baqouba, United States_
 
 ##### baseball game
 ### [ Baseball: In the deciding game of the 2005 World Series, the Chicago White Sox defeat the Houston Astros 1-0 to sweep the series 4 games to 0. This is the first World Championship for the Sox since 1917. Outfielder Jermaine Dye is named Series MVP. ](/news/2005/10/26/baseball-in-the-deciding-game-of-the-2005-world-series-the-chicago-white-sox-defeat-the-houston-astros-1-0-to-sweep-the-series-4-games-to.md)
-_Context: 1917, baseball game, Chicago White Sox, Jermaine Dye, Houston Astros, Series MVP, 2005 World Series_
+_Context: baseball game, Chicago White Sox, 2005 World Series, Series MVP, Houston Astros, Jermaine Dye, 1917_
 
 ##### Iran
 ### [ For the first time in Iranian history, Indian soldiers killed fighting for the British in Iran have been commemorated in an official ceremony in Tehran. ](/news/2005/10/26/for-the-first-time-in-iranian-history-indian-soldiers-killed-fighting-for-the-british-in-iran-have-been-commemorated-in-an-official-ceremo.md)
-_Context: India, Iran, Tehran, British_
+_Context: India, Tehran, Iran, British_
 
 ##### Iran
 ### [ Iranian President Mahmoud Ahmadinejad quotes the founder of the Islamic Republic of Iran, Ayatollah Ruhollah Khomeini, who called for the destruction of Israel, calling it a "disgraceful blot" that should be "wiped off the map". Ahmadinejad made the reference to 3,000 students during a speech at the "World without Zionism" conference. ](/news/2005/10/26/iranian-president-mahmoud-ahmadinejad-quotes-the-founder-of-the-islamic-republic-of-iran-ayatollah-ruhollah-khomeini-who-called-for-the-d.md)
@@ -29,11 +29,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### British
 ### [ The British Community Reference Laboratory for Avian Influenza in Weybridge confirms that swans found near Orahovica, Croatia, were infected by the H5N1 flu strain. ](/news/2005/10/26/the-british-community-reference-laboratory-for-avian-influenza-in-weybridge-confirms-that-swans-found-near-orahovica-croatia-were-infecte.md)
-_Context: infection, Weybridge, Community Reference Laboratory for Avian Influenza, British, Croatia, swan, bird flu_
+_Context: swan, British, Croatia, Weybridge, Community Reference Laboratory for Avian Influenza, infection, bird flu_
 
 ##### Politics of the United Kingdom
 ### [ The British Government, after several days of debating, confirms its plans to ban smoking in public places in England with the exemption of pubs and clubs not serving food. ](/news/2005/10/26/the-british-government-after-several-days-of-debating-confirms-its-plans-to-ban-smoking-in-public-places-in-england-with-the-exemption-of.md)
-_Context: smoking ban, Politics of the United Kingdom_
+_Context: Politics of the United Kingdom, smoking ban_
 
 ##### Wal-Mart
 ### [ A Wal-Mart internal memorandum determines that benefits costs are unsustainable, driven by an aging work force. A recommendation is to shift to more part time associates to lower health care enrollment. ](/news/2005/10/26/a-wal-mart-internal-memorandum-determines-that-benefits-costs-are-unsustainable-driven-by-an-aging-work-force-a-recommendation-is-to-shif.md)
@@ -41,11 +41,11 @@ _Context: health care, Wal-Mart_
 
 ##### pyramid
 ### [ What may be the first pyramid in Europe has been discovered in Bosnia. ](/news/2005/10/26/what-may-be-the-first-pyramid-in-europe-has-been-discovered-in-bosnia.md)
-_Context: Europe, Bosnia and Herzegovina, pyramid_
+_Context: Bosnia and Herzegovina, pyramid, Europe_
 
 ##### WNBA
 ### [ WNBA superstar Sheryl Swoopes of the Houston Comets publicly announces that she is a lesbian in an interview with ESPN The Magazine. ](/news/2005/10/26/wnba-superstar-sheryl-swoopes-of-the-houston-comets-publicly-announces-that-she-is-a-lesbian-in-an-interview-with-espn-the-magazine.md)
-_Context: WNBA, Houston Comets, ESPN The Magazine, lesbian, Sheryl Swoopes_
+_Context: Sheryl Swoopes, ESPN The Magazine, Houston Comets, lesbian, WNBA_
 
 ## [Previous Day...](/news/2005/10/25/index.md)
 

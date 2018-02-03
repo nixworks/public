@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/31/index.html)  [JSON](2013/05/31/index.json)  [XML](201
 
 ##### protestors
 ### [Turkish protestors are removed from Gezi Park in Taksim Square, Istanbul, in a violent crackdown by police after days of anti-government unrest. ](/news/2013/05/31/turkish-protestors-are-removed-from-gezi-park-in-taksim-square-istanbul-in-a-violent-crackdown-by-police-after-days-of-anti-government-unr.md)
-_Context: Taksim Square, protestors, Istanbul_
+_Context: protestors, Taksim Square, Istanbul_
 
 ##### Starbucks
 ### [Starbucks announces it will no longer allow customers to smoke in any of its locations. ](/news/2013/05/31/starbucks-announces-it-will-no-longer-allow-customers-to-smoke-in-any-of-its-locations.md)
@@ -21,7 +21,7 @@ _Context: Phoenix, Arizona_
 
 ##### Oklahoma City
 ### [Oklahoma City's Will Rogers World Airport is evacuated due to a tornado threat with three tornadoes touching down with five people dead and others reported missing. ](/news/2013/05/31/oklahoma-city-s-will-rogers-world-airport-is-evacuated-due-to-a-tornado-threat-with-three-tornadoes-touching-down-with-five-people-dead-and.md)
-_Context: May 31 tornado, Oklahoma City, Will Rogers World Airport_
+_Context: Oklahoma City, Will Rogers World Airport, May 31 tornado_
 
 ##### Middle East respiratory syndrome coronavirus
 ### [Italy announces its first case of novel coronavirus. ](/news/2013/05/31/italy-announces-its-first-case-of-novel-coronavirus.md)
@@ -41,7 +41,7 @@ MP Patrick Mercer resigns the Tory whip to &quot;save my party embarrassment&quo
 
 ##### presidential
 ### [Iranian presidential election: The first televised debate is held with candidates discussing their economic plans. ](/news/2013/05/31/iranian-presidential-election-the-first-televised-debate-is-held-with-candidates-discussing-their-economic-plans.md)
-_Context: televised debate, economic, presidential_
+_Context: economic, presidential, televised debate_
 
 ##### 
 ### [Zimbabwe's Constitutional Court orders elections must be held no later than July 31. ](/news/2013/05/31/zimbabwe-s-constitutional-court-orders-elections-must-be-held-no-later-than-july-31.md)

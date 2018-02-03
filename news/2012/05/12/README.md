@@ -9,7 +9,7 @@ Several people reported dead in latest clashes even as number of UN monitors cha
 
 ##### drone
 ### [The United States conducts two drone strikes in southeastern Yemen, killing 11 suspected Al-Qaeda militants. ](/news/2012/05/12/the-united-states-conducts-two-drone-strikes-in-southeastern-yemen-killing-11-suspected-al-qaeda-militants.md)
-_Context: drone, al-Qaeda, Yemen_
+_Context: al-Qaeda, Yemen, drone_
 
 ##### Nigeria
 ### [Nigerian police claim to have captured a senior commander of the radical Islamist militant group Boko Haram. ](/news/2012/05/12/nigerian-police-claim-to-have-captured-a-senior-commander-of-the-radical-islamist-militant-group-boko-haram.md)
@@ -17,7 +17,7 @@ Nigerian police say they have arrested a senior commander of the Islamist milita
 
 ##### NATO
 ### [Four NATO soldiers die in separate incidents in southern Afghanistan &ndash; two in a gun attack by insurgents, one in a roadside bombing, and one of non-combat injuries. ](/news/2012/05/12/four-nato-soldiers-die-in-separate-incidents-in-southern-afghanistan-ndash-two-in-a-gun-attack-by-insurgents-one-in-a-roadside-bombing-a.md)
-_Context: NATO, Afghanistan_
+_Context: Afghanistan, NATO_
 
 ##### European Commission
 ### [The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. ](/news/2012/05/12/the-european-commission-states-that-the-combined-eurozone-economy-is-likely-to-contract-by-0-3-in-2012-as-an-ongoing-debt-crisis-and-high.md)
@@ -25,9 +25,9 @@ Police clear protesters from central Madrid, after nationwide protests by the &q
 
 ##### Boston University
 ### [Three Boston University students are killed and another five are injured in a minivan crash during a trip to New Zealand. ](/news/2012/05/12/three-boston-university-students-are-killed-and-another-five-are-injured-in-a-minivan-crash-during-a-trip-to-new-zealand.md)
-_Context: Boston University, New Zealand, minivan_
+_Context: New Zealand, Boston University, minivan_
 
-##### Chinese
+##### China
 ### [China denies that its military has been placed on a war footing amid an ongoing dispute with the Philippines over territorial claims in the South China Sea. ](/news/2012/05/12/china-denies-that-its-military-has-been-placed-on-a-war-footing-amid-an-ongoing-dispute-with-the-philippines-over-territorial-claims-in-the.md)
 China denies reports its military forces are preparing for war amid tensions over a disputed territory in the South China Sea.
 
@@ -37,7 +37,7 @@ A pair of Palestinian prisoners being held without charge enter day 74 without f
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad calls Israel "nothing more than a mosquito" and downplays the idea of war between the two countries, ahead of talks regarding Iran's nuclear program. ](/news/2012/05/12/president-of-iran-mahmoud-ahmadinejad-calls-israel-nothing-more-than-a-mosquito-and-downplays-the-idea-of-war-between-the-two-countries-a.md)
-_Context: nuclear program, Mahmoud Ahmadinejad, President, Israel, mosquito_
+_Context: President, nuclear program, mosquito, Mahmoud Ahmadinejad, Israel_
 
 ##### President
 ### [President of Venezuela Hugo Chavez returns home after successfully completing of a course of radiotherapy for cancer in Cuba. ](/news/2012/05/12/president-of-venezuela-hugo-cha-vez-returns-home-after-successfully-completing-of-a-course-of-radiotherapy-for-cancer-in-cuba.md)
@@ -47,7 +47,7 @@ Venezuelan President Hugo Chavez returns from Cuba, saying his radiotherapy trea
 ### [The President of Greece, Karolos Papoulias, begins efforts at forming a coalition government, after three failed attempts by major political parties to reach a coalition agreement. ](/news/2012/05/12/the-president-of-greece-karolos-papoulias-begins-efforts-at-forming-a-coalition-government-after-three-failed-attempts-by-major-political.md)
 The Greek president summons party leaders for last-ditch talks on forming a unity government, after days of wrangling and deepening economic fears.
 
-##### U.S.
+##### United States
 ### [In the United States, prospective Republican presidential candidate Mitt Romney condemns same-sex marriage as illegitimate. At the evangelical Christian Liberty University in Lynchburg, Virginia, he describes marriage as exclusively "a relationship between one man and one woman." ](/news/2012/05/12/in-the-united-states-prospective-republican-presidential-candidate-mitt-romney-condemns-same-sex-marriage-as-illegitimate-at-the-evangelic.md)
 Presumptive US Republican presidential nominee Mitt Romney restates his opposition to same-sex marriage, days after President Obama backed it.
 

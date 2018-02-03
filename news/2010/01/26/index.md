@@ -5,19 +5,19 @@ Formats: [HTML](2010/01/26/index.html)  [JSON](2010/01/26/index.json)  [XML](201
 
 ##### Peru
 ### [Authorities in Peru begin evacuating over 2,000 tourists stranded by heavy rains on Machu Picchu. ](/news/2010/01/26/authorities-in-peru-begin-evacuating-over-2-000-tourists-stranded-by-heavy-rains-on-machu-picchu.md)
-_Context: Peru, Machu Picchu_
+_Context: Machu Picchu, Peru_
 
 ##### France
 ### [A French parliamentary report backs a partial ban on the wearing of burkhas by Muslim women. ](/news/2010/01/26/a-french-parliamentary-report-backs-a-partial-ban-on-the-wearing-of-burkhas-by-muslim-women.md)
 Panel recommends niqab be outlawed in schools, hospitals and on public transport.
 
-##### U.S.
+##### United States
 ### [The United States approves an arms sale to Taiwan, amid opposition from China. ](/news/2010/01/26/the-united-states-approves-an-arms-sale-to-taiwan-amid-opposition-from-china.md)
 White House reportedly backs arms deal in move likely to strain ties with Beijing.
 
 ##### Petelo Vikena
 ### [Petelo Vikena, King of the Kingdom of Alo in Wallis and Futuna, abdicates after reports of vandalism and arson against royal property. ](/news/2010/01/26/petelo-vikena-king-of-the-kingdom-of-alo-in-wallis-and-futuna-abdicates-after-reports-of-vandalism-and-arson-against-royal-property.md)
-_Context: King, Wallis and Futuna, Petelo Vikena, Kingdom of Alo, arson, vandalism_
+_Context: King, Kingdom of Alo, Petelo Vikena, arson, vandalism, Wallis and Futuna_
 
 ##### James Cameron
 ### [James Cameron's "Avatar" becomes the highest-grossing film of all time (not accounting inflation), surpassing his 1997 "Titanic". ](/news/2010/01/26/james-cameron-s-avatar-becomes-the-highest-grossing-film-of-all-time-not-accounting-inflation-surpassing-his-1997-titanic.md)

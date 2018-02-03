@@ -13,7 +13,7 @@ A far-right historian shoots himself dead inside the cathedral of Notre-Dame de 
 
 ##### Chinua Achebe
 ### [Chinua Achebe's body is flown into Lagos to be greeted by a funeral processional. His remains await burial in Ogidi, the author's hometown. ](/news/2013/05/21/chinua-achebe-s-body-is-flown-into-lagos-to-be-greeted-by-a-funeral-processional-his-remains-await-burial-in-ogidi-the-author-s-hometown.md)
-_Context: Lagos, Ogidi, Chinua Achebe, funeral_
+_Context: Chinua Achebe, Lagos, Ogidi, funeral_
 
 ##### Gerbrand Bakker
 ### [Gerbrand Bakker wins the Independent Foreign Fiction Prize for translation. ](/news/2013/05/21/gerbrand-bakker-wins-the-independent-foreign-fiction-prize-for-translation.md)
@@ -33,7 +33,7 @@ This after reports that armed assailants had taken the sailors hostage and deman
 
 ##### Saab Automobile
 ### [Three former top executives of Swedish car manufacturer Saab Automobile, Jan-Ake Jonsson (President and CEO), Kristina Geers (Chief Counsel), and Karl Lindstrom (CFO), are arrested on suspicion of accounting fraud and tax evasion during the bankruptcy procedure of the company. ](/news/2013/05/21/three-former-top-executives-of-swedish-car-manufacturer-saab-automobile-jan-ake-jonsson-president-and-ceo-kristina-geers-chief-counsel.md)
-_Context: Jan-Ake Jonsson, Saab Automobile_
+_Context: Saab Automobile, Jan-Ake Jonsson_
 
 ##### Oscar Pistorius
 ### [Carl Pistorius, the brother of Paralympian athlete Oscar Pistorius, is acquitted of culpable homicide over the death of a motorcyclist in South Africa. ](/news/2013/05/21/carl-pistorius-the-brother-of-paralympian-athlete-oscar-pistorius-is-acquitted-of-culpable-homicide-over-the-death-of-a-motorcyclist-in-so.md)
@@ -41,7 +41,7 @@ The brother of South African athletics star Oscar Pistorius, Carl, is acquitted 
 
 ##### U.S. Army
 ### [U.S. Army Brigadier General Bryan T. Roberts, the Commanding General of the U.S. Army Training Center and Fort Jackson in Fort Jackson, South Carolina, is suspended from his duties because of an investigation into alleged adultery (which is treated as a criminal violation, not just a civil matter, in the U.S. military), and for allegedly being in a physical altercation. ](/news/2013/05/21/u-s-army-brigadier-general-bryan-t-roberts-the-commanding-general-of-the-u-s-army-training-center-and-fort-jackson-in-fort-jackson-sout.md)
-_Context: U.S. Army, Fort Jackson, Bryan T. Roberts, U.S. Army Training Center, Fort Jackson, South Carolina, adultery, Commanding General, Brigadier General_
+_Context: Brigadier General, Fort Jackson, Fort Jackson, South Carolina, Commanding General, Bryan T. Roberts, U.S. Army Training Center, U.S. Army, adultery_
 
 ##### House of Commons
 ### [MPs in the House of Commons vote 366-161 in favour of the Marriage (Same Sex Couples) Bill taking an important step towards allowing gay marriage in England and Wales. ](/news/2013/05/21/mps-in-the-house-of-commons-vote-366-161-in-favour-of-the-marriage-same-sex-couples-bill-taking-an-important-step-towards-allowing-gay-mar.md)
@@ -49,11 +49,11 @@ _Context: Same-sex marriage, House of Commons, Marriage (Same Sex Couples) Bill_
 
 ##### Guardian Council
 ### [Final list of candidates are announced by Guardian Council. This included Mohammad-Bagher Ghalibaf, Hassan Rouhani, Saeed Jalili, Mohsen Rezaei and four others. ](/news/2013/05/21/final-list-of-candidates-are-announced-by-guardian-council-this-included-mohammad-bagher-ghalibaf-hassan-rouhani-saeed-jalili-mohsen-rez.md)
-_Context: Mohammad-Bagher Ghalibaf, Mohsen Rezaei, Hassan Rouhani, Saeed Jalili, Guardian Council_
+_Context: Mohsen Rezaei, Mohammad-Bagher Ghalibaf, Guardian Council, Saeed Jalili, Hassan Rouhani_
 
 ##### United States Senate Committee on the Judiciary
 ### [The United States Senate Committee on the Judiciary approves immigration reform legislation that would give citizenship to millions living in the country illegally. ](/news/2013/05/21/the-united-states-senate-committee-on-the-judiciary-approves-immigration-reform-legislation-that-would-give-citizenship-to-millions-living-i.md)
-_Context: United States Senate Committee on the Judiciary, citizenship_
+_Context: citizenship, United States Senate Committee on the Judiciary_
 
 ##### Microsoft
 ### [Microsoft announces their eighth generation console, the Xbox One. ](/news/2013/05/21/microsoft-announces-their-eighth-generation-console-the-xbox-one.md)

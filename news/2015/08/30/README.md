@@ -9,11 +9,11 @@ An air strike by warplanes from a Saudi-led coalition, which said it targeted a 
 
 ##### Syrian Observatory for Human Rights
 ### [The Syrian Observatory for Human Rights claims that ISIL has blown up the ancient Temple of Bel in Palmyra. ](/news/2015/08/30/the-syrian-observatory-for-human-rights-claims-that-isil-has-blown-up-the-ancient-temple-of-bel-in-palmyra.md)
-_Context: Syrian Observatory for Human Rights, Temple of Bel, Palmyra, Islamic State in Iraq and the Levant_
+_Context: Syrian Observatory for Human Rights, Palmyra, Islamic State in Iraq and the Levant, Temple of Bel_
 
 ##### Aramco
 ### [A fire at an Aramco housing complex in the Saudi Arabian city of Khobar kills at least two people and injures 105 others. ](/news/2015/08/30/a-fire-at-an-aramco-housing-complex-in-the-saudi-arabian-city-of-khobar-kills-at-least-two-people-and-injures-105-others.md)
-_Context: Aramco, Saudi Arabia, Khobar_
+_Context: Khobar, Saudi Arabia, Aramco_
 
 ##### 2015 Atlantic hurricane season
 ### [Dominican Prime Minister Roosevelt Skerrit declares disaster status for nine local areas where access by road is impossible after flooding and mudslides from Tropical Storm Erika which killed at least 20 people and left more than 50 missing. Skerrit also appealed for international aid. ](/news/2015/08/30/dominican-prime-minister-roosevelt-skerrit-declares-disaster-status-for-nine-local-areas-where-access-by-road-is-impossible-after-flooding-a.md)
@@ -41,11 +41,11 @@ Members of the Iglesia ni Cristo will gather in major cities across the country,
 
 ##### Bersih 4 rally
 ### [There is a second day of rallies in Malaysia calling on Prime Minister Najib Razak to resign over the 1Malaysia Development Berhad scandal. ](/news/2015/08/30/there-is-a-second-day-of-rallies-in-malaysia-calling-on-prime-minister-najib-razak-to-resign-over-the-1malaysia-development-berhad-scandal.md)
-_Context: Bersih 4 rally, 1Malaysia Development Berhad scandal, Malaysia, Prime Minister, Najib Razak_
+_Context: Malaysia, Najib Razak, Bersih 4 rally, Prime Minister, 1Malaysia Development Berhad scandal_
 
 ##### Tokyo
 ### [Students and activists protest in Tokyo against a proposal to amend Japan's pacifist constitution. ](/news/2015/08/30/students-and-activists-protest-in-tokyo-against-a-proposal-to-amend-japan-s-pacifist-constitution.md)
-_Context: Japan, Tokyo, constitution_
+_Context: constitution, Tokyo, Japan_
 
 ##### Egyptian parliamentary election, 2015
 ### [Voters in Egypt will go to the polls for parliamentary elections starting in October 2015. ](/news/2015/08/30/voters-in-egypt-will-go-to-the-polls-for-parliamentary-elections-starting-in-october-2015.md)

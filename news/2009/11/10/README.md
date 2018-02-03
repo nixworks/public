@@ -5,15 +5,15 @@ Formats: [HTML](2009/11/10/index.html)  [JSON](2009/11/10/index.json)  [XML](200
 
 ##### Itaipu Dam
 ### [ A power failure at Itaipu causes a massive blackout, affecting 15 states of Brazil and, briefly, the entire country of Paraguay; chaos is reported in major cities such as So Paulo. ](/news/2009/11/10/a-power-failure-at-itaipu-causes-a-massive-blackout-affecting-15-states-of-brazil-and-briefly-the-entire-country-of-paraguay-chaos-is-r.md)
-_Context: So Paulo, Itaipu Dam, Brazil, states, massive blackout, Paraguay_
+_Context: Paraguay, states, Brazil, massive blackout, So Paulo, Itaipu Dam_
 
 ##### South Korea
 ### [ South and North Korean naval ships fire on one another after a North Korean ship crossed the disputed Northern Limit Line in the Yellow Sea. The vessel later returned "wrapped in flames" after the incident. ](/news/2009/11/10/south-and-north-korean-naval-ships-fire-on-one-another-after-a-north-korean-ship-crossed-the-disputed-northern-limit-line-in-the-yellow-sea.md)
-_Context: fire on one another, North Korea, South Korea, Northern Limit Line, Yellow Sea_
+_Context: Northern Limit Line, fire on one another, South Korea, Yellow Sea, North Korea_
 
 ##### Liberia
 ### [ Prosecutors begin cross examining former Liberian President Charles Taylor at his war crimes trial. ](/news/2009/11/10/prosecutors-begin-cross-examining-former-liberian-president-charles-taylor-at-his-war-crimes-trial.md)
-_Context: President of Liberia, Charles Taylor, Liberia_
+_Context: Charles Taylor, President of Liberia, Liberia_
 
 ##### Thailand
 ### [ Thailand's ousted Prime Minister Thaksin Shinawatra arrives in Cambodia to take up his new appointment as economic adviser to the Cambodian government. ](/news/2009/11/10/thailand-s-ousted-prime-minister-thaksin-shinawatra-arrives-in-cambodia-to-take-up-his-new-appointment-as-economic-adviser-to-the-cambodian.md)

@@ -13,7 +13,7 @@ FRANCE&#039;S political &#039;&#039;trial of the century&#039;&#039;, a case of 
 
 ##### U.S. special forces launch an attack
 ### [ U.S. special forces launch an attack on Islamist militants from Al-Shabab in Somalia. ](/news/2009/09/14/u-s-special-forces-launch-an-attack-on-islamist-militants-from-al-shabab-in-somalia.md)
-_Context: U.S. special forces launch an attack, Al-Shabaab, Somalia, Islam_
+_Context: Somalia, Al-Shabaab, U.S. special forces launch an attack, Islam_
 
 ##### Karachi
 ### [ At least 18 women and children are killed in a stampede for free flour handed out by charity workers in Karachi, Pakistan. ](/news/2009/09/14/at-least-18-women-and-children-are-killed-in-a-stampede-for-free-flour-handed-out-by-charity-workers-in-karachi-pakistan.md)
@@ -25,11 +25,11 @@ Parliament approves law with stoning punishment for adultery, despite opposition
 
 ##### Uganda
 ### [ Dozens of people in Uganda are charged over riots in the capital Kampala over the visit of the King of Buganda, Ronald Muwenda Mutebi II. ](/news/2009/09/14/dozens-of-people-in-uganda-are-charged-over-riots-in-the-capital-kampala-over-the-visit-of-the-king-of-buganda-ronald-muwenda-mutebi-ii.md)
-_Context: kings, Kampala, Uganda, Ronald Muwenda Mutebi II_
+_Context: Kampala, Ronald Muwenda Mutebi II, Uganda, kings_
 
 ##### China
 ### [ China lodges a complaint with the World Trade Organization over the United States' decision to impose import duties on Chinese-made tires. ](/news/2009/09/14/china-lodges-a-complaint-with-the-world-trade-organization-over-the-united-states-decision-to-impose-import-duties-on-chinese-made-tires.md)
-_Context: China, World Trade Organization, U.S., tire_
+_Context: World Trade Organization, tire, United States, China_
 
 ##### Toronto
 ### [ A large area of Toronto, Canada, is evacuated after a Pipe bomb was found in a truck, but the bomb is neutralized by the Toronto bomb squad. ](/news/2009/09/14/a-large-area-of-toronto-canada-is-evacuated-after-a-pipe-bomb-was-found-in-a-truck-but-the-bomb-is-neutralized-by-the-toronto-bomb-squad.md)
@@ -37,11 +37,11 @@ The bomb squad has neutralized a suspicious package found in a vehicle near Mark
 
 ##### tennis
 ### [ In tennis, Juan Martn del Potro defeats Roger Federer and Kim Clijsters defeats Caroline Wozniacki at the U.S. Open. ](/news/2009/09/14/in-tennis-juan-martin-del-potro-defeats-roger-federer-and-kim-clijsters-defeats-caroline-wozniacki-at-the-u-s-open.md)
-_Context: Caroline Wozniacki, Kim Clijsters, U.S. Open, tennis, Roger Federer, Juan Martn del Potro_
+_Context: Roger Federer, Caroline Wozniacki, Kim Clijsters, tennis, U.S. Open, Juan Martn del Potro_
 
-##### U.S.
+##### United States
 ### [ American actor Patrick Swayze dies at age 57, after suffering from pancreatic cancer for more than 1 year. ](/news/2009/09/14/american-actor-patrick-swayze-dies-at-age-57-after-suffering-from-pancreatic-cancer-for-more-than-1-year.md)
-_Context: pancreatic cancer, U.S., Patrick Swayze_
+_Context: United States, pancreatic cancer, Patrick Swayze_
 
 ## [Previous Day...](/news/2009/09/13/index.md)
 

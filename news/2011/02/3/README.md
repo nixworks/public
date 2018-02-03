@@ -9,7 +9,7 @@ Ahmad Shafiq promises not to allow street violence again, after clashes in Cairo
 
 ##### United States Senate
 ### [The United States Senate passes a motion supporting democracy in Egypt and calling on President Hosni Mubarak to begin transferring power. ](/news/2011/02/3/the-united-states-senate-passes-a-motion-supporting-democracy-in-egypt-and-calling-on-president-hosni-mubarak-to-begin-transferring-power.md)
-_Context: democratic, Hosni Mubarak, President, United States Senate_
+_Context: United States Senate, democratic, Hosni Mubarak, President_
 
 ##### 2011 Yemeni protests
 ### [2011 Yemeni protests: Thousands of pro- and anti-government supporters demonstrate in Yemen over the rule of President Ali Abdullah Saleh in a planned "day of rage". ](/news/2011/02/3/2011-yemeni-protests-thousands-of-pro-and-anti-government-supporters-demonstrate-in-yemen-over-the-rule-of-president-ali-abdullah-saleh-in.md)
@@ -41,7 +41,7 @@ Brent crude rose above $103 a barrel on Thursday after violent clashes in Egypt 
 
 ##### Cyclone Yasi
 ### [Cyclone Yasi hits North Queensland in Australia with the worst affected towns including Mission Beach, Tully, Cardwell and Innisfail. ](/news/2011/02/3/cyclone-yasi-hits-north-queensland-in-australia-with-the-worst-affected-towns-including-mission-beach-tully-cardwell-and-innisfail.md)
-_Context: Innisfail, Australia, Mission Beach, northern, Cardwell, Tully, Cyclone Yasi_
+_Context: Cyclone Yasi, Innisfail, Mission Beach, Cardwell, Australia, northern, Tully_
 
 ##### Ankara
 ### [Death toll of second blast reaches 18 in Ankara, Turkey. ](/news/2011/02/3/death-toll-of-second-blast-reaches-18-in-ankara-turkey.md)
@@ -53,7 +53,7 @@ _Context: fireworks, Chinese New Year_
 
 ##### Silvio Berlusconi
 ### [Italy's parliament rejects a search request by prosecutors investigating Silvio Berlusconi for having sexual intercourse with an under-age prostitute. ](/news/2011/02/3/italy-s-parliament-rejects-a-search-request-by-prosecutors-investigating-silvio-berlusconi-for-having-sexual-intercourse-with-an-under-age-p.md)
-_Context: prostitute, Silvio Berlusconi, sexual intercourse_
+_Context: prostitute, sexual intercourse, Silvio Berlusconi_
 
 ##### suicide
 ### [A former policeman questions the suicide verdict recorded in the 1979 death of French cabinet minister Robert Boulin, claiming he could not have drowned. His family believe he was murdered. ](/news/2011/02/3/a-former-policeman-questions-the-suicide-verdict-recorded-in-the-1979-death-of-french-cabinet-minister-robert-boulin-claiming-he-could-not.md)

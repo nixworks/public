@@ -13,7 +13,7 @@ Two blasts at a peace rally in the Turkish capital Ankara kill at least 95 peopl
 
 ##### Boko Haram insurgency
 ### [Five suicide bombers target a village in Chad that is home to thousands of Nigerian refugees who have fled Boko Haram, killing at least 36 people. ](/news/2015/10/10/five-suicide-bombers-target-a-village-in-chad-that-is-home-to-thousands-of-nigerian-refugees-who-have-fled-boko-haram-killing-at-least-36-p.md)
-_Context: Boko Haram insurgency, Boko Haram, suicide bomber, Nigerian, Chad_
+_Context: Boko Haram, Nigerian, Boko Haram insurgency, suicide bomber, Chad_
 
 ##### War in Afghanistan (2015-present)
 ### [The U.S. Department of Defense will make payments to families of victims of last week's U.S. airstrike that struck a Medecins Sans Frontieres (Doctors Without Borders) hospital in the Afghan city of Kunduz. At least 22 people were killed including 12 staff members and 10 patients, including three children. MSF says 33 people are still missing and presumed to have died in the fire. ](/news/2015/10/10/the-u-s-department-of-defense-will-make-payments-to-families-of-victims-of-last-week-s-u-s-airstrike-that-struck-a-ma-c-decins-sans-frontia.md)
@@ -29,7 +29,7 @@ Fire that broke out in south Dublin in early hours of morning kills members of t
 
 ##### North Sumatra
 ### [ An Indonesian chopper carrying five people lost contact with air traffic control during a flight on North Sumatra, Indonesia. ](/news/2015/10/10/an-indonesian-chopper-carrying-five-people-lost-contact-with-air-traffic-control-during-a-flight-on-north-sumatra-indonesia.md)
-_Context: North Sumatra, Indonesia_
+_Context: Indonesia, North Sumatra_
 
 ##### Territorial disputes in the South China Sea
 ### [China completes the construction of two lighthouses on the disputed Spratly Islands in the South China Sea according to Chinese state media. The U.S. and the Philippines have opposed the construction efforts. ](/news/2015/10/10/china-completes-the-construction-of-two-lighthouses-on-the-disputed-spratly-islands-in-the-south-china-sea-according-to-chinese-state-media.md)
@@ -37,7 +37,7 @@ The United States and the Philippines opposed the construction, as tensions in t
 
 ##### North Korea
 ### [North Korea holds a massive military parade in its capital, Pyongyang, to celebrate the 70th anniversary of Workers' Party of Korea rule in the country. Liu Yunshan, the highest-ranking Chinese official to visit North Korea in three years, attends the parade. ](/news/2015/10/10/north-korea-holds-a-massive-military-parade-in-its-capital-pyongyang-to-celebrate-the-70th-anniversary-of-workers-party-of-korea-rule-in.md)
-_Context: Pyongyang, Liu Yunshan, North Korea, Workers' Party of Korea_
+_Context: North Korea, Workers' Party of Korea, Pyongyang, Liu Yunshan_
 
 ##### Egypt-France relations
 ### [During a state visit to Cairo by French prime minister Manuel Valls, Egypt officially signs a deal with France to purchase the two "Mistral"-class helicopter carriers that were originally destined for Russia but France refused to deliver due to the Ukrainian crisis. Russia will sell Egypt the helicopters originally intended for the ships. ](/news/2015/10/10/during-a-state-visit-to-cairo-by-french-prime-minister-manuel-valls-egypt-officially-signs-a-deal-with-france-to-purchase-the-two-mistral.md)

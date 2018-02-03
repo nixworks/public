@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/6/index.html)  [JSON](2016/09/6/index.json)  [XML](2016/
 
 ##### 2016 Davao City bombing
 ### [Philippine president Rodrigo Duterte declares a state of emergency in the whole country. In a warning to Abu Sayyaf, Duterte says "I will eat you alive." ](/news/2016/09/6/philippine-president-rodrigo-duterte-declares-a-state-of-emergency-in-the-whole-country-in-a-warning-to-abu-sayyaf-duterte-says-i-will-ea.md)
-_Context: a state of emergency, 2016 Davao City bombing, Abu Sayyaf, Rodrigo Duterte_
+_Context: Rodrigo Duterte, Abu Sayyaf, 2016 Davao City bombing, a state of emergency_
 
 ##### War in Afghanistan (2015-present)
 ### [Gunfire is heard in the Afghan capital Kabul with security forces looking for attackers with at least one person killed and six injured. ](/news/2016/09/6/gunfire-is-heard-in-the-afghan-capital-kabul-with-security-forces-looking-for-attackers-with-at-least-one-person-killed-and-six-injured.md)
@@ -21,7 +21,7 @@ The group has made a U-turn on its burka stance following reports of a veiled wo
 
 ##### Warner Brothers
 ### [Warner Brothers is accused of self-censorship after it tagged its own websites for copyright infringement through the search engine Google. ](/news/2016/09/6/warner-brothers-is-accused-of-self-censorship-after-it-tagged-its-own-websites-for-copyright-infringement-through-the-search-engine-google.md)
-_Context: Google, Warner Brothers, copyright infringement, self-censorship_
+_Context: Google, self-censorship, copyright infringement, Warner Brothers_
 
 ##### Bayer
 ### [Bayer reproposes to buy Monsanto at a new exchange of US$65 billion including debt. ](/news/2016/09/6/bayer-reproposes-to-buy-monsanto-at-a-new-exchange-of-us-65-billion-including-debt.md)
@@ -29,7 +29,7 @@ Bayer AG raised its offer to buy Monsanto Co. and create a new global leader in 
 
 ##### Fox News
 ### [Fox News "On The Record" host Greta Van Susteren leaves the channel after 14 years. ](/news/2016/09/6/fox-news-on-the-record-host-greta-van-susteren-leaves-the-channel-after-14-years.md)
-_Context: On The Record, Greta Van Susteren, Fox News_
+_Context: On The Record, Fox News, Greta Van Susteren_
 
 ##### 2016 Pacific hurricane season
 ### [Hurricane Newton makes its way towards the resort town of Los Cabos, Mexico. ](/news/2016/09/6/hurricane-newton-makes-its-way-towards-the-resort-town-of-los-cabos-mexico.md)
@@ -61,7 +61,7 @@ Act II of the Ailes saga may have just begun.
 
 ##### Bill Cosby sexual assault allegations
 ### [A judge in Pennsylvania schedules the dates for the trial of accused U.S. comedian Bill Cosby. ](/news/2016/09/6/a-judge-in-pennsylvania-schedules-the-dates-for-the-trial-of-accused-u-s-comedian-bill-cosby.md)
-_Context: Pennsylvania, Bill Cosby, Bill Cosby sexual assault allegations_
+_Context: Bill Cosby sexual assault allegations, Pennsylvania, Bill Cosby_
 
 ##### Mecklenburg-Vorpommern state election, 2016
 ### [German Chancellor Angela Merkel defends her stance regarding the European migrant crisis despite her party losing in the key election. ](/news/2016/09/6/german-chancellor-angela-merkel-defends-her-stance-regarding-the-european-migrant-crisis-despite-her-party-losing-in-the-key-election.md)

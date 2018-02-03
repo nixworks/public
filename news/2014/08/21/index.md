@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/21/index.html)  [JSON](2014/08/21/index.json)  [XML](201
 
 ##### 2014 Israel-Gaza conflict
 ### [Israeli airstrikes kill three senior military commanders of Hamas. ](/news/2014/08/21/israeli-airstrikes-kill-three-senior-military-commanders-of-hamas.md)
-_Context: Israel, Hamas, 2014 Israel-Gaza conflict_
+_Context: 2014 Israel-Gaza conflict, Hamas, Israel_
 
 ##### Damascus
 ### [The Syrian opposition accuses the Syrian army of launching a chemical attack on the Jobar neighborhood of Damascus, killing at least six people. ](/news/2014/08/21/the-syrian-opposition-accuses-the-syrian-army-of-launching-a-chemical-attack-on-the-jobar-neighborhood-of-damascus-killing-at-least-six-peo.md)
@@ -13,7 +13,7 @@ ARA News Damascus, Syria – The Syrian opposition accused military forces loyal
 
 ##### Bell 206
 ### [A Bell 206 helicopter carrying 5 Guatemalan Military officers crashes in Huehuetenango department, killing all on board. ](/news/2014/08/21/a-bell-206-helicopter-carrying-5-guatemalan-military-officers-crashes-in-huehuetenango-department-killing-all-on-board.md)
-_Context: Guatemalan Military, Huehuetenango department, Bell 206_
+_Context: Huehuetenango department, Bell 206, Guatemalan Military_
 
 ##### Hiroshima
 ### [36 people are killed by landslides in Hiroshima, Japan, after a night of heavy rain. ](/news/2014/08/21/36-people-are-killed-by-landslides-in-hiroshima-japan-after-a-night-of-heavy-rain.md)
@@ -21,7 +21,7 @@ At least 36 people, including several children, were killed in Japan on Wednesda
 
 ##### Romania
 ### [The governments of Romania and Hungary sign a framework agreement for opening 20 cross-border roads, strengthening traffic links with the entire European Union. ](/news/2014/08/21/the-governments-of-romania-and-hungary-sign-a-framework-agreement-for-opening-20-cross-border-roads-strengthening-traffic-links-with-the-en.md)
-_Context: Hungary, European Union, Romania_
+_Context: Romania, Hungary, European Union_
 
 ##### Ministry of Justice Investigation Bureau
 ### [The Ministry of Justice Investigation Bureau in Taiwan is investigating former deputy minister Chang Hsien-yao of the Mainland Affairs Council on suspicions of treason for allegedly leaking classified information to China. ](/news/2014/08/21/the-ministry-of-justice-investigation-bureau-in-taiwan-is-investigating-former-deputy-minister-chang-hsien-yao-of-the-mainland-affairs-counc.md)
@@ -33,11 +33,11 @@ The Brazilian Socialist Party names environmental campaigner Marina Silva as its
 
 ##### Slovenian parliamentary election, 2014
 ### [The outgoing prime minister Alenka Bratusek and her alliance is barred from entering the new government due to "ethical concerns", notably her self-nomination as the country's EU commissioner, a decision currently being investigated by the Commission for the Prevention of Corruption. ](/news/2014/08/21/the-outgoing-prime-minister-alenka-bratua-ek-and-her-alliance-is-barred-from-entering-the-new-government-due-to-ethical-concerns-notably.md)
-_Context: Slovenian parliamentary election, 2014, Alenka Bratusek, alliance, Commission for the Prevention of Corruption_
+_Context: Slovenian parliamentary election, 2014, alliance, Commission for the Prevention of Corruption, Alenka Bratusek_
 
 ##### military coup
 ### [The National Assembly of Thailand elects coup leader General Prayuth Chan-ocha as Prime Minister. ](/news/2014/08/21/the-national-assembly-of-thailand-elects-coup-leader-general-prayuth-chan-ocha-as-prime-minister.md)
-_Context: Prayuth Chan-ocha, National Assembly of Thailand, Prime Minister, military coup_
+_Context: Prime Minister, National Assembly of Thailand, Prayuth Chan-ocha, military coup_
 
 ##### Turkish
 ### [The Turkish Justice and Development Party chooses foreign minister Ahmet Davutoglu as its leader meaning that he will become the new Prime Minister. ](/news/2014/08/21/the-turkish-justice-and-development-party-chooses-foreign-minister-ahmet-davutoalu-as-its-leader-meaning-that-he-will-become-the-new-prime.md)

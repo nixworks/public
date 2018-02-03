@@ -9,7 +9,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ##### legislative election
 ### [ Results from the Iraqi election show that a Shi'a group approved by Grand Ayatollah Ali al-Sistani has won by a landslide with 48% of all votes cast. The nearest rival party, a Kurdish alliance of two parties, won 26% of the vote. The results will stand if not challenged within three days. ](/news/2005/02/13/results-from-the-iraqi-election-show-that-a-shi-a-group-approved-by-grand-ayatollah-ali-al-sistani-has-won-by-a-landslide-with-48-of-all-v.md)
-_Context: legislative election, Ali al-Sistani, Kurd, Shi'a, Grand Ayatollah_
+_Context: Kurd, Ali al-Sistani, legislative election, Shi'a, Grand Ayatollah_
 
 ##### Paris
 ### [ An early morning explosion extensively damages a Paris theater, and slightly injures seven people. ](/news/2005/02/13/an-early-morning-explosion-extensively-damages-a-paris-theater-and-slightly-injures-seven-people.md)
@@ -17,23 +17,23 @@ _Context: Paris_
 
 ##### Moscow
 ### [ In Moscow, Russia, thousands protest against the new benefits plan, which replaces such benefits as free transportation and subsidized drugs with small cash payments. ](/news/2005/02/13/in-moscow-russia-thousands-protest-against-the-new-benefits-plan-which-replaces-such-benefits-as-free-transportation-and-subsidized-drug.md)
-_Context: Moscow, Russia_
+_Context: Russia, Moscow_
 
 ##### aftershock
 ### [ Two strong aftershocks strike tsunami-devastated Aceh, Indonesia, leading to some panic. ](/news/2005/02/13/two-strong-aftershocks-strike-tsunami-devastated-aceh-indonesia-leading-to-some-panic.md)
-_Context: aftershock, 2004 Indian Ocean earthquake, Aceh, Indonesia_
+_Context: 2004 Indian Ocean earthquake, Indonesia, aftershock, Aceh_
 
 ##### Windsor Tower
 ### [ Windsor Tower in central Madrid, Spain, one of the most prominent buildings in the city, is destroyed in a dramatic fire starting around 23:30 of February 12, Madrid time. Part of the building has been empty for renovations since 2003, but it still held offices for Deloitte & Touche. The Mayor of Madrid says that it is a critical situation and the building may collapse. The cause of the fire is not yet known, but a short-circuit on the 21st floor is suspected. ](/news/2005/02/13/windsor-tower-in-central-madrid-spain-one-of-the-most-prominent-buildings-in-the-city-is-destroyed-in-a-dramatic-fire-starting-around-23.md)
-_Context: February 12, time zone, Mayor of Madrid, Windsor Tower, Deloitte & Touche, central Madrid, Spain_
+_Context: Spain, Deloitte & Touche, central Madrid, Mayor of Madrid, time zone, February 12, Windsor Tower_
 
 ##### Nun
 ### [ Sister Lucia de Jesus Santos dies. She was the last survivor of three children to whom the Virgin Mary is said to have appeared at Fatima in central Portugal in 1917. ](/news/2005/02/13/sister-lucia-de-jesus-santos-dies-she-was-the-last-survivor-of-three-children-to-whom-the-virgin-mary-is-said-to-have-appeared-at-fatima-i.md)
-_Context: Virgin Mary, Portugal, Lucia de Jesus Santos, 1917, Nun, Fatima, appeared_
+_Context: Portugal, 1917, Fatima, appeared, Lucia de Jesus Santos, Nun, Virgin Mary_
 
 ##### German
 ### [ Germans mark the 60th anniversary of the Dresden fire bombing. ](/news/2005/02/13/germans-mark-the-60th-anniversary-of-the-dresden-fire-bombing.md)
-_Context: Dresden fire bombing, German_
+_Context: German, Dresden fire bombing_
 
 ## [Previous Day...](/news/2005/02/12/index.md)
 

@@ -19,11 +19,11 @@ _Context: euro, Donald Tusk_
 
 ##### Wildfire
 ### [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. 250 acre of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-250-acre-of-state-park-land-burned-south-of-mal.md)
-_Context: Wildfire, Malibu, California, state park_
+_Context: Malibu, California, Wildfire, state park_
 
 ##### Typhoon Mitag
 ### [ Typhoon Mitag remains static over the Philippine Sea but changes course, and is expected to make landfall in Aurora-Isabela provinces of the Philippines on Monday due to the very slow and unusual movement. ](/news/2007/11/24/typhoon-mitag-remains-static-over-the-philippine-sea-but-changes-course-and-is-expected-to-make-landfall-in-aurora-isabela-provinces-of-th.md)
-_Context: Typhoon Mitag, Philippines, landfall, Isabela, Philippine Sea, Aurora_
+_Context: landfall, Typhoon Mitag, Isabela, Philippines, Aurora, Philippine Sea_
 
 ##### opposition leader
 ### [ Russian opposition leader Garry Kasparov is arrested during a The Other Russia rally in Moscow. ](/news/2007/11/24/russian-opposition-leader-garry-kasparov-is-arrested-during-a-the-other-russia-rally-in-moscow.md)
@@ -31,15 +31,15 @@ _Context: opposition leader, The Other Russia, Garry Kasparov_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI creates 23 new cardinals in a ceremony in St. Peter's Basilica in the Vatican City. ](/news/2007/11/24/pope-benedict-xvi-creates-23-new-cardinals-in-a-ceremony-in-st-peter-s-basilica-in-the-vatican-city.md)
-_Context: Vatican, Pope Benedict XVI, Vatican City, cardinal_
+_Context: cardinal, Pope Benedict XVI, Vatican City, Vatican_
 
 ##### suicide bomber
 ### [ At least six people, most of them children, are killed by a suicide bomber in Paghman, Afghanistan. ](/news/2007/11/24/at-least-six-people-most-of-them-children-are-killed-by-a-suicide-bomber-in-paghman-afghanistan.md)
-_Context: suicide bomber, Afghanistan, Paghman_
+_Context: Afghanistan, suicide bomber, Paghman_
 
 ##### Prime Minister
 ### [ Former Prime Minister Shaukat Aziz refuses to contest in forthcoming elections and denied rumors that he is leaving the country. Two suicide car bombings kill at least 30 people and injure many more in Rawalpindi. ](/news/2007/11/24/former-prime-minister-shaukat-aziz-refuses-to-contest-in-forthcoming-elections-and-denied-rumors-that-he-is-leaving-the-country-two-suicid.md)
-_Context: Prime Minister, suicide bomber, car bombing, Shaukat Aziz, Rawalpindi_
+_Context: suicide bomber, car bombing, Rawalpindi, Prime Minister, Shaukat Aziz_
 
 ## [Previous Day...](/news/2007/11/23/index.md)
 

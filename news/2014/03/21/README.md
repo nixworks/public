@@ -25,7 +25,7 @@ _Context: Ukraine, Russia, European Union_
 
 ##### Bernard A. Friedman
 ### [American judge Bernard A. Friedman of the United States District Court for the Eastern District of Michigan overturns Michigan's ban on same-sex marriages. ](/news/2014/03/21/american-judge-bernard-a-friedman-of-the-united-states-district-court-for-the-eastern-district-of-michigan-overturns-michigan-s-ban-on-same.md)
-_Context: U.S. District Judge for the Eastern District of Michigan, Bernard A. Friedman, Mich._
+_Context: U.S. District Judge for the Eastern District of Michigan, Mich., Bernard A. Friedman_
 
 ##### Qiubei County
 ### [A kindergarten lunch in Qiubei County, China, is poisoned, leaving 2 children dead and another 30 sick. ](/news/2014/03/21/a-kindergarten-lunch-in-qiubei-county-china-is-poisoned-leaving-2-children-dead-and-another-30-sick.md)

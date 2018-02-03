@@ -37,7 +37,7 @@ _Context: Afghanistan, Azerbaijan, 2016 Silk Way Airlines Antonov An-12 crash_
 
 ##### opinion
 ### [A unanimous opinion of the U.S. Supreme Court finds that the constitutional guarantee of a speedy trial does not guarantee a speedy sentencing hearing. ](/news/2016/05/19/a-unanimous-opinion-of-the-u-s-supreme-court-finds-that-the-constitutional-guarantee-of-a-speedy-trial-does-not-guarantee-a-speedy-sentenci.md)
-_Context: U.S. Supreme Court, constitutional, opinion, speedy trial_
+_Context: speedy trial, constitutional, U.S. Supreme Court, opinion_
 
 ##### San Francisco Police Department
 ### [San Francisco Police Department Chief Greg Suhr resigns from his position several hours after a black woman is shot by police in San Francisco. ](/news/2016/05/19/san-francisco-police-department-chief-greg-suhr-resigns-from-his-position-several-hours-after-a-black-woman-is-shot-by-police-in-san-francis.md)
@@ -45,15 +45,15 @@ San Francisco&#39;s police chief has resigned at the request of the mayor hours 
 
 ##### Accession of Montenegro to NATO
 ### [Montenegro and NATO sign an accession agreement, paving the way for the country's future entry into the military alliance. All of NATO's members must now ratify the agreement, with Prime Minister Milo Dukanovic expecting Montenegro to join by mid 2017. ](/news/2016/05/19/montenegro-and-nato-sign-an-accession-agreement-paving-the-way-for-the-country-s-future-entry-into-the-military-alliance-all-of-nato-s-mem.md)
-_Context: Accession of Montenegro to NATO, membership, Prime Minister, NATO, Milo Dukanovic, Montenegro_
+_Context: Montenegro, Prime Minister, membership, Accession of Montenegro to NATO, Milo Dukanovic, NATO_
 
 ##### Ukraine
 ### [Ukraine's Parliament, the "Verkhovna Rada", decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/ukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be-renamed-dnipro-as-part-of-the.md)
-_Context: decommunization, parliament, Dnipropetrovsk, Ukraine_
+_Context: Ukraine, decommunization, parliament, Dnipropetrovsk_
 
 ##### Philippine general election, 2016
 ### [ In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. ](/news/2016/05/19/in-the-philippine-general-election-the-liberal-party-emerges-as-the-party-with-a-plurality-of-seats-in-the-philippine-senate-election-201.md)
-_Context: Philippine general election, 2016, Philippine Senate election, 2016, Philippine House of Representatives elections, 2016, Liberal Party_
+_Context: Liberal Party, Philippine Senate election, 2016, Philippine general election, 2016, Philippine House of Representatives elections, 2016_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu asks Yisrael Beiteinu party leader and former Foreign Minister Avigdor Lieberman to be Defense Minister. Current defense minister and former army chief of staff Moshe Ya'alon's role in the future government is unclear. Leiberman is known for his hawkish and uncompromising views. ](/news/2016/05/19/israeli-prime-minister-benjamin-netanyahu-asks-yisrael-beiteinu-party-leader-and-former-foreign-minister-avigdor-lieberman-to-be-defense-min.md)

@@ -9,7 +9,7 @@ A Latvian referendum on whether to give people the right to dismiss parliament o
 
 ##### scale
 ### [ Two climbers from an international expedition perish after ice fall on K2 mountain in the Himalayas, and six members of the team have gone missing. ](/news/2008/08/2/two-climbers-from-an-international-expedition-perish-after-ice-fall-on-k2-mountain-in-the-himalayas-and-six-members-of-the-team-have-gone.md)
-_Context: K2 mountain, scale, Himalayas_
+_Context: scale, K2 mountain, Himalayas_
 
 ##### International Olympic Committee
 ### [ The International Olympic Committee strips the United States 2000 Summer Olympics 4400 metre relay team of their gold medal after team member Antonio Pettigrew admits to doping. ](/news/2008/08/2/the-international-olympic-committee-strips-the-united-states-2000-summer-olympics-4x400-metre-relay-team-of-their-gold-medal-after-team-mem.md)

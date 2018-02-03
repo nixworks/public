@@ -59,7 +59,7 @@ Pontiff visits Greek island to highlight refugee crisis, telling crowds: ‘We h
 ### [EU Foreign policy chief Federica Mogherini holds the highest-level talks between the EU and Iran in decades to mark a new phase in relations between the two. Both sides are keen to focus on trade, energy and the environment as possible areas of cooperation. ](/news/2016/04/16/eu-foreign-policy-chief-federica-mogherini-holds-the-highest-level-talks-between-the-eu-and-iran-in-decades-to-mark-a-new-phase-in-relations.md)
 EU foreign policy chief Federica Mogherini says they have &quot;turned a new page&quot; with Iran, as she visits Tehran for highest-level talks in more than a decade.
 
-##### U.S.
+##### United States
 ### [The United States announces that it will transfer nine Yemeni detainees from the Guantanamo Bay detention camp to Saudi Arabia. ](/news/2016/04/16/the-united-states-announces-that-it-will-transfer-nine-yemeni-detainees-from-the-guantanamo-bay-detention-camp-to-saudi-arabia.md)
 MIAMI (AP) — The U.S. has released nine more prisoners from its base at Guantanamo Bay, Cuba, and sent them to Saudi Arabia for resettlement, officials said Saturday. The move announced in a Pentagon statement is part…
 
@@ -69,7 +69,7 @@ A Russian fighter jet flew dangerously close to a U.S. RC-135 reconnaissance air
 
 ##### Salvador Cienfuegos Zepeda
 ### [General Salvador Cienfuegos Zepeda, Mexico's Secretary of National Defence, apologises for an incident in which two soldiers and a policewoman torture a woman. ](/news/2016/04/16/general-salvador-cienfuegos-zepeda-mexico-s-secretary-of-national-defence-apologises-for-an-incident-in-which-two-soldiers-and-a-policewom.md)
-_Context: Salvador Cienfuegos Zepeda, Secretary of National Defence, Mexico_
+_Context: Secretary of National Defence, Salvador Cienfuegos Zepeda, Mexico_
 
 ##### Iraq
 ### [Iraq's Parliament cancels its third session in a week to discuss political reforms as some MPs dispute the legitimacy of speaker Salim al-Jabouri to chair the meeting. Also, protesters gathered in the streets of Baghdad to protest the growing political deadlock in the country. ](/news/2016/04/16/iraq-s-parliament-cancels-its-third-session-in-a-week-to-discuss-political-reforms-as-some-mps-dispute-the-legitimacy-of-speaker-salim-al-ja.md)
@@ -81,7 +81,7 @@ Protests on streets of Skopje for fourth night after Macedonia confirmed 5 June 
 
 ##### President of the Republic of the Congo
 ### [Veteran President of the Republic of the Congo Denis Sassou Nguesso is sworn in for another term after a contentious election. ](/news/2016/04/16/veteran-president-of-the-republic-of-the-congo-denis-sassou-nguesso-is-sworn-in-for-another-term-after-a-contentious-election.md)
-_Context: President of the Republic of the Congo, Denis Sassou Nguesso_
+_Context: Denis Sassou Nguesso, President of the Republic of the Congo_
 
 ## [Previous Day...](/news/2016/04/15/index.md)
 

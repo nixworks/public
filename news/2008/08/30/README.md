@@ -29,11 +29,11 @@ _Context: Swat, Pakistan, Pakistan Army, Khyber Pakhtunkhwa_
 
 ##### Italy
 ### [ Italy compensates Libya for the forced colonization in the 1910s, promising to pay US$5 billion over the next 25 years. ](/news/2008/08/30/italy-compensates-libya-for-the-forced-colonization-in-the-1910s-promising-to-pay-us-5-billion-over-the-next-25-years.md)
-_Context: forced colonization, Libya, Italy_
+_Context: Libya, forced colonization, Italy_
 
 ##### Mahdi Army
 ### [ The head of the Mahdi Army in Karbala, Iraq, is sentenced to death over the Battle of Karbala (2007) ](/news/2008/08/30/the-head-of-the-mahdi-army-in-karbala-iraq-is-sentenced-to-death-over-the-battle-of-karbala-2007.md)
-_Context: Mahdi Army, Battle of Karbala (2007), Karbala, Iraq_
+_Context: Battle of Karbala (2007), Mahdi Army, Karbala, Iraq_
 
 ## [Previous Day...](/news/2008/08/29/index.md)
 

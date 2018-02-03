@@ -17,7 +17,7 @@ _Context: Abuja, Nigeria_
 
 ##### South Africa
 ### [South African platinum miners return to work after a five month strike ends. ](/news/2014/06/25/south-african-platinum-miners-return-to-work-after-a-five-month-strike-ends.md)
-_Context: South Africa, platinum_
+_Context: platinum, South Africa_
 
 ##### Bihar
 ### [4 killed in a train accident in Bihar, India. ](/news/2014/06/25/4-killed-in-a-train-accident-in-bihar-india.md)
@@ -27,9 +27,9 @@ Railways, while confirming the death of 4 people in the accident, has not ruled 
 ### [The People's Republic of China sends its first minister-level official to Taiwan to build ties with the self-governing island amid trade suspicions. ](/news/2014/06/25/the-people-s-republic-of-china-sends-its-first-minister-level-official-to-taiwan-to-build-ties-with-the-self-governing-island-amid-trade-sus.md)
 China sends its first ever ministerial-level official on a charm offensive to Taiwan following mass protests over a proposed trade agreement.
 
-##### U.S.
+##### United States
 ### [The United States has added several LeT-affiliated organizations including Jama'at-ud-Dawa to its list of foreign terror organisations.](/news/2014/06/25/the-united-states-has-added-several-let-affiliated-organizations-including-jama-at-ud-dawa-to-its-list-of-foreign-terror-organisations.md)
-_Context: Jama'at-ud-Dawa, U.S., LeT_
+_Context: Jama'at-ud-Dawa, United States, LeT_
 
 ##### Egypt
 ### [Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/egypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-of-the-agenda.md)
@@ -37,7 +37,7 @@ _Context: Jama'at-ud-Dawa, U.S., LeT_
 
 ##### Parliament of Romania
 ### [Both houses of the Romanian parliament widely adopt a joint statement urging Romania's president Traian Basescu to resign, following corruption scandals involving his arrested brother's graft case and one of his sons-in-law's implication in a criminal investigation. ](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.md)
-_Context: Parliament of Romania, Romania, corruption, Traian Basescu, graft_
+_Context: corruption, Romania, graft, Traian Basescu, Parliament of Romania_
 
 ## [Previous Day...](/news/2014/06/24/index.md)
 

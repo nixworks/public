@@ -17,7 +17,7 @@ Father of Ibragim Todashev, who died during questioning over links to alleged Bo
 
 ##### Maroon 5
 ### [Maroon 5 frontman Adam Levine makes an "unpatriotic" comment on television, prompting calls for him to be removed to a "Communist country" or pursued by secretive anti-terrorism hit squads. Levine responds by tweeting dictionary definitions of words such as "joke", "humourless" and "lighthearted" but is later forced to apologise for his indiscretion. ](/news/2013/05/30/maroon-5-frontman-adam-levine-makes-an-unpatriotic-comment-on-television-prompting-calls-for-him-to-be-removed-to-a-communist-country-o.md)
-_Context: Communist, Adam Levine, Maroon 5_
+_Context: Adam Levine, Communist, Maroon 5_
 
 ##### Grumpy Cat
 ### [It is announced that Internet sensation Grumpy Cat will star in a feature-length movie. ](/news/2013/05/30/it-is-announced-that-internet-sensation-grumpy-cat-will-star-in-a-feature-length-movie.md)
@@ -29,7 +29,7 @@ _Context: Tamiflu_
 
 ##### genetically modified wheat
 ### [Following the controversial discovery of genetically modified wheat on a U.S. farm on May 29, Japan suspends imports of wheat from the U.S. ](/news/2013/05/30/following-the-controversial-discovery-of-genetically-modified-wheat-on-a-u-s-farm-on-may-29-japan-suspends-imports-of-wheat-from-the-u-s.md)
-_Context: wheat, Japan, genetically modified wheat_
+_Context: Japan, genetically modified wheat, wheat_
 
 ##### Hezbollah
 ### [Nigeria soldiers uncover a large stock of weapons that they believe belonged to Hezbollah. ](/news/2013/05/30/nigeria-soldiers-uncover-a-large-stock-of-weapons-that-they-believe-belonged-to-hezbollah.md)
@@ -69,7 +69,7 @@ _Context: woolly mammoth_
 
 ##### Stanford University
 ### [Stanford University researchers unveil a zinc-air battery that is more energy-dense and cheaper than lithium-ion counterparts. ](/news/2013/05/30/stanford-university-researchers-unveil-a-zincaair-battery-that-is-more-energy-dense-and-cheaper-than-lithium-ion-counterparts.md)
-_Context: lithium-ion, zinc-air battery, Stanford University_
+_Context: zinc-air battery, Stanford University, lithium-ion_
 
 ##### (285263) 1998 QE2
 ### [The asteroid (285263) 1998 QE2, expected to approach within 3.6 million miles of Earth on May 31, is discovered to have its own moon.](/news/2013/05/30/the-asteroid-285263-1998-qe2-expected-to-approach-within-3-6-million-miles-of-earth-on-may-31-is-discovered-to-have-its-own-moon.md)

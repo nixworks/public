@@ -5,7 +5,7 @@ Formats: [HTML](2006/07/22/index.html)  [JSON](2006/07/22/index.json)  [XML](200
 
 ##### Colombia
 ### [ A group of Colombian farmers has won a multimillion pound settlement from BP after the British oil and gas company was accused of benefiting from a regime of terror carried out by Colombian government paramilitaries to protect a 450-mile pipeline.](/news/2006/07/22/a-group-of-colombian-farmers-has-won-a-multimillion-pound-settlement-from-bp-after-the-british-oil-and-gas-company-was-accused-of-benefitin.md)
-_Context: BP, Colombia, paramilitaries_
+_Context: paramilitaries, Colombia, BP_
 
 ##### European Union
 ### [ The European Union sends experts to Cyprus to help coordinate provision of emergency humanitarian aid to Lebanon. ](/news/2006/07/22/the-european-union-sends-experts-to-cyprus-to-help-coordinate-provision-of-emergency-humanitarian-aid-to-lebanon.md)

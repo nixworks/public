@@ -5,7 +5,7 @@ Formats: [HTML](2016/08/18/index.html)  [JSON](2016/08/18/index.json)  [XML](201
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [Three bombings targeting police and military kill at least 12 people and wound 219 in southeast Turkey. ](/news/2016/08/18/three-bombings-targeting-police-and-military-kill-at-least-12-people-and-wound-219-in-southeast-turkey.md)
-_Context: Turkish, Kurdish-Turkish conflict (2015-present)_
+_Context: Kurdish-Turkish conflict (2015-present), Turkish_
 
 ##### Syrian civil war
 ### [Syrian government warplanes bomb Kurdish-held areas of Al-Hasakah for the first time in the country's five-year civil war, killing at least 13 people. ](/news/2016/08/18/syrian-government-warplanes-bomb-kurdish-held-areas-of-al-hasakah-for-the-first-time-in-the-country-s-five-year-civil-war-killing-at-least.md)

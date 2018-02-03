@@ -5,7 +5,7 @@ Formats: [HTML](2004/07/24/index.html)  [JSON](2004/07/24/index.json)  [XML](200
 
 ##### Iran
 ### [ An Iranian court clears Mohammad Reza Aghdam-Ahmadi, the intelligence agent accused of killing the Iranian-Canadian journalist Zahra Kazemi, of charges of "semi-intentional murder", stating that the blood money should be paid from the state's treasury. ](/news/2004/07/24/an-iranian-court-clears-mohammad-reza-aghdam-ahmadi-the-intelligence-agent-accused-of-killing-the-iranian-canadian-journalist-zahra-kazemi.md)
-_Context: blood money, treasury, Zahra Kazemi, intelligence, Iran_
+_Context: Iran, blood money, intelligence, treasury, Zahra Kazemi_
 
 ##### Egypt
 ### [ A militant group kidnaps an Egyptian diplomat, Mohamed Mamdouh Qutb, in Baghdad, Iraq. ](/news/2004/07/24/a-militant-group-kidnaps-an-egyptian-diplomat-mohamed-mamdouh-qutb-in-baghdad-iraq.md)
@@ -17,7 +17,7 @@ _Context: Karachi, Pakistan_
 
 ##### Mexico
 ### [ In Mexico Judge Csar Flores refuses to authorize an arrest warrant for former president Luis Echeverra and other officials under the accusations of genocide for the killing of students during the "dirty war". Prosecutors are expected to appeal the decision. ](/news/2004/07/24/in-mexico-judge-cesar-flores-refuses-to-authorize-an-arrest-warrant-for-former-president-luis-echeverria-and-other-officials-under-the-accu.md)
-_Context: genocide, Mexico, dirty war, Luis Echeverra_
+_Context: Luis Echeverra, genocide, Mexico, dirty war_
 
 ## [Previous Day...](/news/2004/07/23/index.md)
 

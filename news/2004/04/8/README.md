@@ -9,15 +9,15 @@ _Context: Bangladesh, general strike_
 
 ##### National Security Advisor
 ### [ US National Security Advisor Condoleezza Rice testifies before the September 11 Commission. Rice states President George W. Bush understood threat from al-Qaeda before September 11. She asserts "the terrorists were at war with us, but we were not yet at war with them." She also says that President George W. Bush came into office in 2001 determined to develop a "more robust" policy to combat Al-Qaida. The commission asks the White House to declassify a key August 2001 document entitled ""Bin Ladin Determined to Strike in US"". ](/news/2004/04/8/us-national-security-advisor-condoleezza-rice-testifies-before-the-september-11-commission-rice-states-president-george-w-bush-understood.md)
-_Context: Al-Qaida, White House, key August 2001 document, Condoleezza Rice, National Security Advisor, 9/11 Commission, Osama bin Laden, al-Qaeda, George W. Bush_
+_Context: Condoleezza Rice, National Security Advisor, Al-Qaida, George W. Bush, al-Qaeda, White House, key August 2001 document, Osama bin Laden, 9/11 Commission_
 
 ##### ally
 ### [ Iraq Alliancedate=January 2016 troops are locked in heavy fighting. Ukrainian troops cede Kut to Moqtada al-Sadr supporters. Sunni Muslim insurgents engage in two fronts west of Baghdad; a Shiite uprising spreads in southern and central Iraq. ](/news/2004/04/8/iraq-alliancedate-january-2016-troops-are-locked-in-heavy-fighting-ukrainian-troops-cede-kut-to-moqtada-al-sadr-supporters-sunni-muslim-i.md)
-_Context: Muqtada al-Sadr, ally, Kut, Sunni, war zone, Shiite, Baghdad, Iraqi insurgency, Ukraine_
+_Context: Baghdad, Kut, Sunni, Shiite, Ukraine, Iraqi insurgency, war zone, ally, Muqtada al-Sadr_
 
 ##### Abdurrashid Dostum
 ### [ Militia forces loyal to Abdurrashid Dostum take Meymaneh, the capital of Faryab province, Afghanistan, from the interim government and force the governor to flee. ](/news/2004/04/8/militia-forces-loyal-to-abdurrashid-dostum-take-meymaneh-the-capital-of-faryab-province-afghanistan-from-the-interim-government-and-forc.md)
-_Context: Afghanistan, Meymaneh, Faryab, Abdurrashid Dostum_
+_Context: Faryab, Meymaneh, Abdurrashid Dostum, Afghanistan_
 
 ##### Middle East Forum
 ### [ The Middle East Forum is seeking support to form the Islamic Progress Institute, a progressive Islamic institute, that would represent liberal Muslims living in the United States. ](/news/2004/04/8/the-middle-east-forum-is-seeking-support-to-form-the-islamic-progress-institute-a-progressive-islamic-institute-that-would-represent-libe.md)
@@ -25,7 +25,7 @@ The Middle East Forum, which is headed by a controversial Jewish scholar, is see
 
 ##### NASA
 ### [ NASA announces that the mission of Spirit and Opportunity will be extended by five months. ](/news/2004/04/8/nasa-announces-that-the-mission-of-spirit-and-opportunity-will-be-extended-by-five-months.md)
-_Context: Mars Exploration Rover Mission, Spirit, Opportunity, NASA_
+_Context: Mars Exploration Rover Mission, Opportunity, NASA, Spirit_
 
 ## [Previous Day...](/news/2004/04/7/index.md)
 

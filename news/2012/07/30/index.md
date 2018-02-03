@@ -29,15 +29,15 @@ _Context: Bratoszewice, Poland_
 
 ##### U.S. Bank Arena
 ### [A fire ignites at the U.S. Bank Arena in Cincinnati during pyrotechnic testing before "WWE Raw". No one was injured. ](/news/2012/07/30/a-fire-ignites-at-the-u-s-bank-arena-in-cincinnati-during-pyrotechnic-testing-before-wwe-raw-no-one-was-injured.md)
-_Context: WWE Raw, Cincinnati, U.S. Bank Arena_
+_Context: U.S. Bank Arena, WWE Raw, Cincinnati_
 
 ##### bank fraud
 ### [Four people are sentenced to death for their involvement in a bank fraud scandal in Iran. ](/news/2012/07/30/four-people-are-sentenced-to-death-for-their-involvement-in-a-bank-fraud-scandal-in-iran.md)
-_Context: Iran, bank fraud_
+_Context: bank fraud, Iran_
 
 ##### Brazil
 ### [Brazilian President Dilma Rousseff convenes a truth commission to investigate Brazil's military dictatorship. ](/news/2012/07/30/brazilian-president-dilma-rousseff-convenes-a-truth-commission-to-investigate-brazil-s-military-dictatorship.md)
-_Context: Brazil, Brazilian military government, Dilma Rousseff_
+_Context: Brazilian military government, Dilma Rousseff, Brazil_
 
 ##### Romania
 ### [Romanian President Traian Basescu could survive the referendum on his impeachment that shows a massive vote against him but under 50% turnout.The Constitutional Court of Romania will give the final word on whether to validate the referendum later this week.](/news/2012/07/30/romanian-president-traian-basescu-could-survive-the-referendum-on-his-impeachment-that-shows-a-massive-vote-against-him-but-under-50-turno.md)

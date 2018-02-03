@@ -17,7 +17,7 @@ The euro zone slipped deeper into recession in the last three months of 2012 aft
 
 ##### Economy of Japan
 ### [The Economy of Japan declined by 0.4% from October to December 2012 indicating that Japan is still in a recession. ](/news/2013/02/14/the-economy-of-japan-declined-by-0-4-from-october-to-december-2012-indicating-that-japan-is-still-in-a-recession.md)
-_Context: Japan, Economy of Japan, recession_
+_Context: recession, Economy of Japan, Japan_
 
 ##### US Airways
 ### [US Airways and the bankrupt American Airlines announce a merger to form the world's largest air carrier trading as American Airlines. ](/news/2013/02/14/us-airways-and-the-bankrupt-american-airlines-announce-a-merger-to-form-the-world-s-largest-air-carrier-trading-as-american-airlines.md)
@@ -49,7 +49,7 @@ Businessman Denis O&#39;Brien has been awarded €150,000 by a jury at the High 
 
 ##### Republican
 ### [Republican Senators filibuster the nomination of Chuck Hagel as US Secretary of Defence. ](/news/2013/02/14/republican-senators-filibuster-the-nomination-of-chuck-hagel-as-us-secretary-of-defence.md)
-_Context: Chuck Hagel, Senator, United States Secretary of Defence, Republican, filibuster_
+_Context: filibuster, Senator, Chuck Hagel, United States Secretary of Defence, Republican_
 
 ##### Large Hadron Collider
 ### [The Large Hadron Collider (LHC) will switch off for two years, giving time for engineers and scientists to install upgrades to the machine. ](/news/2013/02/14/the-large-hadron-collider-lhc-will-switch-off-for-two-years-giving-time-for-engineers-and-scientists-to-install-upgrades-to-the-machine.md)

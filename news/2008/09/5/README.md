@@ -5,7 +5,7 @@ Formats: [HTML](2008/09/5/index.html)  [JSON](2008/09/5/index.json)  [XML](2008/
 
 ##### Haiti
 ### [ Five hundred people have died in the Haitian town of Gonaives as a result of flooding caused by Tropical Storm Hanna. ](/news/2008/09/5/five-hundred-people-have-died-in-the-haitian-town-of-gonaa-ves-as-a-result-of-flooding-caused-by-tropical-storm-hanna.md)
-_Context: Gonaives, Tropical Storm Hanna, Haiti_
+_Context: Haiti, Gonaives, Tropical Storm Hanna_
 
 ##### Fannie Mae
 ### [ According to several news reports, the US government plans to take control of Fannie Mae and Freddie Mac in a takeover plan. ](/news/2008/09/5/according-to-several-news-reports-the-us-government-plans-to-take-control-of-fannie-mae-and-freddie-mac-in-a-takeover-plan.md)
@@ -17,23 +17,23 @@ Worldwide sea levels may rise by about 2.6 to 6.6 feet by 2100 thanks to global 
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice becomes the first United States Secretary of State to visit Libya since 1953. ](/news/2008/09/5/condoleezza-rice-becomes-the-first-united-states-secretary-of-state-to-visit-libya-since-1953.md)
-_Context: Condoleezza Rice, 1953, Libya, United States Secretary of State_
+_Context: United States Secretary of State, 1953, Libya, Condoleezza Rice_
 
 ##### Pakistan
 ### [ Pakistan reinstates Supreme Court judges ousted by former President Pervez Musharraf. ](/news/2008/09/5/pakistan-reinstates-supreme-court-judges-ousted-by-former-president-pervez-musharraf.md)
-_Context: Pervez Musharraf, president, Pakistan, Supreme Court_
+_Context: president, Supreme Court, Pakistan, Pervez Musharraf_
 
 ##### unemployment
 ### [ The unemployment rate in the United States rises to its highest level since December 2003 after the US economy loses 84,000 jobs in August 2008. ](/news/2008/09/5/the-unemployment-rate-in-the-united-states-rises-to-its-highest-level-since-december-2003-after-the-us-economy-loses-84-000-jobs-in-august.md)
-_Context: August, unemployment, US economy, December 2003, U.S._
+_Context: unemployment, December 2003, August, United States, US economy_
 
 ##### La Princesse
 ### [ La Princesse, a giant mechanical spider, starts to roam the streets of Liverpool, England, as part of the 2008 European City of Culture celebrations. ](/news/2008/09/5/la-princesse-a-giant-mechanical-spider-starts-to-roam-the-streets-of-liverpool-england-as-part-of-the-2008-european-city-of-culture-cel.md)
-_Context: La Princesse, Liverpool, England, European City of Culture_
+_Context: Liverpool, England, European City of Culture, La Princesse_
 
 ##### European Union
 ### [ The European Union's "Rosetta" spacecraft performs a flyby of the asteroid 2867 Steins. ](/news/2008/09/5/the-european-union-s-rosetta-spacecraft-performs-a-flyby-of-the-asteroid-2867-a-teins.md)
-_Context: asteroid, ''Rosetta'' space probe, 2867 Steins, European Union_
+_Context: asteroid, 2867 Steins, European Union, ''Rosetta'' space probe_
 
 ##### Quentin Bryce
 ### [ Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md)

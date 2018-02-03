@@ -39,7 +39,7 @@ Nigel Wright, chief of staff of Canadian Prime Minister Stephen Harper, resigns 
 
 ##### Navy dolphins
 ### [US Navy dolphins find a rare nineteenth-century torpedo off the coast of California. ](/news/2013/05/19/us-navy-dolphins-find-a-rare-nineteenth-century-torpedo-off-the-coast-of-california.md)
-_Context: torpedo, Navy dolphins, California_
+_Context: Navy dolphins, California, torpedo_
 
 ## [Previous Day...](/news/2013/05/18/index.md)
 

@@ -13,15 +13,15 @@ The Department of Foreign Affairs says at least nine Irish people are believed t
 
 ##### British
 ### [UK Prime Minister Gordon Brown says seven-year-old Charlie Simpson, who rode five miles and raised more than GBP200,000 for the 2010 Haiti earthquake fund, is "truly inspirational" as his spouse Sarah Brown meets him in his absence at Downing Street. ](/news/2010/01/27/uk-prime-minister-gordon-brown-says-seven-year-old-charlie-simpson-who-rode-five-miles-and-raised-more-than-gbp200-000-for-the-2010-haiti-e.md)
-_Context: Downing Street, Gordon Brown, 2010 Haiti earthquake, Sarah Brown, British_
+_Context: 2010 Haiti earthquake, Sarah Brown, British, Gordon Brown, Downing Street_
 
 ##### President of Sri Lanka
 ### [Incumbent President of Sri Lanka Mahinda Rajapaksa is declared the winner of Sunday's presidential election, defeating opposition candidate Sarath Fonseka. ](/news/2010/01/27/incumbent-president-of-sri-lanka-mahinda-rajapaksa-is-declared-the-winner-of-sunday-s-presidential-election-defeating-opposition-candidate.md)
-_Context: President of Sri Lanka, Sri Lanka, Sarath Fonseka, Mahinda Rajapaksa, presidential election, opposition_
+_Context: Sri Lanka, Sarath Fonseka, presidential election, Mahinda Rajapaksa, opposition, President of Sri Lanka_
 
 ##### North Korea
 ### [North Korea fires artillery shots into the sea near the disputed Northern Limit Line maritime border, with South Korea returning fire. ](/news/2010/01/27/north-korea-fires-artillery-shots-into-the-sea-near-the-disputed-northern-limit-line-maritime-border-with-south-korea-returning-fire.md)
-_Context: South Korea, Northern Limit Line, North Korea_
+_Context: Northern Limit Line, South Korea, North Korea_
 
 ##### Prime Minister
 ### [Prime Minister Gordon Brown and Taoiseach Brian Cowen leave Northern Ireland after three days spent discussing its future. ](/news/2010/01/27/prime-minister-gordon-brown-and-taoiseach-brian-cowen-leave-northern-ireland-after-three-days-spent-discussing-its-future.md)
@@ -29,7 +29,7 @@ Taoiseach Brian Cowen and British Prime Minister Gordon Brown have left Northern
 
 ##### highest surface wind gust
 ### [The highest surface wind gust ever recorded of 220 kt at Barrow Island, Australia in 1996 is ratified by the WMO. ](/news/2010/01/27/the-highest-surface-wind-gust-ever-recorded-of-220-kt-at-barrow-island-australia-in-1996-is-ratified-by-the-wmo.md)
-_Context: Australia, World Meteorological Organisation, Barrow Island, highest surface wind gust_
+_Context: highest surface wind gust, World Meteorological Organisation, Australia, Barrow Island_
 
 ##### Irish
 ### [Ireland is hit by two earthquakes over a 24-hour period, described as "unusual" by experts. ](/news/2010/01/27/ireland-is-hit-by-two-earthquakes-over-a-24-hour-period-described-as-unusual-by-experts.md)

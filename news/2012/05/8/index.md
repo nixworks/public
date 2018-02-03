@@ -29,7 +29,7 @@ A Palestinian who has been on hunger strike for 71 days in protest at his detent
 
 ##### South Africa
 ### [A South African court rules that the country is obliged under international law to investigate human rights abuses in Zimbabwe. ](/news/2012/05/8/a-south-african-court-rules-that-the-country-is-obliged-under-international-law-to-investigate-human-rights-abuses-in-zimbabwe.md)
-_Context: South Africa, international law, Zimbabwe, Human rights in Zimbabwe_
+_Context: Zimbabwe, Human rights in Zimbabwe, international law, South Africa_
 
 ##### Al Jazeera
 ### [Al Jazeera closes its English-language bureau in China after its reporter Melissa Chan is expelled from the country. ](/news/2012/05/8/al-jazeera-closes-its-english-language-bureau-in-china-after-its-reporter-melissa-chan-is-expelled-from-the-country.md)
@@ -41,11 +41,11 @@ A Thai man in his 60s who was jailed for 20 years for sending text messages deem
 
 ##### CIA
 ### [A CIA double agent was involved in a foiled bomb plot by Al-Qaeda in the Arabian Peninsula to blow up an U.S.-bound flight, according to government officials. ](/news/2012/05/8/a-cia-double-agent-was-involved-in-a-foiled-bomb-plot-by-al-qaeda-in-the-arabian-peninsula-to-blow-up-an-u-s-bound-flight-according-to-gov.md)
-_Context: double agent, al-Qaida, CIA_
+_Context: double agent, CIA, al-Qaida_
 
 ##### New York Court of Appeals
 ### [The New York Court of Appeals, in The People v. James Kent, rules that merely viewing child pornography (or having a cache of it, as on a cell phone), despite its offensiveness, is not in itself illegal in the state, so long as one is not aware of the cache or did not download the images ono a drive in order to view them; state legislators have stated they will work to close those loopholes through formulation of legislation. Distribution, production, and purposeful possession would still be illegal.](/news/2012/05/8/the-new-york-court-of-appeals-in-the-people-v-james-kent-rules-that-merely-viewing-child-pornography-or-having-a-cache-of-it-as-on-a-ce.md)
-_Context: child pornography, New York Court of Appeals, The People v. James Kent_
+_Context: The People v. James Kent, New York Court of Appeals, child pornography_
 
 ##### Ukraine
 ### [Former Ukrainian prime minister Yulia Tymoshenko ends her hunger strike in detention. ](/news/2012/05/8/former-ukrainian-prime-minister-yulia-tymoshenko-ends-her-hunger-strike-in-detention.md)
@@ -57,7 +57,7 @@ Late-night political drama: Early elections averted as Likud, Kadima agree on un
 
 ##### Burma
 ### [Burmese opposition leader Aung San Suu Kyi is given a passport for the first time in 24 years. ](/news/2012/05/8/burmese-opposition-leader-aung-san-suu-kyi-is-given-a-passport-for-the-first-time-in-24-years.md)
-_Context: Burma, Aung San Suu Kyi, passport_
+_Context: Aung San Suu Kyi, Burma, passport_
 
 ##### United States elections
 ### [The U.S. state of North Carolina bans same-sex marriage. ](/news/2012/05/8/the-u-s-state-of-north-carolina-bans-same-sex-marriage.md)

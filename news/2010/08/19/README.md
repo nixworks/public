@@ -15,9 +15,9 @@ Human rights activists accuse Kenya of secretly sending four terrorism suspects 
 ### [Seven people are killed and fourteen injured in a bomb attack in China's Xinjiang province. Although the region has recently been embroiled in violence including Muslim separatists and majority Han Chinese, the attack is being investigated as a criminal case. ](/news/2010/08/19/seven-people-are-killed-and-fourteen-injured-in-a-bomb-attack-in-china-s-xinjiang-province-although-the-region-has-recently-been-embroiled.md)
 Blast hits crowd of people in restive west, officials blame a minority Uighur.
 
-##### U.S.
+##### United States
 ### [The last United States brigade combat team leaves Iraq: there are still 56,000 members of the United States armed forces in the country. ](/news/2010/08/19/the-last-united-states-brigade-combat-team-leaves-iraq-there-are-still-56-000-members-of-the-united-states-armed-forces-in-the-country.md)
-_Context: U.S., brigade, Iraq, United States armed forces_
+_Context: Iraq, United States armed forces, United States, brigade_
 
 ##### Winston Churchill
 ### [Winston Churchill's butterfly house is rebuilt. ](/news/2010/08/19/winston-churchill-s-butterfly-house-is-rebuilt.md)
@@ -25,7 +25,7 @@ It was 1939 and the Nazi menace threatened Europe. But while Britain clamoured f
 
 ##### Sir Arthur Conan Doyle
 ### [Sir Arthur Conan Doyle's house Undershaw, in which he wrote numerous Sherlock Holmes stories, is slated to be converted into apartments. ](/news/2010/08/19/sir-arthur-conan-doyle-s-house-undershaw-in-which-he-wrote-numerous-sherlock-holmes-stories-is-slated-to-be-converted-into-apartments.md)
-_Context: Sir Arthur Conan Doyle, Undershaw, Sherlock Holmes_
+_Context: Sherlock Holmes, Sir Arthur Conan Doyle, Undershaw_
 
 ##### Scots Makar
 ### [The Scots Makar (national poet) Edwin Morgan, a leading twentieth century poet, dies. ](/news/2010/08/19/the-scots-makar-national-poet-edwin-morgan-a-leading-twentieth-century-poet-dies.md)
@@ -41,7 +41,7 @@ The brightly coloured plastic vuvuzela has achieved its own form of immortality 
 
 ##### Israel
 ### [Two groups in Israel begin pro-Zionist courses in editing Wikipedia. ](/news/2010/08/19/two-groups-in-israel-begin-pro-zionist-courses-in-editing-wikipedia.md)
-_Context: Wikipedia, Israel_
+_Context: Israel, Wikipedia_
 
 ##### Foxconn
 ### [Foxconn states its intention to hire more workers following a rash of suicides among its workforce. ](/news/2010/08/19/foxconn-states-its-intention-to-hire-more-workers-following-a-rash-of-suicides-among-its-workforce.md)
@@ -73,7 +73,7 @@ A UN report says the Israeli army has increasingly restricted Palestinian access
 
 ##### France
 ### [France's government begins to deport thousands of Romani people, who are mainly from Romania and Bulgaria; Romania fears this will lead to xenophobic tensions. ](/news/2010/08/19/france-s-government-begins-to-deport-thousands-of-romani-people-who-are-mainly-from-romania-and-bulgaria-romania-fears-this-will-lead-to-x.md)
-_Context: xenophobic, France, Bulgaria, Romania, Roma_
+_Context: France, xenophobic, Roma, Romania, Bulgaria_
 
 ##### North Korea
 ### [North Korea confirms the seizure of a South Korean fishing boat two weeks ago, with four South Korean and three Chinese sailors on board. ](/news/2010/08/19/north-korea-confirms-the-seizure-of-a-south-korean-fishing-boat-two-weeks-ago-with-four-south-korean-and-three-chinese-sailors-on-board.md)
@@ -85,7 +85,7 @@ The Russian president Dmitry Medvedev laid a wreath at the memorial of the victi
 
 ##### Israel Defense Forces
 ### [Four Israel Defense Forces naval commandos are arrested by Israeli Military Police for suspected theft of laptops and cell phones from activists during May's Gaza flotilla raid. ](/news/2010/08/19/four-israel-defense-forces-naval-commandos-are-arrested-by-israeli-military-police-for-suspected-theft-of-laptops-and-cell-phones-from-activ.md)
-_Context: Israel Defense Forces, Gaza flotilla raid, cell phone, Israeli Military Police, laptop_
+_Context: Israel Defense Forces, cell phone, Israeli Military Police, Gaza flotilla raid, laptop_
 
 ##### Sri Lanka
 ### [Former chief of the Sri Lankan armed forces Sarath Fonseka admits he expects to be jailed after being charged with corruption and believes the verdict has been decided in advance; Fonseka has been elected to the Sri Lankan parliament since the charges were pressed. ](/news/2010/08/19/former-chief-of-the-sri-lankan-armed-forces-sarath-fonseka-admits-he-expects-to-be-jailed-after-being-charged-with-corruption-and-believes-t.md)
@@ -121,7 +121,7 @@ Military-ruled Myanmar Thursday announced restrictions on campaigning for Novemb
 
 ##### Fields Medal
 ### [The Fields Medal is awarded to Elon Lindenstrauss, Ngo BGBPo Chau, Stanislav Smirnov and Cedric Villani at the 2010 International Congress of Mathematicians in Hyderabad, India. ](/news/2010/08/19/the-fields-medal-is-awarded-to-elon-lindenstrauss-nga-baogbpo-chac-u-stanislav-smirnov-and-ca-c-dric-villani-at-the-2010-international-congr.md)
-_Context: International Congress of Mathematicians, Cedric Villani, Ngo BGBPo Chau, Stanislav Smirnov, Fields Medal, Elon Lindenstrauss, Hyderabad_
+_Context: Ngo BGBPo Chau, Elon Lindenstrauss, Hyderabad, Stanislav Smirnov, Fields Medal, International Congress of Mathematicians, Cedric Villani_
 
 ## [Previous Day...](/news/2010/08/18/index.md)
 

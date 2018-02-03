@@ -5,11 +5,11 @@ Formats: [HTML](2014/01/25/index.html)  [JSON](2014/01/25/index.json)  [XML](201
 
 ##### Civil conflict in the Philippines
 ### [The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md)
-_Context: Philippines, peace deal, Civil conflict in the Philippines, Filipino Muslims_
+_Context: Philippines, Civil conflict in the Philippines, Filipino Muslims, peace deal_
 
 ##### Egypt
 ### [Five Egyptian embassy staff are kidnapped in the Libyan capital of Tripoli. ](/news/2014/01/25/five-egyptian-embassy-staff-are-kidnapped-in-the-libyan-capital-of-tripoli.md)
-_Context: Tripoli, Libya, Egypt_
+_Context: Tripoli, Egypt, Libya_
 
 ##### 
 ### [64 people are killed in anti-government marches. ](/news/2014/01/25/64-people-are-killed-in-anti-government-marches.md)
@@ -21,7 +21,7 @@ _Context: Iraqi insurgency (post-U.S. withdrawal), Iraq_
 
 ##### vial
 ### [A vial containing drops of late Pope John Paul II's blood is stolen from the Church of San Pietro della Ienca in Abruzzo, Italy. ](/news/2014/01/25/a-vial-containing-drops-of-late-pope-john-paul-ii-s-blood-is-stolen-from-the-church-of-san-pietro-della-ienca-in-abruzzo-italy.md)
-_Context: vial, Italy, Abruzzo, Pope John Paul II_
+_Context: vial, Abruzzo, Pope John Paul II, Italy_
 
 ##### shooting
 ### [A shooting at the Columbia Mall in the U.S. state of Maryland results in 3 people being killed. ](/news/2014/01/25/a-shooting-at-the-columbia-mall-in-the-u-s-state-of-maryland-results-in-3-people-being-killed.md)

@@ -5,15 +5,15 @@ Formats: [HTML](2017/12/28/index.html)  [JSON](2017/12/28/index.json)  [XML](201
 
 ##### War in Afghanistan (2001-present)
 ### [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md)
-_Context: Amaq News Agency, Afghanistan, Kabul, ISIL, War in Afghanistan (2001-present), December 2017 Kabul suicide bombing_
+_Context: December 2017 Kabul suicide bombing, ISIL, Kabul, Afghanistan, War in Afghanistan (2001-present), Amaq News Agency_
 
 ##### Libyan Civil War (2014-present)
 ### [The Libyan National Army declares full control of Benghazi, the country's second largest city, after retaking the last district held by Islamist militants. ](/news/2017/12/28/the-libyan-national-army-declares-full-control-of-benghazi-the-country-s-second-largest-city-after-retaking-the-last-district-held-by-isla.md)
-_Context: Libyan National Army, Benghazi, Battle of Benghazi (2014-2017), Libyan Civil War (2014-present)_
+_Context: Benghazi, Battle of Benghazi (2014-2017), Libyan Civil War (2014-present), Libyan National Army_
 
 ##### Syrian Civil War
 ### [The White Helmets reports that Syrian government and Russian warplanes, using rockets and internationally-banned weapons - including vacuum bombs, repeatedly strike residential areas in the town of Al-Lataminah and six villages in Idlib province, killing 22 people. ](/news/2017/12/28/the-white-helmets-reports-that-syrian-government-and-russian-warplanes-using-rockets-and-internationally-banned-weapons-including-vacuum.md)
-_Context: Syrian Civil War, Idlib province, White Helmets_
+_Context: Idlib province, Syrian Civil War, White Helmets_
 
 ##### 2017 Bronx apartment fire
 ### [Twelve people are dead in an apartment fire in The Bronx area of New York City. ](/news/2017/12/28/twelve-people-are-dead-in-an-apartment-fire-in-the-bronx-area-of-new-york-city.md)
@@ -29,7 +29,7 @@ At least two people have died after law enforcers on Thursday night fired mistak
 
 ##### Same-sex marriage in the United States
 ### [The Oregon Court of Appeals upholds a $135,000 fine against the owners of Sweet Cakes by Melissa in "Sweet Cakes by Melissa v. Oregon Bureau of Labor and Industries" for refusing to make a wedding cake for a same-sex couple. A similar case, "Masterpiece Cakeshop v. Colorado Civil Rights Commission" has reached the Supreme Court of the United States with a decision expected in June 2018. ](/news/2017/12/28/the-oregon-court-of-appeals-upholds-a-135-000-fine-against-the-owners-of-sweet-cakes-by-melissa-in-sweet-cakes-by-melissa-v-oregon-bureau.md)
-_Context: Sweet Cakes by Melissa v. Oregon Bureau of Labor and Industries, Same-sex marriage in the United States, Supreme Court of the United States, Masterpiece Cakeshop v. Colorado Civil Rights Commission_
+_Context: Supreme Court of the United States, Masterpiece Cakeshop v. Colorado Civil Rights Commission, Same-sex marriage in the United States, Sweet Cakes by Melissa v. Oregon Bureau of Labor and Industries_
 
 ##### 2017 Wichita, Kansas swatting
 ### [Police shoot and kill a man in Wichita, Kansas, after a hoax emergency call sends them there. ](/news/2017/12/28/police-shoot-and-kill-a-man-in-wichita-kansas-after-a-hoax-emergency-call-sends-them-there.md)

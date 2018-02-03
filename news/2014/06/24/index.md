@@ -5,7 +5,7 @@ Formats: [HTML](2014/06/24/index.html)  [JSON](2014/06/24/index.json)  [XML](201
 
 ##### 2014 pro-Russian conflict in Ukraine
 ### [Russian President Vladimir Putin formally asks Russia's upper house of parliament to revoke the right that it earlier granted for Russian forces to intervene militarily in Ukraine in defense of Russian-speakers there. ](/news/2014/06/24/russian-president-vladimir-putin-formally-asks-russia-s-upper-house-of-parliament-to-revoke-the-right-that-it-earlier-granted-for-russian-fo.md)
-_Context: Vladimir Putin, Russia's upper house of parliament, 2014 pro-Russian conflict in Ukraine_
+_Context: Russia's upper house of parliament, 2014 pro-Russian conflict in Ukraine, Vladimir Putin_
 
 ##### car bomb
 ### [A car bombing occurs in a Shiite suburb of Lebanon's capital Beirut killing the bomber and injuring five other people. ](/news/2014/06/24/a-car-bombing-occurs-in-a-shiite-suburb-of-lebanon-s-capital-beirut-killing-the-bomber-and-injuring-five-other-people.md)
@@ -21,7 +21,7 @@ _Context: United States Navy SEAL_
 
 ##### Pakistan International Airlines
 ### [At least 1 killed and 2 injured as unidentified gunmen open fire on a Pakistan International Airlines aircraft at Bacha Khan International Airport in Peshawar, Pakistan. ](/news/2014/06/24/at-least-1-killed-and-2-injured-as-unidentified-gunmen-open-fire-on-a-pakistan-international-airlines-aircraft-at-bacha-khan-international-a.md)
-_Context: Pakistan International Airlines, Peshawar, Bacha Khan International Airport_
+_Context: Pakistan International Airlines, Bacha Khan International Airport, Peshawar_
 
 ##### Emir of Qatar
 ### [The Emir of Qatar, Sheikh Tamim bin Hamad Al Thani, agrees to spend 2.2 billion Euros to convert Barcelona's "La Monumental" bullring into a 40,000-capacity mosque, the biggest in Europe. ](/news/2014/06/24/the-emir-of-qatar-sheikh-tamim-bin-hamad-al-thani-agrees-to-spend-2-2-billion-euros-to-convert-barcelona-s-la-monumental-bullring-into-a.md)
@@ -33,7 +33,7 @@ Mr. Wallach was one of his generation’s most prominent and prolific character 
 
 ##### Like a Rolling Stone
 ### [Lyrics of "Like a Rolling Stone" handwritten by Bob Dylan sell at auction for a record US$2 million. ](/news/2014/06/24/lyrics-of-like-a-rolling-stone-handwritten-by-bob-dylan-sell-at-auction-for-a-record-us-2-million.md)
-_Context: Bob Dylan, Like a Rolling Stone_
+_Context: Like a Rolling Stone, Bob Dylan_
 
 ##### air traffic controller
 ### [Strikes by French air traffic controllers lead to the cancellation of dozens of flights in Europe. ](/news/2014/06/24/strikes-by-french-air-traffic-controllers-lead-to-the-cancellation-of-dozens-of-flights-in-europe.md)
@@ -41,7 +41,7 @@ Strikes by French air traffic control staff have led to dozens of European fligh
 
 ##### trawler
 ### [Nine commercial fisherman are killed and three others are missing after two fishing trawlers collide near Pisco in central Peru. ](/news/2014/06/24/nine-commercial-fisherman-are-killed-and-three-others-are-missing-after-two-fishing-trawlers-collide-near-pisco-in-central-peru.md)
-_Context: trawler, Pisco_
+_Context: Pisco, trawler_
 
 ##### Sinking of the MV ''Sewol''
 ### [The South Korean trial of the captain and 14 crew members in relation to the Sinking of the MV Sewol begins. ](/news/2014/06/24/the-south-korean-trial-of-the-captain-and-14-crew-members-in-relation-to-the-sinking-of-the-mv-sewol-begins.md)

@@ -5,15 +5,15 @@ Formats: [HTML](2011/08/16/index.html)  [JSON](2011/08/16/index.json)  [XML](201
 
 ##### civil war
 ### [National Transitional Council forces in Libya began cutting off supply lines to Tripoli after a 48 hour operation capturing key towns around the capital and surrounding the city. ](/news/2011/08/16/national-transitional-council-forces-in-libya-began-cutting-off-supply-lines-to-tripoli-after-a-48-hour-operation-capturing-key-towns-around.md)
-_Context: National Transitional Council, Tripoli, Libya, civil war_
+_Context: civil war, Libya, National Transitional Council, Tripoli_
 
 ##### Israeli Air Force
 ### [The Israeli Air Force launches an air strike east of Gaza City, killing a Hamas gunman, in response to a rocket launched at Israel which landed in the Negev Desert. ](/news/2011/08/16/the-israeli-air-force-launches-an-air-strike-east-of-gaza-city-killing-a-hamas-gunman-in-response-to-a-rocket-launched-at-israel-which-lan.md)
 Palestinian sources: Air strike wounds 3 gunmen; separate strike targets smuggling tunnel; rocket lands in open territory outside Beersheba.
 
-##### U.S.
+##### United States
 ### [A United States drone attack in the Pakistani province of North Waziristan kills four militants. ](/news/2011/08/16/a-united-states-drone-attack-in-the-pakistani-province-of-north-waziristan-kills-four-militants.md)
-_Context: drones launch, North Waziristan, U.S., Pakistan_
+_Context: North Waziristan, United States, drones launch, Pakistan_
 
 ##### BBC Magazines
 ### [BBC Magazines agrees a GBP12m deal to sell the "Radio Times" &ndash; together with ten other titles &ndash; to Exponent, owner of thetrainline.com.](/news/2011/08/16/bbc-magazines-agrees-a-gbp12m-deal-to-sell-the-radio-times-ndash-together-with-ten-other-titles-ndash-to-exponent-owner-of-thetrainli.md)
@@ -21,15 +21,15 @@ BBC Magazines has agreed to sell the Radio Times after 88 years of ownership to 
 
 ##### Australia
 ### [Australian airline Qantas announces that it will be cutting 1000 jobs while steel maker OneSteel announces the loss of 400 jobs. ](/news/2011/08/16/australian-airline-qantas-announces-that-it-will-be-cutting-1000-jobs-while-steel-maker-onesteel-announces-the-loss-of-400-jobs.md)
-_Context: OneSteel, Qantas, Australia_
+_Context: Australia, OneSteel, Qantas_
 
 ##### economy of Germany
 ### [The economy of Germany grows by only 0.1% in the second quarter of 2011, raising concerns about the European economy as a whole. ](/news/2011/08/16/the-economy-of-germany-grows-by-only-0-1-in-the-second-quarter-of-2011-raising-concerns-about-the-european-economy-as-a-whole.md)
-_Context: economy of Germany, Europe_
+_Context: Europe, economy of Germany_
 
 ##### Indians
 ### [Indian social activist Anna Hazare is arrested in New Delhi ahead of a proposed fast against corruption. ](/news/2011/08/16/indian-social-activist-anna-hazare-is-arrested-in-new-delhi-ahead-of-a-proposed-fast-against-corruption.md)
-_Context: New Delhi, Indians, Anna Hazare, fast against corruption, social activist_
+_Context: Anna Hazare, New Delhi, social activist, Indians, fast against corruption_
 
 ##### illegal immigrants
 ### [Detained illegal immigrants injure 15 policemen and 3 soldiers in a riot in Malta. ](/news/2011/08/16/detained-illegal-immigrants-injure-15-policemen-and-3-soldiers-in-a-riot-in-malta.md)

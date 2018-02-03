@@ -13,7 +13,7 @@ _Context: Bathurst High School, Bathurst, New Brunswick, collision, basketball_
 
 ##### Republic of China legislative election, 2008
 ### [ Republic of China legislative election, 2008: The Kuomintang (KMT) and its coalition allies win a landslide victory over the Democratic Progressive Party, garnering 86 of 113 seats in the Legislative Yuan. ](/news/2008/01/12/republic-of-china-legislative-election-2008-the-kuomintang-kmt-and-its-coalition-allies-win-a-landslide-victory-over-the-democratic-pro.md)
-_Context: landslide, coalition allies, Republic of China legislative election, 2008, Kuomintang (Chinese Nationalist Party), Democratic Progressive Party, legislative chamber_
+_Context: Kuomintang (Chinese Nationalist Party), Republic of China legislative election, 2008, coalition allies, landslide, legislative chamber, Democratic Progressive Party_
 
 ## [Previous Day...](/news/2008/01/11/index.md)
 

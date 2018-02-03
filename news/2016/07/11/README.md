@@ -9,7 +9,7 @@ At least 10 soldiers killed after a coordinated assault on an army base southwes
 
 ##### Insurgency in Jammu and Kashmir
 ### [At least 30 civilians have been killed by Indian Army soldiers as anti-government protests and violence spread across the state. ](/news/2016/07/11/at-least-30-civilians-have-been-killed-by-indian-army-soldiers-as-anti-government-protests-and-violence-spread-across-the-state.md)
-_Context: Insurgency in Jammu and Kashmir, Indian Army, 2016 Kashmir unrest_
+_Context: 2016 Kashmir unrest, Indian Army, Insurgency in Jammu and Kashmir_
 
 ##### Syrian Civil War
 ### [Rebels in Aleppo launch an assault on government-controlled areas in the city. This comes after the Syrian Army blocked off the only road leading into opposition-controlled areas. According to state media, at least eight people have been killed and dozens more are wounded. ](/news/2016/07/11/rebels-in-aleppo-launch-an-assault-on-government-controlled-areas-in-the-city-this-comes-after-the-syrian-army-blocked-off-the-only-road-le.md)
@@ -21,7 +21,7 @@ The US is to send 560 more military personnel to Iraq to help in the fight again
 
 ##### Israeli-Palestinian conflict
 ### [Israeli forces level land east of Khan Yunis in the southern Gaza Strip. ](/news/2016/07/11/israeli-forces-level-land-east-of-khan-yunis-in-the-southern-gaza-strip.md)
-_Context: Khan Yunis, Gaza Strip, Israeli-Palestinian conflict_
+_Context: Israeli-Palestinian conflict, Gaza Strip, Khan Yunis_
 
 ##### Srebrenica massacre
 ### [The 127 people who were massacred in the Srebrenica massacre in 1995 and were subsequently discovered in mass graves are buried at the Srebrenica Genocide Memorial following a funeral. For the first time, Bosnian Serbs were not welcome to attend the ceremony. ](/news/2016/07/11/the-127-people-who-were-massacred-in-the-srebrenica-massacre-in-1995-and-were-subsequently-discovered-in-mass-graves-are-buried-at-the-srebr.md)
@@ -29,11 +29,11 @@ Thousands of Muslim Bosniaks paid respect to 127 victims of the 1995 Srebrenica 
 
 ##### Flood
 ### [Floods resulting from the annual monsoon season cause 22 deaths and make 100,000 people homeless in India. ](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season-cause-22-deaths-and-make-100-000-people-homeless-in-india.md)
-_Context: monsoon, Flood, India_
+_Context: Flood, India, monsoon_
 
 ##### Lockheed C-130 Hercules
 ### [A Lockheed C-130 Hercules owned by the Portuguese Armed Forces catches fire while taking off from Montijo Air Base, killing at least three people. ](/news/2016/07/11/a-lockheed-c-130-hercules-owned-by-the-portuguese-armed-forces-catches-fire-while-taking-off-from-montijo-air-base-killing-at-least-three-p.md)
-_Context: Lockheed C-130 Hercules, Montijo Air Base, Portuguese Armed Forces_
+_Context: Montijo Air Base, Lockheed C-130 Hercules, Portuguese Armed Forces_
 
 ##### St. Joseph courthouse shooting
 ### [At least three people die, including the shooter, in a shooting at the Berrien County courthouse in the U.S. state of Michigan. ](/news/2016/07/11/at-least-three-people-die-including-the-shooter-in-a-shooting-at-the-berrien-county-courthouse-in-the-u-s-state-of-michigan.md)

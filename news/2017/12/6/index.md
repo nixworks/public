@@ -17,7 +17,7 @@ Finland&amp;#039;s main official centenary celebrations are in Helsinki and Kuop
 
 ##### Michelin
 ### [Michelin unveils its first Michelin Guide for Bangkok, Thailand, which is the sixth city in Asia and second in Southeast Asia after Singapore. ](/news/2017/12/6/michelin-unveils-its-first-michelin-guide-for-bangkok-thailand-which-is-the-sixth-city-in-asia-and-second-in-southeast-asia-after-singapor.md)
-_Context: Michelin Guide, Bangkok, Michelin, Thailand_
+_Context: Michelin, Bangkok, Thailand, Michelin Guide_
 
 ##### Weinstein effect
 ### [The "Silence Breakers", including those involved in the #MeToo movement, are named "Time" magazine's 2017 Time Person of the Year. ](/news/2017/12/6/the-silence-breakers-including-those-involved-in-the-metoo-movement-are-named-time-magazine-s-2017-time-person-of-the-year.md)

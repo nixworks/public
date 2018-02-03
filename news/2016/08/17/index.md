@@ -5,7 +5,7 @@ Formats: [HTML](2016/08/17/index.html)  [JSON](2016/08/17/index.json)  [XML](201
 
 ##### Federal Security Service
 ### [Federal Security Service (FSB) officers kill at least four suspected North Caucasus Islamic militants during a counter-terrorism raid on an apartment building in the Russian city of Saint Petersburg. ](/news/2016/08/17/federal-security-service-fsb-officers-kill-at-least-four-suspected-north-caucasus-islamic-militants-during-a-counter-terrorism-raid-on-an.md)
-_Context: North Caucasus, counterterrorism, Saint Petersburg, Russia, Federal Security Service_
+_Context: Federal Security Service, counterterrorism, North Caucasus, Saint Petersburg, Russia_
 
 ##### Cisco
 ### [Cisco announces a cut of 5,500 jobs in their shift from switches to software. ](/news/2016/08/17/cisco-announces-a-cut-of-5-500-jobs-in-their-shift-from-switches-to-software.md)
@@ -13,7 +13,7 @@ _Context: Cisco_
 
 ##### Energy Future Holdings
 ### [Energy Future Holdings, a Texas electric utility, asks a bankruptcy court in Delaware to confirm a plan that would allow it to exit Chapter 11 after more than two years. ](/news/2016/08/17/energy-future-holdings-a-texas-electric-utility-asks-a-bankruptcy-court-in-delaware-to-confirm-a-plan-that-would-allow-it-to-exit-chapter.md)
-_Context: Energy Future Holdings, electric utility, bankruptcy court, Delaware, Chapter 11_
+_Context: Energy Future Holdings, Delaware, electric utility, bankruptcy court, Chapter 11_
 
 ##### Saint-Auns
 ### [Eight people are seriously injured when a passenger train collides with a tree that had fallen across the railway line at Saint-Auns, Hrault, France. ](/news/2016/08/17/eight-people-are-seriously-injured-when-a-passenger-train-collides-with-a-tree-that-had-fallen-across-the-railway-line-at-saint-aunes-herau.md)
@@ -25,7 +25,7 @@ _Context: San Juan, Puerto Rico_
 
 ##### kiting
 ### [An unusual kiting incident in India leaves three people dead. 500 birds were also injured in similar incidents. ](/news/2016/08/17/an-unusual-kiting-incident-in-india-leaves-three-people-dead-500-birds-were-also-injured-in-similar-incidents.md)
-_Context: kiting, India, leaves three people dead_
+_Context: India, kiting, leaves three people dead_
 
 ##### Papua New Guinea
 ### [The governments of Papua New Guinea and Australia confirm that the Manus Regional Processing Centre will close following a ruling by the Supreme Court of Papua New Guinea. ](/news/2016/08/17/the-governments-of-papua-new-guinea-and-australia-confirm-that-the-manus-regional-processing-centre-will-close-following-a-ruling-by-the-sup.md)
@@ -33,7 +33,7 @@ Immigration Minister Peter Dutton confirms Australia will work with Papua New Gu
 
 ##### defects
 ### [North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to South Korea. ](/news/2016/08/17/north-korea-s-deputy-ambassador-to-the-united-kingdom-thae-yong-ho-defects-with-his-family-to-south-korea.md)
-_Context: North Korea, defects, South Korea, Thae Yong-ho, British_
+_Context: defects, South Korea, Thae Yong-ho, North Korea, British_
 
 ##### Malaysia
 ### [A Malaysian oil tanker, MT "Vier Harmoni", is hijacked off the coast of Malaysia and is believed to have been taken to Indonesian waters near the island of Batam, according to the Malaysian Maritime Enforcement Agency. The identity of the hijackers is not yet known. ](/news/2016/08/17/a-malaysian-oil-tanker-mt-vier-harmoni-is-hijacked-off-the-coast-of-malaysia-and-is-believed-to-have-been-taken-to-indonesian-waters-nea.md)

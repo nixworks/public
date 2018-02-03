@@ -13,15 +13,15 @@ A Saudi soldier died in a gunbattle with militants in the western Taif region ou
 
 ##### fuel tanker
 ### [ At least 73 people are killed in a collision between two buses and a fuel tanker in Ghazni Province, Afghanistan. ](/news/2016/05/8/at-least-73-people-are-killed-in-a-collision-between-two-buses-and-a-fuel-tanker-in-ghazni-province-afghanistan.md)
-_Context: Afghanistan, Ghazni Province, fuel tanker_
+_Context: Ghazni Province, Afghanistan, fuel tanker_
 
 ##### Taining County
 ### [At least 41 people are missing in Taining County of China's Fujian province after a landslide hits a construction workers dormitory. ](/news/2016/05/8/at-least-41-people-are-missing-in-taining-county-of-china-s-fujian-province-after-a-landslide-hits-a-construction-workers-dormitory.md)
-_Context: China, Fujian, Taining County_
+_Context: Fujian, Taining County, China_
 
 ##### North Korea
 ### [ North Korean leader Kim Jong-un rules out a nuclear first strike unless North Korea's sovereignty is violated. ](/news/2016/05/8/north-korean-leader-kim-jong-un-rules-out-a-nuclear-first-strike-unless-north-korea-s-sovereignty-is-violated.md)
-_Context: first strike, Kim Jong-un, North Korea_
+_Context: Kim Jong-un, first strike, North Korea_
 
 ##### War in Afghanistan (2015-present)
 ### [ Afghan officials hang six Taliban prisoners. ](/news/2016/05/8/afghan-officials-hang-six-taliban-prisoners.md)
@@ -37,7 +37,7 @@ Prime Minister Malcolm Turnbull says Australians will go to the polls on July 2 
 
 ##### Gou Zhongwen
 ### [ Gou Zhongwen replaces the disgraced Lu Xiwen as the Deputy Party Secretary of Beijing. ](/news/2016/05/8/gou-zhongwen-replaces-the-disgraced-lu-xiwen-as-the-deputy-party-secretary-of-beijing.md)
-_Context: Beijing, Gou Zhongwen, Deputy Party Secretary, Lu Xiwen_
+_Context: Lu Xiwen, Gou Zhongwen, Beijing, Deputy Party Secretary_
 
 ## [Previous Day...](/news/2016/05/7/index.md)
 

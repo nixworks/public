@@ -5,19 +5,19 @@ Formats: [HTML](2010/06/13/index.html)  [JSON](2010/06/13/index.json)  [XML](201
 
 ##### Egyptian security forces
 ### [Egyptian security forces beat protesters at a demonstration against human rights abuses in Egypt and an incident of police brutality that resulted in the death of a young man a week ago. ](/news/2010/06/13/egyptian-security-forces-beat-protesters-at-a-demonstration-against-human-rights-abuses-in-egypt-and-an-incident-of-police-brutality-that-re.md)
-_Context: Egyptian security forces, police brutality, Human rights in Egypt_
+_Context: police brutality, Human rights in Egypt, Egyptian security forces_
 
 ##### Dai Kundi
 ### [10 police were killed in an attack on Sunday on an outpost in Dai Kundi province in central Afghanistan. ](/news/2010/06/13/10-police-were-killed-in-an-attack-on-sunday-on-an-outpost-in-dai-kundi-province-in-central-afghanistan.md)
-_Context: Afghanistan, Dai Kundi_
+_Context: Dai Kundi, Afghanistan_
 
 ##### The Sunday Times
 ### [An investigation by "The Sunday Times" alleges that Japan has bribed smaller nations in exchange for their vote to resume whaling at the International Whaling Commission. ](/news/2010/06/13/an-investigation-by-the-sunday-times-alleges-that-japan-has-bribed-smaller-nations-in-exchange-for-their-vote-to-resume-whaling-at-the-int.md)
-_Context: Japan, The Sunday Times, International Whaling Commission, whaling_
+_Context: whaling, Japan, International Whaling Commission, The Sunday Times_
 
 ##### Al Jazeera Sports
 ### [A plane carrying 16 Al Jazeera Sports broadcast staff to the 2010 FIFA World Cup game between Algeria and Slovenia in Polokwane made an emergency landing at Lanseria International Airport following the jamming of the aircraft's landing gear. Lanseria International Airport is shut down. ](/news/2010/06/13/a-plane-carrying-16-al-jazeera-sports-broadcast-staff-to-the-2010-fifa-world-cup-game-between-algeria-and-slovenia-in-polokwane-made-an-emer.md)
-_Context: Algeria, 2010 FIFA World Cup, Al Jazeera Sports, Slovenia, Lanseria International Airport, Polokwane_
+_Context: 2010 FIFA World Cup, Algeria, Slovenia, Polokwane, Lanseria International Airport, Al Jazeera Sports_
 
 ##### Kyrgyzstan
 ### [Tensions remain high in Kyrgyzstan, with police patrolling the streets and special forces standing guard in the city of Osh and Jalal-Abad, after ethnic clashes left more than 100 people dead and about 1,400 others injured since fighting broke out Thursday night. ](/news/2010/06/13/tensions-remain-high-in-kyrgyzstan-with-police-patrolling-the-streets-and-special-forces-standing-guard-in-the-city-of-osh-and-jalal-abad.md)
@@ -45,7 +45,7 @@ Defense Ministry reports that Barak will remain in Israel until team of experts 
 
 ##### Slovakia
 ### [Slovak Prime Minister Robert Fico is appointed by President Ivan Gasparovic to form a new government. ](/news/2010/06/13/slovak-prime-minister-robert-fico-is-appointed-by-president-ivan-gaa-parovia-to-form-a-new-government.md)
-_Context: Robert Fico's, President, Prime Minister, Ivan Gasparovic, Slovakia_
+_Context: Slovakia, Ivan Gasparovic, President, Prime Minister, Robert Fico's_
 
 ##### Belgian
 ### [The Belgian elections take place amid a possibility of partition. ](/news/2010/06/13/the-belgian-elections-take-place-amid-a-possibility-of-partition.md)
@@ -73,19 +73,19 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### FIFA
 ### [FIFA says it will assist Al Jazeera Sports in its investigation of the 2010 FIFA World Cup signal sabotage. ](/news/2010/06/13/fifa-says-it-will-assist-al-jazeera-sports-in-its-investigation-of-the-2010-fifa-world-cup-signal-sabotage.md)
-_Context: FIFA, 2010 FIFA World Cup, Al Jazeera Sports_
+_Context: 2010 FIFA World Cup, Al Jazeera Sports, FIFA_
 
 ##### Wen Jiabao
 ### [Wen Jiabao, the Premier of the People's Republic of China and Prime Minister of Japan Naoto Kan agree to establish a Prime Ministerial hotline between the two heads of government. ](/news/2010/06/13/wen-jiabao-the-premier-of-the-people-s-republic-of-china-and-prime-minister-of-japan-naoto-kan-agree-to-establish-a-prime-ministerial-hotli.md)
-_Context: hotline, Wen Jiabao, Naoto Kan, Prime Minister of Japan, Premier of the People's Republic of China_
+_Context: Naoto Kan, hotline, Wen Jiabao, Premier of the People's Republic of China, Prime Minister of Japan_
 
 ##### Joran Van der Sloot
 ### [Joran Van der Sloot said he'll reveal the location of U.S teen Natalee Holloway's body to the investigators if authorities transfer him to an Aruban jail from his current jail in Peru. ](/news/2010/06/13/joran-van-der-sloot-said-he-ll-reveal-the-location-of-u-s-teen-natalee-holloway-s-body-to-the-investigators-if-authorities-transfer-him-to-a.md)
-_Context: Peru, Aruba, Joran Van der Sloot, Natalee Holloway_
+_Context: Peru, Joran Van der Sloot, Natalee Holloway, Aruba_
 
 ##### London School of Economics
 ### [A London School of Economics report finds that Pakistan's largest intelligence agency, the Inter-Services Intelligence, is secretly funding and training the Afghan Taliban. ](/news/2010/06/13/a-london-school-of-economics-report-finds-that-pakistan-s-largest-intelligence-agency-the-inter-services-intelligence-is-secretly-funding.md)
-_Context: Pakistan, Taliban, London School of Economics, intelligence agency, Inter-Services Intelligence_
+_Context: London School of Economics, Pakistan, Taliban, Inter-Services Intelligence, intelligence agency_
 
 ##### South Korea
 ### [South Korea's chairman of the Joint Chiefs of Staff Gen. Lee Sang-eui offers to retire over the recent warship sinking. ](/news/2010/06/13/south-korea-s-chairman-of-the-joint-chiefs-of-staff-gen-lee-sang-eui-offers-to-retire-over-the-recent-warship-sinking.md)

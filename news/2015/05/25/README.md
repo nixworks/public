@@ -13,7 +13,7 @@ A Tunisian corporal shot dead seven of his comrades before himself being killed,
 
 ##### ISIL
 ### [Close to 55,000 people have fled the Iraqi city of Ramadi since it was captured by Islamic State. ](/news/2015/05/25/close-to-55-000-people-have-fled-the-iraqi-city-of-ramadi-since-it-was-captured-by-islamic-state.md)
-_Context: Ramadi, Iraq, ISIL_
+_Context: ISIL, Ramadi, Iraq_
 
 ##### Australia
 ### [Australia announces that it will repatriate the bodies of up to 25 soldiers killed in the early stages of the Vietnam War. ](/news/2015/05/25/australia-announces-that-it-will-repatriate-the-bodies-of-up-to-25-soldiers-killed-in-the-early-stages-of-the-vietnam-war.md)
@@ -33,7 +33,7 @@ The searing heatwave in Andhra Pradesh and Telangana has killed 432 people so fa
 
 ##### nursing home
 ### [At least 38 people are killed and 6 injured in a nursing home fire in Lushan County of China's Henan Province. ](/news/2015/05/25/at-least-38-people-are-killed-and-6-injured-in-a-nursing-home-fire-in-lushan-county-of-china-s-henan-province.md)
-_Context: nursing home, Henan Province, China, Lushan County_
+_Context: Henan Province, Lushan County, China, nursing home_
 
 ##### gold mine
 ### [Emergency workers have recovered the final bodies from a collapsed gold mine in Colombia with 15 people recovered. ](/news/2015/05/25/emergency-workers-have-recovered-the-final-bodies-from-a-collapsed-gold-mine-in-colombia-with-15-people-recovered.md)
@@ -41,11 +41,11 @@ _Context: Colombia, gold mine_
 
 ##### Malaysia
 ### [Malaysia summons a Philippines diplomat over a dispute regarding the ownership of Sabah. ](/news/2015/05/25/malaysia-summons-a-philippines-diplomat-over-a-dispute-regarding-the-ownership-of-sabah.md)
-_Context: a dispute regarding the ownership of Sabah, Philippines, Malaysia_
+_Context: Philippines, Malaysia, a dispute regarding the ownership of Sabah_
 
-##### Chinese
+##### China
 ### [The People's Republic of China lodges an official complaint with the United States over a flight by an alleged spy plane over parts of the South China Sea. ](/news/2015/05/25/the-people-s-republic-of-china-lodges-an-official-complaint-with-the-united-states-over-a-flight-by-an-alleged-spy-plane-over-parts-of-the-s.md)
-_Context: South China Sea, Chinese, U.S._
+_Context: United States, South China Sea, China_
 
 ##### Sudan
 ### [The government of Sudan denies allegations from South Sudan that it is supporting rebels threatening oil fields in its southern neighbour. ](/news/2015/05/25/the-government-of-sudan-denies-allegations-from-south-sudan-that-it-is-supporting-rebels-threatening-oil-fields-in-its-southern-neighbour.md)
@@ -53,7 +53,7 @@ The Sudanese government has denied supporting rebels in South Sudan after it acc
 
 ##### Malaysia
 ### [Malaysia announces the discovery of 139 mass graves near the border with Thailand with some graves containing more than one body. ](/news/2015/05/25/malaysia-announces-the-discovery-of-139-mass-graves-near-the-border-with-thailand-with-some-graves-containing-more-than-one-body.md)
-_Context: Malaysia, Thailand_
+_Context: Thailand, Malaysia_
 
 ##### Israeli Prime Minister
 ### [Former Prime Minister of Israel Ehud Olmert is sentenced to eight months in jail following a conviction on corruption charges for unlawfully accepting multiple envelopes with cash from an American supporter. There are 3 more criminals prosecutions against him. ](/news/2015/05/25/former-prime-minister-of-israel-ehud-olmert-is-sentenced-to-eight-months-in-jail-following-a-conviction-on-corruption-charges-for-unlawfully.md)
@@ -69,7 +69,7 @@ Suriname goes to the polls in general elections on Monday with its convicted dru
 
 ##### Republic of Turkey
 ### [Two recent polls indicate that the ruling party in Republic of Turkey, the Justice and Development Party of Recep Tayyip Erdogan, is in danger of losing its parliamentary majority in the June 7 election. ](/news/2015/05/25/two-recent-polls-indicate-that-the-ruling-party-in-republic-of-turkey-the-justice-and-development-party-of-recep-tayyip-erdoaan-is-in-dan.md)
-_Context: ruling party, election in June, Republic of Turkey, Recep Tayyip Erdogan_
+_Context: election in June, ruling party, Republic of Turkey, Recep Tayyip Erdogan_
 
 ## [Previous Day...](/news/2015/05/24/index.md)
 

@@ -21,7 +21,7 @@ The Age 404 Page
 
 ##### Somalia
 ### [ Flooding in southern Somalia causes 73 deaths. Up to 1.8 million people have been affected by the floods. ](/news/2006/11/22/flooding-in-southern-somalia-causes-73-deaths-up-to-1-8-million-people-have-been-affected-by-the-floods.md)
-_Context: flood, Somalia_
+_Context: Somalia, flood_
 
 ##### United Nations
 ### [ The United Nations claims that 3,709 Iraqi civilians died during October 2006 as sectarian violence worsens. ](/news/2006/11/22/the-united-nations-claims-that-3-709-iraqi-civilians-died-during-october-2006-as-sectarian-violence-worsens.md)
@@ -29,7 +29,7 @@ _Context: Iraq, United Nations_
 
 ##### Federal District Judge
 ### [ United States district judge for the Eastern District of Louisiana Eldon Fallon rules that over seven thousand federal lawsuits against pharmaceutical company Merck claiming that its drug Vioxx caused heart problems could not be combined into one class action suit. ](/news/2006/11/22/united-states-district-judge-for-the-eastern-district-of-louisiana-eldon-fallon-rules-that-over-seven-thousand-federal-lawsuits-against-pha.md)
-_Context: class action, Federal District Judge, Eldon Fallon, Merck & Co., Vioxx, Eastern District of Louisiana_
+_Context: Merck & Co., Eldon Fallon, Vioxx, Eastern District of Louisiana, Federal District Judge, class action_
 
 ##### Nigeria
 ### [ Seven foreign oil workers are taken hostage in Nigeria. Four people die in a rescue effort including one hostage, a soldier and two of the kidnappers. ](/news/2006/11/22/seven-foreign-oil-workers-are-taken-hostage-in-nigeria-four-people-die-in-a-rescue-effort-including-one-hostage-a-soldier-and-two-of-the.md)
@@ -41,7 +41,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Prime Minister
 ### [ The Prime Minister of Nepal Girija Prasad Koirala and Maoist guerilla leader Prachanda sign a peace treaty ending 11 years of civil war in Nepal. ](/news/2006/11/22/the-prime-minister-of-nepal-girija-prasad-koirala-and-maoist-guerilla-leader-prachanda-sign-a-peace-treaty-ending-11-years-of-civil-war-in.md)
-_Context: Prachanda, Prime Minister, civil war, Girija Prasad Koirala, Maoist, Nepal_
+_Context: Prachanda, Prime Minister, Girija Prasad Koirala, Maoist, Nepal, civil war_
 
 ## [Previous Day...](/news/2006/11/21/index.md)
 

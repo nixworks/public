@@ -5,7 +5,7 @@ Formats: [HTML](2017/09/19/index.html)  [JSON](2017/09/19/index.json)  [XML](201
 
 ##### Atlantic hurricanes
 ### [Hurricane Maria makes landfall on Dominica as a category 5 hurricane with maximum sustained winds of 160 mph (260 km-h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and 2007 the only seasons on record to feature this occurrence. ](/news/2017/09/19/hurricane-maria-makes-landfall-on-dominica-as-a-category-5-hurricane-with-maximum-sustained-winds-of-160-mph-260-km-h-maria-is-the-second.md)
-_Context: landfall, Hurricane Maria, category 5 hurricane, Atlantic hurricanes, Dominica, 2007_
+_Context: landfall, category 5 hurricane, 2007, Hurricane Maria, Atlantic hurricanes, Dominica_
 
 ##### 2017 Central Mexico earthquake
 ### [A magnitude 7.1 earthquake strikes Mexico, killing at least 220 people and collapsing several buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico City earthquake. ](/news/2017/09/19/a-magnitude-7-1-earthquake-strikes-mexico-killing-at-least-220-people-and-collapsing-several-buildings-in-mexico-city-and-widespread-evacua.md)
@@ -25,7 +25,7 @@ Police discover a mass of documents directly related to the banned independence 
 
 ##### Mobile operating system
 ### [Apple Inc. releases the iOS 11 update for most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-for-most-current-models-of-the-iphone-and-ipad.md)
-_Context: iPhone, Apple Inc., iPad, Mobile operating system, iOS 11_
+_Context: iOS 11, Mobile operating system, iPhone, iPad, Apple Inc._
 
 ## [Previous Day...](/news/2017/09/18/index.md)
 

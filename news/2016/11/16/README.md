@@ -21,7 +21,7 @@ Vladimir Putin has signed an order to have Russia withdrawn from the Internation
 
 ##### muezzin
 ### [ A so-called "Muezzin Bill" which would limit the volume and usage time of loudspeakers in mosques during muezzin to decrease noise pollution is put to parliament in Israel and opposed by both Arab and Jewish ultra-orthodox parties. ](/news/2016/11/16/a-so-called-muezzin-bill-which-would-limit-the-volume-and-usage-time-of-loudspeakers-in-mosques-during-muezzin-to-decrease-noise-pollutio.md)
-_Context: Jewish ultra-orthodox, parliament in Israel, muezzin_
+_Context: Jewish ultra-orthodox, muezzin, parliament in Israel_
 
 ## [Previous Day...](/news/2016/11/15/index.md)
 

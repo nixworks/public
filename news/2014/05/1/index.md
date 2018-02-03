@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/1/index.html)  [JSON](2014/05/1/index.json)  [XML](2014/
 
 ##### Eastern Ukraine
 ### [Pro-Russian militants seize the regional prosecutor's office in the eastern Ukrainian city of Donetsk. ](/news/2014/05/1/pro-russian-militants-seize-the-regional-prosecutor-s-office-in-the-eastern-ukrainian-city-of-donetsk.md)
-_Context: Donetsk, Eastern Ukraine_
+_Context: Eastern Ukraine, Donetsk_
 
 ##### car bomb
 ### [A car bomb attack in the Nigerian capital Abuja kills at least nine people. ](/news/2014/05/1/a-car-bomb-attack-in-the-nigerian-capital-abuja-kills-at-least-nine-people.md)
@@ -25,11 +25,11 @@ Two bombs planted on a train killed a 22-year-old woman and wounded nine others 
 
 ##### outbreak
 ### [The first-ever outbreak of chikungunya in the Caribbean reaches epidemic levels. ](/news/2014/05/1/the-first-ever-outbreak-of-chikungunya-in-the-caribbean-reaches-epidemic-levels.md)
-_Context: chikungunya, outbreak_
+_Context: outbreak, chikungunya_
 
-##### Chinese
+##### China
 ### [The People's Republic of China and Russia announce plans to hold joint naval exercises in the East China Sea in late May amid regional tensions about islands and airspace. ](/news/2014/05/1/the-people-s-republic-of-china-and-russia-announce-plans-to-hold-joint-naval-exercises-in-the-east-china-sea-in-late-may-amid-regional-tensi.md)
-_Context: Russia, East China Sea, naval exercise, Chinese_
+_Context: naval exercise, China, Russia, East China Sea_
 
 ##### Sinn Fein
 ### [Sinn Fein leader Gerry Adams remains in custody in connection with the IRA murder of Jean McConville. ](/news/2014/05/1/sinn-fa-c-in-leader-gerry-adams-remains-in-custody-in-connection-with-the-ira-murder-of-jean-mcconville.md)

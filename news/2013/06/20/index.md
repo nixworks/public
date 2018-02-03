@@ -13,7 +13,7 @@ _Context: Instagram_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average and S&P 500 record their worst day of 2013, with the Dow Jones dropping 353 points (2.3 percent) and S&P 500 dropping 2.5 percent. ](/news/2013/06/20/the-dow-jones-industrial-average-and-s-p-500-record-their-worst-day-of-2013-with-the-dow-jones-dropping-353-points-2-3-percent-and-s-p-50.md)
-_Context: Dow Jones Industrial Average, S&P 500_
+_Context: S&P 500, Dow Jones Industrial Average_
 
 ##### Riga Castle fire
 ### [Riga Castle fire: A major fire breaks out at the Riga Castle, the Latvian presidential palace. ](/news/2013/06/20/riga-castle-fire-a-major-fire-breaks-out-at-the-riga-castle-the-latvian-presidential-palace.md)
@@ -29,7 +29,7 @@ _Context: Uttarakhand, 2013 North India floods_
 
 ##### 2013 Southeast Asian haze
 ### [2013 Southeast Asian haze: Haze from Indonesian forest fires in Sumatra increase air pollution in Singapore and Malaysia to hazardous levels. ](/news/2013/06/20/2013-southeast-asian-haze-haze-from-indonesian-forest-fires-in-sumatra-increase-air-pollution-in-singapore-and-malaysia-to-hazardous-levels.md)
-_Context: Sumatra, Singapore, air pollution, Indonesia, forest fire, Malaysia, 2013 Southeast Asian haze_
+_Context: Malaysia, 2013 Southeast Asian haze, Indonesia, Sumatra, forest fire, Singapore, air pollution_
 
 ##### Coteau-du-Lac, Quebec
 ### [Two people have died in an explosion at a fireworks warehouse in Coteau-du-Lac, Quebec, Canada. ](/news/2013/06/20/two-people-have-died-in-an-explosion-at-a-fireworks-warehouse-in-coteau-du-lac-quebec-canada.md)
@@ -37,7 +37,7 @@ _Context: Canadian, Coteau-du-Lac, Quebec_
 
 ##### South Island
 ### [New Zealand's South Island is lashed by wild weather. Dunedin and Christchurch have roads cut off and flights cancelled as conditions worsen. Heavy snow and flooding is reported in parts of Canterbury, Otago and Southland. ](/news/2013/06/20/new-zealand-s-south-island-is-lashed-by-wild-weather-dunedin-and-christchurch-have-roads-cut-off-and-flights-cancelled-as-conditions-worsen.md)
-_Context: Christchurch, Dunedin, South Island_
+_Context: South Island, Christchurch, Dunedin_
 
 ##### Argentinian
 ### [Argentinian football star Lionel Messi and his father are summoned to appear before a Spanish court on tax charges in September. ](/news/2013/06/20/argentinian-football-star-lionel-messi-and-his-father-are-summoned-to-appear-before-a-spanish-court-on-tax-charges-in-september.md)

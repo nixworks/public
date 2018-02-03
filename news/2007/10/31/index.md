@@ -9,7 +9,7 @@ The Federal Reserve gave investors what they wanted today, but quietly warned Wa
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush nominates Fmr. Governor of North Dakota Ed Schafer for United States Secretary of Agriculture. ](/news/2007/10/31/the-president-of-the-united-states-george-w-bush-nominates-fmr-governor-of-north-dakota-ed-schafer-for-united-states-secretary-of-agricul.md)
-_Context: United States Secretary of Agriculture, U.S. President, George W. Bush, Ed Schafer, U.S., North Dakota, Governor_
+_Context: United States, Governor, North Dakota, U.S. President, United States Secretary of Agriculture, George W. Bush, Ed Schafer_
 
 ##### bomb
 ### [ At least 8 people are killed and 53 are injured when militants bomb a bus in Togliatti, Russia. ](/news/2007/10/31/at-least-8-people-are-killed-and-53-are-injured-when-militants-bomb-a-bus-in-togliatti-russia.md)
@@ -29,15 +29,15 @@ _Context: Burma, Buddhist monk_
 
 ##### India
 ### [ Police in India's Meghalaya state say they have killed five tribal separatists in the capital of Shillong. ](/news/2007/10/31/police-in-india-s-meghalaya-state-say-they-have-killed-five-tribal-separatists-in-the-capital-of-shillong.md)
-_Context: India, Meghalaya, Shillong_
+_Context: Meghalaya, Shillong, India_
 
 ##### Los Angeles
 ### [ Los Angeles authorities reveals that a boy playing with matches caused one of the Los Angeles fires. ](/news/2007/10/31/los-angeles-authorities-reveals-that-a-boy-playing-with-matches-caused-one-of-the-los-angeles-fires.md)
-_Context: matches, Los Angeles fires, Los Angeles_
+_Context: Los Angeles fires, Los Angeles, matches_
 
 ##### US Eastern District Court of Virginia
 ### [ A United States district court blocks new patent rules relating to continuation practice at the USPTO, originally scheduled to take effect on November 1, 2007. ](/news/2007/10/31/a-united-states-district-court-blocks-new-patent-rules-relating-to-continuation-practice-at-the-uspto-originally-scheduled-to-take-effect.md)
-_Context: U.S. patent cases, US Eastern District Court of Virginia, continuation practice, United States Patent and Trademark Office_
+_Context: US Eastern District Court of Virginia, continuation practice, U.S. patent cases, United States Patent and Trademark Office_
 
 ## [Previous Day...](/news/2007/10/30/index.md)
 

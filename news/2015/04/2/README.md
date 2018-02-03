@@ -9,7 +9,7 @@ At least 147 people have died in an attack by al-Shabab on Garissa University, K
 
 ##### Yemeni Crisis (2011-present)
 ### [Al-Qaeda fighters attack a prison in Al Mukalla, freeing at least 270 prisoners. ](/news/2015/04/2/al-qaeda-fighters-attack-a-prison-in-al-mukalla-freeing-at-least-270-prisoners.md)
-_Context: al-Qaeda, Yemeni Crisis (2011-present), Al Mukalla_
+_Context: Al Mukalla, al-Qaeda, Yemeni Crisis (2011-present)_
 
 ##### flight data recorder
 ### [The flight data recorder is recovered from the crash site. ](/news/2015/04/2/the-flight-data-recorder-is-recovered-from-the-crash-site.md)

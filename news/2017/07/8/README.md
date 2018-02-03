@@ -13,15 +13,15 @@ An explosion Saturday at a Los Angeles Department of Water and Power plant in th
 
 ##### 2017 G20 Hamburg summit
 ### [The summit announces it is unable to gain agreement on climate change between the United States and the other 19 members of this international forum. ](/news/2017/07/8/the-summit-announces-it-is-unable-to-gain-agreement-on-climate-change-between-the-united-states-and-the-other-19-members-of-this-internation.md)
-_Context: U.S., 2017 G20 Hamburg summit, climate change_
+_Context: climate change, 2017 G20 Hamburg summit, United States_
 
 ##### Crime in Cincinnati
 ### [A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. The unborn child, revealed to be a boy, also dies. ](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8-the-unborn-child-revealed-to-be-a-boy-also-dies.md)
-_Context: Cincinnati, Crime in Cincinnati, gender reveal_
+_Context: gender reveal, Cincinnati, Crime in Cincinnati_
 
 ##### ongoing protests
 ### [Venezuelan opposition leader Leopoldo Lopez, leader of the Popular Will party, is granted house arrest after over three years of imprisonment. ](/news/2017/07/8/venezuelan-opposition-leader-leopoldo-la3pez-leader-of-the-popular-will-party-is-granted-house-arrest-after-over-three-years-of-imprisonme.md)
-_Context: Popular Will, Leopoldo Lopez, Venezuelan, ongoing protests_
+_Context: Leopoldo Lopez, Venezuelan, ongoing protests, Popular Will_
 
 ## [Previous Day...](/news/2017/07/7/index.md)
 

@@ -9,23 +9,23 @@ _Context: Homs, tank, combat jet_
 
 ##### suicide bomber
 ### [A suicide bomber targets a NATO convoy in the Afghan capital Kabul killing at least four Afghans, 13 American troops, and members of the International Security Assistance Force. ](/news/2011/10/29/a-suicide-bomber-targets-a-nato-convoy-in-the-afghan-capital-kabul-killing-at-least-four-afghans-13-american-troops-and-members-of-the-int.md)
-_Context: Kabul, Afghanistan, International Security Assistance Force, NATO, suicide bomber_
+_Context: Kabul, Afghanistan, NATO, suicide bomber, International Security Assistance Force_
 
 ##### Australia
 ### [The Australian airline Qantas grounds its entire fleet due to an ongoing industrial dispute with a lockout to start on Monday. ](/news/2011/10/29/the-australian-airline-qantas-grounds-its-entire-fleet-due-to-an-ongoing-industrial-dispute-with-a-lockout-to-start-on-monday.md)
-_Context: ongoing industrial dispute, Qantas, Australia_
+_Context: Qantas, ongoing industrial dispute, Australia_
 
 ##### footbridge
 ### [Thirty people are feared dead after a footbridge in India's Arunachal Pradesh collapses into the Kameng River. ](/news/2011/10/29/thirty-people-are-feared-dead-after-a-footbridge-in-india-s-arunachal-pradesh-collapses-into-the-kameng-river.md)
-_Context: Kameng River, India, footbridge, Arunachal Pradesh_
+_Context: Kameng River, footbridge, India, Arunachal Pradesh_
 
 ##### nor'easter
 ### [A rare October snow storm hits the northeastern United States and Mid-Atlantic United States, leaving millions without power and killing two. ](/news/2011/10/29/a-rare-october-snow-storm-hits-the-northeastern-united-states-and-mid-atlantic-united-states-leaving-millions-without-power-and-killing-two.md)
-_Context: Mid-Atlantic, U.S., northeastern United States, nor'easter_
+_Context: nor'easter, United States, Mid-Atlantic, northeastern United States_
 
 ##### grain elevator
 ### [At least three people die in an explosion in a grain elevator in the US town of Atchison, Kansas. ](/news/2011/10/29/at-least-three-people-die-in-an-explosion-in-a-grain-elevator-in-the-us-town-of-atchison-kansas.md)
-_Context: Atchison, Kansas, grain elevator, Kansas_
+_Context: grain elevator, Atchison, Kansas, Kansas_
 
 ## [Previous Day...](/news/2011/10/28/index.md)
 

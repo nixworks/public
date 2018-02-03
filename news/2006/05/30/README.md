@@ -5,27 +5,27 @@ Formats: [HTML](2006/05/30/index.html)  [JSON](2006/05/30/index.json)  [XML](200
 
 ##### Three Links
 ### [ A motion to vote on a bill opening the Three Links between mainland China and Taiwan is defeated for the third time in the Legislative Yuan of the Republic of China when a Democratic Progressive Party lawmaker tries to eat the written cloture motion. The opposition Pan-Blue Coalition controls the legislature and would have likely passed the bill. ](/news/2006/05/30/a-motion-to-vote-on-a-bill-opening-the-three-links-between-mainland-china-and-taiwan-is-defeated-for-the-third-time-in-the-legislative-yuan.md)
-_Context: Democratic Progressive Party, legislative chamber, Taiwan, coalition allies, mainland China, Three Links, Taiwan_
+_Context: coalition allies, Democratic Progressive Party, Three Links, legislative chamber, Taiwan, Taiwan, mainland China_
 
 ##### British
 ### [ British mobile phone operator Vodafone posts the largest annual loss in British corporate history &ndash; GBP21.8 billion &ndash; as it writes down the value of company purchases made mainly in Germany in the years up to 2000. ](/news/2006/05/30/british-mobile-phone-operator-vodafone-posts-the-largest-annual-loss-in-british-corporate-history-ndash-gbp21-8-billion-ndash-as-it-wri.md)
-_Context: mobile phone, Vodafone Group Plc, GBP, German, British_
+_Context: Vodafone Group Plc, British, German, mobile phone, GBP_
 
 ##### Engelhard
 ### [ The board of the Engelhard Corporation agreed to a takeover by BASF. BASF will become the world's largest manufacturer of catalytic converters. BASF will pay USD 5.0 billion for Engelhard, which translates to $39 per share. ](/news/2006/05/30/the-board-of-the-engelhard-corporation-agreed-to-a-takeover-by-basf-basf-will-become-the-world-s-largest-manufacturer-of-catalytic-convert.md)
-_Context: $, catalytic converter, BASF, Engelhard_
+_Context: $, BASF, catalytic converter, Engelhard_
 
 ##### United Nations
 ### [ Seven United Nations peacekeepers are taken hostage by the Nationalist and Integrationist Front militia of Ituri Province, Democratic Republic of the Congo. ](/news/2006/05/30/seven-united-nations-peacekeepers-are-taken-hostage-by-the-nationalist-and-integrationist-front-militia-of-ituri-province-democratic-repub.md)
-_Context: DR Congo, United Nations, Ituri, Nationalist and Integrationist Front, peacekeepers_
+_Context: United Nations, Ituri, peacekeepers, Nationalist and Integrationist Front, DR Congo_
 
 ##### European Court of Justice
 ### [ The European Court of Justice rules illegal an EU-US agreement to pass airline passenger data to the US authorities, as it does not ensure privacy protection for European passengers. ](/news/2006/05/30/the-european-court-of-justice-rules-illegal-an-eu-us-agreement-to-pass-airline-passenger-data-to-the-us-authorities-as-it-does-not-ensure.md)
-_Context: European Court of Justice, U.S., European Union_
+_Context: European Court of Justice, European Union, United States_
 
 ##### Constitutional Council of Chad
 ### [ The Constitutional Council of Chad, the highest court in Chad, confirms Idriss Dby's victory in the presidential elections which took place on May 3, 2006. However, the court only gives him 64.67% of the vote, instead of his administration's claim of 77.4%. Turnout was also reduced to 53.08% instead of the previous 60%. ](/news/2006/05/30/the-constitutional-council-of-chad-the-highest-court-in-chad-confirms-idriss-deby-s-victory-in-the-presidential-elections-which-took-plac.md)
-_Context: Chad, presidential elections, Constitutional Council of Chad, Idriss Dby_
+_Context: presidential elections, Constitutional Council of Chad, Chad, Idriss Dby_
 
 ##### May 2006 Java earthquake
 ### [ May 2006 Java earthquake: The death toll in last Saturday's earthquake in Indonesia is officially raised to 5,427. ](/news/2006/05/30/may-2006-java-earthquake-the-death-toll-in-last-saturday-s-earthquake-in-indonesia-is-officially-raised-to-5-427.md)
@@ -37,7 +37,7 @@ _Context: Kim Woo-jung, Daewoo_
 
 ##### John W. Snow
 ### [ John W. Snow has resigned as United States Secretary of the Treasury. President George W. Bush has nominated Goldman Sachs CEO Henry Paulson to succeed him. ](/news/2006/05/30/john-w-snow-has-resigned-as-united-states-secretary-of-the-treasury-president-george-w-bush-has-nominated-goldman-sachs-ceo-henry-paulso.md)
-_Context: Henry Paulson, United States Secretary of the Treasury, George W. Bush, John W. Snow_
+_Context: George W. Bush, John W. Snow, Henry Paulson, United States Secretary of the Treasury_
 
 ## [Previous Day...](/news/2006/05/29/index.md)
 

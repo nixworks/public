@@ -11,13 +11,13 @@ _Context: Afghan army_
 ### [An Israeli air-strike in the Gaza Strip kills five Palestinian militants according to Palestinian sources; Israel says they were attempting to fire missiles into Israel. ](/news/2010/12/18/an-israeli-air-strike-in-the-gaza-strip-kills-five-palestinian-militants-according-to-palestinian-sources-israel-says-they-were-attempting.md)
 An Israeli air strike kills five people in the Gaza Strip, Palestinian and Israeli sources say.
 
-##### U.S.
+##### United States
 ### [The United States' unemployment rate rises in 21 states, the highest number to report an increase since August. It falls in 15 states. ](/news/2010/12/18/the-united-states-unemployment-rate-rises-in-21-states-the-highest-number-to-report-an-increase-since-august-it-falls-in-15-states.md)
 Unemployment rates rose in 21 states last month, the highest number to report an increase since August. The report is a reminder of the job market&#8217;s struggle to rebound even as the economy is improving.
 
 ##### Bank of America
 ### [Bank of America bans Wikileaks payments as a result of news of an upcoming release of information on banks in the United States that could leave an impact. ](/news/2010/12/18/bank-of-america-bans-wikileaks-payments-as-a-result-of-news-of-an-upcoming-release-of-information-on-banks-in-the-united-states-that-could-l.md)
-_Context: Bank of America, Wikileaks_
+_Context: Wikileaks, Bank of America_
 
 ##### Bangladesh
 ### [At least 30 people drown after a boat capsizes in northeastern Bangladesh. ](/news/2010/12/18/at-least-30-people-drown-after-a-boat-capsizes-in-northeastern-bangladesh.md)
@@ -25,7 +25,7 @@ _Context: Bangladesh_
 
 ##### China
 ### [A Chinese fishing boat capsizes during a scuffle with a South Korean coastguard ship, leaving one dead and two missing. ](/news/2010/12/18/a-chinese-fishing-boat-capsizes-during-a-scuffle-with-a-south-korean-coastguard-ship-leaving-one-dead-and-two-missing.md)
-_Context: South Korea, China_
+_Context: China, South Korea_
 
 ##### British
 ### [Roads, railways and airports across the United Kingdom are severely affected by further heavy snowfall. Severe weather warnings have been issued for many areas. ](/news/2010/12/18/roads-railways-and-airports-across-the-united-kingdom-are-severely-affected-by-further-heavy-snowfall-severe-weather-warnings-have-been-is.md)
@@ -53,7 +53,7 @@ _Context: incident near Eocheong island_
 
 ##### Nigeria
 ### [Nigeria agrees to drop corruption charges against Dick Cheney and Halliburton in exchange for a $250 million settlement. ](/news/2010/12/18/nigeria-agrees-to-drop-corruption-charges-against-dick-cheney-and-halliburton-in-exchange-for-a-250-million-settlement.md)
-_Context: settlement, Halliburton, Nigeria, Dick Cheney_
+_Context: Dick Cheney, Nigeria, settlement, Halliburton_
 
 ##### Russia
 ### [Hundreds of people, including nationalists, are arrested in the Russian capital Moscow in an attempt to prevent an outbreak of ethnic violence. ](/news/2010/12/18/hundreds-of-people-including-nationalists-are-arrested-in-the-russian-capital-moscow-in-an-attempt-to-prevent-an-outbreak-of-ethnic-violen.md)
@@ -65,7 +65,7 @@ At least 140 prisoners were on the loose Friday in northern Mexico after breakin
 
 ##### United States Senate
 ### [The United States Senate repeals "Don't Ask Don't Tell" by a vote of 65-35. The bill will now be sent to President Barack Obama to be signed. ](/news/2010/12/18/the-united-states-senate-repeals-don-t-ask-don-t-tell-by-a-vote-of-65-35-the-bill-will-now-be-sent-to-president-barack-obama-to-be-signed.md)
-_Context: Don't Ask Don't Tell, United States Senate, Barack Obama_
+_Context: Barack Obama, Don't Ask Don't Tell, United States Senate_
 
 ##### Italy
 ### [An Italian court grants Amanda Knox a review of the forensic evidence used to convict her of the 2007 murder of British student Meredith Kercher. ](/news/2010/12/18/an-italian-court-grants-amanda-knox-a-review-of-the-forensic-evidence-used-to-convict-her-of-the-2007-murder-of-british-student-meredith-ker.md)
@@ -73,7 +73,7 @@ Amanda Knox has been granted a review of the forensic evidence used to convict h
 
 ##### Venezuela
 ### [The Venezuelan parliament temporarily grants more powers to President Hugo Chavez in the wake of recent flooding, allowing him to pass laws by decree without the support of the National Assembly.](/news/2010/12/18/the-venezuelan-parliament-temporarily-grants-more-powers-to-president-hugo-cha-vez-in-the-wake-of-recent-flooding-allowing-him-to-pass-laws.md)
-_Context: Venezuelan President, National Assembly, Venezuela, Hugo Chavez, decree_
+_Context: Venezuela, Venezuelan President, National Assembly, decree, Hugo Chavez_
 
 ## [Previous Day...](/news/2010/12/17/index.md)
 

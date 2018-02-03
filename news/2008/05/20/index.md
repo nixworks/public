@@ -5,15 +5,15 @@ Formats: [HTML](2008/05/20/index.html)  [JSON](2008/05/20/index.json)  [XML](200
 
 ##### Iraq
 ### [ Ten thousand Iraqi troops enter Sadr City in Baghdad to seize control from Shiite militants. ](/news/2008/05/20/ten-thousand-iraqi-troops-enter-sadr-city-in-baghdad-to-seize-control-from-shiite-militants.md)
-_Context: Iraq, Shiite, Baghdad, Sadr City_
+_Context: Iraq, Sadr City, Baghdad, Shiite_
 
 ##### Sudan People's Liberation Army
 ### [ The SPLA attacks Sudanese government soldiers at Abyei, a disputed town at the border of South Sudan. ](/news/2008/05/20/the-spla-attacks-sudanese-government-soldiers-at-abyei-a-disputed-town-at-the-border-of-south-sudan.md)
-_Context: Abyei, Sudan People's Liberation Army, Sudan, South Sudan_
+_Context: Sudan, Sudan People's Liberation Army, South Sudan, Abyei_
 
 ##### Cyclone Nargis
 ### [ The Secretary-General of the United Nations Ban Ki-Moon leaves for Burma calling the situation critical. ](/news/2008/05/20/the-secretary-general-of-the-united-nations-ban-ki-moon-leaves-for-burma-calling-the-situation-critical.md)
-_Context: Cyclone Nargis, United Nations Secretary-General, Ban Ki-Moon_
+_Context: Ban Ki-Moon, United Nations Secretary-General, Cyclone Nargis_
 
 ##### 2008
 ### [ United States presidential election, 2008: Voters in Oregon and Kentucky go to the polls to vote in primary elections. ](/news/2008/05/20/united-states-presidential-election-2008-voters-in-oregon-and-kentucky-go-to-the-polls-to-vote-in-primary-elections.md)
@@ -21,11 +21,11 @@ The argument is of a piece with Mrs. Clinton’s increasingly populist image, bu
 
 ##### strike
 ### [ A 24-hour strike by employees of the National Railway Company of Belgium ends rail services in Belgium and to France, Germany and the Netherlands. ](/news/2008/05/20/a-24-hour-strike-by-employees-of-the-national-railway-company-of-belgium-ends-rail-services-in-belgium-and-to-france-germany-and-the-nethe.md)
-_Context: National Railway Company of Belgium, Belgium, the Netherlands, strike, German, France_
+_Context: the Netherlands, National Railway Company of Belgium, German, strike, Belgium, France_
 
 ##### Ma Ying-jeou
 ### [ Ma Ying-jeou is sworn in as the President of the Republic of China (Taiwan) with Liu Chao-shiuan as his Premier. ](/news/2008/05/20/ma-ying-jeou-is-sworn-in-as-the-president-of-the-republic-of-china-taiwan-with-liu-chao-shiuan-as-his-premier.md)
-_Context: Premier, Ma Ying-jeou, President, Republic of China (Taiwan), Liu Chao-shiuan_
+_Context: Ma Ying-jeou, Republic of China (Taiwan), Liu Chao-shiuan, President, Premier_
 
 ##### Manoel de Oliveira
 ### [ Manoel de Oliveira is awarded a palme d'or for his lifetime career achievement at the 2008 Cannes Film Festival. ](/news/2008/05/20/manoel-de-oliveira-is-awarded-a-palme-d-or-for-his-lifetime-career-achievement-at-the-2008-cannes-film-festival.md)

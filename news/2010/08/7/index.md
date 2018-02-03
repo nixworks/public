@@ -17,7 +17,7 @@ Mavi Marmara will be inspected by Turkish authorities and a UN delegation.
 
 ##### International Assistance Mission
 ### [10 people, including 2 Afghan civilians and 8 International Assistance Mission aid workers, are killed in Nuristan Province. ](/news/2010/08/7/10-people-including-2-afghan-civilians-and-8-international-assistance-mission-aid-workers-are-killed-in-nuristan-province.md)
-_Context: foreign aid, International Assistance Mission, Nuristan Province_
+_Context: International Assistance Mission, foreign aid, Nuristan Province_
 
 ##### Basra
 ### [14 people die and 35 others are injured in Basra due to an explosion, possibly caused by a power generator. ](/news/2010/08/7/14-people-die-and-35-others-are-injured-in-basra-due-to-an-explosion-possibly-caused-by-a-power-generator.md)
@@ -25,7 +25,7 @@ An explosion, said to have been caused by a power generator, kills 14 people and
 
 ##### Iraq
 ### [5 Iraqi policemen are killed in an overnight shootout in western Baghdad, while 1 policeman is killed at a checkpoint outside Fallujah. ](/news/2010/08/7/5-iraqi-policemen-are-killed-in-an-overnight-shootout-in-western-baghdad-while-1-policeman-is-killed-at-a-checkpoint-outside-fallujah.md)
-_Context: Fallujah, Baghdad, Iraq_
+_Context: Iraq, Fallujah, Baghdad_
 
 ##### Hungary
 ### [Hungarian actress Zsa Zsa Gabor, hospitalised after falling in the United States last month, is not released from hospital as had been initially expected due to a negative reaction to her morphine. ](/news/2010/08/7/hungarian-actress-zsa-zsa-gabor-hospitalised-after-falling-in-the-united-states-last-month-is-not-released-from-hospital-as-had-been-initi.md)
@@ -45,7 +45,7 @@ Residents advised to leave city as smog from raging wildfires envelopes Moscow.
 
 ##### Zhaoyuan
 ### [At least 16 miners are killed during a fire at a gold mine in Zhaoyuan, Shandong, in China. 23 others are still trapped inside. ](/news/2010/08/7/at-least-16-miners-are-killed-during-a-fire-at-a-gold-mine-in-zhaoyuan-shandong-in-china-23-others-are-still-trapped-inside.md)
-_Context: Shandong, China, Zhaoyuan_
+_Context: China, Shandong, Zhaoyuan_
 
 ##### Copiap
 ### [Efforts intensify to rescue at least 34 people trapped in a mine near Copiap, Chile, in the Atacama Desert. ](/news/2010/08/7/efforts-intensify-to-rescue-at-least-34-people-trapped-in-a-mine-near-copiapo-chile-in-the-atacama-desert.md)
@@ -57,7 +57,7 @@ _Context: Saxony_
 
 ##### landslide
 ### [At least 127 people have died and 1,300 missing following landslides caused by heavy rains in China's northwestern Gansu province. ](/news/2010/08/7/at-least-127-people-have-died-and-1-300-missing-following-landslides-caused-by-heavy-rains-in-china-s-northwestern-gansu-province.md)
-_Context: Gansu province, landslide, 2010 China floods, Chinese_
+_Context: Chinese, Gansu province, 2010 China floods, landslide_
 
 ##### An oil spill
 ### [An oil spill stretching at least two miles long occurs in the Arabian Sea offshore Mumbai, India, after a vessel from Panama collides with another vessel from St. Kitts. The Panamanian ship was carrying 2,662 tons of oil, 283 tons of diesel and 88,040 liters of lube oil when it became grounded and started to leak. ](/news/2010/08/7/an-oil-spill-stretching-at-least-two-miles-long-occurs-in-the-arabian-sea-offshore-mumbai-india-after-a-vessel-from-panama-collides-with-a.md)
@@ -69,11 +69,11 @@ US PRESIDENT Barack Obama&rsquo;s popularity in the Arab world has plunged drama
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad and President of Guinea-Bissau Malam Bacai Sanh meet in Tehran. ](/news/2010/08/7/president-of-iran-mahmoud-ahmadinejad-and-president-of-guinea-bissau-malam-bacai-sanha-meet-in-tehran.md)
-_Context: Malam Bacai Sanh, Tehran, President, Mahmoud Ahmadinejad, acting president_
+_Context: President, Tehran, acting president, Malam Bacai Sanh, Mahmoud Ahmadinejad_
 
 ##### Colombian President
 ### [President of Colombia Juan Manuel Santos, in his inauguration speech, vows to improve relations with Ecuador and Venezuela. ](/news/2010/08/7/president-of-colombia-juan-manuel-santos-in-his-inauguration-speech-vows-to-improve-relations-with-ecuador-and-venezuela.md)
-_Context: Juan Manuel Santos, Colombian President, Venezuela, Ecuador_
+_Context: Juan Manuel Santos, Venezuela, Colombian President, Ecuador_
 
 ##### Turkish
 ### [A Turkish court annuls an arrest warrant issued against 102 military officers over an alleged coup plot in 2003. ](/news/2010/08/7/a-turkish-court-annuls-an-arrest-warrant-issued-against-102-military-officers-over-an-alleged-coup-plot-in-2003.md)
@@ -81,7 +81,7 @@ _Context: Turkish, coup d'tat_
 
 ##### Iran
 ### [An appeals court in Iran upholds a five year jail sentence against the owner of Mehdi Karroubi's opposition website. ](/news/2010/08/7/an-appeals-court-in-iran-upholds-a-five-year-jail-sentence-against-the-owner-of-mehdi-karroubi-s-opposition-website.md)
-_Context: Mehdi Karroubi, Iran_
+_Context: Iran, Mehdi Karroubi_
 
 ##### domestic violence
 ### [A man accused by witnesses of domestic violence informs a New Zealand court that he and his wife were performing the Turkish kolbasti traditional dance at the time of the alleged incident in Hawera. ](/news/2010/08/7/a-man-accused-by-witnesses-of-domestic-violence-informs-a-new-zealand-court-that-he-and-his-wife-were-performing-the-turkish-kolbasti-tradit.md)
@@ -103,7 +103,7 @@ Jaun Manuel Santos takes office amid soaring unemployment and a spat with Venezu
 ### [Fidel Castro delivers a short speech to the Cuban Parliament to warn about the risk of a nuclear war between the United States and Iran, accusing Barack Obama of provoking conflict with Iran and North Korea and urging him to prevent such a conflict. ](/news/2010/08/7/fidel-castro-delivers-a-short-speech-to-the-cuban-parliament-to-warn-about-the-risk-of-a-nuclear-war-between-the-united-states-and-iran-acc.md)
 Ex-president makes first appearance in national assembly in four years after falling ill.
 
-##### U.S.
+##### United States
 ### [United States astronauts Douglas H. Wheelock and Tracy Caldwell Dyson fail on the International Space Station (ISS)'s longest spacewalk and sixth longest spacewalk to repair a cooling system, which means two more spacewalks are now required. ](/news/2010/08/7/united-states-astronauts-douglas-h-wheelock-and-tracy-caldwell-dyson-fail-on-the-international-space-station-iss-s-longest-spacewalk-and.md)
 Two International Space Station astronauts achieve only &quot;partial success&quot; in efforts to repair a cooling system, and two more spacewalks will be needed.
 

@@ -33,7 +33,7 @@ Previous reports of Comet ISON&#x27;s death may have been somewhat exaggerated, 
 
 ##### China
 ### [China launches the Chang'e 3 lunar probe incorporating a robotic lander and Jade Rabbit rover. ](/news/2013/12/1/china-launches-the-chang-e-3-lunar-probe-incorporating-a-robotic-lander-and-jade-rabbit-rover.md)
-_Context: China, Jade Rabbit, rover, Chang'e 3, lander_
+_Context: China, lander, Jade Rabbit, rover, Chang'e 3_
 
 ## [Previous Day...](/news/2013/11/30/index.md)
 

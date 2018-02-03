@@ -17,11 +17,11 @@ _Context: CBS Evening News, Katie Couric_
 
 ##### BBC
 ### [BBC television personality Andrew Marr admits to having taken out a high court superinjunction after "Private Eye" launches a challenge, though Marr states he "did not come into journalism to go around gagging journalists". ](/news/2011/04/26/bbc-television-personality-andrew-marr-admits-to-having-taken-out-a-high-court-superinjunction-after-private-eye-launches-a-challenge-tho.md)
-_Context: Private Eye, Andrew Marr, BBC, superinjunction_
+_Context: BBC, Andrew Marr, Private Eye, superinjunction_
 
 ##### Russia
 ### [The Russian capital Moscow is to allow its first gay pride rally in May. ](/news/2011/04/26/the-russian-capital-moscow-is-to-allow-its-first-gay-pride-rally-in-may.md)
-_Context: gay pride, Moscow, Russia_
+_Context: gay pride, Russia, Moscow_
 
 ##### another France Telecom
 ### [Management and unions confirm another France Telecom worker has committed suicide. ](/news/2011/04/26/management-and-unions-confirm-another-france-ta-c-la-c-com-worker-has-committed-suicide.md)
@@ -29,15 +29,15 @@ A France Telecom worker and father of four commits suicide by setting himself on
 
 ##### France
 ### [French dairy group Groupe Lactalis launches a 3.4 billion euro bid for Italian dairy group Parmalat. ](/news/2011/04/26/french-dairy-group-groupe-lactalis-launches-a-3-4-billion-euro-bid-for-italian-dairy-group-parmalat.md)
-_Context: France, Parmalat, euro, Italy, Groupe Lactalis_
+_Context: France, Groupe Lactalis, Parmalat, Italy, euro_
 
 ##### Greece
 ### [Greece's budget deficit for 2010 is 10.5% of gross domestic product, significantly higher than expected. ](/news/2011/04/26/greece-s-budget-deficit-for-2010-is-10-5-of-gross-domestic-product-significantly-higher-than-expected.md)
-_Context: budget deficit, gross domestic product, Greece_
+_Context: gross domestic product, budget deficit, Greece_
 
 ##### Ukraine
 ### [Ukraine commemorates the 25th anniversary of the Chernobyl disaster. ](/news/2011/04/26/ukraine-commemorates-the-25th-anniversary-of-the-chernobyl-disaster.md)
-_Context: Chernobyl disaster, Ukraine_
+_Context: Ukraine, Chernobyl disaster_
 
 ##### Colombian President
 ### [President of Colombia Juan Manuel Santos calls for national unity after floods kill 91 people. ](/news/2011/04/26/president-of-colombia-juan-manuel-santos-calls-for-national-unity-after-floods-kill-91-people.md)
@@ -45,11 +45,11 @@ _Context: Juan Manuel Santos, Colombian President_
 
 ##### Poplar Bluff
 ### [Thousands of residents in the US town of Poplar Bluff, Missouri, are evacuated as the Black River overflows its banks. ](/news/2011/04/26/thousands-of-residents-in-the-us-town-of-poplar-bluff-missouri-are-evacuated-as-the-black-river-overflows-its-banks.md)
-_Context: Black River, Poplar Bluff, Missouri_
+_Context: Missouri, Poplar Bluff, Black River_
 
 ##### Ecuador
 ### [Authorities in Ecuador evacuate nearby residents as the Tungurahua erupts. ](/news/2011/04/26/authorities-in-ecuador-evacuate-nearby-residents-as-the-tungurahua-erupts.md)
-_Context: Ecuador, Tungurahua_
+_Context: Tungurahua, Ecuador_
 
 ##### Kars, Turkey
 ### [In Kars, Turkey, near the Armenian border, a statue devoted to reconciliation with Armenia is demolished. ](/news/2011/04/26/in-kars-turkey-near-the-armenian-border-a-statue-devoted-to-reconciliation-with-armenia-is-demolished.md)
@@ -61,7 +61,7 @@ Sarkozy and Berlusconi call on EU to change the Schengen treaty following row ov
 
 ##### Mohammad-Reza Rahimi
 ### [Iranian first vice president Mohammad-Reza Rahimi meets with Japanese ambassador to Iran Kinichi Kumano, with Rahimi expressing sympathy in relation to the recent earthquake and tsunami and asking for stronger ties between the countries. ](/news/2011/04/26/iranian-first-vice-president-mohammad-reza-rahimi-meets-with-japanese-ambassador-to-iran-kinichi-kumano-with-rahimi-expressing-sympathy-in.md)
-_Context: Mohammad-Reza Rahimi, 2011 Tohoku earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Mohammad-Reza Rahimi_
 
 ##### China
 ### [Officials from China and the United States agree to engage in dialogue over their respective economies. ](/news/2011/04/26/officials-from-china-and-the-united-states-agree-to-engage-in-dialogue-over-their-respective-economies.md)
@@ -81,11 +81,11 @@ President Barack Obama has unwittingly waded into a military legal tangle by dec
 
 ##### India
 ### [An Indian court orders Suresh Kalmadi, the chief organiser of the 2010 Commonwealth Games, to remain in custody while corruption charges against him are investigated. ](/news/2011/04/26/an-indian-court-orders-suresh-kalmadi-the-chief-organiser-of-the-2010-commonwealth-games-to-remain-in-custody-while-corruption-charges-aga.md)
-_Context: 2010 Commonwealth Games, Suresh Kalmadi, India_
+_Context: 2010 Commonwealth Games, India, Suresh Kalmadi_
 
 ##### Japan
 ### [Japanese anti-nuclear protests following the Fukushima I nuclear accidents: Hundreds of farmers protest against Japan's atomic crisis, outside the TEPCO head office in Tokyo. ](/news/2011/04/26/japanese-anti-nuclear-protests-following-the-fukushima-i-nuclear-accidents-hundreds-of-farmers-protest-against-japan-s-atomic-crisis-outsi.md)
-_Context: TEPCO, Tokyo, Fukushima I nuclear accidents, Japan_
+_Context: Tokyo, Japan, Fukushima I nuclear accidents, TEPCO_
 
 ##### Belgium
 ### [Belgium reaches one year without a government. ](/news/2011/04/26/belgium-reaches-one-year-without-a-government.md)

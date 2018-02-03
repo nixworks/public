@@ -9,7 +9,7 @@ Libyan interim government forces say they have captured a key bastion of Gaddafi
 
 ##### clash
 ### [At least 25 people are killed and many more injured after protesters and security forces clash in the Egyptian capital of Cairo, during a protest in response to an attack on a Coptic church. ](/news/2011/10/9/at-least-25-people-are-killed-and-many-more-injured-after-protesters-and-security-forces-clash-in-the-egyptian-capital-of-cairo-during-a-pr.md)
-_Context: Cairo, clash, Coptic Orthodox Church, Egypt_
+_Context: clash, Egypt, Coptic Orthodox Church, Cairo_
 
 ##### Paul McCartney
 ### [Former Beatle Sir Paul McCartney marries American heiress Nancy Shevell at a ceremony in London. ](/news/2011/10/9/former-beatle-sir-paul-mccartney-marries-american-heiress-nancy-shevell-at-a-ceremony-in-london.md)
@@ -25,15 +25,15 @@ _Context: Paul Biya, Cameroon, President, Cameroonian presidential election_
 
 ##### Poland
 ### [Voters in Poland go to the polls for a parliamentary election, with Prime Minister Donald Tusk's Civic Platform - Polish People's Party coalition becoming the first government to be reelected since Poland transitioned to democracy in 1989. ](/news/2011/10/9/voters-in-poland-go-to-the-polls-for-a-parliamentary-election-with-prime-minister-donald-tusk-s-civic-platform-a-polish-people-s-party-co.md)
-_Context: Prime Minister, Donald Tusk, Polish People's Party, transitioned to democracy, Poland, parliamentary election, Civic Platform_
+_Context: Poland, Civic Platform, transitioned to democracy, parliamentary election, Prime Minister, Polish People's Party, Donald Tusk_
 
 ##### French Socialist Party
 ### [The French Socialist Party holds a nationwide primary election to choose its candidate for the 2012 presidential election, with over 1 million voters participating and Francois Hollande and Martine Aubry entering a run-off election. ](/news/2011/10/9/the-french-socialist-party-holds-a-nationwide-primary-election-to-choose-its-candidate-for-the-2012-presidential-election-with-over-1-milli.md)
 France&#x2019;s&#x20;Socialists&#x20;held&#x20;their&#x20;first-ever&#x20;US-style&#x20;primary&#x20;Sunday&#x20;to&#x20;choose&#x20;their&#x20;candidate&#x20;to&#x20;take&#x20;on&#x20;Nicolas&#x20;Sarkozy&#x20;in&#x20;2012&#x20;presidential&#x20;elections.&#x20;The&#x20;party&#x20;reached&#x20;thei...
 
-##### U.S.
+##### United States
 ### [Having spread across the United States, anti-corruption Occupy Wall Street protests reach Canada, London, and The Hague. ](/news/2011/10/9/having-spread-across-the-united-states-anti-corruption-occupy-wall-street-protests-reach-canada-london-and-the-hague.md)
-_Context: Canadian, The Hague, Occupy Wall Street, corruption, London, U.S._
+_Context: United States, The Hague, Occupy Wall Street, corruption, London, Canadian_
 
 ## [Previous Day...](/news/2011/10/8/index.md)
 

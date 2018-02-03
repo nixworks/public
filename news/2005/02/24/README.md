@@ -5,19 +5,19 @@ Formats: [HTML](2005/02/24/index.html)  [JSON](2005/02/24/index.json)  [XML](200
 
 ##### Somalia
 ### [ In Somalia, thousands greet Abdullahi Yusuf Ahmed and Mohammed Ali Ghedi, leaders of the exiled Somalian government, when they begin a week-long tour in the country. They led a delegation that studies a possibility to finally relocate the government from Kenya to Somalia ](/news/2005/02/24/in-somalia-thousands-greet-abdullahi-yusuf-ahmed-and-mohammed-ali-ghedi-leaders-of-the-exiled-somalian-government-when-they-begin-a-week.md)
-_Context: Mohammed Ali Ghedi, Kenya, government in exile, Abdullahi Yusuf Ahmed, Somalia_
+_Context: Kenya, Somalia, government in exile, Abdullahi Yusuf Ahmed, Mohammed Ali Ghedi_
 
 ##### Anglican Church
 ### [ The Anglican Churches of North America &ndash; the Episcopal Church in the United States and the Anglican Church of Canada &ndash; are asked to voluntarily withdraw their members from the Anglican Consultative Council until after the next Lambeth Conference in 2008. This is viewed as an ultimatum to the churches to bring their policies into line with the worldwide Anglican Communion, following the ordination of the first gay bishop in New Hampshire and the blessing of same-sex unions by the Canadian church, and presages a schism if they do not comply. ](/news/2005/02/24/the-anglican-churches-of-north-america-ndash-the-episcopal-church-in-the-united-states-and-the-anglican-church-of-canada-ndash-are-aske.md)
-_Context: Anglican Church, Anglican Consultative Council, United States Episcopal Church, Anglican Church of Canada, Gene Robinson, Lambeth Conference, New Hampshire, schism_
+_Context: schism, Anglican Church of Canada, Anglican Consultative Council, Lambeth Conference, United States Episcopal Church, New Hampshire, Anglican Church, Gene Robinson_
 
 ##### Taiwan
 ### [ In Taiwan, Chen Shui-bian and People First Party Chairman James Soong meet for the first time in four years. They issue a joint 10-point declaration emphasizing their agreement on preserving the "status quo" in cross strait relations. ](/news/2005/02/24/in-taiwan-chen-shui-bian-and-people-first-party-chairman-james-soong-meet-for-the-first-time-in-four-years-they-issue-a-joint-10-point-de.md)
-_Context: relations, Chen Shui-bian, James Soong, People First Party, Taiwan Strait, Taiwan_
+_Context: James Soong, Taiwan Strait, People First Party, Taiwan, Chen Shui-bian, relations_
 
 ##### China
 ### [ The PRC objects to former US President Bill Clinton's plan to visit Taiwan and meet with the ROC President Chen Shui-bian. ](/news/2005/02/24/the-prc-objects-to-former-us-president-bill-clinton-s-plan-to-visit-taiwan-and-meet-with-the-roc-president-chen-shui-bian.md)
-_Context: Chen Shui-bian, China, Taiwan, President, Bill Clinton, Taiwan_
+_Context: Chen Shui-bian, Taiwan, President, Bill Clinton, China, Taiwan_
 
 ##### Pope John Paul II
 ### [ Pope John Paul II returns to hospital in Rome for more specialist treatments and tests. ](/news/2005/02/24/pope-john-paul-ii-returns-to-hospital-in-rome-for-more-specialist-treatments-and-tests.md)
@@ -33,7 +33,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 ##### supreme court
 ### [ Colombian supreme court authorizes the extradition of drug dealer Miguel Rodrguez Orejuela to the US ](/news/2005/02/24/colombian-supreme-court-authorizes-the-extradition-of-drug-dealer-miguel-rodriguez-orejuela-to-the-us.md)
-_Context: supreme court, Miguel Rodrguez Orejuela, extradition_
+_Context: extradition, supreme court, Miguel Rodrguez Orejuela_
 
 ##### Sudan
 ### [ In Sudan, an ammunition depot explodes near the town of Juba; at least 18 are dead and the toll continues to rise ](/news/2005/02/24/in-sudan-an-ammunition-depot-explodes-near-the-town-of-juba-at-least-18-are-dead-and-the-toll-continues-to-rise.md)
@@ -45,7 +45,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Burma
 ### [ Foreign Minister of Burma-Myanmar Nyan Win visits Bangladesh to discuss with Shamsher M Chowdhury about a direct road link between the countries and repatriation of Burmese refugees ](/news/2005/02/24/foreign-minister-of-burma-myanmar-nyan-win-visits-bangladesh-to-discuss-with-shamsher-m-chowdhury-about-a-direct-road-link-between-the-coun.md)
-_Context: Bangladesh, Shamsher M Chowdhury, refugee, Burma, Myanmar, Nyan Win_
+_Context: Burma, Shamsher M Chowdhury, Myanmar, refugee, Bangladesh, Nyan Win_
 
 ##### Ebert Anibal Rivera
 ### [ Ebert Anibal Rivera, alleged head of a Mara Salvatrucha gang that killed 28 bus passengers in Honduras last December 23, is arrested in Texas. Honduras intends to request extradition if Texas authorities do not file charges. ](/news/2005/02/24/ebert-anibal-rivera-alleged-head-of-a-mara-salvatrucha-gang-that-killed-28-bus-passengers-in-honduras-last-december-23-is-arrested-in-tex.md)
@@ -53,11 +53,11 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ##### Diego Maradona
 ### [ Italian court orders Diego Maradona to pay 30 million euros of back taxes (equal to US$39.6 million) ](/news/2005/02/24/italian-court-orders-diego-maradona-to-pay-30-million-euros-of-back-taxes-equal-to-us-39-6-million.md)
-_Context: back taxes, euro, Diego Maradona_
+_Context: back taxes, Diego Maradona, euro_
 
 ##### European Union
 ### [ New EU laws declare lottery scams illegal ](/news/2005/02/24/new-eu-laws-declare-lottery-scams-illegal.md)
-_Context: lottery scam, European Union_
+_Context: European Union, lottery scam_
 
 ##### Turkish
 ### [ The parliament of Turkey grants amnesty to 677,000 people who have been expelled from university in recent years ](/news/2005/02/24/the-parliament-of-turkey-grants-amnesty-to-677-000-people-who-have-been-expelled-from-university-in-recent-years.md)
@@ -65,7 +65,7 @@ _Context: Turkish, university_
 
 ##### Kyrgyzstan
 ### [ In Kyrgyzstan, thousands of people protest in support of opposition politicians who were barred from elections ](/news/2005/02/24/in-kyrgyzstan-thousands-of-people-protest-in-support-of-opposition-politicians-who-were-barred-from-elections.md)
-_Context: Kyrgyzstan, Opposition_
+_Context: Opposition, Kyrgyzstan_
 
 ##### Herv Gaymard
 ### [ French Finance Minister Herv Gaymard faces increasing pressure to resign. He has been criticized due to the luxury apartment where he lives at the state's expense, although he has promised to move elsewhere. ](/news/2005/02/24/french-finance-minister-herve-gaymard-faces-increasing-pressure-to-resign-he-has-been-criticized-due-to-the-luxury-apartment-where-he-live.md)

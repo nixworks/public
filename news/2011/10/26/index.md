@@ -13,23 +13,23 @@ _Context: Parwan province, Afghanistan_
 
 ##### India
 ### [Indian superhero film "Ra.One", the most expensive Bollywood film to date, is released to coincide with the Hindu festival of Diwali. ](/news/2011/10/26/indian-superhero-film-ra-one-the-most-expensive-bollywood-film-to-date-is-released-to-coincide-with-the-hindu-festival-of-diwali.md)
-_Context: Ra.One, Bollywood, Hindu, India, Diwali_
+_Context: India, Diwali, Bollywood, Hindu, Ra.One_
 
 ##### coroner
 ### [A coroner finds that the death of British soul singer Amy Winehouse in July was caused by alcohol poisoning. ](/news/2011/10/26/a-coroner-finds-that-the-death-of-british-soul-singer-amy-winehouse-in-july-was-caused-by-alcohol-poisoning.md)
-_Context: Amy Winehouse, coroner, alcohol poisoning, soul music, British_
+_Context: Amy Winehouse, coroner, soul music, alcohol poisoning, British_
 
 ##### composite
 ### [The composite-bodied Boeing 787 Dreamliner makes its first commercial flight with All Nippon Airways, flying between Tokyo and Hong Kong. ](/news/2011/10/26/the-composite-bodied-boeing-787-dreamliner-makes-its-first-commercial-flight-with-all-nippon-airways-flying-between-tokyo-and-hong-kong.md)
-_Context: 787 Dreamliner, Hong Kong, Tokyo, composite, All Nippon Airways_
+_Context: All Nippon Airways, 787 Dreamliner, Hong Kong, Tokyo, composite_
 
 ##### Tsuyoshi Kikukawa
 ### [Tsuyoshi Kikukawa resigns as the President and Chairman of Olympus Corporation, as financial and law enforcement bodies in Japan, the United States and the United Kingdom investigate the optical equipment company's acquisitions in recent years. ](/news/2011/10/26/tsuyoshi-kikukawa-resigns-as-the-president-and-chairman-of-olympus-corporation-as-financial-and-law-enforcement-bodies-in-japan-the-united.md)
-_Context: Japan, Olympus Corp, U.S., British, Tsuyoshi Kikukawa_
+_Context: United States, Japan, British, Olympus Corp, Tsuyoshi Kikukawa_
 
 ##### Mexico
 ### [Residents in the Mexican city of Cancun brace for Hurricane Rina, which is expected to make landfall on Thursday. ](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.md)
-_Context: Hurricane Rina, Mexico, Cancun_
+_Context: Cancun, Mexico, Hurricane Rina_
 
 ##### Turkish
 ### [The search for survivors of the Van earthquake in eastern Turkey enters its third day, with 459 confirmed deaths and over 1,300 injured. ](/news/2011/10/26/the-search-for-survivors-of-the-van-earthquake-in-eastern-turkey-enters-its-third-day-with-459-confirmed-deaths-and-over-1-300-injured.md)
@@ -41,7 +41,7 @@ Eurozone leaders holding a summit on the debt crisis find agreement on recapital
 
 ##### Goldman Sachs
 ### [Former Goldman Sachs and Procter and Gamble director Rajat Gupta pleads not guilty to the charge of leaking confidential information to convicted fraudster Raj Rajaratnam. ](/news/2011/10/26/former-goldman-sachs-and-procter-and-gamble-director-rajat-gupta-pleads-not-guilty-to-the-charge-of-leaking-confidential-information-to-conv.md)
-_Context: Raj Rajaratnam, Procter and Gamble, Rajat Gupta, Goldman Sachs_
+_Context: Goldman Sachs, Rajat Gupta, Procter and Gamble, Raj Rajaratnam_
 
 ##### Saif al-Islam Gaddafi
 ### [Saif al-Islam Gaddafi, son of the late Libyan dictator Muammar Gaddafi, is reported to be attempting to negotiate a surrender to the International Criminal Court. ](/news/2011/10/26/saif-al-islam-gaddafi-son-of-the-late-libyan-dictator-muammar-gaddafi-is-reported-to-be-attempting-to-negotiate-a-surrender-to-the-interna.md)
@@ -65,7 +65,7 @@ Scientists confirm that white-nose syndrome, a disease killing off bats in North
 
 ##### United Nations
 ### [The United Nations states that the world population will reach seven billion people by October 31, 2011. ](/news/2011/10/26/the-united-nations-states-that-the-world-population-will-reach-seven-billion-people-by-october-31-2011.md)
-_Context: world population, United Nations_
+_Context: United Nations, world population_
 
 ## [Previous Day...](/news/2011/10/25/index.md)
 

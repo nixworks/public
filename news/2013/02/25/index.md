@@ -13,7 +13,7 @@ The Syrian opposition reverses its decision to boycott international talks in Ro
 
 ##### BT
 ### [Telecommunications giant BT expands its investment in sports broadcasting with the purchase of ESPN's channels in Britain and Ireland. ](/news/2013/02/25/telecommunications-giant-bt-expands-its-investment-in-sports-broadcasting-with-the-purchase-of-espn-s-channels-in-britain-and-ireland.md)
-_Context: sports broadcasting, Irish, British, ESPN, BT_
+_Context: ESPN, sports broadcasting, BT, British, Irish_
 
 ##### BlackBerry
 ### [BlackBerry, the company formally known as Research in Motion, launches its BlackBerry Z10 smartphone in India, where it costs 43,490 rupees, or roughly US$800. ](/news/2013/02/25/blackberry-the-company-formally-known-as-research-in-motion-launches-its-blackberry-z10-smartphone-in-india-where-it-costs-43-490-rupees.md)
@@ -29,7 +29,7 @@ A man is dead after his car was swept into floodwaters northwest of Caboolture o
 
 ##### magnitude
 ### [A 6.2 magnitude earthquake strikes Tokyo, Japan, with no injuries reported. ](/news/2013/02/25/a-6-2-magnitude-earthquake-strikes-tokyo-japan-with-no-injuries-reported.md)
-_Context: hits, Japan, Tokyo, magnitude, earthquake_
+_Context: magnitude, earthquake, Tokyo, Japan, hits_
 
 ##### 2013 meat adulteration scandal
 ### [2013 meat adulteration scandal: Ikea withdraws Swedish meatballs from sale in 14 countries after tests in the Czech Republic revealed traces of horse meat. ](/news/2013/02/25/2013-meat-adulteration-scandal-ikea-withdraws-swedish-meatballs-from-sale-in-14-countries-after-tests-in-the-czech-republic-revealed-traces.md)
@@ -39,21 +39,21 @@ Swedish-style meatballs for sale at Ikea in the Czech Republic are found to cont
 ### [A study from Spain published in the "New England Journal of Medicine" finds that following a Mediterranean diet high in olive oil, nuts, fish and fresh fruits and vegetables reduces the risk of heart disease. ](/news/2013/02/25/a-study-from-spain-published-in-the-new-england-journal-of-medicine-finds-that-following-a-mediterranean-diet-high-in-olive-oil-nuts-fis.md)
 By Genevra PittmanNEW YORK (Reuters Health) - A Mediterranean diet high in olive oil, nuts, fish and fresh fruits and vegetables may help prevent hea
 
-##### U.S.
+##### United States
 ### [Former United States Surgeon General C. Everett Koop dies at the age of 96. ](/news/2013/02/25/former-united-states-surgeon-general-c-everett-koop-dies-at-the-age-of-96.md)
 C. Everett Koop, the U.S. surgeon general who set aside his religious beliefs to promote childhood sex education for AIDS prevention and issued the first government warning about second-hand tobacco smoke, has died. He was 96.
 
 ##### NATO
 ### [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md)
-_Context: NATO, Afghanistan, U.S._
+_Context: United States, NATO, Afghanistan_
 
 ##### Russia
 ### [Russia enacts a law banning smoking on subways and in schools. ](/news/2013/02/25/russia-enacts-a-law-banning-smoking-on-subways-and-in-schools.md)
-_Context: enacts, smoking, Russia, banning, school, subways_
+_Context: smoking, banning, subways, enacts, school, Russia_
 
 ##### jailed
 ### [The retrial of Vicky Pryce, the ex-wife of former UK Cabinet Minister Chris Huhne, begins hearing evidence. ](/news/2013/02/25/the-retrial-of-vicky-pryce-the-ex-wife-of-former-uk-cabinet-minister-chris-huhne-begins-hearing-evidence.md)
-_Context: UK, U.K. Cabinet, jailed, Chris Huhne, Vicky Pryce_
+_Context: U.K. Cabinet, Chris Huhne, jailed, Vicky Pryce, UK_
 
 ##### Italy Common Good
 ### [The centre-left alliance Italy Common Good led by the Democratic Party wins the Italian general election. However the number of seats will not guarantee the majority in the Senate, paving the way to instability. ](/news/2013/02/25/the-centre-left-alliance-italy-common-good-led-by-the-democratic-party-wins-the-italian-general-election-however-the-number-of-seats-will-n.md)
@@ -61,7 +61,7 @@ A huge protest vote by Italians enraged by economic hardship and political corru
 
 ##### Park Geun-hye
 ### [Park Geun-hye is sworn in as the first female President of South Korea in the capital Seoul. ](/news/2013/02/25/park-geun-hye-is-sworn-in-as-the-first-female-president-of-south-korea-in-the-capital-seoul.md)
-_Context: Park Geun-hye, South Korea, South Korean President, Seoul_
+_Context: Park Geun-hye, South Korean President, South Korea, Seoul_
 
 ##### President
 ### [President of Cuba Ral Castro announces he will not seek another term as president when his current one expires in 2018. He also states he will seek to put term limits and age caps for political offices in Cuba, including the presidency. ](/news/2013/02/25/president-of-cuba-raul-castro-announces-he-will-not-seek-another-term-as-president-when-his-current-one-expires-in-2018-he-also-states-he-w.md)
@@ -69,7 +69,7 @@ Mr. Castro, whose term will end in 2018, said he hoped to establish term limits 
 
 ##### Cardinal
 ### [Cardinal Keith O'Brien resigns as the Archbishop of St. Andrews and Edinburgh due to allegations of inappropriate sexual behaviour towards priests in the 1980s. ](/news/2013/02/25/cardinal-keith-o-brien-resigns-as-the-archbishop-of-st-andrews-and-edinburgh-due-to-allegations-of-inappropriate-sexual-behaviour-towards-p.md)
-_Context: Keith O'Brien, priests, free sex, Cardinal, Archbishop of St. Andrews and Edinburgh, inappropriate_
+_Context: priests, Keith O'Brien, Archbishop of St. Andrews and Edinburgh, free sex, inappropriate, Cardinal_
 
 ##### Rodinia
 ### [Scientists announce they have found fragments of Rodinia, an ancient "lost" continent, in what is now the Indian Ocean. ](/news/2013/02/25/scientists-announce-they-have-found-fragments-of-rodinia-an-ancient-lost-continent-in-what-is-now-the-indian-ocean.md)
@@ -77,7 +77,7 @@ Fragments of an ancient continent are buried beneath the floor of the Indian Oce
 
 ##### Indian Space Research Organisation
 ### [Indian Space Research Organisation successfully launches Indo-French satellite SARAL using PSLV rocket from the spaceport in Sriharikota, Andhra Pradesh, India. ](/news/2013/02/25/indian-space-research-organisation-successfully-launches-indo-french-satellite-saral-using-pslv-rocket-from-the-spaceport-in-sriharikota-an.md)
-_Context: Indian Space Research Organisation, Sriharikota, SARAL, Satish Dhawan Space Centre, launches, PSLV-C38, Andhra Pradesh, France, India_
+_Context: Sriharikota, Andhra Pradesh, France, launches, Indian Space Research Organisation, India, Satish Dhawan Space Centre, SARAL, PSLV-C38_
 
 ##### British
 ### [British explorer Ranulph Fiennes abandons The Coldest Journey expedition, his attempt to cross Antarctica in the heart of the region's winter due to a case of frostbite. ](/news/2013/02/25/british-explorer-ranulph-fiennes-abandons-the-coldest-journey-expedition-his-attempt-to-cross-antarctica-in-the-heart-of-the-region-s-winte.md)

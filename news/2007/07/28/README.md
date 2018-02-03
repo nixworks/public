@@ -5,15 +5,15 @@ Formats: [HTML](2007/07/28/index.html)  [JSON](2007/07/28/index.json)  [XML](200
 
 ##### Pakistan
 ### [ Pakistan raises concerns about a draft bill adopted by the United States Congress that ties United States foreign aid to progress in the fight against Al Qaeda and the Taliban. ](/news/2007/07/28/pakistan-raises-concerns-about-a-draft-bill-adopted-by-the-united-states-congress-that-ties-united-states-foreign-aid-to-progress-in-the-fi.md)
-_Context: Al Qaeda, Taliban, U.S., Pakistan, foreign aid, lawmakers_
+_Context: lawmakers, foreign aid, Al Qaeda, United States, Taliban, Pakistan_
 
 ##### Colombia
 ### [ Colombia's intelligence chief Andres Penate claims FARC rebels accidentally killed 11 politicians it was holding, after running into another rebel unit. ](/news/2007/07/28/colombia-s-intelligence-chief-andra-c-s-pea-ate-claims-farc-rebels-accidentally-killed-11-politicians-it-was-holding-after-running-into-anot.md)
-_Context: Andres Penate, Colombia, FARC_
+_Context: Colombia, Andres Penate, FARC_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush urges Congress to pass legislation to expand potential surveillance targets. ](/news/2007/07/28/the-president-of-the-united-states-george-w-bush-urges-congress-to-pass-legislation-to-expand-potential-surveillance-targets.md)
-_Context: lawmakers, George W. Bush, U.S. President_
+_Context: lawmakers, U.S. President, George W. Bush_
 
 ##### Summer 2007 United Kingdom floods
 ### [ The death toll from the Summer 2007 United Kingdom floods rises to nine as police find a body near Tewkesbury in Gloucestershire. ](/news/2007/07/28/the-death-toll-from-the-summer-2007-united-kingdom-floods-rises-to-nine-as-police-find-a-body-near-tewkesbury-in-gloucestershire.md)
@@ -21,11 +21,11 @@ Police say emergency workers have found a man&#039;s body in a submerged field, 
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: A British soldier is killed by a rocket attack in the Helmand Province. ](/news/2007/07/28/war-in-afghanistan-a-british-soldier-is-killed-by-a-rocket-attack-in-the-helmand-province.md)
-_Context: rocket, War in Afghanistan (2001-present), UK, Helmand Province_
+_Context: rocket, War in Afghanistan (2001-present), Helmand Province, UK_
 
 ##### Lal Masjid
 ### [ The Lal Masjid in Islamabad is closed indefinitely following a suicide bombing with Pakistani authorities warning of more bomb attacks to come. ](/news/2007/07/28/the-lal-masjid-in-islamabad-is-closed-indefinitely-following-a-suicide-bombing-with-pakistani-authorities-warning-of-more-bomb-attacks-to-c.md)
-_Context: Lal Masjid, suicide bombing, Islamabad, Pakistan_
+_Context: suicide bombing, Lal Masjid, Pakistan, Islamabad_
 
 ##### Mohamed Haneef
 ### [ Dr Mohamed Haneef, the Indian doctor freed in Australia of supporting terrorism, indicates that he would like to return to India as soon as possible. He later received clearance from the Australian Government to leave tonight. ](/news/2007/07/28/dr-mohamed-haneef-the-indian-doctor-freed-in-australia-of-supporting-terrorism-indicates-that-he-would-like-to-return-to-india-as-soon-as.md)

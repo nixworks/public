@@ -9,11 +9,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Yemeni Civil War
 ### [Houthi rebels release six foreign hostages; three Americans, two Saudis, and a Briton. ](/news/2015/09/20/houthi-rebels-release-six-foreign-hostages-three-americans-two-saudis-and-a-briton.md)
-_Context: U.S., Saudi Arabia, Houthi, British, Yemeni Civil War_
+_Context: Saudi Arabia, Houthi, Yemeni Civil War, British, United States_
 
 ##### Boko Haram insurgency
 ### [ Triple explosions kill at least 80 people and injure 150 in the Nigerian city of Maiduguri. ](/news/2015/09/20/triple-explosions-kill-at-least-80-people-and-injure-150-in-the-nigerian-city-of-maiduguri.md)
-_Context: Nigeria, Boko Haram insurgency, Maiduguri_
+_Context: Maiduguri, Boko Haram insurgency, Nigeria_
 
 ##### 67th Primetime Emmy Awards
 ### [The Emmy Awards are held in Los Angeles, California with "Game of Thrones" winning the Emmy for best drama series. ](/news/2015/09/20/the-emmy-awards-are-held-in-los-angeles-california-with-game-of-thrones-winning-the-emmy-for-best-drama-series.md)

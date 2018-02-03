@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/9/index.html)  [JSON](2015/06/9/index.json)  [XML](2015/
 
 ##### Naxalite-Maoist insurgency
 ### [Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md)
-_Context: Naxalite-Maoist insurgency, Indian police, Jharkhand, Naxalite, Maoist_
+_Context: Jharkhand, Indian police, Maoist, Naxalite-Maoist insurgency, Naxalite_
 
 ##### Syrian Civil War
 ### [The Southern Front of the Free Syrian Army claims to have captured a major Syrian Army base known as Brigade 52 in Daraa Governorate. ](/news/2015/06/9/the-southern-front-of-the-free-syrian-army-claims-to-have-captured-a-major-syrian-army-base-known-as-brigade-52-in-daraa-governorate.md)
@@ -13,7 +13,7 @@ Rebels in Syria say they have captured a major army base in the south of the cou
 
 ##### HSBC
 ### [HSBC announces plans to cut 8,000 jobs in the United Kingdom, one-sixth of its U.K. workforce, via "natural attrition" as it restructures its banking business. A total of 25,000 jobs could be axed globally. ](/news/2015/06/9/hsbc-announces-plans-to-cut-8-000-jobs-in-the-united-kingdom-one-sixth-of-its-u-k-workforce-via-natural-attrition-as-it-restructures-it.md)
-_Context: HSBC, British_
+_Context: British, HSBC_
 
 ##### Kiev
 ### [Several firefighters are killed after an explosion at a military oil depot near Kiev, Ukraine, with several people missing and hundreds evacuated. ](/news/2015/06/9/several-firefighters-are-killed-after-an-explosion-at-a-military-oil-depot-near-kiev-ukraine-with-several-people-missing-and-hundreds-evac.md)
@@ -21,7 +21,7 @@ A massive fire at a Ukrainian fuel depot killed five people on Tuesday, official
 
 ##### China
 ### [At least four people are killed (including the gunman) and five people injured in a shooting incident in China's northern Hebei province. ](/news/2015/06/9/at-least-four-people-are-killed-including-the-gunman-and-five-people-injured-in-a-shooting-incident-in-china-s-northern-hebei-province.md)
-_Context: China, Hebei_
+_Context: Hebei, China_
 
 ##### 5th Circuit Court of Appeals
 ### [The United States Court of Appeals for the Fifth Circuit upholds a Texan law providing that abortion clinics meet the same standards as hospital style surgical clinics meaning that many abortion clinics must upgrade or close. ](/news/2015/06/9/the-united-states-court-of-appeals-for-the-fifth-circuit-upholds-a-texan-law-providing-that-abortion-clinics-meet-the-same-standards-as-hosp.md)

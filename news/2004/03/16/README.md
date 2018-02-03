@@ -13,11 +13,11 @@ _Context: Morocco, March 11, 2004 Madrid attacks_
 
 ##### George W. Bush
 ### [ George W. Bush calls on his Iraq War allies to stick with the United States. ](/news/2004/03/16/george-w-bush-calls-on-his-iraq-war-allies-to-stick-with-the-united-states.md)
-_Context: George W. Bush, 2003 invasion of Iraq_
+_Context: 2003 invasion of Iraq, George W. Bush_
 
 ##### explosion at an apartment building
 ### [ An explosion at an apartment building in Arkhangelsk, Russia, kills 32. ](/news/2004/03/16/an-explosion-at-an-apartment-building-in-arkhangelsk-russia-kills-32.md)
-_Context: explosion at an apartment building, Arkhangelsk_
+_Context: Arkhangelsk, explosion at an apartment building_
 
 ##### Federal Reserve
 ### [ The Federal Reserve votes to keep interest rates unchanged, primarily since new hiring has continued to lag in the United States. ](/news/2004/03/16/the-federal-reserve-votes-to-keep-interest-rates-unchanged-primarily-since-new-hiring-has-continued-to-lag-in-the-united-states.md)

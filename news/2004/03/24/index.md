@@ -5,23 +5,23 @@ Formats: [HTML](2004/03/24/index.html)  [JSON](2004/03/24/index.json)  [XML](200
 
 ##### World Trade Organization
 ### [ The World Trade Organization makes a preliminary ruling that United States laws prohibiting Internet gambling violate international trade agreements, in response to a complaint by Antigua and Barbuda. The Bush administration vows to appeal, while some members of the United States Congress say they would rather allow a trade war or withdraw from future WTO talks than repeal laws against online gambling. ](/news/2004/03/24/the-world-trade-organization-makes-a-preliminary-ruling-that-united-states-laws-prohibiting-internet-gambling-violate-international-trade-a.md)
-_Context: law, treaty, gambling, Internet, lawmakers, international trade, World Trade Organization, Antigua and Barbuda, trade war, George W. Bush_
+_Context: law, gambling, international trade, George W. Bush, Antigua and Barbuda, Internet, trade war, World Trade Organization, treaty, lawmakers_
 
 ##### Denmark
 ### [ Danish artist Marco Evaristti paints an iceberg in Greenland red, using 780 gallons of paint. ](/news/2004/03/24/danish-artist-marco-evaristti-paints-an-iceberg-in-greenland-red-using-780-gallons-of-paint.md)
-_Context: Marco Evaristti, Greenland, Denmark, iceberg_
+_Context: iceberg, Denmark, Marco Evaristti, Greenland_
 
 ##### bomb
 ### [ A bomb is discovered on a TGV railway between Paris and Geneva near Troyes, France. ](/news/2004/03/24/a-bomb-is-discovered-on-a-tgv-railway-between-paris-and-geneva-near-troyes-france.md)
-_Context: Geneva, railway, bomb, TGV train, Paris, Troyes_
+_Context: railway, Paris, TGV train, bomb, Geneva, Troyes_
 
 ##### Elk Grove Unified School District v. Newdow
 ### [ Elk Grove Unified School District v. Newdow: The United States Supreme Court hears oral arguments over the constitutionality of the "under God" clause of the Pledge of Allegiance. ](/news/2004/03/24/elk-grove-unified-school-district-v-newdow-the-united-states-supreme-court-hears-oral-arguments-over-the-constitutionality-of-the-under.md)
-_Context: Pledge of Allegiance, Elk Grove Unified School District v. Newdow, Supreme Court of the United States, constitution_
+_Context: Supreme Court of the United States, Elk Grove Unified School District v. Newdow, Pledge of Allegiance, constitution_
 
 ##### explorer
 ### [ The British explorer David Hempleman-Adams sets an altitude record for a flight in a wicker basket balloon. ](/news/2004/03/24/the-british-explorer-david-hempleman-adams-sets-an-altitude-record-for-a-flight-in-a-wicker-basket-balloon.md)
-_Context: wicker, explorer, record, altitude, flight, David Hempleman-Adams, balloon_
+_Context: flight, altitude, explorer, balloon, record, David Hempleman-Adams, wicker_
 
 ## [Previous Day...](/news/2004/03/23/index.md)
 

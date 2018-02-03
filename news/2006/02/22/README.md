@@ -13,11 +13,11 @@ Follow all the latest news on Long Island with Newsday. Read top local stories, 
 
 ##### Securitas depot robbery
 ### [ Securitas depot robbery: The United Kingdom's largest robbery when a Securitas depot in Tonbridge, Kent, was robbed and the thieves made off with Bank of England banknotes worth GBP53 million. ](/news/2006/02/22/securitas-depot-robbery-the-united-kingdom-s-largest-robbery-when-a-securitas-depot-in-tonbridge-kent-was-robbed-and-the-thieves-made-of.md)
-_Context: Bank of England, Securitas depot robbery, robbery_
+_Context: robbery, Bank of England, Securitas depot robbery_
 
 ##### European Commission
 ### [ The European Commission proposes the establishment of a European Institute of Technology. ](/news/2006/02/22/the-european-commission-proposes-the-establishment-of-a-european-institute-of-technology.md)
-_Context: European Commission, European Institute of Technology_
+_Context: European Institute of Technology, European Commission_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI announces that a consistory will be held next month to create 15 new cardinals, the first of his Papacy. ](/news/2006/02/22/pope-benedict-xvi-announces-that-a-consistory-will-be-held-next-month-to-create-15-new-cardinals-the-first-of-his-papacy.md)
@@ -25,7 +25,7 @@ Pope Benedict XVI has announced that he will hold a consistory next month to cre
 
 ##### Al Askari Mosque bombing
 ### [ Al Askari Mosque bombing: The Al Askari Mosque, a shrine to Imam Ali al-Hadi and Imam Hasan al-Askari in Samarra, Iraq, is bombed and partly destroyed. The Golden Dome has collapsed. In the aftermath dozens of people die in riots, along with three journalists which includes Atwar Bahjat.](/news/2006/02/22/al-askari-mosque-bombing-the-al-askari-mosque-a-shrine-to-imam-ali-al-hadi-and-imam-hasan-al-askari-in-samarra-iraq-is-bombed-and-partl.md)
-_Context: Hasan al-Askari, Samarra, Ali al-Hadi, Al Askari Mosque, Atwar Bahjat, Iraq, Al Askari Mosque bombing, Imam_
+_Context: Samarra, Hasan al-Askari, Atwar Bahjat, Iraq, Al Askari Mosque bombing, Al Askari Mosque, Ali al-Hadi, Imam_
 
 ##### Navapur
 ### [ Indian authorities completely seal off the village of Navapur after bird flu is discovered there. ](/news/2006/02/22/indian-authorities-completely-seal-off-the-village-of-navapur-after-bird-flu-is-discovered-there.md)

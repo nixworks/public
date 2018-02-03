@@ -25,15 +25,15 @@ Female assailant targets Said Afandi and five of his followers after gaining acc
 
 ##### Wong Kar-wai
 ### [Wong Kar-wai is to be jury president of the 2013 Berlinale film festival. ](/news/2012/08/28/wong-kar-wai-is-to-be-jury-president-of-the-2013-berlinale-film-festival.md)
-_Context: Wong Kar-wai, Berlinale_
+_Context: Berlinale, Wong Kar-wai_
 
 ##### Chinese
 ### [At least four Chinese fishermen die and another twelve are missing in the Korea Strait as Typhoon Bolaven hits South Korea. The Chinese meteo service issues a blue alert. ](/news/2012/08/28/at-least-four-chinese-fishermen-die-and-another-twelve-are-missing-in-the-korea-strait-as-typhoon-bolaven-hits-south-korea-the-chinese-mete.md)
-_Context: Typhoon, Chinese, Korea Strait, South Korea_
+_Context: South Korea, Chinese, Typhoon, Korea Strait_
 
 ##### Hurricane Isaac
 ### [Tropical Storm Isaac is upgraded to a category 1 hurricane as the storm makes landfall along the Gulf Coast in Louisiana. ](/news/2012/08/28/tropical-storm-isaac-is-upgraded-to-a-category-1-hurricane-as-the-storm-makes-landfall-along-the-gulf-coast-in-louisiana.md)
-_Context: Louisiana, category 1 hurricane, Hurricane Isaac, Gulf Coast of the United States_
+_Context: Hurricane Isaac, category 1 hurricane, Gulf Coast of the United States, Louisiana_
 
 ##### Israel
 ### [An Israeli court rules that Israel is not responsible for the death of American activist Rachel Corrie at the hands of an Israeli Army bulldozer in the Gaza Strip in 2003. ](/news/2012/08/28/an-israeli-court-rules-that-israel-is-not-responsible-for-the-death-of-american-activist-rachel-corrie-at-the-hands-of-an-israeli-army-bulld.md)
@@ -41,15 +41,15 @@ Israel was not at fault for the death of US activist Rachel Corrie, killed in Ga
 
 ##### France
 ### [French officials open up a murder case in the death of Palestinian leader Yasser Arafat following a "complaint against X" by his widow. ](/news/2012/08/28/french-officials-open-up-a-murder-case-in-the-death-of-palestinian-leader-yasser-arafat-following-a-complaint-against-x-by-his-widow.md)
-_Context: France, Palestine, death, Yasser Arafat_
+_Context: Palestine, Yasser Arafat, death, France_
 
-##### U.S.
+##### United States
 ### [The United States Republican Party officially nominates Mitt Romney as its candidate in the 2012 presidential election at the National Convention in Tampa, Florida. ](/news/2012/08/28/the-united-states-republican-party-officially-nominates-mitt-romney-as-its-candidate-in-the-2012-presidential-election-at-the-national-conve.md)
-_Context: National Convention, Tampa, Florida, Republican, U.S., Mitt Romney, United States presidential election, 2012_
+_Context: National Convention, United States presidential election, 2012, Mitt Romney, Republican, Tampa, Florida, United States_
 
 ##### IBM
 ### [IBM sells a "most powerful and advanced" server. ](/news/2012/08/28/ibm-sells-a-most-powerful-and-advanced-server.md)
-_Context: most, server, IBM_
+_Context: most, IBM, server_
 
 ## [Previous Day...](/news/2012/08/27/index.md)
 

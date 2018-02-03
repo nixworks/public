@@ -5,15 +5,15 @@ Formats: [HTML](2016/04/12/index.html)  [JSON](2016/04/12/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [ The Taliban announces its annual spring offensive to be named "Operation Omari". ](/news/2016/04/12/the-taliban-announces-its-annual-spring-offensive-to-be-named-operation-omari.md)
-_Context: Taliban, Operation Omari, War in Afghanistan (2015-present)_
+_Context: Operation Omari, War in Afghanistan (2015-present), Taliban_
 
 ##### PKK rebellion (2015-present)
 ### [ A car bomb attack on a Turkish gendarmerie in the town of Hani kills at least two people and injures 50. ](/news/2016/04/12/a-car-bomb-attack-on-a-turkish-gendarmerie-in-the-town-of-hani-kills-at-least-two-people-and-injures-50.md)
-_Context: car bomb, gendarmerie, Hani, Turkish police, PKK rebellion (2015-present)_
+_Context: Hani, car bomb, gendarmerie, PKK rebellion (2015-present), Turkish police_
 
 ##### Russian military intervention in the Syrian Civil War
 ### [ A Russian Air Force Mi-28 attack helicopter crashes near the Syrian city of Homs, killing two pilots. ](/news/2016/04/12/a-russian-air-force-mi-28-attack-helicopter-crashes-near-the-syrian-city-of-homs-killing-two-pilots.md)
-_Context: attack helicopter, Homs, Syria, Russian Air Force, Mi-28, Russian military intervention in the Syrian Civil War_
+_Context: Russian military intervention in the Syrian Civil War, attack helicopter, Syria, Mi-28, Russian Air Force, Homs_
 
 ##### Operation Barkhane
 ### [ A French Army soldier is killed and three others are injured after their convoy hit a landmine in northern Mali. ](/news/2016/04/12/a-french-army-soldier-is-killed-and-three-others-are-injured-after-their-convoy-hit-a-landmine-in-northern-mali.md)
@@ -49,7 +49,7 @@ SEOUL (AFP) - North Korea accused South Korea on Tuesday (April 12) of kidnappin
 
 ##### Iran - Italy relations
 ### [ During a visit to Iran, Prime Minister of Italy Matteo Renzi signs various bilateral agreements to enhance relations between the two countries, including plans for cooperation between the Italian electricity and gas company Enel and the National Iranian Oil Company. ](/news/2016/04/12/during-a-visit-to-iran-prime-minister-of-italy-matteo-renzi-signs-various-bilateral-agreements-to-enhance-relations-between-the-two-countr.md)
-_Context: Iran - Italy relations, Iran, Italian Prime Minister, NIOC, Italy, Enel, Matteo Renzi_
+_Context: NIOC, Iran - Italy relations, Enel, Matteo Renzi, Iran, Italy, Italian Prime Minister_
 
 ##### Bolivia - Russia relations
 ### [ Russia and Bolivia meet to discuss how Russian defense firms can help the South American nation's long-term rearmament plan. ](/news/2016/04/12/russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-rearmament-plan.md)
@@ -57,11 +57,11 @@ Bolivia is looking to Russian defense firms to revamp its aging military arsenal
 
 ##### Australian ''60 Minutes''
 ### [ Australian "60 Minutes" reporter Tara Brown and her crew are reportedly facing kidnapping charges in Lebanon following a bungled child recovery attempt. ](/news/2016/04/12/australian-60-minutes-reporter-tara-brown-and-her-crew-are-reportedly-facing-kidnapping-charges-in-lebanon-following-a-bungled-child-reco.md)
-_Context: kidnapping, Tara Brown, Australian ''60 Minutes'', Lebanon_
+_Context: Tara Brown, Australian ''60 Minutes'', kidnapping, Lebanon_
 
 ##### 2016 Brussels bombings
 ### [ Belgium federal prosecutors say two more men have been charged with terrorist offenses linked to last month's Brussels bombing. Also, three people connected to the last year's Paris attacks are in custody. ](/news/2016/04/12/belgium-federal-prosecutors-say-two-more-men-have-been-charged-with-terrorist-offenses-linked-to-last-month-s-brussels-bombing-also-three.md)
-_Context: November 2015 Paris attacks, Belgium, Brussels, 2016 Brussels bombings_
+_Context: Belgium, November 2015 Paris attacks, 2016 Brussels bombings, Brussels_
 
 ##### North Carolina House Bill 2
 ### [ North Carolina Governor Pat McCrory signs Executive Order 73 that addresses some, but not all, troublesome provisions in House Bill 2 that caused businesses, traveling recording stars, etc., to stay clear of the state. The order does expand the state's anti-discrimination employment policy to include LBGT protection, but reiterates that people use the marked facility consistent with "... their biological sex." The American Civil Liberties Union says the order, "... fall(s) far short of correcting the damage done ... (and that)... transgender people are still explicitly targeted by being forced to use the wrong restroom." Equality North Carolina says, "... the order doubles down on the Governor's support for some of the most problematic provisions of HB2." ](/news/2016/04/12/north-carolina-governor-pat-mccrory-signs-executive-order-73-that-addresses-some-but-not-all-troublesome-provisions-in-house-bill-2-that.md)
@@ -69,7 +69,7 @@ North Carolina Gov. Pat McCrory has issued an executive order that &quot;seeks l
 
 ##### Panama Papers
 ### [ Authorities in Panama raid law firm Mossack Fonseca, the source of the data leaked about offshore companies. ](/news/2016/04/12/authorities-in-panama-raid-law-firm-mossack-fonseca-the-source-of-the-data-leaked-about-offshore-companies.md)
-_Context: offshore companies, Panama, Mossack Fonseca, Panama Papers_
+_Context: Panama, Mossack Fonseca, Panama Papers, offshore companies_
 
 ##### Bad Aibling rail accident
 ### [ A German train controller, who was operating the tracks where two trains collided on February 9 near the town of Bad Aibling, Bavaria, is arrested on possible manslaughter charges. Prosecutors say the controller had been playing a game on his mobile phone, which led to his making signalling errors. The crash resulted in 11 deaths and 85 injuries, 24 serious. ](/news/2016/04/12/a-german-train-controller-who-was-operating-the-tracks-where-two-trains-collided-on-february-9-near-the-town-of-bad-aibling-bavaria-is-a.md)

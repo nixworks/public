@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/28/index.html)  [JSON](2013/05/28/index.json)  [XML](201
 
 ##### Senator
 ### [United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/united-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-involvement-in-the-n.md)
-_Context: United States of America, Senator, Syria, John McCain, Syrian civil war_
+_Context: United States of America, Syrian civil war, Syria, Senator, John McCain_
 
 ##### 
 ### [Gunmen kill one anti-polio worker and wound three others ](/news/2013/05/28/gunmen-kill-one-anti-polio-worker-and-wound-three-others.md)
@@ -13,11 +13,11 @@ Pakistani authorities suspended a four-day polio vaccination program Tuesday aft
 
 ##### Sweden
 ### [Sweden's largest music festival, the Peace & Love in Borlnge, files for bankruptcy. ](/news/2013/05/28/sweden-s-largest-music-festival-the-peace-love-in-borlange-files-for-bankruptcy.md)
-_Context: Peace & Love, Sweden, Borlnge_
+_Context: Sweden, Borlnge, Peace & Love_
 
 ##### chief federal prosecutors
 ### [The U.S. Attorney's office in Los Angeles, California announces that Scott London, former senior partner with KPMG, has agreed to plead guilty on charges involving insider trading. ](/news/2013/05/28/the-u-s-attorney-s-office-in-los-angeles-california-announces-that-scott-london-former-senior-partner-with-kpmg-has-agreed-to-plead-guil.md)
-_Context: Los Angeles, office, chief federal prosecutors, insider trading, KPMG, California_
+_Context: insider trading, California, KPMG, Los Angeles, office, chief federal prosecutors_
 
 ##### Rajang River
 ### [A boat carrying 100 passengers capsizes in the Rajang River in Malaysia's Sarawak state with over 20 passengers missing. ](/news/2013/05/28/a-boat-carrying-100-passengers-capsizes-in-the-rajang-river-in-malaysia-s-sarawak-state-with-over-20-passengers-missing.md)
@@ -31,7 +31,7 @@ France reported its first death from the new SARS-like coronavirus on Tuesday an
 ### [Australia's ABC News claims that the People's Republic of China hacked plans for the headquarters of the country's spy agency ASIO. ](/news/2013/05/28/australia-s-abc-news-claims-that-the-people-s-republic-of-china-hacked-plans-for-the-headquarters-of-the-country-s-spy-agency-asio.md)
 The Opposition appears to have confirmed an ABC report revealing that ASIO&#039;s new HQ was successfully targeted by Chinese hackers.
 
-##### U.S.
+##### United States
 ### [The United States launches a prosecution against Liberty Reserve, based in Costa Rica, for money laundering worth $6 billion. ](/news/2013/05/28/the-united-states-launches-a-prosecution-against-liberty-reserve-based-in-costa-rica-for-money-laundering-worth-6-billion.md)
 US prosecutors have announced what they say is the biggest international money laundering prosecution in history - a $US6 billion trail that allegedly includes $US36.9 million deposited in Westpac Bank accounts in Australia.
 

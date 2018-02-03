@@ -5,7 +5,7 @@ Formats: [HTML](2014/12/19/index.html)  [JSON](2014/12/19/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. ](/news/2014/12/19/the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-militants.md)
-_Context: Federally Administered Tribal Areas, War in North-West Pakistan, Pakistani military_
+_Context: Federally Administered Tribal Areas, Pakistani military, War in North-West Pakistan_
 
 ##### Sony Pictures Entertainment hack
 ### [Paramount Pictures orders theater chains, including those in Cleveland, Atlanta, and New Orleans, not to re-release the 2004 film "Team America: World Police", which depicts a fictional mission to kill Kim Jong-il. ](/news/2014/12/19/paramount-pictures-orders-theater-chains-including-those-in-cleveland-atlanta-and-new-orleans-not-to-re-release-the-2004-film-team-amer.md)
@@ -25,15 +25,15 @@ A volcano in eastern Indonesia erupted today, spewing towering clouds of hot ash
 
 ##### Centers for Disease Control and Prevention
 ### [The Centers for Disease Control and Prevention (CDC) links prepackaged caramel apples to the listeria outbreak in ten US states that caused twenty-eight illnesses and four (or five) deaths. ](/news/2014/12/19/the-centers-for-disease-control-and-prevention-cdc-links-prepackaged-caramel-apples-to-the-listeria-outbreak-in-ten-us-states-that-caused.md)
-_Context: caramel apple, listeria, Centers for Disease Control and Prevention_
+_Context: listeria, caramel apple, Centers for Disease Control and Prevention_
 
 ##### Centers for Disease Control and Prevention
 ### [The CDC reports that for the US flu season cases are early and pervasive being widespread in 29 states, especially the South and Midwest. ](/news/2014/12/19/the-cdc-reports-that-for-the-us-flu-season-cases-are-early-and-pervasive-being-widespread-in-29-states-especially-the-south-and-midwest.md)
-_Context: Centers for Disease Control and Prevention, flu_
+_Context: flu, Centers for Disease Control and Prevention_
 
 ##### International sanctions during the 2014 pro-Russian unrest in Ukraine
 ### [US President Barack Obama imposes additional sanctions on Russian-controlled Crimea by an executive order forbidding exports of US goods and services to the region. ](/news/2014/12/19/us-president-barack-obama-imposes-additional-sanctions-on-russian-controlled-crimea-by-an-executive-order-forbidding-exports-of-us-goods-and.md)
-_Context: Russian-controlled Crimea, International sanctions during the 2014 pro-Russian unrest in Ukraine_
+_Context: International sanctions during the 2014 pro-Russian unrest in Ukraine, Russian-controlled Crimea_
 
 ##### Cairns child killings
 ### [Queensland police announce the finding that eight children were stabbed to death in a home in Cairns, Australia. ](/news/2014/12/19/queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.md)
@@ -41,7 +41,7 @@ Victims aged from 18 months to 15 years were all from same family, with mother b
 
 ##### Hong Kong
 ### [A Hong Kong jury convicts former Hong Kong Chief Secretary Rafael Hui of bribery charges in relation to misconduct in office. ](/news/2014/12/19/a-hong-kong-jury-convicts-former-hong-kong-chief-secretary-rafael-hui-of-bribery-charges-in-relation-to-misconduct-in-office.md)
-_Context: Chief Secretary, misconduct in office, Hong Kong, Rafael Hui_
+_Context: misconduct in office, Rafael Hui, Hong Kong, Chief Secretary_
 
 ##### LGBT rights in China
 ### [In China, a court rules in favor of a gay man who sued a Chongqing electroconvulsive therapy clinic that practises conversion therapy. ](/news/2014/12/19/in-china-a-court-rules-in-favor-of-a-gay-man-who-sued-a-chongqing-electroconvulsive-therapy-clinic-that-practises-conversion-therapy.md)

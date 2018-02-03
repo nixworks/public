@@ -21,7 +21,7 @@ TWO senior hospital staff and two mortuary workers have been fired in eastern Ch
 
 ##### Sheikh Ahmed bin Zayed Al Nahyan
 ### [The body of Sheikh Ahmed bin Zayed Al Nahyan is found by a team of Moroccan and French divers four days after his aircraft crashed into a lake in Morocco. ](/news/2010/03/30/the-body-of-sheikh-ahmed-bin-zayed-al-nahyan-is-found-by-a-team-of-moroccan-and-french-divers-four-days-after-his-aircraft-crashed-into-a-la.md)
-_Context: Sheikh Ahmed bin Zayed Al Nahyan, Morocco_
+_Context: Morocco, Sheikh Ahmed bin Zayed Al Nahyan_
 
 ##### Somali pirates
 ### [Somali pirates hijack 8 Indian vessels abducting 120 sailors, biggest abduction count till date, off the coast of Kismayo. ](/news/2010/03/30/somali-pirates-hijack-8-indian-vessels-abducting-120-sailors-biggest-abduction-count-till-date-off-the-coast-of-kismayo.md)
@@ -29,7 +29,7 @@ In their biggest hijacking ever, Somali pirates captured 8 boats taking nearly 1
 
 ##### Mexico
 ### [10 children, youths and young adults between the ages of 8 and 21 are gunned down, presumably by drug traffickers, in the northern Mexican state of Durango. ](/news/2010/03/30/10-children-youths-and-young-adults-between-the-ages-of-8-and-21-are-gunned-down-presumably-by-drug-traffickers-in-the-northern-mexican-s.md)
-_Context: Mexican states, Durango, Mexico_
+_Context: Mexican states, Mexico, Durango_
 
 ##### China
 ### [Chinese police are hunting a man suspected of killing five members of a migrant family, including an 8-year-old girl, in the Inner Mongolia Autonomous Region. ](/news/2010/03/30/chinese-police-are-hunting-a-man-suspected-of-killing-five-members-of-a-migrant-family-including-an-8-year-old-girl-in-the-inner-mongolia.md)

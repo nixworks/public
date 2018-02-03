@@ -5,7 +5,7 @@ Formats: [HTML](2007/08/8/index.html)  [JSON](2007/08/8/index.json)  [XML](2007/
 
 ##### British Army
 ### [ A British Army helicopter crashes near the Catterick Garrison army base in Yorkshire causing at least two deaths. ](/news/2007/08/8/a-british-army-helicopter-crashes-near-the-catterick-garrison-army-base-in-yorkshire-causing-at-least-two-deaths.md)
-_Context: British Army, Catterick Garrison, helicopter, Yorkshire_
+_Context: British Army, Yorkshire, Catterick Garrison, helicopter_
 
 ##### typhoon
 ### [ Tropical Storm Pabuk causes deadly landslides in the Philippines before hitting Taiwan causing power cuts. This comes after floods from another tropical storm kill 34 in central Vietnam. ](/news/2007/08/8/tropical-storm-pabuk-causes-deadly-landslides-in-the-philippines-before-hitting-taiwan-causing-power-cuts-this-comes-after-floods-from-ano.md)
@@ -13,11 +13,11 @@ A tropical storm caused deadly landslides in the Philippines on Wednesday, befor
 
 ##### Port Harcourt
 ### [ Street gunbattles continue for a third successive day in Port Harcourt, Nigeria as part of a criminal turf war. ](/news/2007/08/8/street-gunbattles-continue-for-a-third-successive-day-in-port-harcourt-nigeria-as-part-of-a-criminal-turf-war.md)
-_Context: Port Harcourt, Nigeria, turf war_
+_Context: turf war, Port Harcourt, Nigeria_
 
 ##### Space Shuttle ''Endeavour''
 ### [ "Endeavour" lifts off from Kennedy Space Center for the STS-118 assembly mission of the International Space Station. ](/news/2007/08/8/endeavour-lifts-off-from-kennedy-space-center-for-the-sts-118-assembly-mission-of-the-international-space-station.md)
-_Context: International Space Station, Space Shuttle ''Endeavour'', lands safely, Kennedy Space Center_
+_Context: Space Shuttle ''Endeavour'', lands safely, Kennedy Space Center, International Space Station_
 
 ##### Nouri al-Maliki
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, visits Iran to seek co-operation in reducing the level of violence. ](/news/2007/08/8/nouri-al-maliki-the-prime-minister-of-iraq-visits-iran-to-seek-co-operation-in-reducing-the-level-of-violence.md)
@@ -29,15 +29,15 @@ _Context: I-35W Mississippi River bridge, trespass_
 
 ##### epoxy
 ### [ Powers Fasteners, the company that supplied the epoxy blamed for the Big Dig ceiling collapse in Boston, Massachusetts is indicted on a manslaughter charge. ](/news/2007/08/8/powers-fasteners-the-company-that-supplied-the-epoxy-blamed-for-the-big-dig-ceiling-collapse-in-boston-massachusetts-is-indicted-on-a-man.md)
-_Context: Big Dig ceiling collapse, Boston, Massachusetts, manslaughter by gross negligence, epoxy_
+_Context: manslaughter by gross negligence, epoxy, Big Dig ceiling collapse, Boston, Massachusetts_
 
-##### U.S.
+##### United States
 ### [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md)
 U.S. officials described it as the latest assault on a network linking Iraqi militants with money and bombs from Iran.
 
 ##### foot and mouth disease
 ### [ A third outbreak of foot and mouth disease has been discovered in southern England but a ban of sending animals to slaughter is lifted in most of the country. ](/news/2007/08/8/a-third-outbreak-of-foot-and-mouth-disease-has-been-discovered-in-southern-england-but-a-ban-of-sending-animals-to-slaughter-is-lifted-in-m.md)
-_Context: foot and mouth disease, England_
+_Context: England, foot and mouth disease_
 
 ##### tornado
 ### [ A tornado touches down in Brooklyn, New York just after dawn during a violent thunderstorm that dropped near three inches of rain in the New York City area, crippling the city's subway and commuter rail system during the morning rush hour. ](/news/2007/08/8/a-tornado-touches-down-in-brooklyn-new-york-just-after-dawn-during-a-violent-thunderstorm-that-dropped-near-three-inches-of-rain-in-the-ne.md)
@@ -49,23 +49,23 @@ Two fossils have shaken the human family tree, possibly rearranging major branch
 
 ##### An earthquake
 ### [ An earthquake with a magnitude of 7.4 hits Jakarta, Indonesia. ](/news/2007/08/8/an-earthquake-with-a-magnitude-of-7-4-hits-jakarta-indonesia.md)
-_Context: Indonesia, Jakarta, magnitude, An earthquake_
+_Context: An earthquake, Indonesia, magnitude, Jakarta_
 
 ##### German
 ### [ In Germany the labour court of Nuremberg prohibited the strike prepared by the "Gewerkschaft Deutscher Lokomotivfuhrer" (GDL), which was to be the largest in 15 years. According to the "Deutsche Bahn" train company, the strike was prohibited because of the heavy tribute which would have been paid by the national economy ](/news/2007/08/8/in-germany-the-labour-court-of-nuremberg-prohibited-the-strike-prepared-by-the-gewerkschaft-deutscher-lokomotivfa1-4hrer-gdl-which-was-t.md)
-_Context: labour court, German, Deutsche Bahn, economy, Nuremberg, Gewerkschaft Deutscher Lokomotivfuhrer, strike_
+_Context: Nuremberg, economy, labour court, Gewerkschaft Deutscher Lokomotivfuhrer, German, strike, Deutsche Bahn_
 
 ##### Pakistan
 ### [ The Pakistani government claims to have killed at least 10 pro-Taliban militants in North Waziristan. ](/news/2007/08/8/the-pakistani-government-claims-to-have-killed-at-least-10-pro-taliban-militants-in-north-waziristan.md)
-_Context: North Waziristan, Taliban, Pakistan_
+_Context: Pakistan, Taliban, North Waziristan_
 
 ##### Inner Mongolia
 ### [ China's Inner Mongolia Autonomous Region celebrates its 60th Anniversary. Chinese Vice-President Zeng Qinghong visits its capital, Hohhot, and participates in a series of large celebration events. ](/news/2007/08/8/china-s-inner-mongolia-autonomous-region-celebrates-its-60th-anniversary-chinese-vice-president-zeng-qinghong-visits-its-capital-hohhot.md)
-_Context: Zeng Qinghong, Hohhot, Inner Mongolia_
+_Context: Inner Mongolia, Zeng Qinghong, Hohhot_
 
-##### Chinese
+##### China
 ### [ China sends investigators to investigate illegally-built government offices in 30 provinces. ](/news/2007/08/8/china-sends-investigators-to-investigate-illegally-built-government-offices-in-30-provinces.md)
-_Context: Chinese_
+_Context: China_
 
 ##### Reserve Bank of Australia
 ### [ The Reserve Bank of Australia raises interest rates to 6.5%, the highest level in Australia since 1996. ](/news/2007/08/8/the-reserve-bank-of-australia-raises-interest-rates-to-6-5-the-highest-level-in-australia-since-1996.md)
@@ -85,11 +85,11 @@ The Age 404 Page
 
 ##### Xanana GusmGBPo
 ### [ Xanana GusmGBPo is sworn in as the Prime Minister of East Timor with the opposition Fretilin party boycotting the ceremony. ](/news/2007/08/8/xanana-gusmagbpo-is-sworn-in-as-the-prime-minister-of-east-timor-with-the-opposition-fretilin-party-boycotting-the-ceremony.md)
-_Context: Xanana GusmGBPo, Prime Minister, East Timor, Fretilin_
+_Context: East Timor, Fretilin, Xanana GusmGBPo, Prime Minister_
 
 ##### North Korea
 ### [ North Korea and South Korea agree to hold summit in Pyongyang from August 28 through the 30th. ](/news/2007/08/8/north-korea-and-south-korea-agree-to-hold-summit-in-pyongyang-from-august-28-through-the-30th.md)
-_Context: North Korea, Pyongyang, August 28, South Korea_
+_Context: South Korea, North Korea, Pyongyang, August 28_
 
 ## [Previous Day...](/news/2007/08/7/index.md)
 

@@ -21,7 +21,7 @@ The death toll from the central Italy earthquake reaches 250, amid fears many mo
 
 ##### 2015-16 Zika virus epidemic
 ### [Hong Kong's Centre for Health Protection confirms Hong Kong's first case of Zika virus in a 38-year-old woman and says it will report the case to the World Health Organization (WHO). ](/news/2016/08/25/hong-kong-s-centre-for-health-protection-confirms-hong-kong-s-first-case-of-zika-virus-in-a-38-year-old-woman-and-says-it-will-report-the-ca.md)
-_Context: World Health Organization, Centre for Health Protection, Zika virus, Hong Kong, 2015-16 Zika virus epidemic_
+_Context: 2015-16 Zika virus epidemic, Zika virus, World Health Organization, Centre for Health Protection, Hong Kong_
 
 ##### crossbow
 ### [Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.](/news/2016/08/25/three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-package-was-also-found-in-another.md)
@@ -29,7 +29,7 @@ Toronto police confirm there is a link between the three deaths involving a cros
 
 ##### Impeachment process against Dilma Rousseff
 ### [Brazil's Federal Senate begins the impeachment trial of suspended President Dilma Rousseff. ](/news/2016/08/25/brazil-s-federal-senate-begins-the-impeachment-trial-of-suspended-president-dilma-rousseff.md)
-_Context: Dilma Rousseff, Impeachment process against Dilma Rousseff, president, Brazil, Senate_
+_Context: Dilma Rousseff, Brazil, Impeachment process against Dilma Rousseff, Senate, president_
 
 ## [Previous Day...](/news/2016/08/24/index.md)
 

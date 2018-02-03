@@ -13,13 +13,13 @@ _Context: 2009, Bank of England_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md)
-_Context: 2016 Atlantic hurricane season, Belize, Earl's, Belize City_
+_Context: 2016 Atlantic hurricane season, Belize City, Belize, Earl's_
 
 ##### Wildfires
 ### [Wildfires in seven U.S. states are keeping thousands of firefighters at bay. ](/news/2016/08/4/wildfires-in-seven-u-s-states-are-keeping-thousands-of-firefighters-at-bay.md)
 _Context: Wildfires_
 
-##### Chinese
+##### China
 ### [China bans K-pop stars and South Korean actors from attending promotional events in retaliation for Seoul's deployment of the U.S. THAAD anti-ballistic missile system. ](/news/2016/08/4/china-bans-k-pop-stars-and-south-korean-actors-from-attending-promotional-events-in-retaliation-for-seoul-s-deployment-of-the-u-s-thaad-ant.md)
 Share prices of South Korea’s talent agencies have plummeted, and tears have been shed by forlorn fans as Beijing has quietly blocked some of South Korea’s K-pop stars and actors from attending promotional events.
 
@@ -39,9 +39,9 @@ South Africa&#39;s opposition DA party wins a majority in local elections in thr
 ### [In Nepal, Pushpa Kamal Dahal takes the oath of office and secrecy as Prime Minister. ](/news/2016/08/4/in-nepal-pushpa-kamal-dahal-takes-the-oath-of-office-and-secrecy-as-prime-minister.md)
 _Context: Prime Minister, Pushpa Kamal Dahal, Nepal_
 
-##### Chinese
+##### China
 ### [China's unmanned lunar rover Yutu shuts down after exploring the Moon for 31 months. ](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-after-exploring-the-moon-for-31-months.md)
-_Context: Chinese, lunar rover, Moon, Yutu_
+_Context: lunar rover, China, Yutu, Moon_
 
 ## [Previous Day...](/news/2016/08/3/index.md)
 

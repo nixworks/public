@@ -7,7 +7,7 @@ Formats: [HTML](2014/10/1/index.html)  [JSON](2014/10/1/index.json)  [XML](2014/
 ### [At least 12 people are killed when shells hit a school and, in a separate shelling, a bus station in the separatist-controlled city of Donetsk. ](/news/2014/10/1/at-least-12-people-are-killed-when-shells-hit-a-school-and-in-a-separate-shelling-a-bus-station-in-the-separatist-controlled-city-of-donet.md)
 ##### Taliban insurgency
 ### [Taliban suicide bombers attack an Afghan National Army convoy in Kabul, killing at least 7 people and injuring 19. ](/news/2014/10/1/taliban-suicide-bombers-attack-an-afghan-national-army-convoy-in-kabul-killing-at-least-7-people-and-injuring-19.md)
-_Context: Taliban, Taliban insurgency, Kabul, Afghan National Army_
+_Context: Kabul, Afghan National Army, Taliban, Taliban insurgency_
 
 ##### suicide bomber
 ### [At least 45 people (including 41 children) are killed and 56 injured following a suicide bomber attack on the Akrameh al-Makhzumi school in Homs. ](/news/2014/10/1/at-least-45-people-including-41-children-are-killed-and-56-injured-following-a-suicide-bomber-attack-on-the-akrameh-al-makhzumi-school-in.md)

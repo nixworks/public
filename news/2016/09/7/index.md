@@ -13,11 +13,11 @@ A gang brought down a helicopter during a police operation in Mexico&#39;s troub
 
 ##### Americans
 ### [The American pop star Madonna agrees on a settlement with her former husband Guy Ritchie over their son. ](/news/2016/09/7/the-american-pop-star-madonna-agrees-on-a-settlement-with-her-former-husband-guy-ritchie-over-their-son.md)
-_Context: pop, Guy Ritchie, Madonna, Americans_
+_Context: Madonna, pop, Americans, Guy Ritchie_
 
 ##### Burial of Ferdinand Marcos
 ### [The Duterte administration defends its decision to bury the former dictator Ferdinand Marcos in the Philippine heroes' cemetery. ](/news/2016/09/7/the-duterte-administration-defends-its-decision-to-bury-the-former-dictator-ferdinand-marcos-in-the-philippine-heroes-cemetery.md)
-_Context: Ferdinand Marcos, Burial of Ferdinand Marcos, Rodrigo Duterte_
+_Context: Burial of Ferdinand Marcos, Ferdinand Marcos, Rodrigo Duterte_
 
 ##### Iceland
 ### [Hunters discover a 1000-year-old sword in Iceland. ](/news/2016/09/7/hunters-discover-a-1000-year-old-sword-in-iceland.md)
@@ -61,11 +61,11 @@ _Context: Iran, Saudi Arabia, Iran-Saudi Arabia relations, Muslim_
 
 ##### Russia-United States relations
 ### [A Russian Sukhoi Su-27 fighter jet makes an "unsafe close-range intercept" of a United States Navy P-8A Poseidon over the Black Sea in international airspace, coming within 10 feet (3.3 m) of the U.S. aircraft. ](/news/2016/09/7/a-russian-sukhoi-su-27-fighter-jet-makes-an-unsafe-close-range-intercept-of-a-united-states-navy-p-8a-poseidon-over-the-black-sea-in-inter.md)
-_Context: Russia, United States Navy, Black Sea, Russian SU-27 fighter jet, P-8A Poseidon, Russia-United States relations_
+_Context: Russia-United States relations, Black Sea, Russia, United States Navy, P-8A Poseidon, Russian SU-27 fighter jet_
 
 ##### Morton County, North Dakota
 ### [The sheriff's department of Morton County, North Dakota, issues arrest warrants for United States Green Party presidential candidate, Jill Stein, and her running-mate, Ajamu Baraka on charges of criminal trespass and criminal mischief. The county sheriff's department says that Stein and Baraka vandalized equipment at a controversial pipeline construction site. ](/news/2016/09/7/the-sheriff-s-department-of-morton-county-north-dakota-issues-arrest-warrants-for-united-states-green-party-presidential-candidate-jill-s.md)
-_Context: Morton County, North Dakota, Jill Stein, controversial pipeline construction site, Green Party of the United States, presidential candidate, Ajamu Baraka_
+_Context: Morton County, North Dakota, controversial pipeline construction site, presidential candidate, Ajamu Baraka, Green Party of the United States, Jill Stein_
 
 ##### Denmark
 ### [Denmark's government plans to buy the leaked Panama Papers containing Danish citizens. ](/news/2016/09/7/denmark-s-government-plans-to-buy-the-leaked-panama-papers-containing-danish-citizens.md)
@@ -85,7 +85,7 @@ _Context: Ali Bongo Ondimba, Gabonese presidential election, 2016_
 
 ##### beach
 ### [A beachgoer in Australia discovers dinosaur footprints believed to be around 130 million years old while combing the shore for shells. ](/news/2016/09/7/a-beachgoer-in-australia-discovers-dinosaur-footprints-believed-to-be-around-130-million-years-old-while-combing-the-shore-for-shells.md)
-_Context: beach, dinosaur, Australia_
+_Context: Australia, dinosaur, beach_
 
 ## [Previous Day...](/news/2016/09/6/index.md)
 

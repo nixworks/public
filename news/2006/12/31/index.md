@@ -5,7 +5,7 @@ Formats: [HTML](2006/12/31/index.html)  [JSON](2006/12/31/index.json)  [XML](200
 
 ##### Austria
 ### [ Austrian Minister of the Interior Liese Prokop dies of aortic dissection. ](/news/2006/12/31/austrian-minister-of-the-interior-liese-prokop-dies-of-aortic-dissection.md)
-_Context: aortic dissection, Austria, Liese Prokop_
+_Context: Liese Prokop, aortic dissection, Austria_
 
 ##### 2007
 ### [ The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line-islands-kiribati.md)

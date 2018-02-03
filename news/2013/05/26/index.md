@@ -13,7 +13,7 @@ _Context: Kenya, Somalia_
 
 ##### Blue Is the Warmest Colour
 ### [The French film "Blue Is the Warmest Colour" wins the Palme d'Or at the 2013 Cannes Film Festival. ](/news/2013/05/26/the-french-film-blue-is-the-warmest-colour-wins-the-palme-d-or-at-the-2013-cannes-film-festival.md)
-_Context: 2013 Cannes Film Festival, Palme d'Or, Blue Is the Warmest Colour_
+_Context: Blue Is the Warmest Colour, Palme d'Or, 2013 Cannes Film Festival_
 
 ##### Fast & Furious 6
 ### ["Fast & Furious 6" opens at the top of the movie sales charts in 59 countries, including the United States and Canada where it grossed an estimated $122 million. ](/news/2013/05/26/fast-furious-6-opens-at-the-top-of-the-movie-sales-charts-in-59-countries-including-the-united-states-and-canada-where-it-grossed-an-es.md)

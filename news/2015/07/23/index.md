@@ -29,7 +29,7 @@ _Context: Broken Arrow killings, Broken Arrow, Oklahoma_
 
 ##### opens fire
 ### [Seven people are wounded, and three are dead (including the shooter) after a 58-year-old gunman opens fire at the Grand 16 Movie Theater in Lafayette, Louisiana during a showing of "Trainwreck". ](/news/2015/07/23/seven-people-are-wounded-and-three-are-dead-including-the-shooter-after-a-58-year-old-gunman-opens-fire-at-the-grand-16-movie-theater-in.md)
-_Context: Lafayette, Louisiana, Trainwreck, opens fire_
+_Context: opens fire, Trainwreck, Lafayette, Louisiana_
 
 ##### NASA
 ### [NASA scientists announce the discovery of Kepler-452b, the first near-Earth sized exoplanet discovered orbiting the habitable zone of a Sun-like star. ](/news/2015/07/23/nasa-scientists-announce-the-discovery-of-kepler-452b-the-first-near-earth-sized-exoplanet-discovered-orbiting-the-habitable-zone-of-a-sun.md)

@@ -35,9 +35,9 @@ Chairman of Fosun group Guo Guangchang – known as China’s Warren Buffett –
 ### [Two of the U.S.'s oldest and largest companies, DuPont and Dow Chemical Company, will merge in an all-stock deal valued at $130 billion. The deal, which includes future plans for DowDuPont to split into three independent, public companies, is expected to face intense scrutiny from federal antitrust regulators, who will examine the impact on prices and the availability of vital seeds and herbicides.](/news/2015/12/11/two-of-the-u-s-as-oldest-and-largest-companies-dupont-and-dow-chemical-company-will-merge-in-an-all-stock-deal-valued-at-130-billion-t.md)
 Chemical titans DuPont and Dow Chemical Co have agreed to combine in an all-stock merger valued at $130 billion in a first step toward breaking up into three separate businesses, a move that pleased activist investors and could trigger more consolidation.
 
-##### Chinese
+##### China
 ### [China's Alibaba Group Holding Limited acquires Hong Kong's largest English-language newspaper, the "South China Morning Post", in a deal reported to be worth about $100 million. ](/news/2015/12/11/china-s-alibaba-group-holding-limited-acquires-hong-kong-s-largest-english-language-newspaper-the-south-china-morning-post-in-a-deal-rep.md)
-_Context: South China Morning Post, newspaper, Chinese, English, Alibaba Group, Hong Kong_
+_Context: English, newspaper, South China Morning Post, Hong Kong, Alibaba Group, China_
 
 ##### 2015 South Indian floods
 ### [Major UK-based reinsurance broker Aon Benfield estimates India has suffered over US$3 billion (over Rs. 200 billion) worth of losses as a result of the flooding, and rates them as the costliest floods and the eighth-costliest natural disaster of 2015.](/news/2015/12/11/major-uk-based-reinsurance-broker-aon-benfield-estimates-india-has-suffered-over-us-3-billion-over-rs-200-billion-worth-of-losses-as-a-re.md)
@@ -45,7 +45,7 @@ Reinsurance broker Aon Benfield says the country suffered a $3 bn loss to its ec
 
 ##### 2015 United Nations Climate Change Conference
 ### [French Foreign Minister Laurent Fabius announces the world climate talks (COP 21) will be extended to at least Saturday. ](/news/2015/12/11/french-foreign-minister-laurent-fabius-announces-the-world-climate-talks-cop-21-will-be-extended-to-at-least-saturday.md)
-_Context: foreign minister, 2015 United Nations Climate Change Conference, Laurent Fabius_
+_Context: Laurent Fabius, 2015 United Nations Climate Change Conference, foreign minister_
 
 ##### Syrian Civil War
 ### [Syrian President Bashar al-Assad says he will not negotiate with armed groups, a day after the Syrian opposition's multi-group, two-day meeting in Riyadh agreed on a framework for future negotiations to end the conflict. Assad's statement also appears to put a damper on peace talks Russia and the United States are working to set up. ](/news/2015/12/11/syrian-president-bashar-al-assad-says-he-will-not-negotiate-with-armed-groups-a-day-after-the-syrian-opposition-s-multi-group-two-day-meet.md)
