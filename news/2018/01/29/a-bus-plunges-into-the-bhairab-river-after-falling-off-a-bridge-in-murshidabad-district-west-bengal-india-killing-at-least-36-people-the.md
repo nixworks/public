@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-fall
 
 ### [2018-01-29](/news/2018/01/29/index.md)
 
-##### Bhairab River
+##### Bus plunge
 # A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. 
 
 Locals accuse police of arriving too late to the scene of a bus accident that killed 36 people.
