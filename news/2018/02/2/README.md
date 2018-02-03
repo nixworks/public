@@ -19,5 +19,9 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 ### [U.S. President Donald Trump authorizes congress to release the Nunes memo against the wishes of the FBI, DoJ, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-doj-and-some-bipartisan-lawmakers.md)
 The president got into step with Republican allies who have spent months attacking what they call bias in the FBI and Justice Department. Critics warn this situation is perilous. 
 
+##### weapons in the U.S. nuclear arsenal
+### [The United States releases an new policy on nuclear arms, the first update since 2010. It calls for the introduction of two new types of weapons in the U.S. nuclear arsenal: low-yield nuclear submarine-launched ballistic (SLBM) and cruise (SLCM) missiles. ](/news/2018/02/2/the-united-states-releases-an-new-policy-on-nuclear-arms-the-first-update-since-2010-it-calls-for-the-introduction-of-two-new-types-of-wea.md)
+The Pentagon released a new nuclear arms policy Friday that calls for the introduction of two new types of weapons, effectively ending Obama-era efforts to reduce the size and scope of the U.S. ars…
+
 ## [Previous Day...](/news/2018/02/1/index.md)
 
