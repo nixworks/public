@@ -17,7 +17,15 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: Rex Tillerson, Venezuelan Army, Venezuela, United States Secretary of State, 19th-century United States policy in Latin America, Canadian counterpart, President, Mexico, Chrystia Freeland, Secretary of Foreign Affairs, Luis Videgaray Caso, Mexico-United States relations, Nicolas Maduro_
+_Context: Venezuela, Mexico-United States relations, Nicolas Maduro, United States Secretary of State, Mexico, Canadian counterpart, President, Rex Tillerson, Chrystia Freeland, 19th-century United States policy in Latin America, Secretary of Foreign Affairs, Venezuelan Army, Luis Videgaray Caso_
+
+##### Islam
+### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)
+Tariq Ramadan, adviser to the UK government, held in custody over French hotel attack claims
+
+##### 2017 Finsbury Park attack
+### [Darren Osborne is sentenced to life in prison after being found guilty for murder, as the sole perpetrator of the 19 June 2017 Finsbury Park attack. ](/news/2018/02/2/darren-osborne-is-sentenced-to-life-in-prison-after-being-found-guilty-for-murder-as-the-sole-perpetrator-of-the-19-june-2017-finsbury-park.md)
+One person was killed and several others wounded when Osborne drove a vehicle into a group of people outside a mosque.
 
 ##### Nunes memo
 ### [U.S. President Donald Trump authorizes congress to release the Nunes memo against the wishes of the FBI, DoJ, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-doj-and-some-bipartisan-lawmakers.md)
