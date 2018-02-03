@@ -9,11 +9,11 @@ Formats: [HTML](2018/02/1/index.html)  [JSON](2018/02/1/index.json)  [XML](2018/
 
 ##### Canadian Senate
 ### [The Canadian Senate agrees with the House of Commons to make the Canadian national anthem, "O Canada", gender neutral. The second line of the song will now read "in all of us" instead of "in all thy sons." ](/news/2018/02/1/the-canadian-senate-agrees-with-the-house-of-commons-to-make-the-canadian-national-anthem-o-canada-gender-neutral-the-second-line-of-th.md)
-_Context: O Canada, Canadian Senate, House of Commons_
+_Context: House of Commons, Canadian Senate, O Canada_
 
 ##### Apple Inc.
 ### [Apple Inc. briefly removed the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. ](/news/2018/02/1/apple-inc-briefly-removed-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate.md)
-_Context: Apple Inc., App Store, Telegram, Pavel Durov_
+_Context: App Store, Telegram, Apple Inc., Pavel Durov_
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
@@ -21,7 +21,7 @@ The three-storey building in the northern city of Sapporo is home to mostly elde
 
 ##### School shootings in the United States
 ### [Two 15-year-old students are seriously wounded and three other people injured in a shooting at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-and-three-other-people-injured-in-a-shooting-at-sal-castro-middle-school-in-los-angeles-cali.md)
-_Context: California, School shootings in the United States, Los Angeles_
+_Context: Los Angeles, School shootings in the United States, California_
 
 ##### Palestine Liberation Organization
 ### [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md)
@@ -37,7 +37,7 @@ An Afghan is suspected of shooting at a queue for food handouts, critically inju
 
 ##### United States-Mexico relations
 ### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md)
-_Context: Rex Tillerson, United States Secretary of State, Enrique Pena Nieto, President, Luis Videgaray, Mexico, United States-Mexico relations_
+_Context: Rex Tillerson, Luis Videgaray, President, Mexico, United States Secretary of State, Enrique Pena Nieto, United States-Mexico relations_
 
 ##### Tom Shannon
 ### [Tom Shannon, the United States Under Secretary of State for Political Affairs, announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-stat.md)
