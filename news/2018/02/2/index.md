@@ -17,7 +17,7 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: President, Luis Videgaray Caso, Nicolas Maduro, Canadian counterpart, 19th-century United States policy in Latin America, Rex Tillerson, Venezuelan Army, Mexico-United States relations, Mexico, Secretary of Foreign Affairs, United States Secretary of State, Chrystia Freeland, Venezuela_
+_Context: Rex Tillerson, Venezuelan Army, Venezuela, United States Secretary of State, 19th-century United States policy in Latin America, Canadian counterpart, President, Mexico, Chrystia Freeland, Secretary of Foreign Affairs, Luis Videgaray Caso, Mexico-United States relations, Nicolas Maduro_
 
 ##### Nunes memo
 ### [U.S. President Donald Trump authorizes congress to release the Nunes memo against the wishes of the FBI, DoJ, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-doj-and-some-bipartisan-lawmakers.md)
