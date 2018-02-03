@@ -9,11 +9,11 @@ Formats: [HTML](2018/02/1/index.html)  [JSON](2018/02/1/index.json)  [XML](2018/
 
 ##### Canadian Senate
 ### [The Canadian Senate agrees with the House of Commons to make the Canadian national anthem, "O Canada", gender neutral. The second line of the song will now read "in all of us" instead of "in all thy sons." ](/news/2018/02/1/the-canadian-senate-agrees-with-the-house-of-commons-to-make-the-canadian-national-anthem-o-canada-gender-neutral-the-second-line-of-th.md)
-_Context: Canadian Senate, House of Commons, O Canada_
+_Context: House of Commons, Canadian Senate, O Canada_
 
 ##### Apple Inc.
 ### [Apple Inc. briefly removed the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. ](/news/2018/02/1/apple-inc-briefly-removed-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate.md)
-_Context: App Store, Telegram, Apple Inc., Pavel Durov_
+_Context: Apple Inc., Telegram, App Store, Pavel Durov_
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
@@ -37,7 +37,7 @@ An Afghan is suspected of shooting at a queue for food handouts, critically inju
 
 ##### United States-Mexico relations
 ### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md)
-_Context: United States-Mexico relations, President, Rex Tillerson, Enrique Pena Nieto, Luis Videgaray, Mexico, United States Secretary of State_
+_Context: Enrique Pena Nieto, United States Secretary of State, Mexico, Rex Tillerson, United States-Mexico relations, Luis Videgaray, President_
 
 ##### Cabinet of Donald Trump
 ### [Tom Shannon, the United States Under Secretary of State for Political Affairs, announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-stat.md)

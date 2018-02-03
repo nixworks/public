@@ -7,9 +7,13 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The London-based SOHR reports that unidentified rebel factions have shot down a Russian Sukhoi Su-25 jet over the province of Idlib, near Maarrat al-Nu'man, also killing its pilot. The pilot had escaped with his parachute but was killed on the ground while he fought with a pistol to evade capture. No groups claim responsibility. Russia's Ministry of Defence corroborates this version of events. ](/news/2018/02/3/the-london-based-sohr-reports-that-unidentified-rebel-factions-have-shot-down-a-russian-sukhoi-su-25-jet-over-the-province-of-idlib-near-ma.md)
 Syrian rebels have shot down a Russian jet over Idlib province and captured its pilot, according to a monitor. Syrian troops, backed by Russian air support, launched an offensive on rebel-held Idlib back in December.
 
-##### Terrorism in Pakistan
+##### War in North-West Pakistan
 ### [A suicide bombing, revindicated in an email to journalists by the Pakistani Taliban, kills at least 11 soldiers and injures 13 at an army unit camp's sports area in the Kabal area of the Swat Valley, in Northwestern Pakistan, according to Pakistan Army figures. ](/news/2018/02/3/a-suicide-bombing-revindicated-in-an-email-to-journalists-by-the-pakistani-taliban-kills-at-least-11-soldiers-and-injures-13-at-an-army-un.md)
 A suicide bomber killed at least 11 soldiers and injured 13 at an army camp in northwestern Pakistan on Saturday, the military said.
+
+##### Crime in Italy
+### [A shooting in Macerata, Italy, leaves 6 African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-6-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-moti.md)
+A man suspected of racially-motivated shootings that injure six is arrested in the town of Macerata.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -33,7 +37,7 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: United States Secretary of State, Nicolas Maduro, Mexico, Chrystia Freeland, 19th-century United States policy in Latin America, Venezuela, Venezuelan Army, Mexico-United States relations, President, Secretary of Foreign Affairs, Rex Tillerson, Luis Videgaray Caso, Canadian counterpart_
+_Context: 19th-century United States policy in Latin America, Rex Tillerson, Chrystia Freeland, Nicolas Maduro, Luis Videgaray Caso, Venezuela, Mexico, Canadian counterpart, Venezuelan Army, Secretary of Foreign Affairs, United States Secretary of State, Mexico-United States relations, President_
 
 ##### Crime in France
 ### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)
@@ -61,11 +65,11 @@ The Pentagon released a new nuclear arms policy Friday that calls for the introd
 
 ##### Canadian Senate
 ### [The Canadian Senate agrees with the House of Commons to make the Canadian national anthem, "O Canada", gender neutral. The second line of the song will now read "in all of us" instead of "in all thy sons." ](/news/2018/02/1/the-canadian-senate-agrees-with-the-house-of-commons-to-make-the-canadian-national-anthem-o-canada-gender-neutral-the-second-line-of-th.md)
-_Context: Canadian Senate, House of Commons, O Canada_
+_Context: House of Commons, Canadian Senate, O Canada_
 
 ##### Apple Inc.
 ### [Apple Inc. briefly removed the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. ](/news/2018/02/1/apple-inc-briefly-removed-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate.md)
-_Context: App Store, Telegram, Apple Inc., Pavel Durov_
+_Context: Apple Inc., Telegram, App Store, Pavel Durov_
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
@@ -89,7 +93,7 @@ An Afghan is suspected of shooting at a queue for food handouts, critically inju
 
 ##### United States-Mexico relations
 ### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md)
-_Context: United States-Mexico relations, President, Rex Tillerson, Enrique Pena Nieto, Luis Videgaray, Mexico, United States Secretary of State_
+_Context: Enrique Pena Nieto, United States Secretary of State, Mexico, Rex Tillerson, United States-Mexico relations, Luis Videgaray, President_
 
 ##### Cabinet of Donald Trump
 ### [Tom Shannon, the United States Under Secretary of State for Political Affairs, announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-stat.md)
