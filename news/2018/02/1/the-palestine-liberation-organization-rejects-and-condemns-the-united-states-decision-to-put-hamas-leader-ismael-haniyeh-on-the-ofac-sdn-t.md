@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/1/the-palestine-liberation-organization-rejects-an
 
 ### [2018-02-1](/news/2018/02/1/index.md)
 
-##### Palestine Liberation Organization
+##### Human rights in the State of Palestine
 # The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. 
 
 Israel hails decision as &#039;necessary step in the fight against global terrorism,&#039; says other countries should &#039;follow American leadership&#039;
