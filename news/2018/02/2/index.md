@@ -15,12 +15,16 @@ YouTube says video-makers who damage the reputation of the site will face new co
 ### [All 955 South African miners, who were stuck in the Beatrix gold mine near Welkom in central Free State province since Wednesday, have been brought to the surface. Earlier, 65 other workers were rescued. No serious injuries have been reported. The accident apparently happened when a strong storm knocked over an electric power tower triggering the huge power cut. ](/news/2018/02/2/all-955-south-african-miners-who-were-stuck-in-the-beatrix-gold-mine-near-welkom-in-central-free-state-province-since-wednesday-have-been.md)
 The South African workers had been stuck since Wednesday, when a power cut stopped the lifts.
 
+##### Mexico-United States relations
+### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
+_Context: Chrystia Freeland, Nicolas Maduro, Canadian counterpart, 19th-century United States policy in Latin America, President, Secretary of Foreign Affairs, Rex Tillerson, Venezuelan Army, Luis Videgaray Caso, United States Secretary of State, Mexico, Mexico-United States relations, Venezuela_
+
 ##### Nunes memo
 ### [U.S. President Donald Trump authorizes congress to release the Nunes memo against the wishes of the FBI, DoJ, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-doj-and-some-bipartisan-lawmakers.md)
 The president got into step with Republican allies who have spent months attacking what they call bias in the FBI and Justice Department. Critics warn this situation is perilous. 
 
 ##### weapons in the U.S. nuclear arsenal
-### [The United States releases an new policy on nuclear arms, the first update since 2010. It calls for the introduction of two new types of weapons in the U.S. nuclear arsenal: low-yield nuclear submarine-launched ballistic (SLBM) and cruise (SLCM) missiles. ](/news/2018/02/2/the-united-states-releases-an-new-policy-on-nuclear-arms-the-first-update-since-2010-it-calls-for-the-introduction-of-two-new-types-of-wea.md)
+### [The United States releases a new policy on nuclear arms, the first update since 2010. It calls for the introduction of two new types of weapons in the U.S. nuclear arsenal: low-yield nuclear submarine-launched ballistic (SLBM) and cruise (SLCM) missiles. ](/news/2018/02/2/the-united-states-releases-a-new-policy-on-nuclear-arms-the-first-update-since-2010-it-calls-for-the-introduction-of-two-new-types-of-weap.md)
 The Pentagon released a new nuclear arms policy Friday that calls for the introduction of two new types of weapons, effectively ending Obama-era efforts to reduce the size and scope of the U.S. ars…
 
 ## [Previous Day...](/news/2018/02/1/index.md)
