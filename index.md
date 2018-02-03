@@ -17,7 +17,7 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: Chrystia Freeland, Nicolas Maduro, Canadian counterpart, 19th-century United States policy in Latin America, President, Secretary of Foreign Affairs, Rex Tillerson, Venezuelan Army, Luis Videgaray Caso, United States Secretary of State, Mexico, Mexico-United States relations, Venezuela_
+_Context: President, Luis Videgaray Caso, Nicolas Maduro, Canadian counterpart, 19th-century United States policy in Latin America, Rex Tillerson, Venezuelan Army, Mexico-United States relations, Mexico, Secretary of Foreign Affairs, United States Secretary of State, Chrystia Freeland, Venezuela_
 
 ##### Nunes memo
 ### [U.S. President Donald Trump authorizes congress to release the Nunes memo against the wishes of the FBI, DoJ, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-doj-and-some-bipartisan-lawmakers.md)
@@ -45,7 +45,7 @@ _Context: O Canada, Canadian Senate, House of Commons_
 
 ##### Apple Inc.
 ### [Apple Inc. briefly removed the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. ](/news/2018/02/1/apple-inc-briefly-removed-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate.md)
-_Context: Apple Inc., App Store, Pavel Durov, Telegram_
+_Context: Pavel Durov, Apple Inc., App Store, Telegram_
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
@@ -53,7 +53,7 @@ The three-storey building in the northern city of Sapporo is home to mostly elde
 
 ##### School shootings in the United States
 ### [Two 15-year-old students are seriously wounded and three other people injured in a shooting at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-and-three-other-people-injured-in-a-shooting-at-sal-castro-middle-school-in-los-angeles-cali.md)
-_Context: School shootings in the United States, California, Los Angeles_
+_Context: Los Angeles, School shootings in the United States, California_
 
 ##### Palestine Liberation Organization
 ### [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md)
@@ -69,7 +69,7 @@ An Afghan is suspected of shooting at a queue for food handouts, critically inju
 
 ##### United States-Mexico relations
 ### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md)
-_Context: Luis Videgaray, Enrique Pena Nieto, United States Secretary of State, Mexico, President, United States-Mexico relations, Rex Tillerson_
+_Context: Enrique Pena Nieto, Rex Tillerson, United States Secretary of State, Luis Videgaray, President, Mexico, United States-Mexico relations_
 
 ##### Tom Shannon
 ### [Tom Shannon, the United States Under Secretary of State for Political Affairs, announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-stat.md)
@@ -85,7 +85,7 @@ An amateur astronomer rediscovered a Nasa satellite which has been lost in space
 
 ##### War in Afghanistan (2001-present)
 ### [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md)
-_Context: Taliban, BBC, War in Afghanistan (2001-present), Afghanistan_
+_Context: Afghanistan, Taliban, BBC, War in Afghanistan (2001-present)_
 
 ##### 2018 Crozet, Virginia train crash
 ### [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md)
@@ -93,7 +93,7 @@ At least one person was killed and another seriously injured when an Amtrak trai
 
 ##### Crime in Belgium
 ### [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-two-attempted-murders-ahead-of-his-february-ass.md)
-_Context: assizes, Mechelen, Belgium, Crime in Belgium, Tongeren_
+_Context: assizes, Crime in Belgium, Tongeren, Mechelen, Belgium_
 
 ##### Cannabis in California
 ### [San Francisco District Attorney George Gascon announces the city will retroactively apply California's new marijuana laws to nearly 5,000 felony convictions, expunging or reducing misdemeanors and felonies dating to 1975. ](/news/2018/01/31/san-francisco-district-attorney-george-gasca3n-announces-the-city-will-retroactively-apply-california-s-new-marijuana-laws-to-nearly-5-000-f.md)
@@ -109,7 +109,7 @@ A minister who questioned whether Brexit should be halted after a secret Governm
 
 ##### Politics of Guinea-Bissau
 ### [President Jose Mario Vaz appoints Artur Silva as Prime Minister of Guinea-Bissau, succeeding Umaro Sissoco Embalo, who resigned on January 16th. ](/news/2018/01/31/president-josa-c-ma-rio-vaz-appoints-artur-silva-as-prime-minister-of-guinea-bissau-succeeding-umaro-sissoco-embala3-who-resigned-on-januar.md)
-_Context: Artur Silva, Politics of Guinea-Bissau, Prime Minister of Guinea-Bissau, Jose Mario Vaz, Umaro Sissoco Embalo_
+_Context: Politics of Guinea-Bissau, Umaro Sissoco Embalo, Artur Silva, Jose Mario Vaz, Prime Minister of Guinea-Bissau_
 
 ##### Political appointments by Donald Trump
 ### [Dr. Brenda Fitzgerald resigns as head of the Centers for Disease Control and Prevention following a report that she purchased stock in food, health insurance, and tobacco companies shortly after taking up her federal government position. ](/news/2018/01/31/dr-brenda-fitzgerald-resigns-as-head-of-the-centers-for-disease-control-and-prevention-following-a-report-that-she-purchased-stock-in-food.md)
