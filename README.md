@@ -21,7 +21,7 @@ A man suspected of racially-motivated shootings that injure six is arrested in t
 
 ##### 15760 Albion
 ### [15760 Albion (previously 1992 QB 1 ), the first discovered Kuiper belt object, is officially named by its discoverers. ](/news/2018/02/3/15760-albion-previously-1992-qb-1-the-first-discovered-kuiper-belt-object-is-officially-named-by-its-discoverers.md)
-_Context: 15760 Albion, Kuiper belt_
+_Context: Kuiper belt, 15760 Albion_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -45,7 +45,7 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: 19th-century United States policy in Latin America, Canadian counterpart, Nicolas Maduro, Venezuelan Army, Mexico-United States relations, Rex Tillerson, Luis Videgaray Caso, Chrystia Freeland, President, Venezuela, United States Secretary of State, Mexico, Secretary of Foreign Affairs_
+_Context: United States Secretary of State, Canadian counterpart, Luis Videgaray Caso, Venezuela, Chrystia Freeland, Nicolas Maduro, Venezuelan Army, 19th-century United States policy in Latin America, Secretary of Foreign Affairs, President, Rex Tillerson, Mexico, Mexico-United States relations_
 
 ##### Crime in France
 ### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)
@@ -73,11 +73,11 @@ The Pentagon released a new nuclear arms policy Friday that calls for the introd
 
 ##### Canadian Senate
 ### [The Canadian Senate agrees with the House of Commons to make the Canadian national anthem, "O Canada", gender neutral. The second line of the song will now read "in all of us" instead of "in all thy sons." ](/news/2018/02/1/the-canadian-senate-agrees-with-the-house-of-commons-to-make-the-canadian-national-anthem-o-canada-gender-neutral-the-second-line-of-th.md)
-_Context: House of Commons, Canadian Senate, O Canada_
+_Context: O Canada, Canadian Senate, House of Commons_
 
 ##### Apple Inc.
 ### [Apple Inc. briefly removed the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. ](/news/2018/02/1/apple-inc-briefly-removed-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate.md)
-_Context: Pavel Durov, App Store, Telegram, Apple Inc._
+_Context: Pavel Durov, Apple Inc., Telegram, App Store_
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
@@ -85,11 +85,11 @@ The three-storey building in the northern city of Sapporo is home to mostly elde
 
 ##### United States-Mexico relations
 ### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md)
-_Context: Mexico, Enrique Pena Nieto, United States Secretary of State, Luis Videgaray, United States-Mexico relations, Rex Tillerson, President_
+_Context: President, Rex Tillerson, Mexico, Enrique Pena Nieto, United States Secretary of State, Luis Videgaray, United States-Mexico relations_
 
 ##### School shootings in the United States
 ### [Two 15-year-old students are seriously wounded and three other people injured in a shooting at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-and-three-other-people-injured-in-a-shooting-at-sal-castro-middle-school-in-los-angeles-cali.md)
-_Context: School shootings in the United States, California, Los Angeles_
+_Context: California, Los Angeles, School shootings in the United States_
 
 ##### Human rights in the State of Palestine
 ### [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md)
@@ -105,7 +105,7 @@ An Afghan is suspected of shooting at a queue for food handouts, critically inju
 
 ##### Cabinet of Donald Trump
 ### [Tom Shannon, the United States Under Secretary of State for Political Affairs, announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-stat.md)
-_Context: Tom Shannon, State Department, Cabinet of Donald Trump, Under Secretary of State for Political Affairs_
+_Context: Cabinet of Donald Trump, Tom Shannon, Under Secretary of State for Political Affairs, State Department_
 
 ##### 2018 in spaceflight
 ### [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md)
