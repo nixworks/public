@@ -13,11 +13,19 @@ Costa Ricans went to the polls on Sunday to choose a new president in a race upe
 
 ##### Cypriot presidential election, 2018
 ### [Cyprus is set to elect a new President in a second round of voting. Candidates include incumbent Nicos Anastasiades and AKEL candidate, Stavros Malas. ](/news/2018/02/4/cyprus-is-set-to-elect-a-new-president-in-a-second-round-of-voting-candidates-include-incumbent-nicos-anastasiades-and-akel-candidate-stav.md)
-_Context: Cyprus, Nicos Anastasiades, Cypriot presidential election, 2018, President, AKEL, Stavros Malas_
+_Context: Stavros Malas, Cypriot presidential election, 2018, AKEL, Nicos Anastasiades, President, Cyprus_
 
 ##### Ecuadorian referendum and popular consultation, 2018
 ### [Ecuador is set to hold a referendum consisting of seven questions for voters to approve or reject. ](/news/2018/02/4/ecuador-is-set-to-hold-a-referendum-consisting-of-seven-questions-for-voters-to-approve-or-reject.md)
 Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presidential re-election, with polls indicating the motion will likely pass and block former leftist President Rafael Correa from returning to power.
+
+##### Politics of Yemen
+### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless aventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
+_Context: Nobel Peace Prize, Politics of Yemen, Islah, Tawakkol Karman, Saudi-led intervention in Yemen_
+
+##### 2002 AJ129
+### [ An asteroid named 2002 AJ129 makes a safe approach to Earth.](/news/2018/02/4/an-asteroid-named-2002-aj129-makes-a-safe-approach-to-earth.md)
+A fast-moving asteroid will make a close flyby of Earth this Super Bowl Sunday (Feb. 4), but it poses no risk of hitting our planet, according to NASA.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -35,17 +43,13 @@ Syrian rebels have shot down a Russian jet over Idlib province and captured its 
 ### [A suicide bombing, revindicated in an email to journalists by the Pakistani Taliban, kills at least 11 soldiers and injures 13 at an army unit camp's sports area in the Kabal area of the Swat Valley, in Northwestern Pakistan, according to Pakistan Army figures. ](/news/2018/02/3/a-suicide-bombing-revindicated-in-an-email-to-journalists-by-the-pakistani-taliban-kills-at-least-11-soldiers-and-injures-13-at-an-army-un.md)
 A suicide bomber killed at least 11 soldiers and injured 13 at an army camp in northwestern Pakistan on Saturday, the military said.
 
-##### YouTube
-### [YouTube, in a move to boost transparency and combat propaganda, announces that it will start to label videos by broadcasters that receive state-funding. ](/news/2018/02/3/youtube-in-a-move-to-boost-transparency-and-combat-propaganda-announces-that-it-will-start-to-label-videos-by-broadcasters-that-receive-st.md)
-YouTube announced Friday it will start flagging videos published by organizations that receive government funding. 
-
 ##### Crime in Italy
 ### [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md)
 A man suspected of racially-motivated shootings that injure six is arrested in the town of Macerata.
 
 ##### 15760 Albion
 ### [15760 Albion (previously 1992 QB 1 ), the first discovered Kuiper belt object, is officially named by its discoverers. ](/news/2018/02/3/15760-albion-previously-1992-qb-1-the-first-discovered-kuiper-belt-object-is-officially-named-by-its-discoverers.md)
-_Context: 15760 Albion, Kuiper belt_
+_Context: Kuiper belt, 15760 Albion_
 
 ---
 
@@ -55,7 +59,7 @@ _Context: 15760 Albion, Kuiper belt_
 ### [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md)
 There is no question that the Chinese leadership under President Xi Jinping has reneged on the Sino-British Joint Declaration of 1984 that promised Hong Kong freedom of speech and legal autonomy for 50 years after the 1997 handover from British to Chinese rule. Through repeated so-called “interpre...
 
-##### Censorship by Google
+##### History of YouTube
 ### [YouTube announces that YouTubers who make "egregious" content will be punished. Critics of the move call it censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-critics-of-the-move-call-it-censorship.md)
 YouTube says video-makers who damage the reputation of the site will face new consequences.
 
@@ -65,7 +69,7 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: Secretary of Foreign Affairs, 19th-century United States policy in Latin America, United States Secretary of State, President, Venezuelan Army, Mexico, Canadian counterpart, Luis Videgaray Caso, Mexico-United States relations, Nicolas Maduro, Venezuela, Rex Tillerson, Chrystia Freeland_
+_Context: Rex Tillerson, Chrystia Freeland, Venezuelan Army, Luis Videgaray Caso, Canadian counterpart, Secretary of Foreign Affairs, President, Nicolas Maduro, Mexico, Mexico-United States relations, 19th-century United States policy in Latin America, Venezuela, United States Secretary of State_
 
 ##### Crime in France
 ### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)
@@ -76,7 +80,7 @@ Tariq Ramadan, adviser to the UK government, held in custody over French hotel a
 One person was killed and several others wounded when Osborne drove a vehicle into a group of people outside a mosque.
 
 ##### Nunes memo
-### [U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and lawmakers from both sides, all of whom say that the document's release poses a risk to national security\. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-department-of-justice-and-lawmake.md)
+### [U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and lawmakers from both sides, all of whom say that the document's release poses a risk to national security. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-department-of-justice-and-lawmake.md)
 The president got into step with Republican allies who have spent months attacking what they call bias in the FBI and Justice Department. Critics warn this situation is perilous. 
 
 ##### Nuclear Posture Review

@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-t
 ### [2018-02-2](/news/2018/02/2/index.md)
 
 ##### Nunes memo
-# U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and lawmakers from both sides, all of whom say that the document's release poses a risk to national security\. 
+# U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and lawmakers from both sides, all of whom say that the document's release poses a risk to national security. 
 
 The president got into step with Republican allies who have spent months attacking what they call bias in the FBI and Justice Department. Critics warn this situation is perilous. 
 
@@ -21,7 +21,7 @@ The president got into step with Republican allies who have spent months attacki
 1. [United States president Donald Trump authorizes congress to release the Nunes memo against the wishes of the FBI, DOJ, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/united-states-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-doj-and-some-bipartisan-l.md) _2018-02-02 18:30:19 (First version)_
 2. [U.S. President Donald Trump authorizes congress to release the Nunes memo against the wishes of the FBI, DoJ, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-doj-and-some-bipartisan-lawmakers.md) _2018-02-04 00:30:10 (Update)_
 3. [U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-department-of-justice-and-some-bi.md) _2018-02-04 07:30:10 (Update)_
-3. [U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and lawmakers from both sides, all of whom say that the document's release poses a risk to national security\. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-department-of-justice-and-lawmake.md) _(Current version)_
+3. [U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and lawmakers from both sides, all of whom say that the document's release poses a risk to national security. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-department-of-justice-and-lawmake.md) _(Current version)_
 
 ### Related:
 

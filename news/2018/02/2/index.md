@@ -7,7 +7,7 @@ Formats: [HTML](2018/02/2/index.html)  [JSON](2018/02/2/index.json)  [XML](2018/
 ### [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md)
 There is no question that the Chinese leadership under President Xi Jinping has reneged on the Sino-British Joint Declaration of 1984 that promised Hong Kong freedom of speech and legal autonomy for 50 years after the 1997 handover from British to Chinese rule. Through repeated so-called “interpre...
 
-##### Censorship by Google
+##### History of YouTube
 ### [YouTube announces that YouTubers who make "egregious" content will be punished. Critics of the move call it censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-critics-of-the-move-call-it-censorship.md)
 YouTube says video-makers who damage the reputation of the site will face new consequences.
 
@@ -17,7 +17,7 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: Secretary of Foreign Affairs, 19th-century United States policy in Latin America, United States Secretary of State, President, Venezuelan Army, Mexico, Canadian counterpart, Luis Videgaray Caso, Mexico-United States relations, Nicolas Maduro, Venezuela, Rex Tillerson, Chrystia Freeland_
+_Context: Rex Tillerson, Chrystia Freeland, Venezuelan Army, Luis Videgaray Caso, Canadian counterpart, Secretary of Foreign Affairs, President, Nicolas Maduro, Mexico, Mexico-United States relations, 19th-century United States policy in Latin America, Venezuela, United States Secretary of State_
 
 ##### Crime in France
 ### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)
@@ -28,7 +28,7 @@ Tariq Ramadan, adviser to the UK government, held in custody over French hotel a
 One person was killed and several others wounded when Osborne drove a vehicle into a group of people outside a mosque.
 
 ##### Nunes memo
-### [U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and lawmakers from both sides, all of whom say that the document's release poses a risk to national security\. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-department-of-justice-and-lawmake.md)
+### [U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and lawmakers from both sides, all of whom say that the document's release poses a risk to national security. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-department-of-justice-and-lawmake.md)
 The president got into step with Republican allies who have spent months attacking what they call bias in the FBI and Justice Department. Critics warn this situation is perilous. 
 
 ##### Nuclear Posture Review

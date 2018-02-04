@@ -13,11 +13,19 @@ Costa Ricans went to the polls on Sunday to choose a new president in a race upe
 
 ##### Cypriot presidential election, 2018
 ### [Cyprus is set to elect a new President in a second round of voting. Candidates include incumbent Nicos Anastasiades and AKEL candidate, Stavros Malas. ](/news/2018/02/4/cyprus-is-set-to-elect-a-new-president-in-a-second-round-of-voting-candidates-include-incumbent-nicos-anastasiades-and-akel-candidate-stav.md)
-_Context: Cyprus, Nicos Anastasiades, Cypriot presidential election, 2018, President, AKEL, Stavros Malas_
+_Context: Stavros Malas, Cypriot presidential election, 2018, AKEL, Nicos Anastasiades, President, Cyprus_
 
 ##### Ecuadorian referendum and popular consultation, 2018
 ### [Ecuador is set to hold a referendum consisting of seven questions for voters to approve or reject. ](/news/2018/02/4/ecuador-is-set-to-hold-a-referendum-consisting-of-seven-questions-for-voters-to-approve-or-reject.md)
 Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presidential re-election, with polls indicating the motion will likely pass and block former leftist President Rafael Correa from returning to power.
+
+##### Politics of Yemen
+### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless aventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
+_Context: Nobel Peace Prize, Politics of Yemen, Islah, Tawakkol Karman, Saudi-led intervention in Yemen_
+
+##### 2002 AJ129
+### [ An asteroid named 2002 AJ129 makes a safe approach to Earth.](/news/2018/02/4/an-asteroid-named-2002-aj129-makes-a-safe-approach-to-earth.md)
+A fast-moving asteroid will make a close flyby of Earth this Super Bowl Sunday (Feb. 4), but it poses no risk of hitting our planet, according to NASA.
 
 ## [Previous Day...](/news/2018/02/3/index.md)
 
