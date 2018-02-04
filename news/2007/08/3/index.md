@@ -13,11 +13,11 @@ The month-old fire in northern Santa Barbara County has burned an estimated 44,4
 
 ##### U.S. President
 ### [ US President George W. Bush signs a bill to implement recommendations of the 9-11 Commission. ](/news/2007/08/3/us-president-george-w-bush-signs-a-bill-to-implement-recommendations-of-the-9-11-commission.md)
-_Context: U.S. President, 9-11 Commission, George W. Bush_
+_Context: U.S. President, George W. Bush, 9-11 Commission_
 
 ##### lawmakers
 ### [ The United States Congress allocates $250 million to rebuild the I-35W Mississippi River bridge in Minneapolis, Minnesota. ](/news/2007/08/3/the-united-states-congress-allocates-250-million-to-rebuild-the-i-35w-mississippi-river-bridge-in-minneapolis-minnesota.md)
-_Context: Minneapolis, I-35W Mississippi River bridge, lawmakers, $_
+_Context: I-35W Mississippi River bridge, Minneapolis, lawmakers, $_
 
 ##### United States Senate
 ### [ The United States Senate votes to extend the powers of intelligence agents to eavesdrop on suspected terrorists in a victory for President of the United States George W. Bush. ](/news/2007/08/3/the-united-states-senate-votes-to-extend-the-powers-of-intelligence-agents-to-eavesdrop-on-suspected-terrorists-in-a-victory-for-president.md)
@@ -25,7 +25,7 @@ The US Senate has voted to extend the power of intelligence agents to eavesdrop 
 
 ##### Your Black Muslim Bakery
 ### [ Raids at the Your Black Muslim Bakery in Oakland, California allegedly produces evidence that links the bakery to the murder of Chauncey Bailey, editor of "The Oakland Post", and two other people. ](/news/2007/08/3/raids-at-the-your-black-muslim-bakery-in-oakland-california-allegedly-produces-evidence-that-links-the-bakery-to-the-murder-of-chauncey-ba.md)
-_Context: Your Black Muslim Bakery, murder, The Oakland Post, Oakland, California, Chauncey Bailey_
+_Context: Chauncey Bailey, Oakland, California, The Oakland Post, Your Black Muslim Bakery, murder_
 
 ##### Canadian
 ### [ The Canadian government agrees to make available a judicial report on the treatment of Maher Arar falsely accused of terrorism. ](/news/2007/08/3/the-canadian-government-agrees-to-make-available-a-judicial-report-on-the-treatment-of-maher-arar-falsely-accused-of-terrorism.md)
@@ -45,15 +45,15 @@ _Context: Sierra Leone_
 
 ##### President of Zimbabwe
 ### [ The President Robert Mugabe of Zimbabwe signs the Interception of Communication Act into law, allowing the Zimbabwean government to listen to private telephone conversations, open mail and intercept faxes and e-mail. ](/news/2007/08/3/the-president-robert-mugabe-of-zimbabwe-signs-the-interception-of-communication-act-into-law-allowing-the-zimbabwean-government-to-listen.md)
-_Context: Zimbabwe, fax, mail, telephone, e-mail, Robert Mugabe, President of Zimbabwe, Interception of Communication Act_
+_Context: e-mail, fax, Robert Mugabe, mail, telephone, President of Zimbabwe, Interception of Communication Act, Zimbabwe_
 
 ##### Cuba
 ### [ Two Cuban boxers, Guillermo Rigondeaux Olympic bantamweight champion and amateur welterweight world champion Erislandi Lara, who deserted their team at the 2007 Pan American Games are found in Rio de Janeiro, Brazil and will be sent back to Cuba. ](/news/2007/08/3/two-cuban-boxers-guillermo-rigondeaux-olympic-bantamweight-champion-and-amateur-welterweight-world-champion-erislandi-lara-who-deserted-t.md)
-_Context: Olympic Games, Erislandi Lara, Brazil, 2007 Pan American Games, welterweight, bantamweight, boxing, Rio de Janeiro, Cuba, Guillermo Rigondeaux_
+_Context: Rio de Janeiro, Cuba, 2007 Pan American Games, bantamweight, Erislandi Lara, Brazil, Olympic Games, boxing, Guillermo Rigondeaux, welterweight_
 
 ##### outbreak
 ### [ An outbreak of foot and mouth disease at a cattle farm in Surrey, UK is confirmed by Defra. The unlicenced movement of all livestock throughout the UK is prohibited. ](/news/2007/08/3/an-outbreak-of-foot-and-mouth-disease-at-a-cattle-farm-in-surrey-uk-is-confirmed-by-defra-the-unlicenced-movement-of-all-livestock-throug.md)
-_Context: Surrey, outbreak, foot and mouth disease, Defra_
+_Context: foot and mouth disease, Surrey, Defra, outbreak_
 
 ##### George W. Bush
 ### [ George W. Bush invites representatives of the UN and major industrialized and developing countries to a conference to discuss a post-Kyoto agreement on greenhouse gas emissions. ](/news/2007/08/3/george-w-bush-invites-representatives-of-the-un-and-major-industrialized-and-developing-countries-to-a-conference-to-discuss-a-post-kyoto.md)
@@ -65,19 +65,19 @@ Monsoon floods have forced almost 20 million people out of their homes in northe
 
 ##### Turkish
 ### [ Turkey's two largest cities, Ankara and Istanbul, struggle with water shortages with Ankara rationing water to two days on, two days off as a result of having 5% left in their reservoirs. ](/news/2007/08/3/turkey-s-two-largest-cities-ankara-and-istanbul-struggle-with-water-shortages-with-ankara-rationing-water-to-two-days-on-two-days-off-as.md)
-_Context: Turkish, reservoirs, Ankara, rationing water, Istanbul_
+_Context: Istanbul, rationing water, Turkish, Ankara, reservoirs_
 
 ##### Supreme Court
 ### [ The Supreme Court of Pakistan frees Javed Hashmi, the leader of the Alliance for the Restoration of Democracy and Pakistan Muslim League faction leader, who was jailed in 2003 for writing a letter critical of the President of Pakistan Pervez Musharraf. ](/news/2007/08/3/the-supreme-court-of-pakistan-frees-javed-hashmi-the-leader-of-the-alliance-for-the-restoration-of-democracy-and-pakistan-muslim-league-fa.md)
-_Context: Pervez Musharraf, Javed Hashmi, Pakistan Muslim League, president, Supreme Court_
+_Context: president, Pervez Musharraf, Pakistan Muslim League, Supreme Court, Javed Hashmi_
 
 ##### Darfur
 ### [ Rebel groups in Darfur hold meetings in Tanzania jointly mediated by the United Nations and the African Union to resolve disputes. ](/news/2007/08/3/rebel-groups-in-darfur-hold-meetings-in-tanzania-jointly-mediated-by-the-united-nations-and-the-african-union-to-resolve-disputes.md)
-_Context: United Nations, Tanzania, African Union, Darfur_
+_Context: Darfur, Tanzania, United Nations, African Union_
 
 ##### Patriarch
 ### [ Patriarch Teoctist of the Romanian Orthodox Church is buried in a ceremony in Bucharest led by Bartholomew I, the leader of the Eastern Orthodox churches. ](/news/2007/08/3/patriarch-teoctist-of-the-romanian-orthodox-church-is-buried-in-a-ceremony-in-bucharest-led-by-bartholomew-i-the-leader-of-the-eastern-ort.md)
-_Context: Patriarch, Teoctist, Romanian Orthodox Church, Bartholomew I, Eastern Orthodox, Bucharest_
+_Context: Eastern Orthodox, Bucharest, Teoctist, Patriarch, Romanian Orthodox Church, Bartholomew I_
 
 ## [Previous Day...](/news/2007/08/2/index.md)
 

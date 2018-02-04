@@ -13,7 +13,7 @@ Google on Thursday released the code for its upcoming Chrome OS, and plans to ha
 
 ##### Oprah Winfrey
 ### [ U.S. media mogul and talk show host Oprah Winfrey announces she will end her long running talk show in 2011. ](/news/2009/11/19/u-s-media-mogul-and-talk-show-host-oprah-winfrey-announces-she-will-end-her-long-running-talk-show-in-2011.md)
-_Context: Oprah Winfrey Show, Oprah Winfrey_
+_Context: Oprah Winfrey, Oprah Winfrey Show_
 
 ##### Belgian Prime Minister
 ### [ The Prime Minister of Belgium, Herman Van Rompuy, is chosen as the first permanent President of the European Council by European Union leaders. ](/news/2009/11/19/the-prime-minister-of-belgium-herman-van-rompuy-is-chosen-as-the-first-permanent-president-of-the-european-council-by-european-union-lead.md)
@@ -25,7 +25,7 @@ _Context: Houthi, Shia insurgency in Yemen, ongoing fight, Yemen_
 
 ##### Algeria
 ### [ Egypt recalls its ambassador to Algeria after complaints about violence towards its football fans after a World Cup play off. Sudan also summons its envoy to Egypt over media coverage of the game's aftermath. ](/news/2009/11/19/egypt-recalls-its-ambassador-to-algeria-after-complaints-about-violence-towards-its-football-fans-after-a-world-cup-play-off-sudan-also-su.md)
-_Context: 2010 FIFA World Cup, play off, Sudan, Egypt, Algeria_
+_Context: Egypt, Algeria, play off, 2010 FIFA World Cup, Sudan_
 
 ##### Irish
 ### [ Irish politicians, including Taoiseach Brian Cowen, call for a controversial football playoff for the 2010 FIFA World Cup between France and Republic of Ireland to be replayed as the Football Association of Ireland lodges an official complaint with FIFA. ](/news/2009/11/19/irish-politicians-including-taoiseach-brian-cowen-call-for-a-controversial-football-playoff-for-the-2010-fifa-world-cup-between-france-an.md)
@@ -33,7 +33,7 @@ The Taoiseach has joined the FAI in calling for a replay following last night&#3
 
 ##### crocodile
 ### [ The discovery of three ancient crocodile species, "Kaprosuchus saharicus", "Araripesuchus rattoides" and "Laganosuchus thaumastos", is announced. ](/news/2009/11/19/the-discovery-of-three-ancient-crocodile-species-kaprosuchus-saharicus-araripesuchus-rattoides-and-laganosuchus-thaumastos-is-anno.md)
-_Context: Araripesuchus rattoides, Laganosuchus thaumastos, Kaprosuchus saharicus, crocodile_
+_Context: crocodile, Laganosuchus thaumastos, Araripesuchus rattoides, Kaprosuchus saharicus_
 
 ##### European Court of Justice
 ### [ The European Court of Justice rules that airlines will have to pay compensation to passengers who experience delays of more than three hours. ](/news/2009/11/19/the-european-court-of-justice-rules-that-airlines-will-have-to-pay-compensation-to-passengers-who-experience-delays-of-more-than-three-hour.md)
@@ -45,15 +45,15 @@ Move allows for hanging of men convicted of killing Bangladesh independence lead
 
 ##### Zimbabwe
 ### [ Zimbabwe begins withdrawing soldiers from diamond mines after recommendations by the Kimberley Process regarding human rights abuses. ](/news/2009/11/19/zimbabwe-begins-withdrawing-soldiers-from-diamond-mines-after-recommendations-by-the-kimberley-process-regarding-human-rights-abuses.md)
-_Context: Zimbabwe, human rights, Kimberley Process_
+_Context: Kimberley Process, human rights, Zimbabwe_
 
 ##### Russia
 ### [ The Russian Constitutional Court prolongs a ban on the death penalty. The moratorium had been due to expire on January 1. ](/news/2009/11/19/the-russian-constitutional-court-prolongs-a-ban-on-the-death-penalty-the-moratorium-had-been-due-to-expire-on-january-1.md)
-_Context: sentenced to death, Constitutional Court, Russia_
+_Context: sentenced to death, Russia, Constitutional Court_
 
 ##### Philippine
 ### [ Philippine President Gloria Macapagal-Arroyo steps down as head of the ruling Lakas-Kampi-CMD party and endorses her former defense minister Gilberto Teodoro for President. ](/news/2009/11/19/philippine-president-gloria-macapagal-arroyo-steps-down-as-head-of-the-ruling-lakas-kampi-cmd-party-and-endorses-her-former-defense-ministe.md)
-_Context: President, Lakas-Kampi-CMD, Philippine, Gloria Macapagal-Arroyo, Gilberto Teodoro_
+_Context: Gilberto Teodoro, President, Philippine, Lakas-Kampi-CMD, Gloria Macapagal-Arroyo_
 
 ##### Cambodia
 ### [ Cambodia takes control of a Thai-owned air traffic control firm in a deepening diplomatic row between the two countries. ](/news/2009/11/19/cambodia-takes-control-of-a-thai-owned-air-traffic-control-firm-in-a-deepening-diplomatic-row-between-the-two-countries.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2005/01/18/index.html)  [JSON](2005/01/18/index.json)  [XML](200
 
 ##### suicide bomber
 ### [ Palestinian suicide bomber killed one and wounded six Israelis in Gush Katif junction in the Gaza Strip. Hamas claimed responsibility. ](/news/2005/01/18/palestinian-suicide-bomber-killed-one-and-wounded-six-israelis-in-gush-katif-junction-in-the-gaza-strip-hamas-claimed-responsibility.md)
-_Context: Hamas, Gush Katif, Gaza Strip, suicide bomber_
+_Context: Gush Katif, Hamas, suicide bomber, Gaza Strip_
 
 ##### Iraq
 ### [ Iraq is to close all its land borders for three days around the 30 January elections in an attempt to enhance security, election officials have said. ](/news/2005/01/18/iraq-is-to-close-all-its-land-borders-for-three-days-around-the-30-january-elections-in-an-attempt-to-enhance-security-election-officials.md)
@@ -13,35 +13,35 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 
 ##### Sudan
 ### [ The government of Sudan signs a preliminary peace treaty with the National Democratic Alliance, an opposition umbrella group of rebels in the north and east of the country. ](/news/2005/01/18/the-government-of-sudan-signs-a-preliminary-peace-treaty-with-the-national-democratic-alliance-an-opposition-umbrella-group-of-rebels-in-t.md)
-_Context: Sudan, peace treaty, National Democratic Alliance, umbrella group_
+_Context: peace treaty, umbrella group, National Democratic Alliance, Sudan_
 
 ##### A380
 ### [ The Airbus A380 is officially launched at a ceremony in the main French Airbus factory in Toulouse. Carrying between 550 and 840 passengers (depending on configuration), the double decker A380 is now the largest passenger airliner in the world. ](/news/2005/01/18/the-airbus-a380-is-officially-launched-at-a-ceremony-in-the-main-french-airbus-factory-in-toulouse-carrying-between-550-and-840-passengers.md)
-_Context: Toulouse, airliner, A380, Airbus, France_
+_Context: France, airliner, Toulouse, A380, Airbus_
 
 ##### United Nations World Food Program
 ### [ The United Nations World Food Program appeals for aid to Mauritania, after drought and large locust swarms destroy the harvest. ](/news/2005/01/18/the-united-nations-world-food-program-appeals-for-aid-to-mauritania-after-drought-and-large-locust-swarms-destroy-the-harvest.md)
-_Context: swarm, locust, Mauritanian, United Nations World Food Program, drought_
+_Context: swarm, drought, Mauritanian, United Nations World Food Program, locust_
 
 ##### United Nations
 ### [ A U.N. World Conference on Disaster Reduction in Kobe, Japan begins. About 3,000 government officials, non-governmental experts and other specialists from around the world will discuss the growing trend of people affected by natural disasters. ](/news/2005/01/18/a-u-n-world-conference-on-disaster-reduction-in-kobe-japan-begins-about-3-000-government-officials-non-governmental-experts-and-other-s.md)
-_Context: Kobe, Japan, World Conference on Disaster Reduction, natural disaster, United Nations_
+_Context: natural disaster, World Conference on Disaster Reduction, United Nations, Kobe, Japan_
 
 ##### Bao Tong
 ### [ Bao Tong, Zhao Ziyang's former secretary and the highest ranking official to be jailed after the Tiananmen Square protests of 1989 is blocked from paying his respects at a mourning hall set up in Zhao's Beijing home. Bao's wife, Jiang Zongcao, was injured in the scuffle with plain-clothes police and had to be hospitalized.](/news/2005/01/18/bao-tong-zhao-ziyang-s-former-secretary-and-the-highest-ranking-official-to-be-jailed-after-the-tiananmen-square-protests-of-1989-is-block.md)
-_Context: Beijing, Bao Tong, Tiananmen Square protests of 1989, Zhao Ziyang, police_
+_Context: Zhao Ziyang, Tiananmen Square protests of 1989, police, Bao Tong, Beijing_
 
 ##### Bosnia and Herzegovina
 ### [ Two former Bosnian Serb officers, Vidoje Blagojevic and Dragan Jokic, have been convicted and imprisoned for their complicity in the Srebrenica massacre in 1995. ](/news/2005/01/18/two-former-bosnian-serb-officers-vidoje-blagojevic-and-dragan-jokic-have-been-convicted-and-imprisoned-for-their-complicity-in-the-srebre.md)
-_Context: 1995, Serb, Vidoje Blagojevic, Srebrenica, Dragan Jokic, Bosnia and Herzegovina_
+_Context: Srebrenica, Vidoje Blagojevic, Bosnia and Herzegovina, Serb, Dragan Jokic, 1995_
 
 ##### France
 ### [ In France, labour unions are threatening to begin a succession of strikes to protest against the government of president Jacques Chirac. ](/news/2005/01/18/in-france-labour-unions-are-threatening-to-begin-a-succession-of-strikes-to-protest-against-the-government-of-president-jacques-chirac.md)
-_Context: Jacques Chirac, labour union, France, strike_
+_Context: strike, Jacques Chirac, France, labour union_
 
 ##### Mark Latham
 ### [ Mark Latham, leader of Australia's opposition Labor Party, resigns from his position and from parliament due to ill health. Possible replacements include former deputy prime minister Kim Beazley, shadow foreign minister Kevin Rudd and shadow health minister Julia Gillard. ](/news/2005/01/18/mark-latham-leader-of-australia-s-opposition-labor-party-resigns-from-his-position-and-from-parliament-due-to-ill-health-possible-replac.md)
-_Context: Australia, Julia Gillard, Kim Beazley, Parliament of Australia, Kevin Rudd, Mark Latham, Australian Labor Party_
+_Context: Australian Labor Party, Australia, Mark Latham, Parliament of Australia, Julia Gillard, Kevin Rudd, Kim Beazley_
 
 ## [Previous Day...](/news/2005/01/17/index.md)
 

@@ -29,7 +29,7 @@ The number of people killed in twin earthquakes in Iran at the weekend has risen
 
 ##### Holy See
 ### [The Vatican orders Pope Benedict XVI's former butler to stand trial for his alleged involvement in leaking allegations of corruption in the Holy See. ](/news/2012/08/13/the-vatican-orders-pope-benedict-xvi-s-former-butler-to-stand-trial-for-his-alleged-involvement-in-leaking-allegations-of-corruption-in-the.md)
-_Context: Pope Benedict XVI, Holy See_
+_Context: Holy See, Pope Benedict XVI_
 
 ##### Mohammed Mursi
 ### [Two Egyptian journalists, critics of President Mohammed Mursi, are to be put on trial for their alleged incitement to murder Mursi and lead sectarian discord. ](/news/2012/08/13/two-egyptian-journalists-critics-of-president-mohammed-mursi-are-to-be-put-on-trial-for-their-alleged-incitement-to-murder-mursi-and-lead.md)

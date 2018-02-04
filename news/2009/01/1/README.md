@@ -5,7 +5,7 @@ Formats: [HTML](2009/01/1/index.html)  [JSON](2009/01/1/index.json)  [XML](2009/
 
 ##### Israeli-Palestinian conflict
 ### [ An Israeli airstrike on the Gaza Strip city of Jabalia kills senior Hamas military commander Nizar Rayan and six members of his family. ](/news/2009/01/1/an-israeli-airstrike-on-the-gaza-strip-city-of-jabalia-kills-senior-hamas-military-commander-nizar-rayan-and-six-members-of-his-family.md)
-_Context: Jabalia, Nizar Rayan, Hamas, Israeli-Palestinian conflict, fire, Gaza Strip, Israel_
+_Context: Israel, Gaza Strip, Nizar Rayan, Israeli-Palestinian conflict, Jabalia, fire, Hamas_
 
 ##### serial bombings
 ### [ At least five people die and more than 50 are injured in serial bombings in Guwahati, India. ](/news/2009/01/1/at-least-five-people-die-and-more-than-50-are-injured-in-serial-bombings-in-guwahati-india.md)
@@ -13,11 +13,11 @@ _Context: Guwahati, serial bombings, India_
 
 ##### nightclub fire
 ### [ A nightclub fire in Bangkok, Thailand, kills 61 people and injures more than 200. ](/news/2009/01/1/a-nightclub-fire-in-bangkok-thailand-kills-61-people-and-injures-more-than-200.md)
-_Context: Bangkok, Thailand, nightclub fire_
+_Context: Thailand, Bangkok, nightclub fire_
 
 ##### Russia
 ### [ Russia's Gazprom halts deliveries of natural gas to Ukraine after negotiations over prices fail. ](/news/2009/01/1/russia-s-gazprom-halts-deliveries-of-natural-gas-to-ukraine-after-negotiations-over-prices-fail.md)
-_Context: natural gas, Russia, Ukraine, Gazprom, Russia-Ukraine gas disputes_
+_Context: Russia, Russia-Ukraine gas disputes, Ukraine, Gazprom, natural gas_
 
 ##### Slovakia
 ### [ Slovakia adopts the euro and becomes the 16th member of the Eurozone. ](/news/2009/01/1/slovakia-adopts-the-euro-and-becomes-the-16th-member-of-the-eurozone.md)
@@ -25,7 +25,7 @@ Slovakia joined the euro on Thursday, hoping that membership of the single curre
 
 ##### shooting of Oscar Grant
 ### [ A man is shot and killed at California's Fruitvale BART station by a Bay Area Rapid Transit officer. ](/news/2009/01/1/a-man-is-shot-and-killed-at-california-s-fruitvale-bart-station-by-a-bay-area-rapid-transit-officer.md)
-_Context: BART, California, shooting of Oscar Grant, Fruitvale BART station_
+_Context: California, Fruitvale BART station, BART, shooting of Oscar Grant_
 
 ##### Virgin Galactic's
 ### [ Virgin Galactic and the U.S. state of New Mexico sign a US$150-250 million agreement to launch sub-orbital commercial space flights at Spaceport America, near Las Cruces and Truth or Consequences. ](/news/2009/01/1/virgin-galactic-and-the-u-s-state-of-new-mexico-sign-a-us-150-250-million-agreement-to-launch-sub-orbital-commercial-space-flights-at-spac.md)

@@ -9,15 +9,15 @@ Syrian president has set up committees to look into deaths of protesters and rep
 
 ##### Laurent Gbagbo
 ### [Disputed President Laurent Gbagbo's army chief Phillippe Mangou seeks refuge in the South African ambassador's home in Abidjan. ](/news/2011/03/31/disputed-president-laurent-gbagbo-s-army-chief-phillippe-mangou-seeks-refuge-in-the-south-african-ambassador-s-home-in-abidjan.md)
-_Context: Laurent Gbagbo, South Africa, Abidjan, Phillippe Mangou_
+_Context: Phillippe Mangou, South Africa, Laurent Gbagbo, Abidjan_
 
 ##### James Franco
 ### ["'James Franco"' appears on the "Late Show with David Letterman", speaking publicly for the first time about his hosting performance on the 83rd Academy Awards. ](/news/2011/03/31/james-franco-appears-on-the-late-show-with-david-letterman-speaking-publicly-for-the-first-time-about-his-hosting-performance-on-the.md)
-_Context: 83rd Academy Awards, James Franco, Late Show with David Letterman_
+_Context: Late Show with David Letterman, James Franco, 83rd Academy Awards_
 
 ##### Google
 ### [Google agrees with the U.S. Federal Trade Commission to have an independent privacy audit every couple of years as a result of problems with the Google Buzz social network. ](/news/2011/03/31/google-agrees-with-the-u-s-federal-trade-commission-to-have-an-independent-privacy-audit-every-couple-of-years-as-a-result-of-problems-with.md)
-_Context: Google, social network, Google Buzz, U.S. Federal Trade Commission_
+_Context: Google Buzz, Google, social network, U.S. Federal Trade Commission_
 
 ##### U.S.
 ### [The U.S. Secretary of the Treasury, Timothy Geithner, says at a meeting in Nanjing, China that the "most important problem" in the world's monetary system is that some countries refuse to allow the free flow of the value of their currency. ](/news/2011/03/31/the-u-s-secretary-of-the-treasury-timothy-geithner-says-at-a-meeting-in-nanjing-china-that-the-most-important-problem-in-the-world-s-m.md)
@@ -29,7 +29,7 @@ _Context: Vietnam, Hanoi_
 
 ##### flood
 ### [The death toll from flooding in Southern Thailand rises to thirteen. ](/news/2011/03/31/the-death-toll-from-flooding-in-southern-thailand-rises-to-thirteen.md)
-_Context: Southern Thailand, flood_
+_Context: flood, Southern Thailand_
 
 ##### Perlis
 ### [Thousands of people are evacuated in Perlis, northern Malaysia, due to flooding. ](/news/2011/03/31/thousands-of-people-are-evacuated-in-perlis-northern-malaysia-due-to-flooding.md)
@@ -41,19 +41,19 @@ _Context: Fukushima I Nuclear Power Plant_
 
 ##### ASEAN
 ### [Defense chiefs from ASEAN countries agree on information sharing at a conference in Indonesia. ](/news/2011/03/31/defense-chiefs-from-asean-countries-agree-on-information-sharing-at-a-conference-in-indonesia.md)
-_Context: ASEAN, Indonesia_
+_Context: Indonesia, ASEAN_
 
 ##### Muammar Gaddafi
 ### [The Gaddafi government in Libya asks former Nicaraguan foreign minister Miguel d'Escoto Brockmann to represent it in the United Nations. ](/news/2011/03/31/the-gaddafi-government-in-libya-asks-former-nicaraguan-foreign-minister-miguel-d-escoto-brockmann-to-represent-it-in-the-united-nations.md)
-_Context: Miguel d'Escoto Brockmann, United Nations, Muammar Gaddafi, Nicaragua, Libya_
+_Context: Nicaragua, Muammar Gaddafi, Miguel d'Escoto Brockmann, United Nations, Libya_
 
 ##### Afghanistan
 ### [43 Afghan migrants on their way to Australia are detained by Indonesian authorities. ](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-are-detained-by-indonesian-authorities.md)
-_Context: Australia, Indonesia, Afghanistan_
+_Context: Afghanistan, Indonesia, Australia_
 
 ##### Philippine
 ### [Philippine authorities are to seek long jail terms for six Chinese poachers as part of a crackdown on foreigners stealing marine wildlife. ](/news/2011/03/31/philippine-authorities-are-to-seek-long-jail-terms-for-six-chinese-poachers-as-part-of-a-crackdown-on-foreigners-stealing-marine-wildlife.md)
-_Context: China, Philippine_
+_Context: Philippine, China_
 
 ##### Taoiseach
 ### [Taoiseach Enda Kenny confirms that disgraced former minister Michael Lowry is to be censured by Dail Eireann today without any discussion of the matter, following two days of debate on the tribunal's findings. ](/news/2011/03/31/taoiseach-enda-kenny-confirms-that-disgraced-former-minister-michael-lowry-is-to-be-censured-by-da-il-aireann-today-without-any-discussion.md)
@@ -69,11 +69,11 @@ Austria police have arrested a man suspected of robbing banks while wearing a ma
 
 ##### lynch mob
 ### [A lynch mob in the Guatemalan village of La Democracia kills three men for allegedly stealing a truck full of coffee. ](/news/2011/03/31/a-lynch-mob-in-the-guatemalan-village-of-la-democracia-kills-three-men-for-allegedly-stealing-a-truck-full-of-coffee.md)
-_Context: La Democracia, Guatemala, lynch mob, truck_
+_Context: Guatemala, truck, lynch mob, La Democracia_
 
 ##### The 5 Browns
 ### [Keith Brown, the former manager and father of The 5 Browns classical music group is sentenced for ten years for sexual abuse of his daughters. ](/news/2011/03/31/keith-brown-the-former-manager-and-father-of-the-5-browns-classical-music-group-is-sentenced-for-ten-years-for-sexual-abuse-of-his-daughter.md)
-_Context: sexual abuse, The 5 Browns_
+_Context: The 5 Browns, sexual abuse_
 
 ##### Labour Party
 ### [Former British Labour MP Jim Devine is jailed for 16 months for fraudulently claiming GBP8,385 in expenses. ](/news/2011/03/31/former-british-labour-mp-jim-devine-is-jailed-for-16-months-for-fraudulently-claiming-agbp8-385-in-expenses.md)
@@ -89,7 +89,7 @@ COLUMBUS—Gov. John Kasich plans to follow through on Thursday night with his p
 
 ##### Paleontologist
 ### [Paleontologists announce the discovery of Zhuchengtyrannus, a large dinosaur from Zucheng, Shandong Province in China. ](/news/2011/03/31/paleontologists-announce-the-discovery-of-zhuchengtyrannus-a-large-dinosaur-from-zucheng-shandong-province-in-china.md)
-_Context: Zucheng, Paleontologist, Shandong Province, dinosaur, Zhuchengtyrannus_
+_Context: Zhuchengtyrannus, Paleontologist, Zucheng, Shandong Province, dinosaur_
 
 ## [Previous Day...](/news/2011/03/30/index.md)
 

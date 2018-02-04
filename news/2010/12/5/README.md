@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/5/index.html)  [JSON](2010/12/5/index.json)  [XML](2010/
 
 ##### WikiLeaks
 ### [The WikiLeaks website is forced offline again. ](/news/2010/12/5/the-wikileaks-website-is-forced-offline-again.md)
-_Context: cyber-war, WikiLeaks_
+_Context: WikiLeaks, cyber-war_
 
 ##### Afghanistan
 ### [A blast at an army base in eastern Afghanistan kills at least two soldiers and two civilians. ](/news/2010/12/5/a-blast-at-an-army-base-in-eastern-afghanistan-kills-at-least-two-soldiers-and-two-civilians.md)
@@ -13,7 +13,7 @@ _Context: Afghanistan_
 
 ##### Nigerian
 ### [The Nigerian military acknowledges that raids to root out armed gangs in the Niger Delta may have killed civilians. ](/news/2010/12/5/the-nigerian-military-acknowledges-that-raids-to-root-out-armed-gangs-in-the-niger-delta-may-have-killed-civilians.md)
-_Context: Nigerian, Niger Delta_
+_Context: Niger Delta, Nigerian_
 
 ##### Somalia
 ### [Over 100 people are killed in battles throughout Somalia between Islamist rebels and African Union forces over the past three days. ](/news/2010/12/5/over-100-people-are-killed-in-battles-throughout-somalia-between-islamist-rebels-and-african-union-forces-over-the-past-three-days.md)
@@ -29,11 +29,11 @@ A newly-discovered poem by Philip Larkin will be heard for the first time on a B
 
 ##### Roman Polanski
 ### [Roman Polanski's "The Ghost Writer" wins six prizes at the European Film Awards in Estonia, with the director appearing from Paris via Skype. ](/news/2010/12/5/roman-polanski-s-the-ghost-writer-wins-six-prizes-at-the-european-film-awards-in-estonia-with-the-director-appearing-from-paris-via-skype.md)
-_Context: The Ghost Writer, Paris, European Film Awards, Roman Polanski, Estonia, Skype_
+_Context: Roman Polanski, European Film Awards, Skype, Estonia, Paris, The Ghost Writer_
 
 ##### Nicole Faria
 ### [20-year-old Nicole Faria from Bangalore, Miss India, wins the Miss Earth 2010 crown in Vinpearl Land, Nha Trang, Vietnam. ](/news/2010/12/5/20-year-old-nicole-faria-from-bangalore-miss-india-wins-the-miss-earth-2010-crown-in-vinpearl-land-nha-trang-vietnam.md)
-_Context: Vinpearl Land, Vietnam, Miss India, Miss Earth 2010, Bangalore, Nicole Faria, Nha Trang_
+_Context: Miss Earth 2010, Bangalore, Vietnam, Nicole Faria, Nha Trang, Miss India, Vinpearl Land_
 
 ##### International Labour Organisation
 ### [The International Labour Organisation asks Gulf states to reform labour laws related to millions of foreign workers and urges the introduction of a minimum wage. ](/news/2010/12/5/the-international-labour-organisation-asks-gulf-states-to-reform-labour-laws-related-to-millions-of-foreign-workers-and-urges-the-introducti.md)
@@ -45,7 +45,7 @@ The death toll from weeks of heavy rains across Colombia has risen to 174 and ov
 
 ##### prairie
 ### [22 people are killed in a prairie fire in Daofu County, Sichuan, China. ](/news/2010/12/5/22-people-are-killed-in-a-prairie-fire-in-daofu-county-sichuan-china.md)
-_Context: Daofu County, prairie, Sichuan_
+_Context: Daofu County, Sichuan, prairie_
 
 ##### Kaili
 ### [At least 6 people are killed and 36 wounded after an explosion in the city of Kaili, Guizhou province, China. ](/news/2010/12/5/at-least-6-people-are-killed-and-36-wounded-after-an-explosion-in-the-city-of-kaili-guizhou-province-china.md)
@@ -57,7 +57,7 @@ Italian police say they have arrested a man after his car ploughed into a group 
 
 ##### Australia
 ### [Hundreds of people evacuate the Australian town of Wagga Wagga as flood waters rise throughout New South Wales. ](/news/2010/12/5/hundreds-of-people-evacuate-the-australian-town-of-wagga-wagga-as-flood-waters-rise-throughout-new-south-wales.md)
-_Context: NSW, Australia, Wagga Wagga_
+_Context: Australia, Wagga Wagga, NSW_
 
 ##### 
 ### [7 people are rescued after becoming stranded for 8 days in a pub in England. ](/news/2010/12/5/7-people-are-rescued-after-becoming-stranded-for-8-days-in-a-pub-in-england.md)
@@ -71,11 +71,11 @@ Body of German tourist washes up on shore of Sharm el-Sheikh, just days after fo
 
 ##### Palestine
 ### [Brazil recognizes the State of Palestine based on borders at the time of Israel's 1967 conquest of the West Bank. ](/news/2010/12/5/brazil-recognizes-the-state-of-palestine-based-on-borders-at-the-time-of-israel-s-1967-conquest-of-the-west-bank.md)
-_Context: West Bank, Palestine_
+_Context: Palestine, West Bank_
 
 ##### United States
 ### [Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapatero-causing-rolls-royce-to-lose-an-i.md)
-_Context: United States, Jose Luis Rodriguez Zapatero, Rolls-Royce_
+_Context: Rolls-Royce, United States, Jose Luis Rodriguez Zapatero_
 
 ##### Hong Kong
 ### [Hundreds of people march in Hong Kong to demand the release of Chinese dissident Liu Xiaobo ahead of the Nobel Prize ceremony on Friday. ](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.md)

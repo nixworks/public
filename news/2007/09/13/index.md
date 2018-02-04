@@ -9,31 +9,31 @@ _Context: Miami_
 
 ##### Google
 ### [ Google sponsors a US$30 million spaceflight contest to land a robotic lander on the moon and beam back a gigabyte of images and videos to earth. ](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.md)
-_Context: earth, $, gigabyte, moon, spaceflight, Google_
+_Context: Google, spaceflight, earth, gigabyte, $, moon_
 
 ##### 2007
 ### [ 2007 Atlantic hurricane season: Tropical Storm Ingrid forms in the Atlantic Ocean 800 miles from the outer Caribbean islands. ](/news/2007/09/13/2007-atlantic-hurricane-season-tropical-storm-ingrid-forms-in-the-atlantic-ocean-800-miles-from-the-outer-caribbean-islands.md)
-_Context: Atlantic Ocean, 2007, Caribbean_
+_Context: Atlantic Ocean, Caribbean, 2007_
 
 ##### Ethiopia
 ### [ Ethiopia will deploy 5,000 troops as part of a joint United Nations - African Union mission in the Darfur region of Sudan. ](/news/2007/09/13/ethiopia-will-deploy-5-000-troops-as-part-of-a-joint-united-nations-african-union-mission-in-the-darfur-region-of-sudan.md)
-_Context: Ethiopia, United Nations, Sudan, African Union, Darfur_
+_Context: African Union, Sudan, Darfur, United Nations, Ethiopia_
 
 ##### United Nations General Assembly
 ### [ After deliberating for 22 years, the United Nations General Assembly adopts the non-binding Declaration on the Rights of Indigenous Peoples; 143 countries vote in favour, while 11 abstain and Australia, Canada, New Zealand and the United States vote against. ](/news/2007/09/13/after-deliberating-for-22-years-the-united-nations-general-assembly-adopts-the-non-binding-declaration-on-the-rights-of-indigenous-peoples.md)
-_Context: Canadian, Declaration on the Rights of Indigenous Peoples, United Nations General Assembly, Australia, United States, New Zealand_
+_Context: United States, Australia, Declaration on the Rights of Indigenous Peoples, Canadian, New Zealand, United Nations General Assembly_
 
 ##### Pakistani troops
 ### [ At least fifteen Pakistani Army soldiers die in a bombing at their mess at the Terbella Ghazi base north of Islamabad. ](/news/2007/09/13/at-least-fifteen-pakistani-army-soldiers-die-in-a-bombing-at-their-mess-at-the-terbella-ghazi-base-north-of-islamabad.md)
-_Context: Islamabad, Pakistani troops, Terbella Ghazi_
+_Context: Islamabad, Terbella Ghazi, Pakistani troops_
 
 ##### 2007 Formula One Season
 ### [ 2007 Formula One Season: The Fdration Internationale de l'Automobile (FIA) fines the McLaren Formula One team $US100 million and removes all its points in the Constructors' Championship. ](/news/2007/09/13/2007-formula-one-season-the-federation-internationale-de-l-automobile-fia-fines-the-mclaren-formula-one-team-us100-million-and-removes.md)
-_Context: Fdration Internationale de l'Automobile, Formula One, 2007 Formula One Season, Constructors' Championship, McLaren, $_
+_Context: Constructors' Championship, $, McLaren, 2007 Formula One Season, Formula One, Fdration Internationale de l'Automobile_
 
 ##### Alexis Debat
 ### [ Alexis Debat, a consultant for ABC News and writer at "The National Interest", alleged expert on terrorism, is forced to resign after "Rue 89" revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after-rue.md)
-_Context: Barack Obama, Alan Greenspan, terrorism, Rue 89, The National Interest, Alexis Debat, ABC News_
+_Context: terrorism, Barack Obama, The National Interest, Rue 89, Alan Greenspan, ABC News, Alexis Debat_
 
 ##### Rita Verdonk
 ### [ Rita Verdonk, a controversial and popular Dutch politician, is expelled from the VVD. ](/news/2007/09/13/rita-verdonk-a-controversial-and-popular-dutch-politician-is-expelled-from-the-vvd.md)

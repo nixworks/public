@@ -21,7 +21,7 @@ A U.S. missile strike killed seven militants Thursday in a Pakistani region clos
 
 ##### European Union
 ### [European Union leaders agree to change the constitution to establish a mechanism to tackle sovereign debt problems. ](/news/2010/12/16/european-union-leaders-agree-to-change-the-constitution-to-establish-a-mechanism-to-tackle-sovereign-debt-problems.md)
-_Context: sovereign debt, constitution, European Union_
+_Context: constitution, sovereign debt, European Union_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund approves a 22.5bn euro loan to the Republic of Ireland. ](/news/2010/12/16/the-international-monetary-fund-approves-a-22-5bn-euro-loan-to-the-republic-of-ireland.md)
@@ -33,11 +33,11 @@ The International Monetary Fund approves a 22.5bn-euro three-year loan for the R
 
 ##### Yahoo!
 ### [Yahoo! announces plans to axe 600 jobs and phase out services such as Delicious. ](/news/2010/12/16/yahoo-announces-plans-to-axe-600-jobs-and-phase-out-services-such-as-delicious.md)
-_Context: Delicious, Yahoo!_
+_Context: Yahoo!, Delicious_
 
 ##### Hangzhou
 ### [Six people were killed and a dozen injured when two buses collided in Hangzhou City, east China's Zhejiang Province, China. ](/news/2010/12/16/six-people-were-killed-and-a-dozen-injured-when-two-buses-collided-in-hangzhou-city-east-china-s-zhejiang-province-china.md)
-_Context: Hangzhou, Zhejiang_
+_Context: Zhejiang, Hangzhou_
 
 ##### Christmas Island
 ### [The death toll from the Christmas Island boat wreck rises to 28 as the search for survivors continues. ](/news/2010/12/16/the-death-toll-from-the-christmas-island-boat-wreck-rises-to-28-as-the-search-for-survivors-continues.md)
@@ -53,11 +53,11 @@ New Brunswick is promising financial help for people whose homes and businesses 
 
 ##### Lake-effect snow
 ### [One person is killed by Lake effect snowsqualls from Lake Huron on Highway 402 in Southwestern Ontario as the Canadian military rescues people trapped under snowdrifts for over a day. ](/news/2010/12/16/one-person-is-killed-by-lake-effect-snowsqualls-from-lake-huron-on-highway-402-in-southwestern-ontario-as-the-canadian-military-rescues-peop.md)
-_Context: Lake Huron, snowdrift, Lake-effect snow, Southwestern Ontario, Highway 402, snowsquall, Canadian military_
+_Context: Canadian military, snowdrift, snowsquall, Lake Huron, Southwestern Ontario, Lake-effect snow, Highway 402_
 
 ##### Governor
 ### [Governor of the U.S. state of New Mexico Bill Richardson arrives in Pyongyang for talks with North Korean officials concerning the situation on the Korean peninsula. ](/news/2010/12/16/governor-of-the-u-s-state-of-new-mexico-bill-richardson-arrives-in-pyongyang-for-talks-with-north-korean-officials-concerning-the-situation.md)
-_Context: Pyongyang, Korean peninsula, Bill Richardson, New Mexico, Governor, North Korea_
+_Context: Bill Richardson, Governor, North Korea, Korean peninsula, New Mexico, Pyongyang_
 
 ##### WikiLeaks
 ### [WikiLeaks founder Julian Assange appears in the British High Court of Justice to successfully apply for bail on sexual assault charges. ](/news/2010/12/16/wikileaks-founder-julian-assange-appears-in-the-british-high-court-of-justice-to-successfully-apply-for-bail-on-sexual-assault-charges.md)
@@ -69,7 +69,7 @@ Officials in Oklahoma execute a prison inmate using a drug cocktail that include
 
 ##### Malaysia
 ### [Malaysian opposition leader Anwar Ibrahim and three others are suspended from parliament for six months after allegedly suggesting a government unity policy was inspired by an Israeli initiative. ](/news/2010/12/16/malaysian-opposition-leader-anwar-ibrahim-and-three-others-are-suspended-from-parliament-for-six-months-after-allegedly-suggesting-a-governm.md)
-_Context: Malaysia, Israel, Anwar Ibrahim_
+_Context: Malaysia, Anwar Ibrahim, Israel_
 
 ##### Chinese Academy of Social Sciences
 ### [The Chinese Academy of Social Sciences says social discontent among the population has increased. ](/news/2010/12/16/the-chinese-academy-of-social-sciences-says-social-discontent-among-the-population-has-increased.md)
@@ -93,7 +93,7 @@ Students from England, Wales and Northern Ireland who go to Scottish universitie
 
 ##### Government of Northern Ireland
 ### [The Government of Northern Ireland announces an inquiry into child abuse inside institutions. ](/news/2010/12/16/the-government-of-northern-ireland-announces-an-inquiry-into-child-abuse-inside-institutions.md)
-_Context: Government of Northern Ireland, child abuse_
+_Context: child abuse, Government of Northern Ireland_
 
 ##### Mdog
 ### [The Galongla Tunnel, built at an altitude of 3,750 meters, is completed; it links Tibet's Mdog county to the outside world. ](/news/2010/12/16/the-galongla-tunnel-built-at-an-altitude-of-3-750-meters-is-completed-it-links-tibet-s-medog-county-to-the-outside-world.md)

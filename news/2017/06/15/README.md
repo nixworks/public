@@ -25,7 +25,7 @@ New rules mean EU citizens can call, text and browse the internet for the same p
 
 ##### Government of Serbia
 ### [Serbian president Aleksandar Vucic nominates Ana Brnabic as the next Prime Minister of Serbia. If confirmed by the National Assembly, Brnabic will become Serbia's first female and lesbian Prime Minister. ](/news/2017/06/15/serbian-president-aleksandar-vuaia-nominates-ana-brnabia-as-the-next-prime-minister-of-serbia-if-confirmed-by-the-national-assembly-brn.md)
-_Context: Serbia, National Assembly, Ana Brnabic, Government of Serbia, Aleksandar Vucic, Prime Minister of Serbia_
+_Context: Serbia, Government of Serbia, Ana Brnabic, Prime Minister of Serbia, Aleksandar Vucic, National Assembly_
 
 ## [Previous Day...](/news/2017/06/14/index.md)
 

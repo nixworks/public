@@ -9,11 +9,11 @@ Eight soldiers are killed in an ambush in northern Paraguay in an attack blamed 
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [Suspected Kurdish militants fire rockets at Diyarbakir Airport in Diyarbakir, Turkey. ](/news/2016/08/27/suspected-kurdish-militants-fire-rockets-at-diyarbaka-r-airport-in-diyarbaka-r-turkey.md)
-_Context: Turkish, Kurdish-Turkish conflict (2015-present), Diyarbakir, Diyarbakir Airport, Kurds_
+_Context: Turkish, Diyarbakir, Diyarbakir Airport, Kurds, Kurdish-Turkish conflict (2015-present)_
 
 ##### Moscow
 ### [A fire at a warehouse in Moscow, Russia, kills at least 17 people, all migrant workers from Kyrgyzstan. The Investigative Committee of Russia, which reports directly to President Vladimir Putin, says a criminal inquiry has been launched. ](/news/2016/08/27/a-fire-at-a-warehouse-in-moscow-russia-kills-at-least-17-people-all-migrant-workers-from-kyrgyzstan-the-investigative-committee-of-russi.md)
-_Context: Moscow, Russian President, Vladimir Putin, Kyrgyzstan, Russia, Investigative Committee of Russia_
+_Context: Moscow, Russian President, Kyrgyzstan, Investigative Committee of Russia, Russia, Vladimir Putin_
 
 ##### Northern Territory general election, 2016
 ### [ The opposition Australian Labor Party defeats the governing Country Liberal Party in a landslide, reducing the CLP to just two seats. ](/news/2016/08/27/the-opposition-australian-labor-party-defeats-the-governing-country-liberal-party-in-a-landslide-reducing-the-clp-to-just-two-seats.md)

@@ -13,7 +13,7 @@ _Context: British Army, Afghanistan_
 
 ##### Valerie Amos
 ### [Valerie Amos, the United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, visits the Baba Amr district in the Syrian city of Homs. ](/news/2012/03/7/valerie-amos-the-united-nations-under-secretary-general-for-humanitarian-affairs-and-emergency-relief-coordinator-visits-the-baba-amr-dist.md)
-_Context: Syria, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations, Homs, Valerie Amos_
+_Context: Valerie Amos, United Nations, Homs, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, Syria_
 
 ##### series of avalanches
 ### [The death toll from a series of avalanches in Afghanistan's Badakhshan province rises to 50. ](/news/2012/03/7/the-death-toll-from-a-series-of-avalanches-in-afghanistan-s-badakhshan-province-rises-to-50.md)
@@ -21,7 +21,7 @@ _Context: Afghanistan, Badakhshan province, series of avalanches_
 
 ##### Australia
 ### [The Australian town of Yenda, New South Wales, is flooded as floodwaters move through the Murray-Darling Basin. ](/news/2012/03/7/the-australian-town-of-yenda-new-south-wales-is-flooded-as-floodwaters-move-through-the-murrayadarling-basin.md)
-_Context: Yenda, New South Wales, Murray-Darling Basin, Australia_
+_Context: Murray-Darling Basin, Yenda, New South Wales, Australia_
 
 ##### Sweden
 ### [Swedish media report that the country has been helping Saudi Arabia plan the construction of a weapons factory. ](/news/2012/03/7/swedish-media-report-that-the-country-has-been-helping-saudi-arabia-plan-the-construction-of-a-weapons-factory.md)
@@ -29,7 +29,7 @@ Opposition condemns government after broadcaster reveals documents said to show 
 
 ##### Indian police
 ### [Indian police arrest a freelance journalist for alleged involvement in a bombing incident last month in New Delhi targeting an Israeli diplomat's wife. ](/news/2012/03/7/indian-police-arrest-a-freelance-journalist-for-alleged-involvement-in-a-bombing-incident-last-month-in-new-delhi-targeting-an-israeli-diplo.md)
-_Context: Israel, New Delhi, Indian police_
+_Context: Indian police, New Delhi, Israel_
 
 ##### China
 ### [China describes Tibetan monks that have self-immolated as "criminals" and accuses the Dalai Lama of supporting the acts. ](/news/2012/03/7/china-describes-tibetan-monks-that-have-self-immolated-as-criminals-and-accuses-the-dalai-lama-of-supporting-the-acts.md)
@@ -41,7 +41,7 @@ Mustafa Abdel Jalil accuses Arab countries of funding effort to carve out easter
 
 ##### Sweden
 ### [Sweden's Prime Minister Fredrik Reinfeldt and his wife, Stockholm county council chair Filippa Reinfeldt, separate after two decades of marriage. ](/news/2012/03/7/sweden-s-prime-minister-fredrik-reinfeldt-and-his-wife-stockholm-county-council-chair-filippa-reinfeldt-separate-after-two-decades-of-marr.md)
-_Context: Stockholm county council, prime minister, Filippa Reinfeldt, Fredrik Reinfeldt, Sweden_
+_Context: Fredrik Reinfeldt, Sweden, Filippa Reinfeldt, prime minister, Stockholm county council_
 
 ##### solar flare
 ### [The biggest solar flare in five years that occurred on March 6 nears Earth with the capacity to disrupt power grids, GPS systems and airline flights. ](/news/2012/03/7/the-biggest-solar-flare-in-five-years-that-occurred-on-march-6-nears-earth-with-the-capacity-to-disrupt-power-grids-gps-systems-and-airline.md)

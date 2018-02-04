@@ -33,15 +33,15 @@ Will the mainstream media retract stories about ice levels falling?
 
 ##### US Deputy Secretary of State
 ### [The US Deputy Secretary of State William Burns meets with government officials in Libya about last week's deadly attack at the US consulate in Benghazi. ](/news/2012/09/20/the-us-deputy-secretary-of-state-william-burns-meets-with-government-officials-in-libya-about-last-week-s-deadly-attack-at-the-us-consulate.md)
-_Context: government officials, US Deputy Secretary of State, attack on the U.S. Consulate in Benghazi, Libya, Libya_
+_Context: attack on the U.S. Consulate in Benghazi, Libya, Libya, US Deputy Secretary of State, government officials_
 
 ##### Foreign Ministry
 ### [Russia's Foreign Ministry bans the United States Agency for International Development from operating in the country, saying that it had meddled in recent elections. ](/news/2012/09/20/russia-s-foreign-ministry-bans-the-united-states-agency-for-international-development-from-operating-in-the-country-saying-that-it-had-medd.md)
-_Context: USAID, Foreign Ministry, recent elections_
+_Context: Foreign Ministry, recent elections, USAID_
 
 ##### Daniel "El Loco" Barrera
 ### [Daniel "El Loco" Barrera, a Colombian crime boss accused of alliances with guerrilla groups and drug trafficking crimes, is captured in San Cristobal, Venezuela. ](/news/2012/09/20/daniel-el-loco-barrera-a-colombian-crime-boss-accused-of-alliances-with-guerrilla-groups-and-drug-trafficking-crimes-is-captured-in-san.md)
-_Context: drug lord, Venezuela, San Cristobal, Colombian crime boss, Daniel "El Loco" Barrera_
+_Context: drug lord, Colombian crime boss, Venezuela, San Cristobal, Daniel "El Loco" Barrera_
 
 ##### Bahrain
 ### [The government of Bahrain pledges to adopt most of the recommendations in a United Nations report on the country's human rights situation. ](/news/2012/09/20/the-government-of-bahrain-pledges-to-adopt-most-of-the-recommendations-in-a-united-nations-report-on-the-country-s-human-rights-situation.md)
@@ -61,7 +61,7 @@ _Context: Hamid Karzai, Mohammad Gulab Mangal, Afghanistan_
 
 ##### Tim Pawlenty
 ### [Tim Pawlenty resigns as the co-chairman of Mitt Romney's electoral campaign. He is to head the Financial Services Roundtable in Washington, D.C.. ](/news/2012/09/20/tim-pawlenty-resigns-as-the-co-chairman-of-mitt-romney-s-electoral-campaign-he-is-to-head-the-financial-services-roundtable-in-washington.md)
-_Context: Financial Services Roundtable, Washington, D.C., Tim Pawlenty, Mitt Romney_
+_Context: Financial Services Roundtable, Tim Pawlenty, Mitt Romney, Washington, D.C._
 
 ##### University of Nebraska-Lincoln
 ### [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraskaalincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md)

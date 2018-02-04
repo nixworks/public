@@ -5,7 +5,7 @@ Formats: [HTML](2007/04/2/index.html)  [JSON](2007/04/2/index.json)  [XML](2007/
 
 ##### Ukrainian President
 ### [ President of Ukraine Viktor Yushchenko dissolves the parliament during a nationally televised speech, calling for parliamentary elections on 27 May 2007. ](/news/2007/04/2/president-of-ukraine-viktor-yushchenko-dissolves-the-parliament-during-a-nationally-televised-speech-calling-for-parliamentary-elections-o.md)
-_Context: parliament, Viktor Yushchenko, Ukrainian parliamentary election, 2007, Ukrainian President_
+_Context: Ukrainian parliamentary election, 2007, parliament, Viktor Yushchenko, Ukrainian President_
 
 ##### India
 ### [ India's Foreign Secretary, Shivshankar Menon, says that Iran is likely to get an observer status in the South Asian Association for Regional Cooperation. ](/news/2007/04/2/india-s-foreign-secretary-shivshankar-menon-says-that-iran-is-likely-to-get-an-observer-status-in-the-south-asian-association-for-regiona.md)
@@ -13,7 +13,7 @@ Iran is set to be the new observer at Saarc and, apart from the UN, may end up s
 
 ##### 2007 Solomon Islands earthquake
 ### [ An earthquake and the resultant tsunami strike the Solomon Islands, killing at least 15 people. ](/news/2007/04/2/an-earthquake-and-the-resultant-tsunami-strike-the-solomon-islands-killing-at-least-15-people.md)
-_Context: 2007 Solomon Islands earthquake, Solomon Islands_
+_Context: Solomon Islands, 2007 Solomon Islands earthquake_
 
 ##### University of Florida
 ### [ The University of Florida Gators defeat the Ohio State Buckeyes 84-75 in the 2007 NCAA Men's Division I Basketball Tournament championship game, becoming the first school in Division I history to win both the men's college basketball and college football titles in the same academic year. ](/news/2007/04/2/the-university-of-florida-gators-defeat-the-ohio-state-buckeyes-84-75-in-the-2007-ncaa-men-s-division-i-basketball-tournament-championship.md)
@@ -33,11 +33,11 @@ _Context: Cambodian People's Party_
 
 ##### Singapore
 ### [ Singapore Foreign Minister George Yeo meets his Myanmar counterpart, Nyan Win, in Yangon, where the ministers are discussing bilateral cooperation and cultural exchanges. ](/news/2007/04/2/singapore-foreign-minister-george-yeo-meets-his-myanmar-counterpart-nyan-win-in-yangon-where-the-ministers-are-discussing-bilateral-coop.md)
-_Context: Nyan Win, Yangon, Myanmar, Singapore, George Yeo_
+_Context: George Yeo, Singapore, Myanmar, Nyan Win, Yangon_
 
 ##### Panthongtae
 ### [ Panthongtae and Pinthongta Shinawatra, the son and daughter of deposed prime minister of Thailand Thaksin Shinawatra are ordered to pay 10 billion baht in back taxes owed in connection with the sale of Shin Corporation stock to Temasek Holdings. ](/news/2007/04/2/panthongtae-and-pinthongta-shinawatra-the-son-and-daughter-of-deposed-prime-minister-of-thailand-thaksin-shinawatra-are-ordered-to-pay-10.md)
-_Context: Thailand, Shin Corporation, Temasek Holdings, Pinthongta Shinawatra, baht, Thaksin Shinawatra, Panthongtae_
+_Context: Shin Corporation, Thailand, Thaksin Shinawatra, Panthongtae, Pinthongta Shinawatra, baht, Temasek Holdings_
 
 ##### Microsoft
 ### [ Microsoft co-founder Bill Gates is in Vietnam, touring medical clinics as he looks to support the development of vaccines for children through the Bill and Melinda Gates Foundation. ](/news/2007/04/2/microsoft-co-founder-bill-gates-is-in-vietnam-touring-medical-clinics-as-he-looks-to-support-the-development-of-vaccines-for-children-thro.md)

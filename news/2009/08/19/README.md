@@ -13,15 +13,15 @@ _Context: Sierra Leone_
 
 ##### United States
 ### [ The United States and Switzerland sign an agreement designed to end a tax evasion dispute surrounding UBS U.S. customers. ](/news/2009/08/19/the-united-states-and-switzerland-sign-an-agreement-designed-to-end-a-tax-evasion-dispute-surrounding-ubs-u-s-customers.md)
-_Context: United States, Switzerland, UBS_
+_Context: Switzerland, UBS, United States_
 
 ##### Spain
 ### [ Spanish police capture two suspected members, Aitzol Etxaburu and Andoni Sarasola, of the Basque-region separatist group ETA. ](/news/2009/08/19/spanish-police-capture-two-suspected-members-aitzol-etxaburu-and-andoni-sarasola-of-the-basque-region-separatist-group-eta.md)
-_Context: Basque, Spain, ETA_
+_Context: Spain, Basque, ETA_
 
 ##### John Marek
 ### [ John Marek becomes the 68th death row inmate in the state of Florida, United States to be executed by lethal injection since the death sentence was re-instated in 1979.](/news/2009/08/19/john-marek-becomes-the-68th-death-row-inmate-in-the-state-of-florida-united-states-to-be-executed-by-lethal-injection-since-the-death-sent.md)
-_Context: since the death sentence was re-instated in 1979, lethal injection, John Marek, the state, United States_
+_Context: lethal injection, the state, since the death sentence was re-instated in 1979, United States, John Marek_
 
 ## [Previous Day...](/news/2009/08/18/index.md)
 

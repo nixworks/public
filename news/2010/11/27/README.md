@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/27/index.html)  [JSON](2010/11/27/index.json)  [XML](201
 
 ##### Nanjing
 ### [Seven people are killed after steel box girders used for building an overpass overturn in Nanjing, China. ](/news/2010/11/27/seven-people-are-killed-after-steel-box-girders-used-for-building-an-overpass-overturn-in-nanjing-china.md)
-_Context: China, Nanjing_
+_Context: Nanjing, China_
 
 ##### Saeedabad, Karachi
 ### [Christians flee from their homes in Saeedabad, Karachi, following violence sparked by a Muslim-Christian marriage. ](/news/2010/11/27/christians-flee-from-their-homes-in-saeedabad-karachi-following-violence-sparked-by-a-muslim-christian-marriage.md)
@@ -33,11 +33,11 @@ PAKISTANI Muslims have threatened anarchy if the Government pardons a Christian 
 
 ##### Cte d'Ivoire
 ### [Cte d'Ivoire President Laurent Gbagbo declares a curfew, amid clashes that killed three people ahead of the second round of the presidential election on Sunday. ](/news/2010/11/27/cote-d-ivoire-president-laurent-gbagbo-declares-a-curfew-amid-clashes-that-killed-three-people-ahead-of-the-second-round-of-the-presidentia.md)
-_Context: 2010 presidential election, Cte d'Ivoire, Laurent Gbagbo_
+_Context: Laurent Gbagbo, Cte d'Ivoire, 2010 presidential election_
 
 ##### Japan
 ### [Two Japanese ministers are censured by the House of Councillors over a territorial dispute with China. ](/news/2010/11/27/two-japanese-ministers-are-censured-by-the-house-of-councillors-over-a-territorial-dispute-with-china.md)
-_Context: China, censured, House of Councillors, Japan_
+_Context: Japan, censured, House of Councillors, China_
 
 ##### Australia
 ### [Voters in the Australian state of Victoria go to the polls for the state election. ](/news/2010/11/27/voters-in-the-australian-state-of-victoria-go-to-the-polls-for-the-state-election.md)
@@ -45,15 +45,15 @@ Like a stallion known for its strong final sprint, the Coalition has trailed Lab
 
 ##### Ed Miliband
 ### [Ed Miliband launches a two-year review of British Labour Party policy, saying that the Party must move beyond New Labour and calling on activists to make it the "People's Party" again. ](/news/2010/11/27/ed-miliband-launches-a-two-year-review-of-british-labour-party-policy-saying-that-the-party-must-move-beyond-new-labour-and-calling-on-acti.md)
-_Context: Labour Party, Ed Miliband_
+_Context: Ed Miliband, Labour Party_
 
 ##### march
 ### [Tens of thousands of people march through Dublin in protest at the Irish government's austerity measures. ](/news/2010/11/27/tens-of-thousands-of-people-march-through-dublin-in-protest-at-the-irish-government-s-austerity-measures.md)
-_Context: march, Government of Ireland, Dublin_
+_Context: Government of Ireland, Dublin, march_
 
 #####  Icelanders
 ### [ Icelanders vote for the creators of a new constitution. ](/news/2010/11/27/icelanders-vote-for-the-creators-of-a-new-constitution.md)
-_Context:  Icelanders,  creators of a new constitution_
+_Context:  creators of a new constitution,  Icelanders_
 
 ## [Previous Day...](/news/2010/11/26/index.md)
 

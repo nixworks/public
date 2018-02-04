@@ -21,7 +21,7 @@ BP Plc reached a settlement with the U.S. Department of Justice for $4 billion t
 
 ##### Midland train crash
 ### [Four people are killed and 17 others are injured in the Midland train crash after a Union Pacific train struck a parade float in Midland, Texas. ](/news/2012/11/15/four-people-are-killed-and-17-others-are-injured-in-the-midland-train-crash-after-a-union-pacific-train-struck-a-parade-float-in-midland-te.md)
-_Context: Union Pacific, Midland train crash, Midland, Texas_
+_Context: Midland, Texas, Union Pacific, Midland train crash_
 
 ##### BBC Radio 1
 ### [A former BBC Radio 1 disc jockey is detained by police in the ongoing investigation into the Jimmy Savile sexual abuse scandal. ](/news/2012/11/15/a-former-bbc-radio-1-disc-jockey-is-detained-by-police-in-the-ongoing-investigation-into-the-jimmy-savile-sexual-abuse-scandal.md)
@@ -33,7 +33,7 @@ Xi Jinping is confirmed as the man to lead China for the next decade, as reformi
 
 ##### Myanmar
 ### [The Myanmar government pardons 452 prisoners under an amnesty in a goodwill gesture before a visit by US President Barack Obama. State media said some of the people released were foreigners, though it remained unknown if any dissidents are among them at all. Human Rights Watch accuses the government of using strategically timed prisoner releases to appease the international community. ](/news/2012/11/15/the-myanmar-government-pardons-452-prisoners-under-an-amnesty-in-a-goodwill-gesture-before-a-visit-by-us-president-barack-obama-state-media.md)
-_Context: Human Rights Watch, Myanmar, Barack Obama_
+_Context: Myanmar, Human Rights Watch, Barack Obama_
 
 ##### Elections
 ### [Elections are held to choose 41 Police and Crime Commissioners in England and Wales. Three by-elections also take place in Cardiff South and Penarth, Corby and Manchester Central. ](/news/2012/11/15/elections-are-held-to-choose-41-police-and-crime-commissioners-in-england-and-wales-three-by-elections-also-take-place-in-cardiff-south-and.md)

@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### electronic music
 ### [The electronic music band Kraftwerk is not allowed to perform at a music festival in China due to unspecified "political reasons". ](/news/2013/03/29/the-electronic-music-band-kraftwerk-is-not-allowed-to-perform-at-a-music-festival-in-china-due-to-unspecified-political-reasons.md)
-_Context: electronic music, Kraftwerk, China_
+_Context: China, electronic music, Kraftwerk_
 
 ##### TV show
 ### [After 25 years on the air, the American TV show "America's Most Wanted" is cancelled. ](/news/2013/03/29/after-25-years-on-the-air-the-american-tv-show-america-s-most-wanted-is-cancelled.md)
@@ -29,15 +29,15 @@ At least three people are killed and dozens more trapped after a multi-storey bu
 
 ##### 2013 Gyama Mine landslide
 ### [2013 Gyama Mine landslide: A large landslide buries 83 gold miners in China's Tibetan Autonomous Region near Lhasa. ](/news/2013/03/29/2013-gyama-mine-landslide-a-large-landslide-buries-83-gold-miners-in-china-s-tibetan-autonomous-region-near-lhasa.md)
-_Context: landslide, Lhasa, Tibet, China, 2013 Gyama Mine landslide_
+_Context: Lhasa, Tibet, China, landslide, 2013 Gyama Mine landslide_
 
 ##### ice floes
 ### [More than 220 people are rescued from two ice floes that broke off of Latvia and were blown into the Gulf of Riga. ](/news/2013/03/29/more-than-220-people-are-rescued-from-two-ice-floes-that-broke-off-of-latvia-and-were-blown-into-the-gulf-of-riga.md)
-_Context: ice floes, Gulf of Riga, Latvia_
+_Context: Gulf of Riga, Latvia, ice floes_
 
 ##### United States Navy
 ### [A United States Navy SEAL is killed in a training accident. ](/news/2013/03/29/a-united-states-navy-seal-is-killed-in-a-training-accident.md)
-_Context: United States Navy SEAL, United States Navy_
+_Context: United States Navy, United States Navy SEAL_
 
 ##### The Journal of Pediatrics
 ### [A study published in "The Journal of Pediatrics" confirms that there is no scientific evidence of a link between vaccines and autism. ](/news/2013/03/29/a-study-published-in-the-journal-of-pediatrics-confirms-that-there-is-no-scientific-evidence-of-a-link-between-vaccines-and-autism.md)
@@ -53,7 +53,7 @@ North Korea has revealed its plans to strike targets in Hawaii and the continent
 
 ##### Pakistan
 ### [A Pakistani lawyer throws a shoe at the former President Pervez Musharraf at the Sindh High Court, as Musharraf successfully extends his bail on charges of conspiracy to murder and sacking judges. ](/news/2013/03/29/a-pakistani-lawyer-throws-a-shoe-at-the-former-president-pervez-musharraf-at-the-sindh-high-court-as-musharraf-successfully-extends-his-bai.md)
-_Context: conspiracy to murder, bail, Pervez Musharraf, Pakistan, president, Sindh High Court_
+_Context: bail, conspiracy to murder, Pakistan, Pervez Musharraf, Sindh High Court, president_
 
 ##### Sri Lanka
 ### [Several people are injured in Sri Lanka's largest city Colombo when Buddhist monks lead hundreds of people to attack a Muslim owned clothing warehouse. ](/news/2013/03/29/several-people-are-injured-in-sri-lanka-s-largest-city-colombo-when-buddhist-monks-lead-hundreds-of-people-to-attack-a-muslim-owned-clothing.md)

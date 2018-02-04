@@ -21,7 +21,7 @@ Couples could apply for marriage licenses as early as Saturday after judge says 
 
 ##### Custodian of the Two Holy Mosques
 ### [Custodian of the Two Holy Mosques King Abdullah of Saudi Arabia dies at the age of 90. His half brother Salman of Saudi Arabia succeeds him. His half brother Muqrin bin Abdulaziz Al Saud becomes the Crown Prince. ](/news/2015/01/23/custodian-of-the-two-holy-mosques-king-abdullah-of-saudi-arabia-dies-at-the-age-of-90-his-half-brother-salman-of-saudi-arabia-succeeds-him.md)
-_Context: Crown Prince, Abdullah, Muqrin bin Abdulaziz Al Saud, king, Custodian of the Two Holy Mosques, King_
+_Context: Custodian of the Two Holy Mosques, King, Muqrin bin Abdulaziz Al Saud, Abdullah, Crown Prince, king_
 
 ##### Thailand
 ### [Thailand's military-appointed legislature votes to impeach former Prime Minister Yingluck Shinawatra for her role in overseeing a government rice subsidy program that lost billions of dollars. ](/news/2015/01/23/thailand-s-military-appointed-legislature-votes-to-impeach-former-prime-minister-yingluck-shinawatra-for-her-role-in-overseeing-a-government.md)

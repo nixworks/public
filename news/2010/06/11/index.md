@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/11/index.html)  [JSON](2010/06/11/index.json)  [XML](201
 
 ##### Academy Award
 ### [From Oscar-winning blockbusters to low-budget art-house and documentary films, the 13th Shanghai International Film Festival screens films for everyone. It will feature a retrospective of films by Woody Allen and John Woo, classic movies from Japan, Canada, Germany, Italy and Ireland, as well as new Chinese cinema. ](/news/2010/06/11/from-oscar-winning-blockbusters-to-low-budget-art-house-and-documentary-films-the-13th-shanghai-international-film-festival-screens-films-f.md)
-_Context: Academy Award, Chinese cinema, Woody Allen, Shanghai International Film Festival, Italy, Japan, John Woo, Canadian, Ireland, 13th, German_
+_Context: Shanghai International Film Festival, Japan, John Woo, Academy Award, Canadian, Chinese cinema, Woody Allen, Ireland, Italy, 13th, German_
 
 ##### Osh
 ### [Riots erupt in the southern city of Osh killing at least 45, and injuring over a hundred others. The violence comes just over two months after violent riots in Bishkek toppled Kurmanbek Bakiyev's government, and only days ahead of a critical constitutional referendum. ](/news/2010/06/11/riots-erupt-in-the-southern-city-of-osh-killing-at-least-45-and-injuring-over-a-hundred-others-the-violence-comes-just-over-two-months-aft.md)
@@ -13,11 +13,11 @@ Thousands flee homes in southern region as ethnic unrest leaves more than 600 wo
 
 ##### Univision's
 ### [Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/univision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md)
-_Context: United States, Mexico, Univision's_
+_Context: Univision's, United States, Mexico_
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md)
-_Context: Naoto Kan, Japan, Prime Minister of Japan_
+_Context: Japan, Prime Minister of Japan, Naoto Kan_
 
 ##### Francois Bazaramba
 ### [Francois Bazaramba is sentenced to life imprisonment for his part in the 1994 Rwandan Genocide in Porvoo, Finland's first genocide trial. ](/news/2010/06/11/franassois-bazaramba-is-sentenced-to-life-imprisonment-for-his-part-in-the-1994-rwandan-genocide-in-porvoo-finland-s-first-genocide-trial.md)
@@ -45,7 +45,7 @@ Pope Benedict made his humblest plea for forgiveness yet for the paedophile prie
 
 ##### Round Valley High School
 ### [A small plane crashes into Round Valley High School in Eagar, Arizona with at least two casualties. ](/news/2010/06/11/a-small-plane-crashes-into-round-valley-high-school-in-eagar-arizona-with-at-least-two-casualties.md)
-_Context: Arizona, Round Valley High School, Eagar_
+_Context: Eagar, Arizona, Round Valley High School_
 
 ##### X-ray
 ### [Researchers use X-ray techniques to discover that Rose of Viterbo died from thrombus in her heart, not tuberculosis as originally thought. ](/news/2010/06/11/researchers-use-x-ray-techniques-to-discover-that-rose-of-viterbo-died-from-thrombus-in-her-heart-not-tuberculosis-as-originally-thought.md)
@@ -61,7 +61,7 @@ Two motorcyclists have been killed in the same Isle of Man TT race, the Auto Cyc
 
 ##### King George Tupou V
 ### [King George Tupou V proposes the use of nuclear energy in Tonga. ](/news/2010/06/11/king-george-tupou-v-proposes-the-use-of-nuclear-energy-in-tonga.md)
-_Context: Tonga, King George Tupou V, nuclear program_
+_Context: nuclear program, Tonga, King George Tupou V_
 
 ##### Israel
 ### [An Israeli parliamentary lobby group submits a bill, supported by 25 politicians, proposing that boycotts of Israel be outlawed. ](/news/2010/06/11/an-israeli-parliamentary-lobby-group-submits-a-bill-supported-by-25-politicians-proposing-that-boycotts-of-israel-be-outlawed.md)
@@ -69,7 +69,7 @@ What do The Pixies, Elvis Costello, and Salam Fayyad, Prime Minister of the Pale
 
 ##### Taipei
 ### [Taipei pulls its films from the Shanghai International Film Festival over fears that China would claim them. ](/news/2010/06/11/taipei-pulls-its-films-from-the-shanghai-international-film-festival-over-fears-that-china-would-claim-them.md)
-_Context: Shanghai International Film Festival, Taipei_
+_Context: Taipei, Shanghai International Film Festival_
 
 ##### Jane Fonda
 ### [Jane Fonda is awarded the Great Medal of Paris by mayor Bertrand Delanoe for her contribution to the city's art and culture during the Paris Cinema Festival. ](/news/2010/06/11/jane-fonda-is-awarded-the-great-medal-of-paris-by-mayor-bertrand-delanoa-for-her-contribution-to-the-city-s-art-and-culture-during-the-pari.md)

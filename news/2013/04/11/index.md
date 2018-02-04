@@ -5,11 +5,11 @@ Formats: [HTML](2013/04/11/index.html)  [JSON](2013/04/11/index.json)  [XML](201
 
 ##### drug traffickers
 ### [At least 14 people are killed in a series of clashes between alleged drug traffickers and police in the Mexican state of Michoacan. The government states that a high-profile drug lord was killed in the battle. ](/news/2013/04/11/at-least-14-people-are-killed-in-a-series-of-clashes-between-alleged-drug-traffickers-and-police-in-the-mexican-state-of-michoaca-n-the-gov.md)
-_Context: drug traffickers, police, Mexico, drug lord, government, Michoacan_
+_Context: government, police, drug traffickers, Mexico, Michoacan, drug lord_
 
 ##### bomb
 ### [Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/two-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing-shooting-and-arson-attacks.md)
-_Context: bomb, Thailand, arson, Pattani region, shooting spree_
+_Context: arson, Pattani region, shooting spree, bomb, Thailand_
 
 ##### Syrian Army
 ### [At least 57 people are killed by the Syrian Army in the towns of Sanamayn and Ghabaghib, Daraa Governorate, Syria. ](/news/2013/04/11/at-least-57-people-are-killed-by-the-syrian-army-in-the-towns-of-sanamayn-and-ghabaghib-daraa-governorate-syria.md)
@@ -17,11 +17,11 @@ Children and women said to be among victims of attacks on two towns in Deraa app
 
 ##### Boko Haram
 ### [Boko Haram rejects the idea of an amnesty offer for militants by Nigerian President Goodluck Jonathan. ](/news/2013/04/11/boko-haram-rejects-the-idea-of-an-amnesty-offer-for-militants-by-nigerian-president-goodluck-jonathan.md)
-_Context: Nigeria, President, amnesty, Boko Haram, Goodluck Jonathan_
+_Context: amnesty, Boko Haram, Nigeria, Goodluck Jonathan, President_
 
 ##### general election
 ### [A candidate for election in Pakistan is attacked and killed by assumed Taliban militants. ](/news/2013/04/11/a-candidate-for-election-in-pakistan-is-attacked-and-killed-by-assumed-taliban-militants.md)
-_Context: general election, Pakistan, Taliban_
+_Context: Taliban, Pakistan, general election_
 
 ##### Madonna
 ### [Singer Madonna is accused by the office of Malawi President Joyce Banda of "bullying state officials" after she reportedly exaggerated her charity's contribution and complained about her treatment on a recent visit to the country. ](/news/2013/04/11/singer-madonna-is-accused-by-the-office-of-malawi-president-joyce-banda-of-bullying-state-officials-after-she-reportedly-exaggerated-her-c.md)
@@ -29,11 +29,11 @@ Malawi accuses US singer Madonna of &quot;bullying state officials&quot; after s
 
 ##### episode
 ### [An episode of the American TV show "Glee" causes controversy by featuring a school shooting scene. ](/news/2013/04/11/an-episode-of-the-american-tv-show-glee-causes-controversy-by-featuring-a-school-shooting-scene.md)
-_Context: school shooting, episode, Glee, United States, TV show_
+_Context: TV show, school shooting, episode, United States, Glee_
 
 ##### United States
 ### [American comedian Jonathan Winters dies at the age of 87 in Montecito, California. ](/news/2013/04/11/american-comedian-jonathan-winters-dies-at-the-age-of-87-in-montecito-california.md)
-_Context: California, Montecito's, Jonathan Winters, comedian, United States_
+_Context: Montecito's, comedian, United States, California, Jonathan Winters_
 
 ##### Maria Tallchief
 ### [Maria Tallchief, the first Native American to achieve the rank of prima ballerina at a major ballet company, dies at the age of 88. ](/news/2013/04/11/maria-tallchief-the-first-native-american-to-achieve-the-rank-of-prima-ballerina-at-a-major-ballet-company-dies-at-the-age-of-88.md)
@@ -45,11 +45,11 @@ Japanese automakers Honda, Nissan, Toyota and Mazda announced Thursday they are 
 
 ##### tornado
 ### [Tornadoes destroy a church and damage dozens of homes in the Midwestern United States, cutting off electricity in several areas, and prompting Missouri Governor Jay Nixon to declare a state of emergency. ](/news/2013/04/11/tornadoes-destroy-a-church-and-damage-dozens-of-homes-in-the-midwestern-united-states-cutting-off-electricity-in-several-areas-and-prompti.md)
-_Context: Midwestern, Missouri Governor, state of emergency, electricity, destroy, Jay Nixon, church, tornado, Missouri_
+_Context: church, Jay Nixon, tornado, destroy, Midwestern, Missouri Governor, Missouri, state of emergency, electricity_
 
 ##### bus
 ### [Two people are killed and 41 injured in a bus crash in Irving, Texas, United States. ](/news/2013/04/11/two-people-are-killed-and-41-injured-in-a-bus-crash-in-irving-texas-united-states.md)
-_Context: United States, Irving, Texas, bus_
+_Context: Irving, United States, Texas, bus_
 
 ##### North Korea
 ### [North Korea renews a threat to permanently close its Kaesong joint industrial zone with South Korea, blaming the "confrontation" policies of the South Korea's new president, Park Geun-hye. ](/news/2013/04/11/north-korea-renews-a-threat-to-permanently-close-its-kaesong-joint-industrial-zone-with-south-korea-blaming-the-confrontation-policies-of.md)
@@ -69,7 +69,7 @@ Two women have been beheaded while another woman and her two daughters await the
 
 ##### policemen
 ### [Thirty-six policemen in Mumbai, India are suspended after they are filmed allegedly taking bribes. ](/news/2013/04/11/thirty-six-policemen-in-mumbai-india-are-suspended-after-they-are-filmed-allegedly-taking-bribes.md)
-_Context: India, Mumbai, bribes, policemen_
+_Context: Mumbai, policemen, India, bribes_
 
 ##### police officers
 ### [The Bangladesh Police hold editor Mahmudur Rahman from "Amar Desh", an opposition newspaper, in custody on charges of sedition, illegal publication of Skype conversations of a judge in Bangladesh's ongoing war crimes trial, and inciting violence in recent protests. ](/news/2013/04/11/the-bangladesh-police-hold-editor-mahmudur-rahman-from-amar-desh-an-opposition-newspaper-in-custody-on-charges-of-sedition-illegal-publ.md)

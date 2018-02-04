@@ -45,7 +45,7 @@ Gathering of many West Coast white supremacist groups in Sacramento took sudden 
 
 ##### Spanish general election, 2016
 ### [Voters in Spain go to the polls for a general election six months after an inconclusive election. Polls indicate that no party will be in position to form a government. ](/news/2016/06/26/voters-in-spain-go-to-the-polls-for-a-general-election-six-months-after-an-inconclusive-election-polls-indicate-that-no-party-will-be-in-po.md)
-_Context: Spain, Spanish general election, 2016_
+_Context: Spanish general election, 2016, Spain_
 
 ##### United Kingdom withdrawal from the European Union
 ### [Nicola Sturgeon, the First Minister of Scotland, says that Scottish Parliament has the power to veto the United Kingdom's exit from the European Union. ](/news/2016/06/26/nicola-sturgeon-the-first-minister-of-scotland-says-that-scottish-parliament-has-the-power-to-veto-the-united-kingdom-s-exit-from-the-euro.md)

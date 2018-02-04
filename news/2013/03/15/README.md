@@ -17,7 +17,7 @@ _Context: Fort Lauderdale, Florida, the state_
 
 ##### fireworks
 ### [At least 16 people are killed in a fireworks accident in Jesus Tepactepec, Tlaxcala, Mexico. ](/news/2013/03/15/at-least-16-people-are-killed-in-a-fireworks-accident-in-jesus-tepactepec-tlaxcala-mexico.md)
-_Context: fireworks, Tlaxcala_
+_Context: Tlaxcala, fireworks_
 
 ##### drive-by shooting
 ### [A 19-year-old man is arrested in connection with a drive-by shooting in Washington, D.C., United States, on March 11, that injured 13 people. ](/news/2013/03/15/a-19-year-old-man-is-arrested-in-connection-with-a-drive-by-shooting-in-washington-d-c-united-states-on-march-11-that-injured-13-people.md)
@@ -25,7 +25,7 @@ _Context: drive-by shooting, March 11_
 
 ##### Italian Parliament
 ### [The Italian Parliament meets in Rome with the composition of the government still unclear three weeks after an inconclusive general election. ](/news/2013/03/15/the-italian-parliament-meets-in-rome-with-the-composition-of-the-government-still-unclear-three-weeks-after-an-inconclusive-general-election.md)
-_Context: Italian Parliament, 2013 Italian parliamentary election_
+_Context: 2013 Italian parliamentary election, Italian Parliament_
 
 ##### David Cameron
 ### [David Cameron and Nick Clegg, the leaders of the two parties which make up the UK coalition government, publish separate plans for press regulation in England and Wales. ](/news/2013/03/15/david-cameron-and-nick-clegg-the-leaders-of-the-two-parties-which-make-up-the-uk-coalition-government-publish-separate-plans-for-press-reg.md)

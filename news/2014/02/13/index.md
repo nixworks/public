@@ -9,7 +9,7 @@ Afghan authorities release 65 detainees from the Bagram detention centre, a move
 
 ##### policemen
 ### [At least eight police officers are killed in a suicide bomb attack in Karachi. ](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-suicide-bomb-attack-in-karachi.md)
-_Context: suicide bomb, Karachi, policemen_
+_Context: suicide bomb, policemen, Karachi_
 
 ##### United States
 ### [The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
@@ -17,7 +17,7 @@ _Context: United States_
 
 ##### Typhoon Haiyan (Yolanda)
 ### [Typhoon Haiyan victims are visited by former footballer David Beckham who seeks to raise awareness about their plight. ](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.md)
-_Context: David Beckham, footballer, Typhoon Haiyan (Yolanda)_
+_Context: footballer, Typhoon Haiyan (Yolanda), David Beckham_
 
 ##### Luxor
 ### [Archaeologists unearth a painted, human-shaped sarcophagus that's 3,600 years old -- with a mummy still inside in Luxor, Egypt. ](/news/2014/02/13/archaeologists-unearth-a-painted-human-shaped-sarcophagus-that-s-3-600-years-old-with-a-mummy-still-inside-in-luxor-egypt.md)
@@ -37,7 +37,7 @@ _Context: United States, Facebook_
 
 ##### Winter storms
 ### [Thousands of homes in England remain without power following Wednesday's storms as the UK's Met Office forecasts fresh heavy rain and high winds for Friday. ](/news/2014/02/13/thousands-of-homes-in-england-remain-without-power-following-wednesday-s-storms-as-the-uk-s-met-office-forecasts-fresh-heavy-rain-and-high-w.md)
-_Context: Met Office, Winter storms_
+_Context: Winter storms, Met Office_
 
 ##### Mount Kelud
 ### [Mount Kelud erupts prompting the evacuation of 200,000 people on the Indonesian island of Java. ](/news/2014/02/13/mount-kelud-erupts-prompting-the-evacuation-of-200-000-people-on-the-indonesian-island-of-java.md)
@@ -61,7 +61,7 @@ Belgian lawmakers voted overwhelmingly on Thursday to extend the country&#039;s 
 
 ##### India
 ### [Lawmakers riot in the lower house of India's parliament in protest of a plan creating the state of Telangana. ](/news/2014/02/13/lawmakers-riot-in-the-lower-house-of-india-s-parliament-in-protest-of-a-plan-creating-the-state-of-telangana.md)
-_Context: Telangana, India_
+_Context: India, Telangana_
 
 ##### Venezuela
 ### [Venezuelan President Nicolas Maduro arrests opposition activists in reaction to an "attempted coup" against his government. ](/news/2014/02/13/venezuelan-president-nicola-s-maduro-arrests-opposition-activists-in-reaction-to-an-attempted-coup-against-his-government.md)

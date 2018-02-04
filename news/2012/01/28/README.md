@@ -5,15 +5,15 @@ Formats: [HTML](2012/01/28/index.html)  [JSON](2012/01/28/index.json)  [XML](201
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: The Arab League suspends its observer mission, citing increased violence. ](/news/2012/01/28/2011a2012-syrian-uprising-the-arab-league-suspends-its-observer-mission-citing-increased-violence.md)
-_Context: 2011-2012 Syrian uprising, Arab League_
+_Context: Arab League, 2011-2012 Syrian uprising_
 
 ##### Dakar
 ### [Fires rage through Dakar after Senegal's top court rules that President Abdoulaye Wade can run for a third term in office next month and prevents his best-known opponent, Grammy Award-winning musician Youssou N'Dour, from running against him. ](/news/2012/01/28/fires-rage-through-dakar-after-senegal-s-top-court-rules-that-president-abdoulaye-wade-can-run-for-a-third-term-in-office-next-month-and-pre.md)
-_Context: Senegal, Dakar, Youssou N'Dour, Grammy Award, Abdoulaye Wade_
+_Context: Dakar, Grammy Award, Abdoulaye Wade, Youssou N'Dour, Senegal_
 
 ##### Islamist
 ### [11 Islamist militants are killed in a shootout in the northeastern Nigerian city of Maiduguri. ](/news/2012/01/28/11-islamist-militants-are-killed-in-a-shootout-in-the-northeastern-nigerian-city-of-maiduguri.md)
-_Context: Nigeria, Islamist, Maiduguri_
+_Context: Maiduguri, Nigeria, Islamist_
 
 ##### Archbishop of York
 ### [Archbishop of York Dr. John Sentamu calls on the Church of England not to permit same-sex marriage. ](/news/2012/01/28/archbishop-of-york-dr-john-sentamu-calls-on-the-church-of-england-not-to-permit-same-sex-marriage.md)
@@ -53,7 +53,7 @@ Tommy Sheridan&#039;s lawyer, Aamer Anwar, has accused prison authorities of try
 
 ##### Oakland, California
 ### [Approximately 300 people are arrested in the US city of Oakland, California during Occupy Oakland protests. ](/news/2012/01/28/approximately-300-people-are-arrested-in-the-us-city-of-oakland-california-during-occupy-oakland-protests.md)
-_Context: California, Oakland, California, Occupy Oakland_
+_Context: California, Occupy Oakland, Oakland, California_
 
 ## [Previous Day...](/news/2012/01/27/index.md)
 

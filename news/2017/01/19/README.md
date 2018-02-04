@@ -53,11 +53,11 @@ Adama Barrow is sworn in as Gambian president in Senegal as strongman Yahya Jamm
 
 ##### Sinn Fein
 ### [Sinn Fein politician Martin McGuinness retires from politics for health reasons. ](/news/2017/01/19/sinn-fa-c-in-politician-martin-mcguinness-retires-from-politics-for-health-reasons.md)
-_Context: Martin McGuinness, Sinn Fein_
+_Context: Sinn Fein, Martin McGuinness_
 
 ##### Presidential transition of Donald Trump
 ### [Former Georgia Governor Sonny Perdue is named Secretary of Agriculture, the last open seat in Trump's cabinet. ](/news/2017/01/19/former-georgia-governor-sonny-perdue-is-named-secretary-of-agriculture-the-last-open-seat-in-trump-s-cabinet.md)
-_Context: Sonny Perdue, Cabinet of Donald Trump, Presidential transition of Donald Trump, Secretary of Agriculture_
+_Context: Secretary of Agriculture, Sonny Perdue, Cabinet of Donald Trump, Presidential transition of Donald Trump_
 
 ## [Previous Day...](/news/2017/01/18/index.md)
 

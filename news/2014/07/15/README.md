@@ -9,7 +9,7 @@ Hamas under pressure to halt rocket attacks after rejecting Cairo-brokered peace
 
 ##### car bomb
 ### [A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/a-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring-scores-more-in-one-o.md)
-_Context: Paktika, Afghanistan, car bomb_
+_Context: car bomb, Paktika, Afghanistan_
 
 ##### Snizhne
 ### [An airstrike on the rebel-held town of Snizhne kills at least eleven civilians. ](/news/2014/07/15/an-airstrike-on-the-rebel-held-town-of-snizhne-kills-at-least-eleven-civilians.md)
@@ -25,7 +25,7 @@ Plans for a cap on interest rates on payday loans from January 2015 are announce
 
 ##### Malaysia
 ### [Nineteen immigrants drown as a boat carrying 80 people capsizes off the coast of Malaysia's Tanjung Piai cape. ](/news/2014/07/15/nineteen-immigrants-drown-as-a-boat-carrying-80-people-capsizes-off-the-coast-of-malaysia-s-tanjung-piai-cape.md)
-_Context: Malaysia, Tanjung Piai_
+_Context: Tanjung Piai, Malaysia_
 
 ##### Philippines
 ### [The Philippines braces for the impact of Typhoon Rammasun (Glenda) which is expected to pass over the capital Manila causing flooding. Thousands have fled to evacuation centres and ports and airports in the country are closed ](/news/2014/07/15/the-philippines-braces-for-the-impact-of-typhoon-rammasun-glenda-which-is-expected-to-pass-over-the-capital-manila-causing-flooding-thous.md)
@@ -37,7 +37,7 @@ A rush-hour train derails on the Moscow metro, killing 21 people, the Russian au
 
 ##### 2009 Black Saturday bushfires
 ### [Ten thousand survivors of the Black Saturday bushfires in the Australian state of Victoria in February 2009 win a settlement of A$497.4 million against utility company SP AusNet, its maintenance contractor and the Victorian Department of Sustainability and Environment for poor inadequate maintenance and protection measures. ](/news/2014/07/15/ten-thousand-survivors-of-the-black-saturday-bushfires-in-the-australian-state-of-victoria-in-february-2009-win-a-settlement-of-a-497-4-mill.md)
-_Context: Victoria, Australia, SP AusNet, 2009 Black Saturday bushfires, Victorian Department of Sustainability and Environment_
+_Context: 2009 Black Saturday bushfires, Australia, Victorian Department of Sustainability and Environment, SP AusNet, Victoria_
 
 ##### Mexican police
 ### [Mexican police rescue 458 children and 138 adults from a Great Family Group Home in Michoacan state where they were allegedly badly mistreated including sexual abuse. ](/news/2014/07/15/mexican-police-rescue-458-children-and-138-adults-from-a-great-family-group-home-in-michoacan-state-where-they-were-allegedly-badly-mistreat.md)
@@ -53,7 +53,7 @@ Jean-Claude Juncker has been elected as president of the European Commission. He
 
 ##### Croatian
 ### [The Croatian parliament passes a law that recognizes life partnerships for same-sex couples, making them equal married couples in everything except adoption. ](/news/2014/07/15/the-croatian-parliament-passes-a-law-that-recognizes-life-partnerships-for-same-sex-couples-making-them-equal-married-couples-in-everything.md)
-_Context: civil union, Croatian_
+_Context: Croatian, civil union_
 
 ## [Previous Day...](/news/2014/07/14/index.md)
 

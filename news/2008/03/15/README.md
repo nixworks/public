@@ -5,19 +5,19 @@ Formats: [HTML](2008/03/15/index.html)  [JSON](2008/03/15/index.json)  [XML](200
 
 ##### Wales
 ### [ Wales achieve the Grand Slam by beating France 29-12 in the final match of Rugby Union's 2008 RBS Six Nations. ](/news/2008/03/15/wales-achieve-the-grand-slam-by-beating-france-29-12-in-the-final-match-of-rugby-union-s-2008-rbs-six-nations.md)
-_Context: Grand Slam, 2008 RBS Six Nations, Wales, France_
+_Context: France, 2008 RBS Six Nations, Wales, Grand Slam_
 
 ##### Guatemala
 ### [ Protesting Guatemalan farmers release four Belgian tourists they had taken hostage on Thursday. ](/news/2008/03/15/protesting-guatemalan-farmers-release-four-belgian-tourists-they-had-taken-hostage-on-thursday.md)
-_Context: Belgium, farmer, Guatemala, tourist, hostage_
+_Context: Belgium, Guatemala, farmer, hostage, tourist_
 
 ##### Michael D. Griffin
 ### [ Michael D. Griffin, the current Administrator of NASA, announces the agency will concentrate more on the outer Solar System and less on Mars exploration, due to cuts to its 2009-2012 budget. ](/news/2008/03/15/michael-d-griffin-the-current-administrator-of-nasa-announces-the-agency-will-concentrate-more-on-the-outer-solar-system-and-less-on-mar.md)
-_Context: Mars, Solar System, NASA, Administrator, route, Michael D. Griffin, budget, outer_
+_Context: route, Mars, outer, Administrator, Solar System, NASA, budget, Michael D. Griffin_
 
 ##### bomb
 ### [ A bomb explodes at a restaurant in Islamabad, Pakistan, killing a Turkish woman and injuring 10 other people. ](/news/2008/03/15/a-bomb-explodes-at-a-restaurant-in-islamabad-pakistan-killing-a-turkish-woman-and-injuring-10-other-people.md)
-_Context: Islamabad, restaurant, bomb, Turkish, Pakistan_
+_Context: Pakistan, Turkish, restaurant, bomb, Islamabad_
 
 ##### construction
 ### [ A construction crane falls on a residential building in Manhattan, New York City, killing four people and injuring at least 17. ](/news/2008/03/15/a-construction-crane-falls-on-a-residential-building-in-manhattan-new-york-city-killing-four-people-and-injuring-at-least-17.md)
@@ -25,35 +25,35 @@ A giant crane fell and crushed a residential building in Manhattan on Saturday, 
 
 ##### Mayor of Atlanta
 ### [ The Mayor of Atlanta, Shirley Franklin, declares a state of emergency following the previous night's tornado, while northwest Georgia is hit by more tornadoes, causing at least one death. ](/news/2008/03/15/the-mayor-of-atlanta-shirley-franklin-declares-a-state-of-emergency-following-the-previous-night-s-tornado-while-northwest-georgia-is-hi.md)
-_Context: Shirley Franklin, Georgia, Mayor of Atlanta, state of emergency, tornado_
+_Context: Georgia, state of emergency, Shirley Franklin, Mayor of Atlanta, tornado_
 
 ##### Italy
 ### [ Tens of thousands of Italians gather in Bari to march against the mafia and remember its many victims. ](/news/2008/03/15/tens-of-thousands-of-italians-gather-in-bari-to-march-against-the-mafia-and-remember-its-many-victims.md)
-_Context: victims, mafia, Italy, Bari_
+_Context: victims, Bari, mafia, Italy_
 
 ##### police officer
 ### [ Three former police officers are jailed over the killing of Ukrainian investigative journalist Georgiy R. Gongadze in 2000. ](/news/2008/03/15/three-former-police-officers-are-jailed-over-the-killing-of-ukrainian-investigative-journalist-georgiy-r-gongadze-in-2000.md)
-_Context: Georgiy R. Gongadze, police officer, Ukraine, investigative journalist_
+_Context: police officer, Ukraine, investigative journalist, Georgiy R. Gongadze_
 
 ##### weapon
 ### [ A weapons depot near Tirana, Albania is hit by multiple explosions, killing at least 11 people and injuring around 300. ](/news/2008/03/15/a-weapons-depot-near-tirana-albania-is-hit-by-multiple-explosions-killing-at-least-11-people-and-injuring-around-300.md)
-_Context: Tirana, Albania, weapon, 2008 Tirana explosions_
+_Context: weapon, Albania, Tirana, 2008 Tirana explosions_
 
 ##### protest
 ### [ More than 9,000 people around the world protest against Scientology under the banner of Anonymous. ](/news/2008/03/15/more-than-9-000-people-around-the-world-protest-against-scientology-under-the-banner-of-anonymous.md)
-_Context: protest, hacker group Anonymous, Scientology_
+_Context: Scientology, hacker group Anonymous, protest_
 
 ##### Turkish
 ### [ Turkish Prime Minister Recep Tayyip Erdogan says prosecutor Abdurrahman Yalcinkaya's proposal to ban the ruling Justice and Development Party is against the "national will". ](/news/2008/03/15/turkish-prime-minister-recep-tayyip-erdoaan-says-prosecutor-abdurrahman-yalassa-nkaya-s-proposal-to-ban-the-ruling-justice-and-development.md)
-_Context: Recep Tayyip Erdogan, Turkish Prime Minister, Turkish, Abdurrahman Yalcinkaya, ruling party_
+_Context: Recep Tayyip Erdogan, Turkish Prime Minister, Abdurrahman Yalcinkaya, Turkish, ruling party_
 
 ##### 11th
 ### [ At the 11th National People's Congress, Hu Jintao is elected to a second term as the President of China, and Xi Jinping is elected Vice-President. ](/news/2008/03/15/at-the-11th-national-people-s-congress-hu-jintao-is-elected-to-a-second-term-as-the-president-of-china-and-xi-jinping-is-elected-vice-pre.md)
-_Context: Hu Jintao, Vice-President of the People's Republic of China, Chinese President, parliament, 11th, Xi Jinping, China_
+_Context: Chinese President, Hu Jintao, 11th, Xi Jinping, Vice-President of the People's Republic of China, parliament, China_
 
 ##### 2008 unrest in Tibet
 ### [ In reference to ongoing protests in Tibet, Chairman of the Tibet Autonomous Region Qiangba Puncog threatens to "deal harshly with these criminals who are carrying out activities to split the nation". ](/news/2008/03/15/in-reference-to-ongoing-protests-in-tibet-chairman-of-the-tibet-autonomous-region-qiangba-puncog-threatens-to-deal-harshly-with-these-cri.md)
-_Context: Tibet Autonomous Region, Qiangba Puncog, 2008 unrest in Tibet_
+_Context: Qiangba Puncog, Tibet Autonomous Region, 2008 unrest in Tibet_
 
 ## [Previous Day...](/news/2008/03/14/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2008/03/30/index.html)  [JSON](2008/03/30/index.json)  [XML](200
 
 ##### Aloha Airlines
 ### [ Aloha Airlines, a Hawaii based airline which operates inter-island and trans-Pacific flights, has suspended all passenger services effective March 31, 2008, due to bankruptcy. ](/news/2008/03/30/aloha-airlines-a-hawaii-based-airline-which-operates-inter-island-and-trans-pacific-flights-has-suspended-all-passenger-services-effectiv.md)
-_Context: bankruptcy, Aloha Airlines_
+_Context: Aloha Airlines, bankruptcy_
 
 ##### European Union
 ### [ The enlargement of the EU's borderless zone to eight Eastern European countries and Malta is completed through the lifting of air border controls between them and the 15 countries already part of the area. ](/news/2008/03/30/the-enlargement-of-the-eu-s-borderless-zone-to-eight-eastern-european-countries-and-malta-is-completed-through-the-lifting-of-air-border-co.md)
@@ -25,11 +25,11 @@ _Context: pre-emptive strike, South Korea, North Korea_
 
 ##### Cessna 501 Citation
 ### [ A privately registered Cessna 501 Citation carrying five people crashes into two homes in Farnborough, Kent, United Kingdom, after taking off from London Biggin Hill Airport. ](/news/2008/03/30/a-privately-registered-cessna-501-citation-carrying-five-people-crashes-into-two-homes-in-farnborough-kent-united-kingdom-after-taking-o.md)
-_Context: Cessna 501 Citation, crashes into two homes, Farnborough, Kent, United Kingdom, London Biggin Hill Airport_
+_Context: Farnborough, Kent, United Kingdom, London Biggin Hill Airport, crashes into two homes, Cessna 501 Citation_
 
 ##### Ellen van Dijk
 ### [ In track cycling, Ellen van Dijk won the women's scratch at the 2008 UCI Track Cycling World Championships. ](/news/2008/03/30/in-track-cycling-ellen-van-dijk-won-the-women-s-scratch-at-the-2008-uci-track-cycling-world-championships.md)
-_Context: Ellen van Dijk, women's scratch, 2008 UCI Track Cycling World Championships_
+_Context: Ellen van Dijk, 2008 UCI Track Cycling World Championships, women's scratch_
 
 ## [Previous Day...](/news/2008/03/29/index.md)
 

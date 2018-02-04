@@ -5,7 +5,7 @@ Formats: [HTML](2017/03/15/index.html)  [JSON](2017/03/15/index.json)  [XML](201
 
 ##### Gush Etzion Junction
 ### [Israeli authorities shoot into a car that was on a ramming attack at a bus shelter at the Gush Etzion Junction in the West Bank where 13 Palestinians and 3 Israelis have been killed since October 2015. A 16-year-old Palestinian, Fatima Jibrin Taqatqa, had lost control of her car and the teenager now remains in critical condition. ](/news/2017/03/15/israeli-authorities-shoot-into-a-car-that-was-on-a-ramming-attack-at-a-bus-shelter-at-the-gush-etzion-junction-in-the-west-bank-where-13-pal.md)
-_Context: Gush Etzion Junction, Palestinian, West Bank_
+_Context: Gush Etzion Junction, West Bank, Palestinian_
 
 ##### Syrian Civil War
 ### [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md)
@@ -21,11 +21,11 @@ Rescuers find a fourth person missing in the Austrian Alps after a large avalanc
 
 ##### Dutch general election, 2017
 ### [Voters in the Netherlands go to the polls for a general election. Exit polls suggest that incumbent Prime Minister Mark Rutte's People's Party for Freedom and Democracy will win the most seats in the election. ](/news/2017/03/15/voters-in-the-netherlands-go-to-the-polls-for-a-general-election-exit-polls-suggest-that-incumbent-prime-minister-mark-rutte-s-people-s-par.md)
-_Context: Netherlands, Mark Rutte, Exit poll, VVD, Prime Minister, Dutch general election, 2017_
+_Context: VVD, Prime Minister, Dutch general election, 2017, Netherlands, Mark Rutte, Exit poll_
 
 ##### United States immigration ban
 ### [A U.S. federal judge in Hawaii, finding the revised federal immigration-refugee executive order violates the U.S. Constitution's religious establishment clause, grants the state of Hawaii's motion for a nationwide temporary restraining order on these rules that were set to become effective at midnight. President Donald Trump vows to appeal this ruling. Two other federal courts held hearings on similar requests filed by the states of Maryland and Washington; neither of these judges issued a ruling. ](/news/2017/03/15/a-u-s-federal-judge-in-hawaii-finding-the-revised-federal-immigration-refugee-executive-order-violates-the-u-s-constitution-s-religious-e.md)
-_Context: Washington, religious establishment clause, Maryland, Donald Trump, United States immigration ban, Hawaii_
+_Context: Hawaii, United States immigration ban, religious establishment clause, Washington, Donald Trump, Maryland_
 
 ## [Previous Day...](/news/2017/03/14/index.md)
 

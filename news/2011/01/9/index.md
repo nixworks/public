@@ -45,7 +45,7 @@ Bulldozers demolished a hotel in an Arab east Jerusalem neighborhood Sunday to m
 
 ##### Iceland
 ### [The U.S. ambassador to Iceland is summoned in relation to secret United States attempts to access private details concerning Icelandic MP Birgitta Jonsdottir. The matter is described as "very serious". ](/news/2011/01/9/the-u-s-ambassador-to-iceland-is-summoned-in-relation-to-secret-united-states-attempts-to-access-private-details-concerning-icelandic-mp-bi.md)
-_Context: United States, Iceland, Birgitta Jonsdottir_
+_Context: Iceland, Birgitta Jonsdottir, United States_
 
 ##### Hillary Clinton
 ### [Hillary Clinton of the United States speaks out against Iran in Abu Dhabi during a five-day trip to the United Arab Emirates, Oman and Qatar. She requests that the world increase its pressure on Iran, a country she considers "a serious concern". ](/news/2011/01/9/hillary-clinton-of-the-united-states-speaks-out-against-iran-in-abu-dhabi-during-a-five-day-trip-to-the-united-arab-emirates-oman-and-qatar.md)

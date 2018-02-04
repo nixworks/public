@@ -25,11 +25,11 @@ South America-Africa summit aims to increase co-operation and trade between cont
 
 ##### Roman Polanski
 ### [ Film director Roman Polanski is arrested in Zurich on a 31-year-old US arrest warrant. ](/news/2009/09/27/film-director-roman-polanski-is-arrested-in-zurich-on-a-31-year-old-us-arrest-warrant.md)
-_Context: Zurich, Roman Polanski_
+_Context: Roman Polanski, Zurich_
 
 ##### Afghanistan
 ### [ Afghan Energy Minister Ismail Khan survives a roadside blast which kills four people and wounds seventeen outside a school in Herat. ](/news/2009/09/27/afghan-energy-minister-ismail-khan-survives-a-roadside-blast-which-kills-four-people-and-wounds-seventeen-outside-a-school-in-herat.md)
-_Context: Ismail Khan, Herat, Afghanistan_
+_Context: Herat, Afghanistan, Ismail Khan_
 
 ##### Tropical Storm Ketsana
 ### [ The death toll from Tropical Storm Ketsana rises to 73, with more than 300,000 people displaced. ](/news/2009/09/27/the-death-toll-from-tropical-storm-ketsana-rises-to-73-with-more-than-300-000-people-displaced.md)
@@ -37,15 +37,15 @@ _Context: Tropical Storm Ketsana_
 
 ##### Switzerland
 ### [ The Swiss multinational Nestle is buying milk from a farm seized from its white owners and now owned by the wife of Zimbabwe's President Robert Mugabe, according to England's "The Sunday Telegraph". ](/news/2009/09/27/the-swiss-multinational-nestla-c-is-buying-milk-from-a-farm-seized-from-its-white-owners-and-now-owned-by-the-wife-of-zimbabwe-s-president-r.md)
-_Context: The Sunday Telegraph, Zimbabwe, England, Robert Mugabe, President, Switzerland, Nestle_
+_Context: Switzerland, The Sunday Telegraph, Nestle, Robert Mugabe, President, Zimbabwe, England_
 
 ##### United States
 ### [ American General Stanley McChrystal, Commander of the International Security Assistance Force, formally requests more troops for the War in Afghanistan. ](/news/2009/09/27/american-general-stanley-mcchrystal-commander-of-the-international-security-assistance-force-formally-requests-more-troops-for-the-war-in.md)
-_Context: War in Afghanistan, General, United States, International Security Assistance Force, Stanley McChrystal_
+_Context: International Security Assistance Force, General, Stanley McChrystal, United States, War in Afghanistan_
 
 ##### United States
 ### [ The American television series "Family Guy" is outlawed by authorities in Venezuela due to an episode promoting the legalization and use of marijuana. ](/news/2009/09/27/the-american-television-series-family-guy-is-outlawed-by-authorities-in-venezuela-due-to-an-episode-promoting-the-legalization-and-use-of.md)
-_Context: Venezuela, marijuana, Family Guy, United States, an episode, Legality of cannabis_
+_Context: Family Guy, an episode, marijuana, Legality of cannabis, United States, Venezuela_
 
 ##### Iran
 ### [ Iran's Revolutionary Guards test fire several short-range missiles &ndash; the Fateh-110 and Tondar-69. ](/news/2009/09/27/iran-s-revolutionary-guards-test-fire-several-short-range-missiles-ndash-the-fateh-110-and-tondar-69.md)
@@ -57,11 +57,11 @@ Silvio Berlusconi, Italy&#039;s gaffe-prone prime minister, has again referred t
 
 ##### Honduras
 ### [ Honduras issues a 10-day deadline to Brazil asking it to decide the status of deposed President Manuel Zelaya, who is residing in its embassy in the capital Tegucigalpa. ](/news/2009/09/27/honduras-issues-a-10-day-deadline-to-brazil-asking-it-to-decide-the-status-of-deposed-president-manuel-zelaya-who-is-residing-in-its-embas.md)
-_Context: President, Honduras, Brazil, Tegucigalpa, Manuel Zelaya_
+_Context: President, Honduras, Manuel Zelaya, Brazil, Tegucigalpa_
 
 ##### Discworld
 ### [ "Discworld" author Terry Pratchett, who has Alzheimer's disease, criticises new guidelines on assisted suicide. ](/news/2009/09/27/discworld-author-terry-pratchett-who-has-alzheimer-s-disease-criticises-new-guidelines-on-assisted-suicide.md)
-_Context: Alzheimer's disease, Discworld, assisted suicide, Terry Pratchett_
+_Context: assisted suicide, Terry Pratchett, Discworld, Alzheimer's disease_
 
 ##### Paul McCartney
 ### [ An award-winning essay written by Paul McCartney as a 10-year-old for the coronation of Elizabeth II of the United Kingdom is found after lying undiscovered in Liverpool's Central Library for more than 50 years. ](/news/2009/09/27/an-award-winning-essay-written-by-paul-mccartney-as-a-10-year-old-for-the-coronation-of-elizabeth-ii-of-the-united-kingdom-is-found-after-l.md)
@@ -69,7 +69,7 @@ The book voted off the competition third was...
 
 ##### South Africa
 ### [ Four people injured in a South African plane crash in Durban on Thursday are still recovering in hospital. ](/news/2009/09/27/four-people-injured-in-a-south-african-plane-crash-in-durban-on-thursday-are-still-recovering-in-hospital.md)
-_Context: Durban, South Africa_
+_Context: South Africa, Durban_
 
 ## [Previous Day...](/news/2009/09/26/index.md)
 

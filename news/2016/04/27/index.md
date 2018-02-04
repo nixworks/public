@@ -21,7 +21,7 @@ _Context: Nagorno-Karabakh, 2016 Armenian-Azerbaijani clashes, Azerbaijan_
 
 ##### War in Donbass
 ### [Representatives of the Russian-backed Donetsk People's Republic in Eastern Ukraine say at least five civilians are killed by artillery fire at a checkpoint in the town of Olenivka, with another 10 injured. Kiev denies the accusation. A local border-guard spokesman says there was an explosion at the checkpoint but he saw no artillery fired from either side, suggesting the blast could have been a bomb. ](/news/2016/04/27/representatives-of-the-russian-backed-donetsk-people-s-republic-in-eastern-ukraine-say-at-least-five-civilians-are-killed-by-artillery-fire.md)
-_Context: Government of Ukraine, War in Donbass, Eastern Ukraine, Russia, Donetsk People's Republic_
+_Context: War in Donbass, Russia, Eastern Ukraine, Donetsk People's Republic, Government of Ukraine_
 
 ##### War in Afghanistan
 ### [The U.S. military warns that the Kabul Attack Network, comprised of fighters from various jihadist groups such as the Taliban and Haqqani networks, is planning attacks on people in the Parwan, Khost, Kabul, and Logar Provinces, Afghanistan, and asks for information from the Afghan public. ](/news/2016/04/27/the-u-s-military-warns-that-the-kabul-attack-network-comprised-of-fighters-from-various-jihadist-groups-such-as-the-taliban-and-haqqani-ne.md)
@@ -69,15 +69,15 @@ _Context: Morocco, United Nations Security Council, MINURSO_
 
 ##### Iraqi Civil War
 ### [Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more-than-10-people.md)
-_Context: Iraq, Iraqi Civil War, Kurdish, Shia, Tuz Khurmato_
+_Context: Iraq, Tuz Khurmato, Iraqi Civil War, Shia, Kurdish_
 
 ##### Andrew Chan
 ### [Two days before the one-year anniversary of the execution of Andrew Chan and Myuran Sukumaran, the ringleaders of the Bali Nine, member Michael Czugaj is discovered to be in possession of drugs in prison. ](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.md)
-_Context: Michael Czugaj, Bali Nine, Andrew Chan, Myuran Sukumaran_
+_Context: Andrew Chan, Michael Czugaj, Myuran Sukumaran, Bali Nine_
 
 ##### November 2015 Paris attacks
 ### [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md)
-_Context: Salah Abdeslam, November 2015 Paris attacks, France, Belgium_
+_Context: Salah Abdeslam, Belgium, November 2015 Paris attacks, France_
 
 ##### U.S. Speaker of the House of Representatives
 ### [Former Speaker of the United States House of Representatives Dennis Hastert is sentenced to 15 months in prison for breaking banking laws in order to make payments to cover sexual misconduct from past decades. ](/news/2016/04/27/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-sentenced-to-15-months-in-prison-for-breaking-banking-laws-in.md)
@@ -89,7 +89,7 @@ Iraqi authorities have revoked the operating licence of the pan-Arab satellite n
 
 ##### Censorship in Iran
 ### [Iran sentences four reformist newspaper journalists to long prison terms for so-called national security crimes. Analysts say this case indicates that President Hassan Rouhani's calls for press freedoms will likey face an unsympathetic hearing from Iran's conservative judiciary. ](/news/2016/04/27/iran-sentences-four-reformist-newspaper-journalists-to-long-prison-terms-for-so-called-national-security-crimes-analysts-say-this-case-indi.md)
-_Context: journalist, Iran's conservative judiciary, President, Censorship in Iran, Iran, Hassan Rouhani, national security_
+_Context: President, Hassan Rouhani, Iran's conservative judiciary, national security, Iran, journalist, Censorship in Iran_
 
 ##### Monte Tchota massacre
 ### [Cape Verdean police capture a suspect in the murder of eight soldiers and three civilians. ](/news/2016/04/27/cape-verdean-police-capture-a-suspect-in-the-murder-of-eight-soldiers-and-three-civilians.md)
@@ -105,7 +105,7 @@ North Korea announces it will hold a Workers Party congress next month, the firs
 
 ##### 2016 U.S. presidential election
 ### [Texas Senator Ted Cruz names former Republican presidential candidate Carly Fiorina as his vice-presidential running mate. ](/news/2016/04/27/texas-senator-ted-cruz-names-former-republican-presidential-candidate-carly-fiorina-as-his-vice-presidential-running-mate.md)
-_Context: presidential candidate, Texas, United States Senate, Carly Fiorina, Ted Cruz presidential campaign, 2016, Republican, Ted Cruz, 2016 U.S. presidential election_
+_Context: 2016 U.S. presidential election, Republican, Texas, United States Senate, Carly Fiorina, Ted Cruz presidential campaign, 2016, Ted Cruz, presidential candidate_
 
 ##### Bradford West
 ### [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md)
@@ -113,7 +113,7 @@ Labour suspends MP Naz Shah over a Facebook post suggesting Israel should be mov
 
 ##### Chancellor
 ### [German Chancellor Angela Merkel's office confirms German Federal Intelligence Service President Gerhard Schindler will be replaced by Bruno Kahl. Schindler has been widely criticized following the disclosure his agency spied for the U.S. National Security Agency. ](/news/2016/04/27/german-chancellor-angela-merkel-s-office-confirms-german-federal-intelligence-service-president-gerhard-schindler-will-be-replaced-by-bruno.md)
-_Context: Angela Merkel, Chancellor, Gerhard Schindler, United States, BND, National Security Agency_
+_Context: National Security Agency, United States, Angela Merkel, BND, Chancellor, Gerhard Schindler_
 
 ## [Previous Day...](/news/2016/04/26/index.md)
 

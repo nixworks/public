@@ -13,7 +13,7 @@ Spokesman for Syrian Kurdish-Arab coalition says it would &#039;fight&#039; Popu
 
 ##### CBS
 ### [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of "CBS Evening News". Pelley will remain with "CBS News" as a correspondent in "60 Minutes". ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs-ne.md)
-_Context: CBS, Scott Pelley, 60 Minutes, CBS Evening News_
+_Context: 60 Minutes, CBS, CBS Evening News, Scott Pelley_
 
 ##### CNN
 ### [CNN terminates its "New Year's Eve Live" contract with Kathy Griffin after she released a photograph of her holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-new-year-s-eve-live-contract-with-kathy-griffin-after-she-released-a-photograph-of-her-holding-a-mock-decapitated-head.md)
@@ -21,7 +21,7 @@ After her severed-Trump-head photo, Kathy Griffin will no longer appear with And
 
 ##### Kenya
 ### [Kenya opens the Mombasa-Nairobi Standard Gauge Railway, the East African country's largest infrastructure project since gaining independence. ](/news/2017/05/31/kenya-opens-the-mombasaanairobi-standard-gauge-railway-the-east-african-country-s-largest-infrastructure-project-since-gaining-independen.md)
-_Context: Kenya, Mombasa-Nairobi Standard Gauge Railway_
+_Context: Mombasa-Nairobi Standard Gauge Railway, Kenya_
 
 ##### Turkish Air Force
 ### [A Turkish Air Force Eurocopter AS532 Cougar helicopter crashes in Sirnak Province after hitting an electricity line, killing all 13 soldiers on board. ](/news/2017/05/31/a-turkish-air-force-eurocopter-as532-cougar-helicopter-crashes-in-aa-rnak-province-after-hitting-an-electricity-line-killing-all-13-soldie.md)

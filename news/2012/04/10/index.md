@@ -9,7 +9,7 @@ Hopes of a UN-sponsored ceasefire in Syria recede as Damascus shows little sign 
 
 ##### Shia
 ### [Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". ](/news/2012/04/10/four-people-are-arrested-in-a-shiite-village-in-bahrain-after-seven-policemen-are-injured-in-an-apparent-terrorist-attack.md)
-_Context: Shia, Bahrain_
+_Context: Bahrain, Shia_
 
 ##### suicide bomber
 ### [A suicide bomber attacks a government office building in Afghanistan's Herat Province with 15 people killed and 22 wounded. ](/news/2012/04/10/a-suicide-bomber-attacks-a-government-office-building-in-afghanistan-s-herat-province-with-15-people-killed-and-22-wounded.md)
@@ -17,7 +17,7 @@ Taliban claim responsibility for suicide attacks targeting government buildings 
 
 ##### Gujarat
 ### [An investigation finds no evidence against the chief minister of Gujarat, India over deadly riots in the state in 2002. ](/news/2012/04/10/an-investigation-finds-no-evidence-against-the-chief-minister-of-gujarat-india-over-deadly-riots-in-the-state-in-2002.md)
-_Context: Gujarat, India, riots_
+_Context: India, Gujarat, riots_
 
 ##### Raymond Aubrac
 ### [Raymond Aubrac, one of the heroes of the French Resistance during World War II, dies at the age of 97. ](/news/2012/04/10/raymond-aubrac-one-of-the-heroes-of-the-french-resistance-during-world-war-ii-dies-at-the-age-of-97.md)
@@ -41,7 +41,7 @@ David Cameron meets Japanese PM Yoshihiko Noda for talks in Tokyo, as he begins 
 
 ##### China
 ### [Disabled Chinese land rights lawyer Ni Yulan and her husband are sentenced by a Beijing court a year after they were detained for fraud and "provoking trouble". ](/news/2012/04/10/disabled-chinese-land-rights-lawyer-ni-yulan-and-her-husband-are-sentenced-by-a-beijing-court-a-year-after-they-were-detained-for-fraud-and.md)
-_Context: China, Ni Yulan_
+_Context: Ni Yulan, China_
 
 ##### Costa Rica
 ### [The Costa Rican embassy's trade attache in Caracas, Venezuela is kidnapped. ](/news/2012/04/10/the-costa-rican-embassy-s-trade-attache-in-caracas-venezuela-is-kidnapped.md)
@@ -49,7 +49,7 @@ _Context: Caracas, Costa Rica, Venezuela_
 
 ##### Government of Malaysia
 ### [The Government of Malaysia introduces legislation banning the arrest of people for political reasons or indefinite detention without trial. ](/news/2012/04/10/the-government-of-malaysia-introduces-legislation-banning-the-arrest-of-people-for-political-reasons-or-indefinite-detention-without-trial.md)
-_Context: indefinite detention without trial, Government of Malaysia_
+_Context: Government of Malaysia, indefinite detention without trial_
 
 ##### Anders Behring Breivik
 ### [A second psychiatric evaluation finds that Anders Behring Breivik is sane enough to face trial for the 2011 Norway attacks and serve a prison sentence if convicted. ](/news/2012/04/10/a-second-psychiatric-evaluation-finds-that-anders-behring-breivik-is-sane-enough-to-face-trial-for-the-2011-norway-attacks-and-serve-a-priso.md)
@@ -57,11 +57,11 @@ A second psychiatric report declares Norwegian mass killer Anders Behring Breivi
 
 ##### attorney
 ### [The attorneys for George Zimmerman, the main person of interest in the shooting of Trayvon Martin, say that they quit representing Zimmerman due to them losing contact with him. ](/news/2012/04/10/the-attorneys-for-george-zimmerman-the-main-person-of-interest-in-the-shooting-of-trayvon-martin-say-that-they-quit-representing-zimmerman.md)
-_Context: George Zimmerman, attorney_
+_Context: attorney, George Zimmerman_
 
 ##### Rick Santorum
 ### [American politician Rick Santorum suspends his candidacy for the Republican nomination, increasing the likelihood that Mitt Romney will be the nominee. ](/news/2012/04/10/american-politician-rick-santorum-suspends-his-candidacy-for-the-republican-nomination-increasing-the-likelihood-that-mitt-romney-will-be-t.md)
-_Context: Republican primaries, Mitt Romney, Rick Santorum, candidacy_
+_Context: candidacy, Republican primaries, Rick Santorum, Mitt Romney_
 
 ##### China
 ### [The Chinese Communist Party suspends the Politburo membership of former senior official Bo Xilai, while his wife Gu Kailai is named as a suspect in the murder of a British businessman. ](/news/2012/04/10/the-chinese-communist-party-suspends-the-politburo-membership-of-former-senior-official-bo-xilai-while-his-wife-gu-kailai-is-named-as-a-sus.md)

@@ -13,7 +13,7 @@ World body accuses security forces loyal to incumbent president of attacking its
 
 ##### British
 ### [A British cruise ship avoids a possible Somali pirate attack 100 mi off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-off-the-coast-of-tanzania-in-the-indian-ocean.md)
-_Context: Tanzania, Somali pirates, British, Indian_
+_Context: Somali pirates, Indian, Tanzania, British_
 
 ##### Israel
 ### [Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israel-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-government.md)
@@ -29,11 +29,11 @@ New figures show US banks foreclosed on a record one million American homes in 2
 
 ##### China
 ### [China is reported to have the highest wind power capacity after adding 16GW in 2010, bringing its total to 41.8GW, with the U.S. in second with 40.2GW installed.](/news/2011/01/13/china-is-reported-to-have-the-highest-wind-power-capacity-after-adding-16gw-in-2010-bringing-its-total-to-41-8gw-with-the-u-s-in-second-w.md)
-_Context: U.S., wind power, GW, China_
+_Context: U.S., GW, China, wind power_
 
 ##### U.S. Environmental Protection Agency
 ### [The U.S. Environmental Protection Agency revokes a permit for a proposed coal mine in West Virginia which would have been one of America's largest citing "destructive and unsustainable mining practices that jeopardize the health of Appalachian communities and clean water". ](/news/2011/01/13/the-u-s-environmental-protection-agency-revokes-a-permit-for-a-proposed-coal-mine-in-west-virginia-which-would-have-been-one-of-america-s-l.md)
-_Context: West Virginia, U.S. Environmental Protection Agency, coal mine_
+_Context: coal mine, U.S. Environmental Protection Agency, West Virginia_
 
 ##### Standard & Poor's
 ### [Major credit rating agencies Standard & Poor's and Moody's warn the U.S. that its increasing national debt may lead to a lowering of the nation's credit rating.](/news/2011/01/13/major-credit-rating-agencies-standard-pooras-and-moodyas-warn-the-u-s-that-its-increasing-national-debt-may-lead-to-a-lowering-of-the.md)
@@ -61,7 +61,7 @@ _Context: Vietnam_
 
 ##### tanker
 ### [A tanker carrying sulfuric acid capsizes in the Rhine River in Germany with two crew members missing. ](/news/2011/01/13/a-tanker-carrying-sulfuric-acid-capsizes-in-the-rhine-river-in-germany-with-two-crew-members-missing.md)
-_Context: tanker, sulfuric acid, German, Rhine River_
+_Context: tanker, Rhine River, sulfuric acid, German_
 
 ##### Tajikistan
 ### [Tajikistan's lower house of parliament ratifies an agreement to turn over 380 square miles (approx. 1,000 square kilometers) of territory to the People's Republic of China, ending a century-old conflict over disputed territory. ](/news/2011/01/13/tajikistan-s-lower-house-of-parliament-ratifies-an-agreement-to-turn-over-380-square-miles-approx-1-000-square-kilometers-of-territory-to.md)
@@ -81,7 +81,7 @@ A German man is sentenced to four years in prison for making pornographic films 
 
 ##### Nigeria
 ### [Thousands of members of Nigeria's ruling People's Democratic Party begin voting on whether incumbent President Goodluck Jonathan should be their choice of candidate in April presidential elections. ](/news/2011/01/13/thousands-of-members-of-nigeria-s-ruling-people-s-democratic-party-begin-voting-on-whether-incumbent-president-goodluck-jonathan-should-be-t.md)
-_Context: Goodluck Jonathan, presidential election, President, Nigeria, People's Democratic Party_
+_Context: President, People's Democratic Party, Nigeria, presidential election, Goodluck Jonathan_
 
 ##### Southern Sudanese Independence Referendum
 ### [The Southern Sudanese independence referendum, 2011 is confirmed by organisers to have had a turnout above the necessary threshold needed for it to be valid. ](/news/2011/01/13/the-southern-sudanese-independence-referendum-2011-is-confirmed-by-organisers-to-have-had-a-turnout-above-the-necessary-threshold-needed-fo.md)
@@ -93,7 +93,7 @@ The Irish prime minister tells his party he will not resign - but acknowledges &
 
 ##### England
 ### [Voters in the English constituency of Oldham East and Saddleworth go to the polls for a by-election resulting in a win by Labour candidate Debbie Abrahams. ](/news/2011/01/13/voters-in-the-english-constituency-of-oldham-east-and-saddleworth-go-to-the-polls-for-a-by-election-resulting-in-a-win-by-labour-candidate-d.md)
-_Context: Debbie Abrahams, England, Oldham East and Saddleworth by-election, Labour Party, Oldham East and Saddleworth_
+_Context: Oldham East and Saddleworth by-election, Debbie Abrahams, Labour Party, England, Oldham East and Saddleworth_
 
 ##### United States Senate
 ### [U.S. Senator Kay Bailey Hutchison, a Republican from Texas, announces she will not seek re-election in 2012. ](/news/2011/01/13/u-s-senator-kay-bailey-hutchison-a-republican-from-texas-announces-she-will-not-seek-re-election-in-2012.md)
@@ -101,11 +101,11 @@ Republican U.S. Sen. Kay Bailey Hutchison has announced that she will retire aft
 
 ##### South Korea
 ### [South Korea buries 1.4 million domestic pigs alive after an outbreak of foot-and-mouth disease. ](/news/2011/01/13/south-korea-buries-1-4-million-domestic-pigs-alive-after-an-outbreak-of-foot-and-mouth-disease.md)
-_Context: domestic pig, South Korea, an outbreak of foot-and-mouth disease_
+_Context: South Korea, domestic pig, an outbreak of foot-and-mouth disease_
 
 ##### prion
 ### [Researchers discover prions spreading through airborne transmission on aerosol particles, in an animal testing experiment focusing on scrapie infection in laboratory mice. ](/news/2011/01/13/researchers-discover-prions-spreading-through-airborne-transmission-on-aerosol-particles-in-an-animal-testing-experiment-focusing-on-scrapi.md)
-_Context: aerosol, laboratory mice, prion, scrapie, animal testing_
+_Context: laboratory mice, prion, aerosol, animal testing, scrapie_
 
 ## [Previous Day...](/news/2011/01/12/index.md)
 

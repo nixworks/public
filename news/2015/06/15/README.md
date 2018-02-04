@@ -13,7 +13,7 @@ Over a hundred Baluch militants fighting against Pakistani forces in the separat
 
 ##### Syrian Civil War
 ### [Kurdish YPG forces and Free Syrian Army rebels seize control of the ISIL stronghold of Tell Abyad in northern Al-Raqqah Governorate. ](/news/2015/06/15/kurdish-ypg-forces-and-free-syrian-army-rebels-seize-control-of-the-isil-stronghold-of-tell-abyad-in-northern-al-raqqah-governorate.md)
-_Context: Syrian Civil War, YPG, Al-Raqqah Governorate, ISIL, Free Syrian Army, Tell Abyad_
+_Context: YPG, Free Syrian Army, Syrian Civil War, ISIL, Al-Raqqah Governorate, Tell Abyad_
 
 ##### Magna Carta
 ### [The 800th anniversary of the sealing of the Magna Carta by King John of England is commemorated around the world. ](/news/2015/06/15/the-800th-anniversary-of-the-sealing-of-the-magna-carta-by-king-john-of-england-is-commemorated-around-the-world.md)
@@ -25,7 +25,7 @@ CVS Health and Target on Monday announced a deal for CVS to acquire Target&#039;
 
 ##### Greek government-debt crisis
 ### [Greece and its creditors harden their stances after the collapse of talks aimed at preventing a default. ](/news/2015/06/15/greece-and-its-creditors-harden-their-stances-after-the-collapse-of-talks-aimed-at-preventing-a-default.md)
-_Context: Greek government-debt crisis, Greece, default_
+_Context: Greece, default, Greek government-debt crisis_
 
 ##### Russian financial crisis (2014-present)
 ### [The Central Bank of Russia lowers the interest rate to 11.5%. ](/news/2015/06/15/the-central-bank-of-russia-lowers-the-interest-rate-to-11-5.md)
@@ -45,7 +45,7 @@ _Context: Nepal, Kathmandu Valley, suspicions_
 
 ##### 2015 Pacific hurricane season
 ### [Hurricane Carlos hits southwestern Mexico with heavy rain ahead of making landfall as a tropical storm later in the week. ](/news/2015/06/15/hurricane-carlos-hits-southwestern-mexico-with-heavy-rain-ahead-of-making-landfall-as-a-tropical-storm-later-in-the-week.md)
-_Context: tropical storm, 2015 Pacific hurricane season, Hurricane Carlos, Mexico_
+_Context: 2015 Pacific hurricane season, tropical storm, Mexico, Hurricane Carlos_
 
 ##### 2015 Alaska Sockeye wildfire
 ### [ The wildfire grows to 8,500 acres. ](/news/2015/06/15/the-wildfire-grows-to-8-500-acres.md)
@@ -53,7 +53,7 @@ _Context: 2015 Alaska Sockeye wildfire_
 
 ##### recent MERS outbreak
 ### [The number of deaths resulting from the MERS outbreak in South Korea rises to sixteen with the number of total cases rising to 150. ](/news/2015/06/15/the-number-of-deaths-resulting-from-the-mers-outbreak-in-south-korea-rises-to-sixteen-with-the-number-of-total-cases-rising-to-150.md)
-_Context: South Korea, recent MERS outbreak_
+_Context: recent MERS outbreak, South Korea_
 
 ##### International Criminal Court investigation in Darfur
 ### [The High Court in Pretoria rules that the President of Sudan Omar Al-Bashir should be arrested in South Africa and detained pending a formal request from the International Criminal Court. However, immediately after the ruling, the South African Government announces that Al-Bashir has already departed. He is wanted in connection with the war in Darfur. ](/news/2015/06/15/the-high-court-in-pretoria-rules-that-the-president-of-sudan-omar-al-bashir-should-be-arrested-in-south-africa-and-detained-pending-a-formal.md)
@@ -65,7 +65,7 @@ The Vatican orders the trial of a former archbishop over paedophilia charges.
 
 ##### Bush family
 ### [Jeb Bush, former Governor of Florida, announces his candidacy for the Republican Party nomination. ](/news/2015/06/15/jeb-bush-former-governor-of-florida-announces-his-candidacy-for-the-republican-party-nomination.md)
-_Context: Governor of Florida, Jeb Bush, Bush family, Republican_
+_Context: Governor of Florida, Bush family, Republican, Jeb Bush_
 
 ## [Previous Day...](/news/2015/06/14/index.md)
 

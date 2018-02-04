@@ -9,11 +9,11 @@ UK politician appeals to President Mubarak to let convoy enter Gaza through Red 
 
 ##### suicide
 ### [ The number of suicides in Japan exceeded 30,000 in 2009 according to officials, for the twelfth consecutive year. ](/news/2009/12/25/the-number-of-suicides-in-japan-exceeded-30-000-in-2009-according-to-officials-for-the-twelfth-consecutive-year.md)
-_Context: suicide, Japan_
+_Context: Japan, suicide_
 
 ##### China
 ### [ China sentences activist Liu Xiaobo to 11 years in prison for "subversion of state power". ](/news/2009/12/25/china-sentences-activist-liu-xiaobo-to-11-years-in-prison-for-subversion-of-state-power.md)
-_Context: China, subverting, Liu Xiaobo_
+_Context: subverting, China, Liu Xiaobo_
 
 ##### China
 ### [ China's National Bureau of Statistics revised the growth rate of its gross domestic product (GDP) for 2008 to 9.6 percent from 9 percent. ](/news/2009/12/25/china-s-national-bureau-of-statistics-revised-the-growth-rate-of-its-gross-domestic-product-gdp-for-2008-to-9-6-percent-from-9-percent.md)
@@ -29,7 +29,7 @@ The Archbishop of Dublin has said he respects the decisions by Bishops Eamonn Wa
 
 ##### Expresiones de Tulum
 ### [ The death by gunshot wound of "Expresiones de Tulum" journalist Alberto Velzquez, the 12th journalist to be killed in Mexico in 2009, is announced. ](/news/2009/12/25/the-death-by-gunshot-wound-of-expresiones-de-tulum-journalist-alberto-velazquez-the-12th-journalist-to-be-killed-in-mexico-in-2009-is-a.md)
-_Context: Expresiones de Tulum, Mexico, Alberto Velzquez_
+_Context: Alberto Velzquez, Mexico, Expresiones de Tulum_
 
 ##### Queen Elizabeth
 ### [ Elizabeth II of the United Kingdom remembers the dead soldiers of Afghanistan in the Royal Christmas Message. ](/news/2009/12/25/elizabeth-ii-of-the-united-kingdom-remembers-the-dead-soldiers-of-afghanistan-in-the-royal-christmas-message.md)

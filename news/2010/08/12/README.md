@@ -5,11 +5,11 @@ Formats: [HTML](2010/08/12/index.html)  [JSON](2010/08/12/index.json)  [XML](201
 
 ##### International Assistance Mission
 ### [The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massacre-of-its-medical-t.md)
-_Context: 2010 Badakhshan massacre, Afghanistan, Taliban, International Assistance Mission_
+_Context: International Assistance Mission, 2010 Badakhshan massacre, Taliban, Afghanistan_
 
 ##### Human Rights Watch
 ### [Human Rights Watch accuses the northern Ugandan Lord's Resistance Army of abducting and forcing the recruitment of at least 697 people during the last year and a half across central Africa. ](/news/2010/08/12/human-rights-watch-accuses-the-northern-ugandan-lord-s-resistance-army-of-abducting-and-forcing-the-recruitment-of-at-least-697-people-durin.md)
-_Context: Lord's Resistance Army, Human Rights Watch, central Africa, Uganda_
+_Context: central Africa, Lord's Resistance Army, Uganda, Human Rights Watch_
 
 ##### Dhaka
 ### [At least 50 people are injured in Dhaka as police use batons and tear gas to beat back civilians protesting against frequent power outage. ](/news/2010/08/12/at-least-50-people-are-injured-in-dhaka-as-police-use-batons-and-tear-gas-to-beat-back-civilians-protesting-against-frequent-power-outage.md)
@@ -57,7 +57,7 @@ A woman accused of attacking Leonardo DiCaprio with a broken bottle at a 2005 pa
 
 ##### Edward Whitacre, Jr.
 ### [Edward Whitacre, Jr. announces that he will resign as chief executive officer of General Motors effective from September and that he will be replaced by Daniel Akerson. ](/news/2010/08/12/edward-whitacre-jr-announces-that-he-will-resign-as-chief-executive-officer-of-general-motors-effective-from-september-and-that-he-will-be.md)
-_Context: Daniel Akerson, General Motors, Edward Whitacre, Jr., chief executive officer_
+_Context: chief executive officer, Edward Whitacre, Jr., General Motors, Daniel Akerson_
 
 ##### Greece
 ### [Greece's economy shrinks further. ](/news/2010/08/12/greece-s-economy-shrinks-further.md)
@@ -97,7 +97,7 @@ At least 50 people are killed after a lorry plunges into Lake Tanganyika in the 
 
 ##### Turkish
 ### [Turkey sets up a commission of Turkish officials and bureaucrats to investigate May's Gaza flotilla raid. ](/news/2010/08/12/turkey-sets-up-a-commission-of-turkish-officials-and-bureaucrats-to-investigate-may-s-gaza-flotilla-raid.md)
-_Context: Gaza flotilla raid, Turkish_
+_Context: Turkish, Gaza flotilla raid_
 
 ##### Poland
 ### [Poland extradites Israeli citizen and suspected spy Uri Brodsky to Germany to face charges of being involved in the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/12/poland-extradites-israeli-citizen-and-suspected-spy-uri-brodsky-to-germany-to-face-charges-of-being-involved-in-the-murder-of-mahmoud-al-mab.md)
@@ -109,7 +109,7 @@ Officials say 500 people could be onboard boat from Sri Lanka.
 
 ##### Mohammad-Reza Rahimi
 ### [Mohammad-Reza Rahimi, the Vice-President of Iran describes inhabitants of the United Kingdom as "not human" and "a bunch of idiots run by a mafia". He also describes Australians as "a bunch of cattlemen" and says that Koreans "need to be slapped". ](/news/2010/08/12/mohammad-reza-rahimi-the-vice-president-of-iran-describes-inhabitants-of-the-united-kingdom-as-not-human-and-a-bunch-of-idiots-run-by-a.md)
-_Context: Mohammad-Reza Rahimi, mafia, Iran, British, Australia, cattlemen, First Vice President, South Korea_
+_Context: mafia, Mohammad-Reza Rahimi, South Korea, Iran, Australia, cattlemen, First Vice President, British_
 
 ##### Babar Ahmad
 ### [Four British police officers are charged with beating, dragging, punching, stamping and mocking "terror suspect" Babar Ahmad after arresting him in Tooting, South London in 2003; the suspect, a 36-year-old IT worker, was later deemed innocent. ](/news/2010/08/12/four-british-police-officers-are-charged-with-beating-dragging-punching-stamping-and-mocking-terror-suspect-babar-ahmad-after-arresting.md)
@@ -121,7 +121,7 @@ The health ministry in China is investigating reports that a brand of powdered m
 
 ##### Sakineh Mohammadi Ashtiani
 ### [Sakineh Mohammadi Ashtiani, sentenced to death in Iran, "confesses" to adultery and murder in a televised broadcast. ](/news/2010/08/12/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-confesses-to-adultery-and-murder-in-a-televised-broadcast.md)
-_Context: Iran, adultery, murder, Sakineh Mohammadi Ashtiani_
+_Context: Sakineh Mohammadi Ashtiani, adultery, Iran, murder_
 
 ##### United States District Court for the Northern District of California
 ### [Federal Judge Vaughn R. Walker, after deciding for the plaintiffs in Perry v. Schwarzenegger, mandates that same-sex marriage in the U.S. state of California should resume on August 18. ](/news/2010/08/12/federal-judge-vaughn-r-walker-after-deciding-for-the-plaintiffs-in-perry-v-schwarzenegger-mandates-that-same-sex-marriage-in-the-u-s-st.md)
@@ -141,7 +141,7 @@ The defence lawyer of the former Liberian President Charles Taylor was temporari
 
 ##### India
 ### [India issues the producer of the controversial Blackberry devices a 31 August deadline to give the Indian government access to its services or be shut down over concerns the devices could be used to commit a repeat of the 2008 Mumbai attacks. ](/news/2010/08/12/india-issues-the-producer-of-the-controversial-blackberry-devices-a-31-august-deadline-to-give-the-indian-government-access-to-its-services.md)
-_Context: India, Government of India, 2008 Mumbai attacks, Blackberry_
+_Context: Blackberry, India, 2008 Mumbai attacks, Government of India_
 
 ##### Israel
 ### [Israeli citizen Elias Abuelazam, a suspected serial killer from Flint, Michigan, is arrested while attempting to leave the United States. ](/news/2010/08/12/israeli-citizen-elias-abuelazam-a-suspected-serial-killer-from-flint-michigan-is-arrested-while-attempting-to-leave-the-united-states.md)

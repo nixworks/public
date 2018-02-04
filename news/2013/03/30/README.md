@@ -9,7 +9,7 @@ _Context: Grammy Award, Phil Ramone_
 
 ##### United States
 ### [A judge dismisses the majority of the lawsuit charges against a group of American banks related to the Libor scandal. ](/news/2013/03/30/a-judge-dismisses-the-majority-of-the-lawsuit-charges-against-a-group-of-american-banks-related-to-the-libor-scandal.md)
-_Context: United States, Libor scandal_
+_Context: Libor scandal, United States_
 
 ##### 2013 Korean crisis
 ### [2013 Korean crisis: North Korea declares it is in a state of war with South Korea, and will conduct any further dealings under "wartime regulations". Russia urges calm on both sides. North Korea threatens to shut down the industrial plant in Kaesong, on the border with South Korea. ](/news/2013/03/30/2013-korean-crisis-north-korea-declares-it-is-in-a-state-of-war-with-south-korea-and-will-conduct-any-further-dealings-under-wartime-regu.md)
@@ -25,7 +25,7 @@ JOHANNESBURG, South Africa -- The second-place finisher in Kenya&rsquo;s recent 
 
 ##### Nuon Chea
 ### [Nuon Chea, the most senior surviving Khmer Rouge leader, is declared fit for trial by a United Nations-backed court in Cambodia. ](/news/2013/03/30/nuon-chea-the-most-senior-surviving-khmer-rouge-leader-is-declared-fit-for-trial-by-a-united-nations-backed-court-in-cambodia.md)
-_Context: Cambodia, United Nations, Khmer Rouge, Nuon Chea_
+_Context: United Nations, Khmer Rouge, Cambodia, Nuon Chea_
 
 ##### Eiffel Tower
 ### [The Eiffel Tower is evacuated for a time after an anonymous caller made a bomb threat. No explosives were found, police are still searching for the caller. ](/news/2013/03/30/the-eiffel-tower-is-evacuated-for-a-time-after-an-anonymous-caller-made-a-bomb-threat-no-explosives-were-found-police-are-still-searching.md)
@@ -37,7 +37,7 @@ _Context: Pennsylvania, United States, Pittsburgh_
 
 ##### panda
 ### [Famous panda Mei Xiang is artificially inseminated in the U.S. National Zoo after natural breeding failed to occur. ](/news/2013/03/30/famous-panda-mei-xiang-is-artificially-inseminated-in-the-u-s-national-zoo-after-natural-breeding-failed-to-occur.md)
-_Context: artificially inseminated, U.S. National Zoo, Mei Xiang's, breeding, panda_
+_Context: panda, breeding, artificially inseminated, U.S. National Zoo, Mei Xiang's_
 
 ##### meteorite
 ### [Scientists announce that a green meteorite Northwest Africa 7325, found in Morocco in 2012, may have originated on Mercury, which, if proven, would be the first known meteorite from that planet. ](/news/2013/03/30/scientists-announce-that-a-green-meteorite-northwest-africa-7325-found-in-morocco-in-2012-may-have-originated-on-mercury-which-if-proven.md)

@@ -9,7 +9,7 @@ _Context: Tokyo Stock Exchange_
 
 ##### Bangladesh
 ### [ Bangladeshi UN peacekeepers are attacked by Laurent Gbagbo's "Young Patriots" in Cte d'Ivoire. At least three people have been killed, and the UN has warned that the country is sliding towards war. ](/news/2006/01/18/bangladeshi-un-peacekeepers-are-attacked-by-laurent-gbagbo-s-young-patriots-in-cote-d-ivoire-at-least-three-people-have-been-killed-and.md)
-_Context: Bangladesh, war, United Nations, peacekeepers, Cte d'Ivoire, Laurent Gbagbo, Young Patriots_
+_Context: Laurent Gbagbo, peacekeepers, United Nations, Cte d'Ivoire, Bangladesh, war, Young Patriots_
 
 ##### bird flu
 ### [ China has recorded its sixth death from the avian flu virus, according to a report on the Chinese Health Ministry's Web site. ](/news/2006/01/18/china-has-recorded-its-sixth-death-from-the-avian-flu-virus-according-to-a-report-on-the-chinese-health-ministry-s-web-site.md)

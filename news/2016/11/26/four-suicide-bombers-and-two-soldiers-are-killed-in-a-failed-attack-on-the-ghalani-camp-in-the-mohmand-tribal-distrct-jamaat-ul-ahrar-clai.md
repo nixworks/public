@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/26/four-suicide-bombers-and-two-soldiers-are-kille
 
 ### [2016-11-26](/news/2016/11/26/index.md)
 
-##### Terrorism in Pakistan
+##### suicide bombing
 #  Four suicide bombers and two soldiers are killed in a failed attack on the Ghalani camp in the Mohmand tribal distrct. Jamaat-ul-Ahrar claims responsibility. 
 
 Security forces valiantly defeated suicide attack on Ghalani Camp: ISPR.
@@ -23,8 +23,8 @@ Security forces valiantly defeated suicide attack on Ghalani Camp: ISPR.
 
 ### Related:
 
-1. [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md) _Context: Terrorism in Pakistan_
-2. [Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul-ahrar-a-faction-of-tehrik.md) _Context: Jamaat-ul-Ahrar_
-3. [Multiple suicide bombers kill at least six people near a district court in Charsadda. Jamaat-ul-Ahrar claimed responsibility for the attack. ](/news/2017/02/21/multiple-suicide-bombers-kill-at-least-six-people-near-a-district-court-in-charsadda-jamaat-ul-ahrar-claimed-responsibility-for-the-attack.md) _Context: Jamaat-ul-Ahrar_
-4. [An overnight Pakistani counter-terrorism raid kills five members of the banned Jamaat-ul-Ahrar, which has claimed responsibility for recent deadly terrorist attacks. Four militants escaped. ](/news/2017/02/19/an-overnight-pakistani-counter-terrorism-raid-kills-five-members-of-the-banned-jamaat-ul-ahrar-which-has-claimed-responsibility-for-recent.md) _Context: Jamaat-ul-Ahrar_
-5. [Two separate bombings take place in Pakistan, killing at least seven people. A suicide bomber kills five people at the administrative headquarters in the Mohmand Agency tribal district while the other kills two people at a hospital in Peshawar. Jamaat-ul-Ahrar claims responsibility for the first attack. ](/news/2017/02/15/two-separate-bombings-take-place-in-pakistan-killing-at-least-seven-people-a-suicide-bomber-kills-five-people-at-the-administrative-headqu.md) _Context: Jamaat-ul-Ahrar_
+1. [A suicide bombing, revindicated in an email to journalists by the Pakistani Taliban, kills at least 11 soldiers and injures 13 at an army unit camp's sports area in the Kabal area of the Swat Valley, in Northwestern Pakistan, according to Pakistan Army figures. ](/news/2018/02/3/a-suicide-bombing-revindicated-in-an-email-to-journalists-by-the-pakistani-taliban-kills-at-least-11-soldiers-and-injures-13-at-an-army-un.md) _Context: suicide bombing_
+2. [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md) _Context: suicide bombing_
+3. [Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul-ahrar-a-faction-of-tehrik.md) _Context: Jamaat-ul-Ahrar_
+4. [Multiple suicide bombers kill at least six people near a district court in Charsadda. Jamaat-ul-Ahrar claimed responsibility for the attack. ](/news/2017/02/21/multiple-suicide-bombers-kill-at-least-six-people-near-a-district-court-in-charsadda-jamaat-ul-ahrar-claimed-responsibility-for-the-attack.md) _Context: Jamaat-ul-Ahrar_
+5. [An overnight Pakistani counter-terrorism raid kills five members of the banned Jamaat-ul-Ahrar, which has claimed responsibility for recent deadly terrorist attacks. Four militants escaped. ](/news/2017/02/19/an-overnight-pakistani-counter-terrorism-raid-kills-five-members-of-the-banned-jamaat-ul-ahrar-which-has-claimed-responsibility-for-recent.md) _Context: Jamaat-ul-Ahrar_

@@ -25,7 +25,7 @@ The departures come a week after hacked DNC emails showed party officials conspi
 
 ##### Territorial disputes in the South China Sea
 ### [The Chinese Supreme Court warns people caught fishing in Chinese waters could be jailed for up to a year. ](/news/2016/08/2/the-chinese-supreme-court-warns-people-caught-fishing-in-chinese-waters-could-be-jailed-for-up-to-a-year.md)
-_Context: Territorial disputes in the South China Sea, Chinese Supreme Court_
+_Context: Chinese Supreme Court, Territorial disputes in the South China Sea_
 
 ##### United States elections, 2016
 ### [Incumbent Republican congressman Tim Huelskamp, an active Tea Party favorite with a confrontational, anti-establishment approach running for a fourth term, is defeated (56.5 - 43.5 percent) in the Kansas primary by obstetrician Roger Marshall. ](/news/2016/08/2/incumbent-republican-congressman-tim-huelskamp-an-active-tea-party-favorite-with-a-confrontational-anti-establishment-approach-running-for.md)
@@ -33,7 +33,7 @@ HUTCHINSON, Kan. (AP) — Rep. Tim Huelskamp has been a thorn in the side of the
 
 ##### South Sudan President
 ### [South Sudan President Salva Kiir fires six ministers allied to his long-time rival Riek Machar, replacing them with people linked to a breakaway faction of Machar's SPLM-IO party. ](/news/2016/08/2/south-sudan-president-salva-kiir-fires-six-ministers-allied-to-his-long-time-rival-riek-machar-replacing-them-with-people-linked-to-a-break.md)
-_Context: Riek Machar, SPLM-IO, South Sudan President, Salva Kiir Mayardit_
+_Context: Riek Machar, Salva Kiir Mayardit, SPLM-IO, South Sudan President_
 
 ## [Previous Day...](/news/2016/08/1/index.md)
 

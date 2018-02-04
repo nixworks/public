@@ -9,7 +9,7 @@ _Context: Hosni Mubarak_
 
 ##### Southern Sudan
 ### [At least 16 people have been killed the Southern Sudanese state of Jonglei, breaking a ceasefire agreed last month. ](/news/2011/02/10/at-least-16-people-have-been-killed-the-southern-sudanese-state-of-jonglei-breaking-a-ceasefire-agreed-last-month.md)
-_Context: state, Jonglei, Southern Sudan_
+_Context: Southern Sudan, state, Jonglei_
 
 ##### suicide bomber
 ### [A suicide bomber attacks a Pakistan Army recruitment centre in northwestern Pakistan causing at least 27 deaths and 40 injuries. ](/news/2011/02/10/a-suicide-bomber-attacks-a-pakistan-army-recruitment-centre-in-northwestern-pakistan-causing-at-least-27-deaths-and-40-injuries.md)
@@ -21,7 +21,7 @@ _Context: Revolutionary Armed Forces of Colombia, Colombia_
 
 ##### Israel
 ### [Israeli forces remove Palestinian tents near Nablus of which 8 were reportedly used as homes.](/news/2011/02/10/israeli-forces-remove-palestinian-tents-near-nablus-of-which-8-were-reportedly-used-as-homes.md)
-_Context: Israel, Nablus_
+_Context: Nablus, Israel_
 
 ##### Vietnam
 ### [Vietnam is to host the debut International Choir Festival. ](/news/2011/02/10/vietnam-is-to-host-the-debut-international-choir-festival.md)
@@ -41,7 +41,7 @@ _Context: Allentown, Pennsylvania_
 
 ##### snowstorm
 ### [A snowstorm hits the Southeastern United States and Tennessee Valley with warnings in place across ten states. ](/news/2011/02/10/a-snowstorm-hits-the-southeastern-united-states-and-tennessee-valley-with-warnings-in-place-across-ten-states.md)
-_Context: snowstorm, Southeastern United States, Tennessee Valley_
+_Context: snowstorm, Tennessee Valley, Southeastern United States_
 
 ##### Communist Party of Cuba
 ### [Cuban Information and Communications Minister Medardo Diaz welcomes the arrival of an undersea fibre-optic cable linking it to Venezuela, which offered to help the island speed up its internet connection after the United States refused. ](/news/2011/02/10/cuban-information-and-communications-minister-medardo-diaz-welcomes-the-arrival-of-an-undersea-fibre-optic-cable-linking-it-to-venezuela-wh.md)
@@ -57,11 +57,11 @@ India and Pakistan haveagreed to formally resume peace talks that were broken of
 
 ##### Indonesia
 ### [The trial of Indonesian Muslim cleric Abu Bakar Bashir on terrorism charges begins in Jakarta. ](/news/2011/02/10/the-trial-of-indonesian-muslim-cleric-abu-bakar-bashir-on-terrorism-charges-begins-in-jakarta.md)
-_Context: Jakarta, Indonesia, terrorism, Abu Bakar Bashir, Muslim_
+_Context: Indonesia, terrorism, Muslim, Jakarta, Abu Bakar Bashir_
 
 ##### China
 ### [Blind Chinese activist Chen Guangcheng says, in a secretly shot video, that he is still under house arrest after being released from prison. ](/news/2011/02/10/blind-chinese-activist-chen-guangcheng-says-in-a-secretly-shot-video-that-he-is-still-under-house-arrest-after-being-released-from-prison.md)
-_Context: Chen Guangcheng, house arrest, China_
+_Context: China, house arrest, Chen Guangcheng_
 
 ##### the House of Commons
 ### [The British House of Commons votes 234-22 against prisoners receiving the right to vote. ](/news/2011/02/10/the-british-house-of-commons-votes-234-22-against-prisoners-receiving-the-right-to-vote.md)

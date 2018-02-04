@@ -9,7 +9,7 @@ _Context: Georgian foreign ministry_
 
 ##### housing crisis
 ### [ The American International Group seeks an emergency $40 billion loan from the United States Federal Reserve. ](/news/2008/09/14/the-american-international-group-seeks-an-emergency-40-billion-loan-from-the-united-states-federal-reserve.md)
-_Context: housing crisis, United States Federal Reserve, AIG_
+_Context: AIG, housing crisis, United States Federal Reserve_
 
 ##### Hurricane Ike
 ### [ Authorities in Texas have rescued nearly 2,000 victims of Hurricane Ike who refused to evacuate. ](/news/2008/09/14/authorities-in-texas-have-rescued-nearly-2-000-victims-of-hurricane-ike-who-refused-to-evacuate.md)
@@ -25,7 +25,7 @@ _Context: Ashkhabad, Turkmenistan_
 
 ##### Sebastian Vettel
 ### [ Sebastian Vettel of Toro Rosso wins the 2008 Italian Grand Prix at Monza, becoming the youngest driver in history to win a Formula One grand prix. ](/news/2008/09/14/sebastian-vettel-of-toro-rosso-wins-the-2008-italian-grand-prix-at-monza-becoming-the-youngest-driver-in-history-to-win-a-formula-one-gran.md)
-_Context: Sebastian Vettel, Monza, Toro Rosso, 2008 Italian Grand Prix, youngest driver_
+_Context: Toro Rosso, youngest driver, 2008 Italian Grand Prix, Monza, Sebastian Vettel_
 
 ##### Pont de l'Archevch
 ### [ Two people are killed and 10 injured when a tourist riverboat collides with a pillar of the Pont de l'Archevch and sinks, on the River Seine in Paris. ](/news/2008/09/14/two-people-are-killed-and-10-injured-when-a-tourist-riverboat-collides-with-a-pillar-of-the-pont-de-l-archeveche-and-sinks-on-the-river-se.md)
@@ -37,19 +37,19 @@ The acting prime minister of Thailand has lifted a state of emergency in the cap
 
 ##### National Party of Western Australia
 ### [ The National Party of Western Australia indicates that it will support the Liberal Party of Australia in forming a minority government in Western Australia. Liberal leader, Colin Barnett, becomes the Premier-elect and incumbent Premier Alan Carpenter of the Australian Labor Party concedes defeat. ](/news/2008/09/14/the-national-party-of-western-australia-indicates-that-it-will-support-the-liberal-party-of-australia-in-forming-a-minority-government-in-w.md)
-_Context: National Party of Western Australia, Colin Barnett, Liberals, Alan Carpenter, Western Australia, minority government, Premier, Australian Labor Party_
+_Context: Alan Carpenter, Colin Barnett, Australian Labor Party, Western Australia, National Party of Western Australia, Premier, minority government, Liberals_
 
 ##### Boeing 737
 ### [ Boeing 737 Aeroflot Flight 821 crashes near the city of Perm in Russia, killing all 88 on board. The cause of the crash is attributed to engine failure. ](/news/2008/09/14/boeing-737-aeroflot-flight-821-crashes-near-the-city-of-perm-in-russia-killing-all-88-on-board-the-cause-of-the-crash-is-attributed-to-en.md)
-_Context: Boeing 737, Aeroflot Flight 821, Russia, Perm_
+_Context: Russia, Aeroflot Flight 821, Boeing 737, Perm_
 
 ##### 2008 unrest in Bolivia
 ### [ Brazil suffers severe natural gas shortages following the cut off of natural gas supplies from Bolivia, which provides half of Brazil's natural gas. ](/news/2008/09/14/brazil-suffers-severe-natural-gas-shortages-following-the-cut-off-of-natural-gas-supplies-from-bolivia-which-provides-half-of-brazil-s-nat.md)
-_Context: Brazil, 2008 unrest in Bolivia_
+_Context: 2008 unrest in Bolivia, Brazil_
 
 ##### witchcraft
 ### [ Accusations of witchcraft cause football riots in the Democratic Republic of the Congo, resulting in 13 dead and 36 injured. ](/news/2008/09/14/accusations-of-witchcraft-cause-football-riots-in-the-democratic-republic-of-the-congo-resulting-in-13-dead-and-36-injured.md)
-_Context: football riots, witchcraft, DR Congo_
+_Context: witchcraft, football riots, DR Congo_
 
 ## [Previous Day...](/news/2008/09/13/index.md)
 

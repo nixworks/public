@@ -13,11 +13,11 @@ _Context: warhead, ballistic missile, nuclear weapon_
 
 ##### Sunni
 ### [ Thousands of Pakistani Sunni Muslims riot in Karachi, ransacking property, setting fire to four banks, and stoning vehicles after Mufti Nizamuddin Shamzai, an influential pro-Taliban cleric, is killed in a drive-by shooting. ](/news/2004/05/30/thousands-of-pakistani-sunni-muslims-riot-in-karachi-ransacking-property-setting-fire-to-four-banks-and-stoning-vehicles-after-mufti-niz.md)
-_Context: drive-by shooting, Nizamuddin Shamzai, Taliban, Sunni, Karachi_
+_Context: Nizamuddin Shamzai, Sunni, Taliban, Karachi, drive-by shooting_
 
 ##### Buddy Rice
 ### [ Buddy Rice wins the 2004 Indianapolis 500 driving for Rahal Letterman Racing. ](/news/2004/05/30/buddy-rice-wins-the-2004-indianapolis-500-driving-for-rahal-letterman-racing.md)
-_Context: 2004, Rahal, David Letterman, Buddy Rice, Indianapolis 500_
+_Context: David Letterman, Rahal, Buddy Rice, 2004, Indianapolis 500_
 
 ## [Previous Day...](/news/2004/05/29/index.md)
 

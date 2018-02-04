@@ -5,39 +5,39 @@ Formats: [HTML](2005/08/2/index.html)  [JSON](2005/08/2/index.json)  [XML](2005/
 
 ##### Iran
 ### [ In Iran, Judge Masoud Ahmadi Moghaddasi, who had ruled the case of Akbar Ganji, is assassinated by a gunman. ](/news/2005/08/2/in-iran-judge-masoud-ahmadi-moghaddasi-who-had-ruled-the-case-of-akbar-ganji-is-assassinated-by-a-gunman.md)
-_Context: Iran, Akbar Ganji, Masoud Ahmadi Moghaddasi_
+_Context: Masoud Ahmadi Moghaddasi, Iran, Akbar Ganji_
 
 ##### George W. Bush
 ### [ President Bush endorses intelligent design, stating that it should be taught in school. He is quoted as saying: "I think that part of education is to expose people to different schools of thought. You're asking me whether or not people ought to be exposed to different ideas, the answer is yes." A large portion of the scientific community does not recognise ID as a scientific theory and considers it to be creationist pseudoscience.](/news/2005/08/2/president-bush-endorses-intelligent-design-stating-that-it-should-be-taught-in-school-he-is-quoted-as-saying-i-think-that-part-of-educa.md)
-_Context: George W. Bush, creationist, intelligent design, pseudoscience, scientific theory, scientific community_
+_Context: scientific theory, George W. Bush, pseudoscience, creationist, scientific community, intelligent design_
 
 ##### landing
 ### [ While landing during a severe lightning storm, Air France Flight 358 skidded off the runway at Toronto Pearson International Airport at 4:03 p.m. local time and burst into flames. All 309 passengers and crew on board survive. ](/news/2005/08/2/while-landing-during-a-severe-lightning-storm-air-france-flight-358-skidded-off-the-runway-at-toronto-pearson-international-airport-at-4-0.md)
-_Context: Toronto Pearson International Airport, landing, runway, Air France Flight 358_
+_Context: Toronto Pearson International Airport, landing, Air France Flight 358, runway_
 
 ##### disengagement
 ### [ Anti-disengagement protesters rally in Sderot. The organizers said the crowd numbered 50,000, but police estimated the figure between 10,000 and 15,000. Some 18,000 troops and 12,000 police are involved in preventing protesters from getting to the Gush Katif Israeli settlement on the Gaza Strip. ](/news/2005/08/2/anti-disengagement-protesters-rally-in-sderot-the-organizers-said-the-crowd-numbered-50-000-but-police-estimated-the-figure-between-10-00.md)
-_Context: Gaza Strip, disengagement, Israeli settlement, Sderot, Gush Katif_
+_Context: Israeli settlement, Gaza Strip, disengagement, Sderot, Gush Katif_
 
 ##### Stanford University
 ### [ Scientists at Stanford University have used nanotechnology to kill cancer cells without harming healthy tissue. ](/news/2005/08/2/scientists-at-stanford-university-have-used-nanotechnology-to-kill-cancer-cells-without-harming-healthy-tissue.md)
-_Context: cell, nanotechnology, Stanford University, cancer, tissue_
+_Context: cancer, Stanford University, cell, nanotechnology, tissue_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: At least 15 people have died following a series of insurgent attacks throughout Iraq. ](/news/2005/08/2/conflict-in-iraq-at-least-15-people-have-died-following-a-series-of-insurgent-attacks-throughout-iraq.md)
-_Context: Iraqi insurgency, Conflict in Iraq, Iraq_
+_Context: Conflict in Iraq, Iraq, Iraqi insurgency_
 
 ##### CNOOC
 ### [ The Chinese national oil company CNOOC has withdrawn a bid for Unocal quelling the fears that the deal would give a foreign government too much control over American oil reserves. Chevron is now expected to acquire Unocal. ](/news/2005/08/2/the-chinese-national-oil-company-cnooc-has-withdrawn-a-bid-for-unocal-quelling-the-fears-that-the-deal-would-give-a-foreign-government-too.md)
-_Context: Chevron Corporation, Unocal, oil, CNOOC_
+_Context: Unocal, oil, CNOOC, Chevron Corporation_
 
 ##### Zimbabwe
 ### [ In Zimbabwe, state prosecutors dropped treason charges against opposition leader Morgan Tsvangirai. Mr Tsvangirai, leader of the Movement for Democratic Change, was accused of organising mass protests in 2003 to overthrow Robert Mugabe's controversial regime. ](/news/2005/08/2/in-zimbabwe-state-prosecutors-dropped-treason-charges-against-opposition-leader-morgan-tsvangirai-mr-tsvangirai-leader-of-the-movement-f.md)
-_Context: Morgan Tsvangirai, prosecutor, Robert Mugabe, 2003, Zimbabwe, Movement for Democratic Change_
+_Context: Morgan Tsvangirai, 2003, prosecutor, Movement for Democratic Change, Robert Mugabe, Zimbabwe_
 
 ##### German
 ### [ In Germany, police in Brandenburg announce that they have uncovered bones of nine newborn babies that had been buried in flower pots. The woman believed to be their mother, identified in newspapers as "Sabine H.", has been arrested in the worst case of individual infanticide in German history. ](/news/2005/08/2/in-germany-police-in-brandenburg-announce-that-they-have-uncovered-bones-of-nine-newborn-babies-that-had-been-buried-in-flower-pots-the-w.md)
-_Context: Sabine H., Brandenburg, German, infanticide_
+_Context: infanticide, Sabine H., Brandenburg, German_
 
 ##### Malaysia
 ### [ Malaysia, Indonesia and Singapore agree to joint anti-piracy patrols in the Malacca Strait. ](/news/2005/08/2/malaysia-indonesia-and-singapore-agree-to-joint-anti-piracy-patrols-in-the-malacca-strait.md)
@@ -45,11 +45,11 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 
 ##### Turkish
 ### [ In Turkey, two explosions injure 6 people in Antalya, a popular tourist resort. The tourism minister blames gas leaks but the police are investigating. ](/news/2005/08/2/in-turkey-two-explosions-injure-6-people-in-antalya-a-popular-tourist-resort-the-tourism-minister-blames-gas-leaks-but-the-police-are-in.md)
-_Context: Antalya, police, gas leak, Turkish_
+_Context: Antalya, Turkish, police, gas leak_
 
 ##### France
 ### [ In France, medical authorities investigate a case where remains of 351 stillborn fetuses had been kept in storage in St Vincent de Paul hospital against the law and the parents' consent. ](/news/2005/08/2/in-france-medical-authorities-investigate-a-case-where-remains-of-351-stillborn-fetuses-had-been-kept-in-storage-in-st-vincent-de-paul-hos.md)
-_Context: St Vincent de Paul hospital, stillborn, fetus, France_
+_Context: stillborn, St Vincent de Paul hospital, fetus, France_
 
 ## [Previous Day...](/news/2005/08/1/index.md)
 

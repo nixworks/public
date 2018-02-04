@@ -9,7 +9,7 @@ _Context: Italian Alps, mountain climber_
 
 ##### Oxford
 ### [ People are evacuated from houses in Oxford due to the 2007 United Kingdom floods as the 350,000 people in Gloucestershire without running water are supplied with bottled water. ](/news/2007/07/24/people-are-evacuated-from-houses-in-oxford-due-to-the-2007-united-kingdom-floods-as-the-350-000-people-in-gloucestershire-without-running-w.md)
-_Context: 2007 United Kingdom floods, Oxford, Gloucestershire_
+_Context: Gloucestershire, Oxford, 2007 United Kingdom floods_
 
 ##### Tony Blair
 ### [ Tony Blair meets with Israeli and Palestinian leaders on his first trip to the region as a peace envoy. ](/news/2007/07/24/tony-blair-meets-with-israeli-and-palestinian-leaders-on-his-first-trip-to-the-region-as-a-peace-envoy.md)
@@ -17,15 +17,15 @@ Tony Blair spoke of a &quot;moment of opportunity&quot; after he met Palestinian
 
 ##### Macedonian
 ### [ Republic of Macedonia, Albania and Serbian autonomous province of Kosovo are experiencing blackouts as a result of the 2007 European heatwave that spreads over the Balkans. It also causes bushfires everywhere in the region between Croatia, Hungary, Serbia and Greece. ](/news/2007/07/24/republic-of-macedonia-albania-and-serbian-autonomous-province-of-kosovo-are-experiencing-blackouts-as-a-result-of-the-2007-european-heatwa.md)
-_Context: Macedonian, Kosovo, Albania, Serbia, Croatia, Greece, Hungary_
+_Context: Greece, Macedonian, Kosovo, Serbia, Albania, Hungary, Croatia_
 
 ##### Team Astana
 ### [ Team Astana retires from the 2007 Tour de France following Kazakh rider Alexander Vinokourov testing positive for a banned blood transfusion. ](/news/2007/07/24/team-astana-retires-from-the-2007-tour-de-france-following-kazakh-rider-alexander-vinokourov-testing-positive-for-a-banned-blood-transfusio.md)
-_Context: Kazakhstan, blood transfusion, Alexander Vinokourov, 2007 Tour de France, Team Astana_
+_Context: 2007 Tour de France, blood transfusion, Alexander Vinokourov, Kazakhstan, Team Astana_
 
 ##### New Haven
 ### [ New Haven, Connecticut becomes the first United States city to give identification cards to undocumented immigrants. ](/news/2007/07/24/new-haven-connecticut-becomes-the-first-united-states-city-to-give-identification-cards-to-undocumented-immigrants.md)
-_Context: Connecticut, United States, New Haven, undocumented immigrant, identification card_
+_Context: identification card, New Haven, undocumented immigrant, Connecticut, United States_
 
 ##### Vladimir Putin
 ### [ Vladimir Putin, the President of Russia, accuses the United Kingdom of "colonial thinking" for wishing to extradite Andrei Lugovoi to face trial for the alleged murder of Alexander Litvinenko. ](/news/2007/07/24/vladimir-putin-the-president-of-russia-accuses-the-united-kingdom-of-colonial-thinking-for-wishing-to-extradite-andrei-lugovoi-to-face.md)
@@ -37,7 +37,7 @@ President of New Caledonia, Marie-Noelle Themereau, has resigned.
 
 ##### suicide bomber
 ### [ A suicide car bomber kills at least 22 people in the Iraqi town of Hilla. ](/news/2007/07/24/a-suicide-car-bomber-kills-at-least-22-people-in-the-iraqi-town-of-hilla.md)
-_Context: suicide bomber, Hilla, Iraq_
+_Context: Iraq, Hilla, suicide bomber_
 
 ##### Hungary
 ### [ One of Hungary's top health official says almost 500 people in the country have died in the past week as a result of a heat wave. ](/news/2007/07/24/one-of-hungary-s-top-health-official-says-almost-500-people-in-the-country-have-died-in-the-past-week-as-a-result-of-a-heat-wave.md)
@@ -45,11 +45,11 @@ _Context: heat wave, Hungary_
 
 ##### Sulawesi island
 ### [ Dozens of people are missing in Sulawesi, Indonesia as a result of recent floods and landslides. ](/news/2007/07/24/dozens-of-people-are-missing-in-sulawesi-indonesia-as-a-result-of-recent-floods-and-landslides.md)
-_Context: flood, Sulawesi island, Indonesia, landslide_
+_Context: flood, landslide, Sulawesi island, Indonesia_
 
 ##### Bulgaria
 ### [ The 5 Bulgarian nurses and the Palestinian assistant, imprisoned in Libya for 8 years and that had been sentenced to death, in several trials based on allegations of having inoculated AIDS to children, are leaving Libya and returning back to Sofia with Mrs Ccilia Sarkozy who negotiated their liberation. ](/news/2007/07/24/the-5-bulgarian-nurses-and-the-palestinian-assistant-imprisoned-in-libya-for-8-years-and-that-had-been-sentenced-to-death-in-several-tria.md)
-_Context: Sofia, Libya, Ccilia, Bulgaria, AIDS, Palestine, HIV trial in Libya_
+_Context: HIV trial in Libya, Libya, Bulgaria, Ccilia, Sofia, Palestine, AIDS_
 
 ## [Previous Day...](/news/2007/07/23/index.md)
 

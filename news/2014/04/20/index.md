@@ -13,7 +13,7 @@ CAIRO (Reuters) - Gunmen killed an Egyptian intelligence officer and a policeman
 
 ##### Pope Francis
 ### [Over 150,000 people turn out for Pope Francis' Easter mass, as Christians around the world observe the holiday celebrating the resurrection of Jesus Christ. ](/news/2014/04/20/over-150-000-people-turn-out-for-pope-francis-easter-mass-as-christians-around-the-world-observe-the-holiday-celebrating-the-resurrection.md)
-_Context: Easter, Pope Francis, resurrection of Jesus Christ_
+_Context: resurrection of Jesus Christ, Pope Francis, Easter_
 
 ##### Sewol
 ### [The death toll rises to 58 as Navy and Coast Guard divers comb the ferry to retrieve victims from the Sewol. Five routes into the ferry have been established, and operations are expected to pick up pace. ](/news/2014/04/20/the-death-toll-rises-to-58-as-navy-and-coast-guard-divers-comb-the-ferry-to-retrieve-victims-from-the-sewol-five-routes-into-the-ferry-have.md)

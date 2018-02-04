@@ -33,7 +33,7 @@ _Context: Yemen_
 
 ##### Uganda
 ### [Ugandan opposition leader Kizza Besigye says the government may fall amid ongoing protests, unless President Yoweri Museveni offers concessions. ](/news/2011/05/15/ugandan-opposition-leader-kizza-besigye-says-the-government-may-fall-amid-ongoing-protests-unless-president-yoweri-museveni-offers-concessi.md)
-_Context: Uganda, Yoweri Museveni, Kizza Besigye_
+_Context: Uganda, Kizza Besigye, Yoweri Museveni_
 
 ##### Tunisia
 ### [Tunisian security forces arrest two suspected members of Al Qaeda in the Islamic Maghreb carrying bombs and explosives near the city of Ramada. ](/news/2011/05/15/tunisian-security-forces-arrest-two-suspected-members-of-al-qaeda-in-the-islamic-maghreb-carrying-bombs-and-explosives-near-the-city-of-rama.md)
@@ -41,7 +41,7 @@ Tunisian security forces havearrested two people suspected of being members of a
 
 ##### Caserio La Bomba
 ### [29 people are decapitated in a massacre in Caserio La Bomba, Peten, Guatemala, in an atrocity possibly linked to the Los Zetas Cartel. ](/news/2011/05/15/29-people-are-decapitated-in-a-massacre-in-caserio-la-bomba-peta-c-n-guatemala-in-an-atrocity-possibly-linked-to-the-los-zetas-cartel.md)
-_Context: Guatemala, Caserio La Bomba, Peten, Los Zetas Cartel_
+_Context: Los Zetas Cartel, Guatemala, Caserio La Bomba, Peten_
 
 ##### Bob Dylan
 ### [Singer Bob Dylan denies censoring his shows while performing in China. ](/news/2011/05/15/singer-bob-dylan-denies-censoring-his-shows-while-performing-in-china.md)
@@ -53,11 +53,11 @@ The head of the International Monetary Fund, Dominique Strauss-Kahn, faces sex a
 
 ##### Sony
 ### [Sony starts restoring its PlayStation Network following the recent PlayStation Network outage on a country-by-country basis, with all services to be restored by the end of May. ](/news/2011/05/15/sony-starts-restoring-its-playstation-network-following-the-recent-playstation-network-outage-on-a-country-by-country-basis-with-all-servic.md)
-_Context: PlayStation Network outage, PlayStation Network, Sony_
+_Context: PlayStation Network, Sony, PlayStation Network outage_
 
 ##### demining
 ### [Three de-miners are killed in an explosion during landmine detection and removal operations in Kampong Speu Province, western Cambodia. ](/news/2011/05/15/three-de-miners-are-killed-in-an-explosion-during-landmine-detection-and-removal-operations-in-kampong-speu-province-western-cambodia.md)
-_Context: landmine, Cambodia, demining, Kampong Speu Province_
+_Context: demining, Cambodia, Kampong Speu Province, landmine_
 
 ##### Morganza Spillway
 ### [The Morganza Spillway on the Mississippi River has been opened for the first time in 37 years, deliberately flooding 3,000 square miles of rural Louisiana to save most of Baton Rouge and New Orleans. ](/news/2011/05/15/the-morganza-spillway-on-the-mississippi-river-has-been-opened-for-the-first-time-in-37-years-deliberately-flooding-3-000-square-miles-of-r.md)
@@ -69,11 +69,11 @@ _Context: US state, Aurora, Illinois_
 
 ##### Canadian
 ### [More than a thousand people are evacuated from the Canadian town of Slave Lake, Alberta, due to a wildfire. ](/news/2011/05/15/more-than-a-thousand-people-are-evacuated-from-the-canadian-town-of-slave-lake-alberta-due-to-a-wildfire.md)
-_Context: Alberta, wildfire, Slave Lake, Canadian_
+_Context: Canadian, Slave Lake, wildfire, Alberta_
 
 ##### United Nations
 ### [A United Nations report alleges that Iran and North Korea have been secretly exchanging ballistic missile technology. ](/news/2011/05/15/a-united-nations-report-alleges-that-iran-and-north-korea-have-been-secretly-exchanging-ballistic-missile-technology.md)
-_Context: United Nations, Iran, ballistic missile, North Korea_
+_Context: North Korea, United Nations, Iran, ballistic missile_
 
 ##### The New York Times
 ### ["The New York Times" reports that private military company Xe Services LLC (previously Blackwater Worldwide) is putting together an army of mercenaries in the United Arab Emirates. ](/news/2011/05/15/the-new-york-times-reports-that-private-military-company-xe-services-llc-previously-blackwater-worldwide-is-putting-together-an-army-of.md)
@@ -81,7 +81,7 @@ Erik Prince has been hired to assemble a force of foreign troops in the United A
 
 ##### Nabil el-Araby
 ### [Nabil el-Araby is elected as Secretary General of the Arab League, succeeding Amr Moussa, who will run as a candidate in the Egyptian presidential election in September. ](/news/2011/05/15/nabil-el-araby-is-elected-as-secretary-general-of-the-arab-league-succeeding-amr-moussa-who-will-run-as-a-candidate-in-the-egyptian-presid.md)
-_Context: Egyptian presidential election in September, Amr Moussa, Arab League, Secretary General, Nabil el-Araby_
+_Context: Secretary General, Nabil el-Araby, Arab League, Egyptian presidential election in September, Amr Moussa_
 
 ##### Fiji
 ### [Fiji declares Lieutenant Colonel Ratu Tevita Uluilakeba Mara a fugitive after he flees the country with the help of the Royal Tongan Navy. He had been charged a week earlier with mutiny and attempting to overthrow the Fijian government. ](/news/2011/05/15/fiji-declares-lieutenant-colonel-ratu-tevita-uluilakeba-mara-a-fugitive-after-he-flees-the-country-with-the-help-of-the-royal-tongan-navy-h.md)
@@ -101,7 +101,7 @@ The Bulgarian man accused of stabbing and beheading a UK woman in a shop on the 
 
 ##### M-Bone
 ### [US rapper M-Bone, of the hip hop group Cali Swag District, is killed in a drive-by shooting in the Los Angeles suburb of Inglewood. ](/news/2011/05/15/us-rapper-m-bone-of-the-hip-hop-group-cali-swag-district-is-killed-in-a-drive-by-shooting-in-the-los-angeles-suburb-of-inglewood.md)
-_Context: Cali Swag District, Los Angeles, California, M-Bone, Inglewood, drive-by shooting, hip hop_
+_Context: Los Angeles, California, Inglewood, M-Bone, Cali Swag District, drive-by shooting, hip hop_
 
 ##### Iran
 ### [The Iranian Supreme Leader, Ayatollah Ali Khamenei, publicly accuses President Mahmoud Ahmadinejad of being "under a spell", amid a deepening political crisis in the country. ](/news/2011/05/15/the-iranian-supreme-leader-ayatollah-ali-khamenei-publicly-accuses-president-mahmoud-ahmadinejad-of-being-under-a-spell-amid-a-deepenin.md)

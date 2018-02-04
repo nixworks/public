@@ -21,7 +21,7 @@ _Context: Sudan, Heglig, South Sudan_
 
 ##### Russia
 ### [Russian Orthodox patriarch Kirill says the church is stronger than its critics after a series of scandals. ](/news/2012/04/15/russian-orthodox-patriarch-kirill-says-the-church-is-stronger-than-its-critics-after-a-series-of-scandals.md)
-_Context: Kirill, Russia, Orthodox_
+_Context: Orthodox, Kirill, Russia_
 
 ##### Spain
 ### [Spanish King Juan Carlos is criticised for going on a hunting trip to Botswana while his country is in an economic crisis. ](/news/2012/04/15/spanish-king-juan-carlos-is-criticised-for-going-on-a-hunting-trip-to-botswana-while-his-country-is-in-an-economic-crisis.md)
@@ -37,15 +37,15 @@ Police beef up airport presence in anticipation of pro-Palestinians&#8217; arriv
 
 ##### U.S. Secret Service
 ### [The U.S. Secret Service announces it has put 11 agents on leave while it investigates alleged "inappropriate conduct" in Cartagena, Colombia, before the 6th Summit of the Americas there attended by U.S. President Barack Obama. It emerges that five soldiers are also facing investigation. ](/news/2012/04/15/the-u-s-secret-service-announces-it-has-put-11-agents-on-leave-while-it-investigates-alleged-inappropriate-conduct-in-cartagena-colombia.md)
-_Context: U.S. Secret Service, Barack Obama, 6th Summit of the Americas, Cartagena_
+_Context: 6th Summit of the Americas, Cartagena, Barack Obama, U.S. Secret Service_
 
 ##### North Korea
 ### [In his first public speech, North Korean leader Kim Jong-un calls for a push towards "final victory" at a ceremony in Kim Il-sung Square in the capital Pyongyang. ](/news/2012/04/15/in-his-first-public-speech-north-korean-leader-kim-jong-un-calls-for-a-push-towards-final-victory-at-a-ceremony-in-kim-il-sung-square-in.md)
-_Context: Pyongyang, Kim Jong-un, North Korea, Kim Il-sung Square_
+_Context: North Korea, Kim Il-sung Square, Pyongyang, Kim Jong-un_
 
 ##### Swaziland
 ### [Police in Swaziland detain at least seven activists on their way to a pro-democracy church service in the city of Manzini. ](/news/2012/04/15/police-in-swaziland-detain-at-least-seven-activists-on-their-way-to-a-pro-democracy-church-service-in-the-city-of-manzini.md)
-_Context: democratic, Manzini, Swaziland_
+_Context: Manzini, democratic, Swaziland_
 
 ##### Belarus
 ### [Belarus releases a second opposition leader amid pressure from the European Union. ](/news/2012/04/15/belarus-releases-a-second-opposition-leader-amid-pressure-from-the-european-union.md)

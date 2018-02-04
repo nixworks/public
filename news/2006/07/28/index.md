@@ -5,7 +5,7 @@ Formats: [HTML](2006/07/28/index.html)  [JSON](2006/07/28/index.json)  [XML](200
 
 ##### U.S. state
 ### [ Six people are shot, one fatally, at the Jewish Federation of Greater Seattle in the U.S. state of Washington in a religiously-motivated killing spree. The killer identified himself as a Muslim American who was angry over the 2006 Israel-Lebanon conflict. ](/news/2006/07/28/six-people-are-shot-one-fatally-at-the-jewish-federation-of-greater-seattle-in-the-u-s-state-of-washington-in-a-religiously-motivated-ki.md)
-_Context: war, Washington, Muslim American, religiously-motivated killing spree, U.S. state_
+_Context: Washington, U.S. state, Muslim American, war, religiously-motivated killing spree_
 
 ##### UN
 ### [ The UN Security Council approves a resolution to give Iran until the end of August to suspend uranium enrichment or face the threat of sanctions. ](/news/2006/07/28/the-un-security-council-approves-a-resolution-to-give-iran-until-the-end-of-august-to-suspend-uranium-enrichment-or-face-the-threat-of-sanc.md)
@@ -25,11 +25,11 @@ _Context: fluorine, China, Jiangsu Province_
 
 ##### 2006 Kodori crisis
 ### [ 2006 Kodori crisis: both Georgia and Abkhazia threaten war over the dispute. ](/news/2006/07/28/2006-kodori-crisis-both-georgia-and-abkhazia-threaten-war-over-the-dispute.md)
-_Context:  Georgian, 2006 Kodori crisis, Abkhazia_
+_Context: Abkhazia, 2006 Kodori crisis,  Georgian_
 
 ##### United States
 ### [ The United States should immediately close all secret detention facilities used in its campaign against terror groups, the UN Human Rights Committee has said. ](/news/2006/07/28/the-united-states-should-immediately-close-all-secret-detention-facilities-used-in-its-campaign-against-terror-groups-the-un-human-rights.md)
-_Context: United States, UN, Human Rights Committee, secret detention facilities_
+_Context: United States, Human Rights Committee, UN, secret detention facilities_
 
 ##### World Outgames
 ### [ The first World Outgames are held in Montreal, Canada. Outgames co-president and Canadian Olympian, Mark Tewksbury, states that the event will "bridge the gap between the gay sport movement and the traditional sport movement.](/news/2006/07/28/the-first-world-outgames-are-held-in-montreal-canada-outgames-co-president-and-canadian-olympian-mark-tewksbury-states-that-the-event-w.md)

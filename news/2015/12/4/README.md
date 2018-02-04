@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/4/index.html)  [JSON](2015/12/4/index.json)  [XML](2015/
 
 ##### War in Afghanistan (2015-present)
 ### [A mortar attack in Afghanistan's central Wardak province kills at least 12 people. ](/news/2015/12/4/a-mortar-attack-in-afghanistan-s-central-wardak-province-kills-at-least-12-people.md)
-_Context: War in Afghanistan (2015-present), Mortar, Wardak province, Afghanistan_
+_Context: War in Afghanistan (2015-present), Afghanistan, Wardak province, Mortar_
 
 ##### Military intervention against ISIL
 ### [In an act of solidarity with France following the Paris massacre, Germany's parliament (the Bundestag) approves measures to move past the military's primary defensive role, to send six of its 29 operational, yet aged, Tornado reconnaissance aircraft, and as many as 1,200 soldiers to support the coalition missions against Islamic State militants in Syria. The airplanes will be limited to support activities; they will not fly combat missions. ](/news/2015/12/4/in-an-act-of-solidarity-with-france-following-the-paris-massacre-germany-s-parliament-the-bundestag-approves-measures-to-move-past-the-mi.md)
@@ -29,15 +29,15 @@ As thousands of residents of Chennai and suburbs were rescued from inundated are
 
 ##### Obama administration
 ### [The Obama Administration and the International Rescue Committee ask a federal judge to reject attempts by Texas to block Syrian refugees from resettling in the state. Later, the Texas Attorney General withdraws the state's December 2, 2015 request for a temporary restraining order. ](/news/2015/12/4/the-obama-administration-and-the-international-rescue-committee-ask-a-federal-judge-to-reject-attempts-by-texas-to-block-syrian-refugees-fro.md)
-_Context: International Rescue Committee, Texas Attorney General, Obama administration, temporary restraining order, refugees from Syria, Texas, federal judge_
+_Context: Obama administration, International Rescue Committee, temporary restraining order, Texas, refugees from Syria, federal judge, Texas Attorney General_
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court agrees to hear an appeal case concerning Puerto Rico's restructuring of debt. ](/news/2015/12/4/the-u-s-supreme-court-agrees-to-hear-an-appeal-case-concerning-puerto-rico-s-restructuring-of-debt.md)
-_Context: Puerto Rico, Supreme Court of the United States_
+_Context: Supreme Court of the United States, Puerto Rico_
 
 ##### Shi Taifeng
 ### [Authorities name Shi Taifeng Acting Governor of Jiangsu province in China, replacing Li Xueyong, who retired due to age. ](/news/2015/12/4/authorities-name-shi-taifeng-acting-governor-of-jiangsu-province-in-china-replacing-li-xueyong-who-retired-due-to-age.md)
-_Context: Jiangsu, Li Xueyong, Shi Taifeng_
+_Context: Jiangsu, Shi Taifeng, Li Xueyong_
 
 ## [Previous Day...](/news/2015/12/3/index.md)
 

@@ -17,7 +17,7 @@ Iraqi military helicopters destroy a convoy of fuel tankers inside Syria, allegi
 
 ##### John XXIII
 ### [Popes John XXIII and John Paul II are declared saints by Pope Francis in the first papal canonization since 1954. ](/news/2014/04/27/popes-john-xxiii-and-john-paul-ii-are-declared-saints-by-pope-francis-in-the-first-papal-canonization-since-1954.md)
-_Context: John XXIII, saints, Pope John Paul II, Pope Francis_
+_Context: saints, Pope Francis, John XXIII, Pope John Paul II_
 
 ##### Russia
 ### [Eight people are killed by a fire in a medical facility in Russia's eastern Altai region.](/news/2014/04/27/eight-people-are-killed-by-a-fire-in-a-medical-facility-in-russia-s-eastern-altai-region.md)

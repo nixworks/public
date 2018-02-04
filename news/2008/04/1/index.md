@@ -9,19 +9,19 @@ _Context: massacre of 17 aid workers, Sri Lanka, 2006_
 
 ##### Sweden
 ### [ The Swedish national postal service will merge with its Danish counterpart, the new group will be based in Stockholm. ](/news/2008/04/1/the-swedish-national-postal-service-will-merge-with-its-danish-counterpart-the-new-group-will-be-based-in-stockholm.md)
-_Context: Denmark, Stockholm, Sweden, counterpart, postal service_
+_Context: postal service, counterpart, Denmark, Sweden, Stockholm_
 
 ##### Finland
 ### [ Finland's Foreign Minister Ilkka Kanerva is forced to resign after a scandal involving 200 text messages sent to a stripper. ](/news/2008/04/1/finland-s-foreign-minister-ilkka-kanerva-is-forced-to-resign-after-a-scandal-involving-200-text-messages-sent-to-a-stripper.md)
-_Context: Finland, Ilkka Kanerva, stripper, text messages_
+_Context: stripper, text messages, Finland, Ilkka Kanerva_
 
 ##### Dalai Lama
 ### [ India warns the Dalai Lama not to anger the People's Republic of China. ](/news/2008/04/1/india-warns-the-dalai-lama-not-to-anger-the-people-s-republic-of-china.md)
-_Context: Dalai Lama, China_
+_Context: China, Dalai Lama_
 
 ##### parliamentary
 ### [ Delays in releasing the official results of parliamentary and presidential elections in Zimbabwe are met with widespread speculation and concerns over possible vote rigging. ](/news/2008/04/1/delays-in-releasing-the-official-results-of-parliamentary-and-presidential-elections-in-zimbabwe-are-met-with-widespread-speculation-and-co.md)
-_Context: run-off presidential election, Zimbabwe, electoral fraud, parliamentary_
+_Context: Zimbabwe, electoral fraud, run-off presidential election, parliamentary_
 
 ## [Previous Day...](/news/2008/03/31/index.md)
 

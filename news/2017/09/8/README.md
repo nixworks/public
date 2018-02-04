@@ -25,7 +25,7 @@ The U.S. State Department has approved a package of potential arms sales worth m
 
 ##### North Korea-Philippines relations
 ### [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md)
-_Context: 2017 North Korean missile tests, North Korea-Philippines relations, North Korea, Philippines, United Nations Security Council_
+_Context: 2017 North Korean missile tests, North Korea, United Nations Security Council, Philippines, North Korea-Philippines relations_
 
 ##### 2017 Qatar diplomatic crisis
 ### [Qatar Emir Sheikh Tamim bin Hamad al-Than telephones Saudi Arabia Crown Prince Mohammad bin Salman to discuss the three-month old crisis. ](/news/2017/09/8/qatar-emir-sheikh-tamim-bin-hamad-al-than-telephones-saudi-arabia-crown-prince-mohammad-bin-salman-to-discuss-the-three-month-old-crisis.md)
@@ -37,7 +37,7 @@ The son of a Russian lawmaker accused of stealing credit card data and other per
 
 ##### Law of Brazil
 ### [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temer-s-brazilian-democratic-mov.md)
-_Context: Rodrigo Janot, Brazilian Democratic Movement Party, Brazil, Supreme Court, Michel Temer, Law of Brazil_
+_Context: Michel Temer, Rodrigo Janot, Law of Brazil, Supreme Court, Brazil, Brazilian Democratic Movement Party_
 
 ##### University of California
 ### [The University of California files a lawsuit against the potential termination of the Deferred Action for Childhood Arrivals programme which may affect more than 4,000 students. ](/news/2017/09/8/the-university-of-california-files-a-lawsuit-against-the-potential-termination-of-the-deferred-action-for-childhood-arrivals-programme-which.md)

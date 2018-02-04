@@ -17,7 +17,7 @@ _Context: Tunisia, British, 2015 Sousse attacks_
 
 ##### Yemeni Crisis (2011-present)
 ### [A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md)
-_Context: United States, Yemen, Yemeni Crisis (2011-present)_
+_Context: Yemen, United States, Yemeni Crisis (2011-present)_
 
 ##### International Tchaikovsky Competition
 ### [The XV International Tchaikovsky Competition concludes with a ceremony awarding top prizes to Dmitry Masleev in piano, Yu-Chien Tseng in violin, Andrei Ionut Ionita in cello, as well as Yulia Matochkina and Ariunbaatar Ganbaatar in voice. ](/news/2015/07/3/the-xv-international-tchaikovsky-competition-concludes-with-a-ceremony-awarding-top-prizes-to-dmitry-masleev-in-piano-yu-chien-tseng-in-vio.md)
@@ -25,11 +25,11 @@ The Awards Ceremony took place tonight, Wednesday 1 July, at the Tchaikovsky Con
 
 ##### health insurance
 ### [American health insurer Aetna agrees to buy competitor Humana in a $37 billion deal. ](/news/2015/07/3/american-health-insurer-aetna-agrees-to-buy-competitor-humana-in-a-37-billion-deal.md)
-_Context: Humana, Aetna, health insurance_
+_Context: Humana, health insurance, Aetna_
 
 ##### UBS
 ### [A UBS whistle blower is assisting the government of Brazil in its investigation of currency manipulation by global banks, according to a Brazilian paper. ](/news/2015/07/3/a-ubs-whistle-blower-is-assisting-the-government-of-brazil-in-its-investigation-of-currency-manipulation-by-global-banks-according-to-a-bra.md)
-_Context: Brazil, currency manipulation, UBS_
+_Context: currency manipulation, UBS, Brazil_
 
 ##### Ulsan
 ### [Six people are dead following an explosion at a chemical plant in Ulsan in South Korea. ](/news/2015/07/3/six-people-are-dead-following-an-explosion-at-a-chemical-plant-in-ulsan-in-south-korea.md)
@@ -41,7 +41,7 @@ After slamming the eastern coast of China, Chan-hom bring heavy rain to Korean P
 
 ##### earthquake
 ### [At least four people are dead and 48 injured following a 6.5 magnitude earthquake in Pishan County in China's Xinjiang region. ](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.md)
-_Context: Pishan County, China, earthquake, Xinjiang_
+_Context: China, Xinjiang, earthquake, Pishan County_
 
 ##### Sinking of the Kim Nirvana
 ### [The death toll from yesterday's capsizing of the M-B Nivana off the coast of the Philippines rises to 56 as murder charges are filed against the owner and crew. ](/news/2015/07/3/the-death-toll-from-yesterday-s-capsizing-of-the-m-b-nivana-off-the-coast-of-the-philippines-rises-to-56-as-murder-charges-are-filed-against.md)
@@ -65,15 +65,15 @@ Police in The Hague said Friday they had detained more than 200 people overnight
 
 ##### Jeffrey Webb
 ### [Jeffrey Webb, a former Vice President of FIFA and President of CONCACAF, is reportedly charged with healthcare fraud in his native Cayman Islands. ](/news/2015/07/3/jeffrey-webb-a-former-vice-president-of-fifa-and-president-of-concacaf-is-reportedly-charged-with-healthcare-fraud-in-his-native-cayman-is.md)
-_Context: Jeffrey Webb, Cayman Islands, FIFA, CONCACAF_
+_Context: Cayman Islands, CONCACAF, FIFA, Jeffrey Webb_
 
 ##### Danish general election, 2015
 ### [Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md)
-_Context: Danish general election, 2015, speaker of the Danish parliament, Folketing, Pia Kjaersgaard_
+_Context: Folketing, speaker of the Danish parliament, Danish general election, 2015, Pia Kjaersgaard_
 
 ##### United States Air Force
 ### [The U.S. Air Force's outgoing chief scientist, Mica Endsley, announces plans for an unmanned hypersonic flying weapon by 2023, which could travel at least up to Mach 5. ](/news/2015/07/3/the-u-s-air-force-s-outgoing-chief-scientist-mica-endsley-announces-plans-for-an-unmanned-hypersonic-flying-weapon-by-2023-which-could-t.md)
-_Context: hypersonic, Mach, Mica Endsley, United States Air Force_
+_Context: Mica Endsley, United States Air Force, Mach, hypersonic_
 
 ##### solar-powered aircraft
 ### [The solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/the-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnavigation-trip-starting-in.md)

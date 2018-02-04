@@ -5,7 +5,7 @@ Formats: [HTML](2016/04/17/index.html)  [JSON](2016/04/17/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [Heavy fighting continues in the north of Afghanistan as Taliban fighters intensify their attacks in several districts around Kunduz in their bid to retake the city. According to a police chief, militants overnight attacked several police checkpoints in the southwest outskirts of the city while government forces repelled a major attack to the east of Kunduz. ](/news/2016/04/17/heavy-fighting-continues-in-the-north-of-afghanistan-as-taliban-fighters-intensify-their-attacks-in-several-districts-around-kunduz-in-their.md)
-_Context: War in Afghanistan (2015-present), Afghanistan, Kunduz, Taliban, police_
+_Context: Kunduz, police, Taliban, War in Afghanistan (2015-present), Afghanistan_
 
 ##### earthquake
 ### [The death toll from Saturday night's earthquake in Ecuador rises to 262 with more than 2,500 people injured. ](/news/2016/04/17/the-death-toll-from-saturday-night-s-earthquake-in-ecuador-rises-to-262-with-more-than-2-500-people-injured.md)
@@ -45,7 +45,7 @@ A referendum to be held next Sunday in Italy could shape the country’s energy 
 
 ##### 2016 Brussels bombings
 ### [At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate-however-turnout-was-less-than-half-of.md)
-_Context: Belgium, 2016 Brussels bombings, Brussels_
+_Context: 2016 Brussels bombings, Belgium, Brussels_
 
 ##### Skopje
 ### [Protests continue in Skopje, Republic of Macedonia, against President Gjorge Ivanov's decision to suspend an investigation into the alleged corruption of a number of politicians. ](/news/2016/04/17/protests-continue-in-skopje-republic-of-macedonia-against-president-gjorge-ivanov-s-decision-to-suspend-an-investigation-into-the-alleged.md)

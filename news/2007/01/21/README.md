@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Sudan
 ### [ Sudanese rebels claim that a government aircraft has bombed areas in Darfur over the weekend in contravention of the ceasefire. ](/news/2007/01/21/sudanese-rebels-claim-that-a-government-aircraft-has-bombed-areas-in-darfur-over-the-weekend-in-contravention-of-the-ceasefire.md)
-_Context: Sudan, Darfur_
+_Context: Darfur, Sudan_
 
 ##### 2008
 ### [ U.S. election 2008: Bill Richardson, currently the Democratic Governor of New Mexico, announces his candidacy for United States president. ](/news/2007/01/21/u-s-election-2008-bill-richardson-currently-the-democratic-governor-of-new-mexico-announces-his-candidacy-for-united-states-president.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Angela Merkel
 ### [ Angela Merkel, the Chancellor of Germany, holds talks with Vladimir Putin, the President of Russia over energy security issues. ](/news/2007/01/21/angela-merkel-the-chancellor-of-germany-holds-talks-with-vladimir-putin-the-president-of-russia-over-energy-security-issues.md)
-_Context: Chancellor, Vladimir Putin, Russian President, Angela Merkel_
+_Context: Russian President, Chancellor, Angela Merkel, Vladimir Putin_
 
 ##### magnitude
 ### [ A 7.3 M w earthquake occurs off of Indonesia, centered in the Molucca Sea. Buildings shake in northeastern Indonesia, panicking residents, but there are no reports of casualties. ](/news/2007/01/21/a-7-3-m-w-earthquake-occurs-off-of-indonesia-centered-in-the-molucca-sea-buildings-shake-in-northeastern-indonesia-panicking-residents.md)

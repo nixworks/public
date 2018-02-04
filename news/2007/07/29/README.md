@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/29/index.html)  [JSON](2007/07/29/index.json)  [XML](200
 
 ##### Israeli Prime Minister
 ### [ The Prime Minister of Israel Ehud Olmert announces that United States military and defense aid to Israel will total $30 billion over the next ten years. ](/news/2007/07/29/the-prime-minister-of-israel-ehud-olmert-announces-that-united-states-military-and-defense-aid-to-israel-will-total-30-billion-over-the-ne.md)
-_Context: Ehud Olmert, Israel, United States, Israeli Prime Minister, $_
+_Context: Ehud Olmert, Israel, Israeli Prime Minister, United States, $_
 
 ##### Barbados Crop Over Festival
 ### [ Six people die in a bus crash while travelling to the Barbados Crop Over Festival. ](/news/2007/07/29/six-people-die-in-a-bus-crash-while-travelling-to-the-barbados-crop-over-festival.md)
@@ -13,7 +13,7 @@ _Context: Barbados Crop Over Festival_
 
 ##### Philosophical Transactions of the Royal Society of London
 ### [ A study published in the Philosophical Transactions of the Royal Society of London claims that the number of North Atlantic tropical cyclones in the season has more than doubled in the past hundred years. ](/news/2007/07/29/a-study-published-in-the-philosophical-transactions-of-the-royal-society-of-london-claims-that-the-number-of-north-atlantic-tropical-cyclon.md)
-_Context: season, North Atlantic tropical cyclone, Philosophical Transactions of the Royal Society of London_
+_Context: season, Philosophical Transactions of the Royal Society of London, North Atlantic tropical cyclone_
 
 ##### Prime Minister
 ### [ Prime Minister of the United Kingdom Gordon Brown arrives in the United States for his first official meeting with President George W. Bush. ](/news/2007/07/29/prime-minister-of-the-united-kingdom-gordon-brown-arrives-in-the-united-states-for-his-first-official-meeting-with-president-george-w-bush.md)
@@ -25,11 +25,11 @@ _Context: So Paulo, TAM Linhas Areas Flight 3054, Brazil_
 
 ##### Alberto Contador
 ### [ Alberto Contador of Spain wins the 2007 Tour de France with Cadel Evans of Australia finishing second and Levi Leipheimer of the United States finishing third. ](/news/2007/07/29/alberto-contador-of-spain-wins-the-2007-tour-de-france-with-cadel-evans-of-australia-finishing-second-and-levi-leipheimer-of-the-united-sta.md)
-_Context: Spain, Tour de France, Levi Leipheimer, United States, Australia, Alberto Contador, Cadel Evans_
+_Context: United States, Australia, Alberto Contador, Tour de France, Spain, Cadel Evans, Levi Leipheimer_
 
 ##### Iraq
 ### [ Iraq beats Saudi Arabia to win the Asian Cup, creating a rare moment of recent national unity. ](/news/2007/07/29/iraq-beats-saudi-arabia-to-win-the-asian-cup-creating-a-rare-moment-of-recent-national-unity.md)
-_Context: Asian Cup, Saudi Arabia, Iraq_
+_Context: Iraq, Asian Cup, Saudi Arabia_
 
 ##### Association of South East Asian Nations
 ### [ Association of South East Asian Nations foreign ministers adopt a plan to strengthen the South East Asian Nuclear Weapons Free Zone. ](/news/2007/07/29/association-of-south-east-asian-nations-foreign-ministers-adopt-a-plan-to-strengthen-the-south-east-asian-nuclear-weapons-free-zone.md)
@@ -41,11 +41,11 @@ _Context: human rights, China, Roman Catholic Church_
 
 ##### An-12
 ### [ Seven crew members die in the crash of an An-12 cargo plane at Moscow's Domodedovo airport. ](/news/2007/07/29/seven-crew-members-die-in-the-crash-of-an-an-12-cargo-plane-at-moscow-s-domodedovo-airport.md)
-_Context: An-12, cargo plane, Domodedovo International Airport, Moscow_
+_Context: cargo plane, Domodedovo International Airport, An-12, Moscow_
 
 ##### Japan
 ### [ Japanese voters go to the polls for elections for half of the House of Councillors. The ruling coalition of the Liberal Democratic Party and New Komeito Party lost seats with the opposition Democratic Party of Japan becoming the largest party in the chamber. ](/news/2007/07/29/japanese-voters-go-to-the-polls-for-elections-for-half-of-the-house-of-councillors-the-ruling-coalition-of-the-liberal-democratic-party-an.md)
-_Context: Democratic Party, House of Councillors, Japanese House of Councillors election, 2007, Japan, New Komeito Party, Liberal Democratic Party_
+_Context: Liberal Democratic Party, Japanese House of Councillors election, 2007, Democratic Party, House of Councillors, Japan, New Komeito Party_
 
 ## [Previous Day...](/news/2007/07/28/index.md)
 

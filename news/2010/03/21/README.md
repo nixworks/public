@@ -5,15 +5,15 @@ Formats: [HTML](2010/03/21/index.html)  [JSON](2010/03/21/index.json)  [XML](201
 
 ##### Nicolas Sarkozy
 ### [French President Sarkozy's UMP party is heavily defeated in regional elections. ](/news/2010/03/21/french-president-sarkozy-s-ump-party-is-heavily-defeated-in-regional-elections.md)
-_Context: UMP, regional elections, Nicolas Sarkozy_
+_Context: regional elections, Nicolas Sarkozy, UMP_
 
 ##### National Mall
 ### [Tens of thousands of people gather on the National Mall in Washington, D.C., United States to support President Barack Obama in his bid to overhaul the country's immigration laws. ](/news/2010/03/21/tens-of-thousands-of-people-gather-on-the-national-mall-in-washington-d-c-united-states-to-support-president-barack-obama-in-his-bid-to-o.md)
-_Context: National Mall, United States, Washington, D.C., Barack Obama, U.S. President_
+_Context: United States, Barack Obama, U.S. President, Washington, D.C., National Mall_
 
 ##### Haiti
 ### [A new earthquake in Haiti kills two in Cap-Hatien. ](/news/2010/03/21/a-new-earthquake-in-haiti-kills-two-in-cap-haitien.md)
-_Context: Cap-Hatien, Haiti_
+_Context: Haiti, Cap-Hatien_
 
 ##### United Nations Secretary-General
 ### [Secretary-General of the United Nations Ban Ki-moon enters Gaza with the message "we (the United Nations) stand with you (Palestine)", criticises Israel's actions and speaks of his distress at the "unacceptable, unsustainable conditions" endured by Palestinians and the lack of reconstruction of damaged buildings. ](/news/2010/03/21/secretary-general-of-the-united-nations-ban-ki-moon-enters-gaza-with-the-message-we-the-united-nations-stand-with-you-palestine-criti.md)
@@ -41,15 +41,15 @@ A volcano in the area of the Eyjafallajoekull glacier in Iceland erupted and for
 
 ##### South Africa
 ### [South Africans mark the 50th anniversary of the Sharpeville massacre. ](/news/2010/03/21/south-africans-mark-the-50th-anniversary-of-the-sharpeville-massacre.md)
-_Context: Sharpeville massacre, South Africa_
+_Context: South Africa, Sharpeville massacre_
 
 ##### Plastiki
 ### ["Plastiki", a boat constructed from 12,000 plastic bottles, sets sail on a three-month voyage from San Francisco through the Great Pacific Garbage Patch to Sydney. ](/news/2010/03/21/plastiki-a-boat-constructed-from-12-000-plastic-bottles-sets-sail-on-a-three-month-voyage-from-san-francisco-through-the-great-pacific-g.md)
-_Context: Sydney, Plastiki, San Francisco, Great Pacific Garbage Patch_
+_Context: Sydney, San Francisco, Plastiki, Great Pacific Garbage Patch_
 
 ##### Pune
 ### [Pune and Kochi are announced as the two new franchises in the Indian Premier League, having spent the equivalent of US$700 million between them. ](/news/2010/03/21/pune-and-kochi-are-announced-as-the-two-new-franchises-in-the-indian-premier-league-having-spent-the-equivalent-of-us-700-million-between-t.md)
-_Context: Kochi, Indian Premier League, Pune_
+_Context: Pune, Indian Premier League, Kochi_
 
 ## [Previous Day...](/news/2010/03/20/index.md)
 

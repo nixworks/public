@@ -17,7 +17,7 @@ Car bombs in two towns south of Baghdad and in the Iraqi city of Najaf killed a 
 
 ##### China
 ### [At least 37 people are killed in torrential rains in the Chinese capital Beijing. ](/news/2012/07/22/at-least-37-people-are-killed-in-torrential-rains-in-the-chinese-capital-beijing.md)
-_Context: China, Beijing_
+_Context: Beijing, China_
 
 ##### Kahramanmaras
 ### [A moderately strong earthquake with a magnitude of 5.0 hits Kahramanmaras, Turkey. ](/news/2012/07/22/a-moderately-strong-earthquake-with-a-magnitude-of-5-0-hits-kahramanmaraa-turkey.md)
@@ -29,7 +29,7 @@ _Context: Hakkari Province_
 
 ##### pickup truck
 ### [Thirteen are killed and another 10 are injured when a pickup truck crashes in Texas. ](/news/2012/07/22/thirteen-are-killed-and-another-10-are-injured-when-a-pickup-truck-crashes-in-texas.md)
-_Context: Texas, pickup truck_
+_Context: pickup truck, Texas_
 
 ##### Libya
 ### [The Libyan Olympic committee chief kidnapped a week ago, Ahmad Nabil al-Alam, is released unharmed. ](/news/2012/07/22/the-libyan-olympic-committee-chief-kidnapped-a-week-ago-ahmad-nabil-al-alam-is-released-unharmed.md)

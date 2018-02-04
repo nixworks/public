@@ -9,7 +9,7 @@ _Context: Djurgrden, Stockholm_
 
 ##### Embassy of the United States in Berlin
 ### [ After 69 years, the Embassy of the United States in Berlin, Germany, returns to its old site near the Brandenburg Gate. At the celebration, Chancellor Angela Merkel, former U.S. President George H. W. Bush and the U.S. Ambassador to Germany William Timken open the new chancery on Pariser Platz in the center of Berlin. ](/news/2008/07/4/after-69-years-the-embassy-of-the-united-states-in-berlin-germany-returns-to-its-old-site-near-the-brandenburg-gate-at-the-celebration.md)
-_Context: Brandenburg Gate, Pariser Platz, German, Angela Merkel, William Timken, George H. W. Bush, Berlin, Embassy of the United States in Berlin_
+_Context: William Timken, German, Pariser Platz, George H. W. Bush, Embassy of the United States in Berlin, Angela Merkel, Brandenburg Gate, Berlin_
 
 #####  Georgian
 ### [ Georgian forces shell Tskhinvali in South Ossetia. ](/news/2008/07/4/georgian-forces-shell-tskhinvali-in-south-ossetia.md)

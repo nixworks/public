@@ -5,7 +5,7 @@ Formats: [HTML](2006/09/2/index.html)  [JSON](2006/09/2/index.json)  [XML](2006/
 
 ##### Iraqi Prime Minister
 ### [ Iraqi Prime Minister Nouri al-Maliki meets with Grand Ayatollah Ali al-Sistani in Najaf, Iraq. ](/news/2006/09/2/iraqi-prime-minister-nouri-al-maliki-meets-with-grand-ayatollah-ali-al-sistani-in-najaf-iraq.md)
-_Context: Grand Ayatollah, Iraqi Prime Minister, Najaf, Ali al-Sistani, Iraq, Nouri al-Maliki_
+_Context: Iraqi Prime Minister, Grand Ayatollah, Nouri al-Maliki, Najaf, Iraq, Ali al-Sistani_
 
 ##### Afghanistan
 ### [ In Afghanistan, 14 British armed forces personnel are killed after their aircraft crashes in Kandahar. ](/news/2006/09/2/in-afghanistan-14-british-armed-forces-personnel-are-killed-after-their-aircraft-crashes-in-kandahar.md)
@@ -17,7 +17,7 @@ Ben Stevens, a Republican who is the State Senate president and son of Senator T
 
 ##### anti-terrorism
 ### [ British police hold 14 men after anti-terrorism raids on locations in south and east London including one restaurant. ](/news/2006/09/2/british-police-hold-14-men-after-anti-terrorism-raids-on-locations-in-south-and-east-london-including-one-restaurant.md)
-_Context: London, restaurant, anti-terrorism_
+_Context: anti-terrorism, London, restaurant_
 
 ##### Hezbollah
 ### [ Hezbollah sets up armed militias of more than 2,000 children of shahids aged 10-15, training them to sacrifice their lives, an Egyptian weekly reports. ](/news/2006/09/2/hezbollah-sets-up-armed-militias-of-more-than-2-000-children-of-shahids-aged-10-15-training-them-to-sacrifice-their-lives-an-egyptian-wee.md)
@@ -25,7 +25,7 @@ In the days following the war in Lebanon, newspapers from the Arab world report 
 
 ##### Palestine
 ### [ Donors promise $500m in aid for the Palestinian territories but the UN warns there must be a new peace process too. ](/news/2006/09/2/donors-promise-500m-in-aid-for-the-palestinian-territories-but-the-un-warns-there-must-be-a-new-peace-process-too.md)
-_Context: UN, Palestine_
+_Context: Palestine, UN_
 
 ## [Previous Day...](/news/2006/09/1/index.md)
 

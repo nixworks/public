@@ -13,7 +13,7 @@ The sale of an 1892 Gauguin oil painting, &#8220;Nafea Faa Ipoipo (When Will You
 
 ##### pharmaceutical
 ### [American pharmaceutical company Pfizer announces plans to acquire Hospira at a cost of $17 billion. ](/news/2015/02/5/american-pharmaceutical-company-pfizer-announces-plans-to-acquire-hospira-at-a-cost-of-17-billion.md)
-_Context: Hospira, Pfizer, pharmaceutical, United States dollars_
+_Context: Hospira, pharmaceutical, Pfizer, United States dollars_
 
 ##### electronics
 ### [American electronics retailer RadioShack files for Chapter 11 bankruptcy. ](/news/2015/02/5/american-electronics-retailer-radioshack-files-for-chapter-11-bankruptcy.md)
@@ -25,7 +25,7 @@ A blaze at a southern Chinese shopping centre that killed 17 people was started 
 
 ##### American Sniper
 ### [Eddie Ray Routh goes on trial for the alleged murder of "American Sniper" Chris Kyle and Chad Littlefield in the Texas town of Stephenville. ](/news/2015/02/5/eddie-ray-routh-goes-on-trial-for-the-alleged-murder-of-american-sniper-chris-kyle-and-chad-littlefield-in-the-texas-town-of-stephenville.md)
-_Context: Stephenville, American Sniper, Texas, Chris Kyle_
+_Context: American Sniper, Chris Kyle, Texas, Stephenville_
 
 ##### Southwark Crown Court
 ### [The jury at Southwark Crown Court convicts British 70s glam rock star Gary Glitter on child sexual abuse charges with the prospect of life imprisonment. ](/news/2015/02/5/the-jury-at-southwark-crown-court-convicts-british-70s-glam-rock-star-gary-glitter-on-child-sexual-abuse-charges-with-the-prospect-of-life-i.md)

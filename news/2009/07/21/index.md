@@ -9,7 +9,7 @@ _Context: House of Representatives, Japan, Prime Minister of Japan, Taro Aso_
 
 ##### NASA
 ### [ NASA scientists confirm an impact event on Jupiter, the first observed since the impact of Shoemaker-Levy 9 on July 16&ndash;22, 1994. ](/news/2009/07/21/nasa-scientists-confirm-an-impact-event-on-jupiter-the-first-observed-since-the-impact-of-shoemaker-levy-9-on-july-16-ndash-22-1994.md)
-_Context: Jupiter, impact event, Shoemaker-Levy 9, NASA_
+_Context: Shoemaker-Levy 9, NASA, Jupiter, impact event_
 
 ##### Foreign Minister
 ### [ Foreign Minister Miguel ngel Moratinos becomes the first Spanish government official to visit Gibraltar in 300 years. ](/news/2009/07/21/foreign-minister-miguel-angel-moratinos-becomes-the-first-spanish-government-official-to-visit-gibraltar-in-300-years.md)

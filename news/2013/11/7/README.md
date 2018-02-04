@@ -3,9 +3,9 @@ Formats: [HTML](2013/11/7/index.html)  [JSON](2013/11/7/index.json)  [XML](2013/
 
 ## [2013-11-7](/news/2013/11/7/index.md)
 
-##### Tehrik-i-Taliban Pakistan
+##### Pakistani Taliban
 ### [The Pakistani Taliban names Maulana Fazlullah as its new leader six days after Hakimullah Mehsud was killed in a drone attack in North Waziristan. ](/news/2013/11/7/the-pakistani-taliban-names-maulana-fazlullah-as-its-new-leader-six-days-after-hakimullah-mehsud-was-killed-in-a-drone-attack-in-north-wazir.md)
-_Context: Tehrik-i-Taliban Pakistan, North Waziristan, Maulana Fazlullah, Hakimullah Mehsud, drones launch_
+_Context: Hakimullah Mehsud, Maulana Fazlullah, drones launch, Pakistani Taliban, North Waziristan_
 
 ##### M23
 ### [M23 rebel chief Sultani Makenga, along with hundreds of rebels, surrenders to authorities in Mgahinga Gorilla National Park, Uganda. ](/news/2013/11/7/m23-rebel-chief-sultani-makenga-along-with-hundreds-of-rebels-surrenders-to-authorities-in-mgahinga-gorilla-national-park-uganda.md)

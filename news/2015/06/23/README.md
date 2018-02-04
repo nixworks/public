@@ -9,11 +9,11 @@ Islamic extremists ISIL, who were reported on Sunday to have mined the ancient c
 
 ##### South Korea
 ### [South Korean author Shin Kyung-sook admits to plagiarising a short story from Japanese author Yukio Mishima. ](/news/2015/06/23/south-korean-author-shin-kyung-sook-admits-to-plagiarising-a-short-story-from-japanese-author-yukio-mishima.md)
-_Context: Japan, Shin Kyung-sook, South Korea, Yukio Mishima_
+_Context: Shin Kyung-sook, Japan, South Korea, Yukio Mishima_
 
 ##### Australian
 ### [Australian author Sofie Laguna wins the Miles Franklin Award for her novel "The Eye of the Sheep". ](/news/2015/06/23/australian-author-sofie-laguna-wins-the-miles-franklin-award-for-her-novel-the-eye-of-the-sheep.md)
-_Context: Sofie Laguna, The Eye of the Sheep, Miles Franklin Award, Australian_
+_Context: The Eye of the Sheep, Australian, Sofie Laguna, Miles Franklin Award_
 
 ##### Greece
 ### [The deputy speaker of the Greek parliament, Alexis Mitropoulos, warns that the body may reject concessions the government had made to the country's creditors. ](/news/2015/06/23/the-deputy-speaker-of-the-greek-parliament-alexis-mitropoulos-warns-that-the-body-may-reject-concessions-the-government-had-made-to-the-co.md)

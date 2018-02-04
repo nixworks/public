@@ -17,13 +17,13 @@ The death toll after a stampede at a Hindu festival in the central Indian state 
 
 ##### Hmong New Year
 ### [Five people are injured during a shooting at a Hmong New Year's celebration in Tulsa, Oklahoma, U.S. Two men, 19 and 21 years old, are arrested. ](/news/2013/10/13/five-people-are-injured-during-a-shooting-at-a-hmong-new-year-s-celebration-in-tulsa-oklahoma-u-s-two-men-19-and-21-years-old-are-arres.md)
-_Context: Tulsa, Oklahoma, Hmong New Year_
+_Context: Hmong New Year, Tulsa, Oklahoma_
 
 ##### 
 ### [Over 380 people are detained after an anti-migrant Russian nationalist riot in southern Moscow. ](/news/2013/10/13/over-380-people-are-detained-after-an-anti-migrant-russian-nationalist-riot-in-southern-moscow.md)
 ##### Bill Shorten
 ### [Bill Shorten is elected as the head of the federal Australian Labor Party, defeating Anthony Albanese in a leadership ballot. ](/news/2013/10/13/bill-shorten-is-elected-as-the-head-of-the-federal-australian-labor-party-defeating-anthony-albanese-in-a-leadership-ballot.md)
-_Context: Australian Labor Party, Anthony Albanese, Bill Shorten_
+_Context: Bill Shorten, Anthony Albanese, Australian Labor Party_
 
 ##### V Nguyn Gip
 ### [Vietnamese independence hero General V Nguyn Gip is buried after an elaborate two-day state funeral. ](/news/2013/10/13/vietnamese-independence-hero-general-vo-nguyen-giap-is-buried-after-an-elaborate-two-day-state-funeral.md)

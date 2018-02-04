@@ -17,7 +17,7 @@ _Context: United States soldier, Iraq, battalion_
 
 ##### Labour Party
 ### [ In the United Kingdom, the Labour Party wins a by-election in the seat of Sedgefield formerly held by Tony Blair as well as the constituency of Ealing Southall. ](/news/2007/07/19/in-the-united-kingdom-the-labour-party-wins-a-by-election-in-the-seat-of-sedgefield-formerly-held-by-tony-blair-as-well-as-the-constituenc.md)
-_Context: Tony Blair, Labour Party, by-election, Sedgefield, Ealing Southall_
+_Context: Ealing Southall, Tony Blair, Sedgefield, by-election, Labour Party_
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average closes above 14,000 points for the first time in history, partly as a result of a good earnings report from IBM. ](/news/2007/07/19/the-dow-jones-industrial-average-closes-above-14-000-points-for-the-first-time-in-history-partly-as-a-result-of-a-good-earnings-report-fro.md)
@@ -25,7 +25,7 @@ The Dow Jones Industrial Average stock index closed above 14,000 points for the 
 
 ##### Viking
 ### [ The largest Viking treasure discovery in the United Kingdom since the nineteenth century made near Harrogate in northern England is announced. ](/news/2007/07/19/the-largest-viking-treasure-discovery-in-the-united-kingdom-since-the-nineteenth-century-made-near-harrogate-in-northern-england-is-announc.md)
-_Context: Harrogate, England, Viking, British_
+_Context: British, England, Harrogate, Viking_
 
 ##### Somalia
 ### [ Suspected Somali insurgents target a peace meeting with mortar fire but accidentally kill six children. ](/news/2007/07/19/suspected-somali-insurgents-target-a-peace-meeting-with-mortar-fire-but-accidentally-kill-six-children.md)
@@ -33,35 +33,35 @@ _Context: Somalia, Mortar_
 
 ##### dismisses
 ### [ A U.S. federal judge dismisses a case brought by Valerie Plame against members of the Bush Administration in connection with the Plame affair. ](/news/2007/07/19/a-u-s-federal-judge-dismisses-a-case-brought-by-valerie-plame-against-members-of-the-bush-administration-in-connection-with-the-plame-affa.md)
-_Context: George W. Bush, dismisses, CIA leak scandal, Valerie Plame, Bush Administration_
+_Context: CIA leak scandal, Valerie Plame, George W. Bush, dismisses, Bush Administration_
 
 ##### Russia
 ### [ Russia expels four British diplomats in the ongoing row over the extradition of Andrei Lugovoi for the suspected murder of Russian spy Alexander Litvinenko. ](/news/2007/07/19/russia-expels-four-british-diplomats-in-the-ongoing-row-over-the-extradition-of-andrei-lugovoi-for-the-suspected-murder-of-russian-spy-alex.md)
-_Context: Andrei Lugovoi, British, Russia, murder of Russian spy Alexander Litvinenko_
+_Context: murder of Russian spy Alexander Litvinenko, Andrei Lugovoi, British, Russia_
 
 ##### Solomon Islands
 ### [ A report commissioned by the Solomon Islands Government is critical of the handling of last year's Honiara riots by the Regional Assistance Mission to the Solomon Islands (RAMSI). ](/news/2007/07/19/a-report-commissioned-by-the-solomon-islands-government-is-critical-of-the-handling-of-last-year-s-honiara-riots-by-the-regional-assistance.md)
-_Context: Solomon Islands, Honiara, Regional Assistance Mission to the Solomon Islands_
+_Context: Honiara, Solomon Islands, Regional Assistance Mission to the Solomon Islands_
 
 ##### Iraq
 ### [ Iraq's main Sunni Arab political block, the Iraqi Accord Front, agrees to end its boycott of the Iraqi Council of Representatives. ](/news/2007/07/19/iraq-s-main-sunni-arab-political-block-the-iraqi-accord-front-agrees-to-end-its-boycott-of-the-iraqi-council-of-representatives.md)
-_Context: Iraq, boycott, Sunni, Iraqi Council of Representatives, Arab, fourth largest coalition_
+_Context: boycott, Iraqi Council of Representatives, Iraq, Arab, Sunni, fourth largest coalition_
 
 ##### Heritage Oil and Gas
 ### [ Heritage Oil and Gas finds a petroleum deposit in Uganda. HOG estimates the deposit contains several billions of barrels of oil, the largest find in Africa in over a decade. ](/news/2007/07/19/heritage-oil-and-gas-finds-a-petroleum-deposit-in-uganda-hog-estimates-the-deposit-contains-several-billions-of-barrels-of-oil-the-larges.md)
-_Context: Uganda, Heritage Oil and Gas, petroleum deposit_
+_Context: petroleum deposit, Heritage Oil and Gas, Uganda_
 
 ##### Japan
 ### [ Japanese media reports claim that the Kashiwazaki-Kariwa Nuclear Power Plant will remain closed for at least a year following the 2007 Chuetsu offshore earthquake. ](/news/2007/07/19/japanese-media-reports-claim-that-the-kashiwazaki-kariwa-nuclear-power-plant-will-remain-closed-for-at-least-a-year-following-the-2007-cha.md)
-_Context: 2007 Chuetsu offshore earthquake, Kashiwazaki-Kariwa Nuclear Power Plant, Japan_
+_Context: Japan, 2007 Chuetsu offshore earthquake, Kashiwazaki-Kariwa Nuclear Power Plant_
 
 ##### Pakistan
 ### [ Three bombs in Pakistan kill at least 52 people with at least 160 people killed in bomb attacks since the storming of the Lal Masjid mosque. ](/news/2007/07/19/three-bombs-in-pakistan-kill-at-least-52-people-with-at-least-160-people-killed-in-bomb-attacks-since-the-storming-of-the-lal-masjid-mosque.md)
-_Context: Pakistan, Lal Masjid_
+_Context: Lal Masjid, Pakistan_
 
 ##### Castleberry's Food Company
 ### [ Castleberry's Food Company of Augusta, Georgia issues a recall on hot dog chili sauce and other products, due to contamination of Clostridium botulinum. 8 people contracted Botulism poisoning from Castleberry's products. This prompts the first botulism recall of canned foods in the United States in over 30 years. ](/news/2007/07/19/castleberry-s-food-company-of-augusta-georgia-issues-a-recall-on-hot-dog-chili-sauce-and-other-products-due-to-contamination-of-clostridi.md)
-_Context: Castleberry's Food Company, Clostridium botulinum, Botulism_
+_Context: Botulism, Castleberry's Food Company, Clostridium botulinum_
 
 ## [Previous Day...](/news/2007/07/18/index.md)
 

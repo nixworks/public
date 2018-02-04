@@ -5,7 +5,7 @@ Formats: [HTML](2007/01/12/index.html)  [JSON](2007/01/12/index.json)  [XML](200
 
 ##### China
 ### [ China and Russia veto a United States drafted United Nations Security Council Resolution that would have urged the government of Myanmar to stop human rights abuses and the repression of political opposition. ](/news/2007/01/12/china-and-russia-veto-a-united-states-drafted-united-nations-security-council-resolution-that-would-have-urged-the-government-of-myanmar-to.md)
-_Context: Myanmar, repression, United States, Resolution, United Nations Security Council, Russia, Fortify Rights, China_
+_Context: Resolution, China, Fortify Rights, repression, Myanmar, United States, United Nations Security Council, Russia_
 
 ##### Terri Irwin
 ### [ Terri Irwin, widow of naturalist and TV personality Steve Irwin, reports that all footage of his death from a stingray piercing his heart has been destroyed, and the events surrounding his death will not be shown in his final documentary, "Ocean's Deadliest". ](/news/2007/01/12/terri-irwin-widow-of-naturalist-and-tv-personality-steve-irwin-reports-that-all-footage-of-his-death-from-a-stingray-piercing-his-heart-h.md)
@@ -13,7 +13,7 @@ In the four months since Steve Irwin’s tragic death, his widow Terri has done 
 
 ##### Chinese Foreign Ministry spokesperson
 ### [ The Chinese Foreign Ministry warns it has intelligence indicating East Turkestan Islamic Movement terrorists will launch an attack against China from Kyrgyzstan. Security personnel along the border between the two countries is increased. ](/news/2007/01/12/the-chinese-foreign-ministry-warns-it-has-intelligence-indicating-east-turkestan-islamic-movement-terrorists-will-launch-an-attack-against.md)
-_Context: Kyrgyzstan, Chinese Foreign Ministry spokesperson, terrorism, China, East Turkestan Islamic Movement_
+_Context: terrorism, China, Kyrgyzstan, East Turkestan Islamic Movement, Chinese Foreign Ministry spokesperson_
 
 ##### United States
 ### [ United States armed forces raid the office of the Iranian Consulate General in Arbil, a city in Iraqi Kurdistan. ](/news/2007/01/12/united-states-armed-forces-raid-the-office-of-the-iranian-consulate-general-in-arbil-a-city-in-iraqi-kurdistan.md)
@@ -21,7 +21,7 @@ U.S. forces raided the Iranian consulate in the mainly Kurdish city of Erbil in 
 
 ##### Fakhruddin Ahmed
 ### [ Fakhruddin Ahmed becomes the new Chief Advisor in Bangladesh amid the current political crisis. ](/news/2007/01/12/fakhruddin-ahmed-becomes-the-new-chief-advisor-in-bangladesh-amid-the-current-political-crisis.md)
-_Context: Fakhruddin Ahmed, Bangladesh, current political crisis_
+_Context: Fakhruddin Ahmed, current political crisis, Bangladesh_
 
 ##### fire an anti-tank missile
 ### [ Terrorists fire an anti-tank missile at the Embassy of the United States in Athens. No one is injured or killed. ](/news/2007/01/12/terrorists-fire-an-anti-tank-missile-at-the-embassy-of-the-united-states-in-athens-no-one-is-injured-or-killed.md)
@@ -33,7 +33,7 @@ _Context: Ras Kamboni, capture, Islamic Courts Union_
 
 ##### Argentina
 ### [ An Argentinian judge issues an arrest warrant for former president Isabel Martinez de Peron, implicated in the disappearance of a human-rights activist in 1976. Peron has been living in Spain since 1981. ](/news/2007/01/12/an-argentinian-judge-issues-an-arrest-warrant-for-former-president-isabel-martanez-de-pera3n-implicated-in-the-disappearance-of-a-human-r.md)
-_Context: Spain, 1981, Isabel Martinez de Peron, Argentina, 1976_
+_Context: 1976, Argentina, 1981, Isabel Martinez de Peron, Spain_
 
 ##### ''Casino Royale''
 ### [ ""Casino Royale"" and ""The Queen"" lead this year's BAFTA film award nominations. ](/news/2007/01/12/casino-royale-and-the-queen-lead-this-year-s-bafta-film-award-nominations.md)
@@ -41,7 +41,7 @@ _Context: BAFTA, ''Casino Royale'', The Queen_
 
 ##### Raleb Majadele
 ### [ Raleb Majadele is appointed minister of science and technology, becoming the first Israeli Arab Muslim to serve as a cabinet minister in the government of Israel. ](/news/2007/01/12/raleb-majadele-is-appointed-minister-of-science-and-technology-becoming-the-first-israeli-arab-muslim-to-serve-as-a-cabinet-minister-in-th.md)
-_Context: Raleb Majadele, Politics of Israel, Israeli cabinet, Muslim, Israeli Arab_
+_Context: Politics of Israel, Raleb Majadele, Israeli Arab, Muslim, Israeli cabinet_
 
 ## [Previous Day...](/news/2007/01/11/index.md)
 

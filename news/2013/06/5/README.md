@@ -57,7 +57,7 @@ Samsung Electronics scored a victory over rival Apple Inc intheir long-running d
 
 ##### International Monetary Fund
 ### [The International Monetary Fund (IMF) says it underestimated the damage austerity would do to Greece. ](/news/2013/06/5/the-international-monetary-fund-imf-says-it-underestimated-the-damage-austerity-would-do-to-greece.md)
-_Context: austerity, Greece, International Monetary Fund_
+_Context: International Monetary Fund, austerity, Greece_
 
 ##### Amazon.com
 ### [Online retailer Amazon.com begins operations in India. ](/news/2013/06/5/online-retailer-amazon-com-begins-operations-in-india.md)
@@ -93,7 +93,7 @@ A convicted Scotland Yard constable awarded a coveted &quot;baton of honour&quot
 
 ##### Nawaz Sharif
 ### [Nawaz Sharif is sworn in as the Prime Minister of Pakistan and calls for an end to U.S. drone attacks. ](/news/2013/06/5/nawaz-sharif-is-sworn-in-as-the-prime-minister-of-pakistan-and-calls-for-an-end-to-u-s-drone-attacks.md)
-_Context: drones launch, Nawaz Sharif, Prime Minister_
+_Context: drones launch, Prime Minister, Nawaz Sharif_
 
 ##### Guantanamo Bay hunger strikes
 ### [As the ongoing Guantanamo Bay hunger strikes enters its 120th day, the United States House of Representatives votes to keep the prison camp open. ](/news/2013/06/5/as-the-ongoing-guanta-namo-bay-hunger-strikes-enters-its-120th-day-the-united-states-house-of-representatives-votes-to-keep-the-prison-camp.md)

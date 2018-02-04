@@ -9,11 +9,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### internet
 ### [ Proposed internet domain .xxx for pornography has been dropped shortly before the domain was set to receive approval. ](/news/2005/12/2/proposed-internet-domain-xxx-for-pornography-has-been-dropped-shortly-before-the-domain-was-set-to-receive-approval.md)
-_Context: pornography, internet, .xxx_
+_Context: internet, pornography, .xxx_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: 10 U.S. Marines are killed following an insurgent roadside bomb attack in Falluja. ](/news/2005/12/2/conflict-in-iraq-10-u-s-marines-are-killed-following-an-insurgent-roadside-bomb-attack-in-falluja.md)
-_Context: Falluja, Conflict in Iraq, Iraqi insurgency, Marine, improvised explosive device_
+_Context: Marine, Conflict in Iraq, Falluja, improvised explosive device, Iraqi insurgency_
 
 ##### Gabon
 ### [ Scientists in Gabon and the Republic of Congo discover that three species of fruit bat serve as animal reservoirs for the Ebola virus. The virus probably first spread from animal to human in 1976 by local hunters eating the bats. ](/news/2005/12/2/scientists-in-gabon-and-the-republic-of-congo-discover-that-three-species-of-fruit-bat-serve-as-animal-reservoirs-for-the-ebola-virus-the.md)
@@ -21,19 +21,19 @@ Researchers working in Gabon and Congo have identified three species of fruit ba
 
 ##### Hurricane Epsilon
 ### [ Hurricane Epsilon strengthens from a tropical storm to become the record breaking fourteenth hurricane of the 2005 Atlantic hurricane season. ](/news/2005/12/2/hurricane-epsilon-strengthens-from-a-tropical-storm-to-become-the-record-breaking-fourteenth-hurricane-of-the-2005-atlantic-hurricane-seaso.md)
-_Context: tropical cyclone, Hurricane Epsilon, hurricane, 2005 Atlantic hurricane season_
+_Context: tropical cyclone, 2005 Atlantic hurricane season, hurricane, Hurricane Epsilon_
 
 ##### Kenneth Boyd
 ### [ Kenneth Boyd becomes the 1000th person to be executed in the United States since the re-introduction of capital punishment in 1976. ](/news/2005/12/2/kenneth-boyd-becomes-the-1000th-person-to-be-executed-in-the-united-states-since-the-re-introduction-of-capital-punishment-in-1976.md)
-_Context: capital punishment, Kenneth Boyd, United States, Capital punishment in the United States_
+_Context: capital punishment, Kenneth Boyd, Capital punishment in the United States, United States_
 
 ##### Australia
 ### [ Australian Van Tuong Nguyen is executed by hanging in Singapore for drug trafficking. ](/news/2005/12/2/australian-van-tuong-nguyen-is-executed-by-hanging-in-singapore-for-drug-trafficking.md)
-_Context: executed by hanging, Australia, Van Tuong Nguyen, Singapore, drug trafficking_
+_Context: executed by hanging, Singapore, drug trafficking, Australia, Van Tuong Nguyen_
 
 ##### Malaysian prisoner abuse scandal
 ### [ An independent commission to investigate the Malaysian prisoner abuse scandal is established by Prime Minister of Malaysia Abdullah Ahmad Badawi. ](/news/2005/12/2/an-independent-commission-to-investigate-the-malaysian-prisoner-abuse-scandal-is-established-by-prime-minister-of-malaysia-abdullah-ahmad-b.md)
-_Context: Malaysian prisoner abuse scandal, Abdullah Ahmad Badawi, Prime Minister_
+_Context: Abdullah Ahmad Badawi, Prime Minister, Malaysian prisoner abuse scandal_
 
 ## [Previous Day...](/news/2005/12/1/index.md)
 

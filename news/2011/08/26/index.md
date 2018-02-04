@@ -9,15 +9,15 @@ Three rockets have hit the borderarea between Kuwait and Iraq, Al Arabiya TV rep
 
 ##### bomb explodes
 ### [As many as ten people are feared dead after a bomb explodes at a United Nations building in Abuja, Nigeria. ](/news/2011/08/26/as-many-as-ten-people-are-feared-dead-after-a-bomb-explodes-at-a-united-nations-building-in-abuja-nigeria.md)
-_Context: Abuja, bomb explodes, United Nations, Nigeria_
+_Context: Abuja, Nigeria, United Nations, bomb explodes_
 
 ##### Ministry of Culture of the People's Republic of China
 ### [The Ministry of Culture of the People's Republic of China bars 100 songs from music download sites including Lady Gaga's "Judas" and Katy Perry's "Last Friday Night (T.G.I.F.)". ](/news/2011/08/26/the-ministry-of-culture-of-the-people-s-republic-of-china-bars-100-songs-from-music-download-sites-including-lady-gaga-s-judas-and-katy-pe.md)
-_Context: Last Friday Night (T.G.I.F.), Katy Perry, Judas, Lady Gaga, Ministry of Culture of the People's Republic of China_
+_Context: Ministry of Culture of the People's Republic of China, Last Friday Night (T.G.I.F.), Judas, Lady Gaga, Katy Perry_
 
 ##### Ben Bernanke
 ### [Ben Bernanke, the Chairman of the United States Federal Reserve, gives a keynote address at a central banks conference at the US resort of Jackson Hole, Wyoming as statistics show that the US economy grew by 1%. ](/news/2011/08/26/ben-bernanke-the-chairman-of-the-united-states-federal-reserve-gives-a-keynote-address-at-a-central-banks-conference-at-the-us-resort-of-j.md)
-_Context: central bank, Wyoming, economy of the United States, Chairman of the Federal Reserve, Jackson Hole, United States Federal Reserve, Ben Bernanke_
+_Context: Wyoming, Jackson Hole, economy of the United States, central bank, United States Federal Reserve, Chairman of the Federal Reserve, Ben Bernanke_
 
 ##### Capital One
 ### [The Federal Reserve announces that it will hold hearings on the proposed acquisition, by Capital One, of ING Direct, a potential $9 billion deal. ](/news/2011/08/26/the-federal-reserve-announces-that-it-will-hold-hearings-on-the-proposed-acquisition-by-capital-one-of-ing-direct-a-potential-9-billion.md)
@@ -29,7 +29,7 @@ Hurricane Irene was bearing down on North Carolina Thursday on track to make lan
 
 ##### Japan
 ### [The Japanese National Police Agency reveals that 90 per cent of cyberattacks on its web site on July 10 came from Internet Protocol addresses in the People's Republic of China. ](/news/2011/08/26/the-japanese-national-police-agency-reveals-that-90-per-cent-of-cyberattacks-on-its-web-site-on-july-10-came-from-internet-protocol-addresse.md)
-_Context: China, police, cyberattack, Japan, Internet Protocol_
+_Context: China, Japan, cyberattack, Internet Protocol, police_
 
 ##### Barack Obama
 ### [The Associated Press reports that U.S. President Barack Obama's uncle, Onyango Obama, 67, is stopped on suspicion of drunken driving in Framingham, Massachusetts. ](/news/2011/08/26/the-associated-press-reports-that-u-s-president-barack-obama-s-uncle-onyango-obama-67-is-stopped-on-suspicion-of-drunken-driving-in-fram.md)
@@ -37,15 +37,15 @@ President Barack Obama&#39;s uncle was stopped on suspicion of drunken driving i
 
 ##### Oh Se-hoon
 ### [Oh Se-hoon resigns as the Mayor of Seoul after losing a referendum on free school lunches. ](/news/2011/08/26/oh-se-hoon-resigns-as-the-mayor-of-seoul-after-losing-a-referendum-on-free-school-lunches.md)
-_Context: Oh Se-hoon, Mayor of Seoul_
+_Context: Mayor of Seoul, Oh Se-hoon_
 
 ##### Naoto Kan
 ### [Naoto Kan announces his resignation as Prime Minister of Japan after the Parliament passes two key pieces of legislation. ](/news/2011/08/26/naoto-kan-announces-his-resignation-as-prime-minister-of-japan-after-the-parliament-passes-two-key-pieces-of-legislation.md)
-_Context: Naoto Kan, Parliament of Japan, Prime Minister of Japan_
+_Context: Parliament of Japan, Naoto Kan, Prime Minister of Japan_
 
 ##### Deloitte
 ### [An investigation by the consultancy firm Deloitte clears Iris Robinson, the wife of the Northern Ireland First Minister Peter Robinson, of any wrongdoing over a council contract which was awarded to an individual with whom she was conducting an affair. ](/news/2011/08/26/an-investigation-by-the-consultancy-firm-deloitte-clears-iris-robinson-the-wife-of-the-northern-ireland-first-minister-peter-robinson-of-a.md)
-_Context: Iris Robinson, Peter Robinson, First Minister of Northern Ireland, Deloitte_
+_Context: First Minister of Northern Ireland, Iris Robinson, Deloitte, Peter Robinson_
 
 ##### Lars Lkke Rasmussen
 ### [Danish Prime Minister Lars Lkke Rasmussen calls for Parliamentary elections to be held on September 15 - nearly two months ahead of the scheduled date. ](/news/2011/08/26/danish-prime-minister-lars-lokke-rasmussen-calls-for-parliamentary-elections-to-be-held-on-september-15-nearly-two-months-ahead-of-the-sch.md)

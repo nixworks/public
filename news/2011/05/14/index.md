@@ -33,7 +33,7 @@ Police have been forced to intervene during a clash between the gay and lesbian 
 
 ##### Jerusalem
 ### [There are clashes in east Jerusalem ahead of "Nakba Day" commemorations, with Palestinians being arrested by Israeli police. ](/news/2011/05/14/there-are-clashes-in-east-jerusalem-ahead-of-nakba-day-commemorations-with-palestinians-being-arrested-by-israeli-police.md)
-_Context: Israel, Jerusalem_
+_Context: Jerusalem, Israel_
 
 ##### Turkish
 ### [Turkey requests that Israel pass on the names and addresses of the soldiers who raided a Gaza-bound flotilla, killing nine Turks last May. ](/news/2011/05/14/turkey-requests-that-israel-pass-on-the-names-and-addresses-of-the-soldiers-who-raided-a-gaza-bound-flotilla-killing-nine-turks-last-may.md)
@@ -41,15 +41,15 @@ _Context: Turkish, Gaza flotilla raid, Israel_
 
 ##### United Nations
 ### [Gunmen kill a United Nations driver in Ethiopia's Ogaden region. ](/news/2011/05/14/gunmen-kill-a-united-nations-driver-in-ethiopia-s-ogaden-region.md)
-_Context: Ethiopia, United Nations, Ogaden_
+_Context: Ogaden, Ethiopia, United Nations_
 
 ##### Indian Army
 ### [An Indian Army soldier is killed in an exchange of fire with the Pakistan Army over the Kashmir border. ](/news/2011/05/14/an-indian-army-soldier-is-killed-in-an-exchange-of-fire-with-the-pakistan-army-over-the-kashmir-border.md)
-_Context: Pakistan Army, Kashmir, Indian Army_
+_Context: Indian Army, Pakistan Army, Kashmir_
 
 ##### Azeri
 ### [Azeri duo Eldar & Nigar win the 2011 Eurovision Song Contest in Dusseldorf, North Rhine-Westphalia, with the song "Running Scared". ](/news/2011/05/14/azeri-duo-eldar-nigar-win-the-2011-eurovision-song-contest-in-da1-4sseldorf-north-rhine-westphalia-with-the-song-running-scared.md)
-_Context: Running Scared, Azeri, North Rhine-Westphalia, Eldar & Nigar, 2011 Eurovision Song Contest, Dusseldorf_
+_Context: Azeri, Eldar & Nigar, Dusseldorf, Running Scared, 2011 Eurovision Song Contest, North Rhine-Westphalia_
 
 ##### Bob Dylan
 ### [Musician Bob Dylan responds on his website to allegations he gave in to censorship during a recent series of concerts in China, including criticism from "The New York Times" over his failure to mention the plight of imprisoned artist and dissident Ai Weiwei. ](/news/2011/05/14/musician-bob-dylan-responds-on-his-website-to-allegations-he-gave-in-to-censorship-during-a-recent-series-of-concerts-in-china-including-cr.md)
@@ -57,7 +57,7 @@ Legendary folk-rock singer Bob Dylan insists he was not censored by Chinese auth
 
 ##### North Korea
 ### [North Korean leader Kim Jong-il's youngest son Kim Jong-un reportedly lifts restrictions on women's fashion, while cosmetic surgery&ndash;though illegal&ndash;takes place in return for bribes. ](/news/2011/05/14/north-korean-leader-kim-jong-il-s-youngest-son-kim-jong-un-reportedly-lifts-restrictions-on-women-s-fashion-while-cosmetic-surgery-ndash-th.md)
-_Context: Kim Jong-il, Kim Jong-un, cosmetic surgery, North Korea_
+_Context: North Korea, Kim Jong-il, Kim Jong-un, cosmetic surgery_
 
 ##### Dannii Minogue
 ### [Australian singer Dannii Minogue resigns as a judge on "The X Factor". ](/news/2011/05/14/australian-singer-dannii-minogue-resigns-as-a-judge-on-the-x-factor.md)
@@ -77,13 +77,13 @@ They busted the dike, and the water poured through -- slowly.
 
 ##### Parliament's
 ### [Pakistan's parliament adopts a resolution that demands an immediate stop to drone strikes and an end to raids by U.S. troops within Pakistan's borders and threatens to cut off access to a facility used by NATO forces to ferry troops into Afghanistan, as the rift between the US and Pakistan grows, following the killing of Osama bin Laden. ](/news/2011/05/14/pakistan-s-parliament-adopts-a-resolution-that-demands-an-immediate-stop-to-drone-strikes-and-an-end-to-raids-by-u-s-troops-within-pakistan.md)
-_Context: father's killing, Parliament's, Pakistan-United States relations_
+_Context: Pakistan-United States relations, father's killing, Parliament's_
 
 ##### Dominique Strauss-Kahn
 ### [Dominique Strauss-Kahn, the head of the International Monetary Fund (IMF), is arrested at John F. Kennedy International Airport in the U.S. city of New York for alleged sexual assault. ](/news/2011/05/14/dominique-strauss-kahn-the-head-of-the-international-monetary-fund-imf-is-arrested-at-john-f-kennedy-international-airport-in-the-u-s.md)
 The head of the International Monetary Fund, Dominique Strauss-Kahn, faces sex assault charges over an alleged incident with a New York hotel maid.
 
-##### DoJ
+##### Department of Justice
 ### [The US Justice Department says that two South Florida imams and a third family member were arrested on charges of providing support to the Pakistani Taliban. ](/news/2011/05/14/the-us-justice-department-says-that-two-south-florida-imams-and-a-third-family-member-were-arrested-on-charges-of-providing-support-to-the-p.md)
 Two South Florida imams and a third family member were arrested Saturday on charges of providing support to the Pakistani Taliban, the Justice Department said.
 
@@ -101,15 +101,15 @@ The British woman stabbed and beheaded in a shop on the Spanish island of Teneri
 
 ##### Belarus
 ### [Belarusian opposition leader Andrei Sannikov is sentenced to five years' imprisonment for "organizing mass disturbances" following his role in protests disputing the results of the 2010 presidential election. ](/news/2011/05/14/belarusian-opposition-leader-andrei-sannikov-is-sentenced-to-five-years-imprisonment-for-organizing-mass-disturbances-following-his-role.md)
-_Context: 2010 presidential election, Andrei Sannikov, Belarus_
+_Context: Andrei Sannikov, 2010 presidential election, Belarus_
 
 ##### Singapore
 ### [Singapore's founding father Lee Kuan Yew resigns from the cabinet after 52 years. ](/news/2011/05/14/singapore-s-founding-father-lee-kuan-yew-resigns-from-the-cabinet-after-52-years.md)
-_Context: Singapore, Lee Kuan Yew_
+_Context: Lee Kuan Yew, Singapore_
 
 ##### Governor of Arkansas
 ### [Former Governor of Arkansas Mike Huckabee announces he will not seek the Republican nomination for the 2012 United States presidential election. ](/news/2011/05/14/former-governor-of-arkansas-mike-huckabee-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-elect.md)
-_Context: Mike Huckabee, United States presidential election, 2012, nomination, Governor of Arkansas_
+_Context: Mike Huckabee, United States presidential election, 2012, Governor of Arkansas, nomination_
 
 ## [Previous Day...](/news/2011/05/13/index.md)
 

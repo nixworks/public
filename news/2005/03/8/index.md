@@ -13,27 +13,27 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Northern Ireland
 ### [ In Northern Ireland the IRA issues an unprecedented statement that they made an offer to the family of murder victim Robert McCartney to shoot the members involved in his 31 January killing. The family made it clear that they wanted the people concerned prosecuted, not physically harmed. ](/news/2005/03/8/in-northern-ireland-the-ira-issues-an-unprecedented-statement-that-they-made-an-offer-to-the-family-of-murder-victim-robert-mccartney-to-sh.md)
-_Context: IRA, 31 January, Northern Ireland, Robert McCartney_
+_Context: Northern Ireland, Robert McCartney, 31 January, IRA_
 
 ##### Russia
 ### [ Russian armed forces claim that Chechen separatist leader Aslan Maskhadov has been killed in a special forces operation. ](/news/2005/03/8/russian-armed-forces-claim-that-chechen-separatist-leader-aslan-maskhadov-has-been-killed-in-a-special-forces-operation.md)
-_Context: Russia, Aslan Maskhadov, Chechnya_
+_Context: Chechnya, Aslan Maskhadov, Russia_
 
 ##### Kosovo
 ### [ Kosovan Prime Minister Ramush Haradinaj reports that he has been charged with war crimes by the International Criminal Tribunal for the Former Yugoslavia and resigns. He will travel to The Hague of his own volition, although he maintains his innocence. ](/news/2005/03/8/kosovan-prime-minister-ramush-haradinaj-reports-that-he-has-been-charged-with-war-crimes-by-the-international-criminal-tribunal-for-the-for.md)
-_Context: The Hague, International Criminal Tribunal for the Former Yugoslavia, war crimes, Ramush Haradinaj, Kosovo_
+_Context: International Criminal Tribunal for the Former Yugoslavia, Ramush Haradinaj, war crimes, The Hague, Kosovo_
 
 ##### Gianfranco Fini
 ### [ Gianfranco Fini, the foreign minister of Italy has demanded that the U.S. "identify and punish" those responsible for the death of Nicola Calipari, the Italian intelligence agent killed by US soldiers in Iraq. ](/news/2005/03/8/gianfranco-fini-the-foreign-minister-of-italy-has-demanded-that-the-u-s-identify-and-punish-those-responsible-for-the-death-of-nicola-c.md)
-_Context: Gianfranco Fini, Nicola Calipari, foreign minister, Italy, Iraq, United States_
+_Context: Nicola Calipari, United States, foreign minister, Iraq, Gianfranco Fini, Italy_
 
 ##### Australia
 ### [ In Australia, 104-year-old Chinese widow Cui Yu Hu, who has lived in the country for 10 years, loses an appeal to receive a permanent visa. She has asked immigration minister Amanda Vanstone to intervene. ](/news/2005/03/8/in-australia-104-year-old-chinese-widow-cui-yu-hu-who-has-lived-in-the-country-for-10-years-loses-an-appeal-to-receive-a-permanent-visa.md)
-_Context: Cui Yu Hu, Amanda Vanstone, visa, Australia, Chinese_
+_Context: Cui Yu Hu, Chinese, Amanda Vanstone, Australia, visa_
 
 ##### South Africa
 ### [ South Africa intends to change the name of the capital Pretoria to Tshwane ](/news/2005/03/8/south-africa-intends-to-change-the-name-of-the-capital-pretoria-to-tshwane.md)
-_Context: Tshwane, Pretoria, South Africa_
+_Context: South Africa, Pretoria, Tshwane_
 
 ## [Previous Day...](/news/2005/03/7/index.md)
 

@@ -9,7 +9,7 @@ A group of ultra-Orthodox Jews attempting to illegally visit a holy site in the 
 
 ##### Turkey-ISIL conflict
 ### [Turkish police conduct pre-dawn raids on 17 locations in Istanbul and detain some 50 people suspected of being linked to the Islamic State group, according to Turkey's state-run news agency. ](/news/2015/10/18/turkish-police-conduct-pre-dawn-raids-on-17-locations-in-istanbul-and-detain-some-50-people-suspected-of-being-linked-to-the-islamic-state-g.md)
-_Context: Turkish, Turkish police, ISIL, Turkey-ISIL conflict, Istanbul_
+_Context: Turkish police, Turkish, ISIL, Turkey-ISIL conflict, Istanbul_
 
 ##### 2015 PKK rebellion
 ### [Two Turkish soldiers are killed after a roadside bomb hit their vehicle in the eastern Tunceli Province. ](/news/2015/10/18/two-turkish-soldiers-are-killed-after-a-roadside-bomb-hit-their-vehicle-in-the-eastern-tunceli-province.md)
@@ -21,7 +21,7 @@ Bomb shelter of family in Homs countryside hit by apparent Russian rocket, killi
 
 ##### Synod of Bishops
 ### [As part of the weekend celebration of the 50th anniversary of the Synod of Bishops, during the 3-week-long Ordinary General Synod on the Family, Pope Francis canonizes the parents of the Doctor of the Church, Saint Therese of the Child Jesus of Lisieux, France (Saints Louis Martin and Marie-Azelie Guerin Martin, 1823-1894 and 1831-1877, respectively), the first married Catholic parents to be canonized at the same time. He also canonizes the religious superior general Saint Maria de la Purisima Salvat Romero (Mary of the Immaculate Conception), 1926-1998, and the diocesan priest and founder of a religious institute, Saint Vincenzo Grossi, 1845-1917. ](/news/2015/10/18/as-part-of-the-weekend-celebration-of-the-50th-anniversary-of-the-synod-of-bishops-during-the-3-week-long-ordinary-general-synod-on-the-fam.md)
-_Context: Lisieux, Doctor of the Church, Vincenzo Grossi, Synod of Bishops, superior general, Louis Martin, Maria de la Purisima Salvat Romero, Pope Francis, religious institute, Marie-Azelie Guerin Martin, Saint Therese of the Child Jesus_
+_Context: Louis Martin, Pope Francis, Synod of Bishops, Doctor of the Church, Vincenzo Grossi, Marie-Azelie Guerin Martin, religious institute, Saint Therese of the Child Jesus, superior general, Lisieux, Maria de la Purisima Salvat Romero_
 
 ##### junior doctor
 ### [Tens of thousands of junior doctors rally in London (UK) near Pall Mall to protest contract changes that will reclassify their normal working week to include Saturdays and late evenings, and the government's threat to impose a new contract. ](/news/2015/10/18/tens-of-thousands-of-junior-doctors-rally-in-london-uk-near-pall-mall-to-protest-contract-changes-that-will-reclassify-their-normal-workin.md)
@@ -33,7 +33,7 @@ Powerful Typhoon Koppu hit the northern Philippines early Sunday, the country&#x
 
 ##### Colombia
 ### [At least four people are killed and a dozen injured after a small plane crashes in a residential area of the Colombian capital Bogota. ](/news/2015/10/18/at-least-four-people-are-killed-and-a-dozen-injured-after-a-small-plane-crashes-in-a-residential-area-of-the-colombian-capital-bogota.md)
-_Context: Bogota, Colombia_
+_Context: Colombia, Bogota_
 
 ##### San Francisco
 ### [A San Francisco-bound Southwest Airlines flight returned to Los Angeles after an apparent altercation on the plane. Eyewitness accounts indicate that the fracas may have begun after one passenger reclined her seat, and the passenger behind her allegedly "started choking her." One passenger was removed from the flight. The airline moved the remaining passengers to a different plane to resume their journey to San Francisco. ](/news/2015/10/18/a-san-francisco-bound-southwest-airlines-flight-returned-to-los-angeles-after-an-apparent-altercation-on-the-plane-eyewitness-accounts-indi.md)
@@ -45,7 +45,7 @@ People vote in Egypt in the first round of long-delayed elections to choose a ne
 
 ##### Swiss federal election, 2015
 ### [Voters in Switzerland go to the polls for a federal election. Results show the anti-immigration Swiss People's Party winning the election with at least 29.5% of the vote, a record election result for the nationalist party. ](/news/2015/10/18/voters-in-switzerland-go-to-the-polls-for-a-federal-election-results-show-the-anti-immigration-swiss-people-s-party-winning-the-election-wi.md)
-_Context: Swiss federal election, 2015, anti-immigration, Swiss People's Party, Switzerland, nationalist_
+_Context: anti-immigration, Swiss People's Party, Switzerland, Swiss federal election, 2015, nationalist_
 
 ## [Previous Day...](/news/2015/10/17/index.md)
 

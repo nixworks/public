@@ -41,7 +41,7 @@ A US agency helping Japan tackle its nuclear crisis at a stricken nuclear power 
 
 ##### Hydro One
 ### [A Hydro One electrical transformer undergoing repairs in the Richview neighbourhood of Toronto catches on fire and is sustained by burning mineral oil near Pearson International Airport, causing a local power outage and forcing the evacuation of an apartment complex and the temporary closure of part of Highway 401. ](/news/2011/03/18/a-hydro-one-electrical-transformer-undergoing-repairs-in-the-richview-neighbourhood-of-toronto-catches-on-fire-and-is-sustained-by-burning-m.md)
-_Context: mineral oil, electrical transformer, Pearson International Airport, Highway 401, Hydro One, Richview neighbourhood, Toronto_
+_Context: Highway 401, Richview neighbourhood, Hydro One, Pearson International Airport, mineral oil, electrical transformer, Toronto_
 
 ##### China
 ### [China releases seven Tibetan monks detained after one monk set himself on fire in protest at Chinese rule. ](/news/2011/03/18/china-releases-seven-tibetan-monks-detained-after-one-monk-set-himself-on-fire-in-protest-at-chinese-rule.md)
@@ -49,7 +49,7 @@ Chinese security officers in Sichuan Province released Tibetan monks detained af
 
 ##### Government of Australia
 ### [The Government of Australia sends additional Australian Federal Police officers to Christmas Island following a series of riots at the Christmas Island Immigration Detention Centre. ](/news/2011/03/18/the-government-of-australia-sends-additional-australian-federal-police-officers-to-christmas-island-following-a-series-of-riots-at-the-chris.md)
-_Context: Australian Federal Police, Christmas Island, Christmas Island Immigration Detention Centre, Government of Australia_
+_Context: Christmas Island, Government of Australia, Christmas Island Immigration Detention Centre, Australian Federal Police_
 
 ##### British Airways
 ### [Former British Airways software engineer Rajib Karim, of Newcastle upon Tyne, United Kingdom is jailed for 30 years for plotting to blow up a plane. ](/news/2011/03/18/former-british-airways-software-engineer-rajib-karim-of-newcastle-upon-tyne-united-kingdom-is-jailed-for-30-years-for-plotting-to-blow-up.md)
@@ -57,11 +57,11 @@ A British Airways computer expert is jailed for 30 years for plotting to blow up
 
 ##### Zimbabwe
 ### [Zimbabwean Prime Minister Morgan Tsvangirai says the country is descending into a "police state" and urges regional intervention, at a rally banned by police. ](/news/2011/03/18/zimbabwean-prime-minister-morgan-tsvangirai-says-the-country-is-descending-into-a-police-state-and-urges-regional-intervention-at-a-rally.md)
-_Context: Morgan Tsvangirai, Zimbabwe, Prime Minister_
+_Context: Zimbabwe, Morgan Tsvangirai, Prime Minister_
 
 ##### Haiti
 ### [Former Haitian President Jean Bertrand-Aristide returns to Haiti, two days before a general election. ](/news/2011/03/18/former-haitian-president-jean-bertrand-aristide-returns-to-haiti-two-days-before-a-general-election.md)
-_Context: President of Haiti, Haiti, Jean Bertrand-Aristide, Haitian general election, 2010-2011_
+_Context: President of Haiti, Jean Bertrand-Aristide, Haitian general election, 2010-2011, Haiti_
 
 ##### North Korea
 ### [North Korea announces that its Supreme People's Assembly will meet on April 7 in a possible change of leadership. ](/news/2011/03/18/north-korea-announces-that-its-supreme-people-s-assembly-will-meet-on-april-7-in-a-possible-change-of-leadership.md)
@@ -69,11 +69,11 @@ _Context: Supreme People's Assembly, North Korea_
 
 ##### King
 ### [King Abdullah of Saudi Arabia addresses the nation in the context of regional unrest. ](/news/2011/03/18/king-abdullah-of-saudi-arabia-addresses-the-nation-in-the-context-of-regional-unrest.md)
-_Context: regional unrest, Abdullah, King_
+_Context: King, Abdullah, regional unrest_
 
 ##### United States Secretary of State
 ### [Former United States Secretary of State Warren Christopher died. ](/news/2011/03/18/former-united-states-secretary-of-state-warren-christopher-died.md)
-_Context: United States Secretary of State, Warren Christopher_
+_Context: Warren Christopher, United States Secretary of State_
 
 ##### Official Opposition
 ### [The Canadian Opposition accuses the Conservative Party of Canada and Harper Government of Contempt of Parliament after a ruling by the Speaker of the House of Commons, signalling a possible spring federal election. ](/news/2011/03/18/the-canadian-opposition-accuses-the-conservative-party-of-canada-and-harper-government-of-contempt-of-parliament-after-a-ruling-by-the-speak.md)

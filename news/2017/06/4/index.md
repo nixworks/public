@@ -17,7 +17,7 @@ Fighting breaks despite a four-hour ceasefire, preventing hundreds of residents 
 
 ##### 2017 Resorts World Manila attack
 ### [The Philippine police identifies the lone gunman as Jessie Javier Carlos, a local citizen, who was a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identifies-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-was-a-debt-riddled-former-employee-of-the-dep.md)
-_Context: Department of Finance, 2017 Resorts World Manila attack_
+_Context: 2017 Resorts World Manila attack, Department of Finance_
 
 ##### One Love Manchester
 ### [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md)
@@ -37,7 +37,7 @@ Updated 1.15pm with Muscat comments The Labour Party has comfortably won the gen
 
 ##### Cambodian communal elections, 2017
 ### [Voters cast ballots to select representatives for rural and urban Cambodian precincts from, nationwide, 94,595 candidates for 11,572 council seats. Voter turnout was 85.74 percent with few reports of irregularities. According to early results, the opposition makes significant gains against the ruling party of Prime Minister Hun Sen. ](/news/2017/06/4/voters-cast-ballots-to-select-representatives-for-rural-and-urban-cambodian-precincts-from-nationwide-94-595-candidates-for-11-572-council.md)
-_Context: Hun Sen, Cambodian communal elections, 2017, Cambodia, Prime Minister of Cambodia_
+_Context: Cambodia, Cambodian communal elections, 2017, Hun Sen, Prime Minister of Cambodia_
 
 ## [Previous Day...](/news/2017/06/3/index.md)
 

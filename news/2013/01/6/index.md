@@ -17,7 +17,7 @@ A US drone attack kills at least eight suspected militants in a Pakistan north-w
 
 ##### Kachin
 ### [Kachin rebels claim the government has fired shells at the rebel de facto headquarters of Laiza. ](/news/2013/01/6/kachin-rebels-claim-the-government-has-fired-shells-at-the-rebel-de-facto-headquarters-of-laiza.md)
-_Context: Laiza, Kachin_
+_Context: Kachin, Laiza_
 
 ##### Spin Boldak
 ### [Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/suicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md)
@@ -37,7 +37,7 @@ _Context: Gerard Helders, Minister of Colonial Affairs_
 
 ##### Apple Inc.
 ### [At Apple, applications developers say they gave Apple plenty of warning about issues with its iOS maps issues. ](/news/2013/01/6/at-apple-applications-developers-say-they-gave-apple-plenty-of-warning-about-issues-with-its-ios-maps-issues.md)
-_Context: Apple Inc., developers, iOS_
+_Context: iOS, developers, Apple Inc._
 
 ## [Previous Day...](/news/2013/01/5/index.md)
 

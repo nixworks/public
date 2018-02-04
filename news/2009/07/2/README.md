@@ -13,7 +13,7 @@ _Context: Amnesty International, Israel, Palestinian, war crimes, 2008-2009 Gaza
 
 ##### United States armed forces
 ### [ The United States armed forces launch Operation Strike of the Sword against the Taliban in Helmand, Afghanistan. ](/news/2009/07/2/the-united-states-armed-forces-launch-operation-strike-of-the-sword-against-the-taliban-in-helmand-afghanistan.md)
-_Context: Operation Strike of the Sword, United States armed forces, Helmand, Taliban, Afghanistan_
+_Context: Operation Strike of the Sword, Helmand, United States armed forces, Taliban, Afghanistan_
 
 ##### Honduras
 ### [ The Honduran interim government defies international pressure to reverse the recent coup, saying there is no chance at all of ousted President Manuel Zelaya returning to office. ](/news/2009/07/2/the-honduran-interim-government-defies-international-pressure-to-reverse-the-recent-coup-saying-there-is-no-chance-at-all-of-ousted-presid.md)
@@ -21,19 +21,19 @@ An interim government set up after a military coup in Honduras said on Thursday 
 
 ##### Section 377
 ### [ A 148-year-old colonial law banning homosexual intercourse in India is overturned by the High Court in New Delhi. ](/news/2009/07/2/a-148-year-old-colonial-law-banning-homosexual-intercourse-in-india-is-overturned-by-the-high-court-in-new-delhi.md)
-_Context: New Delhi, homosexual intercourse in India, Delhi High Court, Section 377_
+_Context: homosexual intercourse in India, Delhi High Court, Section 377, New Delhi_
 
 ##### South Korea
 ### [ The South Korean Defence Ministry says North Korea has fired four missiles off its east coast. ](/news/2009/07/2/the-south-korean-defence-ministry-says-north-korea-has-fired-four-missiles-off-its-east-coast.md)
-_Context: Defence Ministry, South Korea, North Korea_
+_Context: South Korea, Defence Ministry, North Korea_
 
 ##### Japan
 ### [ Japanese diplomat Yukiya Amano is elected Director General of the International Atomic Energy Agency. ](/news/2009/07/2/japanese-diplomat-yukiya-amano-is-elected-director-general-of-the-international-atomic-energy-agency.md)
-_Context: Japan, IAEA, Yukiya Amano_
+_Context: IAEA, Yukiya Amano, Japan_
 
 ##### vaccine
 ### [ The first vaccine for H1N1 swine flu virus strain has been made by Novartis in Marburg, Germany. ](/news/2009/07/2/the-first-vaccine-for-h1n1-swine-flu-virus-strain-has-been-made-by-novartis-in-marburg-germany.md)
-_Context: H1N1, German, Novartis, vaccine, Marburg, swine flu_
+_Context: Novartis, H1N1, Marburg, swine flu, German, vaccine_
 
 ##### Royal Air Force
 ### [ A Royal Air Force plane crashes in a rural area of Argyll, United Kingdom. ](/news/2009/07/2/a-royal-air-force-plane-crashes-in-a-rural-area-of-argyll-united-kingdom.md)

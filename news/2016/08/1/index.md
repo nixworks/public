@@ -9,7 +9,7 @@ A Taliban truck bomb exploded outside a protected hotel compound used by foreign
 
 ##### Syrian civil war
 ### [A Russian Mil Mi-8 military helicopter carrying humanitarian aid onboard is shot down by rebels in northern Syria. All five members of the crew die in the crash. ](/news/2016/08/1/a-russian-mil-mi-8-military-helicopter-carrying-humanitarian-aid-onboard-is-shot-down-by-rebels-in-northern-syria-all-five-members-of-the-c.md)
-_Context: Mi-8, Syria, Syrian civil war, Russia_
+_Context: Syria, Mi-8, Syrian civil war, Russia_
 
 ##### Libyan Civil War (2014-present)
 ### [The United States launches airstrikes on ISIL positions in the Libyan city of Sirte following a request from the UN-backed Government of National Accord. Libyan Prime Minister Fayez al-Sarraj, in a televised address, says the strikes have caused "heavy ISIL losses". ](/news/2016/08/1/the-united-states-launches-airstrikes-on-isil-positions-in-the-libyan-city-of-sirte-following-a-request-from-the-un-backed-government-of-nat.md)
@@ -29,7 +29,7 @@ A security law has come into force in Malaysia that gives the Prime Minister, Na
 
 ##### 2016 state of emergency in Venezuela
 ### [Venezuela's National Electoral Council says the opposition successfully met the one percent of voter signatures in every state requirement for a referendum to recall President Nicolas Maduro. Council head Tibisay Lucena did not name a date for the next phase of the referendum process: collect 20 percent of voters' signatures. ](/news/2016/08/1/venezuela-s-national-electoral-council-says-the-opposition-successfully-met-the-one-percent-of-voter-signatures-in-every-state-requirement-f.md)
-_Context: Nicolas Maduro, National Electoral Council, President, Tibisay Lucena, Venezuela, 2016 state of emergency in Venezuela_
+_Context: President, 2016 state of emergency in Venezuela, Tibisay Lucena, Nicolas Maduro, Venezuela, National Electoral Council_
 
 ## [Previous Day...](/news/2016/07/31/index.md)
 

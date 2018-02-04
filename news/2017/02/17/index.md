@@ -33,7 +33,7 @@ The remaining rats in the Pennsylvania facility were euthanized to prevent the s
 
 ##### European migrant crisis
 ### [Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md)
-_Context: Morocco, Africa, European migrant crisis, Spain_
+_Context: Spain, European migrant crisis, Africa, Morocco_
 
 ##### Cristina
 ### [Princess Cristina of Spain is acquitted of fraud but her husband is convicted. ](/news/2017/02/17/princess-cristina-of-spain-is-acquitted-of-fraud-but-her-husband-is-convicted.md)
@@ -41,7 +41,7 @@ _Context: fraud, Cristina, Spain_
 
 ##### Leila de Lima
 ### [Leila de Lima, senator and critic of the Philippine Drug War, is charged by Philippines justice secretary Vitaliano Aguirre II of alleged drug-related crimes. ](/news/2017/02/17/leila-de-lima-senator-and-critic-of-the-philippine-drug-war-is-charged-by-philippines-justice-secretary-vitaliano-aguirre-ii-of-alleged-dr.md)
-_Context: Philippines, drug crackdown, Leila de Lima, Vitaliano Aguirre II_
+_Context: Vitaliano Aguirre II, drug crackdown, Philippines, Leila de Lima_
 
 ##### Political appointments of Donald Trump
 ### [With a 52-46 vote, the U.S. Senate confirms Attorney General of Oklahoma Scott Pruitt as the Administrator of the Environmental Protection Agency. Breaking with party lines, Republican Susan Collins opposed the nomination, while Democrats Heidi Heitkamp and Joe Manchin supported Pruitt, who has been described as a climate change denier with a history of criticizing the agency he now leads. ](/news/2017/02/17/with-a-52a46-vote-the-u-s-senate-confirms-attorney-general-of-oklahoma-scott-pruitt-as-the-administrator-of-the-environmental-protection.md)

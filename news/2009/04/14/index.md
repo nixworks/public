@@ -9,11 +9,11 @@ _Context: nuclear program, North Korea, six-party talks_
 
 ##### France
 ### [ French fishing vessels institute blockades at Boulogne-sur-Mer and Dunkirk to protest the Common Fisheries Policy. ](/news/2009/04/14/french-fishing-vessels-institute-blockades-at-boulogne-sur-mer-and-dunkirk-to-protest-the-common-fisheries-policy.md)
-_Context: fishing vessel, Common Fisheries Policy, blockade, Dunkirk, Boulogne-sur-Mer, France_
+_Context: Common Fisheries Policy, Boulogne-sur-Mer, fishing vessel, France, Dunkirk, blockade_
 
 ##### Somalia
 ### [ Somali pirates hijack the merchant vessels "Irene" of Greece and "Sea Horse" of Lebanon. ](/news/2009/04/14/somali-pirates-hijack-the-merchant-vessels-irene-of-greece-and-sea-horse-of-lebanon.md)
-_Context: Somali pirates, ''Irene'', Somalia, Greece, ''Sea Horse'', merchant vessel, Lebanon_
+_Context: ''Sea Horse'', Somalia, Lebanon, Somali pirates, Greece, ''Irene'', merchant vessel_
 
 ##### Dubai
 ### [ The Camel Reproduction Center in Dubai, United Arab Emirates, announces the birth of Injaz, the first cloned camel. ](/news/2009/04/14/the-camel-reproduction-center-in-dubai-united-arab-emirates-announces-the-birth-of-injaz-the-first-cloned-camel.md)

@@ -9,7 +9,7 @@ _Context: Malaysia, Allah, Muslim_
 
 ##### immigrant
 ### [Riots break out amongst immigrants and local inhabitants in the town of Rosarno in southern Italy in a protest against an attack on African workers by white youths. ](/news/2010/01/8/riots-break-out-amongst-immigrants-and-local-inhabitants-in-the-town-of-rosarno-in-southern-italy-in-a-protest-against-an-attack-on-african.md)
-_Context: Rosarno, Italy, immigrant, Africa_
+_Context: immigrant, Rosarno, Italy, Africa_
 
 ##### gunmen open fire on a bus
 ### [One person is killed and several are injured after gunmen open fire on a bus carrying the Togo national football team to the 2010 Africa Cup of Nations in Angola. ](/news/2010/01/8/one-person-is-killed-and-several-are-injured-after-gunmen-open-fire-on-a-bus-carrying-the-togo-national-football-team-to-the-2010-africa-cup.md)
@@ -21,7 +21,7 @@ No statue of a pharaoh has ever been found further south of Egypt than this one.
 
 ##### China Mobile
 ### [China Mobile, the world's largest mobile telephone operator, sacks its vice chairman Zhang Chunjiang. ](/news/2010/01/8/china-mobile-the-world-s-largest-mobile-telephone-operator-sacks-its-vice-chairman-zhang-chunjiang.md)
-_Context: world's largest mobile telephone operator, China Mobile, Zhang Chunjiang_
+_Context: Zhang Chunjiang, China Mobile, world's largest mobile telephone operator_
 
 ##### China
 ### [China becomes the number one automobile market in the world. ](/news/2010/01/8/china-becomes-the-number-one-automobile-market-in-the-world.md)
@@ -37,11 +37,11 @@ The Sea Shepherd speedboat Ady Gil has sunk after it was sliced in two by a Japa
 
 ##### Skouba Konat
 ### [Skouba Konat, the interim head of the junta in Guinea, is flown to Senegal after falling ill. ](/news/2010/01/8/sekouba-konate-the-interim-head-of-the-junta-in-guinea-is-flown-to-senegal-after-falling-ill.md)
-_Context: Senegal, Guinea, junta, Skouba Konat_
+_Context: Senegal, Skouba Konat, Guinea, junta_
 
 #####  Georgian
 ### [A Georgian flight lands in Moscow, Russia, the first since the 2008 war. ](/news/2010/01/8/a-georgian-flight-lands-in-moscow-russia-the-first-since-the-2008-war.md)
-_Context: Moscow,  Georgian, 2008 war, Russia_
+_Context: 2008 war, Russia, Moscow,  Georgian_
 
 ##### George Galloway
 ### [British MP George Galloway is deported from Egypt. ](/news/2010/01/8/british-mp-george-galloway-is-deported-from-egypt.md)
@@ -61,7 +61,7 @@ Two officials in Burma have been sentenced to death for leaking information, in 
 
 ##### Coptic
 ### [Three people are arrested for their involvement in the killing of six Copts as they left a church in southern Egypt. ](/news/2010/01/8/three-people-are-arrested-for-their-involvement-in-the-killing-of-six-copts-as-they-left-a-church-in-southern-egypt.md)
-_Context: Egypt, Coptic_
+_Context: Coptic, Egypt_
 
 ##### Portugal
 ### [The Portuguese parliament approves a bill to legalise same-sex marriage. ](/news/2010/01/8/the-portuguese-parliament-approves-a-bill-to-legalise-same-sex-marriage.md)
@@ -69,11 +69,11 @@ The Portuguese parliament has approved at first reading a bill to legalise gay m
 
 ##### Uganda
 ### [The Ugandan death penalty for homosexuality may be declared "not necessary". ](/news/2010/01/8/the-ugandan-death-penalty-for-homosexuality-may-be-declared-not-necessary.md)
-_Context: homosexuality, Uganda_
+_Context: Uganda, homosexuality_
 
 ##### France
 ### [French research in "Analytical Chemistry" suggests that the heavy eye make-up of Cleopatra could be medically useful. ](/news/2010/01/8/french-research-in-analytical-chemistry-suggests-that-the-heavy-eye-make-up-of-cleopatra-could-be-medically-useful.md)
-_Context: Cleopatra, France, Analytical Chemistry_
+_Context: France, Analytical Chemistry, Cleopatra_
 
 ## [Previous Day...](/news/2010/01/7/index.md)
 

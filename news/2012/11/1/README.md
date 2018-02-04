@@ -9,7 +9,7 @@ Observatory for Human Rights confirms ambush on three checkpoints around norther
 
 ##### ComScore
 ### [Internet analytics company ComScore says Google's Gmail has edged out Microsoft's Hotmail as the world's top e-mail service. ](/news/2012/11/1/internet-analytics-company-comscore-says-google-s-gmail-has-edged-out-microsoft-s-hotmail-as-the-world-s-top-e-mail-service.md)
-_Context: Google, Hotmail, e-mail, ComScore, Gmail, Microsoft_
+_Context: Microsoft, Google, ComScore, e-mail, Gmail, Hotmail_
 
 ##### Hurricane Sandy
 ### [The death toll in the U.S. attributed to Hurricane Sandy rises to at least 90, nearly half in New York City, as millions of people in the Northeastern United States continue to deal with power outages, gasoline shortages and sparse public transportation. ](/news/2012/11/1/the-death-toll-in-the-u-s-attributed-to-hurricane-sandy-rises-to-at-least-90-nearly-half-in-new-york-city-as-millions-of-people-in-the-no.md)
@@ -21,11 +21,11 @@ At least 22 people are reported killed and scores injured in a fuel truck crash 
 
 ##### Yellow fever
 ### [Yellow fever kills 32 people and sickens at least 50 more in the Darfur region of Sudan. ](/news/2012/11/1/yellow-fever-kills-32-people-and-sickens-at-least-50-more-in-the-darfur-region-of-sudan.md)
-_Context: Sudan, Yellow fever, Darfur_
+_Context: Darfur, Sudan, Yellow fever_
 
 ##### President of Indonesia
 ### [President of Indonesia Susilo Bambang Yudhoyono receives a medal of Knighthood of the Order of the Bath from Queen Elizabeth II. ](/news/2012/11/1/president-of-indonesia-susilo-bambang-yudhoyono-receives-a-medal-of-knighthood-of-the-order-of-the-bath-from-queen-elizabeth-ii.md)
-_Context: Order of the Bath, President of Indonesia, Susilo Bambang Yudhoyono, Queen Elizabeth II_
+_Context: Order of the Bath, Queen Elizabeth II, Susilo Bambang Yudhoyono, President of Indonesia_
 
 ##### stoned to death
 ### [Parents kill their 15-year-old daughter in an "honour killing" by pouring acid on her after seeing her talking to a young man, in Azad Kashmir, Pakistan. ](/news/2012/11/1/parents-kill-their-15-year-old-daughter-in-an-ahonour-killinga-by-pouring-acid-on-her-after-seeing-her-talking-to-a-young-man-in-azad-k.md)
@@ -33,11 +33,11 @@ A couple in Pakistani-administered Kashmir are arrested for murdering their teen
 
 ##### Iranian human rights
 ### [Nine female political prisoners, including Iranian human rights lawyer Nasrin Sotoudeh, begin a hunger strike to protest their conditions in Tehran's Evin prison. ](/news/2012/11/1/nine-female-political-prisoners-including-iranian-human-rights-lawyer-nasrin-sotoudeh-begin-a-hunger-strike-to-protest-their-conditions-in.md)
-_Context: Nasrin Sotoudeh, Evin prison, Iranian human rights_
+_Context: Evin prison, Iranian human rights, Nasrin Sotoudeh_
 
 ##### perjury
 ### [Charges of perjury and child endangerment, among others, are filed against former Penn State President Graham Spanier and two other administrators in connection with the Penn State scandal involving imprisoned former football coach Jerry Sandusky; new charges also are filed against Athletic Director Tim Curley and retired Vice President Gary Schultz, who are already under arrest on perjury and failure to report child abuse charges. ](/news/2012/11/1/charges-of-perjury-and-child-endangerment-among-others-are-filed-against-former-penn-state-president-graham-spanier-and-two-other-administ.md)
-_Context: Pennsylvania State University, child abuse, perjury, Graham Spanier, Penn State child sex abuse scandal, Tim Curley, Jerry Sandusky, child endangerment_
+_Context: Jerry Sandusky, Graham Spanier, Tim Curley, perjury, child endangerment, Pennsylvania State University, Penn State child sex abuse scandal, child abuse_
 
 ##### prison officer
 ### [A prison officer is killed in an ambush by dissident Irish republicans as he drives to work along Northern Ireland's M1 motorway. The officer, who worked at the province's Maghaberry Prison, is the first member of the Northern Ireland Prison Service to be killed in such an attack in 20 years. ](/news/2012/11/1/a-prison-officer-is-killed-in-an-ambush-by-dissident-irish-republicans-as-he-drives-to-work-along-northern-ireland-s-m1-motorway-the-office.md)

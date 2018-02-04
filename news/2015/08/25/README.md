@@ -25,7 +25,7 @@ _Context: People's Bank of China_
 
 ##### Afghanistan
 ### [A gas explosion in the Afghanistan city of Herat kills eleven people and injures 18 others. ](/news/2015/08/25/a-gas-explosion-in-the-afghanistan-city-of-herat-kills-eleven-people-and-injures-18-others.md)
-_Context: Herat, Afghanistan_
+_Context: Afghanistan, Herat_
 
 ##### Balkans
 ### [A record number of migrants crossing the Balkans results in a record number of people in Hungary despite the government building a wall on the border with Serbia. ](/news/2015/08/25/a-record-number-of-migrants-crossing-the-balkans-results-in-a-record-number-of-people-in-hungary-despite-the-government-building-a-wall-on-t.md)

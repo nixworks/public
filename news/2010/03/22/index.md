@@ -9,11 +9,11 @@ Arshed Masih, a 38 year-old Pakistani Christian, died yesterday evening at 7.45 
 
 ##### House of Representatives
 ### [The United States House of Representatives passes the Health Care and Education Reconciliation Act of 2010. ](/news/2010/03/22/the-united-states-house-of-representatives-passes-the-health-care-and-education-reconciliation-act-of-2010.md)
-_Context: Health Care and Education Reconciliation Act of 2010, House of Representatives_
+_Context: House of Representatives, Health Care and Education Reconciliation Act of 2010_
 
 ##### Google
 ### [Google stops censoring its search results in China, redirecting users to its Hong Kong site. ](/news/2010/03/22/google-stops-censoring-its-search-results-in-china-redirecting-users-to-its-hong-kong-site.md)
-_Context: Google, Hong Kong, blocks mentions, China_
+_Context: Hong Kong, Google, China, blocks mentions_
 
 ##### Rio Tinto
 ### [The Rio Tinto Group bribery trial opens in China. ](/news/2010/03/22/the-rio-tinto-group-bribery-trial-opens-in-china.md)
@@ -25,7 +25,7 @@ By remaining silent on the issue of punishment for church figures, the pope’s 
 
 ##### Israel
 ### [Israeli warplanes bomb a smuggling tunnel east of Rafah in the southern Gaza Strip in an early morning raid close to the Egyptian border in response to a Palestinian rocket attack which landed in an open area south of the city of Ashkelon, causing no damage or casualties. ](/news/2010/03/22/israeli-warplanes-bomb-a-smuggling-tunnel-east-of-rafah-in-the-southern-gaza-strip-in-an-early-morning-raid-close-to-the-egyptian-border-in.md)
-_Context: Israel, Rafah, Ashkelon, Gaza Strip, Egypt_
+_Context: Rafah, Egypt, Ashkelon, Gaza Strip, Israel_
 
 ##### Kirsty Sword Gusmo
 ### [Kirsty Sword Gusmo, wife of East Timor's Prime Minister, backed by head of East Timor's child protection agency Carmen da Cruz, demands Australian woman Lala Noronha return to Dili 15 Timorese teenagers she has in Malaysia. However, the youths have stated that they do not want to go back. ](/news/2010/03/22/kirsty-sword-gusmao-wife-of-east-timor-s-prime-minister-backed-by-head-of-east-timor-s-child-protection-agency-carmen-da-cruz-demands-aus.md)

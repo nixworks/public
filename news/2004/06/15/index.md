@@ -9,11 +9,11 @@ _Context: Sir Timothy John Berners-Lee, Millennium Technology Prize, Helsinki_
 
 ##### Janis Karpinski
 ### [ Janis Karpinski, the United States Brigadier General at the center of the Abu Ghraib prisoner abuse in Iraq, says that she was "ordered from the top" to treat detainees "like dogs", as they are treated in Guantanamo. ](/news/2004/06/15/janis-karpinski-the-united-states-brigadier-general-at-the-center-of-the-abu-ghraib-prisoner-abuse-in-iraq-says-that-she-was-ordered-fro.md)
-_Context: Janis Karpinski, Abu Ghraib prisoner abuse, Guantanamo Bay, Iraq, Brigadier General_
+_Context: Janis Karpinski, Abu Ghraib prisoner abuse, Brigadier General, Guantanamo Bay, Iraq_
 
 ##### Bomb
 ### [ Bombs detonated against oil pipelines in Iraq result in the main Iraqi oil terminal being shut down for at least 10 days, an estimated revenue loss of USD 600 million to the Iraqi government. ](/news/2004/06/15/bombs-detonated-against-oil-pipelines-in-iraq-result-in-the-main-iraqi-oil-terminal-being-shut-down-for-at-least-10-days-an-estimated-reve.md)
-_Context: Bomb, Iraq, $, oil_
+_Context: oil, Iraq, Bomb, $_
 
 ##### Al Qaida's
 ### [ A militant Islamic group that has been identified as connected to Al Qaida releases a video-tape where they state they will kill an American hostage, Paul Johnson, if group members are not released from Saudi Arabian prisons in 72 hours. ](/news/2004/06/15/a-militant-islamic-group-that-has-been-identified-as-connected-to-al-qaida-releases-a-video-tape-where-they-state-they-will-kill-an-america.md)
@@ -21,7 +21,7 @@ _Context: Saudi Arabian, Al Qaida's, Paul Johnson_
 
 ##### Revolutionary Armed Forces of Colombia
 ### [ FARC guerrillas massacre 34 coca farmers in Norte de Santander department, Colombia, in the worst such attack since President Alvaro Uribe took office. ](/news/2004/06/15/farc-guerrillas-massacre-34-coca-farmers-in-norte-de-santander-department-colombia-in-the-worst-such-attack-since-president-alvaro-uribe.md)
-_Context: Revolutionary Armed Forces of Colombia, Colombia, coca, Alvaro Uribe, guerrillas, Norte de Santander, President_
+_Context: guerrillas, Norte de Santander, Revolutionary Armed Forces of Colombia, coca, Colombia, President, Alvaro Uribe_
 
 ##### Chris Bell
 ### [ U.S. Rep. Chris Bell files an ethics complaint against House Majority Leader Tom DeLay. ](/news/2004/06/15/u-s-rep-chris-bell-files-an-ethics-complaint-against-house-majority-leader-tom-delay.md)

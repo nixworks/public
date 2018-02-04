@@ -21,7 +21,7 @@ BIRMINGHAM,AL (WBRC) - The Birmingham - Shuttlesworth International Airport has 
 
 ##### 83rd Academy Awards
 ### [The 83rd Academy Awards are held to honor the best films in 2010 at the Kodak Theater in Hollywood, California. ](/news/2011/02/27/the-83rd-academy-awards-are-held-to-honor-the-best-films-in-2010-at-the-kodak-theater-in-hollywood-california.md)
-_Context: California, Kodak Theater, films in 2010, 83rd Academy Awards, Hollywood_
+_Context: films in 2010, 83rd Academy Awards, California, Hollywood, Kodak Theater_
 
 ##### Government of Egypt
 ### [The Government of Egypt announces that the Egyptian stock market will reopen on Tuesday. ](/news/2011/02/27/the-government-of-egypt-announces-that-the-egyptian-stock-market-will-reopen-on-tuesday.md)
@@ -37,7 +37,7 @@ North Korea threatened to take military action if the South continues to drop le
 
 ##### United Nations Secretary-General
 ### [The Secretary-General of the United Nations Ban Ki-moon claims that Belarus has broken an international arms embargo on the Ivory Coast by delivering three attack helicopters to military forces supporting the President of the Ivory Coast Laurent Gbagbo. ](/news/2011/02/27/the-secretary-general-of-the-united-nations-ban-ki-moon-claims-that-belarus-has-broken-an-international-arms-embargo-on-the-ivory-coast-by-d.md)
-_Context: President of the Ivory Coast, Laurent Gbagbo, attack helicopter, United Nations Secretary-General, Ban Ki-moon, Ivory Coast, Belarus_
+_Context: Laurent Gbagbo, Ivory Coast, Ban Ki-moon, President of the Ivory Coast, attack helicopter, United Nations Secretary-General, Belarus_
 
 #####  Bahrain
 ### [ Bahrain: Thousands of anti-government protesters demonstrate in the capital Manama, as 18 opposition MPs submit their resignations. ](/news/2011/02/27/bahrain-thousands-of-anti-government-protesters-demonstrate-in-the-capital-manama-as-18-opposition-mps-submit-their-resignations.md)
@@ -77,11 +77,11 @@ Beijing: Security was stepped up here today to check strolling protests called b
 
 ##### Croatia
 ### [For a second day, Croatian war veterans gather in the thousands to protest, this time in Split. ](/news/2011/02/27/for-a-second-day-croatian-war-veterans-gather-in-the-thousands-to-protest-this-time-in-split.md)
-_Context: Croatia, Split_
+_Context: Split, Croatia_
 
 ##### Wisconsin
 ### [The Wisconsin AFL-CIO warns that hundreds of unionists will risk arrest in trying to prevent police clearing the Wisconsin State Capitol in the US city of Madison. ](/news/2011/02/27/the-wisconsin-aflacio-warns-that-hundreds-of-unionists-will-risk-arrest-in-trying-to-prevent-police-clearing-the-wisconsin-state-capitol-i.md)
-_Context: Madison, Wisconsin, Wisconsin State Capitol, Wisconsin, AFL-CIO_
+_Context: AFL-CIO, Wisconsin State Capitol, Madison, Wisconsin, Wisconsin_
 
 ##### hacker group Anonymous
 ### [Anonymous targets Koch Brothers-backed Americans for Prosperity to demonstrate against its support of anti-union legislation in Wisconsin and the influence of money in US politics. ](/news/2011/02/27/anonymous-targets-koch-brothers-backed-americans-for-prosperity-to-demonstrate-against-its-support-of-anti-union-legislation-in-wisconsin-an.md)
@@ -89,7 +89,7 @@ There was nothing terribly sophisticated about the denial of service attack exec
 
 ##### Arab League
 ### [The head of the Arab League Amr Moussa announces that he will run as a candidate in the Egyptian presidential election. ](/news/2011/02/27/the-head-of-the-arab-league-amr-moussa-announces-that-he-will-run-as-a-candidate-in-the-egyptian-presidential-election.md)
-_Context: Egyptian presidential election in September, Amr Moussa, President, Arab League_
+_Context: Egyptian presidential election in September, Arab League, President, Amr Moussa_
 
 ## [Previous Day...](/news/2011/02/26/index.md)
 

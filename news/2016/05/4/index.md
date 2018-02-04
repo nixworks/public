@@ -13,11 +13,11 @@ The United States said on Wednesday it had agreed with Russia to extend a cessat
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [Suspected Kurdistan Workers' Party (PKK) militants launch a car bomb attack on a military installation in Turkey, killing one soldier; Turkey's army destroyes PKK targets in air strikes and kills more than 20. ](/news/2016/05/4/suspected-kurdistan-workers-party-pkk-militants-launch-a-car-bomb-attack-on-a-military-installation-in-turkey-killing-one-soldier-turke.md)
-_Context: Kurdistan Workers' Party, Kurdish-Turkish conflict (2015-present)_
+_Context: Kurdish-Turkish conflict (2015-present), Kurdistan Workers' Party_
 
 ##### Allied Democratic Forces insurgency
 ### [Assailants from the Allied Democratic Forces (ADF) armed with machetes hacked at least 16 civilians to death in the Eastern Democratic Republic of the Congo. ](/news/2016/05/4/assailants-from-the-allied-democratic-forces-adf-armed-with-machetes-hacked-at-least-16-civilians-to-death-in-the-eastern-democratic-repub.md)
-_Context: DR Congo, Allied Democratic Forces, Allied Democratic Forces insurgency_
+_Context: DR Congo, Allied Democratic Forces insurgency, Allied Democratic Forces_
 
 ##### Israeli-Palestinian conflict
 ### [Hamas says it has reached a truce with the Israeli military following hostilities today along the Gaza-Israel border. There were no casualties. ](/news/2016/05/4/hamas-says-it-has-reached-a-truce-with-the-israeli-military-following-hostilities-today-along-the-gaza-israel-border-there-were-no-casualti.md)
@@ -45,19 +45,19 @@ BRUSSELS (AP) — The European Union pressed ahead Wednesday with efforts to per
 
 ##### North Carolina Public Facilities Privacy & Security Act
 ### [The U.S. Justice Department notifies North Carolina Governor Pat McCrory that the state's new law which limits restroom access for transgender people violates the U.S. Civil Rights Act, and asks for a response by May 9 whether the state will correct "these violations of Title VII." The Governor's statement in response does not specifically say what the state will do. ](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgend.md)
-_Context: Governor, Pat McCrory, North Carolina Public Facilities Privacy & Security Act, 1964 Civil Rights Act, restroom access for transgender people, DoJ, Title VII_
+_Context: Department of Justice, Pat McCrory, North Carolina Public Facilities Privacy & Security Act, Governor, Title VII, 1964 Civil Rights Act, restroom access for transgender people_
 
 ##### Nepalese Maoist Party
 ### [The Nepalese Maoist Party says that they will withdraw support from Prime Minister Khadga Prasad Sharma Oli and form a new government. ](/news/2016/05/4/the-nepalese-maoist-party-says-that-they-will-withdraw-support-from-prime-minister-khadga-prasad-sharma-oli-and-form-a-new-government.md)
-_Context: Prime Minister, Nepalese Maoist Party, the Nepalese government, Khadga Prasad Sharma Oli_
+_Context: Khadga Prasad Sharma Oli, Prime Minister, the Nepalese government, Nepalese Maoist Party_
 
 ##### 2016 U.S. presidential election
 ### [Ohio Governor John Kasich suspends his campaign. He was the last Republican Party challenger to Donald Trump for the GOP presidential nomination. ](/news/2016/05/4/ohio-governor-john-kasich-suspends-his-campaign-he-was-the-last-republican-party-challenger-to-donald-trump-for-the-gop-presidential-nomina.md)
-_Context: Governor, John Kasich, his campaign, Republican, Donald Trump, 2016 U.S. presidential election_
+_Context: Donald Trump, his campaign, Governor, 2016 U.S. presidential election, Republican, John Kasich_
 
 ##### IBM
 ### [IBM allows the public to access a five-qubit quantum computer its researchers have developed in Yorktown Heights, New York. ](/news/2016/05/4/ibm-allows-the-public-to-access-a-five-qubit-quantum-computer-its-researchers-have-developed-in-yorktown-heights-new-york.md)
-_Context: Yorktown Heights, New York, qubit, quantum computer, IBM_
+_Context: qubit, Yorktown Heights, New York, IBM, quantum computer_
 
 ## [Previous Day...](/news/2016/05/3/index.md)
 

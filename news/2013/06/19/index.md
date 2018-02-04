@@ -21,7 +21,7 @@ James Gandolfini, the actor who most famously portrayed Tony Soprano on the seri
 
 ##### Indian Army
 ### [The Indian Army is deployed to help rescue people in the flood-hit northern states of Uttarakhand and Himachal Pradesh, where the number of confirmed deaths has reached 130. ](/news/2013/06/19/the-indian-army-is-deployed-to-help-rescue-people-in-the-flood-hit-northern-states-of-uttarakhand-and-himachal-pradesh-where-the-number-of.md)
-_Context: Indian Army, Uttarakhand, Himachal Pradesh_
+_Context: Uttarakhand, Indian Army, Himachal Pradesh_
 
 ##### Samara Oblast
 ### [A man is killed and more than 6,000 people are evacuated following an explosion at an arms depot in the Samara Oblast in central Russia. ](/news/2013/06/19/a-man-is-killed-and-more-than-6-000-people-are-evacuated-following-an-explosion-at-an-arms-depot-in-the-samara-oblast-in-central-russia.md)
@@ -41,7 +41,7 @@ An Italian court has rejected an attempt by Silvio Berlusconi to strike down a c
 
 ##### Domenico Dolce
 ### [An Italian court convicts fashion designers Domenico Dolce and Stefano Gabbana of tax evasion, giving them suspended sentences and heavy fines. ](/news/2013/06/19/an-italian-court-convicts-fashion-designers-domenico-dolce-and-stefano-gabbana-of-tax-evasion-giving-them-suspended-sentences-and-heavy-fin.md)
-_Context: Stefano Gabbana, tax fraud, Domenico Dolce_
+_Context: Stefano Gabbana, Domenico Dolce, tax fraud_
 
 ##### Xbox One
 ### [After receiving negative feedback, Microsoft decides to change many features of its upcoming Xbox One. ](/news/2013/06/19/after-receiving-negative-feedback-microsoft-decides-to-change-many-features-of-its-upcoming-xbox-one.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2017/04/11/index.html)  [JSON](2017/04/11/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [According to the Russian Defence Ministry, two of its soldiers have been killed by a mortar attack in Syria while another was wounded. The ministry did not specify when or where the attack occurred. ](/news/2017/04/11/according-to-the-russian-defence-ministry-two-of-its-soldiers-have-been-killed-by-a-mortar-attack-in-syria-while-another-was-wounded-the-m.md)
-_Context: Syrian Civil War, Russian Ministry of Defense, Russian military intervention in Syria, Syria_
+_Context: Syria, Syrian Civil War, Russian military intervention in Syria, Ministry of Defence_
 
 ##### Borussia Dortmund team bus bombing
 ### [Three explosions occur near the Borussia Dortmund football team bus as it slowed down to turn a corner. Spanish player Marc Bartra was injured and has been taken to hospital. Dortmund's UEFA Champions League fixture against AS Monaco FC is subsequently postponed. ](/news/2017/04/11/three-explosions-occur-near-the-borussia-dortmund-football-team-bus-as-it-slowed-down-to-turn-a-corner-spanish-player-marc-bartra-was-injur.md)
@@ -13,7 +13,7 @@ Borussia Dortmund&#39;s team bus was hit by three explosions while on its way to
 
 ##### United Express Flight 3411 incident
 ### [United Airlines CEO Oscar Munoz issues an apology for the removal of a passenger from an overbooked flight on April 9, which has since gone viral. United Airlines stock drops more than 4%, a loss of GBP800 million to the company's value. ](/news/2017/04/11/united-airlines-ceo-oscar-munoz-issues-an-apology-for-the-removal-of-a-passenger-from-an-overbooked-flight-on-april-9-which-has-since-gone.md)
-_Context: Oscar Munoz, United Express Flight 3411 incident, United Airlines_
+_Context: United Express Flight 3411 incident, Oscar Munoz, United Airlines_
 
 ##### North Korea-United States relations
 ### [North Korea announces its readiness to declare war on the United States after the country previously stated that they felt threatened as U.S. military forces approach the Korean Peninsula. ](/news/2017/04/11/north-korea-announces-its-readiness-to-declare-war-on-the-united-states-after-the-country-previously-stated-that-they-felt-threatened-as-u-s.md)

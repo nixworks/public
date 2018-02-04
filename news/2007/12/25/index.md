@@ -5,7 +5,7 @@ Formats: [HTML](2007/12/25/index.html)  [JSON](2007/12/25/index.json)  [XML](200
 
 ##### December 2007 bombing of northern Iraq
 ### [ December 2007 bombing of northern Iraq: Turkish forces claim to have killed hundreds of Kurdistan Workers Party rebels and struck more than 200 targets in northern Iraq in the past 10 days. ](/news/2007/12/25/december-2007-bombing-of-northern-iraq-turkish-forces-claim-to-have-killed-hundreds-of-kurdistan-workers-party-rebels-and-struck-more-than.md)
-_Context: Turkish troops, Iraq, Kurdistan Workers Party, December 2007 bombing of northern Iraq_
+_Context: December 2007 bombing of northern Iraq, Kurdistan Workers Party, Iraq, Turkish troops_
 
 ##### Baiji
 ### [ A suicide bombing attack in Baiji, Iraq kills at least 34. ](/news/2007/12/25/a-suicide-bombing-attack-in-baiji-iraq-kills-at-least-34.md)

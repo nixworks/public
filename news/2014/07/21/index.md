@@ -17,19 +17,19 @@ Ten people were killed, including a mother and three children, in a government a
 
 ##### Russia
 ### [Russian company Severstal sells two steel works in the US to AK Steel and Steel Dynamics for US$2.3 billion. ](/news/2014/07/21/russian-company-severstal-sells-two-steel-works-in-the-us-to-ak-steel-and-steel-dynamics-for-us-2-3-billion.md)
-_Context: Steel Dynamics, US$, Severstal, AK Steel, Russia_
+_Context: Russia, AK Steel, Steel Dynamics, US$, Severstal_
 
 ##### 2014 Pacific typhoon season
 ### [The death toll from Typhoon Rammasun rises to 26 in southern China and 11 in northern Vietnam. ](/news/2014/07/21/the-death-toll-from-typhoon-rammasun-rises-to-26-in-southern-china-and-11-in-northern-vietnam.md)
-_Context: Vietnam, China, Typhoon Rammasun (Glenda), 2014 Pacific typhoon season_
+_Context: Typhoon Rammasun (Glenda), China, Vietnam, 2014 Pacific typhoon season_
 
 ##### ravine
 ### [A bus crashes into a ravine in Pakistan's Kashmir region killing 16 people with 37 others injured. ](/news/2014/07/21/a-bus-crashes-into-a-ravine-in-pakistan-s-kashmir-region-killing-16-people-with-37-others-injured.md)
-_Context: Pakistan, Kashmir, ravine_
+_Context: Kashmir, ravine, Pakistan_
 
 ##### Boston Marathon bombings
 ### [Azamat Tazhayakov, a friend of accused marathon bomber Dzhokhar Tsarnaev is found guilty of obstruction of justice and conspiracy for trying to hide evidence during the ongoing case. ](/news/2014/07/21/azamat-tazhayakov-a-friend-of-accused-marathon-bomber-dzhokhar-tsarnaev-is-found-guilty-of-obstruction-of-justice-and-conspiracy-for-trying.md)
-_Context: Dzhokhar Tsarnaev, Boston Marathon bombings_
+_Context: Boston Marathon bombings, Dzhokhar Tsarnaev_
 
 ## [Previous Day...](/news/2014/07/20/index.md)
 

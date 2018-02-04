@@ -16,4 +16,5 @@ Five killed and 10 wounded in attack in Swat valley town of Mingora.
 
 ### Related:
 
-1. [Malala Yousafzai, a 15-year-old activist for women's education rights, is shot by Taliban gunmen in the Swat Valley. ](/news/2012/10/9/malala-yousafzai-a-15-year-old-activist-for-women-s-education-rights-is-shot-by-taliban-gunmen-in-the-swat-valley.md) _Context: Swat Valley_
+1. [A suicide bombing, revindicated in an email to journalists by the Pakistani Taliban, kills at least 11 soldiers and injures 13 at an army unit camp's sports area in the Kabal area of the Swat Valley, in Northwestern Pakistan, according to Pakistan Army figures. ](/news/2018/02/3/a-suicide-bombing-revindicated-in-an-email-to-journalists-by-the-pakistani-taliban-kills-at-least-11-soldiers-and-injures-13-at-an-army-un.md) _Context: Swat Valley_
+2. [Malala Yousafzai, a 15-year-old activist for women's education rights, is shot by Taliban gunmen in the Swat Valley. ](/news/2012/10/9/malala-yousafzai-a-15-year-old-activist-for-women-s-education-rights-is-shot-by-taliban-gunmen-in-the-swat-valley.md) _Context: Swat Valley_

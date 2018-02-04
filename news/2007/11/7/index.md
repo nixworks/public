@@ -9,15 +9,15 @@ A leader of the nascent Venezuelan student movement protesting President Hugo Ch
 
 ##### Belgium
 ### [ In Belgium, government formation discussions have gone on for a record 150 days as Flemish and Walloon politicians clash over Brussels-Halle-Vilvoorde. ](/news/2007/11/7/in-belgium-government-formation-discussions-have-gone-on-for-a-record-150-days-as-flemish-and-walloon-politicians-clash-over-brussels-hall.md)
-_Context: Belgium, Flemish, Wallonia, Brussels-Halle-Vilvoorde, forms a temporary coalition government_
+_Context: Belgium, Flemish, Brussels-Halle-Vilvoorde, forms a temporary coalition government, Wallonia_
 
 ##### Astronomer
 ### [ Astronomers in the United States have found a fifth planet in orbit around the star 55 Cancri 41 light years from Earth. ](/news/2007/11/7/astronomers-in-the-united-states-have-found-a-fifth-planet-in-orbit-around-the-star-55-cancri-41-light-years-from-earth.md)
-_Context: 55 Cancri, fifth planet, United States, light years, orbit, Astronomer_
+_Context: 55 Cancri, fifth planet, orbit, United States, Astronomer, light years_
 
 ##### Discovery
 ### [ Space Shuttle "Discovery" lands at the Kennedy Space Center, ending STS-120, a 15-day mission to the International Space Station. ](/news/2007/11/7/space-shuttle-discovery-lands-at-the-kennedy-space-center-ending-sts-120-a-15-day-mission-to-the-international-space-station.md)
-_Context: STS-120, Kennedy Space Center, Discovery, International Space Station_
+_Context: Discovery, STS-120, Kennedy Space Center, International Space Station_
 
 ##### Mikhail Saakashvili
 ### [ Georgian riot police use tear gas, water and sonic cannons to break up thousands of anti-government protesters calling for the resignation of President Mikhail Saakashvili in Tbilisi. ](/news/2007/11/7/georgian-riot-police-use-tear-gas-water-and-sonic-cannons-to-break-up-thousands-of-anti-government-protesters-calling-for-the-resignation.md)
@@ -25,15 +25,15 @@ _Context: Mikhail Saakashvili, Tbilisi_
 
 ##### school shooting
 ### [ At least eight people are killed and several injured in a school shooting in Tuusula (Tusby), north of Helsinki, Finland. ](/news/2007/11/7/at-least-eight-people-are-killed-and-several-injured-in-a-school-shooting-in-tuusula-tusby-north-of-helsinki-finland.md)
-_Context: Helsinki, school shooting, Tuusula (Tusby), Finland_
+_Context: Finland, Helsinki, school shooting, Tuusula (Tusby)_
 
 ##### U.S. dollar
 ### [ The U.S. dollar stumbles to new lows after Cheng Siwei, vice chairman of the Standing Committee of the National People's Congress, calls for China to shift more of its $1.43 trillion of currency reserves into "stronger currencies", such as the euro. ](/news/2007/11/7/the-u-s-dollar-stumbles-to-new-lows-after-cheng-siwei-vice-chairman-of-the-standing-committee-of-the-national-people-s-congress-calls-fo.md)
-_Context: Cheng Siwei, euro, Standing Committee of the National People's Congress, China, U.S. dollar, currency reserves_
+_Context: euro, China, Standing Committee of the National People's Congress, Cheng Siwei, currency reserves, U.S. dollar_
 
 ##### Brad Wall
 ### [ Brad Wall is elected as Premier of Saskatchewan as his Saskatchewan Party defeats the Saskatchewan New Democratic Party by a 37-21 margin in the 26th Saskatchewan general election. ](/news/2007/11/7/brad-wall-is-elected-as-premier-of-saskatchewan-as-his-saskatchewan-party-defeats-the-saskatchewan-new-democratic-party-by-a-37-21-margin-i.md)
-_Context: Brad Wall, 26th Saskatchewan general election, Saskatchewan New Democratic Party, Saskatchewan Party, Premier_
+_Context: Brad Wall, 26th Saskatchewan general election, Premier, Saskatchewan Party, Saskatchewan New Democratic Party_
 
 ## [Previous Day...](/news/2007/11/6/index.md)
 

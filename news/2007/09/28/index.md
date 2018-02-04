@@ -5,11 +5,11 @@ Formats: [HTML](2007/09/28/index.html)  [JSON](2007/09/28/index.json)  [XML](200
 
 #####  Georgian
 ### [ Supporters of the opposition gather in Georgia's capital, Tbilisi, to protest against the government in the largest such rally in the country since 2003. ](/news/2007/09/28/supporters-of-the-opposition-gather-in-georgia-s-capital-tbilisi-to-protest-against-the-government-in-the-largest-such-rally-in-the-count.md)
-_Context: Tbilisi,  Georgian, 2003, protest against the government_
+_Context: protest against the government, Tbilisi,  Georgian, 2003_
 
 ##### Lehendakari
 ### [ "Lehendakari" Juan Jos Ibarretxe announces a referendum on the future of the Basque Country for 25 October 2008. ](/news/2007/09/28/lehendakari-juan-jose-ibarretxe-announces-a-referendum-on-the-future-of-the-basque-country-for-25-october-2008.md)
-_Context: Lehendakari, Basque, Juan Jos Ibarretxe, 25 October, 2008, planned referendum_
+_Context: Juan Jos Ibarretxe, Basque, Lehendakari, 2008, 25 October, planned referendum_
 
 ##### Richard Garriott
 ### [ Richard Garriott, famed game designer and son of former NASA Skylab astronaut Owen Garriott, will become the sixth space tourist, visiting the International Space Station in 2008. ](/news/2007/09/28/richard-garriott-famed-game-designer-and-son-of-former-nasa-skylab-astronaut-owen-garriott-will-become-the-sixth-space-tourist-visiting.md)

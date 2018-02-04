@@ -9,13 +9,13 @@ Shelling and tank fire rage in Aleppo as the ceasefire and evacuation plan stall
 
 ##### Military intervention against ISIL
 ### [ A U.S. airstrike in Al-Raqqah, Syria, kills four ISIL leaders, two of which were confirmed to have roles in the November 2015 Paris Attacks. ](/news/2016/12/14/a-u-s-airstrike-in-al-raqqah-syria-kills-four-isil-leaders-two-of-which-were-confirmed-to-have-roles-in-the-november-2015-paris-attacks.md)
-_Context: Military intervention against ISIL, Syria, November 2015 Paris Attacks, United States, ISIL, Al-Raqqah_
+_Context: Syria, ISIL, United States, Al-Raqqah, November 2015 Paris Attacks, Military intervention against ISIL_
 
 ##### Merger
 ### [Merger talks between Danish oil and gas corporations DONG Energy and Maersk have reached an impasse over valuation. ](/news/2016/12/14/merger-talks-between-danish-oil-and-gas-corporations-dong-energy-and-maersk-have-reached-an-impasse-over-valuation.md)
 Pedersen and Ron Bousso
 
-##### U.S. Federal Reserve
+##### Federal Reserve System
 ### [The Federal Reserve System raises the benchmark interest rate in the United States to a level between 0.5 and 0.75%. This is the second time in a decade that the Federal Reserve has increased interest rates. ](/news/2016/12/14/the-federal-reserve-system-raises-the-benchmark-interest-rate-in-the-united-states-to-a-level-between-0-5-and-0-75-this-is-the-second-time.md)
 The increase was only the second since the financial crisis, and the central bank gave little indication that Donald J. Trump’s election altered its outlook.
 

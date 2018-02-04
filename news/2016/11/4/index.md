@@ -49,7 +49,7 @@ In the Palau presidential race, the incumbent, Tommy Remengesau, is leading his 
 
 ##### 2016 South Korean political scandal
 ### [The President of South Korea Park Geun-hye accepts full blame for the scandal over the influence of religious figure Choi Soon-sil in Park's administration and vows to accept the results of an independent investigation into her actions. ](/news/2016/11/4/the-president-of-south-korea-park-geun-hye-accepts-full-blame-for-the-scandal-over-the-influence-of-religious-figure-choi-soon-sil-in-park-s.md)
-_Context: Park Geun-hye, 2016 South Korean political scandal, Choi Soon-sil, South Korean President_
+_Context: South Korean President, 2016 South Korean political scandal, Park Geun-hye, Choi Soon-sil_
 
 ##### 2016 Turkish purges
 ### [Turkish security forces begin mass arrests of pro-Kurdish Peoples' Democratic Party (HDP) MPs, including co-leaders Selahattin Demirtas and Figen Yuksekdag. Internet access is reportedly blocked across southeastern Turkey. ](/news/2016/11/4/turkish-security-forces-begin-mass-arrests-of-pro-kurdish-peoples-democratic-party-hdp-mps-including-co-leaders-selahattin-demirtaa-and.md)

@@ -9,7 +9,7 @@ More than a dozen killed in attack on government workers in volatile city of Pes
 
 ##### Boko Haram insurgency
 ### [Two female suicide bombers detonate their explosives at a mosque during morning prayer on the outskirts of Maiduguri, Nigeria, killing 22 and injuring 18. ](/news/2016/03/16/two-female-suicide-bombers-detonate-their-explosives-at-a-mosque-during-morning-prayer-on-the-outskirts-of-maiduguri-nigeria-killing-22-an.md)
-_Context: Nigeria, Maiduguri, 2016 Maiduguri suicide bombings, Boko Haram insurgency_
+_Context: 2016 Maiduguri suicide bombings, Maiduguri, Boko Haram insurgency, Nigeria_
 
 ##### Washington Metro
 ### [The Washington Metro, a commuter rail system which transports nearly 1 million passengers across the Washington, D.C. metropolitan area per day, shuts down to allow for an emergency inspection of 600 electrical cables, following two fires occurring over the past 14 months. Officials say the system is scheduled to resume service by the following morning, though individual Metro lines or stations could remain closed indefinitely if problems are identified. ](/news/2016/03/16/the-washington-metro-a-commuter-rail-system-which-transports-nearly-1-million-passengers-across-the-washington-d-c-metropolitan-area-per.md)
@@ -29,19 +29,19 @@ Syrian government representatives rule out starting direct negotiations with the
 
 ##### Turkey-United Kingdom relations
 ### [ Turkey deports British academic Chris Stephenson, a computer science lecturer at Bilgi University in Istanbul, who is charged with making terrorism propaganda. The UK Foreign Office said it was providing assistance; there has been no comment from Turkish officials. ](/news/2016/03/16/turkey-deports-british-academic-chris-stephenson-a-computer-science-lecturer-at-bilgi-university-in-istanbul-who-is-charged-with-making-t.md)
-_Context: computer science, British, Istanbul, academic, Turkey-United Kingdom relations, Foreign and Commonwealth Office, Bilgi University, Turkish_
+_Context: Turkish, British, Turkey-United Kingdom relations, computer science, Bilgi University, Foreign and Commonwealth Office, academic, Istanbul_
 
 ##### Pakistan
 ### [ The travel ban for former Pakistani President Pervez Musharraf is lifted by the Supreme Court of Pakistan. Musharraf is currently facing treason charges in Pakistan. ](/news/2016/03/16/the-travel-ban-for-former-pakistani-president-pervez-musharraf-is-lifted-by-the-supreme-court-of-pakistan-musharraf-is-currently-facing-tr.md)
-_Context: Pakistan, Pervez Musharraf, Supreme Court_
+_Context: Supreme Court, Pakistan, Pervez Musharraf_
 
 ##### PKK rebellion (2015-present)
 ### [ Authorities in Turkey arrest three academics on charges of "terrorist propaganda" after they called for an end to security operations in the country's Kurdish-majority southeast. ](/news/2016/03/16/authorities-in-turkey-arrest-three-academics-on-charges-of-terrorist-propaganda-after-they-called-for-an-end-to-security-operations-in-th.md)
-_Context: Turkish, PKK rebellion (2015-present), Turkish police_
+_Context: Turkish police, PKK rebellion (2015-present), Turkish_
 
 ##### Attacks on humanitarian workers
 ### [The U.S. military disciplines more than a dozen personnel for mistakes that led to the bombing of a Medecins Sans Frontieres (Doctors Without Borders) hospital that killed 42 people in Afghanistan last October. No criminal charges are pending. The partially redacted investigation report is expected to be made public shortly. ](/news/2016/03/16/the-u-s-military-disciplines-more-than-a-dozen-personnel-for-mistakes-that-led-to-the-bombing-of-a-ma-c-decins-sans-frontia-res-doctors-with.md)
-_Context: United States military personnel, redacted, Afghanistan, Attacks on humanitarian workers, Medecins Sans Frontieres_
+_Context: Attacks on humanitarian workers, redacted, Medecins Sans Frontieres, Afghanistan, United States military personnel_
 
 ##### Republican Party presidential debates and forums, 2016
 ### [ Donald Trump announces he will skip the Fox News GOP presidential debate between the three remaining candidates on March 21, saying he thinks "we had enough of debates." ](/news/2016/03/16/donald-trump-announces-he-will-skip-the-fox-news-gop-presidential-debate-between-the-three-remaining-candidates-on-march-21-saying-he-thin.md)

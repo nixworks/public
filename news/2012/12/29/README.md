@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/29/index.html)  [JSON](2012/12/29/index.json)  [XML](201
 
 ##### LCC
 ### [The LCC report that up to 400 people have been killed across Syria on Saturday, including about 200 reported executed by the Syrian Army in the Deir Ballba neighborhood of Homs. ](/news/2012/12/29/the-lcc-report-that-up-to-400-people-have-been-killed-across-syria-on-saturday-including-about-200-reported-executed-by-the-syrian-army-in.md)
-_Context: Syrian Army, Homs, LCC, Syria_
+_Context: Syria, Homs, LCC, Syrian Army_
 
 ##### Central African Republic
 ### [Rebels in the Central African Republic have made fresh gains and are now in control of a key central city. ](/news/2012/12/29/rebels-in-the-central-african-republic-have-made-fresh-gains-and-are-now-in-control-of-a-key-central-city.md)

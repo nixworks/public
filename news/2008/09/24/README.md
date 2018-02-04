@@ -5,7 +5,7 @@ Formats: [HTML](2008/09/24/index.html)  [JSON](2008/09/24/index.json)  [XML](200
 
 ##### Islamist
 ### [ At least 17 civilians are killed in battles between Islamist militants and African Union peacekeepers in the Somali capital Mogadishu. ](/news/2008/09/24/at-least-17-civilians-are-killed-in-battles-between-islamist-militants-and-african-union-peacekeepers-in-the-somali-capital-mogadishu.md)
-_Context: Mogadishu, Somalia, African Union, militant, Islamist_
+_Context: African Union, Somalia, Islamist, militant, Mogadishu_
 
 ##### housing crisis
 ### [ President of the United States George W. Bush addresses the nation on prime time television to discuss the crisis and the Paulson plan. He warns that the United States faces a "long and painful recession" if the package is not passed. ](/news/2008/09/24/president-of-the-united-states-george-w-bush-addresses-the-nation-on-prime-time-television-to-discuss-the-crisis-and-the-paulson-plan-he.md)
@@ -25,7 +25,7 @@ _Context: Tomislav Nikolic, Serbian Progressive Party, Serbian Radical Party_
 
 ##### Typhoon Hagupit
 ### [ Typhoon Hagupit hits Vietnam, the Philippines and southern China, killing at least eight. ](/news/2008/09/24/typhoon-hagupit-hits-vietnam-the-philippines-and-southern-china-killing-at-least-eight.md)
-_Context: Vietnam, Philippines, China, Typhoon Hagupit_
+_Context: Typhoon Hagupit, Philippines, Vietnam, China_
 
 ## [Previous Day...](/news/2008/09/23/index.md)
 

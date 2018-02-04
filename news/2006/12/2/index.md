@@ -11,7 +11,7 @@ Two days before he resigned as defense secretary, Donald H. Rumsfeld submitted a
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: At least 50 people are killed by three car bombs exploding in Baghdad. ](/news/2006/12/2/iraqi-insurgency-at-least-50-people-are-killed-by-three-car-bombs-exploding-in-baghdad.md)
-_Context: Iraqi insurgency, Baghdad_
+_Context: Baghdad, Iraqi insurgency_
 
 ##### Bahrain
 ### [ Bahrainis go to the polls today in the second round of voting in the Kingdom's parliamentary elections. ](/news/2006/12/2/bahrainis-go-to-the-polls-today-in-the-second-round-of-voting-in-the-kingdom-s-parliamentary-elections.md)
@@ -19,7 +19,7 @@ _Context: parliamentary elections, Bahrain_
 
 ##### Philippines
 ### [ Rescuers in the Philippines continue to look for survivors of Typhoon Durian. ](/news/2006/12/2/rescuers-in-the-philippines-continue-to-look-for-survivors-of-typhoon-durian.md)
-_Context: Typhoon Durian, Philippines_
+_Context: Philippines, Typhoon Durian_
 
 ##### London
 ### [ London police are examining whether the killers of Alexander Litvinenko also tried to poison Mario Scaramella, an Italian security expert who met the Russian exile on the day that he fell ill. ](/news/2006/12/2/london-police-are-examining-whether-the-killers-of-alexander-litvinenko-also-tried-to-poison-mario-scaramella-an-italian-security-expert-w.md)
@@ -27,27 +27,27 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### War in Chad (2005-present)
 ### [ War in Chad (2005-present)-Darfur conflict: Chadian rebels have attacked the eastern town of Guereda, neighbouring Sudan's war-torn Darfur region. ](/news/2006/12/2/war-in-chad-2005apresent-darfur-conflict-chadian-rebels-have-attacked-the-eastern-town-of-gua-c-ra-c-da-neighbouring-sudan-s-war-torn-dar.md)
-_Context: Darfur, Guereda, Chad, Sudan, Darfur conflict, War in Chad (2005-present)_
+_Context: Sudan, Darfur conflict, Chad, Guereda, War in Chad (2005-present), Darfur_
 
 ##### Malakal
 ### [ Police and aid workers recover more than 100 bodies from Malakal in south Sudan resulting from fighting between former rebels and Government forces. ](/news/2006/12/2/police-and-aid-workers-recover-more-than-100-bodies-from-malakal-in-south-sudan-resulting-from-fighting-between-former-rebels-and-governmen.md)
-_Context: Malakal, Sudan_
+_Context: Sudan, Malakal_
 
 ##### Kazakhstan
 ### [ As Kazakhstan begins its nuclear program the Japanese Government sends a delegation to make sure nuclear materials are not susceptible to theft by Kazakh terrorists. ](/news/2006/12/2/as-kazakhstan-begins-its-nuclear-program-the-japanese-government-sends-a-delegation-to-make-sure-nuclear-materials-are-not-susceptible-to-t.md)
-_Context: its nuclear program, Kazakhstan, Japanese Government, Kazakh terrorists_
+_Context: its nuclear program, Kazakhstan, Kazakh terrorists, Japanese Government_
 
 ##### Fiji
 ### [ Fijian military commander Frank Bainimarama announces that he has taken control of Fiji. ](/news/2006/12/2/fijian-military-commander-frank-bainimarama-announces-that-he-has-taken-control-of-fiji.md)
-_Context: Voreqe Bainimarama, Fiji, 2006 coup d'etat_
+_Context: 2006 coup d'etat, Fiji, Voreqe Bainimarama_
 
 ##### Stephane Dion
 ### [ Stephane Dion is elected leader of the Liberal Party of Canada, defeating Michael Ignatieff. ](/news/2006/12/2/sta-c-phane-dion-is-elected-leader-of-the-liberal-party-of-canada-defeating-michael-ignatieff.md)
-_Context: Liberal Party's, Michael Ignatieff, Stephane Dion_
+_Context: Michael Ignatieff, Stephane Dion, Liberal Party's_
 
 ##### Ed Stelmach
 ### [ Ed Stelmach is elected leader of the Progressive Conservative Association of Alberta and will become the next premier of Alberta, replacing outgoing leader Ralph Klein and defeating competitors Jim Dinning and Ted Morton. ](/news/2006/12/2/ed-stelmach-is-elected-leader-of-the-progressive-conservative-association-of-alberta-and-will-become-the-next-premier-of-alberta-replacing.md)
-_Context: Ed Stelmach, Progressive Conservative Party, Ted Morton, Jim Dinning, premier, Ralph Klein, Alberta_
+_Context: Ralph Klein, Alberta, Jim Dinning, Ed Stelmach, Progressive Conservative Party, Ted Morton, premier_
 
 ## [Previous Day...](/news/2006/12/1/index.md)
 

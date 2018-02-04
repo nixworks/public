@@ -9,19 +9,19 @@ Henry Allingham, who was the world&#39;s oldest man and oldest World War I veter
 
 ##### Irish
 ### [ Ireland's Green Party, part of the ruling coalition, votes by a two to one majority to campaign for the Treaty of Lisbon prior to the 2 October referendum. ](/news/2009/07/18/ireland-s-green-party-part-of-the-ruling-coalition-votes-by-a-two-to-one-majority-to-campaign-for-the-treaty-of-lisbon-prior-to-the-2-oct.md)
-_Context: Irish, the second Irish referendum, Green Party, Treaty of Lisbon_
+_Context: Irish, Treaty of Lisbon, Green Party, the second Irish referendum_
 
 ##### Nachterstedt
 ### [ Three people are missing in Nachterstedt, Germany, after their home collapses into a lake. ](/news/2009/07/18/three-people-are-missing-in-nachterstedt-germany-after-their-home-collapses-into-a-lake.md)
-_Context: Nachterstedt, German_
+_Context: German, Nachterstedt_
 
 ##### Mauritanian
 ### [ Voters in Mauritania go to the polls for a presidential election, its first election since the coup d'tat last year. ](/news/2009/07/18/voters-in-mauritania-go-to-the-polls-for-a-presidential-election-its-first-election-since-the-coup-d-etat-last-year.md)
-_Context: Mauritanian, presidential election, coup d'tat_
+_Context: coup d'tat, Mauritanian, presidential election_
 
 ##### Palestine
 ### [ Palestinian Prime Minister Salam Fayyad receives a slice as Nablus bakers attempt to set a record for the world's biggest kunafa. ](/news/2009/07/18/palestinian-prime-minister-salam-fayyad-receives-a-slice-as-nablus-bakers-attempt-to-set-a-record-for-the-world-s-biggest-kunafa.md)
-_Context: Palestine, Nablus, Prime Minister, Salam Fayyad, kunafa_
+_Context: kunafa, Palestine, Prime Minister, Nablus, Salam Fayyad_
 
 ##### Tour de France
 ### [ A woman is killed and two people are seriously injured in an accident involving a motorcycle on the Tour de France in France, the race's first fatal accident since 2002. ](/news/2009/07/18/a-woman-is-killed-and-two-people-are-seriously-injured-in-an-accident-involving-a-motorcycle-on-the-tour-de-france-in-france-the-race-s-fi.md)
@@ -45,11 +45,11 @@ _Context: rmqi, riots, China_
 
 ##### collision
 ### [ Forty-seven people are injured in a collision between two Muni Metro light rail cars at the West Portal Station in San Francisco, United States. ](/news/2009/07/18/forty-seven-people-are-injured-in-a-collision-between-two-muni-metro-light-rail-cars-at-the-west-portal-station-in-san-francisco-united-st.md)
-_Context: light rail cars, San Francisco, collision, Muni Metro, United States, West Portal Station_
+_Context: United States, collision, San Francisco, West Portal Station, Muni Metro, light rail cars_
 
 ##### Paul Biyogh Mba
 ### [ Paul Biyogh Mba is appointed Prime Minister of Gabon after Jean Eyeghe Ndong launches his presidential campaign. ](/news/2009/07/18/paul-biyoghe-mba-is-appointed-prime-minister-of-gabon-after-jean-eyeghe-ndong-launches-his-presidential-campaign.md)
-_Context: Jean Eyeghe Ndong, Prime Minister, Paul Biyogh Mba, Gabon_
+_Context: Prime Minister, Gabon, Paul Biyogh Mba, Jean Eyeghe Ndong_
 
 ## [Previous Day...](/news/2009/07/17/index.md)
 

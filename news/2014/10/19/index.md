@@ -13,11 +13,11 @@ Police engaged in what appeared to be an effort to either clear streets or at le
 
 ##### Pope Francis
 ### [Pope Francis closes the Third Extraordinary General Assembly of the Synod of Bishops, a preparatory meeting which had as its theme the pastoral challenges to the family, with a Mass at the Vatican--with Pope Emeritus Benedict XVI and about 70,000 in attendance--featuring the beatification of Pope Paul VI, who concluded and implemented Vatican Council II and gained fame for writing the still-controversial "Humanae Vitae" sexual ethics encyclical. ](/news/2014/10/19/pope-francis-closes-the-third-extraordinary-general-assembly-of-the-synod-of-bishops-a-preparatory-meeting-which-had-as-its-theme-the-pasto.md)
-_Context: Third Extraordinary General Assembly of the Synod of Bishops, Pope Emeritus Benedict XVI, Pope Paul VI, Humanae Vitae, Pope Francis, Vatican Council II_
+_Context: Pope Paul VI, Humanae Vitae, Third Extraordinary General Assembly of the Synod of Bishops, Pope Emeritus Benedict XVI, Pope Francis, Vatican Council II_
 
 ##### intestine
 ### [A working human intestine is generated in a laboratory from induced pluripotent stem cells in the United States. ](/news/2014/10/19/a-working-human-intestine-is-generated-in-a-laboratory-from-induced-pluripotent-stem-cells-in-the-united-states.md)
-_Context: intestine, induced pluripotent stem cells, United States_
+_Context: intestine, United States, induced pluripotent stem cells_
 
 ##### Oort cloud
 ### [Oort cloud Comet Siding Spring makes a close fly-by the planet Mars passing within 140,000 kilometres. ](/news/2014/10/19/oort-cloud-comet-siding-spring-makes-a-close-fly-by-the-planet-mars-passing-within-140-000-kilometres.md)

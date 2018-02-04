@@ -33,7 +33,7 @@ _Context: Fukushima Daiichi nuclear disaster_
 
 ##### Japan
 ### [Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/anti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md)
-_Context: Senkaku Islands, Japan, China_
+_Context: China, Japan, Senkaku Islands_
 
 ##### Gambia
 ### [Gambia's President Yahya Jammeh orders an immediate halt to executions on death row. ](/news/2012/09/15/gambia-s-president-yahya-jammeh-orders-an-immediate-halt-to-executions-on-death-row.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2011/10/14/index.html)  [JSON](2011/10/14/index.json)  [XML](201
 
 ##### Barack Obama
 ### [U.S. President Barack Obama authorizes the deployment of up to 100 American soldiers to Uganda, South Sudan, the Central African Republic, and the Democratic Republic of the Congo to assist in operations against the Lord's Resistance Army insurgency. ](/news/2011/10/14/u-s-president-barack-obama-authorizes-the-deployment-of-up-to-100-american-soldiers-to-uganda-south-sudan-the-central-african-republic-a.md)
-_Context: Uganda, Lord's Resistance Army insurgency, South Sudan, Barack Obama, DR Congo, Central African Republic_
+_Context: South Sudan, Uganda, Barack Obama, Central African Republic, DR Congo, Lord's Resistance Army insurgency_
 
 ##### drones launch
 ### [A United States drone attack kills a further four militants in Waziristan near Pakistan's border with Afghanistan; it is the third such attack in 48 hours. ](/news/2011/10/14/a-united-states-drone-attack-kills-a-further-four-militants-in-waziristan-near-pakistan-s-border-with-afghanistan-it-is-the-third-such-atta.md)
-_Context: drones launch, Afghanistan, Pakistan, Waziristan_
+_Context: Pakistan, Afghanistan, drones launch, Waziristan_
 
 ##### Apple Inc.
 ### [Apple Inc. releases its latest smartphone model, the iPhone 4S. ](/news/2011/10/14/apple-inc-releases-its-latest-smartphone-model-the-iphone-4s.md)
@@ -17,7 +17,7 @@ _Context: Apple Inc., iPhone 4S, smartphone_
 
 ##### Qantas
 ### [Thousands of Qantas passengers in Australia face further disruption and cancellation of flights as the airline's maintenance engineers go on strike. ](/news/2011/10/14/thousands-of-qantas-passengers-in-australia-face-further-disruption-and-cancellation-of-flights-as-the-airline-s-maintenance-engineers-go-on.md)
-_Context: industrial action, Qantas_
+_Context: Qantas, industrial action_
 
 ##### Credit rating
 ### [Credit rating agency Standard & Poor's cuts Spain's credit rating to AA- with a negative outlook, as the European debt crisis deepens. ](/news/2011/10/14/credit-rating-agency-standard-poor-s-cuts-spain-s-credit-rating-to-aa-with-a-negative-outlook-as-the-european-debt-crisis-deepens.md)
@@ -25,19 +25,19 @@ Spain’s credit rating was cut for the third time in three years by Standard &a
 
 ##### Google
 ### [Google announces that it plans to shut down its Google Buzz social network. ](/news/2011/10/14/google-announces-that-it-plans-to-shut-down-its-google-buzz-social-network.md)
-_Context: Google Buzz, Google, social network_
+_Context: Google Buzz, social network, Google_
 
 ##### Microsoft
 ### [Microsoft completes its acquisition of Internet phone company Skype for US$8.5 billion. ](/news/2011/10/14/microsoft-completes-its-acquisition-of-internet-phone-company-skype-for-us-8-5-billion.md)
-_Context: Skype, Microsoft_
+_Context: Microsoft, Skype_
 
 ##### Papua New Guinea
 ### [A 6.7 magnitude earthquake occurs near the Papua New Guinean city of Lae. ](/news/2011/10/14/a-6-7-magnitude-earthquake-occurs-near-the-papua-new-guinean-city-of-lae.md)
-_Context: Lae, Papua New Guinea_
+_Context: Papua New Guinea, Lae_
 
 ##### Xian JH-7
 ### [A JH-7 jet fighter crashes at an air show in Pucheng County in China's Shaanxi Province, leaving one pilot injured and another still missing. ](/news/2011/10/14/a-jh-7-jet-fighter-crashes-at-an-air-show-in-pucheng-county-in-china-s-shaanxi-province-leaving-one-pilot-injured-and-another-still-missing.md)
-_Context: Pucheng County, Xian JH-7, air show, Shaanxi Province_
+_Context: Pucheng County, air show, Shaanxi Province, Xian JH-7_
 
 ##### Prime Minister
 ### [The Prime Minister of Thailand, Yingluck Shinawatra, reassures residents that the capital, Bangkok, will largely escape from major flooding over the weekend. An estimated 289 people have been killed by flooding in Thailand since July 2011. ](/news/2011/10/14/the-prime-minister-of-thailand-yingluck-shinawatra-reassures-residents-that-the-capital-bangkok-will-largely-escape-from-major-flooding.md)
@@ -57,7 +57,7 @@ _Context: Oliver Letwin, British Parliament, Cabinet Office, St. James's Park_
 
 ##### stromatolite
 ### [A stromatolite colony is found at Giant's Causeway in Northern Ireland. ](/news/2011/10/14/a-stromatolite-colony-is-found-at-giant-s-causeway-in-northern-ireland.md)
-_Context: Northern Ireland, stromatolite, Giant's Causeway_
+_Context: Northern Ireland, Giant's Causeway, stromatolite_
 
 ## [Previous Day...](/news/2011/10/13/index.md)
 

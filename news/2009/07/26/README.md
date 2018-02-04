@@ -13,7 +13,7 @@ More than 50 Nigerians were killed today in clashes between security forces and 
 
 ##### China
 ### [ Chinese hackers target the website of Australia's biggest film festival in Melbourne over a documentary about Uyghur leader Rebiya Kadeer. ](/news/2009/07/26/chinese-hackers-target-the-website-of-australia-s-biggest-film-festival-in-melbourne-over-a-documentary-about-uyghur-leader-rebiya-kadeer.md)
-_Context: Melbourne International Film Festival, Melbourne, Uyghur, Rebiya Kadeer, Australia, China_
+_Context: Rebiya Kadeer, Melbourne International Film Festival, Uyghur, China, Melbourne, Australia_
 
 ##### Fernando Chui Sai On
 ### [ Fernando Chui Sai On is elected the third Chief Executive of Macau. ](/news/2009/07/26/fernando-chui-sai-on-is-elected-the-third-chief-executive-of-macau.md)
@@ -29,7 +29,7 @@ India becomes the sixth nation to join the elite A-league as Manmohan Singh form
 
 ##### Guinea-Bissau
 ### [ Voters in Guinea-Bissau take part in a runoff presidential election between Kumba Iala and Malam Bacai Sanha. ](/news/2009/07/26/voters-in-guinea-bissau-take-part-in-a-runoff-presidential-election-between-kumba-iala-and-malam-bacai-sanha.md)
-_Context: Malam Bacai Sanha, Guinea-Bissau, Kumba Iala, presidential election_
+_Context: presidential election, Malam Bacai Sanha, Kumba Iala, Guinea-Bissau_
 
 ##### France
 ### [ French President Nicolas Sarkozy takes ill whilst exercising. ](/news/2009/07/26/french-president-nicolas-sarkozy-takes-ill-whilst-exercising.md)
@@ -37,7 +37,7 @@ French President Nicolas Sarkozy was rushed to hospital after falling ill while 
 
 ##### suicide attack
 ### [ At least five people are killed and more are wounded by a suicide attack at a concert hall in the Chechen capital Grozny. ](/news/2009/07/26/at-least-five-people-are-killed-and-more-are-wounded-by-a-suicide-attack-at-a-concert-hall-in-the-chechen-capital-grozny.md)
-_Context: suicide attack, Chechnya, Grozny_
+_Context: Chechnya, Grozny, suicide attack_
 
 ## [Previous Day...](/news/2009/07/25/index.md)
 

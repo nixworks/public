@@ -13,7 +13,7 @@ Malian troops backed by U.N. helicopters stormed a U.N. police base in the city 
 
 ##### War in Somalia
 ### [al Shabaab militants claim to have captured the port of Merca (Marka) after African Union and Somali Armed Forces withdraw. ](/news/2016/02/5/al-shabaab-militants-claim-to-have-captured-the-port-of-merca-marka-after-african-union-and-somali-armed-forces-withdraw.md)
-_Context: Merca, Al-Shabaab, Somali military, War in Somalia, African Union_
+_Context: African Union, Somali military, Merca, Al-Shabaab, War in Somalia_
 
 ##### Libyan Civil War (2014-present)
 ### [Clashes between local tribal forces and Sudanese fighters in Libya's southeastern Cyrenaica region around the town of Kufra leaves around 30 dead. ](/news/2016/02/5/clashes-between-local-tribal-forces-and-sudanese-fighters-in-libya-s-southeastern-cyrenaica-region-around-the-town-of-kufra-leaves-around-30.md)
@@ -29,7 +29,7 @@ _Context: President of Zimbabwe, Robert Mugabe_
 
 ##### Lower Manhattan
 ### [One person is killed, and two are seriously injured when a construction crane collapses in Lower Manhattan's Tribeca district. ](/news/2016/02/5/one-person-is-killed-and-two-are-seriously-injured-when-a-construction-crane-collapses-in-lower-manhattan-s-tribeca-district.md)
-_Context: Tribeca, Lower Manhattan_
+_Context: Lower Manhattan, Tribeca_
 
 ##### Japan
 ### [Japan's Sakurajima volcano erupts prompting the Japan Meteorological Agency to issue a warning not to approach it. The volcano, located in the southern Kagoshima Prefecture, is situated 50km from the Sendai Nuclear Power Plant. ](/news/2016/02/5/japan-s-sakurajima-volcano-erupts-prompting-the-japan-meteorological-agency-to-issue-a-warning-not-to-approach-it-the-volcano-located-in-t.md)
@@ -57,11 +57,11 @@ A man is shot dead at a Dublin boxing weigh-in, in a suspected gangland attack b
 
 ##### Wei Hong
 ### [Wei Hong is removed as the Governor of China's Sichuan province due to perceived disloyalty to the Communist Party. ](/news/2016/02/5/wei-hong-is-removed-as-the-governor-of-china-s-sichuan-province-due-to-perceived-disloyalty-to-the-communist-party.md)
-_Context: Wei Hong, Communist Party of China, China, Sichuan_
+_Context: Communist Party of China, China, Sichuan, Wei Hong_
 
 ##### New Hampshire
 ### [White supremacists in the U.S. state of New Hampshire create a super PAC to support U.S. presidential candidate Donald Trump's presidential campaign. ](/news/2016/02/5/white-supremacists-in-the-u-s-state-of-new-hampshire-create-a-super-pac-to-support-u-s-presidential-candidate-donald-trump-s-presidential.md)
-_Context: New Hampshire, Donald Trump, super PAC_
+_Context: New Hampshire, super PAC, Donald Trump_
 
 ## [Previous Day...](/news/2016/02/4/index.md)
 

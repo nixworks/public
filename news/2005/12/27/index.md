@@ -5,7 +5,7 @@ Formats: [HTML](2005/12/27/index.html)  [JSON](2005/12/27/index.json)  [XML](200
 
 ##### Andrei Illarionov
 ### [ Andrei Illarionov, an adviser to Russian President Vladimir Putin quits, saying Russia is "no longer free". ](/news/2005/12/27/andrei-illarionov-an-adviser-to-russian-president-vladimir-putin-quits-saying-russia-is-no-longer-free.md)
-_Context: Andrei Illarionov, Russia, Vladimir Putin, Russian President_
+_Context: Andrei Illarionov, Russian President, Vladimir Putin, Russia_
 
 ##### Poland
 ### [ The government of Poland announces it will keep troops in Iraq until the end of 2006, longer than previously planned. ](/news/2005/12/27/the-government-of-poland-announces-it-will-keep-troops-in-iraq-until-the-end-of-2006-longer-than-previously-planned.md)
@@ -17,7 +17,7 @@ _Context: Karbala, Baghdad, mass grave, Shia_
 
 ##### Colombia
 ### [ Rebels in Colombia kill 24 soldiers guarding coca eradication workers. ](/news/2005/12/27/rebels-in-colombia-kill-24-soldiers-guarding-coca-eradication-workers.md)
-_Context: Colombia, coca_
+_Context: coca, Colombia_
 
 ##### Uganda
 ### [ The Ugandan army kills seven civilians who had been protesting over the killing of a 15 year old boy. Sixteen others are injured. ](/news/2005/12/27/the-ugandan-army-kills-seven-civilians-who-had-been-protesting-over-the-killing-of-a-15-year-old-boy-sixteen-others-are-injured.md)

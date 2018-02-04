@@ -9,7 +9,7 @@ Unidentified militants shot down a military helicopter in northern Iraq on Wedne
 
 ##### Libya
 ### [The Russian embassy in Libya's capital Tripoli came under fire after an attempted attack by gunmen who tried to force their way into the compound. One of the attackers was killed and four others were injured according to Libyan authorities. ](/news/2013/10/2/the-russian-embassy-in-libya-s-capital-tripoli-came-under-fire-after-an-attempted-attack-by-gunmen-who-tried-to-force-their-way-into-the-com.md)
-_Context: Libya, Tripoli_
+_Context: Tripoli, Libya_
 
 ##### Tom Clancy
 ### [American author Tom Clancy, best known for his military thriller novels, dies at the age of 66. ](/news/2013/10/2/american-author-tom-clancy-best-known-for-his-military-thriller-novels-dies-at-the-age-of-66.md)
@@ -17,7 +17,7 @@ Mr. Clancy’s books were successfully transformed into blockbuster Hollywood fi
 
 ##### I-40
 ### [An accident involving a church bus, a tractor-trailer, and an SUV on I-40 in Jefferson County, Tennessee, leaves eight dead and 14 injured. ](/news/2013/10/2/an-accident-involving-a-church-bus-a-tractor-trailer-and-an-suv-on-i-40-in-jefferson-county-tennessee-leaves-eight-dead-and-14-injured.md)
-_Context: Jefferson County, Tennessee, I-40_
+_Context: I-40, Jefferson County, Tennessee_
 
 ##### Silk Road
 ### [Law enforcement in the U.S. shuts down "Silk Road," an internet marketplace for various illegal activities including the illicit drug trade, and arrests its alleged principal, Ross Ulbricht. ](/news/2013/10/2/law-enforcement-in-the-u-s-shuts-down-silk-road-an-internet-marketplace-for-various-illegal-activities-including-the-illicit-drug-trade.md)

@@ -13,15 +13,15 @@ Activists calling for the ouster of president clash with government supporters i
 
 ##### England
 ### [2011 English protests: Thousands of protesters demonstrate against cuts and increases in tuition fees in England; police escort student leader Aaron Porter away in Manchester amid calls from protesters for his resignation. ](/news/2011/01/29/2011-english-protests-thousands-of-protesters-demonstrate-against-cuts-and-increases-in-tuition-fees-in-england-police-escort-student-lead.md)
-_Context: England, Manchester, Aaron Porter, student leader_
+_Context: Aaron Porter, Manchester, England, student leader_
 
 ##### Russia
 ### [Investigators in Russia say they have discovered the identities of those responsible for the bombing at Domodedovo International Airport in Moscow. ](/news/2011/01/29/investigators-in-russia-say-they-have-discovered-the-identities-of-those-responsible-for-the-bombing-at-domodedovo-international-airport-in.md)
-_Context: Moscow, Domodedovo International Airport, Russia, bombing_
+_Context: Russia, Domodedovo International Airport, bombing, Moscow_
 
 ##### Afghanistan
 ### [Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/abdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-attack.md)
-_Context: Kandahar Province, Afghanistan_
+_Context: Afghanistan, Kandahar Province_
 
 ##### Somalia
 ### [Clashes between rebels and government forces in Somalia leave several civilians dead in the capital Mogadishu. ](/news/2011/01/29/clashes-between-rebels-and-government-forces-in-somalia-leave-several-civilians-dead-in-the-capital-mogadishu.md)
@@ -37,7 +37,7 @@ Wall Street firm Goldman Sachs Group awards chief executive Lloyd Blankfein $12.
 
 ##### Hamilton, Ontario
 ### [Close to 8,000 protesters rally in Hamilton, Ontario to support workers locked out from Stelco after disagreeing against pension changes made by U.S. Steel. Analysts predict that similar protests may spread across the country. ](/news/2011/01/29/close-to-8-000-protesters-rally-in-hamilton-ontario-to-support-workers-locked-out-from-stelco-after-disagreeing-against-pension-changes-mad.md)
-_Context: Hamilton, Ontario, U.S. Steel, Stelco_
+_Context: Stelco, Hamilton, Ontario, U.S. Steel_
 
 ##### passenger train
 ### [At least ten people die after a passenger train collides with a goods train in the German state of Saxony-Anhalt near the city of Magdeburg. ](/news/2011/01/29/at-least-ten-people-die-after-a-passenger-train-collides-with-a-goods-train-in-the-german-state-of-saxony-anhalt-near-the-city-of-magdeburg.md)
@@ -49,7 +49,7 @@ The&#x20;African&#x20;Union&#x20;is&#x20;to&#x20;form&#x20;a&#x20;panel&#x20;of&
 
 ##### lesbian
 ### [The UK gives a lesbian from Uganda an injunction to temporarily prevent her deportation to the country where gay activist David Kato was murdered earlier this week. ](/news/2011/01/29/the-uk-gives-a-lesbian-from-uganda-an-injunction-to-temporarily-prevent-her-deportation-to-the-country-where-gay-activist-david-kato-was-mur.md)
-_Context: David Kato, lesbian, gay activist, Uganda_
+_Context: David Kato, Uganda, lesbian, gay activist_
 
 ##### Politics of the Netherlands
 ### [The Dutch government freezes all contacts with Iran in protest over the fate of a Dutch-Iranian woman who was hanged for alleged drug smuggling. ](/news/2011/01/29/the-dutch-government-freezes-all-contacts-with-iran-in-protest-over-the-fate-of-a-dutch-iranian-woman-who-was-hanged-for-alleged-drug-smuggl.md)
@@ -57,7 +57,7 @@ The Dutch government freezes all contacts with Iran in protest over the hanging 
 
 ##### Labour Party
 ### [British Labour Party leader Ed Miliband pays his first visit to Afghanistan. ](/news/2011/01/29/british-labour-party-leader-ed-miliband-pays-his-first-visit-to-afghanistan.md)
-_Context: Labour Party, Afghanistan, Ed Miliband_
+_Context: Ed Miliband, Labour Party, Afghanistan_
 
 ##### Buddhists
 ### [A Buddhist monk is the first person to be charged under a strict anti-smoking law in Bhutan, introduced in 2005. ](/news/2011/01/29/a-buddhist-monk-is-the-first-person-to-be-charged-under-a-strict-anti-smoking-law-in-bhutan-introduced-in-2005.md)
@@ -73,7 +73,7 @@ The Finance Bill will not go to the D&aacute;il tonight after the Seanad passed 
 
 ##### Burma
 ### [Burma's pro-democracy leader Aung San Suu Kyi addresses the World Economic Forum in Davos, Switzerland. ](/news/2011/01/29/burma-s-pro-democracy-leader-aung-san-suu-kyi-addresses-the-world-economic-forum-in-davos-switzerland.md)
-_Context: Davos, World Economic Forum, Burma, Aung San Suu Kyi, Switzerland, democratic_
+_Context: World Economic Forum, Switzerland, Aung San Suu Kyi, Davos, Burma, democratic_
 
 ##### London
 ### [Students and union members stage protest marches in London and Manchester against increases in tuition fees and public spending cuts in the United Kingdom. ](/news/2011/01/29/students-and-union-members-stage-protest-marches-in-london-and-manchester-against-increases-in-tuition-fees-and-public-spending-cuts-in-the.md)

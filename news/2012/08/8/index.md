@@ -25,7 +25,7 @@ _Context: Hurricane Ernesto, Yucatn Peninsula_
 
 ##### One World Trade Center
 ### [A welding fire breaks out but is soon extinguished, with no injuries, on the 88th floor of One World Trade Center in New York City.](/news/2012/08/8/a-welding-fire-breaks-out-but-is-soon-extinguished-with-no-injuries-on-the-88th-floor-of-one-world-trade-center-in-new-york-city.md)
-_Context: One World Trade Center, New York City_
+_Context: New York City, One World Trade Center_
 
 ##### Orange County
 ### [A preliminary magnitude 4.5 earthquake strikes Orange County, California. Minimal damage was reported.](/news/2012/08/8/a-preliminary-magnitude-4-5-earthquake-strikes-orange-county-california-minimal-damage-was-reported.md)
@@ -53,7 +53,7 @@ The man sentenced to 25 years in jail for the murder of honeymooner Anni Dewani 
 
 ##### Jared Lee Loughner
 ### [Jared Lee Loughner, the shooter in the 2011 Tucson shooting, pleads guilty to all charges and is sentenced to life in prison without the possibility of parole. ](/news/2012/08/8/jared-lee-loughner-the-shooter-in-the-2011-tucson-shooting-pleads-guilty-to-all-charges-and-is-sentenced-to-life-in-prison-without-the-pos.md)
-_Context: 2011 Tucson shooting, Jared Lee Loughner_
+_Context: Jared Lee Loughner, 2011 Tucson shooting_
 
 ##### German
 ### [30 leading German managers write a letter to the leaders of the parliamentary groups where they ask for the ratification of the United Nations Convention against Corruption. ](/news/2012/08/8/30-leading-german-managers-write-a-letter-to-the-leaders-of-the-parliamentary-groups-where-they-ask-for-the-ratification-of-the-united-natio.md)
@@ -65,7 +65,7 @@ Japan is set to pass legislation tomorrow to raise the sales tax after the main 
 
 ##### Ukrainian President
 ### [President of Ukraine Viktor Yanukovych signs a controversial law about official status of 18 languages (including Russian, Hungarian, Crimean Tatar language, etc.) as regional and minority languages, allowing officials in Russian-speaking regions of the country to use Russian at public events and in documents. ](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.md)
-_Context: minority language, Russian-speaking regions, Ukrainian President, Russian language, Viktor Yanukovych, regional, Crimean Tatar language, Hungarian_
+_Context: Russian language, Hungarian, Ukrainian President, regional, minority language, Russian-speaking regions, Viktor Yanukovych, Crimean Tatar language_
 
 ## [Previous Day...](/news/2012/08/7/index.md)
 

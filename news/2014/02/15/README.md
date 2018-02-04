@@ -13,11 +13,11 @@ No date was set for new round of negotiations after six days of fractious talks
 
 ##### Academy Award
 ### [Academy Award-nominated actress Ellen Page comes out as lesbian at a Human Rights Campaign conference. ](/news/2014/02/15/academy-award-nominated-actress-ellen-page-comes-out-as-lesbian-at-a-human-rights-campaign-conference.md)
-_Context: Human Rights Campaign, Academy Award, lesbian, Ellen Page_
+_Context: Ellen Page, Human Rights Campaign, Academy Award, lesbian_
 
 ##### prime minister
 ### [Prime Minister of Vietnam Nguyen TCNYn Dung initiates the construction of Tan Vu-Lach Huyen Bridge in Haiphong which will become the longest sea bridge in Vietnam as well as Southeast Asia. ](/news/2014/02/15/prime-minister-of-vietnam-nguya-n-taocnyn-da-c-ng-initiates-the-construction-of-tac-n-va-c-lao-ch-huya-n-bridge-in-haiphong-which-will-become.md)
-_Context: Nguyen TCNYn Dung, prime minister, Tan Vu-Lach Huyen Bridge, Haiphong_
+_Context: Nguyen TCNYn Dung, Tan Vu-Lach Huyen Bridge, Haiphong, prime minister_
 
 ##### North Korea
 ### [A North Korean cargo ship is allowed to leave the Panama Canal. ](/news/2014/02/15/a-north-korean-cargo-ship-is-allowed-to-leave-the-panama-canal.md)
@@ -33,7 +33,7 @@ A passenger on a cruise ship has been killed in the English Channel and another 
 
 ##### Japan
 ### [Rescuers are searching for seven missing Japanese divers in Bali. ](/news/2014/02/15/rescuers-are-searching-for-seven-missing-japanese-divers-in-bali.md)
-_Context: Japan, Bali_
+_Context: Bali, Japan_
 
 ##### same-sex marriage in Virginia
 ### [A U.S. federal judge overturns a ban on same-sex marriage in Virginia. ](/news/2014/02/15/a-u-s-federal-judge-overturns-a-ban-on-same-sex-marriage-in-virginia.md)
@@ -41,7 +41,7 @@ Judge Arenda Wright Allen issued a stay of her order while it is appealed, meani
 
 ##### Lebanon
 ### [A new government is formed in Lebanon after 10-months of gridlock, Tammam Salam is elected to be Prime Minister. ](/news/2014/02/15/a-new-government-is-formed-in-lebanon-after-10-months-of-gridlock-tammam-salam-is-elected-to-be-prime-minister.md)
-_Context: Prime Minister of Lebanon, Lebanon, Tammam Salam_
+_Context: Tammam Salam, Prime Minister of Lebanon, Lebanon_
 
 ##### Turkish parliament
 ### [Judicial reforms are passed in the Turkish parliament after 20 hours and a brawl in the chamber. ](/news/2014/02/15/judicial-reforms-are-passed-in-the-turkish-parliament-after-20-hours-and-a-brawl-in-the-chamber.md)

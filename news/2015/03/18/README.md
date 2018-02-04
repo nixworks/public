@@ -13,7 +13,7 @@ _Context: tropical cyclone, Queensland, 2014-15 Australian region cyclone season
 
 ##### U.S. military
 ### [The United States Department of Defense authorizes the U.S. Army to destroy a large U.S. stockpile of chemical weapons. ](/news/2015/03/18/the-united-states-department-of-defense-authorizes-the-u-s-army-to-destroy-a-large-u-s-stockpile-of-chemical-weapons.md)
-_Context: U.S. stockpile of chemical weapons, U.S. military, United States soldier_
+_Context: United States soldier, U.S. stockpile of chemical weapons, U.S. military_
 
 ##### Kraft Foods
 ### [Kraft Foods Group Inc. recalls more than 6.5 million 7.25-ounce (0.2-kilogram) boxes of its macaroni and cheese after customers reported finding small pieces of metal inside. The recalled products were shipped nationwide in the U.S. as well as to some countries in South America and the Caribbean. ](/news/2015/03/18/kraft-foods-group-inc-recalls-more-than-6-5-million-7-25-ounce-0-2-kilogram-boxes-of-its-macaroni-and-cheese-after-customers-reported-fin.md)

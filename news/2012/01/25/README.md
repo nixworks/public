@@ -21,11 +21,11 @@ Riots broke out at a high-security prison in the Sri Lankan capital of Colombo, 
 
 ##### grenade
 ### [10 people are injured in a grenade attack in southern Rwanda. ](/news/2012/01/25/10-people-are-injured-in-a-grenade-attack-in-southern-rwanda.md)
-_Context: grenade, Rwanda_
+_Context: Rwanda, grenade_
 
 ##### United States
 ### [A United States rescue operation in Somalia frees two foreign hostages and kills nine pirates. ](/news/2012/01/25/a-united-states-rescue-operation-in-somalia-frees-two-foreign-hostages-and-kills-nine-pirates.md)
-_Context: United States, Somalia_
+_Context: Somalia, United States_
 
 ##### Ethiopia
 ### [A truck bomb detonates at an Ethiopian military base in Somalia. ](/news/2012/01/25/a-truck-bomb-detonates-at-an-ethiopian-military-base-in-somalia.md)

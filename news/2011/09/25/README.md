@@ -9,7 +9,7 @@ _Context: Indonesia, suicide bombing, Central Java_
 
 ##### Iraq
 ### [Four consecutive bombings kill at least 10 people and injure 70 others in the Iraqi city of Karbala. ](/news/2011/09/25/four-consecutive-bombings-kill-at-least-10-people-and-injure-70-others-in-the-iraqi-city-of-karbala.md)
-_Context: Iraq, Karbala_
+_Context: Karbala, Iraq_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council urges all sides in the 2011 Yemeni uprising to "show maximum restraint". ](/news/2011/09/25/the-united-nations-security-council-urges-all-sides-in-the-2011-yemeni-uprising-to-show-maximum-restraint.md)
@@ -21,11 +21,11 @@ An Afghan employee kills one US citizen and wounds another before being shot dea
 
 ##### Buddha Air
 ### [A Buddha Air flight taking tourists to see Mount Everest crashes in Nepal, killing 19 people. ](/news/2011/09/25/a-buddha-air-flight-taking-tourists-to-see-mount-everest-crashes-in-nepal-killing-19-people.md)
-_Context: Mount Everest, crashes, Buddha Air, Nepal_
+_Context: Buddha Air, Mount Everest, Nepal, crashes_
 
 ##### forest fire
 ### [An out-of-control forest fire near the Canadian town of Fort McMurray in Alberta causes the closure of Highway 63. ](/news/2011/09/25/an-out-of-control-forest-fire-near-the-canadian-town-of-fort-mcmurray-in-alberta-causes-the-closure-of-highway-63.md)
-_Context: Fort McMurray, forest fire, Alberta, Canadian, Alberta Highway 63_
+_Context: Alberta Highway 63, forest fire, Alberta, Canadian, Fort McMurray_
 
 ##### Indiana
 ### [At least five people are shot dead in two locations in the US state of Indiana. ](/news/2011/09/25/at-least-five-people-are-shot-dead-in-two-locations-in-the-us-state-of-indiana.md)
@@ -33,7 +33,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Senate elections
 ### [Senate elections in France result in a left-wing majority, headed by the Socialist Party, for the first time in the history of the Fifth Republic. ](/news/2011/09/25/senate-elections-in-france-result-in-a-left-wing-majority-headed-by-the-socialist-party-for-the-first-time-in-the-history-of-the-fifth-rep.md)
-_Context: Senate elections, France, Fifth Republic, left-wing, PS_
+_Context: Fifth Republic, Senate elections, France, left-wing, PS_
 
 ##### Abdullah
 ### [King Abdullah of Saudi Arabia announces reforms giving women the right to vote and run in municipal elections. ](/news/2011/09/25/king-abdullah-of-saudi-arabia-announces-reforms-giving-women-the-right-to-vote-and-run-in-municipal-elections.md)
@@ -41,7 +41,7 @@ _Context: Saudi Arabia, the right to vote, Abdullah_
 
 ##### Prime Minister of Jamaica
 ### [The Prime Minister of Jamaica Bruce Golding announces plans to step down as soon as the Jamaica Labour Party announces its new leader in December. ](/news/2011/09/25/the-prime-minister-of-jamaica-bruce-golding-announces-plans-to-step-down-as-soon-as-the-jamaica-labour-party-announces-its-new-leader-in-dec.md)
-_Context: Jamaica Labour Party, Bruce Golding, Prime Minister of Jamaica_
+_Context: Jamaica Labour Party, Prime Minister of Jamaica, Bruce Golding_
 
 ## [Previous Day...](/news/2011/09/24/index.md)
 

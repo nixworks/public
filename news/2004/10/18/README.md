@@ -5,11 +5,11 @@ Formats: [HTML](2004/10/18/index.html)  [JSON](2004/10/18/index.json)  [XML](200
 
 ##### bandit
 ### [ India's most wanted bandit, sandalwood smuggler and elephant poacher, Veerappan, is shot dead by the Special Task Force in Tamil Nadu at 11 p.m. IST, after having evaded capture for 20 years. ](/news/2004/10/18/india-s-most-wanted-bandit-sandalwood-smuggler-and-elephant-poacher-veerappan-is-shot-dead-by-the-special-task-force-in-tamil-nadu-at-11.md)
-_Context: bandit, poachers, Special Task Force, IST, sandalwood, Tamil Nadu, Veerappan_
+_Context: bandit, Tamil Nadu, sandalwood, IST, Special Task Force, Veerappan, poachers_
 
 ##### Venkaiah Naidu
 ### [ Venkaiah Naidu resigns from his post as president of India's main opposition party, BJP. He will be replaced by Lal Krishna Advani. ](/news/2004/10/18/venkaiah-naidu-resigns-from-his-post-as-president-of-india-s-main-opposition-party-bjp-he-will-be-replaced-by-lal-krishna-advani.md)
-_Context: Bharatiya Janata Party, Venkaiah Naidu, Lal Krishna Advani_
+_Context: Lal Krishna Advani, Bharatiya Janata Party, Venkaiah Naidu_
 
 ##### Macedonian
 ### [ Dalibor Lazarevski and Zoran Naskovski, citizens of the Republic of Macedonia, are believed to have been beheaded by the group Islamic Army in Iraq. ](/news/2004/10/18/dalibor-lazarevski-and-zoran-naskovski-citizens-of-the-republic-of-macedonia-are-believed-to-have-been-beheaded-by-the-group-islamic-army.md)
@@ -21,15 +21,15 @@ _Context: the state, 2004 U.S. presidential candidate_
 
 ##### Monday's referendum
 ### [ A referendum is held in Belarus on a proposal by President Alexander Lukashenko to permit Lukashenko to run for a third term by amending the country's constitution to remove term limits. The Belarus electoral commission says the referendum won the support of at least 75 percent of voters, but independent elections monitors say that the voting procedures "fell significantly short" of international standards. In Minsk, the capital, more than 2,000 people protest the results of the referendum. ](/news/2004/10/18/a-referendum-is-held-in-belarus-on-a-proposal-by-president-alexander-lukashenko-to-permit-lukashenko-to-run-for-a-third-term-by-amending-th.md)
-_Context: Monday's referendum, constitution, Belarus, Minsk, Alexander Lukashenko_
+_Context: constitution, Monday's referendum, Minsk, Belarus, Alexander Lukashenko_
 
 ##### Iran
 ### [ Iran says that it is willing to negotiate with the U.K., Germany, and France regarding a suspension of its uranium enrichment activities, but that it will never renounce its right to enrich uranium. Iran's nuclear program is currently under investigation by the International Atomic Energy Agency. ](/news/2004/10/18/iran-says-that-it-is-willing-to-negotiate-with-the-u-k-germany-and-france-regarding-a-suspension-of-its-uranium-enrichment-activities-b.md)
-_Context: Iran's nuclear program, uranium enrichment, IAEA, Iran_
+_Context: Iran, IAEA, Iran's nuclear program, uranium enrichment_
 
 ##### Anglican Communion
 ### [ The Anglican Communion's Lambeth Commission on Communion releases the Windsor Report. The Commission recommends that churches throughout the Communion express regret for the divisions that they have caused in the Communion. This report was precipitated by the consecration of the openly gay Reverend Gene Robinson as a bishop in the United States Episcopal Church, and by the responses of other Anglican churches to his consecration. ](/news/2004/10/18/the-anglican-communion-s-lambeth-commission-on-communion-releases-the-windsor-report-the-commission-recommends-that-churches-throughout-th.md)
-_Context: bishop, United States Episcopal Church, Lambeth Commission on Communion, Anglican Communion, homosexuality, Gene Robinson_
+_Context: Gene Robinson, homosexuality, United States Episcopal Church, Lambeth Commission on Communion, bishop, Anglican Communion_
 
 ## [Previous Day...](/news/2004/10/17/index.md)
 

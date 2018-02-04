@@ -5,7 +5,7 @@ Formats: [HTML](2016/03/10/index.html)  [JSON](2016/03/10/index.json)  [XML](201
 
 ##### Syrian Civil War spillover in Lebanon
 ### [Clashes between the Lebanese Army and jihadist militants near the village of Ras Baalbek in northeast Lebanon, close to the Syrian border, leaves one soldier and eight militants dead. ](/news/2016/03/10/clashes-between-the-lebanese-army-and-jihadist-militants-near-the-village-of-ras-baalbek-in-northeast-lebanon-close-to-the-syrian-border-l.md)
-_Context: Syria, Syrian Civil War spillover in Lebanon, Ras Baalbek, Lebanon, Lebanese Army_
+_Context: Syrian Civil War spillover in Lebanon, Ras Baalbek, Lebanon, Syria, Lebanese Army_
 
 ##### War in Afghanistan (2015-present)
 ### [Dozens of militants are killed in fighting between rival Taliban factions in Afghanistan's western Herat Province. ](/news/2016/03/10/dozens-of-militants-are-killed-in-fighting-between-rival-taliban-factions-in-afghanistan-s-western-herat-province.md)
@@ -17,7 +17,7 @@ Huge military trucks rumbled through neighborhoods in northern Louisiana on Thur
 
 ##### United States-Venezuela relations
 ### [Venezuela recalls its charge d'affaires from its embassy in Washington, D.C. after U.S. President Barack Obama renewed a decree imposing sanctions on several top Venezuelan officials. ](/news/2016/03/10/venezuela-recalls-its-charga-c-d-affaires-from-its-embassy-in-washington-d-c-after-u-s-president-barack-obama-renewed-a-decree-imposing-sa.md)
-_Context: its embassy, charge d'affaires, United States-Venezuela relations, Venezuela, U.S. President, Barack Obama, Washington, D.C._
+_Context: Barack Obama, Venezuela, charge d'affaires, U.S. President, Washington, D.C., United States-Venezuela relations, its embassy_
 
 ##### North Korea-South Korea relations
 ### [North Korea fires two missiles into the Sea of Japan and announces its intention to liquidate all remaining South Korean assets on its territory. ](/news/2016/03/10/north-korea-fires-two-missiles-into-the-sea-of-japan-and-announces-its-intention-to-liquidate-all-remaining-south-korean-assets-on-its-terri.md)

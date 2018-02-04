@@ -25,7 +25,7 @@ At least four people were killed as clashes between Muslim Brotherhood supporter
 
 ##### Japanese
 ### [One of the last Japanese soldiers to surrender from World War II, Hiroo Onoda, who surrendered in the Philippines in 1974, dies at the age of 91. ](/news/2014/01/17/one-of-the-last-japanese-soldiers-to-surrender-from-world-war-ii-hiroo-onoda-who-surrendered-in-the-philippines-in-1974-dies-at-the-age-o.md)
-_Context: Japanese, Hiroo Onoda, Philippines, World War II_
+_Context: Philippines, Japanese, World War II, Hiroo Onoda_
 
 ##### Zara Phillips
 ### [Zara Phillips, granddaughter of Queen Elizabeth II gives birth to a daughter. ](/news/2014/01/17/zara-phillips-granddaughter-of-queen-elizabeth-ii-gives-birth-to-a-daughter.md)
@@ -49,7 +49,7 @@ Arson investigators were at the scene of a wildfire near Los Angeles that explod
 
 ##### California
 ### [California Governor Jerry Brown declares a drought emergency and asks residents of the state to voluntarily conserve water. ](/news/2014/01/17/california-governor-jerry-brown-declares-a-drought-emergency-and-asks-residents-of-the-state-to-voluntarily-conserve-water.md)
-_Context: drought, Jerry Brown, California, Governor of California_
+_Context: Jerry Brown, drought, Governor of California, California_
 
 ##### Muslim
 ### [A stampede at the home of Muslim religious leader Mohammed Burhanuddin in the Indian city of Mumbai results in 18 deaths. ](/news/2014/01/17/a-stampede-at-the-home-of-muslim-religious-leader-mohammed-burhanuddin-in-the-indian-city-of-mumbai-results-in-18-deaths.md)
@@ -69,7 +69,7 @@ US lawyers are to challenge the drugs used in executions in Ohio after a murdere
 
 ##### Philadelphia
 ### [Two students, a male and a female in stable condition, are each shot in the arm by an at-large gunman, who may be a student, at Philadelphia, Pennsylvania's Delaware Valley Charter School high school. ](/news/2014/01/17/two-students-a-male-and-a-female-in-stable-condition-are-each-shot-in-the-arm-by-an-at-large-gunman-who-may-be-a-student-at-philadelphia.md)
-_Context: Delaware Valley Charter School, Philadelphia, Pennsylvania_
+_Context: Delaware Valley Charter School, Pennsylvania, Philadelphia_
 
 ## [Previous Day...](/news/2014/01/16/index.md)
 

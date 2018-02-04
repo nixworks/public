@@ -13,39 +13,39 @@ Ten rhino horns, with an estimated value of €500,000, have been seized by Cust
 
 ##### China
 ### [China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/china-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-countries.md)
-_Context: blocks mentions, Sino-American relations, United States, China_
+_Context: blocks mentions, China, United States, Sino-American relations_
 
 ##### British
 ### [U.K. Home Secretary Alan Johnson announces the Joint Terrorism Analysis Centre has raised the terrorist threat level from "substantial" to "severe". ](/news/2010/01/22/u-k-home-secretary-alan-johnson-announces-the-joint-terrorism-analysis-centre-has-raised-the-terrorist-threat-level-from-substantial-to.md)
-_Context: terror threat level, British, Joint Terrorism Analysis Centre, Home Secretary, Alan Johnson_
+_Context: Home Secretary, Joint Terrorism Analysis Centre, British, terror threat level, Alan Johnson_
 
 ##### United States
 ### [A U.S. Justice Department task force recommends 47 Guantanamo Bay detainees should be held indefinitely without charge. ](/news/2010/01/22/a-u-s-justice-department-task-force-recommends-47-guantanamo-bay-detainees-should-be-held-indefinitely-without-charge.md)
-_Context: task force, United States Justice Department, United States, detainee, detention camps, detainees_
+_Context: detainees, United States Justice Department, detention camps, task force, United States, detainee_
 
 ##### United States
 ### [Former U.S. Air Force lieutenant colonel James Fondren is sentenced to three years in prison for providing classified documents to Chinese spy Tai Shen Kuo. ](/news/2010/01/22/former-u-s-air-force-lieutenant-colonel-james-fondren-is-sentenced-to-three-years-in-prison-for-providing-classified-documents-to-chinese-s.md)
-_Context: Tai Shen Kuo, China, espionage, prison, lieutenant colonel, United States Air Force, United States, James Fondren, classified document_
+_Context: espionage, Tai Shen Kuo, lieutenant colonel, China, prison, United States Air Force, United States, James Fondren, classified document_
 
 ##### Nuremberg
 ### [A Nuremberg court issues an arrest warrant for former Argentine leader Jorge Rafael Videla, on suspicion of killing a German man. ](/news/2010/01/22/a-nuremberg-court-issues-an-arrest-warrant-for-former-argentine-leader-jorge-rafael-videla-on-suspicion-of-killing-a-german-man.md)
-_Context: German, Nuremberg, Argentina, arrest warrant, Jorge Rafael Videla_
+_Context: German, Argentina, Nuremberg, Jorge Rafael Videla, arrest warrant_
 
 ##### Electoral Synod
 ### [The Electoral Synod of the Serbian Orthodox Church meets in Belgrade and chooses Bishop Irinej of Nis as the new Serbian Patriarch. ](/news/2010/01/22/the-electoral-synod-of-the-serbian-orthodox-church-meets-in-belgrade-and-chooses-bishop-irinej-of-nia-as-the-new-serbian-patriarch.md)
-_Context: Electoral Synod, Belgrade, Serbian Orthodox Church, Bishop Irinej of Nis, Serbian Patriarch_
+_Context: Electoral Synod, Serbian Orthodox Church, Bishop Irinej of Nis, Belgrade, Serbian Patriarch_
 
 ##### Europe
 ### [European banking stocks drop sharply following U.S. President Barack Obama's plans to restrict activities of the biggest American banks. ](/news/2010/01/22/european-banking-stocks-drop-sharply-following-u-s-president-barack-obama-s-plans-to-restrict-activities-of-the-biggest-american-banks.md)
-_Context: banking, United States, Barack Obama, U.S. President, Europe_
+_Context: U.S. President, United States, Barack Obama, Europe, banking_
 
 ##### Supreme Court
 ### [The Supreme Court of Nigeria gives the government 14 days to decide whether ailing President Umaru Yar'Adua is fit to rule the country. ](/news/2010/01/22/the-supreme-court-of-nigeria-gives-the-government-14-days-to-decide-whether-ailing-president-umaru-yar-adua-is-fit-to-rule-the-country.md)
-_Context: Umaru Yar'Adua, Supreme Court, government, Nigeria, President_
+_Context: government, President, Supreme Court, Umaru Yar'Adua, Nigeria_
 
 ##### Turkish
 ### [Turkish police arrest 120 suspects in a major anti-terrorism operation against Al-Qaeda. ](/news/2010/01/22/turkish-police-arrest-120-suspects-in-a-major-anti-terrorism-operation-against-al-qaeda.md)
-_Context: al-Qaeda, Turkish, anti-terrorism, Turkish police_
+_Context: al-Qaeda, anti-terrorism, Turkish, Turkish police_
 
 ##### security alert
 ### [A security alert is issued at all of India's airports after intelligence reports of a plot to hijack an Indian plane. ](/news/2010/01/22/a-security-alert-is-issued-at-all-of-india-s-airports-after-intelligence-reports-of-a-plot-to-hijack-an-indian-plane.md)
@@ -53,15 +53,15 @@ Authorities raise alert level after intelligence reports of plot to hijack plane
 
 ##### Sri Lanka
 ### [The home of an opposition activist is bombed in the Sri Lankan capital Colombo days ahead of the presidential election. ](/news/2010/01/22/the-home-of-an-opposition-activist-is-bombed-in-the-sri-lankan-capital-colombo-days-ahead-of-the-presidential-election.md)
-_Context: Colombo, presidential election, Sri Lanka_
+_Context: Colombo, Sri Lanka, presidential election_
 
 ##### Alexey Dymovskiy
 ### [Alexey Dymovskiy, the Russian policeman who became famous for denouncing police corruption on YouTube, is arrested on charges of fraud and corruption. ](/news/2010/01/22/alexey-dymovskiy-the-russian-policeman-who-became-famous-for-denouncing-police-corruption-on-youtube-is-arrested-on-charges-of-fraud-and-c.md)
-_Context: Alexey Dymovskiy, fraud, YouTube, corruption, policeman, Russia_
+_Context: fraud, YouTube, corruption, Russia, Alexey Dymovskiy, policeman_
 
 ##### Waterford Crystal
 ### [The internationally renowned Waterford Crystal tourist centre in Kilbarry, Ireland, ceases to function. ](/news/2010/01/22/the-internationally-renowned-waterford-crystal-tourist-centre-in-kilbarry-ireland-ceases-to-function.md)
-_Context: Kilbarry, Irish, Waterford Crystal_
+_Context: Waterford Crystal, Kilbarry, Irish_
 
 ##### Conan O'Brien
 ### [Conan O'Brien hosted the late night variety television show, The Tonight Show, on NBC for the final time. ](/news/2010/01/22/conan-o-brien-hosted-the-late-night-variety-television-show-the-tonight-show-on-nbc-for-the-final-time.md)

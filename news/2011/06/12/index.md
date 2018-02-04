@@ -9,7 +9,7 @@ _Context: Jisr al-Shugur_
 
 ##### Iran
 ### [Iranian authorities disperse and arrest protesters in the capital Tehran marking the second anniversary of the re-election of Mahmoud Ahmadinejad as President. ](/news/2011/06/12/iranian-authorities-disperse-and-arrest-protesters-in-the-capital-tehran-marking-the-second-anniversary-of-the-re-election-of-mahmoud-ahmadi.md)
-_Context: Mahmoud Ahmadinejad, re-election, Iran, Tehran_
+_Context: re-election, Mahmoud Ahmadinejad, Iran, Tehran_
 
 ##### Muammar Gaddafi
 ### [Fighting erupts in the west of the country, as rebels attempt to take more towns from forces loyal to Muammar Gaddafi. ](/news/2011/06/12/fighting-erupts-in-the-west-of-the-country-as-rebels-attempt-to-take-more-towns-from-forces-loyal-to-muammar-gaddafi.md)
@@ -29,7 +29,7 @@ _Context: Tianjin, China_
 
 ##### Southern African Development Community
 ### [The leaders of the Southern African Development Community, the Common Market for Eastern and Southern Africa, and the East African Community signed an agreement in South Africa to develop a joint free trade bloc to stretch from Cape Town to Cairo, to encompass 26 countries. ](/news/2011/06/12/the-leaders-of-the-southern-african-development-community-the-common-market-for-eastern-and-southern-africa-and-the-east-african-community.md)
-_Context: free trade, South Africa, Common Market for Eastern and Southern Africa, Southern African Development Community, East African Community, trade bloc_
+_Context: Common Market for Eastern and Southern Africa, South Africa, trade bloc, free trade, Southern African Development Community, East African Community_
 
 ##### 2011 Puyehue eruption
 ### [Ash clouds from the erupting Puyehue-Cordon Caulle in Chile disrupt and cancel international flights, leaving thousands stranded. ](/news/2011/06/12/ash-clouds-from-the-erupting-puyehue-cordon-caulle-in-chile-disrupt-and-cancel-international-flights-leaving-thousands-stranded.md)
@@ -37,7 +37,7 @@ Ash clouds from a Chilean volcano prompted numerous flight cancellations in Aust
 
 ##### lead contamination
 ### [Over 600 people are poisoned by lead in Zhejiang, eastern China. ](/news/2011/06/12/over-600-people-are-poisoned-by-lead-in-zhejiang-eastern-china.md)
-_Context: Zhejiang, lead contamination, China_
+_Context: lead contamination, Zhejiang, China_
 
 ##### Eritrea
 ### [A series of moderate magnitude 4-5 earthquakes hit eastern Eritrea, preceding reports of a possible volcanic eruption. ](/news/2011/06/12/a-series-of-moderate-magnitude-4-5-earthquakes-hit-eastern-eritrea-preceding-reports-of-a-possible-volcanic-eruption.md)
@@ -45,11 +45,11 @@ _Context: Eritrea_
 
 ##### Member of the European Parliament
 ### [Italian MEP and diplomat Mario Borghezio is expelled and given a bloody nose during an attempt to access the Suvretta House luxury hotel hosting the Bilderberg Group's secretive annual conference in the Swiss resort of St. Moritz. ](/news/2011/06/12/italian-mep-and-diplomat-mario-borghezio-is-expelled-and-given-a-bloody-nose-during-an-attempt-to-access-the-suvretta-house-luxury-hotel-hos.md)
-_Context: Switzerland, Bilderberg Group, St. Moritz, Member of the European Parliament, Mario Borghezio_
+_Context: St. Moritz, Mario Borghezio, Member of the European Parliament, Switzerland, Bilderberg Group_
 
 ##### China
 ### [An anti-China protest takes place in Hanoi, Vietnam, for the second weekend in a row, amid a territorial dispute between the two countries. ](/news/2011/06/12/an-anti-china-protest-takes-place-in-hanoi-vietnam-for-the-second-weekend-in-a-row-amid-a-territorial-dispute-between-the-two-countries.md)
-_Context: Vietnam, Hanoi, China_
+_Context: China, Hanoi, Vietnam_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council reports that Iran is buying foreign banks and money-exchange bureaus to sidestep economic sanctions. ](/news/2011/06/12/the-united-nations-security-council-reports-that-iran-is-buying-foreign-banks-and-money-exchange-bureaus-to-sidestep-economic-sanctions.md)
@@ -65,7 +65,7 @@ _Context: Bangladesh_
 
 ##### Turkish
 ### [Voters in Turkey go to the polls for a general election. ](/news/2011/06/12/voters-in-turkey-go-to-the-polls-for-a-general-election.md)
-_Context: general election, Turkish_
+_Context: Turkish, general election_
 
 ## [Previous Day...](/news/2011/06/11/index.md)
 

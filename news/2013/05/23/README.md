@@ -13,7 +13,7 @@ Stockholm unrest spreads to south of city as violence continues into fourth nigh
 
 ##### Code Pink
 ### [Code Pink's Medea Benjamin condemns Barack Obama's use of drones and the Guantanamo hunger strikes during Obama's speech outlining U.S. drone policy. ](/news/2013/05/23/code-pink-s-medea-benjamin-condemns-barack-obama-s-use-of-drones-and-the-guantanamo-hunger-strikes-during-obama-s-speech-outlining-u-s-dron.md)
-_Context: drones launch, detainee, Medea Benjamin, Barack Obama, Code Pink_
+_Context: drones launch, detainee, Medea Benjamin, Code Pink, Barack Obama_
 
 ##### suicide bomber
 ### [Two suicide bombers strike in the northern Niger towns of Agadez and Arlit with twenty-one dead and ten more people killed in a gun battle between soldiers and Islamist fighters. ](/news/2013/05/23/two-suicide-bombers-strike-in-the-northern-niger-towns-of-agadez-and-arlit-with-twenty-one-dead-and-ten-more-people-killed-in-a-gun-battle-b.md)
@@ -25,7 +25,7 @@ The debate over the group&#039;s long-held ban on gay scouts became a national t
 
 ##### Ford Motor Company
 ### [Ford Motor Company announces the closure of its Australian manufacturing operations in October 2016, including a car factory in Broadmeadows and an engine plant in Geelong with a loss of 1,200 jobs. ](/news/2013/05/23/ford-motor-company-announces-the-closure-of-its-australian-manufacturing-operations-in-october-2016-including-a-car-factory-in-broadmeadows.md)
-_Context: Australia, Ford Motor Company, Broadmeadows, Geelong_
+_Context: Ford Motor Company, Broadmeadows, Geelong, Australia_
 
 ##### India
 ### [Five people are killed and thirty eight injured in a road accident in the eastern Indian state of Odisha. ](/news/2013/05/23/five-people-are-killed-and-thirty-eight-injured-in-a-road-accident-in-the-eastern-indian-state-of-odisha.md)
@@ -45,7 +45,7 @@ A cluster of mysterious respiratory illnesses that alarmed southeast Alabama tur
 
 ##### Ban Ki-moon
 ### [Ban Ki-moon, the Secretary-General of the United Nations, visits the Democratic Republic of the Congo as fighting continues near the eastern city of Goma. ](/news/2013/05/23/ban-ki-moon-the-secretary-general-of-the-united-nations-visits-the-democratic-republic-of-the-congo-as-fighting-continues-near-the-eastern.md)
-_Context: Goma, DR Congo, Ban Ki-moon, United Nations Secretary-General_
+_Context: United Nations Secretary-General, Goma, DR Congo, Ban Ki-moon_
 
 ##### 2013 Woolwich attack
 ### [The victim of yesterday's attack in London is confirmed to have been a serving British soldier, and named as Drummer Lee Rigby of the 2nd Battalion the Royal Regiment of Fusiliers. ](/news/2013/05/23/the-victim-of-yesterday-s-attack-in-london-is-confirmed-to-have-been-a-serving-british-soldier-and-named-as-drummer-lee-rigby-of-the-2nd-ba.md)
@@ -53,7 +53,7 @@ The soldier killed on a London street is named as Drummer Lee Rigby of the 2nd B
 
 ##### FBI
 ### [Abdul-Baki Todashev, the father of Ibragim Todashev (the man who had confessed to the FBI the day before in Orlando, Florida, to working with Tamerlan Tsarnaev, the deceased older brother in the April 2013 Boston Marathon bombings, in a previously unsolved 2011 triple homicide, and subsequently while being questioned attacked an agent with a knife and was killed) claims that his son is innocent and that federal investigators are biased against Chechens and made up their case against him. ](/news/2013/05/23/abdul-baki-todashev-the-father-of-ibragim-todashev-the-man-who-had-confessed-to-the-fbi-the-day-before-in-orlando-florida-to-working-wit.md)
-_Context: Tamerlan Tsarnaev, FBI, Orlando, Florida, Boston Marathon bombings_
+_Context: FBI, Orlando, Florida, Tamerlan Tsarnaev, Boston Marathon bombings_
 
 ## [Previous Day...](/news/2013/05/22/index.md)
 

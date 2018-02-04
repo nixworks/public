@@ -9,15 +9,15 @@ _Context: Helmand, Taliban, War in Afghanistan, Afghanistan_
 
 ##### Syrian Civil War
 ### [Some 13,000 refugees have crossed into Turkey as Syrian Kurd People's Protection Units encircle the ISIL-held town of Suluk. ](/news/2015/06/13/some-13-000-refugees-have-crossed-into-turkey-as-syrian-kurd-people-s-protection-units-encircle-the-isil-held-town-of-suluk.md)
-_Context: YPG, Suluk, Syrian Civil War, Islamic State in Iraq and the Levant, Turkish, Syria, Kurd_
+_Context: Syria, Suluk, YPG, Syrian Civil War, Kurd, Turkish, Islamic State in Iraq and the Levant_
 
 ##### War on Terror
 ### [An American air strike targeting jihadist Mokhtar Belmokhtar in Libya reportedly kills him. ](/news/2015/06/13/an-american-air-strike-targeting-jihadist-mokhtar-belmokhtar-in-libya-reportedly-kills-him.md)
-_Context: War on Terror, Libya, Mokhtar Belmokhtar_
+_Context: Mokhtar Belmokhtar, Libya, War on Terror_
 
 ##### trooping the colour
 ### [The trooping the colour ceremony is held in London to celebrate the Queen's Official Birthday while singer Van Morrison and American actor Kevin Spacey are given knighthoods at the Birthday Honours. ](/news/2015/06/13/the-trooping-the-colour-ceremony-is-held-in-london-to-celebrate-the-queen-s-official-birthday-while-singer-van-morrison-and-american-actor-k.md)
-_Context: trooping the colour, London, Birthday Honours, Queen's Official Birthday, Kevin Spacey, Van Morrison_
+_Context: trooping the colour, Birthday Honours, Van Morrison, London, Queen's Official Birthday, Kevin Spacey_
 
 ##### wedding of Prince Carl Philip, Duke of Vrmland, and Sofia Hellqvist
 ### [The wedding of Prince Carl Philip, Duke of Vrmland, and Sofia Hellqvist takes place in Stockholm. ](/news/2015/06/13/the-wedding-of-prince-carl-philip-duke-of-varmland-and-sofia-hellqvist-takes-place-in-stockholm.md)
@@ -49,7 +49,7 @@ Italian police moved in Saturday to disperse around 200 migrants who were stagin
 
 ##### opens fire
 ### [A man opens fire at policemen outside the police headquarters in the Texan city of Dallas, while a bag containing a pipe bomb is also found. He was later shot dead by police snipers following a car chase and standoff. ](/news/2015/06/13/a-man-opens-fire-at-policemen-outside-the-police-headquarters-in-the-texan-city-of-dallas-while-a-bag-containing-a-pipe-bomb-is-also-found.md)
-_Context: pipe bomb, opens fire, Texas, police, Dallas_
+_Context: police, opens fire, Dallas, pipe bomb, Texas_
 
 ##### Skopje
 ### [Thousands of people protest in Skopje demanding the resignation of the Prime Minister of Macedonia Nikola Gruevski. ](/news/2015/06/13/thousands-of-people-protest-in-skopje-demanding-the-resignation-of-the-prime-minister-of-macedonia-nikola-gruevski.md)

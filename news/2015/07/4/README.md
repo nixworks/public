@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/4/index.html)  [JSON](2015/07/4/index.json)  [XML](2015/
 
 ##### War in Donbass
 ### [ A rally of war veterans in Kiev calls for Ukraine to abandon the Minsk II ceasefire agreement and to declare war on pro-Russian separatists in the Donbass region. Despite two ceasefire agreements since September, combat operations, including the use of heavy artillery and ballistic missiles, never stopped. ](/news/2015/07/4/a-rally-of-war-veterans-in-kiev-calls-for-ukraine-to-abandon-the-minsk-ii-ceasefire-agreement-and-to-declare-war-on-pro-russian-separatists.md)
-_Context: Russia, Minsk II, War in Donbass, Ukraine, Kiev_
+_Context: Ukraine, Kiev, Minsk II, Russia, War in Donbass_
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [ Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. ](/news/2015/07/4/yemen-s-houthi-rebels-shell-the-saudi-arabian-cities-of-jizan-and-najran-with-claims-of-several-saudi-soldiers-being-killed.md)
@@ -17,19 +17,19 @@ _Context: Second Libyan Civil War, Derna_
 
 ##### Sinai insurgency
 ### [ A shell kills a woman and her two children as fighting continues on the Sinai Peninsula between the Egyptian Army and Islamic State of Iraq and the Levant militants. ](/news/2015/07/4/a-shell-kills-a-woman-and-her-two-children-as-fighting-continues-on-the-sinai-peninsula-between-the-egyptian-army-and-islamic-state-of-iraq.md)
-_Context: Sinai Peninsula, Sinai insurgency, ISIL, Egyptian Army_
+_Context: Sinai insurgency, Sinai Peninsula, ISIL, Egyptian Army_
 
 ##### Syrian Civil War
 ### [ A mosque bombing in northern Syria kills 15 members of Al Qaida's affiliate Nusra Front. ](/news/2015/07/4/a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.md)
-_Context: Syrian Civil War, Nusra Front, Al Qaida's_
+_Context: Al Qaida's, Nusra Front, Syrian Civil War_
 
 ##### Nagorno-Karabakh conflict
 ### [ The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. ](/news/2015/07/4/the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense-ministry.md)
-_Context: Armenia, Nagorno-Karabakh conflict, Azerbaijani military_
+_Context: Nagorno-Karabakh conflict, Azerbaijani military, Armenia_
 
 ##### Taiwan
 ### [ The Republic of China (Taiwan) holds a large military parade in Taipei to commemorate World War II in support of its claims that Kuomintang forces led by Chiang Kai-Shek played a leading role in the defeat of the Empire of Japan with the Chinese Communist Party under Mao Tse-Tung playing a minor role. ](/news/2015/07/4/the-republic-of-china-taiwan-holds-a-large-military-parade-in-taipei-to-commemorate-world-war-ii-in-support-of-its-claims-that-kuomintang.md)
-_Context: Taipei, Kuomintang (Chinese Nationalist Party), World War II, Mao Tse-Tung, Chiang Kai-Shek, Empire of Japan, Chinese Communist Party, Taiwan_
+_Context: Chinese Communist Party, Chiang Kai-Shek, Taipei, Mao Tse-Tung, Kuomintang (Chinese Nationalist Party), Empire of Japan, Taiwan, World War II_
 
 ##### UNESCO
 ### [ UNESCO adds new sites to the World Heritage List: Tusi Sites (China), Susa, Cultural Landscape of Maymand (both in Iran), Singapore Botanic Gardens (Singapore), Baekje Historic Areas (Republic of Korea), Great Burkhan Khaldun Mountain and its surrounding sacred landscape (Mongolia), and the French wine producing regions of Champagne and Burgundy. ](/news/2015/07/4/unesco-adds-new-sites-to-the-world-heritage-list-tusi-sites-china-susa-cultural-landscape-of-maymand-both-in-iran-singapore-botanic.md)
@@ -53,11 +53,11 @@ KUALA LUMPUR, Malaysia—Malaysia’s attorney general said an official investig
 
 ##### 2015 Sousse attacks
 ### [ Tunisia's President Beji Caid Essebsi declares a state of emergency. ](/news/2015/07/4/tunisia-s-president-beji-caid-essebsi-declares-a-state-of-emergency.md)
-_Context: state of emergency, 2015 Sousse attacks, Tunisia, Beji Caid Essebsi_
+_Context: 2015 Sousse attacks, state of emergency, Tunisia, Beji Caid Essebsi_
 
 ##### Tupou VI
 ### [ Tupou VI is officially crowned as the King of Tonga. ](/news/2015/07/4/tupou-vi-is-officially-crowned-as-the-king-of-tonga.md)
-_Context: King of Tonga, Tupou VI_
+_Context: Tupou VI, King of Tonga_
 
 ##### Fidel Castro
 ### [ Fidel Castro makes his first public appearance at a Cuban cheese factory since February 2015. ](/news/2015/07/4/fidel-castro-makes-his-first-public-appearance-at-a-cuban-cheese-factory-since-february-2015.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2007/04/15/index.html)  [JSON](2007/04/15/index.json)  [XML](200
 
 ##### India
 ### [ India's Essar Group buys Canadian steelmaker Algoma for US$ 1.63 billion. ](/news/2007/04/15/india-s-essar-group-buys-canadian-steelmaker-algoma-for-us-1-63-billion.md)
-_Context: Algoma Steel, Essar Group, Canadian, India, USD_
+_Context: Essar Group, USD, Algoma Steel, India, Canadian_
 
 ##### nor'easter
 ### [ A nor'easter in the northeastern United States causes flooding and disrupts travel in the region. One person is killed in a tornado in North Carolina and two people die in weather-related car accidents in New York and Connecticut. ](/news/2007/04/15/a-nor-easter-in-the-northeastern-united-states-causes-flooding-and-disrupts-travel-in-the-region-one-person-is-killed-in-a-tornado-in-nort.md)
@@ -13,11 +13,11 @@ A rare spring northeaster flooded shorelines and rivers, disrupted travel and wa
 
 ##### Vladimir Putin
 ### [ Anti-Putin protesters in St. Petersburg, a part of the Dissenters March coalition, are beaten by Russian police. ](/news/2007/04/15/anti-putin-protesters-in-st-petersburg-a-part-of-the-dissenters-march-coalition-are-beaten-by-russian-police.md)
-_Context: Vladimir Putin, protest, St. Petersburg, Russia, Dissenters March_
+_Context: Vladimir Putin, Russia, Dissenters March, protest, St. Petersburg_
 
 ##### Freedom of Information legislation
 ### [ Documents revealed under Freedom of Information legislation reveals that NASA paid $26.6 million to families of the astronauts aboard the Space Shuttle "Columbia" when it disintegrated during re-entry in 2003. ](/news/2007/04/15/documents-revealed-under-freedom-of-information-legislation-reveals-that-nasa-paid-26-6-million-to-families-of-the-astronauts-aboard-the-s.md)
-_Context: USD, Space Shuttle ''Columbia'', NASA, Freedom of Information legislation, disintegrated during re-entry, astronaut, 2003_
+_Context: disintegrated during re-entry, USD, astronaut, 2003, NASA, Space Shuttle ''Columbia'', Freedom of Information legislation_
 
 ##### Iran
 ### [ Iran announces plans for two more nuclear reactors. ](/news/2007/04/15/iran-announces-plans-for-two-more-nuclear-reactors.md)

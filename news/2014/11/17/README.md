@@ -13,7 +13,7 @@ A large earthquake has struck off the east coast of the North Island. - New Zeal
 
 ##### Australia
 ### [Australia and the People's Republic of China conclude a free trade deal worth $18 billion. ](/news/2014/11/17/australia-and-the-people-s-republic-of-china-conclude-a-free-trade-deal-worth-18-billion.md)
-_Context: Australia, free trade, China_
+_Context: China, Australia, free trade_
 
 ##### Kenyan police
 ### [Kenyan police raid two mosques in Mombasa suspected of being linked to al-Shabab. One man is killed and over 200 are arrested. ](/news/2014/11/17/kenyan-police-raid-two-mosques-in-mombasa-suspected-of-being-linked-to-al-shabab-one-man-is-killed-and-over-200-are-arrested.md)

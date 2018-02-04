@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/8/index.html)  [JSON](2016/02/8/index.json)  [XML](2016/
 
 ##### Libyan Civil War (2014-present)
 ### [A Libyan Air Force MiG-23 fighter jet crashes due to a "mechanical failure", while conducting airstrikes on Islamic State-controlled areas in the eastern city of Derna. ](/news/2016/02/8/a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes-on-islamic-state-controlled-areas-i.md)
-_Context: MiG-23, Derna, ISIL, Libyan Civil War (2014-present), Libyan Air Force_
+_Context: Libyan Air Force, Libyan Civil War (2014-present), MiG-23, Derna, ISIL_
 
 ##### Syrian Civil War
 ### [United Nations investigators accuse the Government of Syria of "extermination" in its jails and detention centres. ](/news/2016/02/8/united-nations-investigators-accuse-the-government-of-syria-of-extermination-in-its-jails-and-detention-centres.md)
@@ -13,7 +13,7 @@ Detainees held by the Syrian Government are dying on an extermination scale, a U
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [A Scud missile fired from Yemen is intercepted over Saudi Arabia. The missile's target is believed to have been the King Khalid Air Base, near the city of Khamis Mushait. ](/news/2016/02/8/a-scud-missile-fired-from-yemen-is-intercepted-over-saudi-arabia-the-missile-s-target-is-believed-to-have-been-the-king-khalid-air-base-ne.md)
-_Context: Yemen, Scud, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Khamis Mushait, King Khalid Air Base_
+_Context: King Khalid Air Base, Yemen, Scud, Khamis Mushait, Saudi Arabia, Saudi Arabian-led intervention in Yemen_
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bomber strikes a crowded market in eastern Afghanistan killing five civilians and wounding nine others. ](/news/2016/02/8/a-suicide-bomber-strikes-a-crowded-market-in-eastern-afghanistan-killing-five-civilians-and-wounding-nine-others.md)
@@ -33,7 +33,7 @@ A migrant boat capsizes off Turkey, killing at least 27 people who were trying t
 
 ##### Billy Kenoi
 ### [Billy Kenoi, the mayor of Hawaii's Big Island, declares a state of emergency to deal with the growing outbreak of dengue fever, which is spread by infected mosquitoes. ](/news/2016/02/8/billy-kenoi-the-mayor-of-hawaii-s-big-island-declares-a-state-of-emergency-to-deal-with-the-growing-outbreak-of-dengue-fever-which-is-spr.md)
-_Context: state of emergency, island of Hawaii, dengue, infected mosquitoes, Hawaii, Billy Kenoi_
+_Context: state of emergency, Hawaii, island of Hawaii, infected mosquitoes, dengue, Billy Kenoi_
 
 ##### Korean border incidents
 ### [The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. ](/news/2016/02/8/the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in-the-yellow-sea-and-enter.md)
@@ -49,7 +49,7 @@ _Context: Paramo, Supreme Court_
 
 ##### hackers
 ### [DotGovs, a hacker group that released data on almost 10,000 Department of Homeland Security employees yesterday, publish contact information for 20,000 FBI employees. ](/news/2016/02/8/dotgovs-a-hacker-group-that-released-data-on-almost-10-000-department-of-homeland-security-employees-yesterday-publish-contact-information.md)
-_Context: hackers, FBI, Department of Homeland Security_
+_Context: Department of Homeland Security, FBI, hackers_
 
 ##### ecology minister
 ### [The French data protection authority and the independent watchdog CNIL cite Facebook for breaching privacy laws by the collection and transfer of 30 million users' Internet data, and by tracking non-users. Companies are no longer protected by the International Safe Harbor pact that was ruled illegal last October. ](/news/2016/02/8/the-french-data-protection-authority-and-the-independent-watchdog-cnil-cite-facebook-for-breaching-privacy-laws-by-the-collection-and-transf.md)

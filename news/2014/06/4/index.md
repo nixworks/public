@@ -9,7 +9,7 @@ Separatist rebels take Ukrainian military bases in the eastern region of Luhansk
 
 ##### Khalifa Haftar
 ### [A suicide car bomber detonates his vehicle at the residence of Khalifa Haftar in Benghazi, Libya, killing 4 of his guards and injuring another 3. ](/news/2014/06/4/a-suicide-car-bomber-detonates-his-vehicle-at-the-residence-of-khalifa-haftar-in-benghazi-libya-killing-4-of-his-guards-and-injuring-anoth.md)
-_Context: Benghazi, Khalifa Haftar, Libya_
+_Context: Khalifa Haftar, Benghazi, Libya_
 
 ##### Islamabad
 ### [A suicide bomber detonates his explosives near a military vehicle in Islamabad, Pakistan, killing 5 people. ](/news/2014/06/4/a-suicide-bomber-detonates-his-explosives-near-a-military-vehicle-in-islamabad-pakistan-killing-5-people.md)
@@ -45,11 +45,11 @@ The mayor of Venice is among 35 people arrested in Italy over alleged corruption
 
 ##### Attorney General of Germany
 ### [The Attorney General of Germany, Harald Range, opens an investigation into the alleged NSA surveillance of Chancellor Angela Merkel's phone. ](/news/2014/06/4/the-attorney-general-of-germany-harald-range-opens-an-investigation-into-the-alleged-nsa-surveillance-of-chancellor-angela-merkel-s-phone.md)
-_Context: surveillance of Chancellor Angela Merkel's phone, Attorney General of Germany, Harald Range, NSA_
+_Context: Harald Range, Attorney General of Germany, NSA, surveillance of Chancellor Angela Merkel's phone_
 
 ##### International Court of Arbitration
 ### [The International Court of Arbitration in The Hague urges China to respond to "Philippines v. China", the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-rega.md)
-_Context: court decision, International Court of Arbitration, The Hague, China, Philippines, sweeping claim_
+_Context: China, The Hague, International Court of Arbitration, sweeping claim, court decision, Philippines_
 
 ##### Moncton
 ### [In the city of Moncton, New Brunswick, Canada, an armed gunman shoots five RCMP officers, killing three. ](/news/2014/06/4/in-the-city-of-moncton-new-brunswick-canada-an-armed-gunman-shoots-five-rcmp-officers-killing-three.md)

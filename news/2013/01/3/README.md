@@ -21,15 +21,15 @@ Russia grants citizenship to Gerard Depardieu, who has threatened to quit France
 
 ##### Romanian
 ### [Romanian film director, actor and politician Sergiu Nicolaescu dies at the age of 82 after complications from surgery which led to cardiac arrest. ](/news/2013/01/3/romanian-film-director-actor-and-politician-sergiu-nicolaescu-dies-at-the-age-of-82-after-complications-from-surgery-which-led-to-cardiac-a.md)
-_Context: film director, Sergiu Nicolaescu, Romanian_
+_Context: film director, Romanian, Sergiu Nicolaescu_
 
 ##### Al Jazeera
 ### [News channel Al Jazeera acquires Current TV from Al Gore and Joel Hyatt. ](/news/2013/01/3/news-channel-al-jazeera-acquires-current-tv-from-al-gore-and-joel-hyatt.md)
-_Context: Al Jazeera, Current TV, Joel Hyatt, Al Gore_
+_Context: Current TV, Al Jazeera, Al Gore, Joel Hyatt_
 
 ##### Hormel
 ### [Hormel is announced to be purchasing Skippy peanut butter from Unilever for $700 million. ](/news/2013/01/3/hormel-is-announced-to-be-purchasing-skippy-peanut-butter-from-unilever-for-700-million.md)
-_Context: Unilever, Hormel, Skippy peanut butter_
+_Context: Skippy peanut butter, Unilever, Hormel_
 
 ##### Starbucks
 ### [Starbucks plans to open a coffee shop in Ho Chi Minh City, Vietnam, expanding its reach to 12 Asian nations. ](/news/2013/01/3/starbucks-plans-to-open-a-coffee-shop-in-ho-chi-minh-city-vietnam-expanding-its-reach-to-12-asian-nations.md)

@@ -13,7 +13,7 @@ _Context: 2009 South Yemen insurgency_
 
 ##### President
 ### [ President of French Polynesia Oscar Temaru is ousted in a motion of no confidence by the Assembly of French Polynesia. The Assembly elects Gaston Tong Sang as president. Gaston returns to power just nine months after leaving office. This is the eleventh new government in five years. ](/news/2009/11/25/president-of-french-polynesia-oscar-temaru-is-ousted-in-a-motion-of-no-confidence-by-the-assembly-of-french-polynesia-the-assembly-elects.md)
-_Context: French Polynesia, Gaston Tong Sang, President, Assembly of French Polynesia, motion of no confidence, Oscar Temaru_
+_Context: Oscar Temaru, President, French Polynesia, Assembly of French Polynesia, motion of no confidence, Gaston Tong Sang_
 
 ##### Dubai World
 ### [ Dubai World, the state-owned real-estate and ports giant, asks for a moratorium on its 59 billion US dollars' in debt until at least May 30, 2010. ](/news/2009/11/25/dubai-world-the-state-owned-real-estate-and-ports-giant-asks-for-a-moratorium-on-its-59-billion-us-dollars-in-debt-until-at-least-may-30.md)
@@ -29,11 +29,11 @@ _Context: secession, Shabwa province, Yemen_
 
 ##### Pakistan
 ### [ A court in Pakistan charges seven suspects in connection with the 2008 terrorist attacks in Mumbai. ](/news/2009/11/25/a-court-in-pakistan-charges-seven-suspects-in-connection-with-the-2008-terrorist-attacks-in-mumbai.md)
-_Context: Pakistan, 2008 Mumbai attacks, Mumbai_
+_Context: 2008 Mumbai attacks, Mumbai, Pakistan_
 
 ##### Extraordinary Chambers in the Courts of Cambodia
 ### [ Prosecutors in the trial of a former Khmer Rouge prison chief Kaing Guek Eav request a 40 year prison sentence. ](/news/2009/11/25/prosecutors-in-the-trial-of-a-former-khmer-rouge-prison-chief-kaing-guek-eav-request-a-40-year-prison-sentence.md)
-_Context: Kaing Guek Eav, Extraordinary Chambers in the Courts of Cambodia, Khmer Rouge_
+_Context: Khmer Rouge, Extraordinary Chambers in the Courts of Cambodia, Kaing Guek Eav_
 
 ##### Philippines
 ### [ Philippine police name a political ally of President Gloria Macapagal Arroyo as prime suspect in the Maguindanao massacre. ](/news/2009/11/25/philippine-police-name-a-political-ally-of-president-gloria-macapagal-arroyo-as-prime-suspect-in-the-maguindanao-massacre.md)

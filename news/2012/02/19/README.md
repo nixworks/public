@@ -25,7 +25,7 @@ _Context: suicide bomber, Baghdad, Iraqi police_
 
 ##### Chad
 ### [Rebels from Chad rob 40 people &ndash; including a local government official &ndash; in attacks in the Central African Republic. ](/news/2012/02/19/rebels-from-chad-rob-40-people-ndash-including-a-local-government-official-ndash-in-attacks-in-the-central-african-republic.md)
-_Context: Chad, Central African Republic_
+_Context: Central African Republic, Chad_
 
 ##### Paolo and Vittorio Taviani
 ### [Paolo and Vittorio Taviani's "Caesar Must Die" wins the Golden Bear at the 62nd Berlin International Film Festival. ](/news/2012/02/19/paolo-and-vittorio-taviani-s-caesar-must-die-wins-the-golden-bear-at-the-62nd-berlin-international-film-festival.md)
@@ -41,7 +41,7 @@ Prime Minister Julia Gillard has described the bombing of Darwin during World Wa
 
 ##### ESPN
 ### [ESPN admits two other instances in which it referred to the American basketball player Jeremy Lin by the racial slur "chink". It comes after yesterday's controversial "Chink in the Armor" headline which ESPN defended as only having appeared to mobile browsers for 35 minutes. ](/news/2012/02/19/espn-admits-two-other-instances-in-which-it-referred-to-the-american-basketball-player-jeremy-lin-by-the-racial-slur-chink-it-comes-after.md)
-_Context: ESPN, chink, Jeremy Lin_
+_Context: chink, Jeremy Lin, ESPN_
 
 ##### Whitney Houston
 ### [Whitney Houston is buried at Fairview Cemetery in Westfield, New Jersey, USA. ](/news/2012/02/19/whitney-houston-is-buried-at-fairview-cemetery-in-westfield-new-jersey-usa.md)
@@ -89,7 +89,7 @@ On the second day of an Irish visit that focused on trade, Chinese Vice Presiden
 
 ##### Burma
 ### [Burmese dissident monk U Gambira, released last month from prison, is to face trial on charges breaking into and squatting in monasteries. ](/news/2012/02/19/burmese-dissident-monk-u-gambira-released-last-month-from-prison-is-to-face-trial-on-charges-breaking-into-and-squatting-in-monasteries.md)
-_Context: U Gambira, monastery, Burma_
+_Context: monastery, Burma, U Gambira_
 
 ##### Mexican
 ### [A fight amongst inmates leads to a prison riot in the Mexican city of Apodaca, Nuevo Leon, with 44 people dead. ](/news/2012/02/19/a-fight-amongst-inmates-leads-to-a-prison-riot-in-the-mexican-city-of-apodaca-nuevo-lea3n-with-44-people-dead.md)

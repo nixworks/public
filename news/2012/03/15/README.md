@@ -5,7 +5,7 @@ Formats: [HTML](2012/03/15/index.html)  [JSON](2012/03/15/index.json)  [XML](201
 
 ##### Ethiopia
 ### [Ethiopian forces launch attacks on three militant camps inside Eritrea. ](/news/2012/03/15/ethiopian-forces-launch-attacks-on-three-militant-camps-inside-eritrea.md)
-_Context: Eritrea, Ethiopia_
+_Context: Ethiopia, Eritrea_
 
 ##### 
 ### [Turkish intelligence reports claim that approximately 20,000 Syrian soldiers have deserted from the government forces in less than a month. ](/news/2012/03/15/turkish-intelligence-reports-claim-that-approximately-20-000-syrian-soldiers-have-deserted-from-the-government-forces-in-less-than-a-month.md)
@@ -17,7 +17,7 @@ A gunman on a motorbike opened fire on three French paratroopers at a bank machi
 
 ##### Tuareg Rebellion
 ### [2012 insurgency in northern Mali: 195,000 people flee their homes amid violence in northern Mali between government troops and Tuareg rebels. ](/news/2012/03/15/2012-insurgency-in-northern-mali-195-000-people-flee-their-homes-amid-violence-in-northern-mali-between-government-troops-and-tuareg-rebels.md)
-_Context: Mali, Tuareg, Tuareg Rebellion_
+_Context: Tuareg Rebellion, Mali, Tuareg_
 
 ##### a ferry
 ### [The death toll from the sinking of a ferry in Bangladesh on Tuesday rises to 116 with more people missing. ](/news/2012/03/15/the-death-toll-from-the-sinking-of-a-ferry-in-bangladesh-on-tuesday-rises-to-116-with-more-people-missing.md)
@@ -29,7 +29,7 @@ _Context: presumed dead in an aircraft accident in northern Sweden, Norwegian_
 
 ##### New Zealand
 ### [One New Zealand tourist is dead and another missing after a family of six is swept away in a flash flood of the Vaisigano River in the Samoan capital Apia. ](/news/2012/03/15/one-new-zealand-tourist-is-dead-and-another-missing-after-a-family-of-six-is-swept-away-in-a-flash-flood-of-the-vaisigano-river-in-the-samoa.md)
-_Context: Vaisigano River, New Zealand, flash flood, Samoa, Apia_
+_Context: Vaisigano River, Apia, Samoa, New Zealand, flash flood_
 
 ##### Prime Minister
 ### [Government documents reveal then-Prime Minister of the United Kingdom Margaret Thatcher was told a senior Merseyside police officer blamed "drunken Liverpool fans" for causing the Hillsborough disaster. Police have since been found to blame. ](/news/2012/03/15/government-documents-reveal-then-prime-minister-of-the-united-kingdom-margaret-thatcher-was-told-a-senior-merseyside-police-officer-blamed.md)
@@ -41,7 +41,7 @@ A Ugandan gay rights group sues a US minister accusing him of involvement in a c
 
 ##### free trade agreement
 ### [A free trade agreement between the United States and South Korea comes into effect. ](/news/2012/03/15/a-free-trade-agreement-between-the-united-states-and-south-korea-comes-into-effect.md)
-_Context: free trade agreement, United States, South Korea_
+_Context: South Korea, free trade agreement, United States_
 
 ##### Government of Papua New Guinea
 ### [The Government of Papua New Guinea reacts angrily after the new Australian Minister for Foreign Affairs Bob Carr threatens the imposition of sanctions if elections are delayed. ](/news/2012/03/15/the-government-of-papua-new-guinea-reacts-angrily-after-the-new-australian-minister-for-foreign-affairs-bob-carr-threatens-the-imposition-of.md)
@@ -57,11 +57,11 @@ Convicted former Illinois Gov. Rod Blagojevich surrendered at a Colorado prison 
 
 ##### Prime Minister
 ### [The Prime Minister of New Zealand John Key announces a cut of 2000 positions in the public service. ](/news/2012/03/15/the-prime-minister-of-new-zealand-john-key-announces-a-cut-of-2000-positions-in-the-public-service.md)
-_Context: John Key, public service, Prime Minister_
+_Context: public service, Prime Minister, John Key_
 
 ##### Bo Xilai
 ### [Bo Xilai is replaced as the Communist Party boss in the city of Chongqing by 3rd Vice Premier Zhang Dejiang as a result of an ideological dispute. ](/news/2012/03/15/bo-xilai-is-replaced-as-the-communist-party-boss-in-the-city-of-chongqing-by-3rd-vice-premier-zhang-dejiang-as-a-result-of-an-ideological-di.md)
-_Context: Chongqing, Zhang Dejiang, Vice Premier, Communist Party of China, Bo Xilai_
+_Context: Chongqing, Bo Xilai, Zhang Dejiang, Communist Party of China, Vice Premier_
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao says the Dalai Lama is responsible for ongoing self-immolations by Tibetan monks. ](/news/2012/03/15/chinese-premier-wen-jiabao-says-the-dalai-lama-is-responsible-for-ongoing-self-immolations-by-tibetan-monks.md)
@@ -73,15 +73,15 @@ Leanne Wood wins a three-cornered contest to be elected the new leader of Plaid 
 
 ##### Chilean police
 ### [Chilean police use water cannon and tear gas to break up a march by thousands of students in the capital Santiago. ](/news/2012/03/15/chilean-police-use-water-cannon-and-tear-gas-to-break-up-a-march-by-thousands-of-students-in-the-capital-santiago.md)
-_Context: Chilean police, tear gas, Santiago, water cannon_
+_Context: Chilean police, water cannon, tear gas, Santiago_
 
 ##### Canadian
 ### [More than 100 students are arrested at a protest in the Canadian city of Montreal, Quebec. ](/news/2012/03/15/more-than-100-students-are-arrested-at-a-protest-in-the-canadian-city-of-montreal-quebec.md)
-_Context: Canadian, Montreal, Quebec_
+_Context: Quebec, Canadian, Montreal_
 
 ##### President
 ### [The President of Venezuela Hugo Chavez returns home after three weeks in Cuba for cancer surgery. ](/news/2012/03/15/the-president-of-venezuela-hugo-chavez-returns-home-after-three-weeks-in-cuba-for-cancer-surgery.md)
-_Context: President, Hugo Chavez, Cuba_
+_Context: Hugo Chavez, Cuba, President_
 
 ## [Previous Day...](/news/2012/03/14/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/25/index.html)  [JSON](2009/07/25/index.json)  [XML](200
 
 ##### Harry Patch
 ### [ Harry Patch, the last surviving World War I veteran to have fought in the trenches, dies aged 111. ](/news/2009/07/25/harry-patch-the-last-surviving-world-war-i-veteran-to-have-fought-in-the-trenches-dies-aged-111.md)
-_Context: First World War, Harry Patch_
+_Context: Harry Patch, First World War_
 
 ##### Iran
 ### [ Worldwide protests in 80 cities take place in support of Iranian protesters following the disputed presidential election. ](/news/2009/07/25/worldwide-protests-in-80-cities-take-place-in-support-of-iranian-protesters-following-the-disputed-presidential-election.md)

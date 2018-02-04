@@ -9,11 +9,11 @@ Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,
 
 ##### 2010-2011 Senegal protests
 ### [2010-2011 Senegal protests: Thousands of people gather outside parliament in Dakar to protest changes to the constitution and are dispersed with tear gas and rubber bullets by riot police. ](/news/2011/06/23/2010a2011-senegal-protests-thousands-of-people-gather-outside-parliament-in-dakar-to-protest-changes-to-the-constitution-and-are-disperse.md)
-_Context: Dakar, rubber bullet, riot police, 2010-2011 Senegal protests, tear gas_
+_Context: riot police, tear gas, Dakar, rubber bullet, 2010-2011 Senegal protests_
 
 ##### France
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: United States, U.S. President, Barack Obama, France, Afghanistan_
+_Context: Barack Obama, United States, U.S. President, France, Afghanistan_
 
 ##### Hamas
 ### [After Hamas rejects a call from the International Red Cross for access to Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-capt.md)
@@ -29,7 +29,7 @@ The seven Harry Potter novels are to be sold as e-books for the first time in Oc
 
 ##### Peter Falk
 ### [US actor Peter Falk, best known for his role as Columbo, dies at the age of 83. ](/news/2011/06/23/us-actor-peter-falk-best-known-for-his-role-as-columbo-dies-at-the-age-of-83.md)
-_Context: Peter Falk, Columbo_
+_Context: Columbo, Peter Falk_
 
 ##### petroleum
 ### [Fuel prices including petroleum (oil) prices drop sharply as 28 industrialized nations (International Energy Agency members), including the United States, agree to release 60 million barrels of crude oil from their strategic oil reserves. ](/news/2011/06/23/fuel-prices-including-petroleum-oil-prices-drop-sharply-as-28-industrialized-nations-international-energy-agency-members-including-the.md)
@@ -41,11 +41,11 @@ Telstra signs an $11 billion deal with the NBN Co to allow the new high-speed br
 
 ##### Greek labour unions
 ### [Greek labour unions declare a 48-hour general strike next week to protest new austerity measures set to be voted on by the Greek parliament. ](/news/2011/06/23/greek-labour-unions-declare-a-48-hour-general-strike-next-week-to-protest-new-austerity-measures-set-to-be-voted-on-by-the-greek-parliament.md)
-_Context: Greek labour unions, general strike, new austerity measures_
+_Context: Greek labour unions, new austerity measures, general strike_
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court rules on freedom of speech grounds against a state's effort to block pharmaceutical companies from selling information about the prescription records of particular doctors. ](/news/2011/06/23/the-u-s-supreme-court-rules-on-freedom-of-speech-grounds-against-a-state-s-effort-to-block-pharmaceutical-companies-from-selling-informatio.md)
-_Context: freedom of speech, Supreme Court of the United States, pharmaceutical companies_
+_Context: Supreme Court of the United States, freedom of speech, pharmaceutical companies_
 
 ##### earthquake
 ### [An earthquake of 6.7 magnitude occurs off the coast of Japan's Iwate prefecture. ](/news/2011/06/23/an-earthquake-of-6-7-magnitude-occurs-off-the-coast-of-japan-s-iwate-prefecture.md)
@@ -53,7 +53,7 @@ An earthquake with a preliminary magnitude of 6.7 struck off the coast of Iwate 
 
 ##### tropical storm
 ### [The fourth tropical storm of the 2011 Pacific typhoon season, Tropical Storm Haima (Egay), makes landfall in southern Guangdong Province in the People's Republic of China. ](/news/2011/06/23/the-fourth-tropical-storm-of-the-2011-pacific-typhoon-season-tropical-storm-haima-egay-makes-landfall-in-southern-guangdong-province-in.md)
-_Context: 2011 Pacific typhoon season, tropical storm, China, Guangdong Province_
+_Context: 2011 Pacific typhoon season, tropical storm, Guangdong Province, China_
 
 ##### U.S. nuclear regulators
 ### [U.S. nuclear regulators say two nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/u-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha-nebraska-have-protected-crit.md)
@@ -61,19 +61,19 @@ U.S. nuclear regulators say two Nebraska nuclear power plants have protected cri
 
 ##### earthquake
 ### [A 7.3 magnitude earthquake offshore from the US northern state of Alaska leads to a tsunami warning being issued but it is later cancelled. ](/news/2011/06/23/a-7-3-magnitude-earthquake-offshore-from-the-us-northern-state-of-alaska-leads-to-a-tsunami-warning-being-issued-but-it-is-later-cancelled.md)
-_Context: tsunami, Alaska, earthquake_
+_Context: Alaska, tsunami, earthquake_
 
 ##### heavy flood
 ### [2011 China floods: An 'unprecedented' flash flood hits Beijing, leaving streets and many areas including Tiananmen Square and the Beijing Subway system underwater. ](/news/2011/06/23/2011-china-floods-an-unprecedented-flash-flood-hits-beijing-leaving-streets-and-many-areas-including-tiananmen-square-and-the-beijing-su.md)
-_Context: Beijing, heavy flood, Tiananmen Square, flash flood, Beijing Subway_
+_Context: Beijing, heavy flood, flash flood, Beijing Subway, Tiananmen Square_
 
 ##### Japan
 ### [The Japanese national broadcasting company NHK captures images of the Chinese Navy navigating the high seas between the islands of Japan's Okinawa prefecture. ](/news/2011/06/23/the-japanese-national-broadcasting-company-nhk-captures-images-of-the-chinese-navy-navigating-the-high-seas-between-the-islands-of-japan-s-o.md)
-_Context: People's Liberation Army Navy, NHK, Japan, Okinawa_
+_Context: Japan, People's Liberation Army Navy, Okinawa, NHK_
 
 ##### President of Indonesia
 ### [The President of Indonesia Susilo Bambang Yudhoyono condemns the beheading of an Indonesian maid in Saudi Arabia and condemns the Saudi Government of breaking the "norms and manners" of international relations. ](/news/2011/06/23/the-president-of-indonesia-susilo-bambang-yudhoyono-condemns-the-beheading-of-an-indonesian-maid-in-saudi-arabia-and-condemns-the-saudi-gove.md)
-_Context: Indonesia, Saudi Arabia, beheading, government, Susilo Bambang Yudhoyono, President of Indonesia_
+_Context: beheading, Indonesia, President of Indonesia, Susilo Bambang Yudhoyono, government, Saudi Arabia_
 
 ##### Apple Inc.
 ### [Computer firm Apple removes an application from its App Store that called for a "Third Intifada" against Israel. ](/news/2011/06/23/computer-firm-apple-removes-an-application-from-its-app-store-that-called-for-a-third-intifada-against-israel.md)
@@ -97,7 +97,7 @@ Hacker collective of the moment LulzSec has just released a torrent of data it c
 
 ##### fraud
 ### [Accused fraudster and US TV pitchman Don Lapre is arrested in Tempe, Arizona. ](/news/2011/06/23/accused-fraudster-and-us-tv-pitchman-don-lapre-is-arrested-in-tempe-arizona.md)
-_Context: fraud, pitchman, Arizona, Tempe, Don Lapre_
+_Context: pitchman, fraud, Arizona, Tempe, Don Lapre_
 
 ##### Levi Bellfield
 ### [Levi Bellfield &ndash; three years into a life sentence for the murder of two young women and the attempted murder of a third &ndash; is found guilty of the 2002 murder of Milly Dowler in Surrey, United Kingdom. ](/news/2011/06/23/levi-bellfield-ndash-three-years-into-a-life-sentence-for-the-murder-of-two-young-women-and-the-attempted-murder-of-a-third-ndash-is-fou.md)
@@ -113,7 +113,7 @@ After three hours of debate, the bill overhauling public worker pension and bene
 
 ##### E. coli blamed for 46 deaths
 ### [A study finds that the 2011 E. coli O104:H4 outbreak was a mix of two dangerous "E. coli" strains. ](/news/2011/06/23/a-study-finds-that-the-2011-e-coli-o104-h4-outbreak-was-a-mix-of-two-dangerous-e-coli-strains.md)
-_Context: E. coli, E. coli blamed for 46 deaths_
+_Context: E. coli blamed for 46 deaths, E. coli_
 
 ## [Previous Day...](/news/2011/06/22/index.md)
 

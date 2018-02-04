@@ -37,7 +37,7 @@ _Context: Jama'at-ud-Dawa, United States, LeT_
 
 ##### Parliament of Romania
 ### [Both houses of the Romanian parliament widely adopt a joint statement urging Romania's president Traian Basescu to resign, following corruption scandals involving his arrested brother's graft case and one of his sons-in-law's implication in a criminal investigation. ](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.md)
-_Context: corruption, Romania, graft, Traian Basescu, Parliament of Romania_
+_Context: corruption, Parliament of Romania, graft, Romania, Traian Basescu_
 
 ## [Previous Day...](/news/2014/06/24/index.md)
 

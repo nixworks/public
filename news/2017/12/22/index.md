@@ -9,7 +9,7 @@ After 1,000 days of civil war in Yemen, 8 million people are at risk of starvati
 
 ##### Protests on U.S. recognition of Jerusalem as Israeli capital
 ### [Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities and in East Jerusalem, against the U.S. declaration. ](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-others-are-wounded-by-israeli-troops-gunfire-as-thousands-protest-along-the-gaza-border-fence-i.md)
-_Context: Protests on U.S. recognition of Jerusalem as Israeli capital, Israel Defense Forces, West Bank, East Jerusalem, Palestinians, Gaza border fence_
+_Context: Palestinians, East Jerusalem, Israel Defense Forces, Protests on U.S. recognition of Jerusalem as Israeli capital, Gaza border fence, West Bank_
 
 ##### Economics of bitcoin
 ### [The digital cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digital-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
@@ -17,7 +17,7 @@ Bitcoin prices plunged sharply to below $11,000 on Friday, with the digital curr
 
 ##### CSX Corporation
 ### [CSX Corporation names chief operating officer Jim Foote its new chief executive officer, succeeding E. Hunter Harrison who died last week. Harrison had started a restructuring campaign less than a year ago. ](/news/2017/12/22/csx-corporation-names-chief-operating-officer-jim-foote-its-new-chief-executive-officer-succeeding-e-hunter-harrison-who-died-last-week-h.md)
-_Context: E. Hunter Harrison, CSX Corporation_
+_Context: CSX Corporation, E. Hunter Harrison_
 
 ##### Apple Inc. litigation
 ### [Apple Inc. faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. ](/news/2017/12/22/apple-inc-faces-backlash-and-lawsuits-after-admitting-to-slowing-down-the-speed-on-some-of-their-older-phones-deliberately.md)
@@ -29,15 +29,15 @@ _Context: Manila, Philippine Coast Guard_
 
 ##### United States recognition of Jerusalem as Israeli capital
 ### [Palestinian President Mahmoud Abbas says he will not accept any U.S. plan for peace with Israel, because it recognized Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-u-s-plan-for-peace-with-israel-because-it-recognized-jerusalem-as-israel-s.md)
-_Context: Jerusalem, Mahmoud Abbas, United States recognition of Jerusalem as Israeli capital_
+_Context: Mahmoud Abbas, Jerusalem, United States recognition of Jerusalem as Israeli capital_
 
 ##### North Korea's nuclear program
 ### [The United Nations Security Council unanimously imposes new sanctions on North Korea that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and demands the repatriation of North Koreans working abroad within 24 months. ](/news/2017/12/22/the-united-nations-security-council-unanimously-imposes-new-sanctions-on-north-korea-that-caps-refined-petroleum-product-imports-to-500-000.md)
-_Context: United Nations Security Council, North Korea, North Korea's nuclear program_
+_Context: North Korea, North Korea's nuclear program, United Nations Security Council_
 
 ##### Ukraine-United States relations
 ### [The U.S. agrees to supply Ukraine with more lethal weapons, now including Javelin anti-tank missiles. ](/news/2017/12/22/the-u-s-agrees-to-supply-ukraine-with-more-lethal-weapons-now-including-javelin-anti-tank-missiles.md)
-_Context: Javelin, Ukraine-United States relations_
+_Context: Ukraine-United States relations, Javelin_
 
 ##### FBI
 ### [The Federal Bureau of Investigation arrests Everitt Aaron Jameson, a 25-year-old former Marine, on suspicion of planning a terrorist attack in the Pier 39 area over Christmas.](/news/2017/12/22/the-federal-bureau-of-investigation-arrests-everitt-aaron-jameson-a-25-year-old-former-marine-on-suspicion-of-planning-a-terrorist-attack.md)
@@ -49,11 +49,11 @@ Separatist parties retain a slim majority but face tough coalition talks to form
 
 ##### Brexit
 ### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)
-_Context: Brexit, Home Office, British passport, British, European Union_
+_Context: Brexit, British, Home Office, European Union, British passport_
 
 ##### Tax reform in the United States
 ### [President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signs-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
-_Context: Donald Trump, Tax reform in the United States, U.S. President, Tax Cuts and Jobs Act of 2017_
+_Context: Tax reform in the United States, Donald Trump, Tax Cuts and Jobs Act of 2017, U.S. President_
 
 ## [Previous Day...](/news/2017/12/21/index.md)
 

@@ -5,15 +5,15 @@ Formats: [HTML](2004/08/4/index.html)  [JSON](2004/08/4/index.json)  [XML](2004/
 
 ##### National Institutes of Health
 ### [ The National Institutes of Health decides not to override drug patents to allow generic production of anti-AIDS drug Norvir in the United States, despite claims of price gouging by patients' groups and some members of Congress. ](/news/2004/08/4/the-national-institutes-of-health-decides-not-to-override-drug-patents-to-allow-generic-production-of-anti-aids-drug-norvir-in-the-united-s.md)
-_Context: Norvir, National Institutes of Health, price gouging, AIDS_
+_Context: price gouging, Norvir, AIDS, National Institutes of Health_
 
 ##### Chicago
 ### [ U.S. aviation regulators threaten to cap commercial flights at Chicago's O'Hare airport to reduce delays that are affecting the nation's aviation system. ](/news/2004/08/4/u-s-aviation-regulators-threaten-to-cap-commercial-flights-at-chicago-s-o-hare-airport-to-reduce-delays-that-are-affecting-the-nation-s-av.md)
-_Context: aviation, O'Hare International Airport, Chicago_
+_Context: Chicago, O'Hare International Airport, aviation_
 
 ##### Saddam Hussein
 ### [ Saddam Hussein wants to be transferred to a Swedish jail to await his trial. ](/news/2004/08/4/saddam-hussein-wants-to-be-transferred-to-a-swedish-jail-to-await-his-trial.md)
-_Context: Saddam Hussein, jail, trial, Sweden_
+_Context: Saddam Hussein, Sweden, jail, trial_
 
 ##### monsoon
 ### [ The death toll from monsoon flooding in India exceeds 1,000. ](/news/2004/08/4/the-death-toll-from-monsoon-flooding-in-india-exceeds-1-000.md)
@@ -25,15 +25,15 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### bomb
 ### [ A bomb explodes near an electrical substation outside Athens, nine days prior to the beginning of the Olympic Games. ](/news/2004/08/4/a-bomb-explodes-near-an-electrical-substation-outside-athens-nine-days-prior-to-the-beginning-of-the-olympic-games.md)
-_Context: 2004 Summer Olympics, bomb, Athens, electrical substation_
+_Context: 2004 Summer Olympics, bomb, electrical substation, Athens_
 
 ##### FBI
 ### [ The FBI warns that Mumbai, Delhi, or Bangalore could be the target of terrorist attacks. ](/news/2004/08/4/the-fbi-warns-that-mumbai-delhi-or-bangalore-could-be-the-target-of-terrorist-attacks.md)
-_Context: Bangalore, Mumbai, Delhi, FBI, terrorist_
+_Context: FBI, Delhi, terrorist, Bangalore, Mumbai_
 
 ##### Cenotaph
 ### [ A ceremony is held at London's Cenotaph to commemorate the 90th anniversary of the United Kingdom's entry into the First World War. Four of the 23 surviving British veterans of the war, aged between 103 and 108, are well enough to attend. ](/news/2004/08/4/a-ceremony-is-held-at-london-s-cenotaph-to-commemorate-the-90th-anniversary-of-the-united-kingdom-s-entry-into-the-first-world-war-four-of.md)
-_Context: Cenotaph, First World War_
+_Context: First World War, Cenotaph_
 
 ##### Mary Kay Letourneau
 ### [ Mary Kay Letourneau is released from a Washington prison after serving a sentence of over seven years for statutory rape. The former elementary school teacher became notorious for her sexual involvement with one of her male students, who was 12 years old when the illicit relationship began. She bore two children by the boy, who is now 21 years old. ](/news/2004/08/4/mary-kay-letourneau-is-released-from-a-washington-prison-after-serving-a-sentence-of-over-seven-years-for-statutory-rape-the-former-elemen.md)

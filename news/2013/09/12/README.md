@@ -13,7 +13,7 @@ A US-born Islamist with a $5 billion bounty on his head is shot dead in Somalia.
 
 ##### Duke of Cambridge
 ### [Prince William, Duke of Cambridge, leaves the Royal Air Force to devote his energies to Royal and community work. ](/news/2013/09/12/prince-william-duke-of-cambridge-leaves-the-royal-air-force-to-devote-his-energies-to-royal-and-community-work.md)
-_Context: Royal Air Force, Duke of Cambridge_
+_Context: Duke of Cambridge, Royal Air Force_
 
 ##### China
 ### [The People's Republic of China sets goals for use of coal as part of a comprehensive plan for reducing air pollution. ](/news/2013/09/12/the-people-s-republic-of-china-sets-goals-for-use-of-coal-as-part-of-a-comprehensive-plan-for-reducing-air-pollution.md)

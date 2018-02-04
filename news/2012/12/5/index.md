@@ -49,11 +49,11 @@ At least three crew members died when a cargo ship carrying cars sank after coll
 
 ##### John McAfee
 ### [American businessman John McAfee is arrested in Guatemala following an alleged illegal entry after leaving Belize where he is wanted for questioning over the death of fellow American Gregory Faull. ](/news/2012/12/5/american-businessman-john-mcafee-is-arrested-in-guatemala-following-an-alleged-illegal-entry-after-leaving-belize-where-he-is-wanted-for-que.md)
-_Context: Guatemala, John McAfee, Belize_
+_Context: John McAfee, Belize, Guatemala_
 
 ##### Mexico
 ### [Mexico's Supreme Court of Justice of the Nation rules that a ban on same-sex marriage in Oaxaca state is illegal. ](/news/2012/12/5/mexico-s-supreme-court-of-justice-of-the-nation-rules-that-a-ban-on-same-sex-marriage-in-oaxaca-state-is-illegal.md)
-_Context: same-sex marriage, Mexican Supreme Court, Mexico, Oaxaca_
+_Context: Mexican Supreme Court, same-sex marriage, Mexico, Oaxaca_
 
 ##### London
 ### [London's King Edward VII's Hospital says it is reviewing telephone protocol after two disc jockeys from a Sydney-based radio station, 2Day FM made a prank call to the hospital in which they posed as Queen Elizabeth and Prince Charles, and spoke with a member of nursing staff about the health of the Duchess of Cambridge. ](/news/2012/12/5/london-s-king-edward-vii-s-hospital-says-it-is-reviewing-telephone-protocol-after-two-disc-jockeys-from-a-sydney-based-radio-station-2day-f.md)
@@ -61,7 +61,7 @@ The hospital treating the pregnant Duchess of Cambridge says it &quot;deeply reg
 
 ##### government
 ### [The peace talks between the Colombian government and the Revolutionary Armed Forces of Colombia (FARC) resume in Havana, Cuba. ](/news/2012/12/5/the-peace-talks-between-the-colombian-government-and-the-revolutionary-armed-forces-of-colombia-farc-resume-in-havana-cuba.md)
-_Context: Cuba, Revolutionary Armed Forces of Colombia, government, Havana_
+_Context: government, Havana, Cuba, Revolutionary Armed Forces of Colombia_
 
 ## [Previous Day...](/news/2012/12/4/index.md)
 

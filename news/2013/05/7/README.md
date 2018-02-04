@@ -13,7 +13,7 @@ The Nigerian Islamist sect Boko Haram is thought to have been behind a deadly si
 
 ##### Americans
 ### [American special effects innovator Ray Harryhausen dies at the age of 92. ](/news/2013/05/7/american-special-effects-innovator-ray-harryhausen-dies-at-the-age-of-92.md)
-_Context: Ray Harryhausen, special effects, Americans_
+_Context: Americans, special effects, Ray Harryhausen_
 
 ##### Americans
 ### [American As I Lay Dying frontman and lead vocalist Tim Lambesis is arrested on charges of attempting to hire a hitman. ](/news/2013/05/7/american-as-i-lay-dying-frontman-and-lead-vocalist-tim-lambesis-is-arrested-on-charges-of-attempting-to-hire-a-hitman.md)
@@ -21,23 +21,23 @@ Metal singer taken into custody Tuesday after allegedly soliciting an undercover
 
 ##### Bank of China
 ### [The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile-and-nuclear-programs.md)
-_Context: North Korea's nuclear program, United States, North Korea, Bank of China_
+_Context: North Korea, Bank of China, United States, North Korea's nuclear program_
 
 ##### Microsoft
 ### [Microsoft acknowledges and plans to address complaints with its Windows 8 operating system - changes will be available later this year. ](/news/2013/05/7/microsoft-acknowledges-and-plans-to-address-complaints-with-its-windows-8-operating-system-a-changes-will-be-available-later-this-year.md)
-_Context: Microsoft, Windows 8, operating system_
+_Context: Windows 8, operating system, Microsoft_
 
 ##### Reserve Bank of Australia
 ### [The Reserve Bank of Australia cuts its benchmark interest rate to 2.75%, down from 3.00%. ](/news/2013/05/7/the-reserve-bank-of-australia-cuts-its-benchmark-interest-rate-to-2-75-down-from-3-00.md)
-_Context: Reserve Bank of Australia, interest rate_
+_Context: interest rate, Reserve Bank of Australia_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average closes above the 15,000 mark for the first time, setting a record. The S&P 500, up 0.5%, sets a record high as well. ](/news/2013/05/7/the-dow-jones-industrial-average-closes-above-the-15-000-mark-for-the-first-time-setting-a-record-the-s-p-500-up-0-5-sets-a-record-high.md)
-_Context: Dow Jones Industrial Average, S&P 500_
+_Context: S&P 500, Dow Jones Industrial Average_
 
 ##### China
 ### [China's April import and export figures beat expectations, potentially easing concerns that its economy is lagging. ](/news/2013/05/7/china-s-april-import-and-export-figures-beat-expectations-potentially-easing-concerns-that-its-economy-is-lagging.md)
-_Context: export, import, China_
+_Context: export, China, import_
 
 ##### Mayon Volcano
 ### [Mayon Volcano erupts in the Philippines killing four mountain climbers and requiring four other climbers trapped near the summit to be rescued. ](/news/2013/05/7/mayon-volcano-erupts-in-the-philippines-killing-four-mountain-climbers-and-requiring-four-other-climbers-trapped-near-the-summit-to-be-rescu.md)
@@ -93,7 +93,7 @@ The Irish parliament passes legislation granting a pardon to thousands of soldie
 
 ##### Jack Markell
 ### [Governor Jack Markell signs a bill making Delaware the 11th U.S. state to legalize same-sex marriage. ](/news/2013/05/7/governor-jack-markell-signs-a-bill-making-delaware-the-11th-u-s-state-to-legalize-same-sex-marriage.md)
-_Context: Jack Markell, same-sex marriage, Delaware, same-sex marriage in the United States_
+_Context: same-sex marriage in the United States, same-sex marriage, Delaware, Jack Markell_
 
 ##### South Carolina governor
 ### [Former Governor of South Carolina Mark Sanford wins a special election for South Carolina's 1st congressional district defeating Elizabeth Colbert Busch. ](/news/2013/05/7/former-governor-of-south-carolina-mark-sanford-wins-a-special-election-for-south-carolina-s-1st-congressional-district-defeating-elizabeth-c.md)

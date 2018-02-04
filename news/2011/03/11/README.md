@@ -31,7 +31,7 @@ Thousands of others were stranded on rooftops, surrounded by water left by the t
 
 ##### governor
 ### [The Governor of Oklahoma, Mary Fallin, declares a state of emergency in all 77 counties due to wildfires burning out of control in that state and Colorado. ](/news/2011/03/11/the-governor-of-oklahoma-mary-fallin-declares-a-state-of-emergency-in-all-77-counties-due-to-wildfires-burning-out-of-control-in-that-stat.md)
-_Context: Mary Fallin, Oklahoma, wildfire, governor, Colorado, state of emergency_
+_Context: Colorado, wildfire, state of emergency, Mary Fallin, Oklahoma, governor_
 
 ##### ravine
 ### [A bus plunges into a ravine in the Xinjiang region in western China killing at least 16 people and with 24 people injured. ](/news/2011/03/11/a-bus-plunges-into-a-ravine-in-the-xinjiang-region-in-western-china-killing-at-least-16-people-and-with-24-people-injured.md)
@@ -43,23 +43,23 @@ One of Indonesia’s most active volcanoes has erupted, sending lava and searing
 
 ##### United States magistrate judge
 ### [A U.S. federal magistrate rules that prosecutors can demand Twitter account information in relation to Wikileaks. ](/news/2011/03/11/a-u-s-federal-magistrate-rules-that-prosecutors-can-demand-twitter-account-information-in-relation-to-wikileaks.md)
-_Context: Wikileaks, Twitter, prosecutor, United States magistrate judge_
+_Context: prosecutor, Twitter, United States magistrate judge, Wikileaks_
 
 ##### Blackwater Worldwide
 ### [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md)
-_Context: Blackwater Worldwide, Kabul, Afghanistan, manslaughter by gross negligence, United States_
+_Context: Afghanistan, United States, Kabul, Blackwater Worldwide, manslaughter by gross negligence_
 
 ##### UNASUR Constitutive Treaty
 ### [The UNASUR Constitutive Treaty enters into force, making the Union of South American Nations an international legal personality. ](/news/2011/03/11/the-unasur-constitutive-treaty-enters-into-force-making-the-union-of-south-american-nations-an-international-legal-personality.md)
-_Context: into force, legal personality, Union of South American Nations, UNASUR Constitutive Treaty_
+_Context: UNASUR Constitutive Treaty, Union of South American Nations, into force, legal personality_
 
 ##### Taiwan
 ### [Taiwan's opposition leader Tsai Ing-wen launches her presidential bid. ](/news/2011/03/11/taiwan-s-opposition-leader-tsai-ing-wen-launches-her-presidential-bid.md)
-_Context: Tsai Ing-wen, presidential election, Taiwan_
+_Context: Tsai Ing-wen, Taiwan, presidential election_
 
 ##### Zimbabwe
 ### [Zimbabwean Prime Minister Morgan Tsvangirai calls for an end to the country's unity government after one of his party members is arrested. ](/news/2011/03/11/zimbabwean-prime-minister-morgan-tsvangirai-calls-for-an-end-to-the-country-s-unity-government-after-one-of-his-party-members-is-arrested.md)
-_Context: Prime Minister, Zimbabwe, Morgan Tsvangirai_
+_Context: Zimbabwe, Morgan Tsvangirai, Prime Minister_
 
 ## [Previous Day...](/news/2011/03/10/index.md)
 

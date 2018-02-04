@@ -5,11 +5,11 @@ Formats: [HTML](2016/01/29/index.html)  [JSON](2016/01/29/index.json)  [XML](201
 
 ##### Terrorism in Saudi Arabia
 ### [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md)
-_Context: Eastern Province, Shia, Terrorism in Saudi Arabia, Saudi Arabia_
+_Context: Shia, Eastern Province, Terrorism in Saudi Arabia, Saudi Arabia_
 
 ##### Iraqi Civil War (2014-present)
 ### [A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power-across-the-region.md)
-_Context: Kurdish, Iraqi Civil War (2014-present)_
+_Context: Iraqi Civil War (2014-present), Kurdish_
 
 ##### Mexico
 ### [Mexico launches a wholesale telecoms network tender on this day. ](/news/2016/01/29/mexico-launches-a-wholesale-telecoms-network-tender-on-this-day.md)
@@ -25,7 +25,7 @@ Xerox Corp (XRX.N) will split into two companies, one holding its legacy printer
 
 ##### 2015-16 Australian region cyclone season
 ### [Tropical Cyclone Stan gathers strength as it heads towards the Pilbara and Kimberley regions of Western Australia. ](/news/2016/01/29/tropical-cyclone-stan-gathers-strength-as-it-heads-towards-the-pilbara-and-kimberley-regions-of-western-australia.md)
-_Context: Pilbara, Kimberley, Western Australia, 2015-16 Australian region cyclone season_
+_Context: Kimberley, 2015-16 Australian region cyclone season, Western Australia, Pilbara_
 
 ##### 2015-16 UK and Ireland windstorm season
 ### [Storm Gertrude impacts the British Isles, with 90mph winds knocking out power lines and causing travel disruption. ](/news/2016/01/29/storm-gertrude-impacts-the-british-isles-with-90mph-winds-knocking-out-power-lines-and-causing-travel-disruption.md)
@@ -45,7 +45,7 @@ _Context: Communist Party of China, Guangzhou, Human rights in China_
 
 ##### email server
 ### [The Government of the United States rules that 22 emails on Hillary Clinton's home server contained closely guarded information rated as "Top Secret". ](/news/2016/01/29/the-government-of-the-united-states-rules-that-22-emails-on-hillary-clinton-s-home-server-contained-closely-guarded-information-rated-as-to.md)
-_Context: emails, Hillary Clinton, Government of the United States, email server_
+_Context: email server, Government of the United States, emails, Hillary Clinton_
 
 ##### University of California, Los Angeles
 ### [Scientists from UCLA conclude that study of the geology of the Earth and Moon indicate that both consist of a mixture of rocks from the original Earth and a hypothesized planetary-mass object called Theia after a collision. ](/news/2016/01/29/scientists-from-ucla-conclude-that-study-of-the-geology-of-the-earth-and-moon-indicate-that-both-consist-of-a-mixture-of-rocks-from-the-orig.md)

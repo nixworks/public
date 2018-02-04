@@ -9,7 +9,7 @@ A senior officer of the Afghan Supreme Court is among those killed in the spate 
 
 ##### Islamic State in Iraq and the Levant
 ### [Iraqi officials claim that ISIL have shot down a military helicopter near Samarra, killing both pilots. ](/news/2014/12/13/iraqi-officials-claim-that-isil-have-shot-down-a-military-helicopter-near-samarra-killing-both-pilots.md)
-_Context: Islamic State in Iraq and the Levant, Iraq, Samarra_
+_Context: Iraq, Samarra, Islamic State in Iraq and the Levant_
 
 ##### German
 ### [Germany's most successful television show, "Wetten, dass..?", ends after a 33-year-run. ](/news/2014/12/13/germany-s-most-successful-television-show-wetten-dass-ends-after-a-33-year-run.md)
@@ -21,7 +21,7 @@ _Context: Indonesia, landslide, Landslide, Java_
 
 ##### Vietnam
 ### [Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/vietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-claims.md)
-_Context: South China Sea, China, Vietnam_
+_Context: Vietnam, South China Sea, China_
 
 ##### India and Russia
 ### [India and Russia sign deals on infrastructure, nuclear energy, and defence. ](/news/2014/12/13/india-and-russia-sign-deals-on-infrastructure-nuclear-energy-and-defence.md)

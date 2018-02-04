@@ -5,7 +5,7 @@ Formats: [HTML](2012/11/13/index.html)  [JSON](2012/11/13/index.json)  [XML](201
 
 ##### Syrian
 ### [Three Syrian tanks have entered the demilitarized zone in the Golan Heights. Israel has launched a formal complaint to the United Nations. ](/news/2012/11/13/three-syrian-tanks-have-entered-the-demilitarized-zone-in-the-golan-heights-israel-has-launched-a-formal-complaint-to-the-united-nations.md)
-_Context: Syrian, Golan Heights, United Nations, Israel_
+_Context: Israel, United Nations, Syrian, Golan Heights_
 
 ##### Israel
 ### [Following over 150 rockets being fired into Israel over the past four days from Gaza and attacks by Israel, Egypt has mediated a truce. Both Hamas and Ehud Barak praise the efforts for peace. ](/news/2012/11/13/following-over-150-rockets-being-fired-into-israel-over-the-past-four-days-from-gaza-and-attacks-by-israel-egypt-has-mediated-a-truce-both.md)

@@ -25,7 +25,7 @@ The jury deliberating on the fate of accused murderer Robert Xie is having troub
 
 ##### U.S. President
 ### [The President of the United States Barack Obama awards his Vice President Joe Biden the Presidential Medal of Freedom with Distinction, the only time the president has awarded this particular honor during his tenure. ](/news/2017/01/12/the-president-of-the-united-states-barack-obama-awards-his-vice-president-joe-biden-the-presidential-medal-of-freedom-with-distinction-the.md)
-_Context: Presidential Medal of Freedom with Distinction, Barack Obama, U.S. President, Joe Biden_
+_Context: Presidential Medal of Freedom with Distinction, Joe Biden, U.S. President, Barack Obama_
 
 ## [Previous Day...](/news/2017/01/11/index.md)
 

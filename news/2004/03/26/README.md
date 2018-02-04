@@ -5,11 +5,11 @@ Formats: [HTML](2004/03/26/index.html)  [JSON](2004/03/26/index.json)  [XML](200
 
 ##### lawmakers
 ### [ The United States Congress prepares legislation against peer-to-peer technology on multiple fronts. ](/news/2004/03/26/the-united-states-congress-prepares-legislation-against-peer-to-peer-technology-on-multiple-fronts.md)
-_Context: peer-to-peer, lawmakers, technology_
+_Context: technology, peer-to-peer, lawmakers_
 
 ##### United Nations
 ### [ United Nations electoral experts and security support arrive in Baghdad. ](/news/2004/03/26/united-nations-electoral-experts-and-security-support-arrive-in-baghdad.md)
-_Context: Baghdad, United Nations, expert, election, security_
+_Context: United Nations, security, expert, election, Baghdad_
 
 ##### tropical cyclone
 ### [ The first South Atlantic hurricane ever recorded forms 275 miles off the coast of Brazil. ](/news/2004/03/26/the-first-south-atlantic-hurricane-ever-recorded-forms-275-miles-off-the-coast-of-brazil.md)
@@ -25,7 +25,7 @@ _Context: Chen Shui-bian, coalition allies, 2004 presidential election_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: The United States vetoes a United Nations Security Council resolution (sponsored by Algeria and Libya) condemning the killing by Israel of Sheikh Ahmed Yassin along with six other Palestinians outside a mosque in Gaza City and calling for a complete cessation of executions. The veto is publicly motivated by the resolution making no mention of suicide bombings committed by Hamas and attributed to Yassin. 11 votes are recorded in favour, with three (United Kingdom, Germany, and Romania) abstaining and one (the United States) against. ](/news/2004/03/26/israeli-palestinian-conflict-the-united-states-vetoes-a-united-nations-security-council-resolution-sponsored-by-algeria-and-libya-condem.md)
-_Context: suicide bombing, Gaza, mosque, Romania, Sheikh, Israel, Palestinians, Libya, Ahmed Yassin, execution, Israeli-Palestinian conflict, Hamas, Algeria, United Nations Security Council_
+_Context: Israeli-Palestinian conflict, suicide bombing, Israel, Libya, Algeria, Romania, mosque, Sheikh, execution, Hamas, Palestinians, United Nations Security Council, Gaza, Ahmed Yassin_
 
 ## [Previous Day...](/news/2004/03/25/index.md)
 

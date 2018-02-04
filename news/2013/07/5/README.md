@@ -41,11 +41,11 @@ Whole Foods Market Inc. is recalling Crave Brothers Les Freres cheese in respons
 
 ##### China
 ### [The People's Republic of China and Russia begin joint naval exercises in the Sea of Japan. ](/news/2013/07/5/the-people-s-republic-of-china-and-russia-begin-joint-naval-exercises-in-the-sea-of-japan.md)
-_Context: Sea of Japan, China, Russia_
+_Context: Russia, China, Sea of Japan_
 
 ##### Bolivia
 ### [Bolivian president Evo Morales calls the Eurozone for a violation of international law and threatens to close down the U.S. embassy in Bolivia after the episode of having his official airplane being refused to land "en route" to Vienna, amid suspicions of having former NSA employee Edward Snowden on board. Ambassadors of France, Italy, Spain and Portugal are summoned to give full explanations.](/news/2013/07/5/bolivian-president-evo-morales-calls-the-eurozone-for-a-violation-of-international-law-and-threatens-to-close-down-the-u-s-embassy-in-boliv.md)
-_Context: France, Edward Snowden, Bolivia, Spain, Evo Morales, U.S. embassy in Bolivia, Italy, Portugal, Vienna, Eurozone_
+_Context: Edward Snowden, U.S. embassy in Bolivia, Portugal, Italy, Spain, Bolivia, France, Eurozone, Evo Morales, Vienna_
 
 ##### New Zealand
 ### [A New Zealand court orders Pike River Coal to pay $3 million in compensation for the 29 victims of the Pike River Mine disaster. ](/news/2013/07/5/a-new-zealand-court-orders-pike-river-coal-to-pay-3-million-in-compensation-for-the-29-victims-of-the-pike-river-mine-disaster.md)

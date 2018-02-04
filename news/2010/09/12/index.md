@@ -65,11 +65,11 @@ Iranian authorities are ready to release on $500,000 (£325,000) bail one of the
 
 ##### Mexican marines
 ### [Mexican marines capture alleged Beltrn Leyva Cartel leader Sergio Villarreal Barragn in the state of Puebla. ](/news/2010/09/12/mexican-marines-capture-alleged-beltran-leyva-cartel-leader-sergio-villarreal-barragan-in-the-state-of-puebla.md)
-_Context: Sergio Villarreal Barragn, Puebla, Mexican marines, Beltrn Leyva Cartel_
+_Context: Beltrn Leyva Cartel, Mexican marines, Puebla, Sergio Villarreal Barragn_
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev approves a plan to overhaul Russia's police system. ](/news/2010/09/12/president-of-russia-dmitry-medvedev-approves-a-plan-to-overhaul-russia-s-police-system.md)
-_Context: Russia, state police, Dmitry Medvedev, Russian President_
+_Context: Russia, Russian President, state police, Dmitry Medvedev_
 
 ##### Malaysia
 ### [Malaysia's police force is debated following the fatal shooting of a 15-year-old boy. ](/news/2010/09/12/malaysia-s-police-force-is-debated-following-the-fatal-shooting-of-a-15-year-old-boy.md)

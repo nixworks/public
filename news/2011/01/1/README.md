@@ -9,11 +9,11 @@ Egypt blames a suicide bomber with foreign links for a blast which killed at lea
 
 ##### Bonaire
 ### [Bonaire, Saba and Sint Eustatius adopt the United States dollar as the sole legal currency, reducing the use of the Netherlands Antillean guilder to Curaao and Sint Maarten. ](/news/2011/01/1/bonaire-saba-and-sint-eustatius-adopt-the-united-states-dollar-as-the-sole-legal-currency-reducing-the-use-of-the-netherlands-antillean-gu.md)
-_Context: Sint Maarten, Saba, Netherlands Antillean guilder, Bonaire, Curaao, Sint Eustatius, $_
+_Context: Netherlands Antillean guilder, Curaao, Saba, $, Sint Eustatius, Sint Maarten, Bonaire_
 
 ##### a passenger plane explodes
 ### [Four people are killed and around 40 injured after a passenger plane explodes in Surgut in eastern Russia. ](/news/2011/01/1/four-people-are-killed-and-around-40-injured-after-a-passenger-plane-explodes-in-surgut-in-eastern-russia.md)
-_Context: Surgut, Russia, a passenger plane explodes_
+_Context: a passenger plane explodes, Surgut, Russia_
 
 ##### hot air balloon
 ### [Two people are killed after a hot air balloon crashes onto a bowling green in Midsomer Norton, Somerset, United Kingdom. ](/news/2011/01/1/two-people-are-killed-after-a-hot-air-balloon-crashes-onto-a-bowling-green-in-midsomer-norton-somerset-united-kingdom.md)
@@ -25,19 +25,19 @@ _Context: tornado outbreak, blackbirds, Arkansas_
 
 ##### earthquake
 ### [A deep earthquake measuring magnitude 7.0 hits near Santiago del Estero in northern Argentina. Only weak shaking is felt and no damage is reported. ](/news/2011/01/1/a-deep-earthquake-measuring-magnitude-7-0-hits-near-santiago-del-estero-in-northern-argentina-only-weak-shaking-is-felt-and-no-damage-is-re.md)
-_Context: Argentina, earthquake, Santiago del Estero_
+_Context: Santiago del Estero, Argentina, earthquake_
 
-##### Canadian Foreign Minister
+##### Canadian counterpart
 ### [Canada's Foreign Minister, Lawrence Cannon, urges Iran to improve the country's human rights record and denounces Iran for imposing "draconian death sentences and unfair jail terms," while expressing particular concern for the fate of two Canadians of dual nationality imprisoned in Iran. ](/news/2011/01/1/canada-s-foreign-minister-lawrence-cannon-urges-iran-to-improve-the-country-s-human-rights-record-and-denounces-iran-for-imposing-draconi.md)
-_Context: Canadians, Canadian Foreign Minister, dual nationality, Lawrence Cannon, Iran, Iranian human rights_
+_Context: Iranian human rights, Canadian counterpart, Canadians, Lawrence Cannon, dual nationality, Iran_
 
 ##### Hungary
 ### [Hungary takes over the presidency of the European Union. ](/news/2011/01/1/hungary-takes-over-the-presidency-of-the-european-union.md)
-_Context: the Council of, Hungary, European Union_
+_Context: the Council of, European Union, Hungary_
 
 ##### Ford Open Prison
 ### [Specialist prison guards and firefighters are sent into Ford Open Prison in West Sussex, United Kingdom, after 40 inmates started a riot. Part of the prison has been destroyed by fire. ](/news/2011/01/1/specialist-prison-guards-and-firefighters-are-sent-into-ford-open-prison-in-west-sussex-united-kingdom-after-40-inmates-started-a-riot-pa.md)
-_Context: prison riot, Ford Open Prison, West Sussex_
+_Context: Ford Open Prison, West Sussex, prison riot_
 
 ##### Dilma Rousseff
 ### [Dilma Rousseff is sworn in as Brazil's first female President. ](/news/2011/01/1/dilma-rousseff-is-sworn-in-as-brazil-s-first-female-president.md)

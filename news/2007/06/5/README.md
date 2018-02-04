@@ -5,19 +5,19 @@ Formats: [HTML](2007/06/5/index.html)  [JSON](2007/06/5/index.json)  [XML](2007/
 
 ##### British Antarctic Survey
 ### [ The British Antarctic Survey announces that the flow rate of 300 previously unmeasured glaciers increased by 12% between 1993 and 2003, adding to concerns over glacier retreat and the rise in sea levels caused by global warming. ](/news/2007/06/5/the-british-antarctic-survey-announces-that-the-flow-rate-of-300-previously-unmeasured-glaciers-increased-by-12-between-1993-and-2003-add.md)
-_Context: Retreat of glaciers since 1850, British Antarctic Survey, glaciers, sea level rise, global warming_
+_Context: Retreat of glaciers since 1850, British Antarctic Survey, global warming, glaciers, sea level rise_
 
 ##### Guyana
 ### [ A Guyanese suspect who allegedly planned an attack on New York City's JFK Airport surrenders in Port of Spain, Trinidad and Tobago. ](/news/2007/06/5/a-guyanese-suspect-who-allegedly-planned-an-attack-on-new-york-city-s-jfk-airport-surrenders-in-port-of-spain-trinidad-and-tobago.md)
-_Context: New York City, Guyana, Trinidad and Tobago, Port-of-Spain, JFK, allegedly planned an attack_
+_Context: Guyana, Trinidad and Tobago, New York City, allegedly planned an attack, JFK, Port-of-Spain_
 
 ##### United States v. Libby
 ### [ United States v. Libby: I. Lewis "Scooter" Libby, Jr., former chief of staff to Vice President Dick Cheney, is sentenced to 30 months in prison after being convicted of perjury and obstruction of justice in the CIA leak grand jury investigation. ](/news/2007/06/5/united-states-v-libby-i-lewis-scooter-libby-jr-former-chief-of-staff-to-vice-president-dick-cheney-is-sentenced-to-30-months-in-pr.md)
-_Context: perjury, Scooter Libby, United States v. Libby, prison, obstruction of justice, CIA leak grand jury investigation, Dick Cheney, U.S. Vice President, chief of staff_
+_Context: prison, United States v. Libby, Dick Cheney, chief of staff, Scooter Libby, perjury, obstruction of justice, U.S. Vice President, CIA leak grand jury investigation_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush begins his tour of Europe in Prague before the G8 summit in Germany. During his visit, he intends to address the deployment of interceptor rockets, the establishment of radar bases in Poland and the Czech Republic, and the related tension that has arisen between the United States and Russia. ](/news/2007/06/5/u-s-president-george-w-bush-begins-his-tour-of-europe-in-prague-before-the-g8-summit-in-germany-during-his-visit-he-intends-to-address.md)
-_Context: Czech Republic, George W. Bush, Poland, interceptor rockets, Prague, Group of Eight, German, United States, U.S. President, Russia, Europe_
+_Context: George W. Bush, Europe, German, interceptor rockets, United States, Prague, Russia, U.S. President, Group of Eight, Czech Republic, Poland_
 
 ##### Spain
 ### [ Spanish Basque separatist group ETA announces it will end its 15-month cease-fire tonight at midnight (CEST). ](/news/2007/06/5/spanish-basque-separatist-group-eta-announces-it-will-end-its-15-month-cease-fire-tonight-at-midnight-cest.md)
@@ -25,7 +25,7 @@ ETA has said it will end its 15-month-old ceasefire at midnight tonight and has 
 
 ##### Thailand
 ### [ Thailand's interim government removes a ban on political party activities. ](/news/2007/06/5/thailand-s-interim-government-removes-a-ban-on-political-party-activities.md)
-_Context: ban, political party, Thailand_
+_Context: ban, Thailand, political party_
 
 ##### train crash
 ### [ Eleven people are killed and around 30 injured in a train crash 10 kilometres north of Kerang, Victoria, Australia. ](/news/2007/06/5/eleven-people-are-killed-and-around-30-injured-in-a-train-crash-10-kilometres-north-of-kerang-victoria-australia.md)

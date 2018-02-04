@@ -9,11 +9,11 @@ _Context: Israel, Egypt_
 
 ##### kg
 ### [ French police seek 500 kg (1,100&nbsp;lb) of ammonium nitrate fertilizer stolen from the port of Honfleur at the mouth of the Seine River. The fertilizer can be converted easily into a powerful explosive. Such an explosive was used in the 1995 Oklahoma City bombing. AZF suspended operations inside France while the group seeks to upgrade its arsenal. ](/news/2004/05/3/french-police-seek-500-kg-1-100-nbsp-lb-of-ammonium-nitrate-fertilizer-stolen-from-the-port-of-honfleur-at-the-mouth-of-the-seine-river.md)
-_Context: kg, Oklahoma City bombing, Honfleur, ammonium nitrate, AZF, Seine_
+_Context: AZF, Seine, kg, ammonium nitrate, Oklahoma City bombing, Honfleur_
 
 ##### Peru
 ### [ Mexico and Peru recall their ambassadors from Cuba, citing recent "offensive" comments by Cuban head of state Fidel Castro. The Cuban ambassador to Mexico is also expelled, for "activities incompatible with his diplomatic status". ](/news/2004/05/3/mexico-and-peru-recall-their-ambassadors-from-cuba-citing-recent-offensive-comments-by-cuban-head-of-state-fidel-castro-the-cuban-ambas.md)
-_Context: Peru, Fidel Castro, Cuba_
+_Context: Cuba, Peru, Fidel Castro_
 
 ##### crude oil
 ### [ At US$38.21 per barrel of crude, oil prices hit their highest level since 1990. ](/news/2004/05/3/at-us-38-21-per-barrel-of-crude-oil-prices-hit-their-highest-level-since-1990.md)

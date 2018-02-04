@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/1/index.html)  [JSON](2009/10/1/index.json)  [XML](2009/
 
 ##### Venezuela
 ### [ Around 150 Venezuelan students end a weeklong hunger strike protesting against alleged human rights abuses in Venezuela, after Organization of American States officials agree to meet the students and one of their leaders is released. ](/news/2009/10/1/around-150-venezuelan-students-end-a-weeklong-hunger-strike-protesting-against-alleged-human-rights-abuses-in-venezuela-after-organization.md)
-_Context: Venezuela, hunger strike, Organization of American States_
+_Context: hunger strike, Venezuela, Organization of American States_
 
 ##### Ateke Tom
 ### [ Ateke Tom, militant leader of the Niger Delta Vigilante in the Niger Delta region, accepts an amnesty by the Nigerian government. ](/news/2009/10/1/ateke-tom-militant-leader-of-the-niger-delta-vigilante-in-the-niger-delta-region-accepts-an-amnesty-by-the-nigerian-government.md)
@@ -21,15 +21,15 @@ _Context: International Monetary Fund_
 
 ##### magnitude
 ### [ A second earthquake measuring 6.8 on the Richter scale occurs near Sumatra, Indonesia, following a 7.6 magnitude earthquake the previous day. ](/news/2009/10/1/a-second-earthquake-measuring-6-8-on-the-richter-scale-occurs-near-sumatra-indonesia-following-a-7-6-magnitude-earthquake-the-previous-da.md)
-_Context: Sumatra, 7.6 magnitude earthquake, magnitude, Indonesia_
+_Context: Indonesia, magnitude, 7.6 magnitude earthquake, Sumatra_
 
 ##### Supreme Court of the United Kingdom
 ### [ The Justices of the Supreme Court of the United Kingdom are sworn into office, replacing the Law Lords as the final court of appeal in the country. ](/news/2009/10/1/the-justices-of-the-supreme-court-of-the-united-kingdom-are-sworn-into-office-replacing-the-law-lords-as-the-final-court-of-appeal-in-the.md)
-_Context: Law Lords, appeals court, Supreme Court of the United Kingdom_
+_Context: appeals court, Law Lords, Supreme Court of the United Kingdom_
 
 ##### Beijing
 ### [ Mass celebrations take place in Beijing to commemorate the 60th anniversary of the founding of the People's Republic of China. ](/news/2009/10/1/mass-celebrations-take-place-in-beijing-to-commemorate-the-60th-anniversary-of-the-founding-of-the-people-s-republic-of-china.md)
-_Context: Beijing, China, 60th anniversary of the founding_
+_Context: China, Beijing, 60th anniversary of the founding_
 
 ##### Iran
 ### [ Iran agrees to allow inspections of a recently revealed nuclear facility near the city of Qom. ](/news/2009/10/1/iran-agrees-to-allow-inspections-of-a-recently-revealed-nuclear-facility-near-the-city-of-qom.md)
@@ -45,7 +45,7 @@ Opposition leaders say the call is a tactic to divert attention from crackdown o
 
 ##### Islam
 ### [ 12 people are killed in fighting between rival Islamist groups for control of the port city of Kismayo in southern Somalia. ](/news/2009/10/1/12-people-are-killed-in-fighting-between-rival-islamist-groups-for-control-of-the-port-city-of-kismayo-in-southern-somalia.md)
-_Context: Islam, port, Kismayo, Somalia_
+_Context: port, Somalia, Kismayo, Islam_
 
 ##### Paleontologists
 ### [ Paleontologists announced the discovery of an "Ardipithecus ramidus" fossil skeleton, deeming it the oldest fossil skeleton of a human ancestor. ](/news/2009/10/1/paleontologists-announced-the-discovery-of-an-ardipithecus-ramidus-fossil-skeleton-deeming-it-the-oldest-fossil-skeleton-of-a-human-ance.md)
@@ -57,7 +57,7 @@ The military will open a campaign against the Taliban’s main stronghold in the
 
 ##### Netherlands Antilles
 ### [ The Netherlands Antilles agrees to disband on October 10, 2010. Bonaire, St. Eustatius and Saba will become Dutch municipalities within the Netherlands, whereas Curaao and Sint Maarten will become self-governing countries within the Kingdom of the Netherlands. ](/news/2009/10/1/the-netherlands-antilles-agrees-to-disband-on-october-10-2010-bonaire-st-eustatius-and-saba-will-become-dutch-municipalities-within-the.md)
-_Context: Sint Maarten, Curaao, Netherlands, disband, Kingdom of the Netherlands, St. Eustatius, Saba, Bonaire, Dutch municipalities, Netherlands Antilles_
+_Context: Saba, St. Eustatius, Curaao, Bonaire, Netherlands Antilles, Dutch municipalities, Netherlands, Sint Maarten, Kingdom of the Netherlands, disband_
 
 ## [Previous Day...](/news/2009/09/30/index.md)
 

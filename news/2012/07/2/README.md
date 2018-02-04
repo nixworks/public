@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/2/index.html)  [JSON](2012/07/2/index.json)  [XML](2012/
 
 ##### Somalia
 ### [Four foreign aid workers held hostage inside Somalia are rescued by Somali forces after they were kidnapped from a Kenyan refugee camp on June 29. ](/news/2012/07/2/four-foreign-aid-workers-held-hostage-inside-somalia-are-rescued-by-somali-forces-after-they-were-kidnapped-from-a-kenyan-refugee-camp-on-ju.md)
-_Context: Somalia, Kenya_
+_Context: Kenya, Somalia_
 
 ##### Ja'ar
 ### [Children in Ja'ar, Yemen, accidentally set off a shell, killing one and wounding seven others. ](/news/2012/07/2/children-in-jae-ar-yemen-accidentally-set-off-a-shell-killing-one-and-wounding-seven-others.md)
@@ -13,11 +13,11 @@ _Context: Ja'ar, Yemen_
 
 ##### Kenya
 ### [Officials in Kenya say that two Iranian Islamic Revolutionary Guards arrested with explosives planned to attack Israeli, American, British and Saudi Arabian targets inside Kenya. ](/news/2012/07/2/officials-in-kenya-say-that-two-iranian-islamic-revolutionary-guards-arrested-with-explosives-planned-to-attack-israeli-american-british-a.md)
-_Context: Kenya, Saudi Arabian, Iran, British, Israelis, United States, Islamic Revolutionary Guards_
+_Context: Saudi Arabian, Iran, Israelis, British, Kenya, Islamic Revolutionary Guards, United States_
 
 ##### Finland
 ### [Finland says it will block the euro zone's permanent bailout fund (ESM) from buying government bonds in the open market, while The Netherlands also indicates opposition to the bond-buying idea. ](/news/2012/07/2/finland-says-it-will-block-the-euro-zone-s-permanent-bailout-fund-esm-from-buying-government-bonds-in-the-open-market-while-the-netherlan.md)
-_Context: Netherlands, Finland_
+_Context: Finland, Netherlands_
 
 ##### Airbus
 ### [Airbus says it plans to open a $600 million assembly plant in Mobile, Alabama, USA. ](/news/2012/07/2/airbus-says-it-plans-to-open-a-600-million-assembly-plant-in-mobile-alabama-usa.md)
@@ -33,11 +33,11 @@ _Context: IPO, Facebook, Nasdaq_
 
 ##### British
 ### [The British government announces a parliamentary investigation into the Barclays Libor scandal, with reports hoped to be filed by the end of the year. ](/news/2012/07/2/the-british-government-announces-a-parliamentary-investigation-into-the-barclays-libor-scandal-with-reports-hoped-to-be-filed-by-the-end-of.md)
-_Context: British, Barclays, Libor_
+_Context: British, Libor, Barclays_
 
 ##### Chicago
 ### [Some, but not all, of Chicago's taxi drivers go on strike during the morning rush hour to protest a new set of city regulations that took effect. ](/news/2012/07/2/some-but-not-all-of-chicago-s-taxi-drivers-go-on-strike-during-the-morning-rush-hour-to-protest-a-new-set-of-city-regulations-that-took-ef.md)
-_Context: taxi, Chicago, rush hour_
+_Context: taxi, rush hour, Chicago_
 
 ##### Northeast India
 ### [At least 79 people are killed and 2.2 million rendered homeless as torrential monsoon rains trigger floods in Northeast India. ](/news/2012/07/2/at-least-79-people-are-killed-and-2-2-million-rendered-homeless-as-torrential-monsoon-rains-trigger-floods-in-northeast-india.md)
@@ -49,7 +49,7 @@ An Air Force C-130 tanker has crashed while battling a South Dakota wildfire, ki
 
 ##### Eastern U.S.
 ### [At least 2 million throughout the Eastern United States are still without power due to strong storms and a heat wave that killed 19 people. ](/news/2012/07/2/at-least-2-million-throughout-the-eastern-united-states-are-still-without-power-due-to-strong-storms-and-a-heat-wave-that-killed-19-people.md)
-_Context: strong storms, Eastern U.S., current U.S. heat wave_
+_Context: current U.S. heat wave, Eastern U.S., strong storms_
 
 ##### ICC
 ### [Four officials from the International Criminal Court, including Melinda Taylor, are released after they were held in the Libyan city of Zintan for four weeks on suspicion of spying. ](/news/2012/07/2/four-officials-from-the-international-criminal-court-including-melinda-taylor-are-released-after-they-were-held-in-the-libyan-city-of-zint.md)
@@ -73,7 +73,7 @@ Hamas said it suspended the elections commission for not treating its supporters
 
 ##### NASA
 ### [NASA and Lockheed Martin unveil the first space-bound Orion spacecraft in Cape Canaveral. ](/news/2012/07/2/nasa-and-lockheed-martin-unveil-the-first-space-bound-orion-spacecraft-in-cape-canaveral.md)
-_Context: NASA, Cape Canaveral, Lockheed, Orion spacecraft_
+_Context: Orion spacecraft, Cape Canaveral, Lockheed, NASA_
 
 ## [Previous Day...](/news/2012/07/1/index.md)
 

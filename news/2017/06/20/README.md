@@ -21,7 +21,7 @@ With yields on U.S. 10-year Treasuries as low as they are, the Federal Reserve n
 
 ##### 2017 North American heat wave
 ### [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md)
-_Context: Arizona, Nevada, heat wave, 2017 North American heat wave, California, Western U.S._
+_Context: Nevada, Arizona, California, 2017 North American heat wave, Western U.S., heat wave_
 
 ##### Atlantic hurricanes
 ### [Tropical Storm Cindy makes its way towards the eastern coasts of the Southern United States. ](/news/2017/06/20/tropical-storm-cindy-makes-its-way-towards-the-eastern-coasts-of-the-southern-united-states.md)

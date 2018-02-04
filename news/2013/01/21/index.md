@@ -17,7 +17,7 @@ French and Malian troops seize the key Malian towns of Diabaly and Douentza from
 
 ##### Nigeria
 ### [Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md)
-_Context: Abidjan, Nigeria, Panama, Ivory Coast_
+_Context: Ivory Coast, Nigeria, Panama, Abidjan_
 
 ##### Algeria
 ### [Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/algeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-militants.md)
@@ -37,7 +37,7 @@ Dozens of people are injured in a head-on collision between two commuter trains 
 
 ##### Brazil
 ### [In Brazil, a helicopter crashes in So Paulo's north zone, leaving one pilot dead and four more people injured. ](/news/2013/01/21/in-brazil-a-helicopter-crashes-in-sao-paulo-s-north-zone-leaving-one-pilot-dead-and-four-more-people-injured.md)
-_Context: Brazil, So Paulo_
+_Context: So Paulo, Brazil_
 
 ##### Chitungwiza
 ### [Five people are killed in an explosion at a healer's home in Chitungwiza, Zimbabwe, causing hundreds to flee and nearby building damage. ](/news/2013/01/21/five-people-are-killed-in-an-explosion-at-a-healer-s-home-in-chitungwiza-zimbabwe-causing-hundreds-to-flee-and-nearby-building-damage.md)
@@ -45,7 +45,7 @@ _Context: Zimbabwe, Chitungwiza_
 
 ##### bus
 ### [A passenger bus veers off the Yungas Road and plunges from a height of 300 meters into a ravine in the Yungas region of Bolivia, killing 18 people and injuring 24 others. ](/news/2013/01/21/a-passenger-bus-veers-off-the-yungas-road-and-plunges-from-a-height-of-300-meters-into-a-ravine-in-the-yungas-region-of-bolivia-killing-18.md)
-_Context: bus, Yungas, Yungas Road, Bolivia_
+_Context: bus, Bolivia, Yungas, Yungas Road_
 
 ##### magnitude
 ### [A 14-year-old girl is killed and 15 people are injured in a 5.9-magnitude earthquake in Indonesia. ](/news/2013/01/21/a-14-year-old-girl-is-killed-and-15-people-are-injured-in-a-5-9-magnitude-earthquake-in-indonesia.md)
@@ -69,7 +69,7 @@ After months of discussions, eurozone finance ministers eventually found a succe
 
 ##### Orwell Day
 ### [The inaugural Orwell Day gets underway, to be followed by a month-long Orwell season on BBC Radio 4, while "Politics and the English Language" is to be given away "en masse". ](/news/2013/01/21/the-inaugural-orwell-day-gets-underway-to-be-followed-by-a-month-long-orwell-season-on-bbc-radio-4-while-politics-and-the-english-languag.md)
-_Context: BBC Radio 4, en masse, Orwell Day, Politics and the English Language_
+_Context: Orwell Day, BBC Radio 4, Politics and the English Language, en masse_
 
 ##### NASA
 ### [NASA's Kepler space telescope is placed in a precautionary 10-day safe mode after engineers noticed a problem with the instrument's orientation mechanism. ](/news/2013/01/21/nasa-s-kepler-space-telescope-is-placed-in-a-precautionary-10-day-safe-mode-after-engineers-noticed-a-problem-with-the-instrument-s-orientat.md)

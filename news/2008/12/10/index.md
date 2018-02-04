@@ -9,11 +9,11 @@ _Context: nuclear program_
 
 ##### global crisis
 ### [ Automotive industry crisis of 2008: The White House and U.S. Congress agree on a proposal for a US$15 billion bailout package for three major US automakers. ](/news/2008/12/10/automotive-industry-crisis-of-2008-the-white-house-and-u-s-congress-agree-on-a-proposal-for-a-us-15-billion-bailout-package-for-three-maj.md)
-_Context: White House, $, global crisis, U.S. Congress_
+_Context: global crisis, U.S. Congress, White House, $_
 
 ##### Global food price crisis
 ### [ Global food price crisis: The Food and Agriculture Organization of the United Nations estimates that 963 million people are suffering from prolonged food deficiency around the world. ](/news/2008/12/10/global-food-price-crisis-the-food-and-agriculture-organization-of-the-united-nations-estimates-that-963-million-people-are-suffering-from.md)
-_Context: Global food price crisis, Food and Agriculture Organization_
+_Context: Food and Agriculture Organization, Global food price crisis_
 
 ##### Rio Tinto
 ### [ The Rio Tinto Group announces plans to cut 14,000 jobs worldwide. ](/news/2008/12/10/the-rio-tinto-group-announces-plans-to-cut-14-000-jobs-worldwide.md)

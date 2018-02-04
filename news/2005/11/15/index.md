@@ -11,17 +11,17 @@ Get breaking business news, financial news, technology news and updates on marke
 ### [ 173 prisoners are found in an Iraqi government bunker in Baghdad, having been starved, beaten and tortured. ](/news/2005/11/15/173-prisoners-are-found-in-an-iraqi-government-bunker-in-baghdad-having-been-starved-beaten-and-tortured.md)
 Iraq is investigating the discovery of more than 170 prisoners in a government bunker in Baghdad where many were found starved, beaten and tortured.
 
-##### Terrorism in Pakistan
+##### suicide bombing
 ### [ Terrorism in Pakistan: A car bomb explodes outside a KFC outlet in Karachi, Pakistan around 08:45 (UTC+5). At least three people are killed and eight others wounded. ](/news/2005/11/15/terrorism-in-pakistan-a-car-bomb-explodes-outside-a-kfc-outlet-in-karachi-pakistan-around-08-45-utc-5-at-least-three-people-are-killed.md)
-_Context: Pakistan, KFC, Terrorism in Pakistan, Karachi, clock, car bomb_
+_Context: car bomb, clock, Pakistan, KFC, Karachi, suicide bombing_
 
 ##### Quebec
 ### [ Quebec, Canada: Former Minister Andr Boisclair is elected Leader of the Parti Qubcois, the provincial official opposition and Quebec's main party promoting separation of the French-speaking province from Canada, in the Parti Qubcois leadership election, 2005. ](/news/2005/11/15/quebec-canada-former-minister-andre-boisclair-is-elected-leader-of-the-parti-quebecois-the-provincial-official-opposition-and-quebec-s-m.md)
-_Context: Parti Qubcois leadership election, 2005, Parti Qubcois, Quebec, Andr Boisclair, Canadian_
+_Context: Parti Qubcois leadership election, 2005, Canadian, Andr Boisclair, Parti Qubcois, Quebec_
 
 ##### Japan
 ### [ Japan: 2005 Sanriku Japan Earthquake A 6.9-magnitude earthquake, as determined by the Japan Meteorological Society, occurred off the northern coast of Japan near Sanriku at 6:39am Japan Standard Time (UTC+9), prompting a tsunami warning to be issued in Japan and the western coast of the United States. ](/news/2005/11/15/japan-2005-sanriku-japan-earthquake-a-6-9-magnitude-earthquake-as-determined-by-the-japan-meteorological-society-occurred-off-the-northe.md)
-_Context: Japan, United States, 2005 Sanriku Japan Earthquake, tsunami, clock, Japan Standard Time, magnitude_
+_Context: 2005 Sanriku Japan Earthquake, tsunami, magnitude, Japan Standard Time, United States, Japan, clock_
 
 ##### Sayako, Princess Nori
 ### [ Sayako, Princess Nori of Japan marries a commoner and thereby leaves the Imperial Family, taking the surname of her husband. ](/news/2005/11/15/sayako-princess-nori-of-japan-marries-a-commoner-and-thereby-leaves-the-imperial-family-taking-the-surname-of-her-husband.md)

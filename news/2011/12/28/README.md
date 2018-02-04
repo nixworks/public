@@ -9,11 +9,11 @@ Syria releases 755 people detained in the nine-month uprising against President 
 
 ##### Arab
 ### [A bomb is thrown into an Arabic school in southern Nigeria's Delta State, injuring seven people. ](/news/2011/12/28/a-bomb-is-thrown-into-an-arabic-school-in-southern-nigeria-s-delta-state-injuring-seven-people.md)
-_Context: Delta State, Nigeria, Arab_
+_Context: Arab, Delta State, Nigeria_
 
 ##### Greek Orthodox
 ### [Greek Orthodox and Armenian Apostolic priests fight in the Church of the Nativity in Bethlehem over a cleaning dispute; Palestinian police break up the fighting. ](/news/2011/12/28/greek-orthodox-and-armenian-apostolic-priests-fight-in-the-church-of-the-nativity-in-bethlehem-over-a-cleaning-dispute-palestinian-police-b.md)
-_Context: Greek Orthodox, Church of the Nativity, Armenian Apostolic, Bethlehem, Palestine_
+_Context: Bethlehem, Church of the Nativity, Armenian Apostolic, Palestine, Greek Orthodox_
 
 ##### Russia
 ### [A Russian court rejects an attempt to ban "Bhagavad Gita As It Is", a Russian translation of the Hindu holy book Bhagavad Gita. ](/news/2011/12/28/a-russian-court-rejects-an-attempt-to-ban-bhagavad-gita-as-it-is-a-russian-translation-of-the-hindu-holy-book-bhagavad-gita.md)
@@ -29,11 +29,11 @@ Oscar-winning 1991 thriller The Silence of the Lambs is to be preserved by the U
 
 ##### crash-landing
 ### [31 people are injured following the crash-landing of a passenger jet at Osh Airport in southern Kyrgyzstan. ](/news/2011/12/28/31-people-are-injured-following-the-crash-landing-of-a-passenger-jet-at-osh-airport-in-southern-kyrgyzstan.md)
-_Context: Osh Airport, crash-landing, Kyrgyzstan_
+_Context: Kyrgyzstan, Osh Airport, crash-landing_
 
 ##### lahar
 ### [Four people are killed and 1,000 others flee their homes amid lahars from the Mount Gamalama volcano in Indonesia. ](/news/2011/12/28/four-people-are-killed-and-1-000-others-flee-their-homes-amid-lahars-from-the-mount-gamalama-volcano-in-indonesia.md)
-_Context: Indonesia, lahar, Gamalama_
+_Context: Gamalama, Indonesia, lahar_
 
 ##### Iran
 ### [Iran threatens to close down the key oil route of the Strait of Hormuz if more sanctions are imposed on it by Western nations. ](/news/2011/12/28/iran-threatens-to-close-down-the-key-oil-route-of-the-strait-of-hormuz-if-more-sanctions-are-imposed-on-it-by-western-nations.md)
@@ -41,7 +41,7 @@ The US Navy says it will not tolerate disruption to a vital oil route as Iran th
 
 ##### African Union
 ### [The head of the African Union, Jean Ping, arrives in Guinea-Bissau after the country's army chief claims to have foiled a military coup. ](/news/2011/12/28/the-head-of-the-african-union-jean-ping-arrives-in-guinea-bissau-after-the-country-s-army-chief-claims-to-have-foiled-a-military-coup.md)
-_Context: Jean Ping, military coup, African Union, Guinea-Bissau_
+_Context: Guinea-Bissau, African Union, military coup, Jean Ping_
 
 ##### China
 ### [In China, 54 government officials and the Ministry of Railways are punished over a fatal high-speed rail crash in July. ](/news/2011/12/28/in-china-54-government-officials-and-the-ministry-of-railways-are-punished-over-a-fatal-high-speed-rail-crash-in-july.md)
@@ -73,7 +73,7 @@ Republican presidential candidates gang up on rival Ron Paul as a poll gives him
 
 ##### China
 ### [China's Compass satellite navigation system, a rival to the American Global Positioning System (GPS), becomes operational, offering navigation services on the Chinese mainland. The system is expected to become available worldwide by 2020. ](/news/2011/12/28/china-s-compass-satellite-navigation-system-a-rival-to-the-american-global-positioning-system-gps-becomes-operational-offering-navigati.md)
-_Context: Compass satellite navigation system, Chinese mainland, Global Positioning System, China_
+_Context: Chinese mainland, Compass satellite navigation system, Global Positioning System, China_
 
 ## [Previous Day...](/news/2011/12/27/index.md)
 

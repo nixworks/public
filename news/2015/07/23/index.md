@@ -13,7 +13,7 @@ This is pretty scary if you&#039;re Taiwanese.
 
 ##### Greek government-debt crisis timeline
 ### [ A majority in the Greek parliament votes to approve a second bailout reform package. ](/news/2015/07/23/a-majority-in-the-greek-parliament-votes-to-approve-a-second-bailout-reform-package.md)
-_Context: Hellenic Parliament, bailout, Greek government-debt crisis timeline_
+_Context: Greek government-debt crisis timeline, bailout, Hellenic Parliament_
 
 ##### Pearson PLC
 ### [ Pearson PLC agrees to sell Financial Times Group to Nikkei Inc. for GBP844 million. ](/news/2015/07/23/pearson-plc-agrees-to-sell-financial-times-group-to-nikkei-inc-for-agbp844-million.md)
@@ -29,7 +29,7 @@ _Context: Broken Arrow killings, Broken Arrow, Oklahoma_
 
 ##### opens fire
 ### [Seven people are wounded, and three are dead (including the shooter) after a 58-year-old gunman opens fire at the Grand 16 Movie Theater in Lafayette, Louisiana during a showing of "Trainwreck". ](/news/2015/07/23/seven-people-are-wounded-and-three-are-dead-including-the-shooter-after-a-58-year-old-gunman-opens-fire-at-the-grand-16-movie-theater-in.md)
-_Context: opens fire, Trainwreck, Lafayette, Louisiana_
+_Context: Lafayette, Louisiana, opens fire, Trainwreck_
 
 ##### NASA
 ### [NASA scientists announce the discovery of Kepler-452b, the first near-Earth sized exoplanet discovered orbiting the habitable zone of a Sun-like star. ](/news/2015/07/23/nasa-scientists-announce-the-discovery-of-kepler-452b-the-first-near-earth-sized-exoplanet-discovered-orbiting-the-habitable-zone-of-a-sun.md)

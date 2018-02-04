@@ -9,7 +9,7 @@ Amnesty International says at least 200 civilians died in the first two months o
 
 ##### Boko Haram insurgency
 ### [An overnight raid by suspected Boko Haram militants on Niger's southern border town of Abadam, kills two Nigerien Army soldiers and three civilians. And, separately, a suicide-bomb attack on Lake Chad killed three of the attackers but no one else. A military convoy was also ambushed by militants in northern Cameroon, although there were no reported deaths. ](/news/2015/12/23/an-overnight-raid-by-suspected-boko-haram-militants-on-niger-s-southern-border-town-of-abadam-kills-two-nigerien-army-soldiers-and-three-ci.md)
-_Context: Nigerien soldiers, Far North Region, Niger, Boko Haram insurgency, Lake Chad, Boko Haram_
+_Context: Nigerien soldiers, Boko Haram, Boko Haram insurgency, Far North Region, Lake Chad, Niger_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [Two Palestinian attackers stab passers-by at the Old City's Jaffa Gate in Jerusalem, Israel, killing two and injuring one; the attackers are shot and killed by two Israeli Border Police officers. ](/news/2015/12/23/two-palestinian-attackers-stab-passers-by-at-the-old-city-s-jaffa-gate-in-jerusalem-israel-killing-two-and-injuring-one-the-attackers-are.md)
@@ -53,7 +53,7 @@ A government accountability nonprofit wants to see if Defense Secretary Ash Cart
 
 ##### DC police
 ### [A Metropolitan Police Department of the District of Columbia report reveals that an agent with the Presidential Protective Service of the United States Secret Service had his weapon, shield, and other professional equipage stolen from his vehicle in broad daylight in downtown Washington, D.C. ](/news/2015/12/23/a-metropolitan-police-department-of-the-district-of-columbia-report-reveals-that-an-agent-with-the-presidential-protective-service-of-the-un.md)
-_Context: DC police, Washington, D.C., United States Secret Service_
+_Context: Washington, D.C., United States Secret Service, DC police_
 
 ##### Russia
 ### [Russia issues an international arrest warrant for former oil tycoon Mikhail Khodorkovsky on charges of organizing the murder of Vladimir Petukhov, mayor of Nefteyugansk in 1998. ](/news/2015/12/23/russia-issues-an-international-arrest-warrant-for-former-oil-tycoon-mikhail-khodorkovsky-on-charges-of-organizing-the-murder-of-vladimir-pet.md)
@@ -61,7 +61,7 @@ Former oil tycoon says order to have him arrested in absentia over alleged murde
 
 ##### election
 ### [Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. ](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-socialist-workers-party-psoe-rejects-a-pact-with-the-ruling-people-s-party-pp-we-say-no-t.md)
-_Context: People's Party, Spain, Socialist Workers' Party, election, Pedro Sanchez, Prime Minister, Mariano Rajoy_
+_Context: Prime Minister, Mariano Rajoy, Pedro Sanchez, election, Spain, People's Party, Socialist Workers' Party_
 
 ##### Prime Minister of Georgia
 ### [ Prime Minister of Georgia Irakli Garibashvili unexpectedly announces his resignation, without giving any specific reason for his decision. ](/news/2015/12/23/prime-minister-of-georgia-irakli-garibashvili-unexpectedly-announces-his-resignation-without-giving-any-specific-reason-for-his-decision.md)

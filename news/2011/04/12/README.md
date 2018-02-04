@@ -13,15 +13,15 @@ An unofficial Chinese church says it will continue to hold outdoor services, aft
 
 ##### Fukushima I nuclear accidents
 ### [The Government of Japan raises the crisis level of the accidents to level 7, the highest level on the international scale and equivalent to the Chernobyl disaster. ](/news/2011/04/12/the-government-of-japan-raises-the-crisis-level-of-the-accidents-to-level-7-the-highest-level-on-the-international-scale-and-equivalent-to.md)
-_Context: Fukushima I nuclear accidents, Japanese government, Chernobyl disaster_
+_Context: Japanese government, Chernobyl disaster, Fukushima I nuclear accidents_
 
 ##### state of emergency
 ### [The state of emergency in New Zealand following the 2011 Canterbury earthquake is extended for another week. ](/news/2011/04/12/the-state-of-emergency-in-new-zealand-following-the-2011-canterbury-earthquake-is-extended-for-another-week.md)
-_Context: New Zealand, state of emergency, 2011 Canterbury earthquake_
+_Context: state of emergency, New Zealand, 2011 Canterbury earthquake_
 
 ##### Israeli-Palestinian conflict
 ### [Israeli Prime Minister Benjamin Netanyahu mulls withdrawing IDF forces from parts of the West Bank and handing over full security control to the Palestinian Authority to demonstrate an Israeli diplomatic initiative that would block a possible "diplomatic tsunami" that could follow international recognition of a Palestinian state. ](/news/2011/04/12/israeli-prime-minister-benjamin-netanyahu-mulls-withdrawing-idf-forces-from-parts-of-the-west-bank-and-handing-over-full-security-control-to.md)
-_Context: Benjamin Netanyahu, West Bank, Israeli-Palestinian conflict, Israel Defense Forces, Palestinian Authority_
+_Context: Benjamin Netanyahu, Israel Defense Forces, Palestinian Authority, West Bank, Israeli-Palestinian conflict_
 
 ##### 
 ### [Pakistan seeks CIA reduction in the country by 25%-40% ](/news/2011/04/12/pakistan-seeks-cia-reduction-in-the-country-by-25-40.md)
@@ -45,11 +45,11 @@ _Context: nomination, Tim Pawlenty, Minnesota Governor_
 
 ##### Canadian
 ### [Leaders of Canada's major political parties hold an English language debate for the Canadian federal election. ](/news/2011/04/12/leaders-of-canada-s-major-political-parties-hold-an-english-language-debate-for-the-canadian-federal-election.md)
-_Context: 2011 Canadian federal election, Canadian_
+_Context: Canadian, 2011 Canadian federal election_
 
 ##### Senate
 ### [The Senate of the US state of North Carolina pardons former Governor William Woods Holden who was impeached in 1871 because of his suspension of habeas corpus in the process of battling the Ku Klux Klan terror campaign. ](/news/2011/04/12/the-senate-of-the-us-state-of-north-carolina-pardons-former-governor-william-woods-holden-who-was-impeached-in-1871-because-of-his-suspensio.md)
-_Context: Senate, North Carolina, William Woods Holden, Ku Klux Klan, Governor, habeas corpus_
+_Context: Senate, Governor, habeas corpus, Ku Klux Klan, William Woods Holden, North Carolina_
 
 ## [Previous Day...](/news/2011/04/11/index.md)
 

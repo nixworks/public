@@ -43,7 +43,7 @@ About 1,500 anti-government protesters have forced their way into the compound o
 ### [With their demands not being met, protests are scheduled to continue until at least Sunday 1 December 2013. ](/news/2013/11/29/with-their-demands-not-being-met-protests-are-scheduled-to-continue-until-at-least-sunday-1-december-2013.md)
 ##### Comet
 ### [At least part of Comet C-2012 S1 (also known as Comet Ison) emerged from behind the Sun's corona. ](/news/2013/11/29/at-least-part-of-comet-c-2012-s1-also-known-as-comet-ison-emerged-from-behind-the-sun-s-corona.md)
-_Context: corona, Sun, Comet, C/2012 S1_
+_Context: C/2012 S1, corona, Comet, Sun_
 
 ## [Previous Day...](/news/2013/11/28/index.md)
 

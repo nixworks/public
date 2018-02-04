@@ -5,19 +5,19 @@ Formats: [HTML](2009/05/6/index.html)  [JSON](2009/05/6/index.json)  [XML](2009/
 
 ##### European Parliament
 ### [ The European Parliament delays its planned reform of the European Union's telecommunications policy. ](/news/2009/05/6/the-european-parliament-delays-its-planned-reform-of-the-european-union-s-telecommunications-policy.md)
-_Context: European Parliament, telecom, reform, European Union_
+_Context: reform, European Parliament, telecom, European Union_
 
 ##### United States
 ### [ The United States Supervisory Capital Assessment Program finds that financial services companies JPMorgan Chase, and American Express do not need more capital from the Troubled Asset Relief Program. ](/news/2009/05/6/the-united-states-supervisory-capital-assessment-program-finds-that-financial-services-companies-jpmorgan-chase-and-american-express-do-no.md)
-_Context: capital, Troubled Asset Relief Program, stress test, United States, JPMorgan Chase, financial services, American Express, companies_
+_Context: United States, stress test, JPMorgan Chase, companies, capital, financial services, American Express, Troubled Asset Relief Program_
 
 ##### car bomb
 ### [ A car bomb kills at least ten people and injures 30 others in Dora, Baghdad, Iraq. ](/news/2009/05/6/a-car-bomb-kills-at-least-ten-people-and-injures-30-others-in-dora-baghdad-iraq.md)
-_Context: Dora, Iraq, car bomb, Baghdad_
+_Context: car bomb, Baghdad, Iraq, Dora_
 
 ##### Taliban
 ### [ The Taliban captures Mingora, Swat, Pakistan. ](/news/2009/05/6/the-taliban-captures-mingora-swat-pakistan.md)
-_Context: Taliban, Swat, Pakistan, Pakistan, Mingora, War in North-West Pakistan_
+_Context: Taliban, Swat, Pakistan, War in North-West Pakistan, Pakistan, Mingora_
 
 ##### Czech Republic
 ### [ Czech President Vaclav Klaus postpones his signing of the Senate-approved Treaty of Lisbon. ](/news/2009/05/6/czech-president-va-clav-klaus-postpones-his-signing-of-the-senate-approved-treaty-of-lisbon.md)
@@ -29,11 +29,11 @@ _Context: Guinea, withdraws, ambassador_
 
 ##### Somalia
 ### [ Somali pirates hijack Germany's MV "Victoria" and release the United Arab Emirates' MV "Al Meezan". ](/news/2009/05/6/somali-pirates-hijack-germany-s-mv-victoria-and-release-the-united-arab-emirates-mv-al-meezan.md)
-_Context: Somalia, United Arab Emirates, MV, pirate, Somali pirates, German_
+_Context: MV, United Arab Emirates, pirate, German, Somali pirates, Somalia_
 
 ##### U.S. state
 ### [ The U.S. state of Maine legalizes same-sex marriage. ](/news/2009/05/6/the-u-s-state-of-maine-legalizes-same-sex-marriage.md)
-_Context: U.S. state, same-sex marriage, legalizes, Maine_
+_Context: legalizes, Maine, same-sex marriage, U.S. state_
 
 ## [Previous Day...](/news/2009/05/5/index.md)
 

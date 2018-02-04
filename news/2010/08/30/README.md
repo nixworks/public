@@ -29,11 +29,11 @@ Four&#x20;Ugandan&#x20;peacekeepers&#x20;were&#x20;killed&#x20;in&#x20;Mogadishu
 
 ##### rocket launcher
 ### [4 people are killed and 3 others are injured due to a rocket launcher explosion in Pursat Province, northwestern Cambodia. ](/news/2010/08/30/4-people-are-killed-and-3-others-are-injured-due-to-a-rocket-launcher-explosion-in-pursat-province-northwestern-cambodia.md)
-_Context: rocket launcher, Cambodia, Pursat Province_
+_Context: Pursat Province, rocket launcher, Cambodia_
 
 ##### Russia
 ### [Two Russian pilots are abducted in Sudan's western Darfur region. ](/news/2010/08/30/two-russian-pilots-are-abducted-in-sudan-s-western-darfur-region.md)
-_Context: Sudan, Russia, Darfur_
+_Context: Russia, Darfur, Sudan_
 
 ##### Nigeria
 ### [Gunmen kidnap a politician in southern Nigeria, days after a supporter of President Goodluck Jonathan was also kidnapped. ](/news/2010/08/30/gunmen-kidnap-a-politician-in-southern-nigeria-days-after-a-supporter-of-president-goodluck-jonathan-was-also-kidnapped.md)
@@ -113,7 +113,7 @@ _Context: Blackberry, India_
 
 ##### Indonesia
 ### [Indonesian detainees continue to riot at the Northern Immigration Detention Facility. ](/news/2010/08/30/indonesian-detainees-continue-to-riot-at-the-northern-immigration-detention-facility.md)
-_Context: Northern Territory, centres, Indonesia_
+_Context: centres, Northern Territory, Indonesia_
 
 ##### South Africa
 ### [South African rugby union player Bees Roux of the Bulls is charged with murdering a police officer in Pretoria. ](/news/2010/08/30/south-african-rugby-union-player-bees-roux-of-the-bulls-is-charged-with-murdering-a-police-officer-in-pretoria.md)

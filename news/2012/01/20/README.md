@@ -9,7 +9,7 @@ _Context: 2011-2012 Syrian uprising_
 
 ##### AMISOM
 ### [AMISOM troops raid Islamist hideouts in the Somali capital Mogadishu. ](/news/2012/01/20/amisom-troops-raid-islamist-hideouts-in-the-somali-capital-mogadishu.md)
-_Context: Islamist, Somalia, AMISOM, Mogadishu_
+_Context: Somalia, AMISOM, Islamist, Mogadishu_
 
 ##### Kano
 ### [Several people are killed in a series of bomb explosions in the city of Kano, Nigeria. ](/news/2012/01/20/several-people-are-killed-in-a-series-of-bomb-explosions-in-the-city-of-kano-nigeria.md)
@@ -29,11 +29,11 @@ An Indonesian man who said that God did not exist in a posting on a Facebook pag
 
 ##### Salman Rushdie
 ### [Writer Salman Rushdie withdraws from the Jaipur Literature Festival in India due to new concerns about his possible assassination. ](/news/2012/01/20/writer-salman-rushdie-withdraws-from-the-jaipur-literature-festival-in-india-due-to-new-concerns-about-his-possible-assassination.md)
-_Context: ''The Satanic Verses'' controversy, Jaipur Literature Festival, India, Salman Rushdie_
+_Context: India, ''The Satanic Verses'' controversy, Salman Rushdie, Jaipur Literature Festival_
 
 ##### Chile
 ### [Chile's Supreme Court convicts two retired generals of illegal weapons sales to Croatia in 1991 in violation of a United Nations arms embargo. ](/news/2012/01/20/chile-s-supreme-court-convicts-two-retired-generals-of-illegal-weapons-sales-to-croatia-in-1991-in-violation-of-a-united-nations-arms-embarg.md)
-_Context: Supreme Court, United Nations, Chile, Croatia_
+_Context: Chile, Croatia, United Nations, Supreme Court_
 
 ##### China
 ### [China warns Iran against developing nuclear weapons. ](/news/2012/01/20/china-warns-iran-against-developing-nuclear-weapons.md)
@@ -49,7 +49,7 @@ _Context: 2011-2012 Yemeni uprising, Yemen, Ali Abdullah Saleh, President_
 
 ##### Cuba
 ### [Cuban dissident Wilmar Villar dies after going on hunger strike. ](/news/2012/01/20/cuban-dissident-wilmar-villar-dies-after-going-on-hunger-strike.md)
-_Context: Wilmar Villar, hunger strike, Cuba_
+_Context: hunger strike, Wilmar Villar, Cuba_
 
 ##### Madagascar
 ### [Madagascar's former President Marc Ravalomanana says he will return to the country after three years in exile. ](/news/2012/01/20/madagascar-s-former-president-marc-ravalomanana-says-he-will-return-to-the-country-after-three-years-in-exile.md)

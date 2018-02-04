@@ -13,11 +13,11 @@ West African nation to elect president on Sunday after decades of military rule.
 
 ##### constitutional referendum
 ### [A constitutional referendum in Kyrgyzstan is criticized for fears the country would destabilize. ](/news/2010/06/27/a-constitutional-referendum-in-kyrgyzstan-is-criticized-for-fears-the-country-would-destabilize.md)
-_Context: Kyrgyzstan, constitutional referendum_
+_Context: constitutional referendum, Kyrgyzstan_
 
 ##### Bolivia
 ### [A road accident in Bolivia kills at least 25, injures 44, between Cochabama and Potos. ](/news/2010/06/27/a-road-accident-in-bolivia-kills-at-least-25-injures-44-between-cochabama-and-potosi.md)
-_Context: Bolivia, Potos, Cochabama_
+_Context: Bolivia, Cochabama, Potos_
 
 ##### 2010 FIFA World Cup
 ### [At least 11 people die while watching a 2010 FIFA World Cup match in Matam, Senegal. ](/news/2010/06/27/at-least-11-people-die-while-watching-a-2010-fifa-world-cup-match-in-matam-senegal.md)
@@ -33,7 +33,7 @@ _Context: Ningxia Hui Autonomous Region, China_
 
 ##### Canadian
 ### [Two Canadian medics are killed in Afghanistan, 20 kilometres west of Kandahar City in Panjwaii District. ](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.md)
-_Context: Panjwaii District, Canadian, Kandahar, Afghanistan_
+_Context: Afghanistan, Kandahar, Panjwaii District, Canadian_
 
 ##### Fighter jet
 ### [Fighter jets pounded Taliban hideouts in the upper Orakzai Agency of Pakistan on Saturday, killing 14 Taliban, and injuring eight others. ](/news/2010/06/27/fighter-jets-pounded-taliban-hideouts-in-the-upper-orakzai-agency-of-pakistan-on-saturday-killing-14-taliban-and-injuring-eight-others.md)

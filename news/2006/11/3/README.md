@@ -9,23 +9,23 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### House of Representatives
 ### [ U.S. Rep. Bob Ney of Ohio resigns from Congress after having pleaded guilty to charges relating to Jack Abramoff. ](/news/2006/11/3/u-s-rep-bob-ney-of-ohio-resigns-from-congress-after-having-pleaded-guilty-to-charges-relating-to-jack-abramoff.md)
-_Context: Jack Abramoff, House of Representatives, Bob Ney, Ohio_
+_Context: House of Representatives, Jack Abramoff, Ohio, Bob Ney_
 
 ##### United States
 ### [ The U.S. National Transportation Safety Board states that a stiff wind blew the plane carrying New York Yankees pitcher Cory Lidle off-course and into an apartment building in New York City. ](/news/2006/11/3/the-u-s-national-transportation-safety-board-states-that-a-stiff-wind-blew-the-plane-carrying-new-york-yankees-pitcher-cory-lidle-off-cour.md)
-_Context: United States, New York Yankees, NTSB, New York City, Cory Lidle, into an apartment building_
+_Context: NTSB, United States, Cory Lidle, New York Yankees, into an apartment building, New York City_
 
 ##### World Meteorological Organisation
 ### [ The World Meteorological Organisation reports that greenhouse gases in the atmosphere reached a record high in 2005 and are still increasing. ](/news/2006/11/3/the-world-meteorological-organisation-reports-that-greenhouse-gases-in-the-atmosphere-reached-a-record-high-in-2005-and-are-still-increasin.md)
-_Context: World Meteorological Organisation, greenhouse gases_
+_Context: greenhouse gases, World Meteorological Organisation_
 
 ##### European Commission
 ### [ A draft European Commission report raises new doubts about Turkey's bid to join the European Union. ](/news/2006/11/3/a-draft-european-commission-report-raises-new-doubts-about-turkey-s-bid-to-join-the-european-union.md)
-_Context: Turkish, European Commission, European Union, Accession of Turkey to the European Union_
+_Context: Turkish, Accession of Turkey to the European Union, European Commission, European Union_
 
 ##### Trevor Berbick
 ### [ Trevor Berbick's nephew Harold Berbick is charged with his uncle's murder along with another man in Jamaica. ](/news/2006/11/3/trevor-berbick-s-nephew-harold-berbick-is-charged-with-his-uncle-s-murder-along-with-another-man-in-jamaica.md)
-_Context: Trevor Berbick, Jamaica_
+_Context: Jamaica, Trevor Berbick_
 
 ##### Jackson Pollock
 ### [ Jackson Pollock's "No. 5, 1948" becomes the world's most expensive work of art, after entertainment mogul David Geffen sells the work for US$140 million. ](/news/2006/11/3/jackson-pollockas-no-5-1948-becomes-the-world-s-most-expensive-work-of-art-after-entertainment-mogul-david-geffen-sells-the-work-for.md)
@@ -41,7 +41,7 @@ A federal government Web site, set up to make public Iraqi documents, included s
 
 ##### Australia
 ### [ Australia dispatches two warships, HMAS "Kanimbla" and HMAS "Newcastle", to Fiji to evacuate Australian citizens in the event of a coup. ](/news/2006/11/3/australia-dispatches-two-warships-hmas-kanimbla-and-hmas-newcastle-to-fiji-to-evacuate-australian-citizens-in-the-event-of-a-coup.md)
-_Context: HMAS ''Newcastle'', Australia, Fiji, HMAS ''Kanimbla''_
+_Context: Australia, HMAS ''Newcastle'', Fiji, HMAS ''Kanimbla''_
 
 ##### Conference of Rulers
 ### [ The Conference of Rulers elects Sultan Mizan Zainal Abidin of Terengganu to be the future King of Malaysia from 13 December 2006 onwards. ](/news/2006/11/3/the-conference-of-rulers-elects-sultan-mizan-zainal-abidin-of-terengganu-to-be-the-future-king-of-malaysia-from-13-december-2006-onwards.md)

@@ -13,11 +13,11 @@ French President NicolasSarkozy and a dozen heads of state from around Africa ga
 
 ##### Russia
 ### [ Russia vetoes a plan to extend the United Nations Observer Mission in Georgia. ](/news/2009/06/16/russia-vetoes-a-plan-to-extend-the-united-nations-observer-mission-in-georgia.md)
-_Context: United Nations Observer Mission,  Georgian, Russia_
+_Context:  Georgian, United Nations Observer Mission, Russia_
 
 ##### Brian Friel
 ### [ Playwright Brian Friel is honoured with the Ulysses Medal on Bloomsday at University College Dublin. ](/news/2009/06/16/playwright-brian-friel-is-honoured-with-the-ulysses-medal-on-bloomsday-at-university-college-dublin.md)
-_Context: Ulysses Medal, Bloomsday, Brian Friel, University College Dublin_
+_Context: Bloomsday, University College Dublin, Brian Friel, Ulysses Medal_
 
 ##### Indonesia
 ### [ A coal mine collapses in Indonesia, killing at least six people. ](/news/2009/06/16/a-coal-mine-collapses-in-indonesia-killing-at-least-six-people.md)
@@ -29,7 +29,7 @@ Khalid Sheik Mohammed said during a hearing at Guantanamo, Cuba, that he lied to
 
 ##### China
 ### [ China announces plan to provide a US$ 10 billion credit loan to member states of the Shanghai Cooperation Organisation. ](/news/2009/06/16/china-announces-plan-to-provide-a-us-10-billion-credit-loan-to-member-states-of-the-shanghai-cooperation-organisation.md)
-_Context: US$, China, Shanghai Cooperation Organisation_
+_Context: China, Shanghai Cooperation Organisation, US$_
 
 ##### presidential election
 ### [ Official campaigning for the 2009 presidential election in Afghanistan begins. ](/news/2009/06/16/official-campaigning-for-the-2009-presidential-election-in-afghanistan-begins.md)
@@ -37,11 +37,11 @@ _Context: presidential election, Afghanistan_
 
 ##### General Motors
 ### [ General Motors agrees Saab sale to Koenigsegg ](/news/2009/06/16/general-motors-agrees-saab-sale-to-koenigsegg.md)
-_Context: Saab Automobile, General Motors, Koenigsegg_
+_Context: Koenigsegg, General Motors, Saab Automobile_
 
 ##### Sri Lanka
 ### [ A Sri Lankan government investigation into human rights abuses during its offensive with Tamil Tiger rebels disbands. ](/news/2009/06/16/a-sri-lankan-government-investigation-into-human-rights-abuses-during-its-offensive-with-tamil-tiger-rebels-disbands.md)
-_Context: government, LTTE, human rights, offensive, Sri Lanka_
+_Context: human rights, offensive, Sri Lanka, LTTE, government_
 
 ##### Irish
 ### [ 15 laptops containing confidential information owned by Ireland's Health Service Executive are stolen in Roscommon. ](/news/2009/06/16/15-laptops-containing-confidential-information-owned-by-ireland-s-health-service-executive-are-stolen-in-roscommon.md)

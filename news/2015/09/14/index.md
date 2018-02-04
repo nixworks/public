@@ -13,7 +13,7 @@ Taliban militants storm a jail in Ghazni, central Afghanistan, killing at least 
 
 ##### Syrian Civil War
 ### [United States Department of Defense says that Russia has deployed armoured vehicles and troops to Syria in what has been described as the "first clear sign of offensive weapons arriving in Syria" and "the largest deployment of Russian forces outside the former Soviet Union since the collapse of the USSR". ](/news/2015/09/14/united-states-department-of-defense-says-that-russia-has-deployed-armoured-vehicles-and-troops-to-syria-in-what-has-been-described-as-the-f.md)
-_Context: U.S. military, Syria, Soviet, Russian Armed Forces, Syrian Civil War, Russia's role in the Syrian Civil War, Russia, collapse of the USSR_
+_Context: collapse of the USSR, Russia, U.S. military, Soviet, Russian Armed Forces, Russia's role in the Syrian Civil War, Syria, Syrian Civil War_
 
 ##### Brazil
 ### [Brazil announces a $17 billion austerity package after Standard and Poors further downgrades its credit rating. ](/news/2015/09/14/brazil-announces-a-17-billion-austerity-package-after-standard-and-poors-further-downgrades-its-credit-rating.md)
@@ -21,11 +21,11 @@ Brasília (AFP) - Brazil announced a massive $17 billion austerity package Monda
 
 ##### University of Notre Dame
 ### [A University of Notre Dame study finds significant correlation between substantial executive stock options and future product recalls. CEOs with abundant stock options get a huge payoff when the company performs well but endure minute consequences when it doesn't. ](/news/2015/09/14/a-university-of-notre-dame-study-finds-significant-correlation-between-substantial-executive-stock-options-and-future-product-recalls-ceos.md)
-_Context: recall, University of Notre Dame, stock options_
+_Context: University of Notre Dame, stock options, recall_
 
 ##### Kyushu
 ### [Kyushu island's Mount Aso, Japan's largest active volcano, erupts. Numerous flights serving Kumamoto Airport are canceled. ](/news/2015/09/14/kyushu-island-s-mount-aso-japan-s-largest-active-volcano-erupts-numerous-flights-serving-kumamoto-airport-are-canceled.md)
-_Context: Kumamoto Airport, Kyushu, Japan, Mount Aso_
+_Context: Kumamoto Airport, Mount Aso, Kyushu, Japan_
 
 ##### 2015 Pacific typhoon season
 ### [Tropical Storm Vamco makes landfall south of Da Nang, Viet Nam, causing flooding in the region. ](/news/2015/09/14/tropical-storm-vamco-makes-landfall-south-of-da-nang-viet-nam-causing-flooding-in-the-region.md)
@@ -45,11 +45,11 @@ Rail services have resumed between Austria and Germany after all trains were sto
 
 ##### Colombia
 ### [Colombia accuses Venezuela of violating its airspace for the second time in two days. ](/news/2015/09/14/colombia-accuses-venezuela-of-violating-its-airspace-for-the-second-time-in-two-days.md)
-_Context: airspace, Venezuela, Colombia_
+_Context: Colombia, airspace, Venezuela_
 
 ##### professor
 ### [Shannon Lamb, a professor at Delta State University who was suspected of two murders in the U.S. state of Mississippi--the woman he was living with in Gautier and a fellow professor at the Delta State campus in Cleveland--dies from a self-inflicted gunshot wound while being pursued by police. ](/news/2015/09/14/shannon-lamb-a-professor-at-delta-state-university-who-was-suspected-of-two-murders-in-the-u-s-state-of-mississippiathe-woman-he-was-liv.md)
-_Context: Gautier, Mississippi, Delta State University, Cleveland, professor, United States_
+_Context: Cleveland, Mississippi, United States, professor, Delta State University, Gautier_
 
 ##### Rowan County, Kentucky
 ### [In the U.S., Rowan County, Kentucky county clerk Kim Davis, involved in the litigation over same-sex marriage, states she will not block her deputies from issuing marriage licenses, but will not authorize them personally (her name will not appear on them, and they will state that they were given under a federal judicial order). ](/news/2015/09/14/in-the-u-s-rowan-county-kentucky-county-clerk-kim-davis-involved-in-the-litigation-over-same-sex-marriage-states-she-will-not-block-her.md)
@@ -65,7 +65,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### U.S. Preventive Services Task Force
 ### [The U.S. Preventive Services Task Force issues a recommendation stating that, in consultation with their doctor and pharmacist, and provided the risk of gastrointestinal bleeding and the very rare risk of certain hemorrhagic strokes do not outweigh the benefits in individual cases, that people aged 50 to 70 (especially those aged 50-60 and with a 10 percent risk or higher of cardiovascular disease, or CVD; mindful that the risk of bleeding, which can be dangerous, goes up as one ages) should take low-dose aspirin, for a period of at least 10 years, for preventive benefits against CVD and heart attack, as well as colorectal cancer. The evidence is inconclusive for those not at very high risk who are over 70, and below 40, and there is only weak evidence for prevention of lung cancer, breast cancer, and prostate cancer. ](/news/2015/09/14/the-u-s-preventive-services-task-force-issues-a-recommendation-stating-that-in-consultation-with-their-doctor-and-pharmacist-and-provided.md)
-_Context: hemorrhagic stroke, cardiovascular disease, gastrointestinal bleeding, lung cancer, prostate cancer, breast cancer, heart attack, colorectal cancer, U.S. Preventive Services Task Force_
+_Context: lung cancer, heart attack, gastrointestinal bleeding, breast cancer, hemorrhagic stroke, prostate cancer, cardiovascular disease, U.S. Preventive Services Task Force, colorectal cancer_
 
 ## [Previous Day...](/news/2015/09/13/index.md)
 

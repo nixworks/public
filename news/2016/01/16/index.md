@@ -29,7 +29,7 @@ ROME (Reuters) - An explosion probably caused...
 
 ##### Flint, Michigan
 ### [U.S. President Barack Obama declares the city of Flint, Michigan, to be in a federal public health state of emergency due to an ongoing crisis that involves lead contamination (and possibly Legionella which has caused 87 cases of Legionnaires' disease which has led to 10 deaths) in its local water supply. ](/news/2016/01/16/u-s-president-barack-obama-declares-the-city-of-flint-michigan-to-be-in-a-federal-public-health-state-of-emergency-due-to-an-ongoing-cris.md)
-_Context: public health, Legionnaires' disease, Legionella, Flint, Michigan, Flint water crisis, state of emergency, lead contamination_
+_Context: Legionella, public health, Flint, Michigan, Legionnaires' disease, state of emergency, lead contamination, Flint water crisis_
 
 ##### Iran-United States relations
 ### [Iran releases four Iranian-American prisoners including "Washington Post" reporter Jason Rezaian and Christian pastor Saeed Abedini. The United States is to release seven Iranian-Americans held in the United States for violating sanctions against Iran. ](/news/2016/01/16/iran-releases-four-iranian-american-prisoners-including-washington-post-reporter-jason-rezaian-and-christian-pastor-saeed-abedini-the-uni.md)

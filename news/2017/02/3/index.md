@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/3/index.html)  [JSON](2017/02/3/index.json)  [XML](2017/
 
 ##### War in Afghanistan (2015-present)
 ### [According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. ](/news/2017/02/3/according-to-afghan-police-eight-of-their-forces-have-been-killed-by-the-taliban-at-a-checkpoint-in-faryab-province.md)
-_Context: Faryab Province, War in Afghanistan (2015-present), police, Taliban_
+_Context: police, Taliban, War in Afghanistan (2015-present), Faryab Province_
 
 ##### Syrian Civil War
 ### [At least 47 ISIL militants have been killed by Turkish and U.S.-led bombing raids by fighter jets on the town of al-Bab in the last 24 hours, with the Turkish Armed Forces attacking 135 other ISIL targets in northern Syria. ](/news/2017/02/3/at-least-47-isil-militants-have-been-killed-by-turkish-and-u-s-led-bombing-raids-by-fighter-jets-on-the-town-of-al-bab-in-the-last-24-hours.md)
@@ -29,7 +29,7 @@ Rio gold medalist Kyle Snyder among Americans prohibited from competing.
 
 ##### President
 ### [Peruvian President Pedro Pablo Kuczynski's government creates a temporary visa for thousands of Venezuelans whose country is mired in a deep economic crisis. Visa holders will be able to study, work, and receive health services in Peru for a year. "This is part of our migratory policy that aims to build bridges not walls", says Interior Minister Carlos Basombrio. ](/news/2017/02/3/peruvian-president-pedro-pablo-kuczynski-s-government-creates-a-temporary-visa-for-thousands-of-venezuelans-whose-country-is-mired-in-a-deep.md)
-_Context: Interior Minister, Venezuela, President, Pedro Pablo Kuczynski_
+_Context: President, Pedro Pablo Kuczynski, Venezuela, Interior Minister_
 
 ##### Afghan government's
 ### [Per the Afghan government's request, the United Nations drops sanctions against Hezb-e Islami party leader and former Prime Minister Gulbuddin Hekmatyar. This potentially sets up his return to Afghanistan, which is part of the country's peace deal with its second largest militant group, signed in September 2016. ](/news/2017/02/3/per-the-afghan-government-s-request-the-united-nations-drops-sanctions-against-hezb-e-islami-party-leader-and-former-prime-minister-gulbudd.md)

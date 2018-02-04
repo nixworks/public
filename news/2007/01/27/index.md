@@ -17,7 +17,7 @@ Tens of thousands of protesters converged on the National Mall in Washington in 
 
 ##### Serena Williams
 ### [ Serena Williams defeats Maria Sharapova, 6-1, 6-2, at the Australian Open, claiming her 8th Grand Slam victory, her first in two years. ](/news/2007/01/27/serena-williams-defeats-maria-sharapova-6-1-6-2-at-the-australian-open-claiming-her-8th-grand-slam-victory-her-first-in-two-years.md)
-_Context: Maria Sharapova, Grand Slam, Australian Open, Serena Williams_
+_Context: Grand Slam, Serena Williams, Maria Sharapova, Australian Open_
 
 ## [Previous Day...](/news/2007/01/26/index.md)
 

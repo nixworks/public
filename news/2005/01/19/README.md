@@ -9,23 +9,23 @@ _Context: Asian tsunami, 2004 Indian Ocean earthquake, Indonesia_
 
 ##### Muslim
 ### [ Hajj: Around two million Muslims from around the world are converging on Mount Arafat for the most important day of the annual Hajj pilgrimage to Mecca. ](/news/2005/01/19/hajj-around-two-million-muslims-from-around-the-world-are-converging-on-mount-arafat-for-the-most-important-day-of-the-annual-hajj-pilgrim.md)
-_Context: Muslim, Mount Arafat, Hajj, Mecca_
+_Context: Mount Arafat, Mecca, Hajj, Muslim_
 
 ##### Abu Mazen
 ### [ Following negotiations with President Abu Mazen, Zachariya Zubaidi, the leader of the Al Aqsa Martyrs Brigade, has announced that his militant group are to halt attacks inside Israel but said it would continue to strike at Israelis in the West Bank and Gaza Strip. ](/news/2005/01/19/following-negotiations-with-president-abu-mazen-zachariya-zubaidi-the-leader-of-the-al-aqsa-martyrs-brigade-has-announced-that-his-milit.md)
-_Context: Abu Mazen, West Bank, Israel, Gaza Strip, Al Aqsa Martyrs Brigade_
+_Context: Israel, Gaza Strip, Al Aqsa Martyrs Brigade, West Bank, Abu Mazen_
 
 ##### Japan Meteorological Agency
 ### [ Japan Meteorological Agency issues tsunami warnings near the Izu island chain south of Tokyo after a strong undersea earthquake (6.8 on the Richter scale). ](/news/2005/01/19/japan-meteorological-agency-issues-tsunami-warnings-near-the-izu-island-chain-south-of-tokyo-after-a-strong-undersea-earthquake-6-8-on-the.md)
-_Context: Tokyo, tsunami, Japan Meteorological Agency, earthquake, magnitude, Izu_
+_Context: Izu, Japan Meteorological Agency, earthquake, Tokyo, magnitude, tsunami_
 
 ##### Peru
 ### [ In Peru, prime minister Carlos Ferrero and defence minister Roberto Chiabra survive a censure motion in parliament connected to earlier nationalist uprising in January. ](/news/2005/01/19/in-peru-prime-minister-carlos-ferrero-and-defence-minister-roberto-chiabra-survive-a-censure-motion-in-parliament-connected-to-earlier-nat.md)
-_Context: Roberto Chiabra, Peru, Carlos Ferrero, censure_
+_Context: censure, Peru, Carlos Ferrero, Roberto Chiabra_
 
 ##### India
 ### [ The Indian Army says that Pakistan has violated ceasefire after a mortar fire over the military line that divides Kashmir. Pakistan denies the charge. ](/news/2005/01/19/the-indian-army-says-that-pakistan-has-violated-ceasefire-after-a-mortar-fire-over-the-military-line-that-divides-kashmir-pakistan-denies.md)
-_Context: India, Pakistan, Mortar fire, Kashmir, ceasefire_
+_Context: Pakistan, Mortar fire, Kashmir, India, ceasefire_
 
 ##### Indonesia
 ### [ Indonesian foreign minister Hassan Wirayuda says that he wishes to start formal peace talks with Free Aceh Movement. ](/news/2005/01/19/indonesian-foreign-minister-hassan-wirayuda-says-that-he-wishes-to-start-formal-peace-talks-with-free-aceh-movement.md)

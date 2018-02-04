@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/15/index.html)  [JSON](2012/08/15/index.json)  [XML](201
 
 ##### Jalisco New Generation Cartel
 ### [Mexican authorities confirm that the Jalisco New Generation Cartel is responsible for murdering five journalists in the state of Veracruz. This information was confirmed after the arrest of some of the members in the criminal organization. ](/news/2012/08/15/mexican-authorities-confirm-that-the-jalisco-new-generation-cartel-is-responsible-for-murdering-five-journalists-in-the-state-of-veracruz-t.md)
-_Context: more than 80 have been killed, Veracruz, Jalisco New Generation Cartel_
+_Context: Veracruz, more than 80 have been killed, Jalisco New Generation Cartel_
 
 ##### observers
 ### [In Damascus, an explosion at a military compound near a hotel where UN observers are staying is claimed by a Free Syrian Army brigade. ](/news/2012/08/15/in-damascus-an-explosion-at-a-military-compound-near-a-hotel-where-un-observers-are-staying-is-claimed-by-a-free-syrian-army-brigade.md)
@@ -25,7 +25,7 @@ Two people on a bus used by the US band Baroness were injured when it fell 30ft 
 
 ##### Japanese
 ### [Two Japanese cabinet ministers, Jin Matsubara and Yuichiro Hata, visit the controversial Yasukuni Shrine amid territorial disputes with both the People's Republic of China and South Korea. ](/news/2012/08/15/two-japanese-cabinet-ministers-jin-matsubara-and-yuichiro-hata-visit-the-controversial-yasukuni-shrine-amid-territorial-disputes-with-both.md)
-_Context: Yuichiro Hata, Japanese, Yasukuni Shrine, Jin Matsubara, South Korea, China_
+_Context: South Korea, Jin Matsubara, China, Yasukuni Shrine, Yuichiro Hata, Japanese_
 
 ##### High Court of Australia
 ### [The High Court of Australia upholds legislation providing for plain packaging of cigarettes. ](/news/2012/08/15/the-high-court-of-australia-upholds-legislation-providing-for-plain-packaging-of-cigarettes.md)

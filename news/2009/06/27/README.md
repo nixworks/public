@@ -9,19 +9,19 @@ Loyalist paramilitaries groups in Northern Ireland have begun decommissioning th
 
 ##### Brazil
 ### [ Brazil announces it has ended the search for bodies from Air France Flight 447. ](/news/2009/06/27/brazil-announces-it-has-ended-the-search-for-bodies-from-air-france-flight-447.md)
-_Context: Air France, crash of Air France Flight 447, Brazil_
+_Context: Brazil, Air France, crash of Air France Flight 447_
 
 ##### red shirt
 ### [ Thousands of protestors from the National United Front of Democracy Against Dictatorship call on the government to resign in Bangkok, Thailand. ](/news/2009/06/27/thousands-of-protestors-from-the-national-united-front-of-democracy-against-dictatorship-call-on-the-government-to-resign-in-bangkok-thail.md)
-_Context: Bangkok, Thailand, Royal Thai Government, red shirt_
+_Context: red shirt, Royal Thai Government, Thailand, Bangkok_
 
 ##### Saad Hariri
 ### [ Saad al-Hariri is appointed the new Prime Minister of Lebanon. ](/news/2009/06/27/saad-al-hariri-is-appointed-the-new-prime-minister-of-lebanon.md)
-_Context: Saad Hariri, Lebanon, Prime Minister_
+_Context: Lebanon, Prime Minister, Saad Hariri_
 
 ##### Taliban
 ### [ The Taliban claim responsibility for a suicide attack in Pakistan-administered Kashmir which killed two soldiers. ](/news/2009/06/27/the-taliban-claim-responsibility-for-a-suicide-attack-in-pakistan-administered-kashmir-which-killed-two-soldiers.md)
-_Context: Kashmir, Taliban, Pakistan-administered Kashmir_
+_Context: Kashmir, Pakistan-administered Kashmir, Taliban_
 
 ##### NATO
 ### [ NATO and Russia agree to restore military ties after a 10 month period following the 2008 war in Georgia. ](/news/2009/06/27/nato-and-russia-agree-to-restore-military-ties-after-a-10-month-period-following-the-2008-war-in-georgia.md)

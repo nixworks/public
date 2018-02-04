@@ -9,9 +9,9 @@ At least 125 people have been killed in two separate bomb attacks in Baghdad, Ir
 
 ##### Libya
 ### [Libya's National Oil Corporation agrees to merge with the rival company of the same name in the east of the country after being split by the two rival governments. ](/news/2016/07/3/libya-s-national-oil-corporation-agrees-to-merge-with-the-rival-company-of-the-same-name-in-the-east-of-the-country-after-being-split-by-the.md)
-_Context: National Oil Corporation, Libya_
+_Context: Libya, National Oil Corporation_
 
-##### Khyber Pakhtunkhwa
+##### Northwestern Pakistan
 ### [At least 31 people are killed and several more remain missing after flash floods ravage the Khyber Pakhtunkhwa province of Pakistan. ](/news/2016/07/3/at-least-31-people-are-killed-and-several-more-remain-missing-after-flash-floods-ravage-the-khyber-pakhtunkhwa-province-of-pakistan.md)
 Several others remain missing after torrential rain causes havoc in the Khyber Pakhtunkhwa province.
 
@@ -25,7 +25,7 @@ Swiss-EU talks reveal determination of EU to make no concessions to UK over Brex
 
 ##### drug crackdown
 ### [Ten people are killed by the Philippine National Police within a week after Rodrigo Duterte took office as president and made statements encouraging the murder of illegal drug addicts. ](/news/2016/07/3/ten-people-are-killed-by-the-philippine-national-police-within-a-week-after-rodrigo-duterte-took-office-as-president-and-made-statements-enc.md)
-_Context: illegal drug, Philippine National Police, Rodrigo Duterte, addicts, drug crackdown_
+_Context: Rodrigo Duterte, addicts, drug crackdown, Philippine National Police, illegal drug_
 
 ##### last month's presidential election
 ### [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md)

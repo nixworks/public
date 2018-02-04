@@ -5,7 +5,7 @@ Formats: [HTML](2008/12/17/index.html)  [JSON](2008/12/17/index.json)  [XML](200
 
 ##### Ruins of an entire ancient city
 ### [ Ruins of an entire ancient city belonging to the Wari culture are discovered in northern Peru. ](/news/2008/12/17/ruins-of-an-entire-ancient-city-belonging-to-the-wari-culture-are-discovered-in-northern-peru.md)
-_Context: Wari culture, Ruins of an entire ancient city, Peru_
+_Context: Wari culture, Peru, Ruins of an entire ancient city_
 
 ##### South Korea
 ### [ South Korean actress Ok So-ri is given an eight-month suspended prison sentence for adultery after the Constitutional Court refused to strike down a law criminalizing adultery. ](/news/2008/12/17/south-korean-actress-ok-so-ri-is-given-an-eight-month-suspended-prison-sentence-for-adultery-after-the-constitutional-court-refused-to-stri.md)
@@ -17,11 +17,11 @@ The Iraqi journalist who threw his shoes at President George W Bush has appeared
 
 ##### State Department
 ### [ A U.S. State Department panel recommends that Blackwater Worldwide should be dropped as the main private security contractor for American diplomats in Iraq. ](/news/2008/12/17/a-u-s-state-department-panel-recommends-that-blackwater-worldwide-should-be-dropped-as-the-main-private-security-contractor-for-american-d.md)
-_Context: State Department, Blackwater Worldwide, civilian contractor_
+_Context: civilian contractor, State Department, Blackwater Worldwide_
 
 ##### United Nations
 ### [ The United Nations passes a resolution authorizing foreign countries to conduct military raids on land or by sea in pursuit of Somali pirates. ](/news/2008/12/17/the-united-nations-passes-a-resolution-authorizing-foreign-countries-to-conduct-military-raids-on-land-or-by-sea-in-pursuit-of-somali-pirat.md)
-_Context: Somalia, Somali pirates, United Nations_
+_Context: Somali pirates, Somalia, United Nations_
 
 ## [Previous Day...](/news/2008/12/16/index.md)
 

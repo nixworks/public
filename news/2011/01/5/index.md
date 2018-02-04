@@ -5,15 +5,15 @@ Formats: [HTML](2011/01/5/index.html)  [JSON](2011/01/5/index.json)  [XML](2011/
 
 ##### Clarence House
 ### [Clarence House confirms that Prince William and Catherine Middleton will be married by the Archbishop of Canterbury, Dr Rowan Williams. ](/news/2011/01/5/clarence-house-confirms-that-prince-william-and-catherine-middleton-will-be-married-by-the-archbishop-of-canterbury-dr-rowan-williams.md)
-_Context: Catherine, Duchess of Cambridge, Duke of Cambridge, Archbishop of Canterbury, 2011 Royal Wedding, Clarence House, Rowan Williams_
+_Context: Rowan Williams, 2011 Royal Wedding, Clarence House, Archbishop of Canterbury, Catherine, Duchess of Cambridge, Duke of Cambridge_
 
 ##### Sweden
 ### [Swedish actor Per Oscarsson and his wife Kia Ostling are confirmed dead by dental records after a fire destroyed the couple's house in Skara and the couple perished on December 30, 2010. ](/news/2011/01/5/swedish-actor-per-oscarsson-and-his-wife-kia-astling-are-confirmed-dead-by-dental-records-after-a-fire-destroyed-the-couple-s-house-in-skar.md)
-_Context: Sweden, Per Oscarsson, Skara, Kia Ostling_
+_Context: Kia Ostling, Sweden, Per Oscarsson, Skara_
 
 ##### Iran
 ### [Iran and India develop a stop-gap plan to continue the flow of oil from the former to the latter, and payments in the opposite direction, days after India withdrew from the Asian Clearing Union. The new plan involves payments through the EIH Bank, in Hamburg, Germany. ](/news/2011/01/5/iran-and-india-develop-a-stop-gap-plan-to-continue-the-flow-of-oil-from-the-former-to-the-latter-and-payments-in-the-opposite-direction-da.md)
-_Context: EIH Bank, India, Asian Clearing Union, Iran_
+_Context: India, EIH Bank, Asian Clearing Union, Iran_
 
 ##### Millard South High School
 ### [A 17-year-old student at Millard South High School, in Omaha, Nebraska, shoots an assistant principal to death and wounds the school principal before turning the gun onto himself. ](/news/2011/01/5/a-17-year-old-student-at-millard-south-high-school-in-omaha-nebraska-shoots-an-assistant-principal-to-death-and-wounds-the-school-princip.md)
@@ -45,7 +45,7 @@ Mohamed Bouazizi, the 26-year-old unemployed man whose self-immolation sparked n
 
 ##### Nigeria
 ### [The Nigerian opposition Congress for Progressive Change party select former military ruler Muhammadu Buhari as its presidential candidate for April elections. ](/news/2011/01/5/the-nigerian-opposition-congress-for-progressive-change-party-select-former-military-ruler-muhammadu-buhari-as-its-presidential-candidate-fo.md)
-_Context: Muhammadu Buhari, Congress for Progressive Change, Nigeria, presidential election_
+_Context: presidential election, Nigeria, Congress for Progressive Change, Muhammadu Buhari_
 
 ##### Kuwait
 ### [Kuwaiti Prime Minister Nasser Mohammed Al-Ahmed Al-Sabah narrowly survives a no confidence vote, following a crackdown at an opposition demonstration in December. ](/news/2011/01/5/kuwaiti-prime-minister-nasser-mohammed-al-ahmed-al-sabah-narrowly-survives-a-no-confidence-vote-following-a-crackdown-at-an-opposition-demo.md)

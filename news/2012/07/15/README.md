@@ -25,7 +25,7 @@ At least 39 people die as a bus transporting Hindu pilgrims from India swerves o
 
 ##### Hand, foot and mouth disease
 ### [Hand, foot and mouth disease kills 149 people in Hunan, China. ](/news/2012/07/15/hand-foot-and-mouth-disease-kills-149-people-in-hunan-china.md)
-_Context: Hunan, Hand, foot and mouth disease, China_
+_Context: China, Hand, foot and mouth disease, Hunan_
 
 ##### tornado
 ### [One person is killed and ten are injured by a tornado in north west Poland ](/news/2012/07/15/one-person-is-killed-and-ten-are-injured-by-a-tornado-in-north-west-poland.md)
@@ -37,7 +37,7 @@ Rwanda and the Democratic Republic of Congo have agreed to allow a neutral inter
 
 ##### Saudi Arabia
 ### [Saudi Arabia decides to donate $100 million to the Palestinian Authority. ](/news/2012/07/15/saudi-arabia-decides-to-donate-100-million-to-the-palestinian-authority.md)
-_Context: Saudi Arabia, the Palestinian Authority_
+_Context: the Palestinian Authority, Saudi Arabia_
 
 ##### Russia
 ### [Saudi Arabia criticises comments by Russia about the human rights situation in the country, calling them "hostile". ](/news/2012/07/15/saudi-arabia-criticises-comments-by-russia-about-the-human-rights-situation-in-the-country-calling-them-hostile.md)
@@ -49,7 +49,7 @@ The African Union breaks months of deadlock over its choice of leader, electing 
 
 ##### US Secretary of State
 ### [Egyptian protesters throw tomatoes and shoes at US Secretary of State Hillary Clinton's motorcade during her first visit to the country since the election of President Mohamed Morsi. ](/news/2012/07/15/egyptian-protesters-throw-tomatoes-and-shoes-at-us-secretary-of-state-hillary-clinton-s-motorcade-during-her-first-visit-to-the-country-sinc.md)
-_Context: US Secretary of State, Hillary Clinton, Mohamed Morsi_
+_Context: Hillary Clinton, Mohamed Morsi, US Secretary of State_
 
 ##### Jason Kidd
 ### [Jason Kidd is arrested by Southampton Town police for alleged drunken driving. ](/news/2012/07/15/jason-kidd-is-arrested-by-southampton-town-police-for-alleged-drunken-driving.md)
@@ -57,7 +57,7 @@ Jason Kidd was reportedly arrested early Sunday morning for alleged drunken driv
 
 ##### Israelis
 ### [Hundreds of Israeli protesters gather in Tel Aviv, Jerusalem, Haifa and Beersheba to show their solidarity with the man who self immolated on 14 July 2012. ](/news/2012/07/15/hundreds-of-israeli-protesters-gather-in-tel-aviv-jerusalem-haifa-and-beersheba-to-show-their-solidarity-with-the-man-who-self-immolated-o.md)
-_Context: Beersheba, Jerusalem, Haifa, Israelis, Tel Aviv_
+_Context: Tel Aviv, Israelis, Haifa, Beersheba, Jerusalem_
 
 ##### Soyuz rocket
 ### [A Russian Soyuz rocket begins its mission to the International Space Station with three international crew members. ](/news/2012/07/15/a-russian-soyuz-rocket-begins-its-mission-to-the-international-space-station-with-three-international-crew-members.md)

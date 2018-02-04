@@ -9,11 +9,11 @@ _Context: Jordan River, Israel, Jordan_
 
 ##### Israel
 ### [ Israeli Prime Minister Ariel Sharon calls on French Jews to move to Israel immediately in light of the dramatic rise in French anti-semitism (510 anti-semitic acts or threats in the first six months of 2004, compared to 593 for all of 2003). The French government describes his comments as unacceptable. An Israeli spokesperson later claims that Sharon had been misunderstood. ](/news/2004/07/19/israeli-prime-minister-ariel-sharon-calls-on-french-jews-to-move-to-israel-immediately-in-light-of-the-dramatic-rise-in-french-anti-semitis.md)
-_Context: anti-semitic, Israeli Prime Minister, Ariel Sharon, Israel_
+_Context: Israeli Prime Minister, Israel, Ariel Sharon, anti-semitic_
 
 ##### Amnesty International
 ### [ Amnesty International releases its report citing systematic killing, torturing and gang raping of females from ages 8 to 80 by Muslim Arab Janjaweed militia in the Darfur region of Sudan. ](/news/2004/07/19/amnesty-international-releases-its-report-citing-systematic-killing-torturing-and-gang-raping-of-females-from-ages-8-to-80-by-muslim-arab.md)
-_Context: Sudan, Amnesty International, Arab, Darfur, Janjaweed_
+_Context: Arab, Sudan, Janjaweed, Darfur, Amnesty International_
 
 ##### Sudan
 ### [ A Sudanese court sentences 10 Janjaweed militiamen to amputation and imprisonment for looting and killing in Darfur. ](/news/2004/07/19/a-sudanese-court-sentences-10-janjaweed-militiamen-to-amputation-and-imprisonment-for-looting-and-killing-in-darfur.md)
@@ -21,7 +21,7 @@ _Context: Janjaweed, Sudan, looting_
 
 ##### Yasser Arafat
 ### [ Yasser Arafat, President of the Palestinian Authority, seeking to quiet unrest in the Gaza Strip reinstates Abdel-Razek al-Majaideh, demoting his cousin Moussa Arafat who was appointed just three days ago. ](/news/2004/07/19/yasser-arafat-president-of-the-palestinian-authority-seeking-to-quiet-unrest-in-the-gaza-strip-reinstates-abdel-razek-al-majaideh-demoti.md)
-_Context: Yasser Arafat, Palestinian Authority, Gaza Strip_
+_Context: Gaza Strip, Palestinian Authority, Yasser Arafat_
 
 ##### Hezbollah
 ### [ Hezbollah official Ghalib Awali is killed in an explosion in Beirut, Lebanon. The governments of Syria and Lebanon blame Israel. A statement attributed to underground Sunni Muslim group Jund as-Sham claims responsibility for the attack against "Shiite infidels"; later, the group denies involvement in the bombing and proclaims its solidarity with Shiites and Hezbollah. ](/news/2004/07/19/hezbollah-official-ghalib-awali-is-killed-in-an-explosion-in-beirut-lebanon-the-governments-of-syria-and-lebanon-blame-israel-a-statemen.md)

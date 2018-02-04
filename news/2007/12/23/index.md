@@ -5,19 +5,19 @@ Formats: [HTML](2007/12/23/index.html)  [JSON](2007/12/23/index.json)  [XML](200
 
 ##### Thailand
 ### [ Thailand's People Power Party, led by Samak Sundaravej, wins the 2007 general elections. ](/news/2007/12/23/thailand-s-people-power-party-led-by-samak-sundaravej-wins-the-2007-general-elections.md)
-_Context: 2007 general elections, Thailand, Samak Sundaravej, People's Power Party_
+_Context: People's Power Party, 2007 general elections, Thailand, Samak Sundaravej_
 
 ##### Saudi Arabia
 ### [ Saudi police arrest 28 men for allegedly planning terrorist attacks against holy sites in Mecca and Medina. ](/news/2007/12/23/saudi-police-arrest-28-men-for-allegedly-planning-terrorist-attacks-against-holy-sites-in-mecca-and-medina.md)
-_Context: terrorist attacks, Saudi Arabia, Mecca, Medina_
+_Context: Mecca, Saudi Arabia, terrorist attacks, Medina_
 
 ##### India
 ### [ India's Bharatiya Janata Party win elections in the state of Gujarat. ](/news/2007/12/23/india-s-bharatiya-janata-party-win-elections-in-the-state-of-gujarat.md)
-_Context: Gujarat, India, Bharatiya Janata Party_
+_Context: India, Gujarat, Bharatiya Janata Party_
 
 ##### Nepal
 ### [ The Nepalese legislature agrees to abolish the country's 240-year-old monarchy. ](/news/2007/12/23/the-nepalese-legislature-agrees-to-abolish-the-country-s-240-year-old-monarchy.md)
-_Context: Nepal, no sitting national Legislature, monarchy_
+_Context: monarchy, Nepal, no sitting national Legislature_
 
 ## [Previous Day...](/news/2007/12/22/index.md)
 

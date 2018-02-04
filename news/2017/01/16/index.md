@@ -21,7 +21,7 @@ Cagayan de Oro City is now under “orange alert,” paving the way for preempti
 
 ##### War in Donbass
 ### [Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged-in-acts-of-terrorism-and-discrimination.md)
-_Context: International Court of Justice, Crimea, eastern Ukraine, Russia, Russia-Ukraine relations, Ukraine, War in Donbass_
+_Context: Crimea, War in Donbass, Russia, International Court of Justice, eastern Ukraine, Russia-Ukraine relations, Ukraine_
 
 ##### Egypt-Saudi Arabia relations
 ### [A top Egyptian court rules against giving away the two Red Sea islands of Tiran and Sanafir to Saudi Arabia. ](/news/2017/01/16/a-top-egyptian-court-rules-against-giving-away-the-two-red-sea-islands-of-tiran-and-sanafir-to-saudi-arabia.md)
@@ -45,11 +45,11 @@ Two Canadians, an Italian and a Colombian are among those killed at the Playa de
 
 ##### Omar Mateen
 ### [Noor Salman, the wife of Omar Mateen who committed the 2016 Orlando mass shooting is arrested and charged with obstructing the investigation of the case. ](/news/2017/01/16/noor-salman-the-wife-of-omar-mateen-who-committed-the-2016-orlando-mass-shooting-is-arrested-and-charged-with-obstructing-the-investigation.md)
-_Context: 2016 Orlando mass shooting, Omar Mateen_
+_Context: Omar Mateen, 2016 Orlando mass shooting_
 
 ##### Abdulkadir Masharipov
 ### [Abdulkadir Masharipov, suspected of killing 39 people in the 2017 Istanbul nightclub shooting, is arrested in Istanbul's Esenyurt district. ](/news/2017/01/16/abdulkadir-masharipov-suspected-of-killing-39-people-in-the-2017-istanbul-nightclub-shooting-is-arrested-in-istanbul-s-esenyurt-district.md)
-_Context: Esenyurt, Istanbul, Abdulkadir Masharipov, 2017 Istanbul nightclub shooting_
+_Context: Esenyurt, 2017 Istanbul nightclub shooting, Abdulkadir Masharipov, Istanbul_
 
 ##### Syrian Civil War
 ### [The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan-in-order-to-press-for-a-ceasefire-to-the.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/3/index.html)  [JSON](2015/04/3/index.json)  [XML](2015/
 
 ##### SGBPo Paulo
 ### [ Five people die in a helicopter crash in a SGBPo Paulo residential area, including the son of Governor Geraldo Alckmin. ](/news/2015/04/3/five-people-die-in-a-helicopter-crash-in-a-sagbpo-paulo-residential-area-including-the-son-of-governor-geraldo-alckmin.md)
-_Context: Geraldo Alckmin, SGBPo Paulo, Governor_
+_Context: Geraldo Alckmin, Governor, SGBPo Paulo_
 
 ##### flight data recorder
 ### [Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. ](/news/2015/04/3/data-from-the-flight-data-recorder-reveals-that-the-plane-was-deliberately-accelerated-before-crashing-into-the-french-alps.md)
@@ -17,7 +17,7 @@ Egyptian security sources say at least 15 soldiers and two civilians have been k
 
 ##### Yemeni Crisis (2011-present)
 ### [ Saudi Arabia donates a plethora of weapons and medical supplies to the conflict by dropping them over Tawahi. ](/news/2015/04/3/saudi-arabia-donates-a-plethora-of-weapons-and-medical-supplies-to-the-conflict-by-dropping-them-over-tawahi.md)
-_Context: Saudi Arabia, Yemeni Crisis (2011-present), Tawahi_
+_Context: Yemeni Crisis (2011-present), Tawahi, Saudi Arabia_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu disagrees with the Iranian nuclear program agreement that the P5+1 Nations offered to Iran, saying it threatens Israel. ](/news/2015/04/3/israeli-prime-minister-benjamin-netanyahu-disagrees-with-the-iranian-nuclear-program-agreement-that-the-p5-1-nations-offered-to-iran-saying.md)
@@ -25,7 +25,7 @@ Security cabinet united in opposition to Iran deal as Netanyahu tells Obama nucl
 
 ##### Google
 ### [ Plaintiffs withdraw a lawsuit against Google that had asserted that it was illegally tying its licensing of the Android operating system to the favorable treatment of Google apps. ](/news/2015/04/3/plaintiffs-withdraw-a-lawsuit-against-google-that-had-asserted-that-it-was-illegally-tying-its-licensing-of-the-android-operating-system-to.md)
-_Context: Android, Google, mobile applications_
+_Context: Android, mobile applications, Google_
 
 ##### Atlantic Ocean
 ### [ An American sailor who was lost for 66 days in the Atlantic Ocean is found by a German tanker. He survived on a diet of solely raw fish and rainwater. ](/news/2015/04/3/an-american-sailor-who-was-lost-for-66-days-in-the-atlantic-ocean-is-found-by-a-german-tanker-he-survived-on-a-diet-of-solely-raw-fish-and.md)
@@ -41,7 +41,7 @@ _Context: Piet de Jong, Prime Minister, 100th birthday_
 
 ##### Vice President
 ### [ Former Vice President of Zimbabwe Joice Mujuru is expelled from the ruling party for allegedly planning a coup against President Robert Mugabe. ](/news/2015/04/3/former-vice-president-of-zimbabwe-joice-mujuru-is-expelled-from-the-ruling-party-for-allegedly-planning-a-coup-against-president-robert-mug.md)
-_Context: President of Zimbabwe, ZANU-PF, coup, Joice Mujuru, Vice President, Robert Mugabe_
+_Context: coup, Joice Mujuru, ZANU-PF, Vice President, President of Zimbabwe, Robert Mugabe_
 
 ## [Previous Day...](/news/2015/04/2/index.md)
 

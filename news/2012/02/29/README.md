@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/29/index.html)  [JSON](2012/02/29/index.json)  [XML](201
 
 ##### Xinjiang
 ### [Violence in the Xinjiang region of China leaves 20 people dead. ](/news/2012/02/29/violence-in-the-xinjiang-region-of-china-leaves-20-people-dead.md)
-_Context: China, Xinjiang_
+_Context: Xinjiang, China_
 
 ##### United Nations
 ### [A United Nations official claims that Syrian government activities have caused "well over 7,500 deaths" in the Syrian uprising. ](/news/2012/02/29/a-united-nations-official-claims-that-syrian-government-activities-have-caused-well-over-7-500-deaths-in-the-syrian-uprising.md)
@@ -33,15 +33,15 @@ The decision Wednesday appeared to signal the end of the worst crisis in relatio
 
 ##### Jenny Tonge
 ### [In the British parliament Baroness Jenny Tonge resigns the Liberal Democrat party whip after accusations of making offensive remarks about Israel. ](/news/2012/02/29/in-the-british-parliament-baroness-jenny-tonge-resigns-the-liberal-democrat-party-whip-after-accusations-of-making-offensive-remarks-about-i.md)
-_Context: Liberal Democrats, Jenny Tonge_
+_Context: Jenny Tonge, Liberal Democrats_
 
 ##### President
 ### [The President of Venezuela Hugo Chvez is recovering from the removal of a tumour from his pelvis in a Cuban hospital. ](/news/2012/02/29/the-president-of-venezuela-hugo-chavez-is-recovering-from-the-removal-of-a-tumour-from-his-pelvis-in-a-cuban-hospital.md)
-_Context: Cuba, Hugo Chvez, tumour, President_
+_Context: Cuba, tumour, Hugo Chvez, President_
 
 ##### Egypt
 ### [Egypt announces that a presidential election will held on May 23-24. ](/news/2012/02/29/egypt-announces-that-a-presidential-election-will-held-on-may-23-24.md)
-_Context: Egypt, presidential election_
+_Context: presidential election, Egypt_
 
 ##### Mitt Romney
 ### [Mitt Romney wins the Republican caucuses held in the US state of Wyoming. ](/news/2012/02/29/mitt-romney-wins-the-republican-caucuses-held-in-the-us-state-of-wyoming.md)

@@ -9,7 +9,7 @@ _Context: Islamic State in Iraq and the Levant, Turkish, 2017 Istanbul nightclub
 
 ##### January 2017 Baghdad bombings
 ### [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md)
-_Context: Baghdad, January 2017 Baghdad bombings, Iraq_
+_Context: January 2017 Baghdad bombings, Baghdad, Iraq_
 
 ##### Texas
 ### [In Texas, four children die with an additional six others injured after they are poisoned by phosgene gas sprayed in an inappropriate attempt as a pesticide. ](/news/2017/01/2/in-texas-four-children-die-with-an-additional-six-others-injured-after-they-are-poisoned-by-phosgene-gas-sprayed-in-an-inappropriate-attemp.md)
@@ -21,7 +21,7 @@ A poisonous gas believed to have been released when someone tried to wash away a
 
 ##### southern United States
 ### [A powerful storm system hits the southern United States, resulting in four deaths in Alabama and severe damage across several states. ](/news/2017/01/2/a-powerful-storm-system-hits-the-southern-united-states-resulting-in-four-deaths-in-alabama-and-severe-damage-across-several-states.md)
-_Context: southern United States, Alabama_
+_Context: Alabama, southern United States_
 
 ##### Ban Bueng District
 ### [A traffic collision between a minivan and a pickup truck in the Ban Bueng District of Chonburi Province, Thailand kills at least 25 people and leaves 2 others injured. Authorities investigate the cause of the accident. ](/news/2017/01/2/a-traffic-collision-between-a-minivan-and-a-pickup-truck-in-the-ban-bueng-district-of-chonburi-province-thailand-kills-at-least-25-people-a.md)

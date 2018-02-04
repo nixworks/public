@@ -9,15 +9,15 @@ Formats: [HTML](2012/06/23/index.html)  [JSON](2012/06/23/index.json)  [XML](201
 
 ##### Mexican Drug War
 ### [In a Mexican Drug War-related crime, 14 mutilated corpses are found inside a truck outside of a Mexican supermarket. ](/news/2012/06/23/in-a-mexican-drug-war-related-crime-14-mutilated-corpses-are-found-inside-a-truck-outside-of-a-mexican-supermarket.md)
-_Context: Mexican Drug War, Mexico_
+_Context: Mexico, Mexican Drug War_
 
 ##### Pakistan
 ### [In the Pakistani city of Quetta, armed people on motorcycles kill eight people; targeting Shias. ](/news/2012/06/23/in-the-pakistani-city-of-quetta-armed-people-on-motorcycles-kill-eight-people-targeting-shias.md)
-_Context: Shia, Pakistan, Quetta_
+_Context: Quetta, Pakistan, Shia_
 
 ##### music concert
 ### [100,000 people attend the first day of a two-day music concert at Hackney Marshes in London, which forms part of the build-up to the 2012 Summer Olympics. ](/news/2012/06/23/100-000-people-attend-the-first-day-of-a-two-day-music-concert-at-hackney-marshes-in-london-which-forms-part-of-the-build-up-to-the-2012-su.md)
-_Context: London, Hackney Marshes, 2012 Summer Olympics, music concert_
+_Context: music concert, London, 2012 Summer Olympics, Hackney Marshes_
 
 ##### Ulster Bank
 ### [Tens of thousands of Ulster Bank customers continue to struggle to access their cash after days of problems. ](/news/2012/06/23/tens-of-thousands-of-ulster-bank-customers-continue-to-struggle-to-access-their-cash-after-days-of-problems.md)
@@ -27,7 +27,7 @@ THE Central Bank may next week decide to launch a full-scale probe into the IT m
 ### [Greece's new coalition seeks to slow down austerity by proposing a two-year extension to the period allocated to it to meet bailout targets, without further cuts to salaries and pensions. ](/news/2012/06/23/greece-s-new-coalition-seeks-to-slow-down-austerity-by-proposing-a-two-year-extension-to-the-period-allocated-to-it-to-meet-bailout-targets.md)
 ##### Czech
 ### [At least eight people are killed and 44 injured after a bus carrying Czech tourists crashes in Croatia. ](/news/2012/06/23/at-least-eight-people-are-killed-and-44-injured-after-a-bus-carrying-czech-tourists-crashes-in-croatia.md)
-_Context: Czech, Croatia_
+_Context: Croatia, Czech_
 
 ##### Irish
 ### [At least 51 people are injured after a bus carrying pensioners crashes in Ireland. ](/news/2012/06/23/at-least-51-people-are-injured-after-a-bus-carrying-pensioners-crashes-in-ireland.md)
@@ -51,7 +51,7 @@ _Context: Algo Centre Mall, Elliot Lake_
 
 ##### Anna Alban
 ### [Ecuador's ambassador to the UK, Anna Alban, is reported to be flying to Quito to discuss WikiLeaks editor-in-chief Julian Assange's attempt to gain political asylum. ](/news/2012/06/23/ecuador-s-ambassador-to-the-uk-anna-alban-is-reported-to-be-flying-to-quito-to-discuss-wikileaks-editor-in-chief-julian-assange-s-attempt.md)
-_Context: Anna Alban, Julian Assange, Quito, WikiLeaks_
+_Context: Anna Alban, Quito, Julian Assange, WikiLeaks_
 
 ##### Paraguayan President
 ### [Latin American countries come together to express concern over the ousting from power of President of Paraguay Fernando Lugo, with Argentine President Cristina Fernndez de Kirchner, Ecuadorian President Rafael Correa and Venezuelan President Hugo Chvez vowing not to recognise the government of the newly-installed Paraguayan leader. ](/news/2012/06/23/latin-american-countries-come-together-to-express-concern-over-the-ousting-from-power-of-president-of-paraguay-fernando-lugo-with-argentine.md)
@@ -63,11 +63,11 @@ The Rio+20 summit ends with an agreement from world leaders that charities say r
 
 ##### United States
 ### [A United States judge dismisses an injunction from Apple Inc. against Motorola for patent infringement. ](/news/2012/06/23/a-united-states-judge-dismisses-an-injunction-from-apple-inc-against-motorola-for-patent-infringement.md)
-_Context: Apple Inc., United States, Motorola_
+_Context: Motorola, Apple Inc., United States_
 
 ##### High Court
 ### [After a five-day trial in the High Court, 27-year-old assistant tutor Luke Cooper, who is completing a PhD in international relations at the University of Sussex, is awarded GBP35,000 over a front page "Evening Standard" article and GBP25,000 over a follow-up piece in the "Daily Mail". These articles threatened his future academic prospects during the November 2010 march against government cuts. ](/news/2012/06/23/after-a-five-day-trial-in-the-high-court-27-year-old-assistant-tutor-luke-cooper-who-is-completing-a-phd-in-international-relations-at-the.md)
-_Context: Evening Standard, High Court, the November 2010 march against government cuts, Daily Mail, international relations, University of Sussex, PhD_
+_Context: High Court, University of Sussex, Daily Mail, the November 2010 march against government cuts, PhD, Evening Standard, international relations_
 
 ##### Papua New Guinea
 ### [Voters in Papua New Guinea start going to the polls for a general election. ](/news/2012/06/23/voters-in-papua-new-guinea-start-going-to-the-polls-for-a-general-election.md)
@@ -79,11 +79,11 @@ _Context: Hosni Mubarak_
 
 ##### Elizabeth II
 ### [Hundreds of people demonstrate against next week's visit of Elizabeth II to Belfast. ](/news/2012/06/23/hundreds-of-people-demonstrate-against-next-week-s-visit-of-elizabeth-ii-to-belfast.md)
-_Context: Elizabeth II, Belfast_
+_Context: Belfast, Elizabeth II_
 
 ##### FIFA
 ### [Former FIFA vice-president Jack Warner becomes the national security minister of Trinidad and Tobago. ](/news/2012/06/23/former-fifa-vice-president-jack-warner-becomes-the-national-security-minister-of-trinidad-and-tobago.md)
-_Context: Trinidad and Tobago, FIFA, Jack Warner_
+_Context: FIFA, Jack Warner, Trinidad and Tobago_
 
 ## [Previous Day...](/news/2012/06/22/index.md)
 

@@ -11,7 +11,7 @@ The Yemeni government and Shia Houthi rebels sign an agreement aimed at ending t
 ### [Tens of thousands of Kurds flee into Turkey ahead of an ISIL offensive. ](/news/2014/09/21/tens-of-thousands-of-kurds-flee-into-turkey-ahead-of-an-isil-offensive.md)
 Tens of thousands of Syrian Kurds have flooded into Turkey, prompting an appeal for international intervention.
 
-##### Terrorism in Pakistan
+##### suicide bombing
 ### [The Pakistani Taliban claims to have shot down a Pakistani Air Force F-16, and releases pictures of the wreckage. ](/news/2014/09/21/the-pakistani-taliban-claims-to-have-shot-down-a-pakistani-air-force-f-16-and-releases-pictures-of-the-wreckage.md)
 &quot;It&#039;s difficult to access what really happened...&quot; 
 
@@ -25,7 +25,7 @@ Authorities in Sierra Leone say a three-day curfew aimed at containing the Ebola
 
 ##### Moscow
 ### [More than 26,000 people in Moscow participate in the largest demonstration so far against Russian president Vladimir Putin and the War in Donbass. ](/news/2014/09/21/more-than-26-000-people-in-moscow-participate-in-the-largest-demonstration-so-far-against-russian-president-vladimir-putin-and-the-war-in-do.md)
-_Context: Moscow, largest demonstration, Vladimir Putin, War in Donbass_
+_Context: largest demonstration, Vladimir Putin, War in Donbass, Moscow_
 
 ##### War in Donbass
 ### [Rallies in support of Ukraine and against the War in Donbass take place in Boston, New York, Sydney, Dublin, Madrid, London, Paris, Oslo, Tallinn, Limassol, Istanbul, Antalya, Cologne, Milan, Rome, Vienna, Munich, Prague, Berlin, Moscow, Volgograd, Yekaterinburg, Perm, Krasnoyarsk, Novosibirsk, Berlaul and Petropavlovsk-Kamchatsky. ](/news/2014/09/21/rallies-in-support-of-ukraine-and-against-the-war-in-donbass-take-place-in-boston-new-york-sydney-dublin-madrid-london-paris-oslo-ta.md)

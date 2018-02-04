@@ -25,7 +25,7 @@ Minister for Foreign Affairs Micheál Martin has said his Israeli counterpart, A
 
 ##### Afghanistan
 ### [Afghanistan's government condemns a NATO air strike on a convoy of vehicles in Uruzgan province, in the south of the country, which killed at least 27 civilians. ](/news/2010/02/22/afghanistan-s-government-condemns-a-nato-air-strike-on-a-convoy-of-vehicles-in-uruzgan-province-in-the-south-of-the-country-which-killed-a.md)
-_Context: Uruzgan province, NATO, Afghanistan_
+_Context: NATO, Uruzgan province, Afghanistan_
 
 ##### Conference of the German Bishops
 ### [Conference of the German Bishops chairman Archbishop Robert Zollitsch formally apologises to those who went through sexual abuse as children after fresh controversy surrounding the issue at the beginning of this year. ](/news/2010/02/22/conference-of-the-german-bishops-chairman-archbishop-robert-zollitsch-formally-apologises-to-those-who-went-through-sexual-abuse-as-children.md)
@@ -45,7 +45,7 @@ _Context: Lufthansa_
 
 ##### Odeon & UCI Cinemas Group
 ### [Odeon Cinemas in Ireland, Italy and the UK confirm their intention to boycott Tim Burton's "Alice in Wonderland" in a dispute with Disney. ](/news/2010/02/22/odeon-cinemas-in-ireland-italy-and-the-uk-confirm-their-intention-to-boycott-tim-burton-s-alice-in-wonderland-in-a-dispute-with-disney.md)
-_Context: Odeon & UCI Cinemas Group, Alice in Wonderland, Tim Burton, Italy, Disney_
+_Context: Tim Burton, Disney, Odeon & UCI Cinemas Group, Alice in Wonderland, Italy_
 
 ## [Previous Day...](/news/2010/02/21/index.md)
 

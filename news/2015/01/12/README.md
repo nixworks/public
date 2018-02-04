@@ -17,15 +17,15 @@ Ash and smoke from a volcanic eruption in Tonga are causing some flight cancella
 
 ##### school bus
 ### [A school bus plunges off of a cliff on the Caribbean island of St. Vincent leaving at least five people dead and two missing. ](/news/2015/01/12/a-school-bus-plunges-off-of-a-cliff-on-the-caribbean-island-of-st-vincent-leaving-at-least-five-people-dead-and-two-missing.md)
-_Context: St. Vincent, school bus, Caribbean_
+_Context: school bus, Caribbean, St. Vincent_
 
 ##### Washington, D. C.
 ### [An electrical malfunction causes a fire in the Washington, D. C.'s Metro subway system near L'Enfant Plaza Station resulting in one death with 84 people taken to hospitals, mostly from smoke inhalation. ](/news/2015/01/12/an-electrical-malfunction-causes-a-fire-in-the-washington-d-c-s-metro-subway-system-near-l-enfant-plaza-station-resulting-in-one-death-wi.md)
-_Context: Washington, D. C., L'Enfant Plaza Station, Washington Metro, smoke inhalation_
+_Context: smoke inhalation, Washington, D. C., Washington Metro, L'Enfant Plaza Station_
 
 ##### Rovinari
 ### [In Rovinari, Romania, a father and 6 siblings, aged from 6 months to 7 years, die after a gas water boiler emits carbon monoxide.](/news/2015/01/12/in-rovinari-romania-a-father-and-6-siblings-aged-from-6-months-to-7-years-die-after-a-gas-water-boiler-emits-carbon-monoxide.md)
-_Context: Romania, Rovinari_
+_Context: Rovinari, Romania_
 
 ##### China
 ### [Chinese police kill six attacking militants wearing explosive devices in Xinjiang. ](/news/2015/01/12/chinese-police-kill-six-attacking-militants-wearing-explosive-devices-in-xinjiang.md)
@@ -33,11 +33,11 @@ _Context: Xinjiang, China_
 
 ##### Russian 102nd Military Base
 ### [A serviceman stationed at the Russian 102nd Military Base, Valeri Permyakov, kills six members of an Armenian family, including a two-year-old child, and, in addition, wounds a six-month-old child, in Gyumri, Armenia, initiating a manhunt by the Armenian security services until his capture. ](/news/2015/01/12/a-serviceman-stationed-at-the-russian-102nd-military-base-valeri-permyakov-kills-six-members-of-an-armenian-family-including-a-two-year-o.md)
-_Context: Gyumri, Russian 102nd Military Base, kills six members, Armenia_
+_Context: Armenia, Russian 102nd Military Base, Gyumri, kills six members_
 
 ##### Albuquerque Police Department
 ### [District Attorney Kari Brandenburg of New Mexico's Second Judicial Circuit federally charges two Albuquerque Police Department officers with murder in the March 16, 2014 shooting death of James Boyd in Albuquerque, New Mexico, U.S. ](/news/2015/01/12/district-attorney-kari-brandenburg-of-new-mexico-s-second-judicial-circuit-federally-charges-two-albuquerque-police-department-officers-with.md)
-_Context: Albuquerque Police Department, Albuquerque, New Mexico, James Boyd_
+_Context: James Boyd, Albuquerque Police Department, Albuquerque, New Mexico_
 
 ##### contaminated beer
 ### [The death toll from poisoned beer in the Mozambique rises to at least 69 with 169 in hospital. Further, medical experts begin to question if the source of the contamination was the deliberate addition of crocodile bile or instead the often used foxglove flowers (which contain digitalis) for homebrewing locally-derived Pombe beer. ](/news/2015/01/12/the-death-toll-from-poisoned-beer-in-the-mozambique-rises-to-at-least-69-with-169-in-hospital-further-medical-experts-begin-to-question-if.md)
@@ -45,7 +45,7 @@ Radio Mozambique has updated the story this morning, confirming that 69 people h
 
 ##### SpaceX CRS-5
 ### [The SpaceX CRS-5 supply ship arrives at the ISS with groceries and Christmas gifts. ](/news/2015/01/12/the-spacex-crs-5-supply-ship-arrives-at-the-iss-with-groceries-and-christmas-gifts.md)
-_Context: SpaceX CRS-5, ISS_
+_Context: ISS, SpaceX CRS-5_
 
 ## [Previous Day...](/news/2015/01/11/index.md)
 

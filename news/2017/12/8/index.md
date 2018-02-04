@@ -5,7 +5,7 @@ Formats: [HTML](2017/12/8/index.html)  [JSON](2017/12/8/index.json)  [XML](2017/
 
 ##### Syrian Civil War
 ### [Russian jets carry out airstrikes in a village in the northwestern Idlib Governorate, where a de-escalation zone exists, killing at least five civilians. ](/news/2017/12/8/russian-jets-carry-out-airstrikes-in-a-village-in-the-northwestern-idlib-governorate-where-a-de-escalation-zone-exists-killing-at-least-fi.md)
-_Context: Idlib Governorate, Syrian Civil War_
+_Context: Syrian Civil War, Idlib Governorate_
 
 ##### 2017 Semuliki attack
 ### [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md)
@@ -25,7 +25,7 @@ Fourteen of the 15 members of United Nations Security Council condemned Presiden
 
 ##### Brexit negotiations
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md)
-_Context: Brexit negotiations, Irish, European Union, British_
+_Context: Irish, British, Brexit negotiations, European Union_
 
 ##### 2017 North Korean crisis
 ### [The Japanese Minister of Defense says that his country is to procure medium-range missiles. This purchase is controversial for a country that renounced the right to wage war. ](/news/2017/12/8/the-japanese-minister-of-defense-says-that-his-country-is-to-procure-medium-range-missiles-this-purchase-is-controversial-for-a-country-tha.md)

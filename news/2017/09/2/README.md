@@ -9,7 +9,7 @@ Suicide bombers struck a state-run power station north of Baghdad early on Satur
 
 ##### Trump Tower wiretapping allegations
 ### [Both the FBI and NSD declare that they possess no records indicating that Trump Tower in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-tower-in-new-york-city-new-york-was-wiretapped-earlier-in-m.md)
-_Context: New York City, wiretapped, Trump Tower, NSD, FBI, Trump Tower wiretapping allegations_
+_Context: Trump Tower wiretapping allegations, Trump Tower, New York City, NSD, wiretapped, FBI_
 
 ##### 2017 disasters in Kenya
 ### [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md)

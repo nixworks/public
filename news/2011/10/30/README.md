@@ -5,11 +5,11 @@ Formats: [HTML](2011/10/30/index.html)  [JSON](2011/10/30/index.json)  [XML](201
 
 ##### United States
 ### [A United States drone attack kills six militants in Pakistan's North Waziristan region. ](/news/2011/10/30/a-united-states-drone-attack-kills-six-militants-in-pakistan-s-north-waziristan-region.md)
-_Context: drones launch, Pakistan, North Waziristan, United States_
+_Context: United States, Pakistan, drones launch, North Waziristan_
 
 ##### Libyan Prime Minister
 ### [The interim Prime Minister of Libya Mahmoud Jibril confirms the presence of chemical weapons in Libya under the Gaddafi regime and announces that weapons inspectors would be visiting the country to help get rid of them. ](/news/2011/10/30/the-interim-prime-minister-of-libya-mahmoud-jibril-confirms-the-presence-of-chemical-weapons-in-libya-under-the-gaddafi-regime-and-announces.md)
-_Context: Muammar Gaddafi, chemical weapons, Libya, Libyan Prime Minister, Mahmoud Jibril_
+_Context: Muammar Gaddafi, Libyan Prime Minister, chemical weapons, Mahmoud Jibril, Libya_
 
 ##### Fair Work Australia
 ### [Fair Work Australia orders the Australian airline Qantas and its unions to reach an agreement within 21 days meaning that services will resume on Monday. ](/news/2011/10/30/fair-work-australia-orders-the-australian-airline-qantas-and-its-unions-to-reach-an-agreement-within-21-days-meaning-that-services-will-resu.md)
@@ -29,7 +29,7 @@ Kyrgyzstan is electing its President on Sunday in a hotly-contested race that co
 
 ##### Bulgaria
 ### [Voters in Bulgaria went to the polls for the second round of a presidential election with Rosen Plevneliev of Citizens for European Development of Bulgaria being elected. ](/news/2011/10/30/voters-in-bulgaria-went-to-the-polls-for-the-second-round-of-a-presidential-election-with-rosen-plevneliev-of-citizens-for-european-developm.md)
-_Context: presidential election, Bulgaria, Rosen Plevneliev, GERB_
+_Context: GERB, Bulgaria, Rosen Plevneliev, presidential election_
 
 ## [Previous Day...](/news/2011/10/29/index.md)
 

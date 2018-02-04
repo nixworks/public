@@ -9,11 +9,11 @@ _Context: Israeli-Lebanese conflict, Israeli Air Force_
 
 ##### Flood
 ### [ Floods and mudslides due to Tropical Storm Gamma, the 24th named storm in the 2005 Atlantic hurricane season, kill at least 32 people in Honduras. ](/news/2005/11/22/floods-and-mudslides-due-to-tropical-storm-gamma-the-24th-named-storm-in-the-2005-atlantic-hurricane-season-kill-at-least-32-people-in-ho.md)
-_Context: Honduras, 2005 Atlantic hurricane season, mudslide, Flood, Tropical Storm Gamma_
+_Context: Honduras, Flood, 2005 Atlantic hurricane season, Tropical Storm Gamma, mudslide_
 
 ##### Angela Merkel
 ### [ After two months of negotiations, Angela Merkel is elected the first female Chancellor of Germany by a coalition of the CDU-CSU and SPD delegates in the Bundestag. ](/news/2005/11/22/after-two-months-of-negotiations-angela-merkel-is-elected-the-first-female-chancellor-of-germany-by-a-coalition-of-the-cdu-csu-and-spd-del.md)
-_Context: Chancellor, SPD, Bundestag, Angela Merkel, CSU, Christian Democratic Union, grand coalition_
+_Context: Christian Democratic Union, SPD, Angela Merkel, Chancellor, grand coalition, Bundestag, CSU_
 
 ##### Kenya
 ### [ Kenyan voters overwhelmingly reject a new constitution, which would have given the president greater power, in a national referendum, which used symbols on the ballot paper to assist illiterate voters. ](/news/2005/11/22/kenyan-voters-overwhelmingly-reject-a-new-constitution-which-would-have-given-the-president-greater-power-in-a-national-referendum-which.md)
@@ -21,7 +21,7 @@ _Context: constitution, Kenya, referendum_
 
 ##### Al Jazeera bombing memo
 ### [ Al Jazeera bombing memo: British "Daily Mirror" tabloid publishes an article suggesting that George W. Bush discussed with Tony Blair a plan to bomb the offices of the Al Jazeera TV station. ](/news/2005/11/22/al-jazeera-bombing-memo-british-daily-mirror-tabloid-publishes-an-article-suggesting-that-george-w-bush-discussed-with-tony-blair-a-pla.md)
-_Context: Al Jazeera bombing memo, Daily Mirror, Al Jazeera, tabloid, George W. Bush, Tony Blair_
+_Context: Al Jazeera, George W. Bush, tabloid, Daily Mirror, Al Jazeera bombing memo, Tony Blair_
 
 ## [Previous Day...](/news/2005/11/21/index.md)
 

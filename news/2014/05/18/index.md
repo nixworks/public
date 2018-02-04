@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/18/index.html)  [JSON](2014/05/18/index.json)  [XML](201
 
 ##### Khalifa Haftar
 ### [A group headed by Khalifa Haftar, which includes renegade Libyan general Mokhtar Farnana, launches an attack on the Parliament of Libya. ](/news/2014/05/18/a-group-headed-by-khalifa-haftar-which-includes-renegade-libyan-general-mokhtar-farnana-launches-an-attack-on-the-parliament-of-libya.md)
-_Context: Khalifa Haftar, Parliament of Libya, heavy fighting_
+_Context: heavy fighting, Parliament of Libya, Khalifa Haftar_
 
 ##### Nigeria
 ### [A blast hits the northern Nigerian city of Kano. ](/news/2014/05/18/a-blast-hits-the-northern-nigerian-city-of-kano.md)

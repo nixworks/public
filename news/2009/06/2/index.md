@@ -5,7 +5,7 @@ Formats: [HTML](2009/06/2/index.html)  [JSON](2009/06/2/index.json)  [XML](2009/
 
 ##### Brazil
 ### [ Brazilian Defense Minister Nelson Jobim confirms that debris discovered in the Atlantic Ocean, near Fernando de Noronha, is the wreckage of Air France Flight 447. ](/news/2009/06/2/brazilian-defense-minister-nelson-jobim-confirms-that-debris-discovered-in-the-atlantic-ocean-near-fernando-de-noronha-is-the-wreckage-of.md)
-_Context: crash of Air France Flight 447, debris, Atlantic Ocean, Air France, Brazil, Minister of Defence, Fernando de Noronha, Nelson Jobim_
+_Context: crash of Air France Flight 447, Atlantic Ocean, Brazil, Minister of Defence, Air France, Nelson Jobim, Fernando de Noronha, debris_
 
 ##### General Motors
 ### [ General Motors sells its Hummer brand to the Sichuan Tengzhong Heavy Industrial Machinery Company. ](/news/2009/06/2/general-motors-sells-its-hummer-brand-to-the-sichuan-tengzhong-heavy-industrial-machinery-company.md)
@@ -13,19 +13,19 @@ A machinery company with ambitions to become a carmaker is the buyer, at an undi
 
 ##### British
 ### [ United Kingdom Home Secretary Jacqui Smith announces her resignation. ](/news/2009/06/2/united-kingdom-home-secretary-jacqui-smith-announces-her-resignation.md)
-_Context: British, Home Secretary, resignation, Jacqui Smith_
+_Context: Jacqui Smith, resignation, British, Home Secretary_
 
 ##### Inuit Ataqatigiit
 ### [ The Community of the People wins Greenland's parliamentary election. ](/news/2009/06/2/the-community-of-the-people-wins-greenland-s-parliamentary-election.md)
-_Context: election, Greenland, parliament seats, Inuit Ataqatigiit_
+_Context: election, Greenland, Inuit Ataqatigiit, parliament seats_
 
 ##### Netherlands
 ### [ Dutch research verifies space headache as a real medical condition. ](/news/2009/06/2/dutch-research-verifies-space-headache-as-a-real-medical-condition.md)
-_Context: Netherlands, space, headache, research_
+_Context: space, research, Netherlands, headache_
 
 ##### Oxfam
 ### [ Oxfam International describes the humanitarian crisis in Somalia as "very dire". ](/news/2009/06/2/oxfam-international-describes-the-humanitarian-crisis-in-somalia-as-very-dire.md)
-_Context: Somalia, Oxfam, humanitarian crisis_
+_Context: Oxfam, humanitarian crisis, Somalia_
 
 ##### China
 ### [ China blocks access to such websites as Twitter, Flickr, and Hotmail, ahead of the anniversary of the massacre in Tiananmen Square on June 4, 1989. ](/news/2009/06/2/china-blocks-access-to-such-websites-as-twitter-flickr-and-hotmail-ahead-of-the-anniversary-of-the-massacre-in-tiananmen-square-on-june.md)
@@ -33,11 +33,11 @@ The Chinese government is trying to block access to social media, photo-sharing 
 
 ##### defense
 ### [ The defense in Burmese National League for Democracy General Secretary Aung San Suu Kyi's trial alleges that intruder John William Yettaw "acted alone". ](/news/2009/06/2/the-defense-in-burmese-national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-trial-alleges-that-intruder-john-william-yettaw.md)
-_Context: trial, John William Yettaw, Burma, Aung San Suu Kyi, defense, General Secretary, National League for Democracy_
+_Context: trial, defense, Aung San Suu Kyi, John William Yettaw, Burma, General Secretary, National League for Democracy_
 
 ##### British
 ### [ The United Kingdom experiences its first critical case of A(H1N1) influenza. ](/news/2009/06/2/the-united-kingdom-experiences-its-first-critical-case-of-a-h1n1-influenza.md)
-_Context: current outbreak, swine flu, H1N1, British_
+_Context: current outbreak, British, H1N1, swine flu_
 
 ##### Pakistan
 ### [ Pakistan's military rescues 80 people whom the Taliban kidnapped on June 1. ](/news/2009/06/2/pakistan-s-military-rescues-80-people-whom-the-taliban-kidnapped-on-june-1.md)
@@ -45,7 +45,7 @@ Pakistani soldiers Tuesday rescued scores of students and staff from a military-
 
 ##### die
 ### [ At least 61 people are discovered dead in a Harmony Gold mine in Free State, South Africa. ](/news/2009/06/2/at-least-61-people-are-discovered-dead-in-a-harmony-gold-mine-in-free-state-south-africa.md)
-_Context: die, Harmony Gold, Free State, gold mine, South Africa_
+_Context: Harmony Gold, South Africa, die, Free State, gold mine_
 
 ## [Previous Day...](/news/2009/06/1/index.md)
 

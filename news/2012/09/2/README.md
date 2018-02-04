@@ -13,11 +13,11 @@ Officials acknowledge that killings might have been prevented with proper enforc
 
 ##### Turkish troops
 ### [Clashes between Turkish security forces and Kurdish rebels in the southeastern province of Sirnak kill ten Turkish troops and twenty fighters from the Kurdistan Workers' Party. ](/news/2012/09/2/clashes-between-turkish-security-forces-and-kurdish-rebels-in-the-southeastern-province-of-aa-rnak-kill-ten-turkish-troops-and-twenty-fight.md)
-_Context: Turkish troops, Kurdistan Workers' Party, Kurdish, Sirnak Province_
+_Context: Turkish troops, Sirnak Province, Kurdish, Kurdistan Workers' Party_
 
 ##### Movement for Oneness and Jihad in West Africa
 ### [The Movement for Oneness and Jihad in West Africa reports the execution of a kidnapped Algerian diplomat in northern Mali. ](/news/2012/09/2/the-movement-for-oneness-and-jihad-in-west-africa-reports-the-execution-of-a-kidnapped-algerian-diplomat-in-northern-mali.md)
-_Context: Movement for Oneness and Jihad in West Africa, Algeria, Mali_
+_Context: Algeria, Mali, Movement for Oneness and Jihad in West Africa_
 
 ##### Libya
 ### [A car bomb explodes in the eastern Libyan city of Benghazi, killing at least one person. ](/news/2012/09/2/a-car-bomb-explodes-in-the-eastern-libyan-city-of-benghazi-killing-at-least-one-person.md)
@@ -33,7 +33,7 @@ Fatma Nabil becomes the first woman in half a century to present the news to the
 
 ##### Unification Church
 ### [Unification Church founder and self-proclaimed messiah Sun Myung Moon dies at the age of 92. ](/news/2012/09/2/unification-church-founder-and-self-proclaimed-messiah-sun-myung-moon-dies-at-the-age-of-92.md)
-_Context: Sun Myung Moon, Unification Church_
+_Context: Unification Church, Sun Myung Moon_
 
 ##### Quad City Air Show
 ### [A plane crashes in the Quad City Air Show in Davenport, Iowa, killing the pilot. ](/news/2012/09/2/a-plane-crashes-in-the-quad-city-air-show-in-davenport-iowa-killing-the-pilot.md)

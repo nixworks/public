@@ -41,7 +41,7 @@ _Context: Yosemite National Park_
 
 ##### Metropolitan Police Authority
 ### [While they are not yet ready to say they are reopening the case after the 2008 inquiry jury's final verdict and report (faulty driving and unlawful killing), the Metropolitan Police Authority Specialist Crime and Operations Command in London is investigating the credibility and accuracy of supposedly new information from an unspecified source regarding the August 1997 Death of Diana, Princess of Wales. ](/news/2013/08/17/while-they-are-not-yet-ready-to-say-they-are-reopening-the-case-after-the-2008-inquiry-jury-s-final-verdict-and-report-faulty-driving-and-u.md)
-_Context: London, Death of Diana, Princess of Wales, Metropolitan Police Authority_
+_Context: London, Metropolitan Police Authority, Death of Diana, Princess of Wales_
 
 ## [Previous Day...](/news/2013/08/16/index.md)
 

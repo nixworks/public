@@ -9,7 +9,7 @@ Khartoum reaches truce agreement with smaller group after talks with Jem stalled
 
 ##### Nigeria
 ### [Nigeria recalls its ambassador to Libya after Libyan leader Muammar al-Gaddafi suggests the country be partitioned into two separate Christian and Muslim nations. ](/news/2010/03/18/nigeria-recalls-its-ambassador-to-libya-after-libyan-leader-muammar-al-gaddafi-suggests-the-country-be-partitioned-into-two-separate-christi.md)
-_Context: Libya, Christian, Muslim, Nigeria, Muammar al-Gaddafi, partitioned_
+_Context: partitioned, Muslim, Nigeria, Libya, Christian, Muammar al-Gaddafi_
 
 ##### polar bear
 ### [Proposed international trade bans on polar bears and bluefin tuna are rejected by the Convention on International Trade in Endangered Species of Wild Fauna and Flora. ](/news/2010/03/18/proposed-international-trade-bans-on-polar-bears-and-bluefin-tuna-are-rejected-by-the-convention-on-international-trade-in-endangered-specie.md)
@@ -29,7 +29,7 @@ A five-year official study of the Allied bombing of Dresden in World War II has 
 
 ##### Guatemala
 ### [Former Guatemalan President Alfonso Portillo is to be extradited to the U.S. following a ruling by a Guatemalan criminal court. ](/news/2010/03/18/former-guatemalan-president-alfonso-portillo-is-to-be-extradited-to-the-u-s-following-a-ruling-by-a-guatemalan-criminal-court.md)
-_Context: Guatemala, President, Alfonso Portillo_
+_Context: President, Alfonso Portillo, Guatemala_
 
 ##### Thai Society
 ### [A Thai farm worker in Israel is killed by a rocket fired from the Hamas-controlled Palestinian territory of Gaza, according to the Israeli military. ](/news/2010/03/18/a-thai-farm-worker-in-israel-is-killed-by-a-rocket-fired-from-the-hamas-controlled-palestinian-territory-of-gaza-according-to-the-israeli-m.md)
@@ -41,7 +41,7 @@ _Context: Turkish, coup d'tat_
 
 ##### The Gambia
 ### [Charges occur in The Gambia's attempted coup d'tat to overthrow President Yahya Jammeh. ](/news/2010/03/18/charges-occur-in-the-gambia-s-attempted-coup-d-etat-to-overthrow-president-yahya-jammeh.md)
-_Context: The Gambia, Yahya Jammeh, President_
+_Context: President, The Gambia, Yahya Jammeh_
 
 ##### Sahil Saeed
 ### [Released kidnapped child Sahil Saeed returns home to Manchester in England. ](/news/2010/03/18/released-kidnapped-child-sahil-saeed-returns-home-to-manchester-in-england.md)

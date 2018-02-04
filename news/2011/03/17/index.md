@@ -33,15 +33,15 @@ The US government orders the St Louis Art Museum to hand over Egyptian death mas
 
 ##### Gennady Yanin
 ### [Gennady Yanin, the director of the Russian Bolshoi ballet troupe, resigns and is replaced by Yan Godovsky. Russian media wonders if erotic photos which appeared on the internet, allegedly of him, were part of a smear campaign. ](/news/2011/03/17/gennady-yanin-the-director-of-the-russian-bolshoi-ballet-troupe-resigns-and-is-replaced-by-yan-godovsky-russian-media-wonders-if-erotic-p.md)
-_Context: Yan Godovsky, Bolshoi Theatre, Gennady Yanin_
+_Context: Yan Godovsky, Gennady Yanin, Bolshoi Theatre_
 
 ##### John Dee
 ### [It is announced that "Doctor Dee", a stage show based on the life of John Dee written by and starring Damon Albarn, is to have its premiere at the Manchester International Festival in July. ](/news/2011/03/17/it-is-announced-that-doctor-dee-a-stage-show-based-on-the-life-of-john-dee-written-by-and-starring-damon-albarn-is-to-have-its-premiere.md)
-_Context: Manchester International Festival, Damon Albarn, John Dee_
+_Context: Damon Albarn, Manchester International Festival, John Dee_
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch's News Corp is sued for nepotism over the $675 million purchase of his daughter, Elisabeth Murdoch's, Shine Limited and providing a seat for her on the board. ](/news/2011/03/17/rupert-murdoch-s-news-corp-is-sued-for-nepotism-over-the-675-million-purchase-of-his-daughter-elisabeth-murdoch-s-shine-limited-and-provi.md)
-_Context: nepotism, Elisabeth Murdoch, Rupert Murdoch, News Corp, Shine Limited_
+_Context: Elisabeth Murdoch, Rupert Murdoch, Shine Limited, News Corp, nepotism_
 
 ##### The New York Times
 ### ["The New York Times" newspaper announces it is to start charging people who access content on its website. ](/news/2011/03/17/the-new-york-times-newspaper-announces-it-is-to-start-charging-people-who-access-content-on-its-website.md)
@@ -73,7 +73,7 @@ _Context: China, Malaysia, Iran_
 
 ##### Burma
 ### [A court in Burma denies bail to the chief of the "Myanmar Times" newspaper, charged with violating immigration law. ](/news/2011/03/17/a-court-in-burma-denies-bail-to-the-chief-of-the-myanmar-times-newspaper-charged-with-violating-immigration-law.md)
-_Context: Myanmar Times, Burma_
+_Context: Burma, Myanmar Times_
 
 ##### asylum seekers
 ### [Asylum seekers stage another riot at the Christmas Island Immigration Detention Centre burning parts of the Australian government facility. ](/news/2011/03/17/asylum-seekers-stage-another-riot-at-the-christmas-island-immigration-detention-centre-burning-parts-of-the-australian-government-facility.md)
@@ -81,7 +81,7 @@ An extra 70 Australian Federal Police officers are being sent to Christmas Islan
 
 ##### Lao People's Revolutionary Party
 ### [The ninth congress of the ruling Lao People's Revolutionary Party opens in Vientiane, Laos, where policy is set for the next five years. ](/news/2011/03/17/the-ninth-congress-of-the-ruling-lao-people-s-revolutionary-party-opens-in-vientiane-laos-where-policy-is-set-for-the-next-five-years.md)
-_Context: Laos, Lao People's Revolutionary Party, Vientiane_
+_Context: Lao People's Revolutionary Party, Laos, Vientiane_
 
 ##### European Space Agency
 ### [At a two-day council meeting of the European Space Agency (ESA) in Paris, Europe comes to an agreement to extend its operations at the International Space Station (ISS) until 2020. ](/news/2011/03/17/at-a-two-day-council-meeting-of-the-european-space-agency-esa-in-paris-europe-comes-to-an-agreement-to-extend-its-operations-at-the-inter.md)

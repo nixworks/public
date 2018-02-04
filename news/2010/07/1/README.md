@@ -17,7 +17,7 @@ At least 42 dead and 180 injured in pair of suicide attacks in Pakistani city.
 
 ##### Somalia
 ### [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50 th anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50-th-anniversary-of-the-country-s-independence.md)
-_Context: Sharif Ahmed, President, Somalia_
+_Context: President, Sharif Ahmed, Somalia_
 
 ##### Senegal
 ### [Millions of people in Senegal mourn the death of Grand Marabout of the Mourides, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/1/millions-of-people-in-senegal-mourn-the-death-of-grand-marabout-of-the-mourides-serigne-mouhamadou-lamine-bara-mbacka-c.md)
@@ -29,7 +29,7 @@ _Context: Canada Day, Ottawa_
 
 ##### China
 ### [China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md)
-_Context: Xinhua, China, 24-hour English TV news channel, China_
+_Context: 24-hour English TV news channel, China, China, Xinhua_
 
 ##### Hurricane Alex
 ### [Hurricane Alex, the first hurricane of the 2010 Atlantic hurricane season, makes landfall in northeastern Mexico as a Category&nbsp;2 hurricane on the Saffir-Simpson Hurricane Scale with winds of 105&nbsp;mph (165&nbsp;km-h), and causes tornadoes that force people into shelters in southern Texas. ](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.md)
@@ -41,7 +41,7 @@ BP&#39;s massive oil spill became the largest ever in the Gulf of Mexico on Thur
 
 ##### Shenzhen
 ### [Six people are killed and ten others injured in Shenzhen after a space shuttle simulator ride plunged to the ground at a popular amusement park. ](/news/2010/07/1/six-people-are-killed-and-ten-others-injured-in-shenzhen-after-a-space-shuttle-simulator-ride-plunged-to-the-ground-at-a-popular-amusement-p.md)
-_Context: Shenzhen, space shuttle_
+_Context: space shuttle, Shenzhen_
 
 ##### Inter-Korean Relations
 ### [North Korea asks the United Nations Security Council to investigate the sinking of the "Cheonan". Diplomats say South Korea wants the council to condemn North Korea. ](/news/2010/07/1/north-korea-asks-the-united-nations-security-council-to-investigate-the-sinking-of-the-cheonan-diplomats-say-south-korea-wants-the-counci.md)
@@ -53,7 +53,7 @@ _Context: Nita Lowey, House Appropriations Committee_
 
 ##### drug
 ### [More than 300 kilograms of drugs - opium, morphine, ice (methamphetamine hydrochloride), ketamine and dancing outreach - are incinerated in the suburbs of Lhasa, Tibet. ](/news/2010/07/1/more-than-300-kilograms-of-drugs-opium-morphine-ice-methamphetamine-hydrochloride-ketamine-and-dancing-outreach-are-incinerated-in.md)
-_Context: opium, morphine, drug, Lhasa, methamphetamine hydrochloride, dancing outreach, ketamine, Tibet_
+_Context: dancing outreach, morphine, opium, ketamine, methamphetamine hydrochloride, drug, Tibet, Lhasa_
 
 ##### Hong Kong
 ### [An estimated 52,000 people took part in anti-government protests in the former British colony of Hong Kong. ](/news/2010/07/1/an-estimated-52-000-people-took-part-in-anti-government-protests-in-the-former-british-colony-of-hong-kong.md)
@@ -67,7 +67,7 @@ _Context: British_
 
 ##### Pierre Nkurunziza
 ### [Pierre Nkurunziza, the incumbent President of Burundi and sole candidate in the presidential election, is re-elected with more than 91% of the votes. ](/news/2010/07/1/pierre-nkurunziza-the-incumbent-president-of-burundi-and-sole-candidate-in-the-presidential-election-is-re-elected-with-more-than-91-of-t.md)
-_Context: Burundi, presidential election, President, Pierre Nkurunziza_
+_Context: Burundi, President, presidential election, Pierre Nkurunziza_
 
 ##### Parliament of Finland
 ### [The Parliament of Finland approves the construction of two nuclear power stations. ](/news/2010/07/1/the-parliament-of-finland-approves-the-construction-of-two-nuclear-power-stations.md)

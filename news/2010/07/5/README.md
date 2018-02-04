@@ -9,15 +9,15 @@ The Tasmanian Aboriginal community are using National Aboriginal Islander Day Ob
 
 ##### Imam
 ### [Imam Ahmad Afzali leaves the United States for Saudi Arabia, under plea deal in the case involving Najibullah Zazi's alleged plan to bomb the New York City subway. ](/news/2010/07/5/imam-ahmad-afzali-leaves-the-united-states-for-saudi-arabia-under-plea-deal-in-the-case-involving-najibullah-zazi-s-alleged-plan-to-bomb-th.md)
-_Context: New York City subway, Najibullah Zazi, United States, Saudi Arabia, Imam, Ahmad Afzali_
+_Context: Imam, Ahmad Afzali, Najibullah Zazi, New York City subway, United States, Saudi Arabia_
 
 ##### hijab
 ### [Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. ](/news/2010/07/5/anti-government-demonstrators-including-women-dressed-in-full-hijabs-brandishing-ak-47-automatic-rifles-march-in-somalia-s-capital-mogadis.md)
-_Context: Somalia, African Union, Mogadishu, AK-47s, hijab, high-powered rifles, AMISOM_
+_Context: AK-47s, Mogadishu, African Union, Somalia, hijab, AMISOM, high-powered rifles_
 
 ##### European Union
 ### [The European Union withdraws a trade concessions deal with Sri Lanka after the former accused the latter of not improving its human rights record. ](/news/2010/07/5/the-european-union-withdraws-a-trade-concessions-deal-with-sri-lanka-after-the-former-accused-the-latter-of-not-improving-its-human-rights-r.md)
-_Context: Sri Lanka, human rights record, European Union_
+_Context: human rights record, Sri Lanka, European Union_
 
 ##### Iran
 ### [Iran accuses Germany, United Arab Emirates and United Kingdom of refusing to provide fuel to its passenger planes. ](/news/2010/07/5/iran-accuses-germany-united-arab-emirates-and-united-kingdom-of-refusing-to-provide-fuel-to-its-passenger-planes.md)
@@ -25,7 +25,7 @@ Iran accuses the UK, Germany and the UAE of refusing to refuel its passenger jet
 
 ##### police
 ### [Afghan Police and international forces kill 64 people in a three-day drug bust operation in Helmand province, Afghanistan, and destroy 16,641 kilograms (36,687 pounds) of narcotics. ](/news/2010/07/5/afghan-police-and-international-forces-kill-64-people-in-a-three-day-drug-bust-operation-in-helmand-province-afghanistan-and-destroy-16-64.md)
-_Context: Helmand, International Security Assistance Force, Afghanistan, police, narcotic_
+_Context: narcotic, Afghanistan, International Security Assistance Force, police, Helmand_
 
 ##### India
 ### [A nationwide strike takes place in India in protest at a recent rise in fuel prices. ](/news/2010/07/5/a-nationwide-strike-takes-place-in-india-in-protest-at-a-recent-rise-in-fuel-prices.md)
@@ -41,7 +41,7 @@ A classical concert in support of captured Israeli soldier Gilad Shalit is held 
 
 ##### plane crash
 ### [At least 11 people died after a plane crash in Tuzla, Romania. ](/news/2010/07/5/at-least-11-people-died-after-a-plane-crash-in-tuzla-romania.md)
-_Context: plane crash, Tuzla, Romania_
+_Context: Romania, plane crash, Tuzla_
 
 ##### Deepwater Horizon oil spill
 ### [Tar balls from the Gulf oil disaster reach Louisiana's Lake Pontchartrain and the shores of Texas near Galveston, on day 77 of the disaster. ](/news/2010/07/5/tar-balls-from-the-gulf-oil-disaster-reach-louisianaas-lake-pontchartrain-and-the-shores-of-texas-near-galveston-on-day-77-of-the-disaste.md)
@@ -49,7 +49,7 @@ Laboratory tests showed that the tar balls came from the BP Macondo well that bl
 
 ##### Xinjiang
 ### [Security is boosted in Xinjiang in western China on the anniversary of the July 2009 Urumqi riots. ](/news/2010/07/5/security-is-boosted-in-xinjiang-in-western-china-on-the-anniversary-of-the-july-2009-ara1-4mqi-riots.md)
-_Context: China, Xinjiang, ethnic riots_
+_Context: Xinjiang, China, ethnic riots_
 
 ##### Saidnaya
 ### [Human rights groups say at least 52 prisoners have disappeared from Saidnaya Military Prison in Syria, following disturbances in 2008 that led to the deaths of 22 people. ](/news/2010/07/5/human-rights-groups-say-at-least-52-prisoners-have-disappeared-from-saidnaya-military-prison-in-syria-following-disturbances-in-2008-that-l.md)
@@ -69,7 +69,7 @@ Justin Bieber tour page is the target of internet pranksters, voting for the Can
 
 ##### Bobby Fischer
 ### [The body of late chess legend Bobby Fischer has been exhumed in Iceland, in an effort to settle paternity questions. ](/news/2010/07/5/the-body-of-late-chess-legend-bobby-fischer-has-been-exhumed-in-iceland-in-an-effort-to-settle-paternity-questions.md)
-_Context: Bobby Fischer, Iceland_
+_Context: Iceland, Bobby Fischer_
 
 ##### Japanese
 ### [Japanese scientists believe the SELENE probe has spotted rocks that originated deep within the Moon on its surface. ](/news/2010/07/5/japanese-scientists-believe-the-selene-probe-has-spotted-rocks-that-originated-deep-within-the-moon-on-its-surface.md)
@@ -81,7 +81,7 @@ Bronislaw Komorowski is declared the winner in a dramatic race for the Polish pr
 
 ##### Mexico
 ### [The Institutional Revolutionary Party (PRI) did not achieve as big a win as exit polls indicated, with the National Action Party (PAN) running ahead in three states that are currently controlled by PRI. ](/news/2010/07/5/the-institutional-revolutionary-party-pri-did-not-achieve-as-big-a-win-as-exit-polls-indicated-with-the-national-action-party-pan-runni.md)
-_Context: National Action Party (PAN), Mexico, Institutional Revolutionary Party_
+_Context: National Action Party (PAN), Institutional Revolutionary Party, Mexico_
 
 ##### Bayan Muna
 ### [A local politician and provincial Bayan Muna party leader in Aklan, Fernando Baldomero, is shot dead bringing the total number of political and human rights activists killed in the Philippines since the return of democracy in 1986 to over 1,200. ](/news/2010/07/5/a-local-politician-and-provincial-bayan-muna-party-leader-in-aklan-fernando-baldomero-is-shot-dead-bringing-the-total-number-of-political.md)

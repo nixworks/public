@@ -9,7 +9,7 @@ At least 60 people have been killed in the Central African Republic in fighting 
 
 ##### Boko Haram
 ### [Fighting between Boko Haram and government-backed vigilantes in Borno State leaves 18 dead. ](/news/2013/09/9/fighting-between-boko-haram-and-government-backed-vigilantes-in-borno-state-leaves-18-dead.md)
-_Context: Boko Haram, Borno State_
+_Context: Borno State, Boko Haram_
 
 ##### Muslim
 ### [Followers of Muslim separatist leader Nur Misuari launch an attack on the southern Philippines port of Zamboanga City, forcing the closure of businesses and schools. ](/news/2013/09/9/followers-of-muslim-separatist-leader-nur-misuari-launch-an-attack-on-the-southern-philippines-port-of-zamboanga-city-forcing-the-closure-o.md)
@@ -17,11 +17,11 @@ An attack by dozens of Muslim rebels shut down the major southern Philippine por
 
 ##### Mahmoud Badr
 ### [Mahmoud Badr, the founder of the Tamarod grassroots movement that helped spark the July 2013 Egyptian protests, reportedly survives an assassination attempt. ](/news/2013/09/9/mahmoud-badr-the-founder-of-the-tamarod-grassroots-movement-that-helped-spark-the-july-2013-egyptian-protests-reportedly-survives-an-assas.md)
-_Context: Tamarod, Mahmoud Badr, July 2013 Egyptian protests_
+_Context: Tamarod, July 2013 Egyptian protests, Mahmoud Badr_
 
 ##### Russia
 ### [A senior Russian diplomat is gunned down in Sukhumi, the capital of Georgia's breakaway region of Abkhazia. ](/news/2013/09/9/a-senior-russian-diplomat-is-gunned-down-in-sukhumi-the-capital-of-georgia-s-breakaway-region-of-abkhazia.md)
-_Context: Sukhumi,  Georgian, Abkhazia, Russia_
+_Context: Abkhazia, Russia,  Georgian, Sukhumi_
 
 ##### AK-47s
 ### [A man calls the police that he has an AK-47 in both Santa Fe Middle School in Monrovia, California and the "Citrus Medical Center" in West Covina, California. ](/news/2013/09/9/a-man-calls-the-police-that-he-has-an-ak-47-in-both-santa-fe-middle-school-in-monrovia-california-and-the-citrus-medical-center-in-west-c.md)
@@ -29,11 +29,11 @@ A Monrovia middle school was on lockdown Monday afternoon after a man called pol
 
 ##### Van Gogh Museum
 ### [The Van Gogh Museum in Amsterdam identifies a new Vincent Van Gogh painting, "Sunset at Montmajour". ](/news/2013/09/9/the-van-gogh-museum-in-amsterdam-identifies-a-new-vincent-van-gogh-painting-sunset-at-montmajour.md)
-_Context: Van Gogh, Sunset at Montmajour, Van Gogh Museum, Amsterdam_
+_Context: Van Gogh Museum, Van Gogh, Sunset at Montmajour, Amsterdam_
 
 ##### Israel
 ### [Israel's Hebrew University of Jerusalem announces the discovery of a 1,400-year-old golden treasure trove at the foot of the Temple Mount. ](/news/2013/09/9/israel-s-hebrew-university-of-jerusalem-announces-the-discovery-of-a-1-400-year-old-golden-treasure-trove-at-the-foot-of-the-temple-mount.md)
-_Context: Temple Mount, Hebrew University of Jerusalem, Israel, treasure trove_
+_Context: Temple Mount, treasure trove, Israel, Hebrew University of Jerusalem_
 
 ##### Guatemala
 ### [At least 44 people are dead and 45 injured after a bus crashes into a ravine in northern Guatemala. ](/news/2013/09/9/at-least-44-people-are-dead-and-45-injured-after-a-bus-crashes-into-a-ravine-in-northern-guatemala.md)

@@ -21,7 +21,7 @@ Police in Sweden have shot and killed a knife-wielding man after he allegedly st
 
 ##### President
 ### [Opponents of deposed Egyptian president Mohamed Morsi call for demonstrations to be held today in the aftermath of the 2013 Egyptian coup d'etat ](/news/2013/07/7/opponents-of-deposed-egyptian-president-mohamed-morsi-call-for-demonstrations-to-be-held-today-in-the-aftermath-of-the-2013-egyptian-coup-d.md)
-_Context: President, aftermath of the 2013 Egyptian coup d'etat, Mohamed Morsi_
+_Context: Mohamed Morsi, aftermath of the 2013 Egyptian coup d'etat, President_
 
 ## [Previous Day...](/news/2013/07/6/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2011/01/18/index.html)  [JSON](2011/01/18/index.json)  [XML](201
 
 ##### United States
 ### [A US drone attack kills five militants in a compound in northwest Pakistan. ](/news/2011/01/18/a-us-drone-attack-kills-five-militants-in-a-compound-in-northwest-pakistan.md)
-_Context: United States, drone attack, War in North-West Pakistan_
+_Context: drone attack, United States, War in North-West Pakistan_
 
 ##### Sudan People's Armed Forces
 ### [Three Sudanese army officers are killed in a clash between rebel forces and the army in western Darfur. ](/news/2011/01/18/three-sudanese-army-officers-are-killed-in-a-clash-between-rebel-forces-and-the-army-in-western-darfur.md)
@@ -53,7 +53,7 @@ _Context: Apple Inc._
 
 ##### Brazil
 ### [Brazil's military increases rescue and supply operations following the worst disaster in the country's history. ](/news/2011/01/18/brazil-s-military-increases-rescue-and-supply-operations-following-the-worst-disaster-in-the-country-s-history.md)
-_Context: the recent floods and landslides in Rio de Janeiro state, Brazil_
+_Context: Brazil, the recent floods and landslides in Rio de Janeiro state_
 
 ##### South Africa
 ### [South Africa declares eight of its nine provinces disaster areas following the deaths of 41 people during floods. ](/news/2011/01/18/south-africa-declares-eight-of-its-nine-provinces-disaster-areas-following-the-deaths-of-41-people-during-floods.md)
@@ -65,7 +65,7 @@ _Context: Sri Lanka_
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev, on his first visit to the West Bank as head of state, confirms "support [for] the inalienable right of the Palestinian people to an independent state with its capital in East Jerusalem." ](/news/2011/01/18/president-of-russia-dmitry-medvedev-on-his-first-visit-to-the-west-bank-as-head-of-state-confirms-support-for-the-inalienable-right-of.md)
-_Context: Russian President, Dmitry Medvedev, West Bank, East Jerusalem_
+_Context: East Jerusalem, Dmitry Medvedev, West Bank, Russian President_
 
 ##### Puntland
 ### [The Puntland autonomous region of Somalia says it is "breaking away" from the federation until a legitimate government is put in place. ](/news/2011/01/18/the-puntland-autonomous-region-of-somalia-says-it-is-breaking-away-from-the-federation-until-a-legitimate-government-is-put-in-place.md)
@@ -77,7 +77,7 @@ Chinese President Hu Jintao kicks off a four-day US visit with a rare private di
 
 ##### Association of Chief Police Officers
 ### [The British government suggests the Association of Chief Police Officers (Acpo), a private company run by police chiefs, ought to have its power to run undercover spies removed after recent revelations about Mark Kennedy, policeman and undercover spy on international activists, as it acknowledges for the first time that "something had gone very wrong". ](/news/2011/01/18/the-british-government-suggests-the-association-of-chief-police-officers-acpo-a-private-company-run-by-police-chiefs-ought-to-have-its-p.md)
-_Context: Association of Chief Police Officers, Mark Kennedy_
+_Context: Mark Kennedy, Association of Chief Police Officers_
 
 ##### Haiti
 ### [Haitian authorities arrest former president Jean-Claude Duvalier. ](/news/2011/01/18/haitian-authorities-arrest-former-president-jean-claude-duvalier.md)
@@ -97,7 +97,7 @@ Irish PM Brian Cowen survives a secret confidence vote on his leadership in the 
 
 ##### Qatar Emir
 ### [Emir of Qatar Sheikh Hamad bin Khalifa Al Thani appoints Mohammed Saleh al-Sada as Energy Minister, succeeding Abdullah Al-Attiyah in a cabinet reshuffle. ](/news/2011/01/18/emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-appoints-mohammed-saleh-al-sada-as-energy-minister-succeeding-abdullah-al-attiyah-in-a-cabi.md)
-_Context: Qatar, Energy Minister, Hamad bin Khalifa Al Thani, Qatar Emir, Abdullah Al-Attiyah_
+_Context: Energy Minister, Qatar Emir, Hamad bin Khalifa Al Thani, Qatar, Abdullah Al-Attiyah_
 
 ##### Communist Party
 ### [Voting continues at a congress of the Communist Party of Vietnam as it selects a new leadership. ](/news/2011/01/18/voting-continues-at-a-congress-of-the-communist-party-of-vietnam-as-it-selects-a-new-leadership.md)

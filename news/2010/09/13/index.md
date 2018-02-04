@@ -21,11 +21,11 @@ Cuba plans to lay off more than a million public sector workers, with half the j
 
 ##### Basel Committee on Banking Supervision
 ### [The Basel Committee on Banking Supervision based in Basel, Switzerland, increases capital requirements for banks around the world to be introduced on 1 January 2015. ](/news/2010/09/13/the-basel-committee-on-banking-supervision-based-in-basel-switzerland-increases-capital-requirements-for-banks-around-the-world-to-be-intr.md)
-_Context: Switzerland, bank, Basel Committee on Banking Supervision, Basel_
+_Context: Basel, Basel Committee on Banking Supervision, Switzerland, bank_
 
 ##### Harley-Davidson
 ### [Harley-Davidson workers in Menomonee Falls, Wisconsin approve a new contract freezing pay and cutting jobs following a threat to move production from the state cutting 1,350 jobs. ](/news/2010/09/13/harley-davidson-workers-in-menomonee-falls-wisconsin-approve-a-new-contract-freezing-pay-and-cutting-jobs-following-a-threat-to-move-produc.md)
-_Context: Harley-Davidson, Menomonee Falls, Wisconsin_
+_Context: Menomonee Falls, Wisconsin, Harley-Davidson_
 
 ##### Food and Drug Administration
 ### [A study of Food and Drug Administration and U.S. Department of Agriculture employees shows that the food industry has been successfully withholding information from inspectors and pressuring the government agencies to withdraw or alter policies which promote food safety. ](/news/2010/09/13/a-study-of-food-and-drug-administration-and-u-s-department-of-agriculture-employees-shows-that-the-food-industry-has-been-successfully-with.md)
@@ -33,11 +33,11 @@ The food industry is jeopardizing U.S. public health by withholding information 
 
 ##### Conviasa
 ### [At least 17 people die after a Conviasa ATR 42 crashes near Ciudad Guayana in Venezuela's Bolivar State. ](/news/2010/09/13/at-least-17-people-die-after-a-conviasa-atr-42-crashes-near-ciudad-guayana-in-venezuela-s-bolavar-state.md)
-_Context: Venezuela, Ciudad Guayana, ATR 42, crashes, Conviasa, Bolivar State_
+_Context: Conviasa, Venezuela, crashes, Ciudad Guayana, Bolivar State, ATR 42_
 
 ##### Monsoon
 ### [Monsoon flooding on the Yamuna River threatens the Taj Mahal in Agra, India after more than 800,000 cuft-s of water had to be released from a barrage in Haryana, while hundreds of nearby villages flooded and flooding continues in Uttar Pradesh and Punjab. ](/news/2010/09/13/monsoon-flooding-on-the-yamuna-river-threatens-the-taj-mahal-in-agra-india-after-more-than-800-000-cuft-s-of-water-had-to-be-released-from.md)
-_Context: Yamuna River, barrage, Taj Mahal, Agra, India, Monsoon, Haryana, Punjab, Uttar Pradesh_
+_Context: Agra, Uttar Pradesh, India, barrage, Taj Mahal, Yamuna River, Monsoon, Punjab, Haryana_
 
 ##### Yuri Fedotov
 ### [Russian diplomat Yuri Fedotov takes office as the head of the United Nations Office on Drugs and Crime. ](/news/2010/09/13/russian-diplomat-yuri-fedotov-takes-office-as-the-head-of-the-united-nations-office-on-drugs-and-crime.md)
@@ -45,7 +45,7 @@ _Context: United Nations Office on Drugs and Crime, Yuri Fedotov_
 
 ##### National Resistance Movement
 ### [The ruling National Resistance Movement in Uganda endorses incumbent President Yoweri Museveni to run for a fourth term in presidential elections in early 2011. ](/news/2010/09/13/the-ruling-national-resistance-movement-in-uganda-endorses-incumbent-president-yoweri-museveni-to-run-for-a-fourth-term-in-presidential-elec.md)
-_Context: Yoweri Museveni, National Resistance Movement, President, Uganda_
+_Context: Uganda, National Resistance Movement, President, Yoweri Museveni_
 
 ##### Korean Workers' Party
 ### [A rare congress of the Korean Workers' Party in North Korea is postponed amid speculation about the health of Kim Jong-il. ](/news/2010/09/13/a-rare-congress-of-the-korean-workers-party-in-north-korea-is-postponed-amid-speculation-about-the-health-of-kim-jong-il.md)
@@ -53,7 +53,7 @@ It seems Kim Jong-il ̔s poor health is the reason for the delay of North Korea 
 
 ##### Andre-Joseph Leonard
 ### [Andre-Joseph Leonard, the Archbishopric of Mechelen-Brussels and head of Belgium's Roman Catholic Church, announces how the church will deal with widespread cases of sexual abuse within its ranks. ](/news/2010/09/13/andra-c-joseph-la-c-onard-the-archbishopric-of-mechelen-brussels-and-head-of-belgium-s-roman-catholic-church-announces-how-the-church-will-de.md)
-_Context: Belgium, Archbishopric of Mechelen-Brussels, Roman Catholic, Andre-Joseph Leonard, sexual abuse_
+_Context: Roman Catholic, sexual abuse, Belgium, Andre-Joseph Leonard, Archbishopric of Mechelen-Brussels_
 
 #####  Congress
 ### [US defense officials claim they are preparing to notify Congress of plans to sell $60 billion of military equipment to Saudi Arabia. ](/news/2010/09/13/us-defense-officials-claim-they-are-preparing-to-notify-congress-of-plans-to-sell-60-billion-of-military-equipment-to-saudi-arabia.md)

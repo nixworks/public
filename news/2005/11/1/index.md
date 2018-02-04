@@ -5,7 +5,7 @@ Formats: [HTML](2005/11/1/index.html)  [JSON](2005/11/1/index.json)  [XML](2005/
 
 ##### United States
 ### [ U.S. Senate Minority Leader Harry Reid and his fellow Democrats force a closed session of the Senate over misinformed intelligence that led to the Iraq War and evasion of a congressional inquiry. ](/news/2005/11/1/u-s-senate-minority-leader-harry-reid-and-his-fellow-democrats-force-a-closed-session-of-the-senate-over-misinformed-intelligence-that-led.md)
-_Context: closed session, United States Senate, Harry Reid, United States Senate Minority Leader, Democrat, Iraq War, United States_
+_Context: United States Senate Minority Leader, United States, Harry Reid, Democrat, closed session, United States Senate, Iraq War_
 
 ##### moons
 ### [ The discovery of two additional moons of Pluto is announced. ](/news/2005/11/1/the-discovery-of-two-additional-moons-of-pluto-is-announced.md)
@@ -13,35 +13,35 @@ _Context: Pluto, moons_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council passed a UNSC resolution (S-RES-1636 (2005)) which requests urgently and forcefully Syria's full cooperation with the investigation into the assassination of former Lebanese Prime Minister Rafik Hariri. ](/news/2005/11/1/the-united-nations-security-council-passed-a-unsc-resolution-s-res-1636-2005-which-requests-urgently-and-forcefully-syria-s-full-cooper.md)
-_Context: United Nations Security Council, assassination, Lebanon, UNSC resolution, Syria, Rafik Hariri, Prime Minister of Lebanon_
+_Context: UNSC resolution, Rafik Hariri, United Nations Security Council, Lebanon, assassination, Syria, Prime Minister of Lebanon_
 
 ##### Zanzibar
 ### [ Zanzibar's ruling Chama Cha Mapinduzi party and President Amani Abeid Karume are declared re-elected in a disputed election. Police clashed with opposition supporters, leaving 9 dead. ](/news/2005/11/1/zanzibar-s-ruling-chama-cha-mapinduzi-party-and-president-amani-abeid-karume-are-declared-re-elected-in-a-disputed-election-police-clashed.md)
-_Context: Zanzibar, Chama Cha Mapinduzi, President, Amani Abeid Karume_
+_Context: Amani Abeid Karume, Chama Cha Mapinduzi, Zanzibar, President_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: 2 Palestinian militants, one from Hamas, the other the Al Aqsa Martyrs Brigade, have died following an Israeli air-strike in the Gaza Strip. ](/news/2005/11/1/israeli-palestinian-conflict-2-palestinian-militants-one-from-hamas-the-other-the-al-aqsa-martyrs-brigade-have-died-following-an-israel.md)
-_Context: Palestinian, Israeli-Palestinian Conflict, Israel, Gaza Strip, Al Aqsa Martyrs Brigade, Hamas_
+_Context: Gaza Strip, Israel, Palestinian, Hamas, Al Aqsa Martyrs Brigade, Israeli-Palestinian Conflict_
 
 ##### North Korea
 ### [ North Korea and South Korea will field a united Olympics team at the next Olympic Games. ](/news/2005/11/1/north-korea-and-south-korea-will-field-a-united-olympics-team-at-the-next-olympic-games.md)
-_Context: South Korea, North Korea, Olympic Games_
+_Context: Olympic Games, South Korea, North Korea_
 
 ##### John Gomery
 ### [ Justice John Gomery releases the first part of the Gomery Commission report on corruption in the Liberal Party of Canada and the sponsorship scandal. Gomery exonerates current Prime Minister Paul Martin but criticizes former Prime Minister Jean Chrtien and his Quebec lieutenant Alfonso Gagliano. ](/news/2005/11/1/justice-john-gomery-releases-the-first-part-of-the-gomery-commission-report-on-corruption-in-the-liberal-party-of-canada-and-the-sponsorshi.md)
-_Context: Paul Martin, Alfonso Gagliano, Jean Chrtien, Liberal Party's, Quebec, Gomery Commission, John Gomery, sponsorship scandal_
+_Context: Liberal Party's, Jean Chrtien, Alfonso Gagliano, Quebec, Paul Martin, sponsorship scandal, Gomery Commission, John Gomery_
 
 ##### 2005 Paris riots
 ### [ 2005 Paris riots continue for the fifth consecutive night, sparked by the death of two Muslim youths from electric shock. The controversy caused by police firing tear gas into a mosque on Sunday night led to families of the dead youths pulling out of a meeting with the French Minister of the Interior Nicolas Sarkozy. ](/news/2005/11/1/2005-paris-riots-continue-for-the-fifth-consecutive-night-sparked-by-the-death-of-two-muslim-youths-from-electric-shock-the-controversy-c.md)
-_Context: Nicolas Sarkozy, Muslim, France, electric shock, mosque, 2005 Paris riots, minister of the interior, tear gas_
+_Context: mosque, France, electric shock, Muslim, minister of the interior, Nicolas Sarkozy, 2005 Paris riots, tear gas_
 
 ##### Makybe Diva
 ### [ Makybe Diva wins the Melbourne Cup thoroughbred horse race for the third consecutive year, becoming the first horse ever to do so. Shortly thereafter, owner Tony Santic announces her retirement from racing. ](/news/2005/11/1/makybe-diva-wins-the-melbourne-cup-thoroughbred-horse-race-for-the-third-consecutive-year-becoming-the-first-horse-ever-to-do-so-shortly.md)
-_Context: Makybe Diva, thoroughbred racing, Melbourne Cup_
+_Context: Melbourne Cup, thoroughbred racing, Makybe Diva_
 
 ##### United States
 ### [ U.S. prosecutors admitted that Omar al-Faruq was one of four detainees to escape from the Bagram base, Afghanistan, in July, all of whom are still on the run. ](/news/2005/11/1/u-s-prosecutors-admitted-that-omar-al-faruq-was-one-of-four-detainees-to-escape-from-the-bagram-base-afghanistan-in-july-all-of-whom-ar.md)
-_Context: July, Afghanistan, Omar al-Faruq, United States, Bagram_
+_Context: Afghanistan, Omar al-Faruq, Bagram, United States, July_
 
 ## [Previous Day...](/news/2005/10/31/index.md)
 

@@ -9,7 +9,7 @@ An overcrowded ferry sinks off Pattaya in eastern Thailand, killing at least six
 
 ##### turboprop
 ### [A small turboprop plane carrying 18 people crashes while trying to land in bad, rainy weather in the Andes Mountains of northern Bolivia, killing 8, and injuring 10, including the pilot and co-pilot, on a trip from Trinidad, Bolivia to Riberalta, Bolivia, in El Beni Department near Brazil. ](/news/2013/11/3/a-small-turboprop-plane-carrying-18-people-crashes-while-trying-to-land-in-bad-rainy-weather-in-the-andes-mountains-of-northern-bolivia-ki.md)
-_Context: turboprop, Trinidad, El Beni Department, Andes Mountains, Riberalta, Brazil, Bolivia_
+_Context: turboprop, Riberalta, El Beni Department, Andes Mountains, Trinidad, Bolivia, Brazil_
 
 ##### Mohamed Morsi
 ### [Ousted Egyptian president Mohamed Morsi's trial starts in Cairo's police academy. He faces charges of inciting violence and murder in connection with clashes at the presidential palace in Cairo in December 2012. ](/news/2013/11/3/ousted-egyptian-president-mohamed-morsi-s-trial-starts-in-cairo-s-police-academy-he-faces-charges-of-inciting-violence-and-murder-in-connec.md)

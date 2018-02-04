@@ -41,17 +41,17 @@ Turkey accused Russia of a &quot;provocation&quot; on Sunday after a serviceman 
 
 ##### Russia
 ### [Russia's envoy to the International Atomic Energy Agency says he expects the historic nuclear deal between Iran and world powers, the P5+1, to be implemented in January. Before the end of the year, Iran will exchange its stockpile of low-enriched uranium for Russia's non-enriched forms of uranium, he said. ](/news/2015/12/7/russia-s-envoy-to-the-international-atomic-energy-agency-says-he-expects-the-historic-nuclear-deal-between-iran-and-world-powers-the-p5-1.md)
-_Context: several world powers, Russia, uranium, IAEA, low-enriched uranium, Joint Comprehensive Plan of Action, Iran_
+_Context: Russia, several world powers, IAEA, low-enriched uranium, Joint Comprehensive Plan of Action, Iran, uranium_
 
 ##### Iran's Cyber Police Chief
 ### [Iran's Cyber Police Chief announces the arrest of some 53 people for allegedly running websites supportive of the Islamic State militant group. ](/news/2015/12/7/iran-s-cyber-police-chief-announces-the-arrest-of-some-53-people-for-allegedly-running-websites-supportive-of-the-islamic-state-militant-gro.md)
-_Context: ISIL, website, Iran's Cyber Police Chief_
+_Context: ISIL, Iran's Cyber Police Chief, website_
 
 ##### Supreme Court of the United States
 ### [The United States Supreme Court declines ("Friedman v. Highland Park") to review the ability of cities and states to prohibit semiautomatic, high-capacity assault weapons that have been used in some of the nation's most deadly recent mass shootings. The nationwide assault weapons ban law expired in 2004. Since the "District of Columbia v. Heller" decision in 2008 found the Second Amendment provides the right for an individual to keep a weapon in the home, the court has avoided all cases that might clarify if that right is more expansive. ](/news/2015/12/7/the-united-states-supreme-court-declines-friedman-v-highland-park-to-review-the-ability-of-cities-and-states-to-prohibit-semiautomatic.md)
 Gun rights advocates are frustrated that the justices won&rsquo;t address laws restricting gun ownership.
 
-##### DoJ
+##### Department of Justice
 ### [The United States Department of Justice will investigate the Chicago, Illinois police department. Long concerned with Chicago police department practices, the investigation is precipitated by the recent release of a video of the shooting death of Laquan McDonald. The Chicago police are set to release another video showing the police killing of Ronald Johnson in October of 2014. ](/news/2015/12/7/the-united-states-department-of-justice-will-investigate-the-chicago-illinois-police-department-long-concerned-with-chicago-police-departm.md)
 The department has had longstanding concerns about the Chicago police, but the current inquiry revolves around the scant details that were given after the shooting of the 17-year-old in 2014.
 
@@ -61,7 +61,7 @@ WASHINGTON -- The Obama administration will announce a new terror alert system &
 
 ##### whaling
 ### [Australia is threatening to take legal action against Japan over its resumption of its controversial whale hunt in the Antarctic Ocean. A whaling fleet set sail last week, ignoring international condemnation, and last year's ruling by the International Court of Justice (ICJ) prohibiting these hunts. ](/news/2015/12/7/australia-is-threatening-to-take-legal-action-against-japan-over-its-resumption-of-its-controversial-whale-hunt-in-the-antarctic-ocean-a-wh.md)
-_Context: Australia, whaling, Southern Ocean, International Court of Justice, hunt, whale, Japan_
+_Context: whale, hunt, Japan, Australia, whaling, Southern Ocean, International Court of Justice_
 
 ##### landslide victory in the December 6 election
 ### [Venezuela's National Electoral Council announces the opposition Democratic Unity Roundtable (MUD) has won at least 99 seats in the 167-member National Assembly in Sunday's elections. The previous-ruling United Social Party of Venezuela (PSUV) picked up 46. Results for 22 contests remain to be determined. Voter turnout was a stunning 74.3 percent. "Within seconds," President Nicolas Maduro recognized the opposition's win, saying that despite (his party's) adverse result, Venezuela's democracy has triumphed. ](/news/2015/12/7/venezuela-s-national-electoral-council-announces-the-opposition-democratic-unity-roundtable-mud-has-won-at-least-99-seats-in-the-167-membe.md)

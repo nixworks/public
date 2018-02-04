@@ -9,7 +9,7 @@ Entertainer Elton John and longtime mate David Furnish have officially converted
 
 ##### Egypt
 ### [Egypt temporarily reopens its border crossing with Gaza, which had been closed since October, until 4 pm Monday. ](/news/2014/12/21/egypt-temporarily-reopens-its-border-crossing-with-gaza-which-had-been-closed-since-october-until-4-pm-monday.md)
-_Context: border crossing, Gaza Strip, Egypt_
+_Context: Gaza Strip, border crossing, Egypt_
 
 ##### avian influenza
 ### [Due to avian influenza in the United States (Oregon), South Korea suspends US imports of poultry. ](/news/2014/12/21/due-to-avian-influenza-in-the-united-states-oregon-south-korea-suspends-us-imports-of-poultry.md)
@@ -25,7 +25,7 @@ China has detained over 30,000 people during a two-month clamp down on pornograp
 
 ##### Beji Caid Essebsi
 ### [Beji Caid Essebsi of the secularist Nidaa Tounes party wins Tunisia's presidential election. ](/news/2014/12/21/beji-caid-essebsi-of-the-secularist-nidaa-tounes-party-wins-tunisia-s-presidential-election.md)
-_Context: Beji Caid Essebsi, Tunisia's presidential election, Nidaa Tounes_
+_Context: Nidaa Tounes, Beji Caid Essebsi, Tunisia's presidential election_
 
 ## [Previous Day...](/news/2014/12/20/index.md)
 

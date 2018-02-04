@@ -13,7 +13,7 @@ Boat with up to 700 migrants on board capsizes, only 28 survivors reported&nbsp;
 
 ##### Elections in Northern Cyprus
 ### [Voters in Northern Cyprus go to the polls for an election for a new President to represent them in peace talks with the southern Republic of Cyprus. ](/news/2015/04/19/voters-in-northern-cyprus-go-to-the-polls-for-an-election-for-a-new-president-to-represent-them-in-peace-talks-with-the-southern-republic-of.md)
-_Context: Republic of Cyprus, Elections in Northern Cyprus, northern, president_
+_Context: northern, Republic of Cyprus, Elections in Northern Cyprus, president_
 
 ##### Finnish parliamentary election, 2015
 ### [Voters in Finland go to the polls for a parliamentary election with a new coalition government led by Juha Sipila of the Centre Party favoured to form government after negotiation. ](/news/2015/04/19/voters-in-finland-go-to-the-polls-for-a-parliamentary-election-with-a-new-coalition-government-led-by-juha-sipila-of-the-centre-party-favou.md)

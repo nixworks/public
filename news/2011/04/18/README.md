@@ -9,7 +9,7 @@ The best of British &amp; international news, opinion, sport, people &amp; busin
 
 ##### Muslim
 ### [Suspected Muslim insurgents detonate a bomb in southern Thailand, killing one and injuring 23 people. ](/news/2011/04/18/suspected-muslim-insurgents-detonate-a-bomb-in-southern-thailand-killing-one-and-injuring-23-people.md)
-_Context: Thailand, Muslim_
+_Context: Muslim, Thailand_
 
 ##### Syria
 ### [Eight killed in Syrian Protests. ](/news/2011/04/18/eight-killed-in-syrian-protests.md)

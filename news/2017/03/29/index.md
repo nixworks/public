@@ -29,7 +29,7 @@ The Hawaii federal judge who brought President Trump&apos;s revised travel ban t
 
 ##### Brexit
 ### [The United Kingdom formally notifies the European Council of its intention to withdraw from the European Union and the European Atomic Energy Community. There is not yet agreement on a negotiations roadmap. ](/news/2017/03/29/the-united-kingdom-formally-notifies-the-european-council-of-its-intention-to-withdraw-from-the-european-union-and-the-european-atomic-energ.md)
-_Context: European Atomic Energy Community, European Council, Brexit, European Union, British_
+_Context: British, Brexit, European Atomic Energy Community, European Council, European Union_
 
 ##### last month's presidential election
 ### [Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. ](/news/2017/03/29/former-candidate-manuel-valls-ps-announces-his-support-for-emmanuel-macron-en-marche-rather-than-for-his-own-party-s-nominee-benoa-r-t-h.md)

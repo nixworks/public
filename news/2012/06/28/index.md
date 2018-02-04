@@ -5,7 +5,7 @@ Formats: [HTML](2012/06/28/index.html)  [JSON](2012/06/28/index.json)  [XML](201
 
 ##### Mexican Drug War
 ### [Mexican Drug War: A kidnapped Mexican mayor is found tortured and killed in the state of Oaxaca. ](/news/2012/06/28/mexican-drug-war-a-kidnapped-mexican-mayor-is-found-tortured-and-killed-in-the-state-of-oaxaca.md)
-_Context: Mexican Drug War, List of politicians killed in the Mexican Drug War, Oaxaca_
+_Context: Oaxaca, List of politicians killed in the Mexican Drug War, Mexican Drug War_
 
 ##### Turkish
 ### [Turkey sends rocket launchers and anti-aircraft guns to its border with Syria following the downing of a Turkish military plane last week. ](/news/2012/06/28/turkey-sends-rocket-launchers-and-anti-aircraft-guns-to-its-border-with-syria-following-the-downing-of-a-turkish-military-plane-last-week.md)
@@ -13,11 +13,11 @@ Turkey deploys anti-aircraft guns along its border with Syria; meanwhile, explos
 
 ##### Taliban
 ### [The Taliban releases a video of 17 decapitated Pakistani soldiers. ](/news/2012/06/28/the-taliban-releases-a-video-of-17-decapitated-pakistani-soldiers.md)
-_Context: Pakistan Army, Taliban_
+_Context: Taliban, Pakistan Army_
 
 ##### Pakistan
 ### [In Pakistan, a bomb in Quetta explodes next to a bus carrying Shias, killing 10 and leaving 30 injured.](/news/2012/06/28/in-pakistan-a-bomb-in-quetta-explodes-next-to-a-bus-carrying-shias-killing-10-and-leaving-30-injured.md)
-_Context: Pakistan, Quetta, Shia_
+_Context: Pakistan, Shia, Quetta_
 
 ##### Iraq
 ### [At least 14 people are killed and more than 50 wounded in a series of car bomb attacks in Iraq. ](/news/2012/06/28/at-least-14-people-are-killed-and-more-than-50-wounded-in-a-series-of-car-bomb-attacks-in-iraq.md)
@@ -33,7 +33,7 @@ _Context: The Wall Street Journal, News Corporation_
 
 ##### Eurozone
 ### [Eurozone leaders hold an emergency meeting on assistance to Spain and Italy. ](/news/2012/06/28/eurozone-leaders-hold-an-emergency-meeting-on-assistance-to-spain-and-italy.md)
-_Context: Italy, Eurozone, Spain_
+_Context: Spain, Italy, Eurozone_
 
 ##### United Nations
 ### [The United Nations expresses concern over the historical city of Timbuktu. ](/news/2012/06/28/the-united-nations-expresses-concern-over-the-historical-city-of-timbuktu.md)
@@ -65,23 +65,23 @@ _Context: Radovan Karadzic_
 
 ##### New Zealand
 ### [A New Zealand court rules that search warrants used to raid the home of Kim Dotcom, founder of MegaUpload, in connection to alleged copyright infringement were invalid. ](/news/2012/06/28/a-new-zealand-court-rules-that-search-warrants-used-to-raid-the-home-of-kim-dotcom-founder-of-megaupload-in-connection-to-alleged-copyrigh.md)
-_Context: MegaUpload, Kim Dotcom, search warrants, New Zealand_
+_Context: search warrants, Kim Dotcom, New Zealand, MegaUpload_
 
 ##### BBC
 ### [The BBC uncovers files showing that Raymond Mawby, a Conservative Minister during the 1960s, passed information to Czechoslovak agents in exchange for money. ](/news/2012/06/28/the-bbc-uncovers-files-showing-that-raymond-mawby-a-conservative-minister-during-the-1960s-passed-information-to-czechoslovak-agents-in-ex.md)
-_Context: Conservative Party, Czechoslovak, BBC, Raymond Mawby_
+_Context: Raymond Mawby, BBC, Conservative Party, Czechoslovak_
 
 ##### David Cameron
 ### [British Prime Minister David Cameron says the management of Barclays faces "serious questions" about its role in distorting key interest rates to rig international markets. ](/news/2012/06/28/british-prime-minister-david-cameron-says-the-management-of-barclays-faces-serious-questions-about-its-role-in-distorting-key-interest-rat.md)
-_Context: Barclays, David Cameron_
+_Context: David Cameron, Barclays_
 
 ##### House of Representatives
 ### [The United States House of Representatives holds Attorney-General Eric Holder in contempt for his perceived obstruction of the Congressional investigation into Operation Fast and Furious. Most House Republicans and 17 Democrats approve the decision. ](/news/2012/06/28/the-united-states-house-of-representatives-holds-attorney-general-eric-holder-in-contempt-for-his-perceived-obstruction-of-the-congressional.md)
-_Context: Eric Holder, House of Representatives, Operation Fast and Furious, Attorney-General, Democrat, Republican, contempt_
+_Context: Operation Fast and Furious, House of Representatives, Republican, contempt, Eric Holder, Democrat, Attorney-General_
 
 ##### Google
 ### [Google vice president Sundar Pichai officially claims that Google Chrome is the most used web browser in the world. ](/news/2012/06/28/google-vice-president-sundar-pichai-officially-claims-that-google-chrome-is-the-most-used-web-browser-in-the-world.md)
-_Context: Sundar Pichai, web browser, Google, Google Chrome_
+_Context: Google Chrome, Google, Sundar Pichai, web browser_
 
 ##### Emirates Air Line
 ### [The Emirates Air Line gondola lift opens in London. ](/news/2012/06/28/the-emirates-air-line-gondola-lift-opens-in-london.md)

@@ -41,7 +41,7 @@ I naïvely thought the accusation would be dismissed.
 
 ##### Marius the giraffe
 ### [Marius the giraffe is culled and fed to the lions causing worldwide protests from environmental activists. ](/news/2014/02/9/marius-the-giraffe-is-culled-and-fed-to-the-lions-causing-worldwide-protests-from-environmental-activists.md)
-_Context: lion, culled, Marius the giraffe_
+_Context: Marius the giraffe, lion, culled_
 
 ##### Victoria
 ### [Authorities issue emergency warnings for numerous parts of the state of Victoria as conditions are the worst recorded since Black Saturday bushfires on February 7, 2009. ](/news/2014/02/9/authorities-issue-emergency-warnings-for-numerous-parts-of-the-state-of-victoria-as-conditions-are-the-worst-recorded-since-black-saturday-b.md)
@@ -49,7 +49,7 @@ Emergency warnings have been issued for 10 areas throughout the state as bushfir
 
 ##### Pomona Freeway
 ### [A car crash on the Pomona Freeway in Los Angeles, California, kills 6 people. ](/news/2014/02/9/a-car-crash-on-the-pomona-freeway-in-los-angeles-california-kills-6-people.md)
-_Context: Los Angeles, California, Pomona Freeway_
+_Context: California, Los Angeles, Pomona Freeway_
 
 ##### I-275
 ### [A car crash on I-275 in the Tampa Bay Area of Florida kills 5 people. ](/news/2014/02/9/a-car-crash-on-i-275-in-the-tampa-bay-area-of-florida-kills-5-people.md)
@@ -57,11 +57,11 @@ TAMPADozens of men and women gathered on the shoulder of Interstate 275 shortly 
 
 ##### Iran
 ### [Iranian officials say that two Iranian Navy warships will be travelling very close to the United States' maritime border in the Atlantic Ocean. ](/news/2014/02/9/iranian-officials-say-that-two-iranian-navy-warships-will-be-travelling-very-close-to-the-united-states-maritime-border-in-the-atlantic-oce.md)
-_Context: Iranian Naval, Atlantic Ocean, United States, Iran_
+_Context: United States, Iranian Naval, Iran, Atlantic Ocean_
 
 ##### Iran
 ### [Iran agrees to a United Nations plan to address suspicions that they are working on designing an atomic weapon. ](/news/2014/02/9/iran-agrees-to-a-united-nations-plan-to-address-suspicions-that-they-are-working-on-designing-an-atomic-weapon.md)
-_Context: United Nations, Iran, atomic weapon_
+_Context: Iran, United Nations, atomic weapon_
 
 ##### Dhaka
 ### [The owners of Tazreen Fashions, Delwar Hossain and his wife Mahmuda Akter, hand themselves in to face charges of murder in relation to the death of 112 workers in a factory fire in Dhaka, Bangladesh, in November 2012. ](/news/2014/02/9/the-owners-of-tazreen-fashions-delwar-hossain-and-his-wife-mahmuda-akter-hand-themselves-in-to-face-charges-of-murder-in-relation-to-the-d.md)
@@ -73,7 +73,7 @@ Mark Harper, who had led a crackdown that urged illegal immigrants to “go home
 
 ##### Japan
 ### [Voters in the Japanese capital of Tokyo elect Yoichi Masuzoe to replace former Governor Naoki Inose, who resigned on December 24, 2013. ](/news/2014/02/9/voters-in-the-japanese-capital-of-tokyo-elect-yoichi-masuzoe-to-replace-former-governor-naoki-inose-who-resigned-on-december-24-2013.md)
-_Context: Naoki Inose, Tokyo, Yoichi Masuzoe, Japan_
+_Context: Naoki Inose, Tokyo, Japan, Yoichi Masuzoe_
 
 ##### Swiss referendums, 2014
 ### [50.3% of voters vote in favor of the federal popular initiative "against mass immigration", to re-introduce quotas of immigrants for foreigners. ](/news/2014/02/9/50-3-of-voters-vote-in-favor-of-the-federal-popular-initiative-against-mass-immigration-to-re-introduce-quotas-of-immigrants-for-foreign.md)

@@ -13,15 +13,15 @@ A MiG-23 fighter of Libya&#x27;s internationally recognised government was shot 
 
 ##### Yemeni Civil War (2015-present)
 ### [At least five policemen are killed in an attack on a police station in Aden. ](/news/2016/02/12/at-least-five-policemen-are-killed-in-an-attack-on-a-police-station-in-aden.md)
-_Context: policemen, Aden, Yemeni Civil War (2015-present)_
+_Context: Aden, policemen, Yemeni Civil War (2015-present)_
 
 ##### Evgeny Lebedev
 ### [Evgeny Lebedev, the owner of the British national newspaper, "The Independent", announces that as of March 2016, the 29-year-old paper will only publish online with print editions coming to an end. ](/news/2016/02/12/evgeny-lebedev-the-owner-of-the-british-national-newspaper-the-independent-announces-that-as-of-march-2016-the-29-year-old-paper-will.md)
-_Context: British, newspaper, Evgeny Lebedev, The Independent_
+_Context: British, Evgeny Lebedev, newspaper, The Independent_
 
 ##### 2016 Taiwan earthquake
 ### [The death toll from the earthquake rises to 94 with 550 people injured, and at least 30 more missing and believed buried in the apartment complex rubble in Tainan. ](/news/2016/02/12/the-death-toll-from-the-earthquake-rises-to-94-with-550-people-injured-and-at-least-30-more-missing-and-believed-buried-in-the-apartment-co.md)
-_Context: Tainan, 2016 Taiwan earthquake_
+_Context: 2016 Taiwan earthquake, Tainan_
 
 ##### University of British Columbia's
 ### [ University of British Columbia's Michael Brauer reports new research shows more than 5.5 million people die prematurely every year from air pollution, the world's fourth highest risk factor for death. ](/news/2016/02/12/university-of-british-columbiaas-michael-brauer-reports-new-research-shows-more-than-5-5-million-people-die-prematurely-every-year-from-a.md)
@@ -33,7 +33,7 @@ Ministers holding crisis talks over Syria agree to cease hostilities within a we
 
 ##### East-West Schism
 ### [Pope Francis meets with Patriarch Kirill of Moscow in Havana, Cuba. It is the first time that the heads of the Roman Catholic Church and Russian Orthodox Church have ever met. ](/news/2016/02/12/pope-francis-meets-with-patriarch-kirill-of-moscow-in-havana-cuba-it-is-the-first-time-that-the-heads-of-the-roman-catholic-church-and-rus.md)
-_Context: Cuba, Roman Catholic Church, East-West Schism, Pope Francis, Havana, Patriarch Kirill of Moscow, Russian_
+_Context: Pope Francis, Russian, Roman Catholic Church, East-West Schism, Cuba, Havana, Patriarch Kirill of Moscow_
 
 ##### North Korea-South Korea relations
 ### [The discontinuance of electricity and water into the Kaesong area impacts area residents who lose their steady supply of water. The public received about 60 percent of the 17,000 tons of water South Korea pumped north each day. ](/news/2016/02/12/the-discontinuance-of-electricity-and-water-into-the-kaesong-area-impacts-area-residents-who-lose-their-steady-supply-of-water-the-public-r.md)
@@ -41,11 +41,11 @@ Among the losers in the retaliatory sparring between the rival Koreas are reside
 
 ##### Pakistan
 ### [Pakistan arrests 97 people allegedly involved in terrorist groups such as al-Qaeda and Lashkar-e-Jhangvi who were allegedly plotting a variety of attacks including a plan to get Daniel Pearl's killer out of prison. ](/news/2016/02/12/pakistan-arrests-97-people-allegedly-involved-in-terrorist-groups-such-as-al-qaeda-and-lashkar-e-jhangvi-who-were-allegedly-plotting-a-varie.md)
-_Context: Pakistan, Daniel Pearl, al-Qaeda, Lashkar-e-Jhangvi_
+_Context: Pakistan, Lashkar-e-Jhangvi, Daniel Pearl, al-Qaeda_
 
 ##### Independence High School
 ### [Two people are killed on the campus of Independence High School in Glendale, Arizona, near Phoenix. The campus is on lockdown, but there is no active shooter situation any longer. ](/news/2016/02/12/two-people-are-killed-on-the-campus-of-independence-high-school-in-glendale-arizona-near-phoenix-the-campus-is-on-lockdown-but-there-is.md)
-_Context: Phoenix, Arizona, Glendale, Arizona, Independence High School_
+_Context: Independence High School, Phoenix, Arizona, Glendale, Arizona_
 
 ##### Cairo
 ### [In Cairo, thousands of doctors protest against police impunity following the assault, allegedly by Egyptian police officers, of two doctors in a hospital last week. Protests here are rare since enactment of a law limiting demonstrations to those with prior police approval. Another protest is planned across all hospitals for February 20. ](/news/2016/02/12/in-cairo-thousands-of-doctors-protest-against-police-impunity-following-the-assault-allegedly-by-egyptian-police-officers-of-two-doctors.md)
@@ -53,7 +53,7 @@ Thousands of Egyptian doctors demonstrated in Cairo on Friday in a rare protest 
 
 ##### Stuart Robert
 ### [Stuart Robert representing the Liberal Party, Australia's Minister for Veterans' Affairs and for Human Services, resigns for breaching ministerial standards during his 2014 business trip to China while Assistant Minister for Defence. ](/news/2016/02/12/stuart-robert-representing-the-liberal-party-australia-s-minister-for-veterans-affairs-and-for-human-services-resigns-for-breaching-minis.md)
-_Context: Human Services, Minister for Veterans' Affairs, Liberals, China, Assistant Minister for Defence, Stuart Robert_
+_Context: Stuart Robert, Human Services, Minister for Veterans' Affairs, China, Liberals, Assistant Minister for Defence_
 
 ##### South Sudanese Civil War
 ### [Salva Kiir, the President of South Sudan, appoints rebel leader Riek Machar as Vice President in a bid to end a two year civil war. ](/news/2016/02/12/salva-kiir-the-president-of-south-sudan-appoints-rebel-leader-riek-machar-as-vice-president-in-a-bid-to-end-a-two-year-civil-war.md)

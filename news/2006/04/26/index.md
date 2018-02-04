@@ -9,11 +9,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### University of California at San Diego
 ### [ University of California at San Diego psychology researcher Tim Gentner reportedly discovers that songbirds are capable of learning simple grammar, which may disprove Noam Chomsky's long believed hypothesis that humans are the only organism able to comprehend recursive grammar. ](/news/2006/04/26/university-of-california-at-san-diego-psychology-researcher-tim-gentner-reportedly-discovers-that-songbirds-are-capable-of-learning-simple.md)
-_Context: grammar, psychology, Noam Chomsky, Tim Gentner, songbirds, University of California at San Diego_
+_Context: Tim Gentner, Noam Chomsky, grammar, University of California at San Diego, songbirds, psychology_
 
 ##### Tony Snow
 ### [ Tony Snow is named White House Press Secretary.](/news/2006/04/26/tony-snow-is-named-white-house-press-secretary.md)
-_Context: Tony Snow, White House Press Secretary_
+_Context: White House Press Secretary, Tony Snow_
 
 ##### Ukraine
 ### [ Ukraine marks the 20th anniversary of the Chernobyl nuclear power station explosion. ](/news/2006/04/26/ukraine-marks-the-20th-anniversary-of-the-chernobyl-nuclear-power-station-explosion.md)
@@ -25,11 +25,11 @@ _Context: Prime Minister, motion of no confidence, Honiara, Snyder Rini_
 
 ##### Egypt
 ### [ Egyptian police arrest 10 people in relation to the 2006 Dahab bombings, which has killed 24 people and injured more than 80 on 24 April. ](/news/2006/04/26/egyptian-police-arrest-10-people-in-relation-to-the-2006-dahab-bombings-which-has-killed-24-people-and-injured-more-than-80-on-24-april.md)
-_Context: Egypt, 2006 Dahab bombings_
+_Context: 2006 Dahab bombings, Egypt_
 
 ##### peacekeepers
 ### [ Peacekeeping Forces in Egypt were attacked outside the Nile Delta by two suicide bombers. No casualties. ](/news/2006/04/26/peacekeeping-forces-in-egypt-were-attacked-outside-the-nile-delta-by-two-suicide-bombers-no-casualties.md)
-_Context: peacekeepers, Nile, Egypt_
+_Context: Nile, peacekeepers, Egypt_
 
 ## [Previous Day...](/news/2006/04/25/index.md)
 

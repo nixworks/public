@@ -5,11 +5,11 @@ Formats: [HTML](2012/12/31/index.html)  [JSON](2012/12/31/index.json)  [XML](201
 
 ##### national unity government
 ### [Rebels reject a national unity government offer by President of the Central African Republic Francois Bozize. ](/news/2012/12/31/rebels-reject-a-national-unity-government-offer-by-president-of-the-central-african-republic-franassois-boziza-c.md)
-_Context: Francois Bozize, Central African Republic, President of the Central African Republic, national unity government_
+_Context: President of the Central African Republic, national unity government, Francois Bozize, Central African Republic_
 
 ##### Tribune Co.
 ### [Tribune Co., the publishing and broadcasting giant that declared bankruptcy in December 2008, emerges from that status with new controlling shareholders including Oaktree Capital and JPMorgan Chase. ](/news/2012/12/31/tribune-co-the-publishing-and-broadcasting-giant-that-declared-bankruptcy-in-december-2008-emerges-from-that-status-with-new-controlling.md)
-_Context: December 2008, Oaktree Capital, Tribune Co., JPMorgan Chase_
+_Context: Tribune Co., Oaktree Capital, JPMorgan Chase, December 2008_
 
 ##### White House
 ### [The White House reaches an agreement with congressional Republicans on a "fiscal cliff" deal. ](/news/2012/12/31/the-white-house-reaches-an-agreement-with-congressional-republicans-on-a-fiscal-cliff-deal.md)

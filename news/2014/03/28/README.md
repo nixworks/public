@@ -25,11 +25,11 @@ _Context: South Korea, rising tensions between the two neighboring countries, No
 
 ##### Prime Minister of Norway
 ### [Former Prime Minister of Norway Jens Stoltenberg is appointed to succeed Denmark's Anders Fogh Rasmussen as the next Secretary General of NATO. ](/news/2014/03/28/former-prime-minister-of-norway-jens-stoltenberg-is-appointed-to-succeed-denmark-s-anders-fogh-rasmussen-as-the-next-secretary-general-of-na.md)
-_Context: Jens Stoltenberg, Prime Minister of Norway, Secretary General of NATO, Anders Fogh Rasmussen_
+_Context: Jens Stoltenberg, Prime Minister of Norway, Anders Fogh Rasmussen, Secretary General of NATO_
 
 ##### Buddhist
 ### [Buddhist mobs in western Myanmar reportedly target foreign aid groups and workers in reaction to supposedly disrespectful treatment of a Buddhist flag. ](/news/2014/03/28/buddhist-mobs-in-western-myanmar-reportedly-target-foreign-aid-groups-and-workers-in-reaction-to-supposedly-disrespectful-treatment-of-a-bud.md)
-_Context: Buddhist, Burma_
+_Context: Burma, Buddhist_
 
 ##### Brampton
 ### [A shooting occurs at a courthouse in Brampton, Ontario, Canada, with one shooter dead and a police officer injured. ](/news/2014/03/28/a-shooting-occurs-at-a-courthouse-in-brampton-ontario-canada-with-one-shooter-dead-and-a-police-officer-injured.md)

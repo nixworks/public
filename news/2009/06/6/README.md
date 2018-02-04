@@ -5,19 +5,19 @@ Formats: [HTML](2009/06/6/index.html)  [JSON](2009/06/6/index.json)  [XML](2009/
 
 ##### European Union
 ### [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md)
-_Context: France, European Parliament, Slovakia, Malta, Overseas departments and territories of France, European Union, election, Latvia, Czech Republic, Cyprus, Italy_
+_Context: Latvia, European Union, Slovakia, Overseas departments and territories of France, France, Cyprus, European Parliament, election, Italy, Czech Republic, Malta_
 
 ##### Conservative Party
 ### [ The Conservative Party gains seven county councils, the Liberal Democrats lose one, and the Labour Party loses four during the United Kingdom's local elections. ](/news/2009/06/6/the-conservative-party-gains-seven-county-councils-the-liberal-democrats-lose-one-and-the-labour-party-loses-four-during-the-united-kingd.md)
-_Context: Liberal Democrats, county council, local elections, Conservative Party, Labour Party, British_
+_Context: Labour Party, Conservative Party, county council, local elections, Liberal Democrats, British_
 
 ##### landslide
 ### [ Twenty-six people are killed during and 100 others remain missing after a landslide near Chongqing, China. ](/news/2009/06/6/twenty-six-people-are-killed-during-and-100-others-remain-missing-after-a-landslide-near-chongqing-china.md)
-_Context: landslide, Chongqing, China_
+_Context: China, landslide, Chongqing_
 
 ##### die
 ### [ Seventy-six people die at Harmony Gold's mine in Free State, South Africa. ](/news/2009/06/6/seventy-six-people-die-at-harmony-gold-s-mine-in-free-state-south-africa.md)
-_Context: gold mine, South Africa, Harmony Gold, die, Free State_
+_Context: Harmony Gold, South Africa, die, Free State, gold mine_
 
 ##### fire
 ### [ A fire at a day-care center kills at least 40 people in Hermosillo, Mexico. ](/news/2009/06/6/a-fire-at-a-day-care-center-kills-at-least-40-people-in-hermosillo-mexico.md)
@@ -25,39 +25,39 @@ A fast-moving fire killed 31 children in a day care center in northern Mexico de
 
 ##### deadly clashes
 ### [ Fifty-two people die during combat between Peru's Army and indigenous peoples in the Amazon Rainforest. ](/news/2009/06/6/fifty-two-people-die-during-combat-between-peru-s-army-and-indigenous-peoples-in-the-amazon-rainforest.md)
-_Context: Peruvian Army, deadly clashes, indigenous Amazon groups, Peru, Amazon_
+_Context: Peru, deadly clashes, Amazon, indigenous Amazon groups, Peruvian Army_
 
 ##### declares
 ### [ At least 36 people die during combat between the Transitional Federal Government and Islamist militants in Webho, Somalia. ](/news/2009/06/6/at-least-36-people-die-during-combat-between-the-transitional-federal-government-and-islamist-militants-in-webho-somalia.md)
-_Context: Somalia, Transitional Federal Government, militant, Islamists, declares_
+_Context: Islamists, Somalia, Transitional Federal Government, militant, declares_
 
 ##### Air France
 ### [ Two male bodies and several luggage items are recovered from Air France Flight 447 in the Atlantic Ocean. ](/news/2009/06/6/two-male-bodies-and-several-luggage-items-are-recovered-from-air-france-flight-447-in-the-atlantic-ocean.md)
-_Context: crash of Air France Flight 447, Atlantic Ocean, Air France_
+_Context: Air France, crash of Air France Flight 447, Atlantic Ocean_
 
 ##### Philippines
 ### [ The Philippines' Army kill 30 Moro Islamic Liberation Front members and capture a "bomb factory" on Mindanao. ](/news/2009/06/6/the-philippines-army-kill-30-moro-islamic-liberation-front-members-and-capture-a-bomb-factory-on-mindanao.md)
-_Context: Philippines, Moro Islamic Liberation Front, army, communist insurgency, Mindanao_
+_Context: army, Moro Islamic Liberation Front, communist insurgency, Philippines, Mindanao_
 
 ##### West Berlin
 ### [ Former West Berlin police officer Karl-Heinz Kurras is revealed to have spied for East Germany's Stasi. ](/news/2009/06/6/former-west-berlin-police-officer-karl-heinz-kurras-is-revealed-to-have-spied-for-east-germany-s-stasi.md)
-_Context: police officer, Stasi, East Germany, West Berlin, spy, Karl-Heinz Kurras_
+_Context: police officer, Karl-Heinz Kurras, West Berlin, East Germany, spy, Stasi_
 
 ##### Harvard University
 ### [ Harvard University discovers a molecular mechanism that regulates coagulation. ](/news/2009/06/6/harvard-university-discovers-a-molecular-mechanism-that-regulates-coagulation.md)
-_Context: molecular mechanism, coagulation, Harvard University_
+_Context: coagulation, molecular mechanism, Harvard University_
 
 ##### American Cemetery and Memorial
 ### [ The American Cemetery and Memorial honors World War II veterans who landed at Normandy, France, in 1944. ](/news/2009/06/6/the-american-cemetery-and-memorial-honors-world-war-ii-veterans-who-landed-at-normandy-france-in-1944.md)
-_Context: landed, France, World War II, American Cemetery and Memorial, 1944, Normandy, veteran_
+_Context: veteran, American Cemetery and Memorial, World War II, France, landed, Normandy, 1944_
 
 ##### International Labour Organization
 ### [ The International Labour Organization requests that Burma's government amend a clause in its Constitution that may justify forced labor. ](/news/2009/06/6/the-international-labour-organization-requests-that-burma-s-government-amend-a-clause-in-its-constitution-that-may-justify-forced-labor.md)
-_Context: clause, Burma, Constitution, government, International Labour Organization, amend, forced labor_
+_Context: Constitution, International Labour Organization, amend, forced labor, government, clause, Burma_
 
 ##### Palm, Inc.
 ### [ Palm, Inc. launches its new Palm Pre smartphone. ](/news/2009/06/6/palm-inc-launches-its-new-palm-pre-smartphone.md)
-_Context: Palm, Inc., smartphone, Palm Pre_
+_Context: smartphone, Palm Pre, Palm, Inc._
 
 ## [Previous Day...](/news/2009/06/5/index.md)
 

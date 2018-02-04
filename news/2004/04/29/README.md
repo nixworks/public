@@ -5,7 +5,7 @@ Formats: [HTML](2004/04/29/index.html)  [JSON](2004/04/29/index.json)  [XML](200
 
 ##### Abu Ghraib abuse
 ### [ Abu Ghraib torture and prisoner abuse: Photographs showing Iraqi prisoners in the Abu Ghraib prison outside Baghdad being tortured, abused, humiliated by U.S. soldiers spark outrage around the world. Six soldiers face courts martial and their commanding officer is suspended. ](/news/2004/04/29/abu-ghraib-torture-and-prisoner-abuse-photographs-showing-iraqi-prisoners-in-the-abu-ghraib-prison-outside-baghdad-being-tortured-abused.md)
-_Context: Abu Ghraib abuse, Baghdad, Iraq, Abu Ghraib prison_
+_Context: Abu Ghraib abuse, Iraq, Baghdad, Abu Ghraib prison_
 
 ##### Google
 ### [ Google announces plans for an initial public offering to raise as much as US$2.72 billion. The IPO will be unconventional in that it will use an auction process and a complex averaging formula designed to prevent brokers' elite customers from winning more shares than average investors. ](/news/2004/04/29/google-announces-plans-for-an-initial-public-offering-to-raise-as-much-as-us-2-72-billion-the-ipo-will-be-unconventional-in-that-it-will-u.md)
@@ -29,7 +29,7 @@ _Context: Lansing, Oldsmobile_
 
 ##### Tel-Aviv
 ### [ Maccabi Tel-Aviv, Israel, beats CSKA Moscow, Russia in the Euroleague and qualifies for the finals. Final score: 93-85. ](/news/2004/04/29/maccabi-tel-aviv-israel-beats-cska-moscow-russia-in-the-euroleague-and-qualifies-for-the-finals-final-score-93-85.md)
-_Context: Israel, Tel-Aviv, Euroleague_
+_Context: Tel-Aviv, Euroleague, Israel_
 
 ## [Previous Day...](/news/2004/04/28/index.md)
 

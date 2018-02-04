@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/5/index.html)  [JSON](2010/03/5/index.json)  [XML](2010/
 
 ##### Baidu
 ### [Baidu shares have risen 34% since rival Google said on Jan 12 it may shut down its business in China. Baidu has risen 34 percent and Google has lost 8.5 percent. ](/news/2010/03/5/baidu-shares-have-risen-34-since-rival-google-said-on-jan-12-it-may-shut-down-its-business-in-china-baidu-has-risen-34-percent-and-google.md)
-_Context: Google, China, Baidu_
+_Context: Baidu, Google, China_
 
 ##### Minister for Foreign Affairs
 ### [Irish Minister for Foreign Affairs Micheal Martin, writing in the "International Herald Tribune", says Israel's blockade of Gaza is "inhumane and unacceptable" and calls on the European Union and other countries to request that it be ended following his visit there last week. ](/news/2010/03/5/irish-minister-for-foreign-affairs-michea-l-martin-writing-in-the-international-herald-tribune-says-israel-s-blockade-of-gaza-is-inhuma.md)
@@ -29,19 +29,19 @@ Gordon Brown has said that he was &#034;fully in line&#034; with the decision to
 
 ##### Fiji
 ### [Fiji imprisons eight men for an assassination attempt on Commodore Frank Bainimarama in 2007. ](/news/2010/03/5/fiji-imprisons-eight-men-for-an-assassination-attempt-on-commodore-frank-bainimarama-in-2007.md)
-_Context: Voreqe Bainimarama, Fiji_
+_Context: Fiji, Voreqe Bainimarama_
 
 ##### Palestine
 ### [15 Israeli police are "lightly hurt" and several dozen Palestinians are injured and three are arrested after Friday prayers on the Temple Mount and a recent Israeli decision to include two West Bank shrines on a list of national heritage sites.](/news/2010/03/5/15-israeli-police-are-lightly-hurt-and-several-dozen-palestinians-are-injured-and-three-are-arrested-after-friday-prayers-on-the-temple-mo.md)
-_Context: Palestine, Temple Mount_
+_Context: Temple Mount, Palestine_
 
 ##### Kigali
 ### [At least 16 people are wounded in two grenade attacks in Kigali, one near the city's genocide memorial. A third explosion elsewhere kills at least one person. ](/news/2010/03/5/at-least-16-people-are-wounded-in-two-grenade-attacks-in-kigali-one-near-the-city-s-genocide-memorial-a-third-explosion-elsewhere-kills-at.md)
-_Context: Kigali, genocide_
+_Context: genocide, Kigali_
 
 ##### Pakistan army
 ### [Pakistan army kills 30 Taliban militants near Peshawar, the capital of North West Frontier Province. ](/news/2010/03/5/pakistan-army-kills-30-taliban-militants-near-peshawar-the-capital-of-north-west-frontier-province.md)
-_Context: Peshawar, Taliban, Pakistan army, Khyber Pakhtunkhwa_
+_Context: Northwestern Pakistan, Taliban, Pakistan army, Peshawar_
 
 ##### Shi'ite Muslims
 ### [A suicide bomber attacked a convoy of Shi'ite Muslims in northwest Pakistan, killing at least 12 people. ](/news/2010/03/5/a-suicide-bomber-attacked-a-convoy-of-shi-ite-muslims-in-northwest-pakistan-killing-at-least-12-people.md)

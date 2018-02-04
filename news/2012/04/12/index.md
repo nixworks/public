@@ -9,15 +9,15 @@ _Context: 2011-2012 Syrian uprising_
 
 ##### AFP
 ### [Agence France-Presse reports that the military of Guinea-Bissau have staged a coup against the civilian government. ](/news/2012/04/12/agence-france-presse-reports-that-the-military-of-guinea-bissau-have-staged-a-coup-against-the-civilian-government.md)
-_Context: AFP, coup d'etat, Guinea-Bissau_
+_Context: coup d'etat, AFP, Guinea-Bissau_
 
 ##### Bodleian Libraries
 ### [The Bodleian Libraries of the University of Oxford and the Vatican Library announce they will make 1.5 million pages of ancient texts available on the Internet. ](/news/2012/04/12/the-bodleian-libraries-of-the-university-of-oxford-and-the-vatican-library-announce-they-will-make-1-5-million-pages-of-ancient-texts-availa.md)
-_Context: University of Oxford, Vatican Library, Internet, Bodleian Libraries_
+_Context: Vatican Library, Oxford, Bodleian Libraries, Internet_
 
 ##### London
 ### [Transport chiefs in London ban a bus advert which suggested gay people could be cured. ](/news/2012/04/12/transport-chiefs-in-london-ban-a-bus-advert-which-suggested-gay-people-could-be-cured.md)
-_Context: London, gay_
+_Context: gay, London_
 
 ##### Sony Corp
 ### [Sony Corp announces plans to cut 10,000 jobs around the world to reduce costs and return the company to profitability. ](/news/2012/04/12/sony-corp-announces-plans-to-cut-10-000-jobs-around-the-world-to-reduce-costs-and-return-the-company-to-profitability.md)
@@ -29,7 +29,7 @@ Plus: a lot of talk about Android.
 
 ##### Japan
 ### [Japan and the Philippines are on alert for the North Korean rocket launch over the next few days. ](/news/2012/04/12/japan-and-the-philippines-are-on-alert-for-the-north-korean-rocket-launch-over-the-next-few-days.md)
-_Context: Philippines, North Korea, Japan_
+_Context: Japan, Philippines, North Korea_
 
 ##### Philippines
 ### [The Philippines sends another ship to join the current ship it has involved in a confrontation with two Chinese surveillance ships on the South China Sea, although both sides claim to be committed to a peaceful solution. ](/news/2012/04/12/the-philippines-sends-another-ship-to-join-the-current-ship-it-has-involved-in-a-confrontation-with-two-chinese-surveillance-ships-on-the-so.md)
@@ -49,7 +49,7 @@ Order was being restored Wednesday after thousands of people clashed with police
 
 ##### North Korea
 ### [North Korean leader Kim Jong-un is given two posts in the Workers' Party of Korea previously held by his father Kim Jong-Il, including chairman of the party's Central Military Commission and a standing member of the Politburo. ](/news/2012/04/12/north-korean-leader-kim-jong-un-is-given-two-posts-in-the-workers-party-of-korea-previously-held-by-his-father-kim-jong-il-including-chair.md)
-_Context: North Korea, Workers' Party of Korea, Kim Jong-Il, Politburo, Kim Jong-un_
+_Context: Kim Jong-Il, North Korea, Kim Jong-un, Workers' Party of Korea, Politburo_
 
 ##### Dioncounda Traore
 ### [Dioncounda Traore is sworn in as the interim President of Mali, marking a transition back to civilian rule following last month's coup. ](/news/2012/04/12/dioncounda-traore-is-sworn-in-as-the-interim-president-of-mali-marking-a-transition-back-to-civilian-rule-following-last-month-s-coup.md)

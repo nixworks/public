@@ -9,7 +9,7 @@ Denmark raised its terror attack preparedness on Saturday, the ninth anniversary
 
 ##### U.S. Army
 ### [U.S. Army Staff Sergeant Salvatore Giunta is awarded the Medal of Honor for his actions during the ongoing War in Afghanistan, the first living recipient to be so honored since the Vietnam War. ](/news/2010/09/11/u-s-army-staff-sergeant-salvatore-giunta-is-awarded-the-medal-of-honor-for-his-actions-during-the-ongoing-war-in-afghanistan-the-first-liv.md)
-_Context: Salvatore Giunta, Staff Sergeant, Medal of Honor, U.S. Army, Vietnam War, War in Afghanistan_
+_Context: Vietnam War, Staff Sergeant, Medal of Honor, Salvatore Giunta, U.S. Army, War in Afghanistan_
 
 ##### Muslim
 ### [Muslims around the world celebrate the feast of Eid al-Fitr marking the end of the holy month of Ramadan. ](/news/2010/09/11/muslims-around-the-world-celebrate-the-feast-of-eid-al-fitr-marking-the-end-of-the-holy-month-of-ramadan.md)
@@ -41,7 +41,7 @@ Accidental rupture leaves 10 workers dead and 20 injured, as firefighters bring 
 
 ##### Egypt
 ### [Officials in 3 Egyptian governorates declare a state of emergency after a barge leaked some 100 tons of gasoline into the Nile River north of Aswan. ](/news/2010/09/11/officials-in-3-egyptian-governorates-declare-a-state-of-emergency-after-a-barge-leaked-some-100-tons-of-gasoline-into-the-nile-river-north-o.md)
-_Context: governorates, Egypt, gas, Aswan, Nile River_
+_Context: governorates, Aswan, gas, Nile River, Egypt_
 
 ##### Mexico
 ### [Mexico experiences its record worst ever rainy season. ](/news/2010/09/11/mexico-experiences-its-record-worst-ever-rainy-season.md)
@@ -53,15 +53,15 @@ A moderate 5.9-magnitude earthquake struck Indonesia&#039;s North Maluku provinc
 
 ##### pipeline explosion
 ### [The death toll rises to 6 from the pipeline explosion in San Bruno, California near the U.S. city of San Francisco. ](/news/2010/09/11/the-death-toll-rises-to-6-from-the-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san-francisco.md)
-_Context: California, San Francisco, California, United States, San Bruno, pipeline explosion_
+_Context: San Bruno, United States, California, San Francisco, California, pipeline explosion_
 
 ##### Coach USA
 ### [Four people are dead and twenty-five people are hospitalised after a Coach USA Megabus crashes into a railroad overpass in Salina, New York. ](/news/2010/09/11/four-people-are-dead-and-twenty-five-people-are-hospitalised-after-a-coach-usa-megabus-crashes-into-a-railroad-overpass-in-salina-new-york.md)
-_Context: Megabus, Salina, New York, railroad, overpass, Coach USA_
+_Context: railroad, Coach USA, overpass, Megabus, Salina, New York_
 
 ##### Shanghai
 ### [More than 300 flights from Shanghai, China are delayed due to torrential rain caused by Tropical Storm Meranti. ](/news/2010/09/11/more-than-300-flights-from-shanghai-china-are-delayed-due-to-torrential-rain-caused-by-tropical-storm-meranti.md)
-_Context: Chinese, Shanghai, Typhoon Chaba_
+_Context: Typhoon Chaba, Chinese, Shanghai_
 
 ##### 2010 Atlantic hurricane season
 ### [Hurricane Igor reaches Category 1 in the Atlantic Ocean. ](/news/2010/09/11/hurricane-igor-reaches-category-1-in-the-atlantic-ocean.md)
@@ -77,11 +77,11 @@ North Korea has proposed to the South resuming a programme of reunions for famil
 
 ##### Jordan
 ### [Jordan signs a nuclear co-operation treaty with Japan to build a nuclear power plant within 10 years. ](/news/2010/09/11/jordan-signs-a-nuclear-co-operation-treaty-with-japan-to-build-a-nuclear-power-plant-within-10-years.md)
-_Context: Jordan, Japan, nuclear power_
+_Context: Japan, Jordan, nuclear power_
 
 ##### Islington
 ### [Sex abuse campaigners meet at a conference in Islington, North London, to call for "action not words" from Pope Benedict XVI ahead of his visit to the UK. ](/news/2010/09/11/sex-abuse-campaigners-meet-at-a-conference-in-islington-north-london-to-call-for-action-not-words-from-pope-benedict-xvi-ahead-of-his-vi.md)
-_Context: Pope Benedict XVI, Islington, North London_
+_Context: Islington, Pope Benedict XVI, North London_
 
 ##### Serb
 ### [9 Serb paramilitaries are indicted over the deaths of 43 ethnic Albanians in May 1999. ](/news/2010/09/11/9-serb-paramilitaries-are-indicted-over-the-deaths-of-43-ethnic-albanians-in-may-1999.md)

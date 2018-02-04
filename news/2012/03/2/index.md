@@ -13,19 +13,19 @@ Militants attacked a hilltop army position in volatile northwest Pakistan on Fri
 
 ##### Russian Army
 ### [The Russian Army kills two militants in the village of Mutsalaul in Dagestan's Khasavyurt district. ](/news/2012/03/2/the-russian-army-kills-two-militants-in-the-village-of-mutsalaul-in-dagestan-s-khasavyurt-district.md)
-_Context: Dagestan, Russian Army, Khasavyurt, Mutsalaul_
+_Context: Khasavyurt, Mutsalaul, Russian Army, Dagestan_
 
 ##### NASA
 ### [The US space agency NASA claims that it was hacked 13 times last year compromising security. ](/news/2012/03/2/the-us-space-agency-nasa-claims-that-it-was-hacked-13-times-last-year-compromising-security.md)
-_Context: hacker, NASA_
+_Context: NASA, hacker_
 
 ##### Washington Post
 ### [The "Washington Post" reports that a US military report into the accidental burning of Qurans at Bagram airfield in Afghanistan that led to widespread protests has found that five US service personnel were involved. ](/news/2012/03/2/the-washington-post-reports-that-a-us-military-report-into-the-accidental-burning-of-qurans-at-bagram-airfield-in-afghanistan-that-led-to.md)
-_Context: Quran, Afghanistan, Washington Post, Bagram airfield, protests_
+_Context: Afghanistan, protests, Washington Post, Quran, Bagram airfield_
 
 ##### European Union
 ### [25 of the 27 members of the European Union sign a new "fiscal compact", the exceptions being the United Kingdom and the Czech Republic. ](/news/2012/03/2/25-of-the-27-members-of-the-european-union-sign-a-new-fiscal-compact-the-exceptions-being-the-united-kingdom-and-the-czech-republic.md)
-_Context: Czech Republic, European Union, British_
+_Context: British, Czech Republic, European Union_
 
 ##### Nestle
 ### [Nestle and Danone are said to be bidding for the infant nutrition business that Pfizer is about to put up for sale. ](/news/2012/03/2/nestla-c-and-danone-are-said-to-be-bidding-for-the-infant-nutrition-business-that-pfizer-is-about-to-put-up-for-sale.md)
@@ -33,7 +33,7 @@ _Context: Danone, Pfizer, Nestle_
 
 ##### Moody's Investor Services
 ### [Moody's Investor Services cuts Greece's credit rating to C claiming that there is a still a significant risk of default despite the Eurozone bailout. ](/news/2012/03/2/moody-s-investor-services-cuts-greece-s-credit-rating-to-c-claiming-that-there-is-a-still-a-significant-risk-of-default-despite-the-eurozone.md)
-_Context: credit rating, Moody's Investor Services, Greece, Eurozone_
+_Context: Moody's Investor Services, Greece, Eurozone, credit rating_
 
 ##### Anglican Church
 ### [Anglican Church officials in Christchurch, New Zealand, announce that the 131-year-old landmark ChristChurch Cathedral will need to be demolished, having suffered severe damage from the 2011 Christchurch earthquake and its aftershocks. ](/news/2012/03/2/anglican-church-officials-in-christchurch-new-zealand-announce-that-the-131-year-old-landmark-christchurch-cathedral-will-need-to-be-demol.md)
@@ -57,7 +57,7 @@ The Defence Ministry has denied that Defence Minister AK Antony&#039;s office wa
 
 ##### ICC
 ### [The International Criminal Court issues an arrest warrant for Abdelrahim Mohamed Hussein, Sudan's Defence Minister, on war crimes charges in connection to Darfur. ](/news/2012/03/2/the-international-criminal-court-issues-an-arrest-warrant-for-abdelrahim-mohamed-hussein-sudan-s-defence-minister-on-war-crimes-charges-in.md)
-_Context: Sudan, war crimes, Darfur, ICC, Abdelrahim Mohamed Hussein_
+_Context: Darfur, Abdelrahim Mohamed Hussein, Sudan, war crimes, ICC_
 
 ##### BP
 ### [BP and plaintiffs reach an agreement over compensation for the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2012/03/2/bp-and-plaintiffs-reach-an-agreement-over-compensation-for-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico.md)
@@ -65,7 +65,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Iran
 ### [Voters in Iran head to the polls to elect Members of the Parliament. ](/news/2012/03/2/voters-in-iran-head-to-the-polls-to-elect-members-of-the-parliament.md)
-_Context: Iran, MPs_
+_Context: MPs, Iran_
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia Julia Gillard announces a Cabinet reshuffle with Bob Carr, a former Premier of New South Wales, appointed as Minister for Foreign Affairs to replace Kevin Rudd. ](/news/2012/03/2/the-prime-minister-of-australia-julia-gillard-announces-a-cabinet-reshuffle-with-bob-carr-a-former-premier-of-new-south-wales-appointed-as.md)
@@ -77,7 +77,7 @@ Thousands of people in south-eastern Nigerian attend the funeral of former Biafr
 
 ##### Libya
 ### [Libyans protest outside a courthouse building in Benghazi calling for it to reopen rather than be used as a militia headquarters. ](/news/2012/03/2/libyans-protest-outside-a-courthouse-building-in-benghazi-calling-for-it-to-reopen-rather-than-be-used-as-a-militia-headquarters.md)
-_Context: Libya, Benghazi_
+_Context: Benghazi, Libya_
 
 ##### Meta-analysis
 ### [Meta-analysis of 42 previous studies concludes chocolate may be good for the heart. ](/news/2012/03/2/meta-analysis-of-42-previous-studies-concludes-chocolate-may-be-good-for-the-heart.md)

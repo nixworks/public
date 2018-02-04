@@ -5,7 +5,7 @@ Formats: [HTML](2007/05/20/index.html)  [JSON](2007/05/20/index.json)  [XML](200
 
 ##### Alltel
 ### [ Alltel, a mobile phone provider in the United States, is acquired by TPG Capital, L.P. and Goldman Sachs leveraged-buyout unit. ](/news/2007/05/20/alltel-a-mobile-phone-provider-in-the-united-states-is-acquired-by-tpg-capital-l-p-and-goldman-sachs-leveraged-buyout-unit.md)
-_Context: mobile phone, United States, TPG Capital, L.P., Alltel, Goldman Sachs_
+_Context: United States, Alltel, Goldman Sachs, TPG Capital, L.P., mobile phone_
 
 ##### suicide bomb
 ### [ A suicide bomber kills at least 10 people and injures 32 people in Gardez, the capital of Afghanistan's Paktia Province. ](/news/2007/05/20/a-suicide-bomber-kills-at-least-10-people-and-injures-32-people-in-gardez-the-capital-of-afghanistan-s-paktia-province.md)
@@ -21,27 +21,27 @@ _Context: Air Canada Jazz, Toronto Pearson International Airport_
 
 ##### Bulgaria
 ### [ Bulgaria elects Members of the European Parliament for the first time, the three top parties each possibly receiving five deputies. The narrow winner of the elections is the opposition Citizens for European Development of Bulgaria.](/news/2007/05/20/bulgaria-elects-members-of-the-european-parliament-for-the-first-time-the-three-top-parties-each-possibly-receiving-five-deputies-the-nar.md)
-_Context: Bulgaria, GERB, elects Members of the European Parliament_
+_Context: GERB, elects Members of the European Parliament, Bulgaria_
 
 ##### Venezuela
 ### [ Tens of thousands of Venezuelans march in protest in support of Radio Caracas Televisin and in opposition to President Hugo Chvez, who has vowed not to renew its licence. ](/news/2007/05/20/tens-of-thousands-of-venezuelans-march-in-protest-in-support-of-radio-caracas-television-and-in-opposition-to-president-hugo-chavez-who-ha.md)
-_Context: Venezuela, Radio Caracas Televisin, Hugo Chvez, President_
+_Context: President, Hugo Chvez, Radio Caracas Televisin, Venezuela_
 
 ##### Thousands gather
 ### [ Thousands gather in Samsun, Turkey to protest against the government. ](/news/2007/05/20/thousands-gather-in-samsun-turkey-to-protest-against-the-government.md)
-_Context: Thousands gather, Turkish, Samsun_
+_Context: Thousands gather, Samsun, Turkish_
 
 ##### Battle of Nahr al-Bared
 ### [ Battle of Nahr al-Bared: Fighting breaks out between Fatah al-Islam militants and Lebanese soldiers at the Nahr al-Bared refugee camp in Tripoli, Lebanon. ](/news/2007/05/20/battle-of-nahr-al-bared-fighting-breaks-out-between-fatah-al-islam-militants-and-lebanese-soldiers-at-the-nahr-al-bared-refugee-camp-in-tr.md)
-_Context: Tripoli, Lebanon, Nahr al-Bared, Lebanon, soldier, Battle of Nahr al-Bared, Fatah al-Islam, refugee_
+_Context: Tripoli, Lebanon, refugee, Battle of Nahr al-Bared, Lebanon, soldier, Nahr al-Bared, Fatah al-Islam_
 
 ##### David Hicks
 ### [ David Hicks returns from Guantnamo Bay to his home state of South Australia. He will serve the remaining seven months of his sentence for providing material support for terrorism at Yatala Labour Prison. ](/news/2007/05/20/david-hicks-returns-from-guantanamo-bay-to-his-home-state-of-south-australia-he-will-serve-the-remaining-seven-months-of-his-sentence-for.md)
-_Context: Yatala Labour Prison, David Hicks, South Australia, Guantnamo Bay_
+_Context: Guantnamo Bay, David Hicks, South Australia, Yatala Labour Prison_
 
 ##### Romrio
 ### [ Romrio scores his 1000th goal for Vasco da Gama by penalty kick against Sport Recife. He is only the second player in the history of professional soccer to achieve this, the first being Pel in 1969. ](/news/2007/05/20/romario-scores-his-1000th-goal-for-vasco-da-gama-by-penalty-kick-against-sport-recife-he-is-only-the-second-player-in-the-history-of-profe.md)
-_Context: Pel, goal, penalty kick, Romrio, 1969, Vasco da Gama, soccer, Sport Recife_
+_Context: Vasco da Gama, Romrio, soccer, 1969, Sport Recife, penalty kick, Pel, goal_
 
 ## [Previous Day...](/news/2007/05/19/index.md)
 

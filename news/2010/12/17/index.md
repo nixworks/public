@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/17/index.html)  [JSON](2010/12/17/index.json)  [XML](201
 
 ##### Maoist
 ### [Maoist rebels abduct seven villagers in the Purulia district of India's West Bengal state. ](/news/2010/12/17/maoist-rebels-abduct-seven-villagers-in-the-purulia-district-of-india-s-west-bengal-state.md)
-_Context: West Bengal, Purulia, Maoist_
+_Context: Maoist, West Bengal, Purulia_
 
 ##### Pakistan
 ### [American missile attacks kill 57 suspected militants in a region in northwest Pakistan. ](/news/2010/12/17/american-missile-attacks-kill-57-suspected-militants-in-a-region-in-northwest-pakistan.md)
@@ -37,11 +37,11 @@ The government announces that prisoners serving fewer than four years will be el
 
 ##### Cook Islands
 ### [The Cook Islands announces the country's first ever HIV infection. ](/news/2010/12/17/the-cook-islands-announces-the-country-s-first-ever-hiv-infection.md)
-_Context: Cook Islands, HIV_
+_Context: HIV, Cook Islands_
 
 ##### China
 ### [China launches 7th Beidou navigation satellite. ](/news/2010/12/17/china-launches-7th-beidou-navigation-satellite.md)
-_Context: Beidou, China_
+_Context: China, Beidou_
 
 ## [Previous Day...](/news/2010/12/16/index.md)
 

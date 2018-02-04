@@ -21,7 +21,7 @@ World body says more than 22,000 people have been displaced after a flare-up in 
 
 ##### East Coast of the United States
 ### [The East Coast of the United States prepares for Hurricane Sandy, which has killed at least 67 people and caused widespread damage in the Caribbean. ](/news/2012/10/28/the-east-coast-of-the-united-states-prepares-for-hurricane-sandy-which-has-killed-at-least-67-people-and-caused-widespread-damage-in-the-ca.md)
-_Context: Caribbean, Hurricane Sandy, East Coast of the United States_
+_Context: Hurricane Sandy, Caribbean, East Coast of the United States_
 
 ##### Dragon cargo capsule
 ### [The SpaceX Dragon capsule on a re-supply mission to the International Space Station returns to Earth. ](/news/2012/10/28/the-spacex-dragon-capsule-on-a-re-supply-mission-to-the-international-space-station-returns-to-earth.md)

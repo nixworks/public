@@ -13,11 +13,11 @@ _Context: Stanley Cup, Ottawa Senators, Anaheim Ducks_
 
 ##### HIV
 ### [ HIV drug Viracept is recalled in the UK after it is discovered that it has been contaminated with a substance that could cause cancer. ](/news/2007/06/6/hiv-drug-viracept-is-recalled-in-the-uk-after-it-is-discovered-that-it-has-been-contaminated-with-a-substance-that-could-cause-cancer.md)
-_Context: Viracept, UK, HIV, cancer_
+_Context: cancer, UK, HIV, Viracept_
 
 ##### Turkish
 ### [ Armed forces from Turkey are reported to have crossed the border into Iraq, chasing Kurdish guerrillas a couple of miles in Iraqi territory. Other reports contradict this. ](/news/2007/06/6/armed-forces-from-turkey-are-reported-to-have-crossed-the-border-into-iraq-chasing-kurdish-guerrillas-a-couple-of-miles-in-iraqi-territory.md)
-_Context: Turkish, Iraq, Kurdish_
+_Context: Kurdish, Turkish, Iraq_
 
 ##### Italy
 ### [ Five people are acquitted of the 1982 murder of "God's Banker," Italian financier Roberto Calvi. ](/news/2007/06/6/five-people-are-acquitted-of-the-1982-murder-of-god-s-banker-italian-financier-roberto-calvi.md)
@@ -29,11 +29,11 @@ _Context: popemobile, Pope Benedict XVI, audience, Vatican police_
 
 ##### G8 group of nations
 ### [ Leaders of the G8 assemble in Rostock, Germany for the 33rd annual G8 summit to discuss primarily issues of climate change and international aid, but also U.S.-Russia tensions over an antimissile system in Europe. ](/news/2007/06/6/leaders-of-the-g8-assemble-in-rostock-germany-for-the-33rd-annual-g8-summit-to-discuss-primarily-issues-of-climate-change-and-internationa.md)
-_Context: G8 group of nations, German, 33rd annual G8 summit, international aid, Rostock, climate change_
+_Context: G8 group of nations, climate change, international aid, German, 33rd annual G8 summit, Rostock_
 
 ##### Leshan
 ### [ Dozens of people are trapped in a collapsed hall in Leshan in the southwestern province of Sichuan in China. ](/news/2007/06/6/dozens-of-people-are-trapped-in-a-collapsed-hall-in-leshan-in-the-southwestern-province-of-sichuan-in-china.md)
-_Context: Leshan, Sichuan, China_
+_Context: Sichuan, China, Leshan_
 
 ## [Previous Day...](/news/2007/06/5/index.md)
 

@@ -5,35 +5,35 @@ Formats: [HTML](2005/12/18/index.html)  [JSON](2005/12/18/index.json)  [XML](200
 
 ##### Air Nauru
 ### [ Air Nauru's only passenger jet is seized by creditors in Melbourne, leaving the island nations of Nauru and Kiribati without air transport to the rest of the world. ](/news/2005/12/18/air-nauru-s-only-passenger-jet-is-seized-by-creditors-in-melbourne-leaving-the-island-nations-of-nauru-and-kiribati-without-air-transport.md)
-_Context: Kiribati, Air Nauru, Melbourne, Nauru_
+_Context: Kiribati, Melbourne, Nauru, Air Nauru_
 
 ##### mammoth
 ### [ Extinct mammoth mitochondrial DNA decoded. ](/news/2005/12/18/extinct-mammoth-mitochondrial-dna-decoded.md)
-_Context: mammoth, mitochondrial DNA_
+_Context: mitochondrial DNA, mammoth_
 
 ##### Presidential Election
 ### [ The Bolivian presidential election, 2005 takes place in Bolivia, with Evo Morales and Jorge Quiroga as front-runners. Morales is expected to win a plurality of votes but not an absolute majority. If no candidate wins a majority, the election of the President will be by vote in the National Congress, also elected today. ](/news/2005/12/18/the-bolivian-presidential-election-2005-takes-place-in-bolivia-with-evo-morales-and-jorge-quiroga-as-front-runners-morales-is-expected-t.md)
-_Context: Evo Morales, Bolivia, Jorge Quiroga, National Congress of Bolivia, Presidential Election_
+_Context: Presidential Election, Bolivia, Jorge Quiroga, Evo Morales, National Congress of Bolivia_
 
 ##### India
 ### [ 42 people die following a stampede in the Indian city of Chennai. ](/news/2005/12/18/42-people-die-following-a-stampede-in-the-indian-city-of-chennai.md)
-_Context: India, Chennai_
+_Context: Chennai, India_
 
 ##### Bono
 ### [ Bono, Melinda Gates and Bill Gates are named "Time"'s Persons of the Year. ](/news/2005/12/18/bono-melinda-gates-and-bill-gates-are-named-time-s-persons-of-the-year.md)
-_Context: Time, Melinda, Bono, Person of the Year, Bill Gates_
+_Context: Bono, Melinda, Bill Gates, Person of the Year, Time_
 
 ##### 2005 ASEAN Para Games
 ### [ Philippines finish in 5th place in the medal tally for the 2005 ASEAN Para Games in the Philippines. Thailand finishes with 84 golds, followed by Malaysia. ](/news/2005/12/18/philippines-finish-in-5th-place-in-the-medal-tally-for-the-2005-asean-para-games-in-the-philippines-thailand-finishes-with-84-golds-follo.md)
-_Context: Philippines, 2005 ASEAN Para Games, Malaysia, Thailand_
+_Context: 2005 ASEAN Para Games, Philippines, Malaysia, Thailand_
 
 ##### SGBPo Paulo
 ### [ SGBPo Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sagbpo-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md)
-_Context: FIFA Club World Championship, Liverpool, SGBPo Paulo, Japan, Yokohama_
+_Context: Japan, SGBPo Paulo, Liverpool, Yokohama, FIFA Club World Championship_
 
 ##### President
 ### [ President George W. Bush defends the Iraq War in a rare primetime Oval Office address. He said, "Not only can we win the war in Iraq -- we are winning the war in Iraq." ](/news/2005/12/18/president-george-w-bush-defends-the-iraq-war-in-a-rare-primetime-oval-office-address-he-said-not-only-can-we-win-the-war-in-iraq-a-we.md)
-_Context: George W. Bush, President, Oval Office, Iraq War_
+_Context: Iraq War, George W. Bush, Oval Office, President_
 
 ## [Previous Day...](/news/2005/12/17/index.md)
 

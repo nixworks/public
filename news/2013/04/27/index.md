@@ -21,9 +21,9 @@ The Taliban has announced the start of their spring offensive, signaling plans t
 
 ##### recent spate of anti-government violence
 ### [The death toll of the recent spate of anti-government violence in Iraq surpasses 190 as protests against the leadership of Nouri al-Maliki continue. ](/news/2013/04/27/the-death-toll-of-the-recent-spate-of-anti-government-violence-in-iraq-surpasses-190-as-protests-against-the-leadership-of-nouri-al-maliki-c.md)
-_Context: Iraq, Nouri al-Maliki, recent spate of anti-government violence_
+_Context: recent spate of anti-government violence, Nouri al-Maliki, Iraq_
 
-##### Tehrik-i-Taliban Pakistan
+##### Pakistani Taliban
 ### [A bomb attack by the Tehrik-i-Taliban Pakistan on a Awami National Party office in Karachi kills at least ten people and injures 25. ](/news/2013/04/27/a-bomb-attack-by-the-tehrik-i-taliban-pakistan-on-a-awami-national-party-office-in-karachi-kills-at-least-ten-people-and-injures-25.md)
 A bomb attack on an election meeting in the southern Pakistani city of Karachi on Friday killed at least 10 people and injured several more.
 

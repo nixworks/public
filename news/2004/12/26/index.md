@@ -13,7 +13,7 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 
 ##### Ukrainian
 ### [ Ukrainians go to the polls in a rerun of the presidential runoff vote, supervised by about 12,000 international observers. Turnout is reported to be comparable to the two previous votes, just short of 55 percent at 1300 GMT. Early exit polls suggest opposition leader Viktor Yushchenko has won by a wide margin ](/news/2004/12/26/ukrainians-go-to-the-polls-in-a-rerun-of-the-presidential-runoff-vote-supervised-by-about-12-000-international-observers-turnout-is-repor.md)
-_Context: Ukrainian, Ukrainian presidential election_
+_Context: Ukrainian presidential election, Ukrainian_
 
 ## [Previous Day...](/news/2004/12/25/index.md)
 

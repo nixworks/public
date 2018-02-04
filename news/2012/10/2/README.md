@@ -13,7 +13,7 @@ A member of parliament in the Maldives is stabbed to death near his home amid po
 
 ##### Afghanistan
 ### [A bomb blast in southern Afghanistan kills a United States Army service member. ](/news/2012/10/2/a-bomb-blast-in-southern-afghanistan-kills-a-united-states-army-service-member.md)
-_Context: United States soldier, Afghanistan_
+_Context: Afghanistan, United States soldier_
 
 ##### Philippine
 ### [A minibus collides with a truck in the northern Philippine province of Ilocos Norte, killing at least 10 people. ](/news/2012/10/2/a-minibus-collides-with-a-truck-in-the-northern-philippine-province-of-ilocos-norte-killing-at-least-10-people.md)
@@ -29,7 +29,7 @@ Seven crew members are arrested on suspicion of endangering lives at sea after t
 
 ##### U.S. Border Patrol
 ### [A U.S. Border Patrol agent is shot dead near the U.S.-Mexico border in the state of Arizona. A second agent was shot and is being treated for non-life threatening injuries. ](/news/2012/10/2/a-u-s-border-patrol-agent-is-shot-dead-near-the-u-s-mexico-border-in-the-state-of-arizona-a-second-agent-was-shot-and-is-being-treated-fo.md)
-_Context: Arizona, U.S. Border Patrol_
+_Context: U.S. Border Patrol, Arizona_
 
 ##### France
 ### [Several sources claim that a French spy killed Muammar Gaddafi in 2011; the motive to try to conceal Ghadaffi's financial support of Nicolas Sarkozy's 2007 presidential election campaign. A French source dismisses the story as "nonsense". ](/news/2012/10/2/several-sources-claim-that-a-french-spy-killed-muammar-gaddafi-in-2011-the-motive-to-try-to-conceal-ghadaffi-s-financial-support-of-nicolas.md)
@@ -37,7 +37,7 @@ A&#x20;French&#x20;intelligence&#x20;expert&#x20;has&#x20;poured&#x20;cold&#x20;
 
 ##### OSCE
 ### [The OSCE titles the parliamentary election in Georgia as "fair and free". Partial results show a majority of votes for Georgian Dream. President Saakashvili concedes that his party, United National Movement, will move to opposition. Bidzina Ivanishvili is expected to become prime minister, and after legislative changes next year, also head of state. ](/news/2012/10/2/the-osce-titles-the-parliamentary-election-in-georgia-as-fair-and-free-partial-results-show-a-majority-of-votes-for-georgian-dream-presi.md)
-_Context: OSCE, Georgian Dream, parliamentary election, Bidzina Ivanishvili, Prime Minister of Georgia, United National Movement, Mikheil Saakashvili, President of Georgia_
+_Context: Prime Minister of Georgia, Mikheil Saakashvili, OSCE, parliamentary election, President of Georgia, Bidzina Ivanishvili, Georgian Dream, United National Movement_
 
 ## [Previous Day...](/news/2012/10/1/index.md)
 

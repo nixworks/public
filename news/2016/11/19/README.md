@@ -5,13 +5,13 @@ Formats: [HTML](2016/11/19/index.html)  [JSON](2016/11/19/index.json)  [XML](201
 
 ##### Iraqi Civil War
 ### [At least 12 tribal fighters were killed by ISIL insurgents. The attack occurred in Shirqat. ](/news/2016/11/19/at-least-12-tribal-fighters-were-killed-by-isil-insurgents-the-attack-occurred-in-shirqat.md)
-_Context: Shirqat, ISIL, Iraqi Civil War_
+_Context: Shirqat, Iraqi Civil War, ISIL_
 
 ##### Yemeni Civil War (2015-present)
 ### [The Saudi-led coalition announces a 48 hour ceasefire in Yemen from noon. ](/news/2016/11/19/the-saudi-led-coalition-announces-a-48-hour-ceasefire-in-yemen-from-noon.md)
 Cairo (AP) -- The Saudi-led military coalition declared a 48-hour ceasefire in Yemen on Saturday, on the condition that Shiite rebels abide by it and allow humanitarian assistance into besieged cities, particularly the city of Taiz.
 
-##### Terrorism in Pakistan
+##### suicide bombing
 ### [ At least four are killed in an attack in Quetta, Pakistan. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/19/at-least-four-are-killed-in-an-attack-in-quetta-pakistan-islamic-state-of-iraq-and-the-levant-claims-responsibility.md)
 A policeman and three paramilitary soldiers were killed when gunmen opened fire in latest outbreak of violence in restive Balochistan province
 
@@ -33,11 +33,11 @@ Three crew members and a patient were killed when the plane, carrying a heart-di
 
 ##### Bersih 5 rally
 ### [Tens of thousands of people protest in the Malaysian capital Kuala Lumpur, calling for Prime Minister Najib Razak to step down amid an ongoing corruption scandal involving 1Malaysia Development Berhad. ](/news/2016/11/19/tens-of-thousands-of-people-protest-in-the-malaysian-capital-kuala-lumpur-calling-for-prime-minister-najib-razak-to-step-down-amid-an-ongoi.md)
-_Context: Najib Razak, Malaysia, Bersih 5 rally, 1Malaysia Development Berhad, Prime Minister, Kuala Lumpur_
+_Context: Bersih 5 rally, Malaysia, 1Malaysia Development Berhad, Najib Razak, Kuala Lumpur, Prime Minister_
 
 ##### Atlas V
 ### [An Atlas V rocket launches the GOES-R geosynchronous environmental satellite that will cover the Western Hemisphere for weather forecasting. ](/news/2016/11/19/an-atlas-v-rocket-launches-the-goes-r-geosynchronous-environmental-satellite-that-will-cover-the-western-hemisphere-for-weather-forecasting.md)
-_Context: geosynchronous environmental satellite, Western Hemisphere, Atlas V, GOES-R_
+_Context: Atlas V, Western Hemisphere, GOES-R, geosynchronous environmental satellite_
 
 ## [Previous Day...](/news/2016/11/18/index.md)
 

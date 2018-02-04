@@ -25,19 +25,19 @@ _Context: Nigeria_
 
 ##### Russia
 ### [ Russian forces state that they have killed an Algerian Al Qaeda operative and another militant during a raid on a house in Khasavyurt, Dagestan. ](/news/2009/08/31/russian-forces-state-that-they-have-killed-an-algerian-al-qaeda-operative-and-another-militant-during-a-raid-on-a-house-in-khasavyurt-dage.md)
-_Context: Khasavyurt, Al Qaeda, Dagestan, Russia, Algeria_
+_Context: Khasavyurt, Russia, Algeria, Al Qaeda, Dagestan_
 
 ##### Iraq
 ### [ Iraqi officials begin negotiations with Serbia over the return of 19 MiG-21 and MiG-23 fighter jets sent to Yugoslavia in the 1980's for repairs. ](/news/2009/08/31/iraqi-officials-begin-negotiations-with-serbia-over-the-return-of-19-mig-21-and-mig-23-fighter-jets-sent-to-yugoslavia-in-the-1980-s-for-re.md)
-_Context: Yugoslavia, MiG-23, MiG-21, Serbia, Iraq_
+_Context: Serbia, MiG-23, Iraq, Yugoslavia, MiG-21_
 
 ##### Jason Mraz
 ### [ Jason Mraz's "I'm Yours" becomes the longest running single in the Billboard Hot 100's history at 71 weeks on the chart. ](/news/2009/08/31/jason-mraz-s-i-m-yours-becomes-the-longest-running-single-in-the-billboard-hot-100-s-history-at-71-weeks-on-the-chart.md)
-_Context: I'm Yours, single, Jason Mraz, Billboard Hot 100_
+_Context: single, Billboard Hot 100, Jason Mraz, I'm Yours_
 
 ##### Armenia
 ### [ Armenia and Turkey agree to establish diplomatic relations. ](/news/2009/08/31/armenia-and-turkey-agree-to-establish-diplomatic-relations.md)
-_Context: diplomatic relations, Turkish, Armenia_
+_Context: Turkish, Armenia, diplomatic relations_
 
 ## [Previous Day...](/news/2009/08/30/index.md)
 

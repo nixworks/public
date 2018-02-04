@@ -5,7 +5,7 @@ Formats: [HTML](2009/03/16/index.html)  [JSON](2009/03/16/index.json)  [XML](200
 
 ##### Antananarivo
 ### [ Former Antananarivo Mayor Andry Rajoelina demands that Madagascar's military arrest President Marc Ravalomanana, as Army soldiers seize a presidential palace in the capital. ](/news/2009/03/16/former-antananarivo-mayor-andry-rajoelina-demands-that-madagascar-s-military-arrest-president-marc-ravalomanana-as-army-soldiers-seize-a-p.md)
-_Context: Marc Ravalomanana, Antananarivo, soldier, capital, Madagascan Army, presidential palace, Madagascar, President, Andry Rajoelina, Mayor_
+_Context: President, Marc Ravalomanana, capital, soldier, Antananarivo, Madagascan Army, Mayor, Andry Rajoelina, presidential palace, Madagascar_
 
 ##### Josef Fritzl
 ### [ Josef Fritzl of Austria pleads guilty to charges of rape, incest, sequestration, and grievous bodily harm. ](/news/2009/03/16/josef-fritzl-of-austria-pleads-guilty-to-charges-of-rape-incest-sequestration-and-grievous-bodily-harm.md)
@@ -13,7 +13,7 @@ The Austrian man accused of imprisoning his daughter for 24 years and fathering 
 
 ##### Pakistan
 ### [ Former Pakistani Prime Minister Nawaz Sharif cancels the Pakistan Muslim League's proposed demonstration, following the impending reinstatement of Iftikhar Muhammad Chaudhry as Chief Justice. ](/news/2009/03/16/former-pakistani-prime-minister-nawaz-sharif-cancels-the-pakistan-muslim-league-s-proposed-demonstration-following-the-impending-reinstate.md)
-_Context: Pakistan, Iftikhar Muhammad Chaudhry, Pakistan Muslim League, Nawaz Sharif, Pakistan's chief justice, demonstration, Prime Minister_
+_Context: Pakistan, Iftikhar Muhammad Chaudhry, Pakistan Muslim League, demonstration, Nawaz Sharif, Prime Minister, Pakistan's chief justice_
 
 ## [Previous Day...](/news/2009/03/15/index.md)
 

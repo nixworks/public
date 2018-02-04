@@ -29,7 +29,7 @@ Mangled remains of a school bus with blood stains on it, strewn bags, tiffin box
 
 ##### United States
 ### [The United States Federal Aviation Administration lifts its ban on aircraft travelling to and from Israel imposed due to concerns about Hamas rockets. ](/news/2014/07/24/the-united-states-federal-aviation-administration-lifts-its-ban-on-aircraft-travelling-to-and-from-israel-imposed-due-to-concerns-about-hama.md)
-_Context: Federal Aviation Administration, Hamas, Israel, United States_
+_Context: Hamas, Federal Aviation Administration, Israel, United States_
 
 ##### American
 ### [Three American citizens have been detained in Iran this week including "Washington Post" correspondent Jason Rezaian. Rezaian's Iranian wife Yeganeh Salehi has also been detained. ](/news/2014/07/24/three-american-citizens-have-been-detained-in-iran-this-week-including-washington-post-correspondent-jason-rezaian-rezaian-s-iranian-wife.md)

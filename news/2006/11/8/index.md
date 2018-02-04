@@ -17,7 +17,7 @@ Democrat Amy Klobuchar sailed to an easy victory in the U.S. Senate race Tuesday
 
 ##### Margaret Chan
 ### [ Dr. Margaret Chan, former director of Hong Kong Health Department, represented China to win the nomination to the Director-General of the World Health Organization. ](/news/2006/11/8/dr-margaret-chan-former-director-of-hong-kong-health-department-represented-china-to-win-the-nomination-to-the-director-general-of-the-w.md)
-_Context: Hong Kong, Health Department, China, World Health Organization, Margaret Chan_
+_Context: World Health Organization, China, Health Department, Margaret Chan, Hong Kong_
 
 ##### Pakistan
 ### [ At least 42 people die and 20 people are injured in a bomb blast outside an army training centre in north-west Pakistan. ](/news/2006/11/8/at-least-42-people-die-and-20-people-are-injured-in-a-bomb-blast-outside-an-army-training-centre-in-north-west-pakistan.md)
@@ -25,11 +25,11 @@ _Context: Pakistan_
 
 ##### Palestinian
 ### [ Nineteen Palestinian civilians are killed in the Gaza Strip from Israeli tank fire according to medical officers. ](/news/2006/11/8/nineteen-palestinian-civilians-are-killed-in-the-gaza-strip-from-israeli-tank-fire-according-to-medical-officers.md)
-_Context: Palestinian, Israel, Gaza Strip_
+_Context: Palestinian, Gaza Strip, Israel_
 
 ##### Ministers
 ### [ Five senior ministers in the Cabinet of the British Government are questioned by police as part of an investigation into alleged "cash for honours". ](/news/2006/11/8/five-senior-ministers-in-the-cabinet-of-the-british-government-are-questioned-by-police-as-part-of-an-investigation-into-alleged-cash-for.md)
-_Context: U.K. Cabinet, Ministers, Cash for Peerages, British Government_
+_Context: British Government, Ministers, Cash for Peerages, U.K. Cabinet_
 
 ##### Windows Vista
 ### [ Windows Vista, Microsoft's newest operating system is RTM (released to manufacturers). ](/news/2006/11/8/windows-vista-microsoft-s-newest-operating-system-is-rtm-released-to-manufacturers.md)

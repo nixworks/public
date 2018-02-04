@@ -29,7 +29,7 @@ Flights arriving at Gatwick Airport are diverted and drivers are warned of sever
 
 ##### Alaska
 ### [ The Alaska village of Nelson Lagoon is coated in volcanic ash after an especially vigorous and ongoing eruption of Mount Pavlof. ](/news/2016/03/28/the-alaska-village-of-nelson-lagoon-is-coated-in-volcanic-ash-after-an-especially-vigorous-and-ongoing-eruption-of-mount-pavlof.md)
-_Context: Nelson Lagoon, tephra, Alaska, Mount Pavlof_
+_Context: Alaska, tephra, Nelson Lagoon, Mount Pavlof_
 
 ##### China-Japan relations
 ### [ As part of its wider military build up along the Japanese archipelagos in the East China Sea, Japan activates a new radar station on the island of Yonaguni that is close to the disputed Senkaku Islands. ](/news/2016/03/28/as-part-of-its-wider-military-build-up-along-the-japanese-archipelagos-in-the-east-china-sea-japan-activates-a-new-radar-station-on-the-is.md)
@@ -37,7 +37,7 @@ Japan on Monday switched on a radar station in the East China Sea, giving it a p
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [ A Saudi coalition says it's traded 109 Yemeni prisoners for nine captive Saudis. ](/news/2016/03/28/a-saudi-coalition-says-it-s-traded-109-yemeni-prisoners-for-nine-captive-saudis.md)
-_Context: Saudi Arabia, Yemen, Saudi Arabian-led intervention in Yemen_
+_Context: Saudi Arabian-led intervention in Yemen, Saudi Arabia, Yemen_
 
 ##### cleaver
 ### [ A three-year-old girl is decapitated in an apparently random killing by a man with a cleaver in Taipei, Taiwan. The man was arrested shortly afterwards. ](/news/2016/03/28/a-three-year-old-girl-is-decapitated-in-an-apparently-random-killing-by-a-man-with-a-cleaver-in-taipei-taiwan-the-man-was-arrested-shortl.md)
@@ -53,7 +53,7 @@ Federal officials said Monday that they have unlocked the iPhone belonging to on
 
 ##### U.S. federal district court
 ### [ A U.S. federal district court, in a case filed by retailer Wal-Mart Stores. Inc., strikes down a Puerto Rican tax increase for on-island companies, with more than $2.75 billion in revenues that buy goods from off-island "related parties," because the levy clearly discriminates against interstate commerce. ](/news/2016/03/28/a-u-s-federal-district-court-in-a-case-filed-by-retailer-wal-mart-stores-inc-strikes-down-a-puerto-rican-tax-increase-for-on-island-co.md)
-_Context: Walmart, interstate commerce, U.S. federal district court, Puerto Rico_
+_Context: Walmart, U.S. federal district court, interstate commerce, Puerto Rico_
 
 ##### United States Secret Service
 ### [ The United States Secret Service says only law enforcement officers will be allowed to have guns inside the Republican National Convention to be held in the Cleveland, Ohio, arena on July 18-21, 2016; responding to an online petition demanding Quicken Loans Arena revoke its ban on open carrying of firearms. ](/news/2016/03/28/the-united-states-secret-service-says-only-law-enforcement-officers-will-be-allowed-to-have-guns-inside-the-republican-national-convention.md)
@@ -65,7 +65,7 @@ SALEM, N.C. (Reuters) - Transgender people barred under a new North Carolina law
 
 ##### Ferguson unrest
 ### [ A Missouri court strikes down parts of a law, meant to address concerns raised after the police shooting of Michael Brown in Ferguson, Missouri, that limit cities' ability to profit from traffic tickets and court fines. The judge wrote the law unconstitutionally targeted St. Louis-area municipalities with caps on revenues from traffic fines that were lower than other cities in the state. ](/news/2016/03/28/a-missouri-court-strikes-down-parts-of-a-law-meant-to-address-concerns-raised-after-the-police-shooting-of-michael-brown-in-ferguson-miss.md)
-_Context: Missouri court, court fines, shooting of Michael Brown, traffic ticket, Ferguson unrest, St. Louis-area municipalities, Ferguson, Missouri_
+_Context: court fines, St. Louis-area municipalities, Ferguson unrest, Missouri court, shooting of Michael Brown, Ferguson, Missouri, traffic ticket_
 
 ##### Parliament's
 ### [ Thousands of protestors rally in front of the Parliament of Pakistan in Islamabad in support of Mumtaz Qadri, the killer of reformist Punjab governor Salmaan Taseer in 2011 who was subsequently executed last February. The Pakistan Army was called in to control the situation. ](/news/2016/03/28/thousands-of-protestors-rally-in-front-of-the-parliament-of-pakistan-in-islamabad-in-support-of-mumtaz-qadri-the-killer-of-reformist-punja.md)

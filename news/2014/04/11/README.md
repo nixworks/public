@@ -3,13 +3,13 @@ Formats: [HTML](2014/04/11/index.html)  [JSON](2014/04/11/index.json)  [XML](201
 
 ## [2014-04-11](/news/2014/04/11/index.md)
 
-##### Tehrik-i-Taliban Pakistan
+##### Pakistani Taliban
 ### [Two rival factions of the Tehrik-i-Taliban Pakistan clash in Waziristan, Pakistan, leaving 12 insurgents dead. ](/news/2014/04/11/two-rival-factions-of-the-tehrik-i-taliban-pakistan-clash-in-waziristan-pakistan-leaving-12-insurgents-dead.md)
 At least 12 insurgents were killed on Friday in the latest round of infighting between Taliban factions in Pakistan’s restive Waziristan region, security officials said. More than 50 rebels have been
 
 ##### Peter Gabriel
 ### [Peter Gabriel, Hall & Oates, KISS, Nirvana, Linda Ronstadt, and Cat Stevens are inducted into the Rock and Roll Hall of Fame. ](/news/2014/04/11/peter-gabriel-hall-oates-kiss-nirvana-linda-ronstadt-and-cat-stevens-are-inducted-into-the-rock-and-roll-hall-of-fame.md)
-_Context: Nirvana, Cat Stevens, Rock and Roll Hall of Fame, KISS, Peter Gabriel, Linda Ronstadt, Hall & Oates_
+_Context: Nirvana, Hall & Oates, Peter Gabriel, Rock and Roll Hall of Fame, KISS, Linda Ronstadt, Cat Stevens_
 
 ##### Coldwater Creek
 ### [American women's clothing retailer Coldwater Creek files for chapter 11 bankruptcy. ](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.md)
@@ -17,7 +17,7 @@ _Context: Chapter 11, Coldwater Creek_
 
 ##### Queensland
 ### [Residents in the Australian state of Queensland prepare for Cyclone Ita to make landfall between Cooktown and Cape Flattery. ](/news/2014/04/11/residents-in-the-australian-state-of-queensland-prepare-for-cyclone-ita-to-make-landfall-between-cooktown-and-cape-flattery.md)
-_Context: Cooktown, Cape Flattery, Queensland_
+_Context: Cape Flattery, Cooktown, Queensland_
 
 ##### magnitude earthquake
 ### [A magnitude 7.1 earthquake strikes off the coast of Papua New Guinea, setting off tsunami warnings for the country. ](/news/2014/04/11/a-magnitude-7-1-earthquake-strikes-off-the-coast-of-papua-new-guinea-setting-off-tsunami-warnings-for-the-country.md)
@@ -29,7 +29,7 @@ Thousands of UN peacekeepers will be sent to the Central African Republic after 
 
 ##### 2014 Crimean crisis
 ### [Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-travel-bans-directed-a.md)
-_Context: Albania, 2014 Crimean crisis, supporting sanctions, Norway, Montenegro, Iceland_
+_Context: Norway, 2014 Crimean crisis, Albania, supporting sanctions, Montenegro, Iceland_
 
 ##### New Citizens' Movement
 ### [The 4-year prison sentence of New Citizens' Movement founder Xu Zhiyong is upheld in a Chinese court. ](/news/2014/04/11/the-4-year-prison-sentence-of-new-citizens-movement-founder-xu-zhiyong-is-upheld-in-a-chinese-court.md)

@@ -13,7 +13,7 @@ Tomb of revered Muslim in ancient town attacked and burned by Islamist fighters 
 
 ##### flash flood
 ### [The death toll from flash floods on the Seti River in Nepal reaches 17 with another 47 people missing and presumed dead. ](/news/2012/05/7/the-death-toll-from-flash-floods-on-the-seti-river-in-nepal-reaches-17-with-another-47-people-missing-and-presumed-dead.md)
-_Context: flash flood, Seti River, Nepal_
+_Context: flash flood, Nepal, Seti River_
 
 ##### South Korea
 ### [South Korea seizes thousands of smuggled capsules from Northeastern People's Republic of China filled with powdered human flesh. ](/news/2012/05/7/south-korea-seizes-thousands-of-smuggled-capsules-from-northeastern-people-s-republic-of-china-filled-with-powdered-human-flesh.md)
@@ -21,7 +21,7 @@ Officials seize thousands of smuggled capsules containing powdered flesh of fetu
 
 ##### Malaysia
 ### [Clerics in Malaysia issue a fatwa against Muslims participating in "unproductive demonstrations". ](/news/2012/05/7/clerics-in-malaysia-issue-a-fatwa-against-muslims-participating-in-unproductive-demonstrations.md)
-_Context: Muslim, fatwa, Malaysia_
+_Context: Malaysia, fatwa, Muslim_
 
 ##### CIA
 ### [The CIA announces it had foiled a plot by Fahd al-Quso, a Yemeni affiliate of al-Qaida, to have a suicide bomber, using an improved version of the underwear bomb used by Umar Farouk Abdulmutallab in 2009, to blow up an American-bound airliner; no lives were ever at risk. ](/news/2012/05/7/the-cia-announces-it-had-foiled-a-plot-by-fahd-al-quso-a-yemeni-affiliate-of-al-qaida-to-have-a-suicide-bomber-using-an-improved-version.md)
@@ -37,7 +37,7 @@ Romanian lawmakers on Monday approved a new left-leaning Cabinet that is expecte
 
 ##### Israel
 ### [Israel's prime minister Benjamin Netanyahu announces his desire to hold the country's general election on 4 September, more than a year early. ](/news/2012/05/7/israel-s-prime-minister-benjamin-netanyahu-announces-his-desire-to-hold-the-country-s-general-election-on-4-september-more-than-a-year-earl.md)
-_Context: Israel, Benjamin Netanyahu_
+_Context: Benjamin Netanyahu, Israel_
 
 ##### Vladimir Putin
 ### [Vladimir Putin is sworn in for a third six-year term as President of Russia. ](/news/2012/05/7/vladimir-putin-is-sworn-in-for-a-third-six-year-term-as-president-of-russia.md)
@@ -49,7 +49,7 @@ _Context: parliamentary elections, Syria, Syrian uprising (2011-present)_
 
 ##### Paeleoclimatology
 ### [Paeleoclimatology research published in "Current Biology" suggests that the greenhouse gas methane from dinosaur's flatulence may have warmed the Earth. ](/news/2012/05/7/paeleoclimatology-research-published-in-current-biology-suggests-that-the-greenhouse-gas-methane-from-dinosaur-s-flatulence-may-have-warme.md)
-_Context: methane, Paeleoclimatology, Current Biology, greenhouse gas, Earth, dinosaur, flatulence_
+_Context: Earth, Current Biology, dinosaur, Paeleoclimatology, greenhouse gas, flatulence, methane_
 
 ## [Previous Day...](/news/2012/05/6/index.md)
 

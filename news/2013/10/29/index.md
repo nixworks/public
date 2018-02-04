@@ -13,7 +13,7 @@ Thousands of desperate civilians flee a suburb of the Syrian capital Damascus th
 
 ##### French-born
 ### [Four French hostages held in Niger by an Al-Qaeda offshoot since 2010 are released. ](/news/2013/10/29/four-french-hostages-held-in-niger-by-an-al-qaeda-offshoot-since-2010-are-released.md)
-_Context: Niger, al-Qaeda, French-born_
+_Context: French-born, Niger, al-Qaeda_
 
 ##### NASDAQ
 ### [The Nasdaq Composite and NASDAQ-100 stock indices froze for an hour before resuming at around 1 PM EST. ](/news/2013/10/29/the-nasdaq-composite-and-nasdaq-100-stock-indices-froze-for-an-hour-before-resuming-at-around-1-pm-est.md)
@@ -29,7 +29,7 @@ A once-in-a-decade storm claims lives in the Netherlands, France, Germany and so
 
 ##### United Nations
 ### [The United Nations confirms an outbreak of polio in Syria. ](/news/2013/10/29/the-united-nations-confirms-an-outbreak-of-polio-in-syria.md)
-_Context: Syria, United Nations, polio_
+_Context: United Nations, Syria, polio_
 
 ##### dust storm
 ### [At least three people are dead after a dust storm causes an accident on Interstate 10 near Picacho Peak, Arizona, United States. ](/news/2013/10/29/at-least-three-people-are-dead-after-a-dust-storm-causes-an-accident-on-interstate-10-near-picacho-peak-arizona-united-states.md)
@@ -49,11 +49,11 @@ The government has welcomed the sentences handed down to the Boeremag members co
 
 ##### Greenwood County
 ### [A man shoots and kills five people and then commits suicide at a house in Greenwood County, South Carolina, U.S. ](/news/2013/10/29/a-man-shoots-and-kills-five-people-and-then-commits-suicide-at-a-house-in-greenwood-county-south-carolina-u-s.md)
-_Context: South Carolina, Greenwood County_
+_Context: Greenwood County, South Carolina_
 
 ##### Marilyn Tavenner
 ### [Marilyn Tavenner, the Administrator of Centers for Medicare and Medicaid Services, becomes the first Obama administration official to apologise for the troubled roll out of the healthcare.gov website as part of the Affordable Care Act or "Obamacare" system. ](/news/2013/10/29/marilyn-tavenner-the-administrator-of-centers-for-medicare-and-medicaid-services-becomes-the-first-obama-administration-official-to-apolog.md)
-_Context: Affordable Care Act, Obama administration, healthcare.gov, Marilyn Tavenner, Centers for Medicare and Medicaid Services_
+_Context: Centers for Medicare and Medicaid Services, Affordable Care Act, Obama administration, Marilyn Tavenner, healthcare.gov_
 
 ## [Previous Day...](/news/2013/10/28/index.md)
 

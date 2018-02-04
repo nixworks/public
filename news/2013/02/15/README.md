@@ -21,15 +21,15 @@ The European Union will tighten sanctions on North Korea to curb trade in gold a
 
 ##### British
 ### [The British catering firm Compass Group and hotel chain Whitbread both identify horse meat in products sold as beef. ](/news/2013/02/15/the-british-catering-firm-compass-group-and-hotel-chain-whitbread-both-identify-horse-meat-in-products-sold-as-beef.md)
-_Context: British, Compass Group, beef, horses for meat, Whitbread, 2013 meat adulteration scandal_
+_Context: horses for meat, beef, Compass Group, 2013 meat adulteration scandal, British, Whitbread_
 
 ##### social network
 ### [The social networking giant Facebook announces that it was the target of sophisticated hackers, who through a then-unknown bug from Oracle's Java on an infected website, managed to infiltrate employees' laptops, and then the internal networks. There was no user data collected, but certain code and corporate e-mails could have been exfiltrated. ](/news/2013/02/15/the-social-networking-giant-facebook-announces-that-it-was-the-target-of-sophisticated-hackers-who-through-a-then-unknown-bug-from-oracle-s.md)
-_Context: network, bug, Oracle Corporation, e-mails, Java, website, Facebook, social network, user data, hackers, laptop_
+_Context: e-mails, bug, Facebook, hackers, user data, network, laptop, Java, website, Oracle Corporation, social network_
 
 ##### H.J. Heinz
 ### [Securities regulators file a lawsuit against traders in options on the stock of H.J. Heinz, alleging they had inside information of the planned acquisition of that company before the announcement thereof by Berkshire Hathaway and 3G Capital. ](/news/2013/02/15/securities-regulators-file-a-lawsuit-against-traders-in-options-on-the-stock-of-h-j-heinz-alleging-they-had-inside-information-of-the-plan.md)
-_Context: H.J. Heinz, Berkshire Hathaway Inc., 3G Capital_
+_Context: H.J. Heinz, 3G Capital, Berkshire Hathaway Inc._
 
 ##### Westminster
 ### [Westminster's Independent Parliamentary Standards Authority launches an investigation into expenses claims submitted by MP Nadine Dorries. ](/news/2013/02/15/westminster-s-independent-parliamentary-standards-authority-launches-an-investigation-into-expenses-claims-submitted-by-mp-nadine-dorries.md)
@@ -41,7 +41,7 @@ Jesse Jackson Jr. and his wife Sandi intend to plead guilty to federal charges a
 
 ##### Near-Earth
 ### [Near-Earth asteroid 2012 DA14 with an estimated diameter of about 50 m comes within 17,200 miles (27,700 km) from the Earth's surface. This distance is a record close approach for a known object of such size. ](/news/2013/02/15/near-earth-asteroid-2012-da14-with-an-estimated-diameter-of-about-50-m-comes-within-17-200-miles-27-700-km-from-the-earth-s-surface-this.md)
-_Context: record close approach, Earth, asteroid, 2012 DA14, diameter, Near-Earth_
+_Context: asteroid, Near-Earth, Earth, diameter, 2012 DA14, record close approach_
 
 ## [Previous Day...](/news/2013/02/14/index.md)
 

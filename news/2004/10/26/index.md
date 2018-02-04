@@ -9,11 +9,11 @@ _Context: New York City, NTSB, American Airlines Flight 587_
 
 ##### Reporters Without Borders
 ### [ A report by the media watchdog group Reporters Without Borders (RSF) ranks press freedom across the world. The ten lowest scoring countries (least free) in the report were North Korea, Cuba, Myanmar, Turkmenistan, Eritrea, the People's Republic of China, Vietnam, Nepal, Saudi Arabia, and Iran, while the ten highest were Denmark, Finland, Iceland, Ireland, the Netherlands, Norway, Slovakia, Switzerland, New Zealand, and Latvia. ](/news/2004/10/26/a-report-by-the-media-watchdog-group-reporters-without-borders-rsf-ranks-press-freedom-across-the-world-the-ten-lowest-scoring-countries.md)
-_Context: Vietnam, covering, Norway, Cuba, Slovakia, Myanmar, Nepal, Iran, North Korea, Denmark, China, Latvia, Reporters Without Borders, Turkmenistan, New Zealand, Netherlands, Finland, Saudi Arabia, Irish, Switzerland, Iceland, Eritrea_
+_Context: Nepal, Irish, Saudi Arabia, Turkmenistan, Iceland, Switzerland, Myanmar, North Korea, Cuba, Iran, Eritrea, Slovakia, Norway, China, Vietnam, covering, Netherlands, Finland, New Zealand, Denmark, Latvia, Reporters Without Borders_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: The Knesset approves Israeli Prime Minister Ariel Sharon's plan to withdraw 21 settlements from the Gaza Strip and 4 from the West Bank by next year. Israeli Finance Minister Benjamin Netanyahu and three other cabinet ministers from Sharon's ruling Likud government threaten to resign if a referendum over the plan will not be held. ](/news/2004/10/26/israeli-palestinian-conflict-the-knesset-approves-israeli-prime-minister-ariel-sharon-s-plan-to-withdraw-21-settlements-from-the-gaza-stri.md)
-_Context: Israeli-Palestinian conflict, Finance Minister, Likud, West Bank, Israel's unilateral disengagement plan of 2004, parliament in Israel, Gaza Strip, referendum, Ariel Sharon, Benjamin Netanyahu_
+_Context: Finance Minister, Ariel Sharon, West Bank, Israel's unilateral disengagement plan of 2004, Likud, parliament in Israel, Israeli-Palestinian conflict, referendum, Gaza Strip, Benjamin Netanyahu_
 
 ##### AIDS in the country
 ### [ The People's Republic of China shuts down dozens of illegal or unsanitary blood collection stations as part of its efforts to curb the spread of AIDS in the country. ](/news/2004/10/26/the-people-s-republic-of-china-shuts-down-dozens-of-illegal-or-unsanitary-blood-collection-stations-as-part-of-its-efforts-to-curb-the-spre.md)

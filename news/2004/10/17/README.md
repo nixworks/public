@@ -9,7 +9,7 @@ _Context: satellite, Sichuan_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israel Defense Forces troops enter the southern Gaza Strip refugee camp of Rafah with ten tanks and three bulldozers. ](/news/2004/10/17/israeli-palestinian-conflict-israel-defense-forces-troops-enter-the-southern-gaza-strip-refugee-camp-of-rafah-with-ten-tanks-and-three-bul.md)
-_Context: bulldozer, Israel Defense Forces, refugee camp, Israeli-Palestinian Conflict, Rafah, tank, Gaza Strip_
+_Context: Israeli-Palestinian Conflict, tank, refugee camp, Rafah, Gaza Strip, Israel Defense Forces, bulldozer_
 
 ##### ambassador
 ### [ The UK ambassador to Uzbekistan is recalled and suspended after criticizing the use of intelligence allegedly obtained under torture by the Uzbekistan government. ](/news/2004/10/17/the-uk-ambassador-to-uzbekistan-is-recalled-and-suspended-after-criticizing-the-use-of-intelligence-allegedly-obtained-under-torture-by-the.md)

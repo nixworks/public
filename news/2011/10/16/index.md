@@ -21,7 +21,7 @@ A ceremony to rename Wootton Bassett with the prefix &quot;Royal&quot; takes pla
 
 ##### Franois Hollande
 ### [Franois Hollande defeats Martine Aubry in a primary runoff election held by the French Socialist Party, becoming the party's official candidate to challenge incumbent President of France Nicolas Sarkozy in the 2012 presidential election. ](/news/2011/10/16/francois-hollande-defeats-martine-aubry-in-a-primary-runoff-election-held-by-the-french-socialist-party-becoming-the-party-s-official-candi.md)
-_Context: Martine Aubry, primary election, Nicolas Sarkozy, Franois Hollande, runoff election, 2012 presidential election, French Socialist Party, French President_
+_Context: Franois Hollande, Nicolas Sarkozy, primary election, French Socialist Party, Martine Aubry, French President, 2012 presidential election, runoff election_
 
 ##### Bolivia
 ### [Voters in Bolivia go to the polls for a judicial election - the first ever held in Latin America - with opposition politicians urging voters to spoil their ballots in protest against the government of incumbent President Evo Morales. ](/news/2011/10/16/voters-in-bolivia-go-to-the-polls-for-a-judicial-election-the-first-ever-held-in-latin-america-with-opposition-politicians-urging-voters.md)

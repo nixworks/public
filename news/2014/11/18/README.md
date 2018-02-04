@@ -13,7 +13,7 @@ Two Palestinians armed with a gun and meat cleavers kill four worshippers at a J
 
 ##### UNESCO
 ### [UNESCO declares the Rizal Monument in Manila, Machu Picchu of Peru, Camino de Santiago of Spain, and the Dampier Archipelago of Australia as World Heritage Sites in Danger. ](/news/2014/11/18/unesco-declares-the-rizal-monument-in-manila-machu-picchu-of-peru-camino-de-santiago-of-spain-and-the-dampier-archipelago-of-australia-as.md)
-_Context: Machu Picchu, UNESCO, World Heritage Sites in Danger, Manila, Peru, Camino de Santiago, Dampier Archipelago, Rizal Monument_
+_Context: Camino de Santiago, World Heritage Sites in Danger, Manila, UNESCO, Machu Picchu, Rizal Monument, Peru, Dampier Archipelago_
 
 ##### South Korea's coast guard
 ### [South Korea launches a new National Safety Agency with more than 10,000 staff to replace the Korea Coast Guard, blamed by President Park Geun-hye for a poor response to the sinking of MV "Sewol". ](/news/2014/11/18/south-korea-launches-a-new-national-safety-agency-with-more-than-10-000-staff-to-replace-the-korea-coast-guard-blamed-by-president-park-geu.md)
@@ -21,19 +21,19 @@ South Korea launches a massive new government agency this week to handle emergen
 
 ##### November 2014 North American cold wave
 ### [Lake-effect snow pummels areas around the Great Lake states, including New York, Pennsylvania, Michigan, Wisconsin and Ohio, stranding hundreds of vehicles and causing Erie County, New York, to declare a state of emergency. ](/news/2014/11/18/lake-effect-snow-pummels-areas-around-the-great-lake-states-including-new-york-pennsylvania-michigan-wisconsin-and-ohio-stranding-hundr.md)
-_Context: Mich., Lake-effect snow, Wisconsin, Ohio, Erie County, New York, New York, November 2014 North American cold wave, Pennsylvania_
+_Context: Lake-effect snow, Erie County, New York, Wisconsin, Pennsylvania, Ohio, November 2014 North American cold wave, New York, Mich._
 
 ##### Human Rights Watch
 ### [Human Rights Watch claims that police in the Democratic Republic of the Congo's capital Kinshasa had killed at least 51 people in extrajudicial killings in a crackdown on kuluna gangs last November. ](/news/2014/11/18/human-rights-watch-claims-that-police-in-the-democratic-republic-of-the-congo-s-capital-kinshasa-had-killed-at-least-51-people-in-extrajudic.md)
-_Context: Human Rights Watch, Kinshasa, had killed, DR Congo, extrajudicial killing_
+_Context: Kinshasa, had killed, DR Congo, extrajudicial killing, Human Rights Watch_
 
 ##### Kenneth Mapp
 ### [Kenneth Mapp, an independent, is elected Governor of the U.S. Virgin Islands in the gubernatorial runoff election over Democrat Donna Christensen. ](/news/2014/11/18/kenneth-mapp-an-independent-is-elected-governor-of-the-u-s-virgin-islands-in-the-gubernatorial-runoff-election-over-democrat-donna-christ.md)
-_Context: Governor of the U.S. Virgin Islands, Kenneth Mapp, Donna Christensen, gubernatorial runoff election_
+_Context: Kenneth Mapp, gubernatorial runoff election, Governor of the U.S. Virgin Islands, Donna Christensen_
 
 ##### Shinzo Abe
 ### [Japan's Prime Minister Shinzo Abe calls a snap election for mid-December, two years ahead of schedule. ](/news/2014/11/18/japan-s-prime-minister-shinza-abe-calls-a-snap-election-for-mid-december-two-years-ahead-of-schedule.md)
-_Context: Shinzo Abe, 2014_
+_Context: 2014, Shinzo Abe_
 
 ##### Teodor Melescanu
 ### [Teodor Melescanu becomes the second Foreign minister of Romania in just eight days to resign because of organizational problems which have left thousands of Romanians abroad unable to vote in the elections. ](/news/2014/11/18/teodor-meleecanu-becomes-the-second-foreign-minister-of-romania-in-just-eight-days-to-resign-because-of-organizational-problems-which-have.md)

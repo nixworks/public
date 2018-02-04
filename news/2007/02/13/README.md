@@ -5,31 +5,31 @@ Formats: [HTML](2007/02/13/index.html)  [JSON](2007/02/13/index.json)  [XML](200
 
 ##### TGV train
 ### [ The TGV beats the record of the world's fastest conventional train with a speed of 553 &nbsp;km-h (344&nbsp;mph) reached during a test run on the LGV Est. ](/news/2007/02/13/the-tgv-beats-the-record-of-the-world-s-fastest-conventional-train-with-a-speed-of-553-nbsp-km-h-344-nbsp-mph-reached-during-a-test-run.md)
-_Context: world's fastest conventional train, TGV train, LGV Est_
+_Context: LGV Est, world's fastest conventional train, TGV train_
 
 ##### suicide attack
 ### [ A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md)
-_Context: Baghdad, car bomb, suicide attack_
+_Context: car bomb, suicide attack, Baghdad_
 
 ##### Netherlands
 ### [ Dutch oil-trading company Trafigura agrees to pay the Cte d'Ivoire government $198 million to clean up a 2006 toxic waste spill which led to the deaths of 10 people. ](/news/2007/02/13/dutch-oil-trading-company-trafigura-agrees-to-pay-the-cote-d-ivoire-government-198-million-to-clean-up-a-2006-toxic-waste-spill-which-led.md)
-_Context: oil, Netherlands, Trafigura, USD, Cte d'Ivoire, 2006 toxic waste spill, government_
+_Context: 2006 toxic waste spill, government, USD, oil, Trafigura, Netherlands, Cte d'Ivoire_
 
 ##### Iran
 ### [ Iranian President Mahmoud Ahmadinejad says his administration is open to negotiations regarding its nuclear program. ](/news/2007/02/13/iranian-president-mahmoud-ahmadinejad-says-his-administration-is-open-to-negotiations-regarding-its-nuclear-program.md)
-_Context: Mahmoud Ahmadinejad, nuclear program, Iranian government, President, Iran_
+_Context: nuclear program, Mahmoud Ahmadinejad, Iranian government, President, Iran_
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney (R) formally announces his candidacy for president. ](/news/2007/02/13/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-r-formally-announces-his-candidacy-for-president.md)
-_Context: Republican, U.S. President, Massachusetts governor, Mitt Romney, 2008_
+_Context: Mitt Romney, 2008, U.S. President, Republican, Massachusetts governor_
 
 ##### tornado
 ### [ A tornado strikes New Orleans, Louisiana leaving one dead and three people injured. ](/news/2007/02/13/a-tornado-strikes-new-orleans-louisiana-leaving-one-dead-and-three-people-injured.md)
-_Context: tornado, Louisiana, New Orleans_
+_Context: Louisiana, tornado, New Orleans_
 
 ##### Berlin
 ### [ A small business jet heading to Berlin, Germany crashes during take-off at Vnukovo airport in Moscow, Russia. ](/news/2007/02/13/a-small-business-jet-heading-to-berlin-germany-crashes-during-take-off-at-vnukovo-airport-in-moscow-russia.md)
-_Context: Russia, Vnukovo airport, German, Berlin, Moscow_
+_Context: Berlin, Vnukovo airport, Russia, German, Moscow_
 
 ##### Ma Ying-jeou
 ### [ Ma Ying-jeou, the party chairman of the Kuomintang, resigns after being indicted by the Taiwan High Prosecutors Office on charges of embezzlement during his tenure as the mayor of Taipei. ](/news/2007/02/13/ma-ying-jeou-the-party-chairman-of-the-kuomintang-resigns-after-being-indicted-by-the-taiwan-high-prosecutors-office-on-charges-of-embezz.md)
@@ -41,7 +41,7 @@ _Context: Kosovo_
 
 ##### Japan
 ### [ Japan holds an international conference to push for the resumption of commercial whaling. Anti-whaling nations in the International Whaling Commission such as the United States, United Kingdom and Australia have boycotted the conference. ](/news/2007/02/13/japan-holds-an-international-conference-to-push-for-the-resumption-of-commercial-whaling-anti-whaling-nations-in-the-international-whaling.md)
-_Context: boycott, International Whaling Commission, Australia, United States, British, whaling, Japan_
+_Context: Australia, Japan, United States, boycott, British, International Whaling Commission, whaling_
 
 ##### Bikfaya
 ### [ At least three people have been killed in bomb blasts that hit two buses in the village of Bikfaya near Beirut, Lebanon. ](/news/2007/02/13/at-least-three-people-have-been-killed-in-bomb-blasts-that-hit-two-buses-in-the-village-of-bikfaya-near-beirut-lebanon.md)
@@ -49,7 +49,7 @@ _Context: Bikfaya, Beirut, Lebanon_
 
 ##### World Bank
 ### [ The World Bank has approved construction of the Baglihar Dam on the Chenab River in Indian-administered Kashmir. ](/news/2007/02/13/the-world-bank-has-approved-construction-of-the-baglihar-dam-on-the-chenab-river-in-indian-administered-kashmir.md)
-_Context: Chenab River, India, Baglihar Dam, World Bank, Kashmir_
+_Context: Chenab River, India, World Bank, Kashmir, Baglihar Dam_
 
 ## [Previous Day...](/news/2007/02/12/index.md)
 

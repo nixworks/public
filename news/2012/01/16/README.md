@@ -17,7 +17,7 @@ The King Center publishes online 200,000 personal papers belonging to Martin Lut
 
 ##### Standard & Poors
 ### [The Standard & Poors credit rating agency lowers its long-term credit rating on the European Financial Stability Facility, the eurozone's bailout fund to help indebted European countries with their finances, from AAA to AA+ following the downgrade of France and Austria, who are two of the fund's backers. ](/news/2012/01/16/the-standard-poors-credit-rating-agency-lowers-its-long-term-credit-rating-on-the-european-financial-stability-facility-the-eurozone-s-ba.md)
-_Context: eurozone, credit rating, European Financial Stability Facility, France, Standard & Poors, Austria_
+_Context: Austria, France, credit rating, European Financial Stability Facility, Standard & Poors, eurozone_
 
 ##### Zappos
 ### [The online shoe retailer Zappos reports that up to 24 million customer accounts may have been accessed by hackers, and has warned its customers to change their passwords. ](/news/2012/01/16/the-online-shoe-retailer-zappos-reports-that-up-to-24-million-customer-accounts-may-have-been-accessed-by-hackers-and-has-warned-its-custom.md)
@@ -33,7 +33,7 @@ Labour MEP Proinsias De Rossa is to step down from the European Parliament next 
 
 ##### English Wikipedia
 ### [The English Wikipedia will be shut down on Wednesday in protest against anti-piracy legislation proposed by the United States Congress. ](/news/2012/01/16/the-english-wikipedia-will-be-shut-down-on-wednesday-in-protest-against-anti-piracy-legislation-proposed-by-the-united-states-congress.md)
-_Context: SOPA, English Wikipedia, lawmakers_
+_Context: SOPA, lawmakers, English Wikipedia_
 
 ## [Previous Day...](/news/2012/01/15/index.md)
 

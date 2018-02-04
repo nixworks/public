@@ -5,7 +5,7 @@ Formats: [HTML](2005/08/25/index.html)  [JSON](2005/08/25/index.json)  [XML](200
 
 ##### investigating magistrate
 ### [ French investigating magistrate Jean-Louis Bruguiere warns that Al-Qaeda is planning a terrorism attack in Asia, singling out Tokyo, Sydney and Singapore as potential targets. ](/news/2005/08/25/french-investigating-magistrate-jean-louis-bruguia-re-warns-that-al-qaeda-is-planning-a-terrorism-attack-in-asia-singling-out-tokyo-sydne.md)
-_Context: Tokyo, Singapore, Asia, Sydney, investigating magistrate, Jean-Louis Bruguiere, al-Qaeda_
+_Context: Sydney, Asia, Jean-Louis Bruguiere, al-Qaeda, investigating magistrate, Tokyo, Singapore_
 
 ##### Egypt
 ### [ Two Egyptian policemen die following two explosions in northern Sinai. ](/news/2005/08/25/two-egyptian-policemen-die-following-two-explosions-in-northern-sinai.md)
@@ -13,7 +13,7 @@ _Context: Egypt, Sinai Peninsula_
 
 ##### 2005 European floods
 ### [ At least 42 people die following a series of floods throughout Europe. ](/news/2005/08/25/at-least-42-people-die-following-a-series-of-floods-throughout-europe.md)
-_Context: Europe, 2005 European floods_
+_Context: 2005 European floods, Europe_
 
 ##### Kut
 ### [ 36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md)

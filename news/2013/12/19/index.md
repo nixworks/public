@@ -9,7 +9,7 @@ Three suicide bombers detonate explosives belts among Shiite pilgrims in Iraq, k
 
 ##### Phil Robertson
 ### [Phil Robertson, featured on the reality show "Duck Dynasty", is suspended by A&E in response to controversial statements about homosexuality made during an interview with "GQ" magazine. ](/news/2013/12/19/phil-robertson-featured-on-the-reality-show-duck-dynasty-is-suspended-by-a-e-in-response-to-controversial-statements-about-homosexuality.md)
-_Context: ''GQ'' magazine, homosexuality, Phil Robertson, A&E, Duck Dynasty_
+_Context: A&E, ''GQ'' magazine, homosexuality, Phil Robertson, Duck Dynasty_
 
 ##### British
 ### [British food writer Nigella Lawson's alleged drug use can be included in the lawsuit, the high court says. ](/news/2013/12/19/british-food-writer-nigella-lawson-s-alleged-drug-use-can-be-included-in-the-lawsuit-the-high-court-says.md)
@@ -17,7 +17,7 @@ Closing statements were heard today in the fraud trial of the celebrity chef&#39
 
 ##### London
 ### [A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct-news-of-the-world.md)
-_Context: News of the World, London, Catherine, Duchess of Cambridge, Duke of Cambridge_
+_Context: London, News of the World, Catherine, Duchess of Cambridge, Duke of Cambridge_
 
 ##### Target Corporation
 ### [Target Corporation and the United States Secret Service say that more than 40 million credit and debit cards used in Target stores may have been compromised due to a data breach. ](/news/2013/12/19/target-corporation-and-the-united-states-secret-service-say-that-more-than-40-million-credit-and-debit-cards-used-in-target-stores-may-have.md)
@@ -49,23 +49,23 @@ Michael Adebolajo and Michael Adebowale are found guilty of the murder of soldie
 
 ##### Belgium
 ### [Pelsender Didier, a 75-year-old Belgium national, who has been internationally wanted by Interpol since 2006 for sexually abusing two of his adopted daughters, is arrested in Vietnam's Nha Trang beachside city. ](/news/2013/12/19/pelsender-didier-a-75-year-old-belgium-national-who-has-been-internationally-wanted-by-interpol-since-2006-for-sexually-abusing-two-of-his.md)
-_Context: Interpol, Belgium, Nha Trang_
+_Context: Belgium, Nha Trang, Interpol_
 
 ##### Berlin
 ### [Berlin city-state officials says that a police investigation has traced vehicles stolen in recent years in Germany to Tajikistan, some 3,500 miles away. German authorities alleged that relatives and other people close to Tajikistan's president are driving stolen luxury cars from Germany, as a long-running criminal probe escalated into a diplomatic spat between two countries. ](/news/2013/12/19/berlin-city-state-officials-says-that-a-police-investigation-has-traced-vehicles-stolen-in-recent-years-in-germany-to-tajikistan-some-3-500.md)
-_Context: Tajikistan, Berlin, German_
+_Context: German, Tajikistan, Berlin_
 
 ##### Reporters Without Borders
 ### [Reporters Without Borders releases their annual report regarding press freedom around the world with 71 journalists killed in 2013 so far. The deadliest countries are Syria, India, the Philippines, Pakistan, and Somalia while the worst jailers are China, Turkey, Eritrea, Iran, and Syria. ](/news/2013/12/19/reporters-without-borders-releases-their-annual-report-regarding-press-freedom-around-the-world-with-71-journalists-killed-in-2013-so-far-t.md)
-_Context: Philippines, China, Reporters Without Borders, Eritrea, India, Syria, Somalia, Pakistan, Turkish, Iran_
+_Context: Reporters Without Borders, Eritrea, Iran, Pakistan, Philippines, India, Syria, Somalia, China, Turkish_
 
 ##### Barbara Walters
 ### [In an interview with Barbara Walters, Hillary Clinton says she is "unsure" if she is going to run in the 2016 U.S. presidential election. ](/news/2013/12/19/in-an-interview-with-barbara-walters-hillary-clinton-says-she-is-unsure-if-she-is-going-to-run-in-the-2016-u-s-presidential-election.md)
-_Context: 2016 U.S. presidential election, Hillary Clinton, Barbara Walters_
+_Context: Hillary Clinton, 2016 U.S. presidential election, Barbara Walters_
 
 ##### Governor of Tokyo
 ### [Governor of Tokyo Naoki Inose submits his resignation after intense questioning amid a political funds scandal. ](/news/2013/12/19/governor-of-tokyo-naoki-inose-submits-his-resignation-after-intense-questioning-amid-a-political-funds-scandal.md)
-_Context: Naoki Inose, Governor of Tokyo_
+_Context: Governor of Tokyo, Naoki Inose_
 
 ## [Previous Day...](/news/2013/12/18/index.md)
 

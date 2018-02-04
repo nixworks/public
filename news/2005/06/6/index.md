@@ -5,11 +5,11 @@ Formats: [HTML](2005/06/6/index.html)  [JSON](2005/06/6/index.json)  [XML](2005/
 
 ##### Syria
 ### [ Syrian vice-president Abdel-Halim Khaddam resigns during a Ba'ath party congress ](/news/2005/06/6/syrian-vice-president-abdel-halim-khaddam-resigns-during-a-ba-ath-party-congress.md)
-_Context: Abdel-Halim Khaddam, Ba'ath, Syria_
+_Context: Abdel-Halim Khaddam, Syria, Ba'ath_
 
 ##### Ethiopia
 ### [ In Ethiopia, police arrest more than 500 students who protest against the parliamentary elections. The ruling EPRDF party claims victory but official results have been delayed until July 8 due to complaints of electoral fraud and opposition protests ](/news/2005/06/6/in-ethiopia-police-arrest-more-than-500-students-who-protest-against-the-parliamentary-elections-the-ruling-eprdf-party-claims-victory-bu.md)
-_Context: Ethiopia, EPRDF, 2005 elections, July 8, electoral fraud_
+_Context: EPRDF, 2005 elections, electoral fraud, July 8, Ethiopia_
 
 ##### Burundi
 ### [ In Burundi, former rebel group Hutu Forces for the Defence of Democracy wins 75 out of 129 seats in municipal elections ](/news/2005/06/6/in-burundi-former-rebel-group-hutu-forces-for-the-defence-of-democracy-wins-75-out-of-129-seats-in-municipal-elections.md)
@@ -29,15 +29,15 @@ _Context: Debian GNU/Linux_
 
 ##### Apple Computer
 ### [ Apple Computer announces they would change the processors for their Macintosh computer lineup from IBM to Intel. - ](/news/2005/06/6/apple-computer-announces-they-would-change-the-processors-for-their-macintosh-computer-lineup-from-ibm-to-intel.md)
-_Context: IBM, Macintosh, Intel, Apple Computer_
+_Context: Apple Computer, Macintosh, IBM, Intel_
 
 ##### Condoleezza Rice
 ### [ U.S. Secretary of State Condoleezza Rice opened the 35th General Assembly meeting of the Organization of American States Sunday in Fort Lauderdale, Florida. Secretary Rice called on member states to do more to protect democracy in the region, and strengthen civil society. ](/news/2005/06/6/u-s-secretary-of-state-condoleezza-rice-opened-the-35th-general-assembly-meeting-of-the-organization-of-american-states-sunday-in-fort-lau.md)
-_Context: the state, Organization of American States, Condoleezza Rice, Fort Lauderdale, Florida_
+_Context: Organization of American States, Fort Lauderdale, Florida, the state, Condoleezza Rice_
 
 ##### ICC
 ### [ The International Criminal Court announces an investigation into crimes against humanity in Darfur ](/news/2005/06/6/the-international-criminal-court-announces-an-investigation-into-crimes-against-humanity-in-darfur.md)
-_Context: Darfur, ICC, crimes against humanity_
+_Context: crimes against humanity, Darfur, ICC_
 
 ##### Bolivia
 ### [ Protests against privatisation of essential utilities continue in Bolivia ](/news/2005/06/6/protests-against-privatisation-of-essential-utilities-continue-in-bolivia.md)
@@ -45,11 +45,11 @@ _Context: Bolivia_
 
 ##### Bougainville Island
 ### [ In Bougainville, Joseph Kabui is elected president of the autonomous government ](/news/2005/06/6/in-bougainville-joseph-kabui-is-elected-president-of-the-autonomous-government.md)
-_Context: Joseph Kabui, Bougainville Island, autonomous government_
+_Context: autonomous government, Joseph Kabui, Bougainville Island_
 
 ##### Australia
 ### [ In Australia, Chinese defector Chen Yonglin claims that the Australian government rejected his request for political asylum without interviewing him. China states that his claims about a large espionage ring in Australia are false ](/news/2005/06/6/in-australia-chinese-defector-chen-yonglin-claims-that-the-australian-government-rejected-his-request-for-political-asylum-without-intervi.md)
-_Context: Chen Yonglin, political asylum, China, espionage, Australia_
+_Context: Chen Yonglin, Australia, political asylum, espionage, China_
 
 ## [Previous Day...](/news/2005/06/5/index.md)
 

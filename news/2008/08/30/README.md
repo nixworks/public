@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/30/index.html)  [JSON](2008/08/30/index.json)  [XML](200
 
 ##### Mexico
 ### [ Mass marches are held in more than 70 cities across Mexico, demanding stronger action against violent crime. ](/news/2008/08/30/mass-marches-are-held-in-more-than-70-cities-across-mexico-demanding-stronger-action-against-violent-crime.md)
-_Context: Crime in Mexico, Mexico_
+_Context: Mexico, Crime in Mexico_
 
 ##### 2008 Panzhihua earthquake
 ### [ The 2008 Panzhihua earthquake in China's Sichuan province kills at least 15 people and injures dozens more. ](/news/2008/08/30/the-2008-panzhihua-earthquake-in-china-s-sichuan-province-kills-at-least-15-people-and-injures-dozens-more.md)
@@ -25,15 +25,15 @@ _Context: 2008 Indian floods, Indian Armed Forces_
 
 ##### Pakistan Army
 ### [ The Pakistan Army claims that 30 militants have been killed in Swat, NWFP, in heavy fighting in recent days. ](/news/2008/08/30/the-pakistan-army-claims-that-30-militants-have-been-killed-in-swat-nwfp-in-heavy-fighting-in-recent-days.md)
-_Context: Swat, Pakistan, Pakistan Army, Khyber Pakhtunkhwa_
+_Context: Northwestern Pakistan, Swat, Pakistan, Pakistan Army_
 
 ##### Italy
 ### [ Italy compensates Libya for the forced colonization in the 1910s, promising to pay US$5 billion over the next 25 years. ](/news/2008/08/30/italy-compensates-libya-for-the-forced-colonization-in-the-1910s-promising-to-pay-us-5-billion-over-the-next-25-years.md)
-_Context: Libya, forced colonization, Italy_
+_Context: Libya, Italy, forced colonization_
 
 ##### Mahdi Army
 ### [ The head of the Mahdi Army in Karbala, Iraq, is sentenced to death over the Battle of Karbala (2007) ](/news/2008/08/30/the-head-of-the-mahdi-army-in-karbala-iraq-is-sentenced-to-death-over-the-battle-of-karbala-2007.md)
-_Context: Battle of Karbala (2007), Mahdi Army, Karbala, Iraq_
+_Context: Mahdi Army, Karbala, Battle of Karbala (2007), Iraq_
 
 ## [Previous Day...](/news/2008/08/29/index.md)
 

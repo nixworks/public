@@ -13,11 +13,11 @@ Tuareg separatist rebels in Mali have seized Timbuktu, taking effective control 
 
 ##### Academy of Country Music
 ### [The 2012 Academy of Country Music Awards are held in the US city of Las Vegas, Nevada, with the Eli Young Band winning song of the year for "Crazy Girl" and Taylor Swift winning Entertainer of the Year. ](/news/2012/04/1/the-2012-academy-of-country-music-awards-are-held-in-the-us-city-of-las-vegas-nevada-with-the-eli-young-band-winning-song-of-the-year-for.md)
-_Context: Eli Young Band, Taylor Swift, Crazy Girl, Academy of Country Music, Las Vegas, Nevada_
+_Context: Las Vegas, Nevada, Academy of Country Music, Taylor Swift, Crazy Girl, Eli Young Band_
 
 ##### Feist
 ### [Feist wins Artist of the Year at the Canadian Juno Awards. ](/news/2012/04/1/feist-wins-artist-of-the-year-at-the-canadian-juno-awards.md)
-_Context: Juno Awards, Feist, Canadian_
+_Context: Juno Awards, Canadian, Feist_
 
 ##### Fiji
 ### [A state of emergency is declared in Fiji as nearly 7000 people are displaced and two people have been killed during floods with conditions set to worsen with heavy storms expected following Tropical Depression 17F.](/news/2012/04/1/a-state-of-emergency-is-declared-in-fiji-as-nearly-7000-people-are-displaced-and-two-people-have-been-killed-during-floods-with-conditions-s.md)
@@ -29,7 +29,7 @@ Aung San Suu Kyi&#039;s party claims she has won a seat in Burma&#039;s parliame
 
 ##### Muslim Brotherhood
 ### [The Muslim Brotherhood in Egypt nominates chairman Khairat El-Shater as a candidate for the presidential elections in May 2012. ](/news/2012/04/1/the-muslim-brotherhood-in-egypt-nominates-chairman-khairat-el-shater-as-a-candidate-for-the-presidential-elections-in-may-2012.md)
-_Context: Egypt, Muslim Brotherhood, presidential election, Khairat El-Shater_
+_Context: Khairat El-Shater, Egypt, presidential election, Muslim Brotherhood_
 
 ##### President
 ### [Former President of Mexico Miguel de la Madrid dies of complications of lung disease in Mexico City at the age of 77. ](/news/2012/04/1/former-president-of-mexico-miguel-de-la-madrid-dies-of-complications-of-lung-disease-in-mexico-city-at-the-age-of-77.md)

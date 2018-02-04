@@ -13,7 +13,7 @@ Libyan Islamist group Ansar al-Sharia, a group linked to Al-Qaeda, is formally d
 
 ##### Gregg Allman
 ### [Gregg Allman, co-founder, vocalist and keyboard player of the Allman Brothers, dies in Savannah, Georgia. ](/news/2017/05/27/gregg-allman-co-founder-vocalist-and-keyboard-player-of-the-allman-brothers-dies-in-savannah-georgia.md)
-_Context: Savannah, Georgia, Allman Brothers, Gregg Allman_
+_Context: Gregg Allman, Savannah, Georgia, Allman Brothers_
 
 ##### British Airways
 ### [British Airways cancels all flights from Heathrow Airport and Gatwick Airport amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. ](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.md)

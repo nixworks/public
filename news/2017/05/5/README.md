@@ -9,11 +9,11 @@ Formats: [HTML](2017/05/5/index.html)  [JSON](2017/05/5/index.json)  [XML](2017/
 
 ##### police
 ### [Afghan border police and the Pakistani military clash at a border crossing near Chaman, killing at least 13 people and wounding over 80 others. Both sides blame each other for the flareup in fighting. ](/news/2017/05/5/afghan-border-police-and-the-pakistani-military-clash-at-a-border-crossing-near-chaman-killing-at-least-13-people-and-wounding-over-80-othe.md)
-_Context: police, border crossing, Chaman, Pakistani military_
+_Context: Chaman, border crossing, police, Pakistani military_
 
 ##### United States Senate
 ### [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md)
-_Context: Ben Cardin, United States Senate, the state, drug crackdown, Maryland, Republican, Philippine National Police, Marco Rubio, Democrat, arms sales_
+_Context: Maryland, Ben Cardin, Marco Rubio, Democrat, drug crackdown, Republican, United States Senate, arms sales, the state, Philippine National Police_
 
 ##### 2012 Delhi gang rape
 ### [The Indian Supreme Court upholds the death sentences imposed on four men convicted in the 2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of-a-23-year-old-woman-o.md)
@@ -25,7 +25,7 @@ Indonesian authorities search for scores of inmates who escaped from an overcrow
 
 ##### United Kingdom local elections, 2017
 ### [Results from yesterday's elections show significant swings towards the Conservative Party and away from the Labour Party. ](/news/2017/05/5/results-from-yesterday-s-elections-show-significant-swings-towards-the-conservative-party-and-away-from-the-labour-party.md)
-_Context: United Kingdom local elections, 2017, Conservative Party, Labour Party_
+_Context: Labour Party, Conservative Party, United Kingdom local elections, 2017_
 
 ##### Algerian legislative election, 2017
 ### [Results from yesterday's election give a reduced majority of seats to Abdelaziz Bouteflika's incumbent coalition. ](/news/2017/05/5/results-from-yesterday-s-election-give-a-reduced-majority-of-seats-to-abdelaziz-bouteflika-s-incumbent-coalition.md)
@@ -37,7 +37,7 @@ _Context: last month's presidential election, Emmanuel Macron, what happened in 
 
 ##### Political appointments of Donald Trump
 ### [Tennessee state senator and former Army flight surgeon Mark E. Green withdraws his name from consideration as Secretary of the Army because of political opposition. Green was the Trump Administration's second nominee for this position. ](/news/2017/05/5/tennessee-state-senator-and-former-army-flight-surgeon-mark-e-green-withdraws-his-name-from-consideration-as-secretary-of-the-army-because.md)
-_Context: Tennessee, Secretary of the Army, flight surgeon, Mark E. Green, Political appointments of Donald Trump_
+_Context: Tennessee, flight surgeon, Secretary of the Army, Mark E. Green, Political appointments of Donald Trump_
 
 ##### Comac C919
 ### [The Comac C919 makes its maiden flight from Shanghai Pudong International Airport, China. ](/news/2017/05/5/the-comac-c919-makes-its-maiden-flight-from-shanghai-pudong-international-airport-china.md)

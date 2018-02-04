@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/27/index.html)  [JSON](2009/04/27/index.json)  [XML](200
 
 ##### Boeing Company
 ### [ A low-flying Boeing VC-25, "Air Force One", causes momentary panic in New York City, New York, United States. ](/news/2009/04/27/a-low-flying-boeing-vc-25-air-force-one-causes-momentary-panic-in-new-york-city-new-york-united-states.md)
-_Context: United States, Air Force One, New York City, VC-25, New York, Boeing Company, panic_
+_Context: VC-25, panic, New York City, New York, Boeing Company, United States, Air Force One_
 
 ##### Mexico
 ### [ Mexico reports 149 deaths from the outbreak of swine influenza. ](/news/2009/04/27/mexico-reports-149-deaths-from-the-outbreak-of-swine-influenza.md)
@@ -17,19 +17,19 @@ _Context: General Motors, Pontiac, brand_
 
 ##### Japan
 ### [ Japan's NEC Corporation and Renesas Technology announce their intentions to merge. ](/news/2009/04/27/japan-s-nec-corporation-and-renesas-technology-announce-their-intentions-to-merge.md)
-_Context: Japan, NEC Corporation, pre-merger, Renesas Technology_
+_Context: NEC Corporation, Japan, Renesas Technology, pre-merger_
 
 ##### Yemen
 ### [ Yemen's military rescues four oil tankers from Somali pirates. ](/news/2009/04/27/yemen-s-military-rescues-four-oil-tankers-from-somali-pirates.md)
-_Context: Yemeni, Yemen, Somalia, oil tanker, Somali pirates_
+_Context: Yemeni, oil tanker, Somalia, Somali pirates, Yemen_
 
 ##### magnitude
 ### [ A 5.6-magnitude earthquake strikes near Chilpancingo, Guerrero, Mexico. ](/news/2009/04/27/a-5-6-magnitude-earthquake-strikes-near-chilpancingo-guerrero-mexico.md)
-_Context: Guerrero, Mexico, earthquake, Chilpancingo, magnitude_
+_Context: Mexico, Chilpancingo, Guerrero, magnitude, earthquake_
 
 ##### Madagascan Army
 ### [ The People's Armed Forces invade Madagascar's constitutional court. ](/news/2009/04/27/the-people-s-armed-forces-invade-madagascar-s-constitutional-court.md)
-_Context: Madagascan Army, constitutional court, Madagascar, political crisis_
+_Context: Madagascar, political crisis, constitutional court, Madagascan Army_
 
 ##### police officer
 ### [ A police officer suffers a mental breakdown and kills 3 people in Moscow, Russia. ](/news/2009/04/27/a-police-officer-suffers-a-mental-breakdown-and-kills-3-people-in-moscow-russia.md)

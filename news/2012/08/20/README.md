@@ -9,11 +9,11 @@ month mission
 
 ##### War in Afghanistan (2001-present)
 ### [Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan-early-in-2013.md)
-_Context: War in Afghanistan (2001-present), Afghanistan, Prime Minister, John Key_
+_Context: Prime Minister, John Key, Afghanistan, War in Afghanistan (2001-present)_
 
 ##### riot in the Yare I prison
 ### [A riot in the Yare I prison in the Venezuelan capital of Caracas kills at least 20 people. ](/news/2012/08/20/a-riot-in-the-yare-i-prison-in-the-venezuelan-capital-of-caracas-kills-at-least-20-people.md)
-_Context: Caracas, riot in the Yare I prison, Venezuela_
+_Context: Caracas, Venezuela, riot in the Yare I prison_
 
 ##### bomb attack
 ### [At least eight people are killed by a bomb attack in the city of Gaziantep, Turkey. ](/news/2012/08/20/at-least-eight-people-are-killed-by-a-bomb-attack-in-the-city-of-gaziantep-turkey.md)
@@ -33,7 +33,7 @@ The legend of comedy was 95.
 
 ##### shanties
 ### [An ocean surge into nearby shanties kills one person and leaves 15 others missing off the coast of Lagos, Nigeria. ](/news/2012/08/20/an-ocean-surge-into-nearby-shanties-kills-one-person-and-leaves-15-others-missing-off-the-coast-of-lagos-nigeria.md)
-_Context: Lagos, shanties, Nigeria_
+_Context: shanties, Lagos, Nigeria_
 
 ##### lawmakers
 ### [United States Congressman Todd Akin, who is also a candidate for the United States Senate, says "legitimate rape" would lead to pregnancy only in "really rare" cases. In a follow-up statement, he says that he "clearly misspoke" and that he holds a "deep empathy" for the "thousands of women who are raped each year". He stirs a US-wide controversy over the issue of abortion. ](/news/2012/08/20/united-states-congressman-todd-akin-who-is-also-a-candidate-for-the-united-states-senate-says-legitimate-rape-would-lead-to-pregnancy-on.md)
@@ -41,7 +41,7 @@ ST. LOUIS, MO ( KTVI) -U.S. Rep. Todd Akin says he misspoke when making a commen
 
 ##### Gu Kailai
 ### [Gu Kailai, the wife of ousted Chongqing Politburo leader Bo Xilai, is given a suspended death sentence for the murder of Neil Heywood in China. ](/news/2012/08/20/gu-kailai-the-wife-of-ousted-chongqing-politburo-leader-bo-xilai-is-given-a-suspended-death-sentence-for-the-murder-of-neil-heywood-in-chi.md)
-_Context: suspended death sentence, Neil Heywood, Politburo, China, Chongqing, Gu Kailai, Bo Xilai_
+_Context: Neil Heywood, suspended death sentence, Politburo, Chongqing, China, Bo Xilai, Gu Kailai_
 
 ##### Polly Peck
 ### [Former Polly Peck tycoon Asil Nadir is found guilty on three counts of stealing millions of pounds from his company by a jury at London's Old Bailey. ](/news/2012/08/20/former-polly-peck-tycoon-asil-nadir-is-found-guilty-on-three-counts-of-stealing-millions-of-pounds-from-his-company-by-a-jury-at-london-s-ol.md)
@@ -49,7 +49,7 @@ Former tycoon Asil Nadir is found guilty of three counts of stealing millions fr
 
 ##### Supreme Court of India
 ### [In a case before the Supreme Court, the Indian Patent Office and pharmaceutical giant Novartis will present final arguments this week concerning the right to make and sell patented medicine. ](/news/2012/08/20/in-a-case-before-the-supreme-court-the-indian-patent-office-and-pharmaceutical-giant-novartis-will-present-final-arguments-this-week-concer.md)
-_Context: Indian Patent Office, Supreme Court of India, Novartis, generic_
+_Context: Novartis, Indian Patent Office, Supreme Court of India, generic_
 
 ##### Meles Zenawi
 ### [Meles Zenawi, the long-term Prime Minister of Ethiopia, dies of a mystery illness after not having been seen in public for weeks. ](/news/2012/08/20/meles-zenawi-the-long-term-prime-minister-of-ethiopia-dies-of-a-mystery-illness-after-not-having-been-seen-in-public-for-weeks.md)
@@ -57,11 +57,11 @@ _Context: Ethiopia, Ethiopian Prime Minister, Meles Zenawi_
 
 ##### Myanmar
 ### [Myanmar announces that it is ending media censorship, as part of the ongoing political reforms in the country. ](/news/2012/08/20/myanmar-announces-that-it-is-ending-media-censorship-as-part-of-the-ongoing-political-reforms-in-the-country.md)
-_Context: Myanmar, media censorship, ongoing political reforms in the country_
+_Context: Myanmar, ongoing political reforms in the country, media censorship_
 
 ##### Somalia
 ### [In Somalia, a new parliament is formed, with the new task of electing the country's president. ](/news/2012/08/20/in-somalia-a-new-parliament-is-formed-with-the-new-task-of-electing-the-country-s-president.md)
-_Context: President, Somalia_
+_Context: Somalia, President_
 
 ## [Previous Day...](/news/2012/08/19/index.md)
 

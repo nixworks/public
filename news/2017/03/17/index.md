@@ -25,7 +25,7 @@ Devastating downpour, caused by high ocean temperatures, could not have been pre
 
 ##### Democratic National Committee
 ### [The former Democratic National Committee chair and ex-CNN contributor Donna Brazile admits that she had forwarded some debate questions to Hillary Clinton's campaign during last year's Democratic primary before two debates with Bernie Sanders. ](/news/2017/03/17/the-former-democratic-national-committee-chair-and-ex-cnn-contributor-donna-brazile-admits-that-she-had-forwarded-some-debate-questions-to-h.md)
-_Context: Bernie Sanders, Hillary Clinton, Democrat, debate questions, Democratic National Committee, Donna Brazile, CNN_
+_Context: CNN, Democratic National Committee, debate questions, Hillary Clinton, Bernie Sanders, Donna Brazile, Democrat_
 
 ##### Yves Meyer
 ### [French mathematician Yves Meyer wins the Abel Prize for his work on the mathematical theory of wavelets. ](/news/2017/03/17/french-mathematician-yves-meyer-wins-the-abel-prize-for-his-work-on-the-mathematical-theory-of-wavelets.md)

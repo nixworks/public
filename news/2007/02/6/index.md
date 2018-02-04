@@ -9,27 +9,27 @@ _Context: Sudan, Government of Uganda, Lord's Resistance Army_
 
 ##### Human Rights Watch
 ### [ A Human Rights Watch report concludes that European Union sanctions on the Government of Uzbekistan, which came in response to the "Andijan massacre" in May 2005, have failed due to a lack of commitment in enforcing them. ](/news/2007/02/6/a-human-rights-watch-report-concludes-that-european-union-sanctions-on-the-government-of-uzbekistan-which-came-in-response-to-the-andijan.md)
-_Context: Andijan massacre, economic sanctions, May 2005, Human Rights Watch, European Union, Government of Uzbekistan_
+_Context: May 2005, Human Rights Watch, Andijan massacre, European Union, economic sanctions, Government of Uzbekistan_
 
 ##### United States President
 ### [ United States President George W. Bush approves a Pentagon plan for establishing a new command center in Africa. ](/news/2007/02/6/united-states-president-george-w-bush-approves-a-pentagon-plan-for-establishing-a-new-command-center-in-africa.md)
-_Context: Africa, United States Africa Command, United States military, United States President, George W. Bush_
+_Context: United States military, George W. Bush, United States President, Africa, United States Africa Command_
 
 ##### train
 ### [ An international passenger train crashes into a freight train in Komrom, Hungary, causing the engineer's death. Two of the 25 passengers also suffered injury. ](/news/2007/02/6/an-international-passenger-train-crashes-into-a-freight-train-in-komarom-hungary-causing-the-engineer-s-death-two-of-the-25-passengers-a.md)
-_Context: Komrom, train, freight train, Hungary_
+_Context: Komrom, train, Hungary, freight train_
 
 ##### British
 ### [ UK Prime Minister Tony Blair says people are "increasingly alarmed" by Iran's nuclear program but military action was not being planned against it. ](/news/2007/02/6/uk-prime-minister-tony-blair-says-people-are-increasingly-alarmed-by-iran-s-nuclear-program-but-military-action-was-not-being-planned-aga.md)
-_Context: Iran, Tony Blair, Prime Minister, nuclear program, British_
+_Context: Prime Minister, Iran, nuclear program, Tony Blair, British_
 
 ##### Iranian government
 ### [ The Iranian Government confirms that an Iranian envoy in Baghdad has been kidnapped by men wearing Iraqi army uniforms, and says it holds the United States responsible for his life. The U.S. denies any involvement of U.S. and Iraqi troops. ](/news/2007/02/6/the-iranian-government-confirms-that-an-iranian-envoy-in-baghdad-has-been-kidnapped-by-men-wearing-iraqi-army-uniforms-and-says-it-holds-t.md)
-_Context: Baghdad, Iran, United States, Iraqi army, Iranian government_
+_Context: Iran, Iraqi army, Baghdad, Iranian government, United States_
 
 ##### British
 ### [ UK newspaper "The Sun" has obtained a video tape of a U.S. pilot shooting a UK convoy in a friendly fire incident during the Iraq War, killing one British soldier and injuring four. The pilot, and others, are said to have made a series of crucial mistakes. ](/news/2007/02/6/uk-newspaper-the-sun-has-obtained-a-video-tape-of-a-u-s-pilot-shooting-a-uk-convoy-in-a-friendly-fire-incident-during-the-iraq-war-kill.md)
-_Context: U.S. pilot, friendly fire, British, Iraq War, The Sun_
+_Context: Iraq War, The Sun, U.S. pilot, friendly fire, British_
 
 ##### chatroom
 ### [ Three people in the United Kingdom have been jailed after plotting over internet chatrooms to abduct and rape two teenage girls. ](/news/2007/02/6/three-people-in-the-united-kingdom-have-been-jailed-after-plotting-over-internet-chatrooms-to-abduct-and-rape-two-teenage-girls.md)

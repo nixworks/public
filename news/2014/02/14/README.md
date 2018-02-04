@@ -29,19 +29,19 @@ A storm unleashes a second wave of snowfall on the US north-east, after it cut p
 
 ##### Mount Kelud
 ### [The eruption of Mount Kelud on the island of Java causes the closure of airports in three cities Surabaya, Yogyakarta and Solo as well as the reported death of two people. ](/news/2014/02/14/the-eruption-of-mount-kelud-on-the-island-of-java-causes-the-closure-of-airports-in-three-cities-surabaya-yogyakarta-and-solo-as-well-as-th.md)
-_Context: Surabaya, Solo, Java, Yogyakarta, Mount Kelud_
+_Context: Solo, Mount Kelud, Java, Surabaya, Yogyakarta_
 
 ##### Los Zetas
 ### [The United States Department of the Treasury sanctions the wife of Los Zetas former leader Miguel Trevino Morales under the Kingpin Act. ](/news/2014/02/14/the-united-states-department-of-the-treasury-sanctions-the-wife-of-los-zetas-former-leader-miguel-trevia-o-morales-under-the-kingpin-act.md)
-_Context: Miguel Trevino Morales, Los Zetas, Kingpin Act_
+_Context: Kingpin Act, Miguel Trevino Morales, Los Zetas_
 
 ##### government of Thailand
 ### [The government of Thailand deploys thousands of riot police to reclaim areas of Bangkok currently occupied by protesters. ](/news/2014/02/14/the-government-of-thailand-deploys-thousands-of-riot-police-to-reclaim-areas-of-bangkok-currently-occupied-by-protesters.md)
-_Context: Bangkok, government of Thailand_
+_Context: government of Thailand, Bangkok_
 
 ##### Italian Prime Minister
 ### [Italian Prime Minister Enrico Letta resigns after less than a year in office, following pressure from his own Democratic Party to step down. ](/news/2014/02/14/italian-prime-minister-enrico-letta-resigns-after-less-than-a-year-in-office-following-pressure-from-his-own-democratic-party-to-step-down.md)
-_Context: Democratic Party, Enrico Letta, Italian Prime Minister_
+_Context: Enrico Letta, Italian Prime Minister, Democratic Party_
 
 ## [Previous Day...](/news/2014/02/13/index.md)
 

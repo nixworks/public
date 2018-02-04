@@ -17,7 +17,7 @@ Female Islamic clerics in Indonesia declared a series of fatwas Thursday, includ
 
 ##### Donald Trump
 ### [U.S. President Donald Trump announces that he intends to renegotiate the North American Free Trade Agreement, softening earlier claims that he would terminate the trade bloc. ](/news/2017/04/27/u-s-president-donald-trump-announces-that-he-intends-to-renegotiate-the-north-american-free-trade-agreement-softening-earlier-claims-that.md)
-_Context: Donald Trump, North American Free Trade Agreement, trade bloc_
+_Context: North American Free Trade Agreement, trade bloc, Donald Trump_
 
 ##### Russian Navy spy ship
 ### [A Russian Navy spy ship sinks off the coast of Turkey after colliding with a Togo-flagged freighter. All 78 crew aboard the ship were safely evacuated, according to Turkish officials. ](/news/2017/04/27/a-russian-navy-spy-ship-sinks-off-the-coast-of-turkey-after-colliding-with-a-togo-flagged-freighter-all-78-crew-aboard-the-ship-were-safely.md)
@@ -25,7 +25,7 @@ All 78 personnel aboard the Black Sea Fleet ship were rescued, the Turkish coast
 
 ##### South Korea-United States relations
 ### [A South Korean adviser says it is "impossible" for South Korea to purchase the THAAD missile complex since control of its operation would remain with the United States. The remarks come after United States president Donald Trump suggested that South Korea pay for the $1 billion system. ](/news/2017/04/27/a-south-korean-adviser-says-it-is-impossible-for-south-korea-to-purchase-the-thaad-missile-complex-since-control-of-its-operation-would-re.md)
-_Context: South Korea-United States relations, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, South Korea, United States, Donald Trump_
+_Context: South Korea-United States relations, United States, Donald Trump, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, South Korea_
 
 ##### Terrorism in the United Kingdom
 ### [A 27-year-old man carrying several knives in a backpack is arrested at Parliament Square, London, near the site of last month's Westminster attack. ](/news/2017/04/27/a-27-year-old-man-carrying-several-knives-in-a-backpack-is-arrested-at-parliament-square-london-near-the-site-of-last-month-s-westminster.md)
@@ -41,7 +41,7 @@ Judge in Senegal acquits Hissène Habré of a rape charge but upholds other char
 
 ##### 2017 storming of Macedonian Parliament
 ### [The Macedonian Parliament is stormed by protesters opposing the election of Talat Xhaferi, an ethnic Albanian, as Speaker of the Assembly. ](/news/2017/04/27/the-macedonian-parliament-is-stormed-by-protesters-opposing-the-election-of-talat-xhaferi-an-ethnic-albanian-as-speaker-of-the-assembly.md)
-_Context: ethnic Albanian, Macedonian, Speaker of the Assembly, Parliament, 2017 storming of Macedonian Parliament_
+_Context: 2017 storming of Macedonian Parliament, Speaker of the Assembly, Parliament, ethnic Albanian, Macedonian_
 
 ##### Bundestag
 ### [The Bundestag approves a ban on burqas being worn by members of the German civil service. ](/news/2017/04/27/the-bundestag-approves-a-ban-on-burqas-being-worn-by-members-of-the-german-civil-service.md)

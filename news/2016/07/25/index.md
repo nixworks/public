@@ -9,11 +9,11 @@ Hospital sources say death toll likely to rise after bomb goes off with cars wai
 
 ##### Conflict in Najran
 ### [Saudi Arabia's Interior Ministry says five border guards have been killed following clashes with Houthi militants on the border with Yemen. ](/news/2016/07/25/saudi-arabia-s-interior-ministry-says-five-border-guards-have-been-killed-following-clashes-with-houthi-militants-on-the-border-with-yemen.md)
-_Context: Houthi, Interior Ministry, Yemen, Saudi Arabia, Conflict in Najran, border guards_
+_Context: Saudi Arabia, Interior Ministry, Yemen, Conflict in Najran, border guards, Houthi_
 
 ##### Verizon Communications
 ### [Verizon Communications buys Yahoo! for $4.83 billion in cash, ending the latter's over 20-year run as an independent corporation. ](/news/2016/07/25/verizon-communications-buys-yahoo-for-4-83-billion-in-cash-ending-the-latter-s-over-20-year-run-as-an-independent-corporation.md)
-_Context: Verizon Communications, Yahoo!_
+_Context: Yahoo!, Verizon Communications_
 
 ##### Mangidy
 ### [At least 39 people are killed, including 16 children, in a fire at a residential compound in Mangidy, Madagascar. ](/news/2016/07/25/at-least-39-people-are-killed-including-16-children-in-a-fire-at-a-residential-compound-in-mangidy-madagascar.md)

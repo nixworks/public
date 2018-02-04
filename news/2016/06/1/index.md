@@ -49,11 +49,11 @@ A 6.5 magnitude earthquake struck off the coast of West Sumatra in Indonesia, ac
 
 ##### Turkish
 ### [Turkish President Recep Tayyip Erdogan warns Germany against recognizing the Armenian Genocide. ](/news/2016/06/1/turkish-president-recep-tayyip-erdoaan-warns-germany-against-recognizing-the-armenian-genocide.md)
-_Context: genocide of Armenians, Recep Tayyip Erdogan, Turkish, President of Turkey, German, recognizing_
+_Context: Recep Tayyip Erdogan, German, President of Turkey, recognizing, Turkish, genocide of Armenians_
 
 ##### Secretary General of NATO
 ### [According to the Secretary General of NATO Jens Stoltenberg, defense spending by European member states will grow for the first time in a decade. Stoltenberg went on to say that "we are faced with uncertainty. We are faced with more threats, more security challenges, than in a generation". ](/news/2016/06/1/according-to-the-secretary-general-of-nato-jens-stoltenberg-defense-spending-by-european-member-states-will-grow-for-the-first-time-in-a-de.md)
-_Context: membership, Secretary General of NATO, Jens Stoltenberg_
+_Context: Secretary General of NATO, membership, Jens Stoltenberg_
 
 ##### Humanitarian aid during the Syrian Civil War
 ### [A convoy carrying much-needed nutritional and medical aid reaches the besieged town Darayya, the first time since 2012. The only food delivered was baby milk. A 48-hour ceasefire for the town came into force today. ](/news/2016/06/1/a-convoy-carrying-much-needed-nutritional-and-medical-aid-reaches-the-besieged-town-darayya-the-first-time-since-2012-the-only-food-delive.md)
@@ -73,7 +73,7 @@ The Texas man was charged with murder in the stabbing of his girlfriend, and the
 
 ##### Thailand
 ### [Thailand authorities discover the remains of 40 dead tiger cubs in a freezer at the Tiger Temple in the Sai Yok District of Kanchanaburi Province. The Theravada Buddhist temple is being investigated for wildlife trafficking. The Department of National Parks, Wildlife and Plant Conservation is in the process of removing 137 tigers from the monks' custody. ](/news/2016/06/1/thailand-authorities-discover-the-remains-of-40-dead-tiger-cubs-in-a-freezer-at-the-tiger-temple-in-the-sai-yok-district-of-kanchanaburi-pro.md)
-_Context: Department of National Parks, Wildlife and Plant Conservation, Sai Yok District, Thailand, Tiger Temple, Theravada Buddhist, Kanchanaburi Province_
+_Context: Tiger Temple, Theravada Buddhist, Department of National Parks, Wildlife and Plant Conservation, Kanchanaburi Province, Thailand, Sai Yok District_
 
 ##### German
 ### [ German police are investigating 26 sexual assault reports from this weekend's Schlossgrabenfest music festival near Darmstadt. In one case, three women reported being groped by groups of men Saturday. Police have detained three Pakistani immigrants, and expect more reports following this announcement. ](/news/2016/06/1/german-police-are-investigating-26-sexual-assault-reports-from-this-weekend-s-schlossgrabenfest-music-festival-near-darmstadt-in-one-case.md)

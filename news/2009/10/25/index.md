@@ -9,7 +9,7 @@ _Context: New York Yankees, baseball world series, Los Angeles Angels, 2009 Amer
 
 ##### Israel
 ### [ Israeli police and Palestinians clash at Temple Mount, Jerusalem's holiest site, resulting in 12 arrests. ](/news/2009/10/25/israeli-police-and-palestinians-clash-at-temple-mount-jerusalem-s-holiest-site-resulting-in-12-arrests.md)
-_Context: Israel, Temple Mount, Jerusalem, Palestine_
+_Context: Temple Mount, Jerusalem, Palestine, Israel_
 
 ##### Bomb blasts
 ### [ Bomb blasts kill 155 people and injure at least 500 in central Baghdad, the country's deadliest attack for two years. ](/news/2009/10/25/bomb-blasts-kill-155-people-and-injure-at-least-500-in-central-baghdad-the-country-s-deadliest-attack-for-two-years.md)
@@ -21,11 +21,11 @@ During a dinner conversation with Wen Jiabao, PM did what Obama hesitates to do:
 
 ##### Nigeria
 ### [ Nigeria's main militant group, the Movement for the Emancipation of the Niger Delta, declares an indefinite ceasefire. ](/news/2009/10/25/nigeria-s-main-militant-group-the-movement-for-the-emancipation-of-the-niger-delta-declares-an-indefinite-ceasefire.md)
-_Context: Movement for the Emancipation of the Niger Delta, Nigeria_
+_Context: Nigeria, Movement for the Emancipation of the Niger Delta_
 
 ##### Maksharip Aushev
 ### [ Maksharip Aushev, human rights activist and opposition leader of Ingushetia, is shot dead while driving his car near Nartan in Kabardino-Balkaria. A female passenger is also attacked. ](/news/2009/10/25/maksharip-aushev-human-rights-activist-and-opposition-leader-of-ingushetia-is-shot-dead-while-driving-his-car-near-nartan-in-kabardino-ba.md)
-_Context: Ingushetia, Kabardino-Balkaria, human rights, Nartan, Maksharip Aushev_
+_Context: Maksharip Aushev, Kabardino-Balkaria, human rights, Ingushetia, Nartan_
 
 ##### Tunisia
 ### [ Tunisians vote in a general election. ](/news/2009/10/25/tunisians-vote-in-a-general-election.md)
@@ -33,7 +33,7 @@ Incumbent Ben Ali, who has been in power for 22 years, likely to win fifth term.
 
 ##### Uruguay
 ### [ Uruguayans vote in a general election. ](/news/2009/10/25/uruguayans-vote-in-a-general-election.md)
-_Context: elect, Uruguay_
+_Context: Uruguay, elect_
 
 ##### Easter Island
 ### [ Easter Islanders vote to restrict the number of immigrants in a referendum. ](/news/2009/10/25/easter-islanders-vote-to-restrict-the-number-of-immigrants-in-a-referendum.md)
@@ -41,15 +41,15 @@ _Context: Easter Island, referendum_
 
 ##### oil refinery fire
 ### [ The oil refinery fire continues to burn out of control in Catao, Puerto Rico, two days after the initial explosion. ](/news/2009/10/25/the-oil-refinery-fire-continues-to-burn-out-of-control-in-catano-puerto-rico-two-days-after-the-initial-explosion.md)
-_Context: oil refinery fire, Catao, Puerto Rico_
+_Context: Catao, Puerto Rico, oil refinery fire_
 
 ##### Netherlands
 ### [ Buildings across the Netherlands&mdash;St. Martin's Cathedral, Utrecht, Rotterdam's Euromast and Groningen's Martinitoren&mdash;dim their lights as clocks go back in Europe. ](/news/2009/10/25/buildings-across-the-netherlands-mdash-st-martin-s-cathedral-utrecht-rotterdam-s-euromast-and-groningen-s-martinitoren-mdash-dim-their-l.md)
-_Context: Euromast, Rotterdam, St. Martin's Cathedral, Utrecht, Martinitoren, Groningen, Netherlands, Europe_
+_Context: Martinitoren, Europe, Euromast, Netherlands, Rotterdam, St. Martin's Cathedral, Utrecht, Groningen_
 
 ##### United Nations
 ### [ Inspectors from the United Nations' nuclear watchdog, the International Atomic Energy Agency (IAEA), arrive in Iran to inspect a newly disclosed nuclear facility near the city of Qom. ](/news/2009/10/25/inspectors-from-the-united-nations-nuclear-watchdog-the-international-atomic-energy-agency-iaea-arrive-in-iran-to-inspect-a-newly-disc.md)
-_Context: Iran, Qom, United Nations, IAEA_
+_Context: United Nations, Iran, Qom, IAEA_
 
 ##### Andrew Lloyd Webber
 ### [ It is revealed that composer Andrew Lloyd Webber has been diagnosed with prostate cancer. ](/news/2009/10/25/it-is-revealed-that-composer-andrew-lloyd-webber-has-been-diagnosed-with-prostate-cancer.md)

@@ -9,7 +9,7 @@ _Context: Philippines Armed Forces, Battle of Marawi, Marawi_
 
 ##### Syrian Civil War
 ### [The Palmyra Coordination Committee reports that 67 bodies, victims of summary execution by ISIL, were found in Al-Qaryatayn in the Homs Governorate in central Syria. ](/news/2017/10/23/the-palmyra-coordination-committee-reports-that-67-bodies-victims-of-summary-execution-by-isil-were-found-in-al-qaryatayn-in-the-homs-gove.md)
-_Context: ISIL, Syrian Civil War, Homs Governorate, Al-Qaryatayn_
+_Context: Syrian Civil War, ISIL, Homs Governorate, Al-Qaryatayn_
 
 ##### 2017 Pacific typhoon season
 ### [Typhoon Lan makes landfall in the Shizuoka Prefecture of Japan, causing at least two deaths and 10 injuries. ](/news/2017/10/23/typhoon-lan-makes-landfall-in-the-shizuoka-prefecture-of-japan-causing-at-least-two-deaths-and-10-injuries.md)

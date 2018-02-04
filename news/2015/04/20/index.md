@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/20/index.html)  [JSON](2015/04/20/index.json)  [XML](201
 
 ##### War in Somalia (2009-present)
 ### [Nine people have been killed in a bomb attack on a convoy carrying food supplies to a United Nations compound in Garowe in the Somali region of Puntland. ](/news/2015/04/20/nine-people-have-been-killed-in-a-bomb-attack-on-a-convoy-carrying-food-supplies-to-a-united-nations-compound-in-garowe-in-the-somali-region.md)
-_Context: a bomb attack, Garowe, Puntland, United Nations, War in Somalia (2009-present)_
+_Context: a bomb attack, Puntland, Garowe, United Nations, War in Somalia (2009-present)_
 
 ##### Sinai insurgency
 ### [A roadside bomb hits an armoured vehicle near the border town of Rafah in the northern Sinai Peninsula killing three people. ](/news/2015/04/20/a-roadside-bomb-hits-an-armoured-vehicle-near-the-border-town-of-rafah-in-the-northern-sinai-peninsula-killing-three-people.md)

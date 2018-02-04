@@ -9,15 +9,15 @@ _Context: Donetsk, Ukraine_
 
 ##### Cognizant
 ### [Information technology company Cognizant agrees to buy health care information company TriZetto Corporation for US$2.7 billion. ](/news/2014/09/15/information-technology-company-cognizant-agrees-to-buy-health-care-information-company-trizetto-corporation-for-us-2-7-billion.md)
-_Context: $, Cognizant_
+_Context: Cognizant, $_
 
 ##### Microsoft
 ### [Microsoft agrees to buy Swedish company Mojang, the makers of Minecraft, for US$2.5 billion. ](/news/2014/09/15/microsoft-agrees-to-buy-swedish-company-mojang-the-makers-of-minecraft-for-us-2-5-billion.md)
-_Context: Swede, Microsoft, Minecraft, Mojang_
+_Context: Microsoft, Minecraft, Swede, Mojang_
 
 ##### giant white rabbit
 ### [An accidental fire severely burns a giant white rabbit erected by Dutch artist Florentijn Hofman in Taoyuan, Taiwan. ](/news/2014/09/15/an-accidental-fire-severely-burns-a-giant-white-rabbit-erected-by-dutch-artist-florentijn-hofman-in-taoyuan-taiwan.md)
-_Context: Florentijn Hofman, giant white rabbit, Taoyuan City, Taiwan_
+_Context: Florentijn Hofman, Taiwan, Taoyuan City, giant white rabbit_
 
 ##### Malta
 ### [Five hundred people drowned off the coast of Malta last week after people traffickers deliberately sank their ship. ](/news/2014/09/15/five-hundred-people-drowned-off-the-coast-of-malta-last-week-after-people-traffickers-deliberately-sank-their-ship.md)

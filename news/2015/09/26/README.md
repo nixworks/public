@@ -5,11 +5,11 @@ Formats: [HTML](2015/09/26/index.html)  [JSON](2015/09/26/index.json)  [XML](201
 
 ##### Saudi Arabian-led intervention in Yemen
 ### [Two Saudi border guards, including a district commander, are killed following clashes with Yemeni forces near the border with Yemen. ](/news/2015/09/26/two-saudi-border-guards-including-a-district-commander-are-killed-following-clashes-with-yemeni-forces-near-the-border-with-yemen.md)
-_Context: Saudi Arabia, Yemen, Saudi Arabian-led intervention in Yemen, border guards_
+_Context: Yemen, Saudi Arabia, Saudi Arabian-led intervention in Yemen, border guards_
 
 ##### Nagorno-Karabakh conflict
 ### [At least four Armenian soldiers are killed following an Azeri attack near the disputed Nagorno-Karabakh region. Yesterday, Azerbaijan shelled several ethnic Armenian villages, leaving three civilians dead. ](/news/2015/09/26/at-least-four-armenian-soldiers-are-killed-following-an-azeri-attack-near-the-disputed-nagorno-karabakh-region-yesterday-azerbaijan-shelle.md)
-_Context: Nagorno-Karabakh region, Nagorno-Karabakh conflict, Armenia, Azerbaijan_
+_Context: Azerbaijan, Armenia, Nagorno-Karabakh region, Nagorno-Karabakh conflict_
 
 ##### Libya
 ### [A prominent Libyan Zuwarah militia leader and migrant smuggler, Salah Al-Maskhout, is reportedly killed in Tripoli by Italian special forces. The EU recently approved military action against people smuggling networks operating out of Libya. ](/news/2015/09/26/a-prominent-libyan-zuwarah-militia-leader-and-migrant-smuggler-salah-al-maskhout-is-reportedly-killed-in-tripoli-by-italian-special-forces.md)
@@ -53,7 +53,7 @@ James Paul Diaz, 34, is suspected of shooting at a series of people and vehicles
 
 ##### Bolivia
 ### [Bolivia's Plurinational Legislative Assembly passes legislation that would amend the constitution removing term limits for the President if passed in a referendum next year. ](/news/2015/09/26/bolivia-s-plurinational-legislative-assembly-passes-legislation-that-would-amend-the-constitution-removing-term-limits-for-the-president-if.md)
-_Context: Bolivia, President of Bolivia, Plurinational Legislative Assembly, term limit_
+_Context: Bolivia, Plurinational Legislative Assembly, President of Bolivia, term limit_
 
 ## [Previous Day...](/news/2015/09/25/index.md)
 

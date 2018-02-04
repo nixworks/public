@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/7/the-united-states-department-of-justice-will-inv
 
 ### [2015-12-7](/news/2015/12/7/index.md)
 
-##### DoJ
+##### Department of Justice
 # The United States Department of Justice will investigate the Chicago, Illinois police department. Long concerned with Chicago police department practices, the investigation is precipitated by the recent release of a video of the shooting death of Laquan McDonald. The Chicago police are set to release another video showing the police killing of Ronald Johnson in October of 2014. 
 
 The department has had longstanding concerns about the Chicago police, but the current inquiry revolves around the scant details that were given after the shooting of the 17-year-old in 2014.

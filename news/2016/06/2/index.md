@@ -13,7 +13,7 @@ The move is the latest step in the Obama administration’s fight against wildli
 
 ##### environmental
 ### [A collection of environmental groups including the Sierra Club file a brief opposing the Arch Coal plan to exit from bankruptcy. ](/news/2016/06/2/a-collection-of-environmental-groups-including-the-sierra-club-file-a-brief-opposing-the-arch-coal-plan-to-exit-from-bankruptcy.md)
-_Context: environmental, Sierra Club, Arch Coal, bankruptcy_
+_Context: Sierra Club, environmental, bankruptcy, Arch Coal_
 
 ##### 2016 European floods
 ### [At least eleven people are killed in heavy flooding across Europe. ](/news/2016/06/2/at-least-eleven-people-are-killed-in-heavy-flooding-across-europe.md)
@@ -53,7 +53,7 @@ Mathura clashes: 24 killed, 368 arrested in violence - The clashes took place wh
 
 ##### breaks out in a rally
 ### [Violence breaks out in a rally supporting Donald Trump in San Jose, California. An officer and several demonstrators were assaulted, and a few people were arrested. ](/news/2016/06/2/violence-breaks-out-in-a-rally-supporting-donald-trump-in-san-jose-california-an-officer-and-several-demonstrators-were-assaulted-and-a-f.md)
-_Context: Donald Trump, breaks out in a rally, San Jose, California_
+_Context: San Jose, California, Donald Trump, breaks out in a rally_
 
 ##### 
 ### [ In Ottawa, Canada Marc Leduc is found guilty first-degree murder in the killings of two women found dead in 2008 and 2011 involved in drugs and sex trade. His DNA was matched after he was arrested in a 2012 sex assault with a knife. ](/news/2016/06/2/in-ottawa-canada-marc-leduc-is-found-guilty-first-degree-murder-in-the-killings-of-two-women-found-dead-in-2008-and-2011-involved-in-drugs.md)

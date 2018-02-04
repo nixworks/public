@@ -5,11 +5,11 @@ Formats: [HTML](2010/01/25/index.html)  [JSON](2010/01/25/index.json)  [XML](201
 
 ##### Live Nation
 ### [Live Nation and Ticketmaster complete their merger, following an agreement with the United States Department of Justice to divest some interests. ](/news/2010/01/25/live-nation-and-ticketmaster-complete-their-merger-following-an-agreement-with-the-united-states-department-of-justice-to-divest-some-inter.md)
-_Context: Live Nation, DoJ, Ticketmaster_
+_Context: Ticketmaster, Department of Justice, Live Nation_
 
 ##### Venezuela
 ### [Police in the Venezuelan capital Caracas disperse an opposition student protest over the closure of several television stations. Meanwhile, Vice President Ramn Carrizales resigns. ](/news/2010/01/25/police-in-the-venezuelan-capital-caracas-disperse-an-opposition-student-protest-over-the-closure-of-several-television-stations-meanwhile.md)
-_Context: Caracas, Venezuela, Ramn Carrizales_
+_Context: Venezuela, Ramn Carrizales, Caracas_
 
 ##### Houthi
 ### [Houthi fighters in northern Yemen offer to leave Saudi Arabia after three months of fighting on the border. ](/news/2010/01/25/houthi-fighters-in-northern-yemen-offer-to-leave-saudi-arabia-after-three-months-of-fighting-on-the-border.md)
@@ -17,7 +17,7 @@ Houthi fighters offer a ceasefire after three months of fighting along the borde
 
 ##### 14th Dalai Lama
 ### [Representatives of the Dalai Lama head to Beijing for the first discussions with Chinese authorities in 15 months. ](/news/2010/01/25/representatives-of-the-dalai-lama-head-to-beijing-for-the-first-discussions-with-chinese-authorities-in-15-months.md)
-_Context: Beijing, 14th Dalai Lama, China_
+_Context: 14th Dalai Lama, China, Beijing_
 
 ##### Saint Kitts and Nevis
 ### [Voters in Saint Kitts and Nevis go to the polls in the 2010 general election. ](/news/2010/01/25/voters-in-saint-kitts-and-nevis-go-to-the-polls-in-the-2010-general-election.md)
@@ -25,7 +25,7 @@ _Context: Saint Kitts and Nevis, 2010 general election_
 
 ##### melamine
 ### [New traces of melamine in milk products are discovered in China, more than a year after thousands of children became ill from a previous incident. ](/news/2010/01/25/new-traces-of-melamine-in-milk-products-are-discovered-in-china-more-than-a-year-after-thousands-of-children-became-ill-from-a-previous-inc.md)
-_Context: 2008 Chinese milk scandal, China, melamine_
+_Context: melamine, 2008 Chinese milk scandal, China_
 
 ##### European Union
 ### [The European Union agrees to send a team to train up to 2,000 Somali troops to help fight insurgents in the country, as intense gun battles take place in the capital Mogadishu. ](/news/2010/01/25/the-european-union-agrees-to-send-a-team-to-train-up-to-2-000-somali-troops-to-help-fight-insurgents-in-the-country-as-intense-gun-battles.md)
@@ -33,11 +33,11 @@ Intense gun battles between African Union peacekeepers and Islamic fundamentalis
 
 ##### G4 bloc
 ### [Environment ministers from the G4 bloc (IBSA Dialogue Forum & China) meet in New Delhi, India, to agree a common position ahead of future climate change talks, such as the 2010 United Nations Climate Change Conference ("COP-16") at Cancn, Mexico, to be held from 29 November 2010 to 10 December 2010 ](/news/2010/01/25/environment-ministers-from-the-g4-bloc-ibsa-dialogue-forum-china-meet-in-new-delhi-india-to-agree-a-common-position-ahead-of-future-cl.md)
-_Context:  2010 United Nations Climate Change Conference, Cancn, Mexico, India, G4 bloc, IBSA Dialogue Forum, climate change, New Delhi, China_
+_Context: climate change, IBSA Dialogue Forum, China, Cancn, Mexico,  2010 United Nations Climate Change Conference, India, New Delhi, G4 bloc_
 
 ##### Netherlands
 ### [Dutch football club HFC Haarlem, national champion in 1946, is declared bankrupt, becoming the first Dutch professional club to be disestablished since FC Wageningen and VCV Zeeland in 1992. ](/news/2010/01/25/dutch-football-club-hfc-haarlem-national-champion-in-1946-is-declared-bankrupt-becoming-the-first-dutch-professional-club-to-be-disestabl.md)
-_Context: 1992, Netherlands, national champion, Dutch professional club, FC Wageningen, VCV Zeeland, association football, HFC Haarlem_
+_Context: national champion, Netherlands, Dutch professional club, 1992, VCV Zeeland, association football, HFC Haarlem, FC Wageningen_
 
 ##### Ali Hassan al-Majid
 ### [Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/ali-hassan-al-majid-known-as-chemical-ali-is-executed.md)
@@ -57,7 +57,7 @@ Aircraft carrying 90 people plunges into Mediterranean Sea.
 
 ##### Qantas
 ### [A Qantas terminal at an airport in Perth, Western Australia, is evacuated after police locate a "suspicious item". ](/news/2010/01/25/a-qantas-terminal-at-an-airport-in-perth-western-australia-is-evacuated-after-police-locate-a-suspicious-item.md)
-_Context: Qantas, Perth_
+_Context: Perth, Qantas_
 
 ##### Afghanistan
 ### [An inquest into the deaths of five Afghan asylum seekers opens in Australia. ](/news/2010/01/25/an-inquest-into-the-deaths-of-five-afghan-asylum-seekers-opens-in-australia.md)
@@ -75,11 +75,11 @@ Taoiseach Brian Cowen is to meet British Prime Minister Gordon Brown tomorrow to
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu attends the opening of an exhibition of Auschwitz concentration camp blueprints in Yad Vashem. ](/news/2010/01/25/israeli-prime-minister-benjamin-netanyahu-attends-the-opening-of-an-exhibition-of-auschwitz-concentration-camp-blueprints-in-yad-vashem.md)
-_Context: Auschwitz, Israel, Benjamin Netanyahu, Holocaust and Remembrance Center, Israeli Prime Minister_
+_Context: Israeli Prime Minister, Israel, Benjamin Netanyahu, Auschwitz, Holocaust and Remembrance Center_
 
 ##### Lady in the Lake trial
 ### [Gordon Park, convicted murderer in the Lady in the Lake trial, is found hanged in his prison cell in Garth prison, Lancashire, England, in an apparent suicide. ](/news/2010/01/25/gordon-park-convicted-murderer-in-the-lady-in-the-lake-trial-is-found-hanged-in-his-prison-cell-in-garth-prison-lancashire-england-in-a.md)
-_Context: England, Lady in the Lake trial, Garth prison_
+_Context: Garth prison, England, Lady in the Lake trial_
 
 ## [Previous Day...](/news/2010/01/24/index.md)
 

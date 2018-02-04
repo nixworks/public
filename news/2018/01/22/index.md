@@ -9,7 +9,7 @@ At least seven people died after clashes broke out between security forces and w
 
 ##### South Thailand insurgency
 ### [A motorcycle bomb kills at least three people and wounds 22 others at a market in Thailand's southern Yala Province. ](/news/2018/01/22/a-motorcycle-bomb-kills-at-least-three-people-and-wounds-22-others-at-a-market-in-thailand-s-southern-yala-province.md)
-_Context: Yala Province, South Thailand insurgency, Thailand_
+_Context: Thailand, South Thailand insurgency, Yala Province_
 
 ##### Net neutrality in the United States
 ### [Montana Governor Steve Bullock signs an executive order that bars any Internet service provider with state contracts from blocking or charging more for faster delivery of websites to any customer in the state. Montana is the first state to respond this way to the FCC's December 14, 2017, net neutrality ruling. ](/news/2018/01/22/montana-governor-steve-bullock-signs-an-executive-order-that-bars-any-internet-service-provider-with-state-contracts-from-blocking-or-chargi.md)
@@ -33,7 +33,7 @@ Controversial move to be made by end of 2019, vice-president tells Israeli parli
 
 ##### Palestine-European Union relations
 ### [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md)
-_Context: Palestine-European Union relations, European Union, East Jerusalem, President of the State of Palestine, High Representative of the Union for Foreign Affairs and Security Policy, Mahmoud Abbas, Federica Mogherini, Palestine_
+_Context: East Jerusalem, Palestine-European Union relations, High Representative of the Union for Foreign Affairs and Security Policy, Palestine, President of the State of Palestine, European Union, Federica Mogherini, Mahmoud Abbas_
 
 ##### Parliamentary Assembly of the Council of Europe
 ### [Italian politician Michele Nicoletti becomes the new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-the-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md)

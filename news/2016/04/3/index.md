@@ -9,7 +9,7 @@ Azerbaijan announces a &quot;unilateral ceasefire&quot; in fighting with Armenia
 
 ##### Syrian Civil War
 ### [The Syrian Army retakes control of al-Qaryatayn, Homs Governorate, after driving out ISIL militants. ](/news/2016/04/3/the-syrian-army-retakes-control-of-al-qaryatayn-homs-governorate-after-driving-out-isil-militants.md)
-_Context: al-Qaryatayn, Homs Governorate, Syrian Civil War, ISIL, Syrian Army, Battle of al-Qaryatayn (March-April 2016)_
+_Context: ISIL, Syrian Civil War, Battle of al-Qaryatayn (March-April 2016), al-Qaryatayn, Homs Governorate, Syrian Army_
 
 ##### Moro attacks on Sabah
 ### [Four Sarawakian Malaysians are kidnapped off the coast of Sabah by suspected members of the Abu Sayyaf, a group linked to the Islamic State of Iraq and the Levant. ](/news/2016/04/3/four-sarawakian-malaysians-are-kidnapped-off-the-coast-of-sabah-by-suspected-members-of-the-abu-sayyaf-a-group-linked-to-the-islamic-state.md)
@@ -61,7 +61,7 @@ ATHENS, Greece (AP) — An agreement between the European Union and Turkey to de
 
 ##### Japan-Philippines relations
 ### [A Japanese Navy submarine makes a port call in the Philippines, the first in fifteen years, in a show of growing military cooperation amid tension triggered by China's growing assertiveness in the South China Sea. It was escorted into the former U.S. Naval Base at Subic Bay by two Japanese destroyers on a tour of Southeast Asia. ](/news/2016/04/3/a-japanese-navy-submarine-makes-a-port-call-in-the-philippines-the-first-in-fifteen-years-in-a-show-of-growing-military-cooperation-amid-t.md)
-_Context: South China Sea, Subic Bay, Japan-Philippines relations, Japanese Navy, China, Philippines, former U.S. Naval Base_
+_Context: South China Sea, former U.S. Naval Base, Subic Bay, Philippines, China, Japan-Philippines relations, Japanese Navy_
 
 ##### Guillaume Pepy
 ### [Guillaume Pepy, France's national railway company president, announces armed train marshals, in civilian dress, will be patrolling some passenger trains. ](/news/2016/04/3/guillaume-pepy-france-s-national-railway-company-president-announces-armed-train-marshals-in-civilian-dress-will-be-patrolling-some-pass.md)
@@ -73,7 +73,7 @@ National Assembly set to debate on Tuesday an opposition-tabled motion to impeac
 
 ##### Police
 ### [Police forcibly break up a protest in Male, Maldives, with tear gas and pepper spray and detain multiple journalists. The demonstration was against government moves to introduce a new law to criminalize defamation. ](/news/2016/04/3/police-forcibly-break-up-a-protest-in-mala-c-maldives-with-tear-gas-and-pepper-spray-and-detain-multiple-journalists-the-demonstration-was.md)
-_Context: Police, Male, Maldives_
+_Context: Maldives, Male, Police_
 
 ##### Abortion in Poland
 ### [Thousands of people attended a pro-choice rally outside Parliament of Poland in Warsaw after Jaroslaw Kaczynski, the leader of the ruling Law and Justice party, backed a call by Polish Catholic bishops for a full ban on abortion. ](/news/2016/04/3/thousands-of-people-attended-a-pro-choice-rally-outside-parliament-of-poland-in-warsaw-after-jarosaaw-kaczyaski-the-leader-of-the-ruling.md)

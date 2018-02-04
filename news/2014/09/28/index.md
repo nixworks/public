@@ -13,11 +13,11 @@ _Context: Pakistan_
 
 ##### Buddhists
 ### [A Buddhist monk accused of inciting violence against Muslims in Burma says he is joining forces with the Bodu Bala Sena group in Sri Lanka in order to combat a "serious threat from jihadist groups". ](/news/2014/09/28/a-buddhist-monk-accused-of-inciting-violence-against-muslims-in-burma-says-he-is-joining-forces-with-the-bodu-bala-sena-group-in-sri-lanka-i.md)
-_Context: Sri Lanka, Buddhists, Burma, Muslim, Bodu Bala Sena_
+_Context: Buddhists, Sri Lanka, Burma, Bodu Bala Sena, Muslim_
 
 ##### Japan
 ### [Dozens of people are rescued from Japan's Mount Ontake following a volcanic eruption, with at least 30 feared dead. This is the first deadly eruption in Japan since 1991. ](/news/2014/09/28/dozens-of-people-are-rescued-from-japan-s-mount-ontake-following-a-volcanic-eruption-with-at-least-30-feared-dead-this-is-the-first-deadly.md)
-_Context: Mount Ontake, Japan_
+_Context: Japan, Mount Ontake_
 
 ##### monster truck accident
 ### [Three people are killed in a monster truck accident in Haaksbergen in the Netherlands. ](/news/2014/09/28/three-people-are-killed-in-a-monster-truck-accident-in-haaksbergen-in-the-netherlands.md)

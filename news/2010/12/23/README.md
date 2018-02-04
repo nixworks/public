@@ -57,7 +57,7 @@ Lib Dem ministers apologise to Tory coalition colleagues after being secretly ta
 
 ##### Citizenship and Immigration Canada
 ### [Citizenship and Immigration Canada cuts funding for settlement centres across the country, leading to the Ontario Liberals protesting the decision that will affect many new immigrants in the province. Immigration minister Jason Kenney also affirms that Santa Claus is Canadian, referring to his characteristic red and white colours. ](/news/2010/12/23/citizenship-and-immigration-canada-cuts-funding-for-settlement-centres-across-the-country-leading-to-the-ontario-liberals-protesting-the-de.md)
-_Context: Ontario Liberal Party, Immigration to Canada, Jason Kenney, Citizenship and Immigration Canada, Santa Claus_
+_Context: Ontario Liberal Party, Jason Kenney, Santa Claus, Immigration to Canada, Citizenship and Immigration Canada_
 
 ##### Member of the Scottish Parliament
 ### [Former MSP Tommy Sheridan is convicted of perjury following a 12-week trial at the High Court in Glasgow. He was found guilty of lying during his successful defamation case against the "News of the World" which had printed details of his private life. ](/news/2010/12/23/former-msp-tommy-sheridan-is-convicted-of-perjury-following-a-12-week-trial-at-the-high-court-in-glasgow-he-was-found-guilty-of-lying-durin.md)

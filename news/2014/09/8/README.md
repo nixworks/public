@@ -33,7 +33,7 @@ _Context: Arizona, state of emergency, Hurricane Norbert_
 
 ##### Edinburgh
 ### [Speaking in Edinburgh, former Prime Minister of the United Kingdom Gordon Brown sets out a timetable for transferring more powers from Westminster to the Scottish Parliament in the event of a No vote in the forthcoming independence referendum. ](/news/2014/09/8/speaking-in-edinburgh-former-prime-minister-of-the-united-kingdom-gordon-brown-sets-out-a-timetable-for-transferring-more-powers-from-westm.md)
-_Context: independence referendum, Parliament, Gordon Brown, Edinburgh, Prime Minister, Scottish Parliament_
+_Context: Gordon Brown, Prime Minister, independence referendum, Edinburgh, Parliament, Scottish Parliament_
 
 ## [Previous Day...](/news/2014/09/7/index.md)
 

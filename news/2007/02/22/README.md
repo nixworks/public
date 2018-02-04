@@ -9,23 +9,23 @@ Harry, 22, is a junior officer in the upper-crust Blues and Royals regiment of t
 
 ##### Italy
 ### [ Leaders of Italy's centre-left coalition have agreed to support Romano Prodi and a 12-point program meaning that he can resume serving as Prime Minister of Italy. ](/news/2007/02/22/leaders-of-italy-s-centre-left-coalition-have-agreed-to-support-romano-prodi-and-a-12-point-program-meaning-that-he-can-resume-serving-as-p.md)
-_Context: Italian Prime Minister, Romano Prodi, Italy_
+_Context: Italy, Romano Prodi, Italian Prime Minister_
 
 ##### Abdel Kareem Soliman
 ### [ Abdel Kareem Soliman is convicted of insulting Islam and Egyptian President Hosni Mubarak on his weblog and is sentenced to four years in prison. ](/news/2007/02/22/abdel-kareem-soliman-is-convicted-of-insulting-islam-and-egyptian-president-hosni-mubarak-on-his-weblog-and-is-sentenced-to-four-years-in-p.md)
-_Context: Abdel Kareem Soliman, prison, Egypt, Islam, President, Hosni Mubarak, weblog_
+_Context: prison, President, Islam, Abdel Kareem Soliman, Egypt, weblog, Hosni Mubarak_
 
 ##### Guatemala
 ### [ Four men are arrested in Guatemala for the killing of three Central American Parliament members from El Salvador and their driver. ](/news/2007/02/22/four-men-are-arrested-in-guatemala-for-the-killing-of-three-central-american-parliament-members-from-el-salvador-and-their-driver.md)
-_Context: Central American Parliament, El Salvador, Guatemala_
+_Context: El Salvador, Central American Parliament, Guatemala_
 
 ##### Japan
 ### [ Japan records a trade surplus of CNY4.4 billion in January due to lower oil prices and strong exports. ](/news/2007/02/22/japan-records-a-trade-surplus-of-acny4-4-billion-in-january-due-to-lower-oil-prices-and-strong-exports.md)
-_Context: Japan, oil, CNY_
+_Context: oil, CNY, Japan_
 
 ##### Vice-President of the United States
 ### [ Vice-President of the United States Dick Cheney arrives in Australia to discuss issues including Iraq, Afghanistan and the detention of David Hicks with the Australian government. Upon arrival he is greeted by violent demonstrations. ](/news/2007/02/22/vice-president-of-the-united-states-dick-cheney-arrives-in-australia-to-discuss-issues-including-iraq-afghanistan-and-the-detention-of-dav.md)
-_Context: Australian government, War in Afghanistan (2001-present), protest, Vice-President of the United States, David Hicks, Iraq War, Dick Cheney, Australia_
+_Context: Dick Cheney, Iraq War, Australian government, David Hicks, protest, Australia, Vice-President of the United States, War in Afghanistan (2001-present)_
 
 ##### India
 ### [ Seven people are detained in India in relation to the 2007 Samjhauta Express bombings. ](/news/2007/02/22/seven-people-are-detained-in-india-in-relation-to-the-2007-samjhauta-express-bombings.md)
@@ -33,11 +33,11 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### Indonesia
 ### [ A fire breaks out on an Indonesian ferry, the Levina 1, carrying 350 passengers shortly after it leaves Jakarta. ](/news/2007/02/22/a-fire-breaks-out-on-an-indonesian-ferry-the-levina-1-carrying-350-passengers-shortly-after-it-leaves-jakarta.md)
-_Context: ferry, Indonesia, Levina 1, Jakarta_
+_Context: Levina 1, Indonesia, ferry, Jakarta_
 
 ##### Cyclone Favio
 ### [ Cyclone Favio hits central Mozambique. ](/news/2007/02/22/cyclone-favio-hits-central-mozambique.md)
-_Context: Mozambique, Cyclone Favio_
+_Context: Cyclone Favio, Mozambique_
 
 ## [Previous Day...](/news/2007/02/21/index.md)
 

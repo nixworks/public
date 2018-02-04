@@ -13,15 +13,15 @@ _Context: 99942 Apophis, asteroid_
 
 ##### U.S. dollar
 ### [ The U.S. dollar hits a new low against the euro: USD 1.3640 to EUR 1.00. ](/news/2004/12/27/the-u-s-dollar-hits-a-new-low-against-the-euro-usd-1-3640-to-eur-1-00.md)
-_Context: euro, U.S. dollar_
+_Context: U.S. dollar, euro_
 
 ##### Ukraine
 ### [ Ukrainian Transport Minister Heorhiy Kyrpa, a staunch supporter of Viktor Yanukovych, is found shot dead at his home just outside of Kiev. It is unclear whether he was murdered or committed suicide. ](/news/2004/12/27/ukrainian-transport-minister-heorhiy-kyrpa-a-staunch-supporter-of-viktor-yanukovych-is-found-shot-dead-at-his-home-just-outside-of-kiev.md)
-_Context: Heorhiy Kyrpa, Viktor Yanukovych, Kiev, Ukraine_
+_Context: Viktor Yanukovych, Kiev, Heorhiy Kyrpa, Ukraine_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israeli police arrest Palestinian presidential candidate Mustafa Barghouti. A Jerusalem police spokesman says Mr Barghouti was "detained for questioning because he has the right to transit through Jerusalem but not be in Jerusalem itself".](/news/2004/12/27/israeli-palestinian-conflict-israeli-police-arrest-palestinian-presidential-candidate-mustafa-barghouti-a-jerusalem-police-spokesman-says.md)
-_Context: Palestinian, Jerusalem, Mustafa Barghouti, Israeli-Palestinian Conflict, Israel_
+_Context: Israel, Mustafa Barghouti, Palestinian, Jerusalem, Israeli-Palestinian Conflict_
 
 ##### tsunami
 ### [ The death toll from tsunamis resulting from the Indian Ocean earthquake is known to be at least 20,000 and possibly as high as 45,000. ](/news/2004/12/27/the-death-toll-from-tsunamis-resulting-from-the-indian-ocean-earthquake-is-known-to-be-at-least-20-000-and-possibly-as-high-as-45-000.md)

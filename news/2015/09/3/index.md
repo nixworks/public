@@ -21,11 +21,11 @@ The military parade in Beijing on September 3, celebrating Japan’s surrender i
 
 ##### President
 ### [The President of Guatemala, Otto Prez Molina, resigns after being charged in a corruption scandal; Vice President Alejandro Maldonado is sworn in as interim head of state. ](/news/2015/09/3/the-president-of-guatemala-otto-perez-molina-resigns-after-being-charged-in-a-corruption-scandal-vice-president-alejandro-maldonado-is-sw.md)
-_Context: Alejandro Maldonado, President, Otto Prez Molina_
+_Context: Alejandro Maldonado, Otto Prez Molina, President_
 
 ##### 2015 Bangkok bombing
 ### [Another suspect in the bombing is arrested in Narathiwat Province in southern Thailand and flown to Bangkok. ](/news/2015/09/3/another-suspect-in-the-bombing-is-arrested-in-narathiwat-province-in-southern-thailand-and-flown-to-bangkok.md)
-_Context: Narathiwat, Bangkok, Thailand, 2015 Bangkok bombing_
+_Context: Thailand, Narathiwat, 2015 Bangkok bombing, Bangkok_
 
 ##### Kim Davis
 ### [Kim Davis, the Rowan County, Kentucky, clerk, is jailed for contempt of court for continuing to refuse, on grounds of religious freedom, to issue marriage licenses to same-sex couples per U.S. District Judge David Bunning's August 12, 2015, order. The deputy clerks are ordered to issue these licenses. ](/news/2015/09/3/kim-davis-the-rowan-county-kentucky-clerk-is-jailed-for-contempt-of-court-for-continuing-to-refuse-on-grounds-of-religious-freedom-to.md)

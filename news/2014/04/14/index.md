@@ -21,11 +21,11 @@ Pro-Russian activists attack another official building in east Ukraine, ignoring
 
 ##### Washington Post
 ### [The "Washington Post" and "The Guardian" newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security-age.md)
-_Context: National Security Agency, The Guardian, Washington Post, Edward Snowden, Pulitzer Prize for Public Service_
+_Context: Edward Snowden, The Guardian, Washington Post, Pulitzer Prize for Public Service, National Security Agency_
 
 ##### United States
 ### [American financial services company TIAA-CREF agrees to buy Nuveen Investments for $6.25 billion. ](/news/2014/04/14/american-financial-services-company-tiaaacref-agrees-to-buy-nuveen-investments-for-6-25-billion.md)
-_Context: Nuveen Investments, TIAA-CREF, United States, $_
+_Context: United States, $, Nuveen Investments, TIAA-CREF_
 
 ##### Abu Hamza al-Masri
 ### [Radical British Muslim cleric Abu Hamza al-Masri goes on trial in the American state of New York for 11 alleged terrorism offenses. ](/news/2014/04/14/radical-british-muslim-cleric-abu-hamza-al-masri-goes-on-trial-in-the-american-state-of-new-york-for-11-alleged-terrorism-offenses.md)

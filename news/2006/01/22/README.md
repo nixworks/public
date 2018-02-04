@@ -5,7 +5,7 @@ Formats: [HTML](2006/01/22/index.html)  [JSON](2006/01/22/index.json)  [XML](200
 
 ##### diplomat
 ### [ British diplomats are accused of spying on Russia using a fake rock. ](/news/2006/01/22/british-diplomats-are-accused-of-spying-on-russia-using-a-fake-rock.md)
-_Context: rock, espionage, diplomat_
+_Context: espionage, rock, diplomat_
 
 ##### Evo Morales
 ### [ Evo Morales is inaugurated as President of Bolivia, becoming the country's first indigenous American president. ](/news/2006/01/22/evo-morales-is-inaugurated-as-president-of-bolivia-becoming-the-country-s-first-indigenous-american-president.md)

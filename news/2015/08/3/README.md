@@ -25,7 +25,7 @@ Puerto Rico confirms that it failed to make a debt payment at the weekend, in th
 
 ##### Flood
 ### [Flooding caused by heavy monsoon rains has caused over 100 deaths in India over the past week with tens of thousands of people taking shelter in refugee camps. ](/news/2015/08/3/flooding-caused-by-heavy-monsoon-rains-has-caused-over-100-deaths-in-india-over-the-past-week-with-tens-of-thousands-of-people-taking-shelte.md)
-_Context: Flood, monsoon, India, refugee_
+_Context: refugee, Flood, monsoon, India_
 
 ##### Alphen aan den Rijn
 ### [Two cranes overturn on several houses while installing a part of the Julianabrug at Alphen aan den Rijn in the Netherlands leaving twenty people injured. ](/news/2015/08/3/two-cranes-overturn-on-several-houses-while-installing-a-part-of-the-julianabrug-at-alphen-aan-den-rijn-in-the-netherlands-leaving-twenty-pe.md)

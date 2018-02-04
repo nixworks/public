@@ -9,7 +9,7 @@ Formats: [HTML](2017/06/12/index.html)  [JSON](2017/06/12/index.json)  [XML](201
 
 ##### Foreign relations of Panama
 ### [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md)
-_Context: Panama, Foreign relations of Panama, Taiwan, diplomatic ties, China, formal relations_
+_Context: diplomatic ties, China, Taiwan, formal relations, Panama, Foreign relations of Panama_
 
 ##### United States immigration policy
 ### [A Ninth Circuit Appeals Court panel unanimously upholds the Hawaii district court decision to prevent implementation of revised Executive Order 13780. On May 25, the Fourth Circuit Appeals Court affirmed a similar ruling by the Maryland district court. ](/news/2017/06/12/a-ninth-circuit-appeals-court-panel-unanimously-upholds-the-hawaii-district-court-decision-to-prevent-implementation-of-revised-executive-or.md)
@@ -21,7 +21,7 @@ Police detained Russian opposition leader Alexei Navalny at the entrance of his 
 
 ##### Kosovan parliamentary election, 2017
 ### [A coalition led by the Democratic Party of Kosovo wins the most votes in yesterday's election and is in a good position to form a government led by former rebel leader and Prime Minister Ramush Haradinaj. ](/news/2017/06/12/a-coalition-led-by-the-democratic-party-of-kosovo-wins-the-most-votes-in-yesterday-s-election-and-is-in-a-good-position-to-form-a-government.md)
-_Context: Kosovan parliamentary election, 2017, Democratic Party of Kosovo, Prime Minister, Ramush Haradinaj_
+_Context: Ramush Haradinaj, Prime Minister, Kosovan parliamentary election, 2017, Democratic Party of Kosovo_
 
 ## [Previous Day...](/news/2017/06/11/index.md)
 

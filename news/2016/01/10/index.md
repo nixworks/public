@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/10/index.html)  [JSON](2016/01/10/index.json)  [XML](201
 
 ##### PKK rebellion (2015-present)
 ### [Turkish security forces kill at least 32 Kurdistan Workers' Party (PKK) militants over the weekend, in military operations across the embattled Kurdish-majority southeast. ](/news/2016/01/10/turkish-security-forces-kill-at-least-32-kurdistan-workers-party-pkk-militants-over-the-weekend-in-military-operations-across-the-embatt.md)
-_Context: Turkish, PKK rebellion (2015-present), Kurdish, Turkish troops, Kurdistan Workers' Party_
+_Context: Turkish, Kurdish, PKK rebellion (2015-present), Kurdistan Workers' Party, Turkish troops_
 
 ##### Yemeni Civil War (2015-present)
 ### [A suspected Saudi missile strike on a Medecins Sans Frontieres (MSF) clinic in Razih, located in Yemen's northern Saada Governorate, leaves at least five people dead and around a dozen injured. ](/news/2016/01/10/a-suspected-saudi-missile-strike-on-a-ma-c-decins-sans-frontia-res-msf-clinic-in-razih-located-in-yemen-s-northern-saada-governorate-leave.md)
@@ -37,7 +37,7 @@ A newly constructed bridge in northern Ontario has heaved apart, indefinitely cl
 
 ##### nuclear test
 ### [A single United States Air Force B-52 long-range strategic bomber makes a low-level flight over South Korea, close to the Korean Demilitarized Zone (DMZ), in a show of force following North Korea's fourth nuclear test on January 6, before returning to its base in Guam. ](/news/2016/01/10/a-single-united-states-air-force-b-52-long-range-strategic-bomber-makes-a-low-level-flight-over-south-korea-close-to-the-korean-demilitariz.md)
-_Context: North Korea, DMZ, South Korea, American B-52 strategic bomber, United States Air Force, Guam, nuclear test_
+_Context: DMZ, nuclear test, United States Air Force, Guam, North Korea, American B-52 strategic bomber, South Korea_
 
 ##### Germany-Poland relations
 ### [Poland summons the German ambassador in Warsaw over "anti-Polish" remarks made by German politicians. ](/news/2016/01/10/poland-summons-the-german-ambassador-in-warsaw-over-anti-polish-remarks-made-by-german-politicians.md)
@@ -45,15 +45,15 @@ Poland criticises German politicians for what it calls &quot;anti-Polish&quot; c
 
 ##### United States soldier
 ### [U.S. Army officials set August 8 as the start date for Sgt. Bowe Bergdahl's court-martial. Bergdahl, charged with desertion and misbehavior before the enemy, was held captive by the Taliban for five years after he left his base in Afghanistan. A pre-trial hearing is scheduled for early this week. ](/news/2016/01/10/u-s-army-officials-set-august-8-as-the-start-date-for-sgt-bowe-bergdahlas-court-martial-bergdahl-charged-with-desertion-and-misbehavio.md)
-_Context: Taliban, United States soldier, court-martial, Bowe Bergdahl_
+_Context: United States soldier, Bowe Bergdahl, Taliban, court-martial_
 
 ##### Mexican Drug War
 ### [Mexican authorities want to question American actor Sean Penn and Mexican actress Kate del Castillo about a secret October meeting and interview with Joaquin Guzman, published by "Rolling Stone" magazine yesterday. Mexico Attorney General Arely Gomez says it was the Penn interview that led authorities to a Guzman hiding place. ](/news/2016/01/10/mexican-authorities-want-to-question-american-actor-sean-penn-and-mexican-actress-kate-del-castillo-about-a-secret-october-meeting-and-inter.md)
-_Context: Rolling Stone, Attorney General of Mexico, Mexican Drug War, Joaquin "El Chapo" Guzman, Kate del Castillo, Sean Penn, Arely Gomez_
+_Context: Arely Gomez, Sean Penn, Kate del Castillo, Rolling Stone, Joaquin "El Chapo" Guzman, Mexican Drug War, Attorney General of Mexico_
 
 ##### Catalan independence
 ### [The newly appointed President of Catalonia, Carles Puigdemont, vows to continue his predecessor Artur Mas i Gavarro's plans to secede from Spain within 18 months. ](/news/2016/01/10/the-newly-appointed-president-of-catalonia-carles-puigdemont-vows-to-continue-his-predecessor-artur-mas-i-gavarra3-s-plans-to-secede-from.md)
-_Context: Spain, Carles Puigdemont, Artur Mas i Gavarro, President of the Generalitat of Catalonia, Catalan independence_
+_Context: Catalan independence, President of the Generalitat of Catalonia, Spain, Artur Mas i Gavarro, Carles Puigdemont_
 
 ## [Previous Day...](/news/2016/01/9/index.md)
 

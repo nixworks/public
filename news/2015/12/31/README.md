@@ -25,7 +25,7 @@ _Context: The Address Downtown Dubai_
 
 ##### Russian President
 ### [Russian President Vladimir Putin signs an amendment to Russia's law regarding the regulation of the use of weapons, giving the FSB the authority to use lethal force on crowds in order to "prevent acts of terrorism, rescue hostages, or repel attacks on public buildings." ](/news/2015/12/31/russian-president-vladimir-putin-signs-an-amendment-to-russia-s-law-regarding-the-regulation-of-the-use-of-weapons-giving-the-fsb-the-autho.md)
-_Context: Russia, Federal Security Service, Russian President, Vladimir Putin_
+_Context: Russian President, Federal Security Service, Russia, Vladimir Putin_
 
 ##### Indonesian government
 ### [The Indonesian government plans an appeal to a South Sumatra court's rejection of a Rp 7.8 trillion (SGD 780 million) lawsuit against a pulp and paper company accused of contributing to the recurring Southeast Asian hazes, particularly the recent incident of hazes in 2015. ](/news/2015/12/31/the-indonesian-government-plans-an-appeal-to-a-south-sumatra-court-s-rejection-of-a-rp-7-8-trillion-sgd-780-million-lawsuit-against-a-pulp.md)

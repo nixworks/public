@@ -13,11 +13,11 @@ HUNGARIAN police are hunting a man they believed plotted a cold blooded terror a
 
 ##### Colombian conflict
 ### [The Revolutionary Armed Forces of Colombia (FARC), the country's largest rebel group, gives its approval to a peace deal agreement with the government. President Juan Manuel Santos and FARC leader Timoleon Jimenez, known as Timochenko, will sign the agreement on September 26. To complete the approval process, a referendum will be held on October 2. ](/news/2016/09/24/the-revolutionary-armed-forces-of-colombia-farc-the-country-s-largest-rebel-group-gives-its-approval-to-a-peace-deal-agreement-with-the.md)
-_Context: Juan Manuel Santos, Colombian conflict, FARC, Rodrigo Londono's, Colombian peace agreement referendum, 2016_
+_Context: Rodrigo Londono's, Colombian peace agreement referendum, 2016, FARC, Juan Manuel Santos, Colombian conflict_
 
 ##### Australia
 ### [The New South Wales State Emergency Service warns residents of the Australian town of Forbes to evacuate as the Lachlan River floods. ](/news/2016/09/24/the-new-south-wales-state-emergency-service-warns-residents-of-the-australian-town-of-forbes-to-evacuate-as-the-lachlan-river-floods.md)
-_Context: Lachlan River, Australia, Forbes_
+_Context: Lachlan River, Forbes, Australia_
 
 ##### 2016 Cascade Mall shooting
 ### [The death toll in yesterday's attack rises to five people with the assailant captured in Oak Harbor, Washington. ](/news/2016/09/24/the-death-toll-in-yesterday-s-attack-rises-to-five-people-with-the-assailant-captured-in-oak-harbor-washington.md)

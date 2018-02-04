@@ -5,7 +5,7 @@ Formats: [HTML](2004/07/12/index.html)  [JSON](2004/07/12/index.json)  [XML](200
 
 ##### Pedro Santana Lopes
 ### [ Pedro Santana Lopes becomes the prime minister of Portugal. ](/news/2004/07/12/pedro-santana-lopes-becomes-the-prime-minister-of-portugal.md)
-_Context: Pedro Santana Lopes, Portugal_
+_Context: Portugal, Pedro Santana Lopes_
 
 ##### Philippines
 ### [ The Philippines announces the withdrawal of its forces from Iraq. ](/news/2004/07/12/the-philippines-announces-the-withdrawal-of-its-forces-from-iraq.md)
@@ -17,7 +17,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 ##### Alberta
 ### [ Albertan Premier Ralph Klein announces that the province has completed repayment of its public debt, which once stood at CAD $23 billion. ](/news/2004/07/12/albertan-premier-ralph-klein-announces-that-the-province-has-completed-repayment-of-its-public-debt-which-once-stood-at-cad-23-billion.md)
-_Context: province, CAN$, Premier of Alberta, Ralph Klein, billion, public debt, Alberta_
+_Context: CAN$, Premier of Alberta, public debt, billion, province, Ralph Klein, Alberta_
 
 ## [Previous Day...](/news/2004/07/11/index.md)
 

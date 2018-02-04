@@ -3,9 +3,9 @@ Formats: [HTML](2014/04/17/index.html)  [JSON](2014/04/17/index.json)  [XML](201
 
 ## [2014-04-17](/news/2014/04/17/index.md)
 
-##### Tehrik-i-Taliban Pakistan
+##### Pakistani Taliban
 ### [The Pakistani Taliban announces that it will not extend a ceasefire with the Pakistani government. ](/news/2014/04/17/the-pakistani-taliban-announces-that-it-will-not-extend-a-ceasefire-with-the-pakistani-government.md)
-_Context: Tehrik-i-Taliban Pakistan, government_
+_Context: government, Pakistani Taliban_
 
 ##### Republic of Korea Coast Guard
 ### [Republic of Korea Coast Guard and Navy divers resume the search for 290 missing people from yesterday's ferry capsizing off the coast of the island of Jindo. ](/news/2014/04/17/republic-of-korea-coast-guard-and-navy-divers-resume-the-search-for-290-missing-people-from-yesterday-s-ferry-capsizing-off-the-coast-of-the.md)
@@ -21,11 +21,11 @@ _Context: Anglo Irish Bank_
 
 ##### Steven W. Rhodes
 ### [Bankruptcy judge Steven W. Rhodes says that the court may maintain supervision over the finances of the city of Detroit, Michigan, even after the city emerges from bankruptcy protection. ](/news/2014/04/17/bankruptcy-judge-steven-w-rhodes-says-that-the-court-may-maintain-supervision-over-the-finances-of-the-city-of-detroit-michigan-even-afte.md)
-_Context: Mich., Steven W. Rhodes, Detroit_
+_Context: Steven W. Rhodes, Mich., Detroit_
 
 ##### Algeria
 ### [Voters in Algeria go to the polls for a presidential election with incumbent President Abdelaziz Bouteflika standing for a fourth term. ](/news/2014/04/17/voters-in-algeria-go-to-the-polls-for-a-presidential-election-with-incumbent-president-abdelaziz-bouteflika-standing-for-a-fourth-term.md)
-_Context: Abdelaziz Bouteflika, President, Algeria_
+_Context: Algeria, Abdelaziz Bouteflika, President_
 
 ##### India
 ### [Voters in twelve states of India go to the polls for the biggest day of voting during the election process. ](/news/2014/04/17/voters-in-twelve-states-of-india-go-to-the-polls-for-the-biggest-day-of-voting-during-the-election-process.md)

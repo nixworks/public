@@ -5,7 +5,7 @@ Formats: [HTML](2013/03/31/index.html)  [JSON](2013/03/31/index.json)  [XML](201
 
 ##### Adnan Wazir
 ### [A bomb kills two people and injures six others, including Adnan Wazir, a former Member of Parliament of the Awami National Party, in Bannu, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/03/31/a-bomb-kills-two-people-and-injures-six-others-including-adnan-wazir-a-former-member-of-parliament-of-the-awami-national-party-in-bannu.md)
-_Context: Bannu District, Pakistan, Khyber Pakhtunkhwa, Parliament's, Adnan Wazir, Awami National Party_
+_Context: Northwestern Pakistan, Parliament's, Bannu District, Adnan Wazir, Pakistan, Awami National Party_
 
 ##### Islam
 ### [Rebel Islamist fighters attempt to infiltrate Timbuktu, but are repelled by French and Malian forces. ](/news/2013/03/31/rebel-islamist-fighters-attempt-to-infiltrate-timbuktu-but-are-repelled-by-french-and-malian-forces.md)
@@ -41,7 +41,7 @@ At LEAST 11 people have died in flooding in the Mauritian capital Port Louis, of
 
 ##### China
 ### [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md)
-_Context: avian influenza, H7N9 avian flu virus, China_
+_Context: China, H7N9 avian flu virus, avian influenza_
 
 ##### Afghanistan President
 ### [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md)
@@ -53,11 +53,11 @@ Leader Kim Jong-Un presides over a party meeting that declares Pyongyang&#039;s 
 
 ##### District Attorney
 ### [A suspect is being sought in connection with the slayings of Kaufman County District Attorney Mike McLelland and his wife, whose bodies were found at their home in Kaufman County, Texas, United States. ](/news/2013/03/31/a-suspect-is-being-sought-in-connection-with-the-slayings-of-kaufman-county-district-attorney-mike-mclelland-and-his-wife-whose-bodies-were.md)
-_Context: Kaufman County, District Attorney, United States, Texas_
+_Context: United States, Texas, Kaufman County, District Attorney_
 
 ##### gang
 ### [Three people are shot and killed and two others are wounded during a gang-related shooting at a party in Merced, California, United States. ](/news/2013/03/31/three-people-are-shot-and-killed-and-two-others-are-wounded-during-a-gang-related-shooting-at-a-party-in-merced-california-united-states.md)
-_Context: California, gang, Merced, United States_
+_Context: United States, California, gang, Merced_
 
 ##### Christians
 ### [Christians across the globe celebrate Easter, Christianity's most sacred holiday. ](/news/2013/03/31/christians-across-the-globe-celebrate-easter-christianity-s-most-sacred-holiday.md)
@@ -65,7 +65,7 @@ Faithful around the world celebrate Easter Sunday with church services and commu
 
 ##### IBM Roadrunner
 ### [IBM Roadrunner, once the world's fastest supercomputer, is decommissioned. ](/news/2013/03/31/ibm-roadrunner-once-the-world-s-fastest-supercomputer-is-decommissioned.md)
-_Context: IBM Roadrunner, supercomputer_
+_Context: supercomputer, IBM Roadrunner_
 
 ##### Met Office
 ### [The Met Office confirms Sunday as the coldest Easter Day on record for the United Kingdom. The lowest temperature of -12.5degC is recorded in Braemar in the Scottish Highlands. ](/news/2013/03/31/the-met-office-confirms-sunday-as-the-coldest-easter-day-on-record-for-the-united-kingdom-the-lowest-temperature-of-a12-5adegc-is-recorded.md)

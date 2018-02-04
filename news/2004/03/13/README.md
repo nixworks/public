@@ -9,15 +9,15 @@ _Context: Lien Chan, Taiwan, 2004 presidential election_
 
 ##### March 11, 2004 Madrid attacks
 ### [ The death toll in the Madrid bombings rises to 200; investigators continue search for perpetrators, with suspicions against ETA complemented by the apprehension of five foreign citizens connected to terror attacks in Morocco. ](/news/2004/03/13/the-death-toll-in-the-madrid-bombings-rises-to-200-investigators-continue-search-for-perpetrators-with-suspicions-against-eta-complemente.md)
-_Context: March 11, 2004 Madrid attacks, ETA, Morocco_
+_Context: Morocco, ETA, March 11, 2004 Madrid attacks_
 
 ##### Taliban
 ### [ U.S. forces launch new offensive aimed at the Taliban and al-Qaeda and the capture of Osama bin Laden and Mullah Omar in Afghanistan. ](/news/2004/03/13/u-s-forces-launch-new-offensive-aimed-at-the-taliban-and-al-qaeda-and-the-capture-of-osama-bin-laden-and-mullah-omar-in-afghanistan.md)
-_Context: Mullah Omar, Al-Qaida, Osama bin Laden, Afghanistan, Taliban_
+_Context: Al-Qaida, Taliban, Mullah Omar, Osama bin Laden, Afghanistan_
 
 ##### DARPA Grand Challenge
 ### [ Fifteen teams that qualified for the DARPA Grand Challenge start on a 150-200 mile robotic race to Las Vegas, Nevada, for a $1 million prize. All of the teams break down within seven miles of the start line; none collect the prize. ](/news/2004/03/13/fifteen-teams-that-qualified-for-the-darpa-grand-challenge-start-on-a-150a200-mile-robotic-race-to-las-vegas-nevada-for-a-1-million-pr.md)
-_Context: Las Vegas, Nevada, $, DARPA Grand Challenge_
+_Context: Las Vegas, Nevada, DARPA Grand Challenge, $_
 
 ##### Fresno, California
 ### [ Nine people, eight of whom are children, are found dead in Fresno, California, US. A man apparently related to the victims is arrested. The police speculate that the deaths may have been part of a ritual. ](/news/2004/03/13/nine-people-eight-of-whom-are-children-are-found-dead-in-fresno-california-us-a-man-apparently-related-to-the-victims-is-arrested-the.md)

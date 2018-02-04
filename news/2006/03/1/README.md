@@ -5,7 +5,7 @@ Formats: [HTML](2006/03/1/index.html)  [JSON](2006/03/1/index.json)  [XML](2006/
 
 ##### steel manufacturing
 ### [ A member of the board of directors of major German steel manufacturing company ThyssenKrupp AG says the company is "examining all its options," and may not complete its proposed acquisition of Canadian steel company Dofasco. ](/news/2006/03/1/a-member-of-the-board-of-directors-of-major-german-steel-manufacturing-company-thyssenkrupp-ag-says-the-company-is-examining-all-its-optio.md)
-_Context: steel manufacturing, Dofasco, ThyssenKrupp_
+_Context: ThyssenKrupp, steel manufacturing, Dofasco_
 
 ##### George W. Bush
 ### [ A video obtained by the Associated Press shows U.S. President George W. Bush being warned that the levees in New Orleans could break one day before Hurricane Katrina hit. ](/news/2006/03/1/a-video-obtained-by-the-associated-press-shows-u-s-president-george-w-bush-being-warned-that-the-levees-in-new-orleans-could-break-one-da.md)

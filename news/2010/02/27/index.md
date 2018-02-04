@@ -21,11 +21,11 @@ _Context: Dera Ghazi Khan, Pakistan_
 
 ##### Lantern Festival
 ### [19 are killed and dozens are injured by firecrackers during the Lantern Festival celebrations in Puning, Guangdong. ](/news/2010/02/27/19-are-killed-and-dozens-are-injured-by-firecrackers-during-the-lantern-festival-celebrations-in-puning-guangdong.md)
-_Context: Puning, Lantern Festival, Guangdong_
+_Context: Lantern Festival, Puning, Guangdong_
 
 ##### yuan
 ### [A drought causes at least 10 billion yuan ($1.46 billion) in direct economic loss at Fanaga village of Luquan county, near Kunming, capital of Yunnan. ](/news/2010/02/27/a-drought-causes-at-least-10-billion-yuan-1-46-billion-in-direct-economic-loss-at-fanaga-village-of-luquan-county-near-kunming-capital.md)
-_Context: Fanaga village, yuan, Yunnan, Kunming, Luquan_
+_Context: yuan, Kunming, Luquan, Yunnan, Fanaga village_
 
 ##### Colombia
 ### [Constitutional judges in Colombia reject a referendum to allow President lvaro Uribe to stand for a third term in office. ](/news/2010/02/27/constitutional-judges-in-colombia-reject-a-referendum-to-allow-president-alvaro-uribe-to-stand-for-a-third-term-in-office.md)
@@ -45,7 +45,7 @@ _Context: Ignalina Nuclear Power Plant, Visaginas_
 
 ##### Gatorade
 ### [Drinks firm Gatorade ends its endorsement deal with golfer Tiger Woods after his string of extra-marital affairs. ](/news/2010/02/27/drinks-firm-gatorade-ends-its-endorsement-deal-with-golfer-tiger-woods-after-his-string-of-extra-marital-affairs.md)
-_Context: Gatorade, Tiger Woods_
+_Context: Tiger Woods, Gatorade_
 
 ## [Previous Day...](/news/2010/02/26/index.md)
 

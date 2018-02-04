@@ -37,7 +37,7 @@ Egypt charged ousted president Mohamed Mursi and nine others on Saturday with en
 
 ##### independence referendum
 ### [A surge for the yes-campaign following the TV debate "Scotland Decides: Salmond versus Darling" culminates with a poll from YouGov and The Sunday Times showing that a majority will vote in favor of Scottish independence. ](/news/2014/09/6/a-surge-for-the-yes-campaign-following-the-tv-debate-scotland-decides-salmond-versus-darling-culminates-with-a-poll-from-yougov-and-the-s.md)
-_Context: The Sunday Times, will vote in favor, YouGov, independence referendum, Scotland Decides: Salmond versus Darling_
+_Context: YouGov, independence referendum, The Sunday Times, Scotland Decides: Salmond versus Darling, will vote in favor_
 
 ## [Previous Day...](/news/2014/09/5/index.md)
 

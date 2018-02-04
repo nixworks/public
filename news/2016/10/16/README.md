@@ -33,15 +33,15 @@ The United States and Britain called on Sunday for an immediate and unconditiona
 
 ##### arson
 ### [An arsonist firebombs a Republican Party office in Hillsborough, North Carolina, and leaves a graffiti message reading, "Nazi Republicans get out of town or else." ](/news/2016/10/16/an-arsonist-firebombs-a-republican-party-office-in-hillsborough-north-carolina-and-leaves-a-graffiti-message-reading-nazi-republicans-ge.md)
-_Context: Nazi, Republican, Hillsborough, North Carolina, arson_
+_Context: Nazi, arson, Hillsborough, North Carolina, Republican_
 
 ##### Montenegrin parliamentary election, 2016
 ### [With over 95 percent of votes counted, Prime Minister Milo Dukanovic's Democratic Party of Socialists receives the most votes in this quadrennial election, but, by five seats, fails to gain an absolute majority. Djukanovic says he will seek a coalition with parties of national minorities. ](/news/2016/10/16/with-over-95-percent-of-votes-counted-prime-minister-milo-aukanovia-s-democratic-party-of-socialists-receives-the-most-votes-in-this-quad.md)
-_Context: Milo Dukanovic, Prime Minister, Montenegrin parliamentary election, 2016, Democratic Party of Socialists_
+_Context: Milo Dukanovic, Prime Minister, Democratic Party of Socialists, Montenegrin parliamentary election, 2016_
 
 ##### ExoMars project
 ### [The European Space Agency-Roscosmos operated Schiaparelli EDM lander successfully separates from the ExoMars Trace Gas Orbiter spacecraft, beginning a three-day descent to the surface of Mars. ](/news/2016/10/16/the-european-space-agency-roscosmos-operated-schiaparelli-edm-lander-successfully-separates-from-the-exomars-trace-gas-orbiter-spacecraft-b.md)
-_Context: European Space Agency, Mars, ''Schiaparelli'' lander, ExoMars Trace Gas Orbiter, ExoMars project, Roscosmos_
+_Context: European Space Agency, ExoMars Trace Gas Orbiter, Mars, Roscosmos, ExoMars project, ''Schiaparelli'' lander_
 
 ## [Previous Day...](/news/2016/10/15/index.md)
 

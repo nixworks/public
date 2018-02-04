@@ -5,7 +5,7 @@ Formats: [HTML](2014/02/6/index.html)  [JSON](2014/02/6/index.json)  [XML](2014/
 
 ##### Baghdad
 ### [Seven car bombings across Baghdad, Iraq, kill at least 13 people. ](/news/2014/02/6/seven-car-bombings-across-baghdad-iraq-kill-at-least-13-people.md)
-_Context: Baghdad, Iraq_
+_Context: Iraq, Baghdad_
 
 ##### Palestinian militants
 ### [Palestinian militants in the Gaza Strip fire rockets towards Hof Ashkelon region in southern Israel; the rockets are intercepted by Israel's Iron Dome defense system. ](/news/2014/02/6/palestinian-militants-in-the-gaza-strip-fire-rockets-towards-hof-ashkelon-region-in-southern-israel-the-rockets-are-intercepted-by-israel-s.md)
@@ -13,7 +13,7 @@ Projectile strikes open area in Eshkol region, after two others hit near Ashkelo
 
 ##### Syrian rebels
 ### [Fighting between Syrian rebels and government forces rages around the Aleppo Central Prison in the war-torn city of Aleppo, but it is unclear whether rebels control all or part of the facility. ](/news/2014/02/6/fighting-between-syrian-rebels-and-government-forces-rages-around-the-aleppo-central-prison-in-the-war-torn-city-of-aleppo-but-it-is-unclea.md)
-_Context: Aleppo, government forces, Syrian rebels_
+_Context: Syrian rebels, government forces, Aleppo_
 
 ##### Jay Leno
 ### [Jay Leno finally says farewell for the second time to "The Tonight Show" with guests such as Oprah Winfrey, Kim Kardashian and Jim Parsons. ](/news/2014/02/6/jay-leno-finally-says-farewell-for-the-second-time-to-the-tonight-show-with-guests-such-as-oprah-winfrey-kim-kardashian-and-jim-parsons.md)

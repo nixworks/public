@@ -5,7 +5,7 @@ Formats: [HTML](2016/03/9/index.html)  [JSON](2016/03/9/index.json)  [XML](2016/
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban militants attack government offices in the southern Helmand Province of Afghanistan, with at least 10 killed, including seven of the attackers. ](/news/2016/03/9/taliban-militants-attack-government-offices-in-the-southern-helmand-province-of-afghanistan-with-at-least-10-killed-including-seven-of-the.md)
-_Context: War in Afghanistan (2015-present), Helmand Province, Afghanistan, Taliban_
+_Context: Afghanistan, War in Afghanistan (2015-present), Taliban, Helmand Province_
 
 ##### War in Somalia (2009-present)
 ### [U.S. special forces, landing in two helicopters, stage an overnight raid on the al-Shabaab-controlled town of Awdhegele in Somalia's Lower Shebelle region. Al-Shabaab spokesman, Sheik Abduasiz Abu Musab, confirmed the raid saying "The helicopters landed outside town and the ground forces entered, there was heavy fighting and they were forced to flee"."They were masked and spoke foreign languages which our fighters could not understand," Abu Musab told Reuters. "We do not know who they were but we foiled them." ](/news/2016/03/9/u-s-special-forces-landing-in-two-helicopters-stage-an-overnight-raid-on-the-al-shabaab-controlled-town-of-awdhegele-in-somalia-s-lower-s.md)
@@ -21,7 +21,7 @@ A senior Japanese trade negotiator said on Wednesday that it would be impossible
 
 ##### Lagos
 ### [At least 30 people are killed after a five-story building still under construction collapses in Lagos, Nigeria. ](/news/2016/03/9/at-least-30-people-are-killed-after-a-five-story-building-still-under-construction-collapses-in-lagos-nigeria.md)
-_Context: Lagos, Nigeria_
+_Context: Nigeria, Lagos_
 
 ##### Seattle
 ### [In Seattle, Washington, a Seattle Fire Department crew, responding to reports of a natural gas leak in the Greenwood neighborhood, are caught in an explosion that injures nine firefighters. The explosion blew out windows in businesses and storefronts in the surrounding blocks, destroying three businesses and heavily damaging a fourth. ](/news/2016/03/9/in-seattle-washington-a-seattle-fire-department-crew-responding-to-reports-of-a-natural-gas-leak-in-the-greenwood-neighborhood-are-caugh.md)
@@ -61,7 +61,7 @@ At least eight people have been shot and five killed in a mass shooting in the U
 
 ##### Peruvian general election, 2016
 ### [Peru's electoral court bans two leading candidates - Julio Guzman and Cesar Acuna Peralta - from participating in next month's election due to breaches of electoral law. ](/news/2016/03/9/peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-participating-in-next-month-s-election-du.md)
-_Context: Peruvian general election, 2016, Cesar Acuna Peralta, Peru, Julio Guzman_
+_Context: Julio Guzman, Cesar Acuna Peralta, Peru, Peruvian general election, 2016_
 
 ##### president
 ### [Former President of Brazil Luiz Inacio Lula da Silva is charged with money laundering. ](/news/2016/03/9/former-president-of-brazil-luiz-ina-cio-lula-da-silva-is-charged-with-money-laundering.md)

@@ -29,7 +29,7 @@ _Context: Iran, British_
 
 ##### North Korea
 ### [North and South Korea resume talks in the border village of Panmunjon in efforts to defuse recent tensions. ](/news/2015/08/23/north-and-south-korea-resume-talks-in-the-border-village-of-panmunjon-in-efforts-to-defuse-recent-tensions.md)
-_Context: Panmunjon, South Korea, North Korea_
+_Context: South Korea, Panmunjon, North Korea_
 
 ##### Malaysia
 ### [Malaysia finds the bodies of more than 20 people believed to be victims of human trafficking in mass graves buried near the border with Thailand. ](/news/2015/08/23/malaysia-finds-the-bodies-of-more-than-20-people-believed-to-be-victims-of-human-trafficking-in-mass-graves-buried-near-the-border-with-thai.md)
@@ -37,7 +37,7 @@ The remains of two dozen people have been found near the border with Thailand, p
 
 ##### Iowa
 ### [Authorities arrest two Iowa men in Saugus, Massachusetts after heavy firearms are discovered in their hotel room. The two men had made threats on social media stating their targeting of the 2015 Pokemon Video Game World Championships that are being held in Boston. ](/news/2015/08/23/authorities-arrest-two-iowa-men-in-saugus-massachusetts-after-heavy-firearms-are-discovered-in-their-hotel-room-the-two-men-had-made-threa.md)
-_Context: Iowa, 2015 Pokemon Video Game World Championships, Boston, Saugus, Massachusetts_
+_Context: 2015 Pokemon Video Game World Championships, Iowa, Saugus, Massachusetts, Boston_
 
 ## [Previous Day...](/news/2015/08/22/index.md)
 

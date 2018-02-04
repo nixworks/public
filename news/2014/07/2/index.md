@@ -17,7 +17,7 @@ _Context: Genentech Inc., Roche Holding AG, biotechnology_
 
 ##### 2014 Atlantic hurricane season
 ### [Tropical Storm Arthur heads towards the US coast with a hurricane warning in place for the state of North Carolina. A mandatory evacuation is ordered for Hatteras Island in the Outer Banks. ](/news/2014/07/2/tropical-storm-arthur-heads-towards-the-us-coast-with-a-hurricane-warning-in-place-for-the-state-of-north-carolina-a-mandatory-evacuation-i.md)
-_Context: 2014 Atlantic hurricane season, North Carolina, Hatteras Island, Outer Banks, Arthur_
+_Context: 2014 Atlantic hurricane season, Arthur, Outer Banks, Hatteras Island, North Carolina_
 
 ##### Manitoba
 ### [Widespread flooding in the Canadian provinces of Manitoba and Saskatchewan leads to the declaration of states of emergencies in 87 municipalities. ](/news/2014/07/2/widespread-flooding-in-the-canadian-provinces-of-manitoba-and-saskatchewan-leads-to-the-declaration-of-states-of-emergencies-in-87-municipal.md)

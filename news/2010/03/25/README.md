@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/25/index.html)  [JSON](2010/03/25/index.json)  [XML](201
 
 ##### Colombia
 ### [A car bomb killed at least 6 people and wounded more than 40 others in a Colombia's Buenaventura city notorious for cocaine trafficking. ](/news/2010/03/25/a-car-bomb-killed-at-least-6-people-and-wounded-more-than-40-others-in-a-colombia-s-buenaventura-city-notorious-for-cocaine-trafficking.md)
-_Context: cocaine, Colombia, Buenaventura_
+_Context: cocaine, Buenaventura, Colombia_
 
 ##### Rustam Minnikhanov
 ### [Rustam Minnikhanov is sworn in as the second president of Tatarstan. ](/news/2010/03/25/rustam-minnikhanov-is-sworn-in-as-the-second-president-of-tatarstan.md)
@@ -21,7 +21,7 @@ _Context: Gaza Strip, Israel_
 
 ##### United States
 ### [The United States weakens proposed sanctions against Iran in a bid to win broader support on the UN Security Council as Iranian President Mahmoud Ahmadinejad dismisses the impact of any new measures to stop Iran's nuclear program. ](/news/2010/03/25/the-united-states-weakens-proposed-sanctions-against-iran-in-a-bid-to-win-broader-support-on-the-un-security-council-as-iranian-president-ma.md)
-_Context: Iran and weapons of mass destruction, Security Council, Iran, Mahmoud Ahmadinejad, United States_
+_Context: Iran and weapons of mass destruction, Iran, Security Council, Mahmoud Ahmadinejad, United States_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md)
@@ -37,11 +37,11 @@ _Context: Somalia, Mogadishu_
 
 ##### U.S. President
 ### [President of the United States Barack Obama requests that Cuba's leaders release all political prisoners, describing human rights there as "deeply disturbing". ](/news/2010/03/25/president-of-the-united-states-barack-obama-requests-that-cuba-s-leaders-release-all-political-prisoners-describing-human-rights-there-as.md)
-_Context: U.S. President, Barack Obama, Cuba, political prisoner_
+_Context: Cuba, political prisoner, U.S. President, Barack Obama_
 
 ##### Tennessee
 ### [3 die in a medical helicopter crash in Tennessee, United States, with the helicopter that crashed being operated by Hospital Wing. ](/news/2010/03/25/3-die-in-a-medical-helicopter-crash-in-tennessee-united-states-with-the-helicopter-that-crashed-being-operated-by-hospital-wing.md)
-_Context: United States, Tennessee, Hospital Wing_
+_Context: Tennessee, Hospital Wing, United States_
 
 ##### United States Secretary of Defense
 ### [U.S. defense secretary Robert Gates announces new rules that make it more difficult to expel gay service members. ](/news/2010/03/25/u-s-defense-secretary-robert-gates-announces-new-rules-that-make-it-more-difficult-to-expel-gay-service-members.md)

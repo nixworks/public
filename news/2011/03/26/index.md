@@ -9,7 +9,7 @@ Five suspected al Qaeda members were killed in a clash with Yemeni forces when t
 
 ##### New People's Army
 ### [Three people are killed by leftist rebels in Tampakan, southern Philippines. ](/news/2011/03/26/three-people-are-killed-by-leftist-rebels-in-tampakan-southern-philippines.md)
-_Context: Tampakan, New People's Army, Philippines_
+_Context: Philippines, New People's Army, Tampakan_
 
 ##### Hamas
 ### [Hamas states that it will agree to a ceasefire and halt their rocket fire at Israel if Israel stops attacking targets in the Gaza Strip. ](/news/2011/03/26/hamas-states-that-it-will-agree-to-a-ceasefire-and-halt-their-rocket-fire-at-israel-if-israel-stops-attacking-targets-in-the-gaza-strip.md)
@@ -49,11 +49,11 @@ Follow our rolling coverage of today&#039;s marches which saw an estimated 400,0
 
 ##### Geraldine Ferraro
 ### [Geraldine Ferraro, a Democratic Party Congresswoman and the first woman to stand for Vice-President of the United States on a major party ticket dies in Boston. ](/news/2011/03/26/geraldine-ferraro-a-democratic-party-congresswoman-and-the-first-woman-to-stand-for-vice-president-of-the-united-states-on-a-major-party-ti.md)
-_Context: Vice-President of the United States, Democrat, House of Representatives, Geraldine Ferraro, Boston, Massachusetts_
+_Context: Geraldine Ferraro, Boston, Massachusetts, House of Representatives, Vice-President of the United States, Democrat_
 
 ##### Governor-General of Canada
 ### [The Governor-General of Canada David Johnston dissolves the Parliament of Canada and issues writs for the Canadian federal election. ](/news/2011/03/26/the-governor-general-of-canada-david-johnston-dissolves-the-parliament-of-canada-and-issues-writs-for-the-canadian-federal-election.md)
-_Context: Governor-General of Canada, 2011 Canadian federal election, Parliament of Canada, David Johnston_
+_Context: 2011 Canadian federal election, Parliament of Canada, David Johnston, Governor-General of Canada_
 
 ## [Previous Day...](/news/2011/03/25/index.md)
 

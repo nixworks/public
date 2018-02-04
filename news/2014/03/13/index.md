@@ -41,7 +41,7 @@ Police at the scene of a helicopter crash in south Norfolk in which four men hav
 
 ##### Murderer
 ### [Murderer and Sex Offender Brett Peter Cowan is sentenced to life imprisonment with a non-parole period of 20 years after being found guilty of murder, improperly interfering with a corpse and indecently dealing with a child under the age of 16 following the murder of Daniel Morcombe on the Sunshine Coast in December 2003. ](/news/2014/03/13/murderer-and-sex-offender-brett-peter-cowan-is-sentenced-to-life-imprisonment-with-a-non-parole-period-of-20-years-after-being-found-guilty.md)
-_Context: Sex Offender, life imprisonment, Brett Peter Cowan, Sunshine Coast, murder of Daniel Morcombe, Murderer_
+_Context: Sunshine Coast, life imprisonment, Murderer, Brett Peter Cowan, murder of Daniel Morcombe, Sex Offender_
 
 ##### David Willetts
 ### [David Willetts, the UK science minister, announces GBP11m of funding for data processing linked to the Square Kilometre Array. ](/news/2014/03/13/david-willetts-the-uk-science-minister-announces-agbp11m-of-funding-for-data-processing-linked-to-the-square-kilometre-array.md)

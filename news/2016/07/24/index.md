@@ -41,11 +41,11 @@ The head of the Democratic Party resigned on Sunday amid a furor over embarrassi
 
 ##### Prime Minister
 ### [Nepal's Prime Minister Khadga Prasad Oli resigns minutes before parliament was to vote on a no confidence motion he was likely to lose, after allies of his multi-party coalition leave the government accusing him of not honoring power sharing deals that helped him assume office in October 2015. ](/news/2016/07/24/nepal-s-prime-minister-khadga-prasad-oli-resigns-minutes-before-parliament-was-to-vote-on-a-no-confidence-motion-he-was-likely-to-lose-afte.md)
-_Context: parliament, Prime Minister, Khadga Prasad Oli_
+_Context: Prime Minister, parliament, Khadga Prasad Oli_
 
 ##### July 2016 Turkish ''coup d'etat'' attempt
 ### [In an unusual show of unity, tens of thousands of supporters of Turkey's ruling party and the country's main opposition parties hold a cross-party "Republic and Democracy" rally in support of democracy in Istanbul's central Taksim Square. ](/news/2016/07/24/in-an-unusual-show-of-unity-tens-of-thousands-of-supporters-of-turkey-s-ruling-party-and-the-country-s-main-opposition-parties-hold-a-cross.md)
-_Context: ruling party, Taksim Square, Istanbul, CHP, July 2016 Turkish ''coup d'etat'' attempt, Turkish_
+_Context: Istanbul, Taksim Square, CHP, ruling party, Turkish, July 2016 Turkish ''coup d'etat'' attempt_
 
 ## [Previous Day...](/news/2016/07/23/index.md)
 

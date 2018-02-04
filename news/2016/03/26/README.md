@@ -13,7 +13,7 @@ Veteran rockers become first western band to play in an open-air concert in Hava
 
 ##### Tribeca Film Festival
 ### [Tribeca Film Festival co-founder Robert De Niro announces the film, "Vaxxed: From Cover-Up to Catastrophe", will not be screened at the 2016 Festival as previously announced. "Grace [Hightower] and I have a child with autism and we believe it is critical that all of the issues surrounding the causes of autism be openly discussed and examined," Mr. De Niro said. "... (our) Tribeca Film Festival team and others from the scientific community ... do not believe (this film) contributes to or furthers the discussion (about autism) I hoped for," the actor-producer said. ](/news/2016/03/26/tribeca-film-festival-co-founder-robert-de-niro-announces-the-film-vaxxed-from-cover-up-to-catastrophe-will-not-be-screened-at-the-2016.md)
-_Context: Vaxxed: From Cover-Up to Catastrophe, Tribeca Film Festival, Grace [Hightower, autism, Robert De Niro_
+_Context: Robert De Niro, autism, Grace [Hightower, Tribeca Film Festival, Vaxxed: From Cover-Up to Catastrophe_
 
 ##### The Independent
 ### [British newspaper "The Independent" publishes its last print edition. ](/news/2016/03/26/british-newspaper-the-independent-publishes-its-last-print-edition.md)
@@ -41,7 +41,7 @@ High school athletes who focus on a single sport may be at increased risk for kn
 
 ##### United States
 ### [U.S. Chairman of the Joint Chiefs of Staff Joseph Dunford makes a proposal to President Barack Obama to increase the number of American troops in Iraq, so as to help the Iraqi Army with advisors closer to the front lines and to recapture Mosul, which fell to ISIL in June 2014. ](/news/2016/03/26/u-s-chairman-of-the-joint-chiefs-of-staff-joseph-dunford-makes-a-proposal-to-president-barack-obama-to-increase-the-number-of-american-troo.md)
-_Context: United States military personnel, ISIL, Iraqi Army, United States, Barack Obama, Joseph Dunford, U.S. President, Iraq, Chairman of the Joint Chiefs of Staff, Mosul_
+_Context: U.S. President, Mosul, United States military personnel, Barack Obama, Joseph Dunford, United States, ISIL, Chairman of the Joint Chiefs of Staff, Iraq, Iraqi Army_
 
 ##### 2016 U.S. presidential election
 ### [Voters in the U.S. states of Alaska, Hawaii, and Washington gather for Democratic Party caucuses. ](/news/2016/03/26/voters-in-the-u-s-states-of-alaska-hawaii-and-washington-gather-for-democratic-party-caucuses.md)

@@ -25,19 +25,19 @@ The Alaska Airlines passengers were reportedly not following directions and maki
 
 ##### CNN 2017 undercover videos controversy
 ### [Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris, resign after the publication of a Russia-related article involving President Donald Trump that was retracted. ](/news/2017/06/26/three-cnn-journalists-thomas-frank-eric-lichtblau-and-lex-haris-resign-after-the-publication-of-a-russia-related-article-involving-presi.md)
-_Context: CNN, CNN 2017 undercover videos controversy, Eric Lichtblau, Donald Trump_
+_Context: CNN 2017 undercover videos controversy, Eric Lichtblau, Donald Trump, CNN_
 
 ##### Mongolian presidential election, 2017
 ### [Mongolians go to the polls to elect a new president. The centre-right Democratic Party's Battulga Khaltmaa wins a plurality of votes, but falls short of a majority, necessitating a second round. ](/news/2017/06/26/mongolians-go-to-the-polls-to-elect-a-new-president-the-centre-right-democratic-party-s-battulga-khaltmaa-wins-a-plurality-of-votes-but-fa.md)
-_Context: Mongolian presidential election, 2017, Democratic Party, Battulga Khaltmaa, Mongolia, second round, plurality, President of Mongolia_
+_Context: President of Mongolia, second round, plurality, Battulga Khaltmaa, Democratic Party, Mongolia, Mongolian presidential election, 2017_
 
 ##### Duterty presidency
 ### [President of the Philippines Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate within the minority although government officials deny any issues. ](/news/2017/06/26/president-of-the-philippines-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-cel.md)
-_Context: President, Rodrigo Duterte, Duterty presidency, Independence Day_
+_Context: President, Independence Day, Duterty presidency, Rodrigo Duterte_
 
 ##### Politics of Israel
 ### [The Jewish Agency for Israel Board of Governors cancels Monday's dinner with Israeli Prime Minister Benjamin Netanyahu to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's Western Wall, a compromise agreement reached after three years of intense negotiations. ](/news/2017/06/26/the-jewish-agency-for-israel-board-of-governors-cancels-monday-s-dinner-with-israeli-prime-minister-benjamin-netanyahu-to-protest-sunday-s-d.md)
-_Context: Western Wall, Jewish Agency for Israel, Benjamin Netanyahu, Israeli Prime Minister, Politics of Israel, Board of Governors_
+_Context: Benjamin Netanyahu, Jewish Agency for Israel, Israeli Prime Minister, Western Wall, Politics of Israel, Board of Governors_
 
 ## [Previous Day...](/news/2017/06/25/index.md)
 

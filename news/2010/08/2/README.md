@@ -9,7 +9,7 @@ Sappers find parts of Grad rocket thought to have been one of five fired towards
 
 ##### United Nations
 ### [The United Nations establishes a panel with an Israeli and Turk amongst its members to investigate the Gaza flotilla raid in May. ](/news/2010/08/2/the-united-nations-establishes-a-panel-with-an-israeli-and-turk-amongst-its-members-to-investigate-the-gaza-flotilla-raid-in-may.md)
-_Context: Israel, Gaza flotilla raid, United Nations, Turkish_
+_Context: Israel, Turkish, Gaza flotilla raid, United Nations_
 
 ##### First Folio
 ### [An antiques dealer is imprisoned for handling a copy of the "First Folio" by poet and playwright William Shakespeare, though cleared of actually stealing it, in the UK. ](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-copy-of-the-first-folio-by-poet-and-playwright-william-shakespeare-though-cleared-of-actu.md)
@@ -21,11 +21,11 @@ Cuban President Raul Castro rules out wide-ranging market reforms but says more 
 
 ##### the recent wildfires
 ### [Hundreds of new wildfires erupt in Russia as fire has damaged or destroyed 27 towns and villages. ](/news/2010/08/2/hundreds-of-new-wildfires-erupt-in-russia-as-fire-has-damaged-or-destroyed-27-towns-and-villages.md)
-_Context: the recent wildfires, Russia_
+_Context: Russia, the recent wildfires_
 
 ##### Nigel, Gauteng
 ### [A fire at a retirement home in Nigel, Gauteng, South Africa, kills 18 people. ](/news/2010/08/2/a-fire-at-a-retirement-home-in-nigel-gauteng-south-africa-kills-18-people.md)
-_Context: Nigel, Gauteng, South Africa_
+_Context: South Africa, Nigel, Gauteng_
 
 ##### plane crashes
 ### [Eleven people are killed and four survive after a passenger plane crashes in Russia's Krasnoyarsk territory. ](/news/2010/08/2/eleven-people-are-killed-and-four-survive-after-a-passenger-plane-crashes-in-russia-s-krasnoyarsk-territory.md)
@@ -45,11 +45,11 @@ _Context: Guinea-Bissau, European Union_
 
 ##### government
 ### [The Government of Pakistan summons the British High Commissioner to Islamabad for a "dressing down" by Foreign Minister Shah Mehmood Qureshi over remarks made by the British Prime Minister David Cameron on Pakistan "looking both ways" on terrorism. ](/news/2010/08/2/the-government-of-pakistan-summons-the-british-high-commissioner-to-islamabad-for-a-dressing-down-by-foreign-minister-shah-mehmood-qureshi.md)
-_Context: Shah Mehmood Qureshi, Islamabad, terrorism, Pakistan, Minister of Foreign Affairs, Prime Minister, David Cameron, British, government_
+_Context: Prime Minister, terrorism, David Cameron, Islamabad, Shah Mehmood Qureshi, government, Minister of Foreign Affairs, Pakistan, British_
 
 ##### trial
 ### [The trial of Malaysian opposition leader Anwar Ibrahim on sodomy charges is deferred until August 9. ](/news/2010/08/2/the-trial-of-malaysian-opposition-leader-anwar-ibrahim-on-sodomy-charges-is-deferred-until-august-9.md)
-_Context: trial, sodomy, Malaysia, Anwar Ibrahim_
+_Context: Anwar Ibrahim, trial, Malaysia, sodomy_
 
 ##### China
 ### [A drunk man on a tractor kills 11 people and injures many others in a rampage in northern China. ](/news/2010/08/2/a-drunk-man-on-a-tractor-kills-11-people-and-injures-many-others-in-a-rampage-in-northern-china.md)
@@ -65,7 +65,7 @@ Seven civilians died in continuing violence in the Kashmir Valley on Monday as t
 
 ##### Greece
 ### [A Greek truck drivers strike ends with the situation expected to get back to normal quickly. ](/news/2010/08/2/a-greek-truck-drivers-strike-ends-with-the-situation-expected-to-get-back-to-normal-quickly.md)
-_Context: truck driver, Greece_
+_Context: Greece, truck driver_
 
 ##### House of Representatives
 ### [The United States House of Representatives ethics committee charges California Democrat Maxine Waters with breaking ethics rules. ](/news/2010/08/2/the-united-states-house-of-representatives-ethics-committee-charges-california-democrat-maxine-waters-with-breaking-ethics-rules.md)
@@ -73,7 +73,7 @@ A House ethics panel charged California Democrat Rep. Maxine Waters today with b
 
 ##### Census of Marine Life
 ### [The Census of Marine Life is released after 10 years of study of the worlds oceans showing that there are 230,000 species of animal living there. ](/news/2010/08/2/the-census-of-marine-life-is-released-after-10-years-of-study-of-the-worlds-oceans-showing-that-there-are-230-000-species-of-animal-living-t.md)
-_Context: animal, Census of Marine Life, ocean_
+_Context: animal, ocean, Census of Marine Life_
 
 ## [Previous Day...](/news/2010/08/1/index.md)
 

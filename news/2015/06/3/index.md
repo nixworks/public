@@ -25,7 +25,7 @@ _Context: filling station, Accra, Ghana_
 
 ##### South Korea
 ### [South Korea has successfully test fired two ballistic missiles that can hit all of North Korea. ](/news/2015/06/3/south-korea-has-successfully-test-fired-two-ballistic-missiles-that-can-hit-all-of-north-korea.md)
-_Context: North Korea, ballistic missile, South Korea_
+_Context: South Korea, ballistic missile, North Korea_
 
 ##### 2015 FIFA corruption case
 ### [Interpol issues red notices linked to arrest warrants for two former FIFA officials Jack Warner and Nicolas Leoz and four executives. ](/news/2015/06/3/interpol-issues-red-notices-linked-to-arrest-warrants-for-two-former-fifa-officials-jack-warner-and-nicolas-leoz-and-four-executives.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2006/10/10/index.html)  [JSON](2006/10/10/index.json)  [XML](200
 
 ##### Chiantla
 ### [ A passenger bus plunges into a ravine near the city of Chiantla in northwestern Guatemala, killing 42 people. ](/news/2006/10/10/a-passenger-bus-plunges-into-a-ravine-near-the-city-of-chiantla-in-northwestern-guatemala-killing-42-people.md)
-_Context: Guatemala, Chiantla_
+_Context: Chiantla, Guatemala_
 
 ##### BP
 ### [ BP shuts down the Prudhoe Bay oil fields due to losing power as a result of high winds. ](/news/2006/10/10/bp-shuts-down-the-prudhoe-bay-oil-fields-due-to-losing-power-as-a-result-of-high-winds.md)
@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Atlantic Airways Flight 670
 ### [ A chartered Atlantic Airways Flight 670 skids off the runway at Stord Airport in Norway, killing four people. ](/news/2006/10/10/a-chartered-atlantic-airways-flight-670-skids-off-the-runway-at-stord-airport-in-norway-killing-four-people.md)
-_Context: Norway, Stord Airport, Atlantic Airways Flight 670_
+_Context: Norway, Atlantic Airways Flight 670, Stord Airport_
 
 ##### insurgents
 ### [ Iraqi police announce they have found a total of 110 corpses at locations across Baghdad in the previous 48 hours, thought to be more victims of insurgent death squads. In addition, a bomb planted under a car explodes in the city's southern district of Doura, killing 10 people. ](/news/2006/10/10/iraqi-police-announce-they-have-found-a-total-of-110-corpses-at-locations-across-baghdad-in-the-previous-48-hours-thought-to-be-more-victi.md)
@@ -25,15 +25,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### bomb attack
 ### [ Six people die in a bomb attack on a festival in the town of Makilala in the Philippines. Two others are killed and four injured in a blast at a market in Tacurong, Sultan Kudarat. Officials blame Muslim extremist groups. ](/news/2006/10/10/six-people-die-in-a-bomb-attack-on-a-festival-in-the-town-of-makilala-in-the-philippines-two-others-are-killed-and-four-injured-in-a-blast.md)
-_Context: Sultan Kudarat, bomb attack, Philippines, Tacurong, Makilala_
+_Context: Tacurong, Philippines, Makilala, bomb attack, Sultan Kudarat_
 
 ##### Bayelsa
 ### [ A naval base and oil facility in Bayelsa State, Nigeria, are captured by armed attackers who are now thought to be holding 60 people hostage. ](/news/2006/10/10/a-naval-base-and-oil-facility-in-bayelsa-state-nigeria-are-captured-by-armed-attackers-who-are-now-thought-to-be-holding-60-people-hostag.md)
-_Context: Nigeria, Bayelsa_
+_Context: Bayelsa, Nigeria_
 
 ##### made a protest
 ### [ Hundreds of thousands of people made a protest against President Chen Shui-bian in Taipei, Taiwan, surrounding Office of the President, where Chen took part in ceremony marking Double Tenth Day. ](/news/2006/10/10/hundreds-of-thousands-of-people-made-a-protest-against-president-chen-shui-bian-in-taipei-taiwan-surrounding-office-of-the-president-whe.md)
-_Context: President, Taiwan, Office of the President, Chen Shui-bian, Taipei, Double Tenth Day, made a protest_
+_Context: Taiwan, Office of the President, President, Chen Shui-bian, made a protest, Taipei, Double Tenth Day_
 
 ## [Previous Day...](/news/2006/10/9/index.md)
 

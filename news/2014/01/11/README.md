@@ -41,7 +41,7 @@ Get the latest health&nbsp;news, diet &amp; fitness information, medical researc
 
 ##### chemical leak
 ### [A chemical leak in West Virginia morphs into a crisis after the contamination of a portion of the state's water supply. ](/news/2014/01/11/a-chemical-leak-in-west-virginia-morphs-into-a-crisis-after-the-contamination-of-a-portion-of-the-state-s-water-supply.md)
-_Context: West Virginia, water supply, chemical leak_
+_Context: water supply, chemical leak, West Virginia_
 
 ##### Cyclone Ian
 ### [Cyclone Ian strikes Tonga with damage to buildings reported. ](/news/2014/01/11/cyclone-ian-strikes-tonga-with-damage-to-buildings-reported.md)
@@ -65,7 +65,7 @@ At least 100,000 people march through the northern Spanish city of Bilbao after 
 
 ##### X-ray astronomers
 ### [X-ray astronomers find evidence of a black hole at the center of a dwarf galaxy gobbling up a star; this is the first such event ever filmed. ](/news/2014/01/11/x-ray-astronomers-find-evidence-of-a-black-hole-at-the-center-of-a-dwarf-galaxy-gobbling-up-a-star-this-is-the-first-such-event-ever-filmed.md)
-_Context: black hole, X-ray astronomers, star, dwarf galaxy_
+_Context: black hole, dwarf galaxy, X-ray astronomers, star_
 
 ##### Prime Minister of Israel
 ### [Former Israeli Prime Minister Ariel Sharon dies at the age of 85 after spending eight years in a coma following a stroke. ](/news/2014/01/11/former-israeli-prime-minister-ariel-sharon-dies-at-the-age-of-85-after-spending-eight-years-in-a-coma-following-a-stroke.md)

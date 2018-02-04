@@ -9,27 +9,27 @@ Congress formally tallies the results of the 2008 presidential election, certify
 
 ##### Pakistan
 ### [ Pakistan confirms that Ajmal Amir, the last surviving participant in the 2008 terrorist attacks on Mumbai, India, is a Pakistani citizen, but dismisses National Security Advisor Mahmud Ali Durrani for making the admission. ](/news/2009/01/8/pakistan-confirms-that-ajmal-amir-the-last-surviving-participant-in-the-2008-terrorist-attacks-on-mumbai-india-is-a-pakistani-citizen-b.md)
-_Context: Pakistan, National Security Advisor, India, 2008 Mumbai attacks, Ajmal Amir, Mumbai, Mahmud Ali Durrani_
+_Context: Mumbai, 2008 Mumbai attacks, India, National Security Advisor, Mahmud Ali Durrani, Pakistan, Ajmal Amir_
 
 ##### rocket
 ### [ Several rockets fired from Lebanon strike the Israeli city of Nahariya. Hezbollah denies responsibility for the attack. ](/news/2009/01/8/several-rockets-fired-from-lebanon-strike-the-israeli-city-of-nahariya-hezbollah-denies-responsibility-for-the-attack.md)
-_Context: Nahariya, rocket, Hezbollah, Israel, Lebanon_
+_Context: rocket, Lebanon, Nahariya, Israel, Hezbollah_
 
 ##### Bank of England
 ### [ The Bank of England cuts interest rates to 1.5 percent, its lowest level in its 315-year history. ](/news/2009/01/8/the-bank-of-england-cuts-interest-rates-to-1-5-percent-its-lowest-level-in-its-315-year-history.md)
-_Context: interest rate, Bank of England_
+_Context: Bank of England, interest rate_
 
 ##### Russia
 ### [ Russia and Ukraine agree to resend natural gas through pipelines to Europe. ](/news/2009/01/8/russia-and-ukraine-agree-to-resend-natural-gas-through-pipelines-to-europe.md)
-_Context: Russia, Europe, natural gas, line, Ukraine, Russia-Ukraine gas disputes_
+_Context: Russia, Ukraine, Russia-Ukraine gas disputes, line, Europe, natural gas_
 
 ##### Lasantha Wickrematunge
 ### [ Lasantha Wickrematunge is assassinated in Sri Lanka ](/news/2009/01/8/lasantha-wickrematunge-is-assassinated-in-sri-lanka.md)
-_Context: Lasantha Wickrematunge, Sri Lanka_
+_Context: Sri Lanka, Lasantha Wickrematunge_
 
 ##### Sri Lanka
 ### [ The Sri Lankan Army recaptures the village of Pallai from the Tamil Tigers in an effort to reach the Jaffna Peninsula. ](/news/2009/01/8/the-sri-lankan-army-recaptures-the-village-of-pallai-from-the-tamil-tigers-in-an-effort-to-reach-the-jaffna-peninsula.md)
-_Context: Army, LTTE, Jaffna Peninsula, Sri Lanka_
+_Context: LTTE, Jaffna Peninsula, Army, Sri Lanka_
 
 ##### North Korea
 ### [ North Korea announces it will hold its delayed parliamentary election on March 8. ](/news/2009/01/8/north-korea-announces-it-will-hold-its-delayed-parliamentary-election-on-march-8.md)

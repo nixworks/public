@@ -17,7 +17,7 @@ _Context: Mozambique, tropical storm_
 
 ##### FBI
 ### [The FBI shuts down Megaupload. In response, hacker group Anonymous shuts down the United States Department of Justice website and many websites of the government and entertainment industry. ](/news/2012/01/19/the-fbi-shuts-down-megaupload-in-response-hacker-group-anonymous-shuts-down-the-united-states-department-of-justice-website-and-many-websi.md)
-_Context: hacker group Anonymous, Megaupload, DoJ, FBI_
+_Context: Department of Justice, FBI, Megaupload, hacker group Anonymous_
 
 ##### News International
 ### [News International pays out compensation to 37 people, including the actor Jude Law and politician John Prescott. over phone hacking by the "News of the World". ](/news/2012/01/19/news-international-pays-out-compensation-to-37-people-including-the-actor-jude-law-and-politician-john-prescott-over-phone-hacking-by-the.md)
@@ -33,7 +33,7 @@ The army in Bangladesh foils a coup planned against the government of Prime Mini
 
 ##### Rick Perry
 ### [Rick Perry drops out of the 2012 Republican Party presidential primaries and endorses rival candidate Newt Gingrich. ](/news/2012/01/19/rick-perry-drops-out-of-the-2012-republican-party-presidential-primaries-and-endorses-rival-candidate-newt-gingrich.md)
-_Context: Rick Perry, Republican primaries, Newt Gingrich_
+_Context: Republican primaries, Rick Perry, Newt Gingrich_
 
 ##### International Telecommunication Union
 ### [A decision by the International Telecommunication Union on whether to abolish the leap second is postponed until 2015 pending the results of further studies. ](/news/2012/01/19/a-decision-by-the-international-telecommunication-union-on-whether-to-abolish-the-leap-second-is-postponed-until-2015-pending-the-results-of.md)

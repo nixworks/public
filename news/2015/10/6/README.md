@@ -5,7 +5,7 @@ Formats: [HTML](2015/10/6/index.html)  [JSON](2015/10/6/index.json)  [XML](2015/
 
 ##### Yemeni Civil War (2015)
 ### [A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. ](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.md)
-_Context: Houthi, Khaled Bahah, Aden, Saudi Arabian-led intervention in Yemen, Yemeni Civil War (2015), Yemen, ISIL, Prime Minister, Vice President of Yemen_
+_Context: Yemeni Civil War (2015), Yemen, Prime Minister, Aden, Vice President of Yemen, ISIL, Khaled Bahah, Houthi, Saudi Arabian-led intervention in Yemen_
 
 ##### Syrian Civil War
 ### [NATO Secretary-General Jens Stoltenberg says Russia's pair of violations of Turkish airspace over the weekend do not look like accidents. Russia, which said it's looking into claims of a second violation, reported the first violation lasted a few seconds and was due to poor weather. ](/news/2015/10/6/nato-secretary-general-jens-stoltenberg-says-russia-s-pair-of-violations-of-turkish-airspace-over-the-weekend-do-not-look-like-accidents-ru.md)
@@ -13,7 +13,7 @@ Russian jets hit Islamic State targets in the Syrian city of Palmyra and the nor
 
 ##### Iraqi Civil War (2014-present)
 ### [Russia says it would consider extending its air-strikes against Islamic State militants in Syria to Iraq if it receives such a request from the Iraqi government. Iraqi President, Fuad Masum has recently said he would welcome this assistance. ](/news/2015/10/6/russia-says-it-would-consider-extending-its-air-strikes-against-islamic-state-militants-in-syria-to-iraq-if-it-receives-such-a-request-from.md)
-_Context: Russia, ISIL, Iraq, Iraqi Civil War (2014-present), Fuad Masum_
+_Context: Russia, Iraq, Fuad Masum, ISIL, Iraqi Civil War (2014-present)_
 
 ##### Boko Haram insurgency
 ### [A Boko Haram attack near Lake Chad kills at least 11 Chadian troops while 17 Boko Haram militants are also reportedly killed in the fighting following the pre-dawn strike on Chadian army positions. ](/news/2015/10/6/a-boko-haram-attack-near-lake-chad-kills-at-least-11-chadian-troops-while-17-boko-haram-militants-are-also-reportedly-killed-in-the-fighting.md)
@@ -25,7 +25,7 @@ The decision by the European Court of Justice throws into doubt how tech giants 
 
 ##### Typhoon Mujigae (2015)
 ### [Sixteen campers are missing in south China's Guangxi Zhuang Autonomous Region following a flash flood in a camping reserve. ](/news/2015/10/6/sixteen-campers-are-missing-in-south-china-s-guangxi-zhuang-autonomous-region-following-a-flash-flood-in-a-camping-reserve.md)
-_Context: Guangxi Zhuang Autonomous Region, Typhoon Mujigae (2015), flash flood, China_
+_Context: Typhoon Mujigae (2015), China, flash flood, Guangxi Zhuang Autonomous Region_
 
 ##### October 2015 nor'easter
 ### [Thirteen people are reported to have died during this storm, 11 in South Carolina and two in North Carolina. At least 18 dams have breached or failed since Saturday. Communities downstream face a mass of water working its way toward the low-lying coast. ](/news/2015/10/6/thirteen-people-are-reported-to-have-died-during-this-storm-11-in-south-carolina-and-two-in-north-carolina-at-least-18-dams-have-breached.md)
@@ -37,7 +37,7 @@ Hopes are fading in Guatemala of more survivors of a landslide on the outskirts 
 
 ##### Israeli-Palestinian conflict
 ### [Israel destroys the homes of three Palestinian terrorists. Rassen and Udai abu-Jamal who committed the 2014 Jerusalem synagogue attack and Moatez Hijazi who committed the excavator rampage in Jerusalem during the 2014 Israel-Gaza conflict. ](/news/2015/10/6/israel-destroys-the-homes-of-three-palestinian-terrorists-rassen-and-udai-abu-jamal-who-committed-the-2014-jerusalem-synagogue-attack-and-m.md)
-_Context: Jerusalem, 2014 Israel-Gaza conflict, Palestinian, 2014 Jerusalem synagogue attack, Israeli-Palestinian conflict, Israel_
+_Context: 2014 Israel-Gaza conflict, Israel, 2014 Jerusalem synagogue attack, Palestinian, Jerusalem, Israeli-Palestinian conflict_
 
 ##### recent coup
 ### [Associated Press reports that coup leader General Gilbert Diendere has been formally charged. ](/news/2015/10/6/associated-press-reports-that-coup-leader-general-gilbert-dienda-c-ra-c-has-been-formally-charged.md)
@@ -49,7 +49,7 @@ A former president of the UN General Assembly, John Ashe, was arrested on Tuesda
 
 ##### Takaaki Kajita
 ### [Takaaki Kajita and Arthur B. McDonald win the 2015 Nobel Prize in Physics for their discovery of neutrino oscillations. ](/news/2015/10/6/takaaki-kajita-and-arthur-b-mcdonald-win-the-2015-nobel-prize-in-physics-for-their-discovery-of-neutrino-oscillations.md)
-_Context: Takaaki Kajita, neutrino, Arthur B. McDonald, Nobel Prize in Physics_
+_Context: Nobel Prize in Physics, neutrino, Takaaki Kajita, Arthur B. McDonald_
 
 ## [Previous Day...](/news/2015/10/5/index.md)
 

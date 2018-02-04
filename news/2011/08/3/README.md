@@ -25,7 +25,7 @@ _Context: 2011 Christchurch earthquake, New Zealand, Canterbury Region_
 
 ##### Bell 412 helicopter
 ### [Ten people die as a Bell 412 helicopter crashes in Indonesia's North Sulawesi province. ](/news/2011/08/3/ten-people-die-as-a-bell-412-helicopter-crashes-in-indonesia-s-north-sulawesi-province.md)
-_Context: Indonesia, Bell 412 helicopter, North Sulawesi_
+_Context: Indonesia, North Sulawesi, Bell 412 helicopter_
 
 ##### Computer security
 ### [Computer security firm McAfee uncovers one of the largest series of cyber attacks against the International Olympic Committee, Indian government, the United Nations, the steel industry and defence and security firms. ](/news/2011/08/3/computer-security-firm-mcafee-uncovers-one-of-the-largest-series-of-cyber-attacks-against-the-international-olympic-committee-indian-govern.md)
@@ -33,19 +33,19 @@ The UN and the International Olympic Committee were among those targeted by one 
 
 ##### President
 ### [The former President of Egypt, Hosni Mubarak, leaves the resort town of Sharm el-Sheikh, Egypt to return to Cairo for his trial. ](/news/2011/08/3/the-former-president-of-egypt-hosni-mubarak-leaves-the-resort-town-of-sharm-el-sheikh-egypt-to-return-to-cairo-for-his-trial.md)
-_Context: President, Cairo, Sharm el-Sheikh, trial, Hosni Mubarak_
+_Context: Cairo, trial, Sharm el-Sheikh, Hosni Mubarak, President_
 
 ##### Heather Mills
 ### [Charity campaigner Heather Mills tells the BBC's "Newsnight" that a senior Mirror Group journalist admitted hacking voicemails left for her by Sir Paul McCartney while they were together. ](/news/2011/08/3/charity-campaigner-heather-mills-tells-the-bbc-s-newsnight-that-a-senior-mirror-group-journalist-admitted-hacking-voicemails-left-for-her.md)
-_Context: Newsnight, Paul McCartney, Heather Mills, Mirror Group_
+_Context: Heather Mills, Newsnight, Paul McCartney, Mirror Group_
 
 ##### United Kingdom Parliamentary expenses scandal
 ### [Luke March, who was charged with investigating the United Kingdom Parliamentary expenses scandal, resigns from the Independent Parliamentary Standards Authority after refusing to name those under suspicion. ](/news/2011/08/3/luke-march-who-was-charged-with-investigating-the-united-kingdom-parliamentary-expenses-scandal-resigns-from-the-independent-parliamentary.md)
-_Context: Independent Parliamentary Standards Authority, United Kingdom Parliamentary expenses scandal_
+_Context: United Kingdom Parliamentary expenses scandal, Independent Parliamentary Standards Authority_
 
 ##### MPs
 ### [The Iranian parliament confirms four new ministers including Rostam Ghasemi as Minister of Petroleum. ](/news/2011/08/3/the-iranian-parliament-confirms-four-new-ministers-including-rostam-ghasemi-as-minister-of-petroleum.md)
-_Context: Iran's oil ministry, Rostam Ghasemi, MPs_
+_Context: Rostam Ghasemi, Iran's oil ministry, MPs_
 
 ##### David Wu
 ### [David Wu resigns his seat representing Oregon's 1st congressional district in the United States House of Representatives as a result of a sex scandal. ](/news/2011/08/3/david-wu-resigns-his-seat-representing-oregon-s-1st-congressional-district-in-the-united-states-house-of-representatives-as-a-result-of-a-se.md)

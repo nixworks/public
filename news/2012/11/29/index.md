@@ -9,7 +9,7 @@ Syrian rebels battled forces loyal to President Bashar al-Assad just outside Dam
 
 ##### Shia Muslim
 ### [Bombs in two majority Shia Muslim cities in southern Iraq, Hillah and Karbala, kill at least 30 people and wound more than 100. ](/news/2012/11/29/bombs-in-two-majority-shia-muslim-cities-in-southern-iraq-hillah-and-karbala-kill-at-least-30-people-and-wound-more-than-100.md)
-_Context: Iraq, Shia Muslim, Karbala, Hillah_
+_Context: Iraq, Hillah, Shia Muslim, Karbala_
 
 ##### police
 ### [Police in Burma break up a three-month-long protest against the expansion of a copper mine run by the military and a Chinese company. ](/news/2012/11/29/police-in-burma-break-up-a-three-month-long-protest-against-the-expansion-of-a-copper-mine-run-by-the-military-and-a-chinese-company.md)
@@ -49,7 +49,7 @@ President Barack Obama and his vanquished Republican challenger, Mitt Romney, sa
 
 ##### Draft constitution
 ### [A committee charged with developing a new Egyptian constitution releases a final draft as protests against sweeping new powers granted to President Mohamed Morsi continue. ](/news/2012/11/29/a-committee-charged-with-developing-a-new-egyptian-constitution-releases-a-final-draft-as-protests-against-sweeping-new-powers-granted-to-pr.md)
-_Context: President, Mohamed Morsi, Draft constitution_
+_Context: Mohamed Morsi, President, Draft constitution_
 
 ##### Michigan State Senator
 ### [Michigan State Senator Rick Jones of the Republican Party proposes dissolving the city of Detroit due to financial problems. ](/news/2012/11/29/michigan-state-senator-rick-jones-of-the-republican-party-proposes-dissolving-the-city-of-detroit-due-to-financial-problems.md)

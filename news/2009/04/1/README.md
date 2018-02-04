@@ -5,11 +5,11 @@ Formats: [HTML](2009/04/1/index.html)  [JSON](2009/04/1/index.json)  [XML](2009/
 
 ##### United States
 ### [ The 72-year-old American soap opera "Guiding Light" will broadcast its final episode on September 18. ](/news/2009/04/1/the-72-year-old-american-soap-opera-guiding-light-will-broadcast-its-final-episode-on-september-18.md)
-_Context: Guiding Light, broadcaster, soap opera, United States_
+_Context: broadcaster, soap opera, United States, Guiding Light_
 
 ##### United States
 ### [ The United States and Russia begin Strategic Arms Limitation Talks. ](/news/2009/04/1/the-united-states-and-russia-begin-strategic-arms-limitation-talks.md)
-_Context: Russia, Strategic Arms Limitation Talks, United States_
+_Context: Strategic Arms Limitation Talks, Russia, United States_
 
 ##### local government
 ### [ Local government in England undergoes structural changes. ](/news/2009/04/1/local-government-in-england-undergoes-structural-changes.md)
@@ -17,27 +17,27 @@ _Context: structural changes, local government, England_
 
 ##### Ukraine
 ### [ Ukraine will hold a presidential election on October 25. ](/news/2009/04/1/ukraine-will-hold-a-presidential-election-on-october-25.md)
-_Context: Ukraine, election, Ukrainian President_
+_Context: election, Ukrainian President, Ukraine_
 
 ##### Eurocopter AS332
 ### [ At least eight people are killed when a Eurocopter AS332 ditches into the North Sea. ](/news/2009/04/1/at-least-eight-people-are-killed-when-a-eurocopter-as332-ditches-into-the-north-sea.md)
-_Context: Eurocopter AS332, North Sea, ditches_
+_Context: ditches, Eurocopter AS332, North Sea_
 
 ##### protest
 ### [ Five thousand people protest in London as the G-20 begins its summit. ](/news/2009/04/1/five-thousand-people-protest-in-london-as-the-g-20-begins-its-summit.md)
-_Context: London, announces, protest, G-20_
+_Context: announces, G-20, London, protest_
 
 ##### Israel
 ### [ Israeli Foreign Affairs Minister Avigdor Lieberman says that the Annapolis Conference "has no validity." ](/news/2009/04/1/israeli-foreign-affairs-minister-avigdor-lieberman-says-that-the-annapolis-conference-has-no-validity.md)
-_Context: Avigdor Lieberman, Foreign Minister, Annapolis Conference, Israel_
+_Context: Avigdor Lieberman, Israel, Annapolis Conference, Foreign Minister_
 
 ##### NSW
 ### [ New South Wales, Australia, declares its flooded Mid North Coast a disaster area. ](/news/2009/04/1/new-south-wales-australia-declares-its-flooded-mid-north-coast-a-disaster-area.md)
-_Context: Australia, disaster area, NSW, flood, Mid North Coast_
+_Context: flood, Mid North Coast, Australia, disaster area, NSW_
 
 ##### Albania
 ### [ Albania and Croatia join the North Atlantic Treaty Organization. ](/news/2009/04/1/albania-and-croatia-join-the-north-atlantic-treaty-organization.md)
-_Context: NATO, Enlargement of NATO, Croatia, Albania_
+_Context: Enlargement of NATO, Croatia, NATO, Albania_
 
 ##### United States
 ### [ The United States' World War II motor ship City of Rayville is located near Australia. ](/news/2009/04/1/the-united-states-world-war-ii-motor-ship-city-of-rayville-is-located-near-australia.md)
@@ -45,11 +45,11 @@ Researchers mapping the sea floor off Victoria have uncovered the rusting wreck 
 
 ##### Sweden
 ### [ Sweden's Parliament legalizes same-sex marriage. ](/news/2009/04/1/sweden-s-parliament-legalizes-same-sex-marriage.md)
-_Context: same-sex marriage, Riksdag, legalizes, Sweden_
+_Context: legalizes, Riksdag, Sweden, same-sex marriage_
 
 ##### bomb
 ### [ A bomb damages a statue of Vladimir Lenin near Finlyandsky Rail Terminal in Saint Petersburg, Russia. ](/news/2009/04/1/a-bomb-damages-a-statue-of-vladimir-lenin-near-finlyandsky-rail-terminal-in-saint-petersburg-russia.md)
-_Context: Saint Petersburg, Finlyandsky Rail Terminal, Russia, Lenin, statue, bomb_
+_Context: Russia, Finlyandsky Rail Terminal, statue, Saint Petersburg, Lenin, bomb_
 
 ## [Previous Day...](/news/2009/03/31/index.md)
 

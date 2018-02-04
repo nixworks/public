@@ -13,7 +13,7 @@ Breaking News from Perth and Western Australia | Perth Now
 
 ##### Union of French Jewish Employers and Professionals
 ### [ The Union of French Jewish Employers and Professionals (UPJF), Conseil Representatif des Institutions juives de France (CRIF), and the Vigilance Bureau against anti-Semitism (BVCA), have denounced a declaration made by French foreign minister Philippe Douste-Blazy who said while visiting Beirut on Monday that Tehran was "a stabilising element in the Middle East."](/news/2006/08/3/the-union-of-french-jewish-employers-and-professionals-upjf-conseil-repra-c-sentatif-des-institutions-juives-de-france-crif-and-the-vig.md)
-_Context: Conseil Representatif des Institutions juives de France, French foreign minister, Beirut, Tehran, Middle East, Philippe Douste-Blazy, Vigilance Bureau against anti-Semitism, Union of French Jewish Employers and Professionals_
+_Context: French foreign minister, Middle East, Vigilance Bureau against anti-Semitism, Beirut, Tehran, Conseil Representatif des Institutions juives de France, Philippe Douste-Blazy, Union of French Jewish Employers and Professionals_
 
 ##### Tropical Depression Chris
 ### [ Tropical Storm Chris weakens and is now expected not to become a hurricane. ](/news/2006/08/3/tropical-storm-chris-weakens-and-is-now-expected-not-to-become-a-hurricane.md)
@@ -21,7 +21,7 @@ _Context: Tropical Depression Chris, hurricane_
 
 ##### Ukraine
 ### [ Ukrainian President Viktor Yushchenko nominates his political rival Viktor Yanukovich to become prime minister.](/news/2006/08/3/ukrainian-president-viktor-yushchenko-nominates-his-political-rival-viktor-yanukovich-to-become-prime-minister.md)
-_Context: Ukraine, Viktor Yushchenko, Viktor Yanukovich_
+_Context: Viktor Yushchenko, Viktor Yanukovich, Ukraine_
 
 ##### Sri Lankan military
 ### [ Clashes between Sri Lanka's army and the Liberation Tigers of Tamil Eelam escalates into the worst violence since they agreed a cease-fire in 2002. ](/news/2006/08/3/clashes-between-sri-lanka-s-army-and-the-liberation-tigers-of-tamil-eelam-escalates-into-the-worst-violence-since-they-agreed-a-cease-fire.md)

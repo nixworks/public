@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/8/index.html)  [JSON](2013/06/8/index.json)  [XML](2013/
 
 ##### Afghanistan
 ### [In Afghanistan, a man wearing an Afghan military uniform attacks and kills three American soldiers, in what appears to be an insider attack on U.S. International Security Assistance Force soldiers, based in east Afghanistan's Paktika Province. ](/news/2013/06/8/in-afghanistan-a-man-wearing-an-afghan-military-uniform-attacks-and-kills-three-american-soldiers-in-what-appears-to-be-an-insider-attack.md)
-_Context: International Security Assistance Force, Paktika Province, Afghanistan, Afghan military, American soldiers_
+_Context: Paktika Province, International Security Assistance Force, Afghanistan, Afghan military, American soldiers_
 
 ##### Syrian Armed Forces
 ### [The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md)
@@ -17,11 +17,11 @@ _Context: Benghazi_
 
 ##### Maiduguri
 ### [At least 21 people are killed in Maiduguri, Nigeria, as the government continues its crack down on Boko Haram militants. ](/news/2013/06/8/at-least-21-people-are-killed-in-maiduguri-nigeria-as-the-government-continues-its-crack-down-on-boko-haram-militants.md)
-_Context: Boko Haram, Maiduguri_
+_Context: Maiduguri, Boko Haram_
 
 ##### Mali
 ### [The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/the-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-agreement.md)
-_Context: Tuareg, Mali, ceasefire_
+_Context: Mali, ceasefire, Tuareg_
 
 ##### Ras Kamboni Movement
 ### [Clashes between the Ras Kamboni Movement and pro-government militia leave at least 18 dead in the Somali port of Kismayu. ](/news/2013/06/8/clashes-between-the-ras-kamboni-movement-and-pro-government-militia-leave-at-least-18-dead-in-the-somali-port-of-kismayu.md)
@@ -57,7 +57,7 @@ Long-serving Tasmanian Speaker Michael Polley has announced he is retiring from 
 
 ##### Sudan
 ### [Sudanese president Omar al-Bashir orders the closure of oil pipelines coming from South Sudan. ](/news/2013/06/8/sudanese-president-omar-al-bashir-orders-the-closure-of-oil-pipelines-coming-from-south-sudan.md)
-_Context: South Sudan, Omar al-Bashir, Sudan_
+_Context: South Sudan, Sudan, Omar al-Bashir_
 
 ##### Massachusetts
 ### [Former governor of Massachusetts and US ambassador Paul Cellucci dies at age 65. ](/news/2013/06/8/former-governor-of-massachusetts-and-us-ambassador-paul-cellucci-dies-at-age-65.md)

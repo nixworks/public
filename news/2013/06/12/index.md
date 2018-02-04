@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/12/index.html)  [JSON](2013/06/12/index.json)  [XML](201
 
 ##### United Nations
 ### [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md)
-_Context: Golan Heights, peacekeepers, United Nations, Austria_
+_Context: United Nations, Austria, Golan Heights, peacekeepers_
 
 ##### Scotland
 ### [Gunmen kidnap a Scottish man working for a British energy company in the Indonesian province of Aceh. ](/news/2013/06/12/gunmen-kidnap-a-scottish-man-working-for-a-british-energy-company-in-the-indonesian-province-of-aceh.md)
@@ -13,7 +13,7 @@ Gunmen have kidnapped a British man working for an energy company in the restive
 
 ##### Greece
 ### [The government of Greece shuts down the public radio and television broadcaster ERT, calling it a "haven of waste". ](/news/2013/06/12/the-government-of-greece-shuts-down-the-public-radio-and-television-broadcaster-ert-calling-it-a-haven-of-waste.md)
-_Context: ERT, Greece_
+_Context: Greece, ERT_
 
 ##### Jiroemon Kimura
 ### [Jiroemon Kimura, who had been the world's oldest living person and the verified longest lived man ever, dies in the Japanese city of Kyotango. ](/news/2013/06/12/jiroemon-kimura-who-had-been-the-world-s-oldest-living-person-and-the-verified-longest-lived-man-ever-dies-in-the-japanese-city-of-kyatan.md)
@@ -77,7 +77,7 @@ Time to rewrite the textbooks!
 
 ##### altitude
 ### [A new study suggests that altitude plays a role in language evolution, explaining why ejective sounds are more popular in languages of high-altitude regions. ](/news/2013/06/12/a-new-study-suggests-that-altitude-plays-a-role-in-language-evolution-explaining-why-ejective-sounds-are-more-popular-in-languages-of-high.md)
-_Context: altitude, ejective, language evolution_
+_Context: ejective, altitude, language evolution_
 
 ## [Previous Day...](/news/2013/06/11/index.md)
 

@@ -17,11 +17,11 @@ _Context: Prime Minister, Felix Kulov, Azim Isabekov_
 
 ##### two years of helping
 ### [ War in Somalia (ICU insurgency): At least two people have been killed, including a Somali police officer, during an hour-long gunbattle in the capital, Mogadishu. ](/news/2007/01/29/war-in-somalia-icu-insurgency-at-least-two-people-have-been-killed-including-a-somali-police-officer-during-an-hour-long-gunbattle-in.md)
-_Context: ICU insurgency, Mogadishu, two years of helping_
+_Context: two years of helping, Mogadishu, ICU insurgency_
 
 ##### suicide bombing
 ### [ Three civilians are killed in a suicide bombing in the southern Israeli city of Eilat. ](/news/2007/01/29/three-civilians-are-killed-in-a-suicide-bombing-in-the-southern-israeli-city-of-eilat.md)
-_Context: Israel, suicide bombing, Eilat_
+_Context: Israel, Eilat, suicide bombing_
 
 ## [Previous Day...](/news/2007/01/28/index.md)
 

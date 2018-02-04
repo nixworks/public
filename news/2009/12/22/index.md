@@ -13,7 +13,7 @@ _Context: Nepal, Nepalese Maoist Party_
 
 ##### suicide bomb
 ### [ A suicide bomb attack in Peshawar, north-western Pakistan, kills three and injures at least seventeen. ](/news/2009/12/22/a-suicide-bomb-attack-in-peshawar-north-western-pakistan-kills-three-and-injures-at-least-seventeen.md)
-_Context: suicide bomb, Pakistan, Peshawar_
+_Context: Peshawar, Pakistan, suicide bomb_
 
 ##### FBI
 ### [ The U.S. Federal Bureau of Investigation releases more than 300 pages of previously classified documents belonging to pop icon Michael Jackson who died earlier in the year. ](/news/2009/12/22/the-u-s-federal-bureau-of-investigation-releases-more-than-300-pages-of-previously-classified-documents-belonging-to-pop-icon-michael-jack.md)
@@ -21,27 +21,27 @@ The US Federal Bureau of Investigation on Tuesday released hundreds of pages fro
 
 ##### Yakutsk
 ### [ Eight Russian circus tigers and a lioness are found dead in Yakutsk having succumbed to intense heat while embarking on a 20-hour drive across Siberia. One dog survives. ](/news/2009/12/22/eight-russian-circus-tigers-and-a-lioness-are-found-dead-in-yakutsk-having-succumbed-to-intense-heat-while-embarking-on-a-20-hour-drive-acr.md)
-_Context: Yakutsk, Siberia_
+_Context: Siberia, Yakutsk_
 
 ##### Eurostar
 ### [ Eurostar finally resumes services after three days of continent-wide weather-related outages. ](/news/2009/12/22/eurostar-finally-resumes-services-after-three-days-of-continent-wide-weather-related-outages.md)
-_Context: weather-related, Eurostar_
+_Context: Eurostar, weather-related_
 
 ##### Serbia
 ### [ Serbia formally submits its application to join the European Union. ](/news/2009/12/22/serbia-formally-submits-its-application-to-join-the-european-union.md)
-_Context: European Union, Serbia_
+_Context: Serbia, European Union_
 
 ##### Gerry Adams
 ### [ It is revealed that the fugitive brother of Gerry Adams has been located in County Sligo after the politician appeals for him to make his whereabouts known. ](/news/2009/12/22/it-is-revealed-that-the-fugitive-brother-of-gerry-adams-has-been-located-in-county-sligo-after-the-politician-appeals-for-him-to-make-his-w.md)
-_Context: County Sligo, Gerry Adams_
+_Context: Gerry Adams, County Sligo_
 
 ##### sheriff's deputie
 ### [ Two sheriff's deputies are injured and a suspect dies in a shooting in Pierce County, Washington, USA. ](/news/2009/12/22/two-sheriff-s-deputies-are-injured-and-a-suspect-dies-in-a-shooting-in-pierce-county-washington-usa.md)
-_Context: shooting, sheriff's deputie, USA, Washington, Pierce County_
+_Context: shooting, USA, Washington, sheriff's deputie, Pierce County_
 
 ##### An armed conflict
 ### [ An armed conflict in Dungu (Dongo), quateur Province of Democratic Republic of the Congo has escalated. By 10 December the conflict has left 100 dead and forced 115 000 people to flee their homes. ](/news/2009/12/22/an-armed-conflict-in-dungu-dongo-equateur-province-of-democratic-republic-of-the-congo-has-escalated-by-10-december-the-conflict-has-le.md)
-_Context: DR Congo, quateur, An armed conflict_
+_Context: An armed conflict, DR Congo, quateur_
 
 ##### York
 ### [ A priest in York causes controversy when he says shoplifting from large national chain stores is acceptable in certain circumstances. ](/news/2009/12/22/a-priest-in-york-causes-controversy-when-he-says-shoplifting-from-large-national-chain-stores-is-acceptable-in-certain-circumstances.md)

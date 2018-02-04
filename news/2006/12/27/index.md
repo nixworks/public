@@ -13,7 +13,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Kazakhstan
 ### [ The Kazakh KNB has broken up and arrested members of the Stepnogorsk zhamaat terrorist organization, confiscating weapons and religious literature. ](/news/2006/12/27/the-kazakh-knb-has-broken-up-and-arrested-members-of-the-stepnogorsk-zhamaat-terrorist-organization-confiscating-weapons-and-religious-lit.md)
-_Context: Kazakhstan, Stepnogorsk zhamaat_
+_Context: Stepnogorsk zhamaat, Kazakhstan_
 
 ##### earthquake near Taiwan
 ### [ An earthquake near Taiwan damages undersea cables, disrupts phone and Internet service in Asia and the U.S. ](/news/2006/12/27/an-earthquake-near-taiwan-damages-undersea-cables-disrupts-phone-and-internet-service-in-asia-and-the-u-s.md)
@@ -21,7 +21,7 @@ Internet connections at some banks, companies and government offices in South Ko
 
 ##### Ethiopia
 ### [ Ethiopian-Transitional Federal Government forces regain Jowhar after heavy fighting. The Islamist militia go into a retreat towards Mogadishu. ](/news/2006/12/27/ethiopian-transitional-federal-government-forces-regain-jowhar-after-heavy-fighting-the-islamist-militia-go-into-a-retreat-towards-mogadis.md)
-_Context: regain, Jowhar, Ethiopia, Transitional Federal Government, Mogadishu, Islamist_
+_Context: regain, Jowhar, Transitional Federal Government, Ethiopia, Mogadishu, Islamist_
 
 ##### John Edwards
 ### [ Former U.S. Senator and 2004 Democratic Vice-Presidential Candidate John Edwards will run for the 2008 Democratic Presidential Nomination. ](/news/2006/12/27/former-u-s-senator-and-2004-democratic-vice-presidential-candidate-john-edwards-will-run-for-the-2008-democratic-presidential-nomination.md)

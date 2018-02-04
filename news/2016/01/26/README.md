@@ -9,7 +9,7 @@ Syrian pro-government forces captured a strategic southern rebel town close to t
 
 ##### War in Afghanistan (2015-present)
 ### [A U.S. drone strike kills at least 6 ISIL militants in Afghanistan's Nangarhar Province, according to the Afghan defense ministry. ](/news/2016/01/26/a-u-s-drone-strike-kills-at-least-6-isil-militants-in-afghanistan-s-nangarhar-province-according-to-the-afghan-defense-ministry.md)
-_Context: ISIL, Nangarhar Province, War in Afghanistan (2015-present), Afghanistan_
+_Context: ISIL, War in Afghanistan (2015-present), Nangarhar Province, Afghanistan_
 
 ##### French-born
 ### [French taxidrivers, air traffic controllers and school teachers go on strike over working conditions and competition from non-traditional services such as Uber. ](/news/2016/01/26/french-taxidrivers-air-traffic-controllers-and-school-teachers-go-on-strike-over-working-conditions-and-competition-from-non-traditional-se.md)
@@ -21,7 +21,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Malaysia
 ### [Malaysian authorities find 13 bodies washed up on Johor beach believed to be Indonesian migrants. ](/news/2016/01/26/malaysian-authorities-find-13-bodies-washed-up-on-johor-beach-believed-to-be-indonesian-migrants.md)
-_Context: Johor, Malaysia, Indonesians_
+_Context: Johor, Indonesians, Malaysia_
 
 ##### Zika virus outbreak in the Americas (2015-present)
 ### [Virologists find the Zika virus in Australian tourists returning from South America. ](/news/2016/01/26/virologists-find-the-zika-virus-in-australian-tourists-returning-from-south-america.md)
@@ -33,7 +33,7 @@ More than 15,000 people demonstrated on Sunday after a new prime minister, Pavel
 
 ##### Prime Minister
 ### [The Prime Minister of Malaysia Najib Razak is cleared of corruption by the Attorney-General of Malaysia Apandi Ali after returning US$607 million worth of donations to his personal account from the Saudi Royal Family. ](/news/2016/01/26/the-prime-minister-of-malaysia-najib-razak-is-cleared-of-corruption-by-the-attorney-general-of-malaysia-apandi-ali-after-returning-us-607-mi.md)
-_Context: Prime Minister, Malaysia, Najib Razak, Saudi Royal Family_
+_Context: Malaysia, Najib Razak, Saudi Royal Family, Prime Minister_
 
 ##### China
 ### [Authorities in the People's Republic of China say that Wang Baoan is under suspicion for "serious violation of discipline" (a phrase usually associated with corruption charges) as the head of that country's powerful National Bureau of Statistics. ](/news/2016/01/26/authorities-in-the-people-s-republic-of-china-say-that-wang-baoan-is-under-suspicion-for-serious-violation-of-discipline-a-phrase-usually.md)

@@ -13,11 +13,11 @@ Colombian FARC rebels on Mondayreleased a proof of life video in which a kidnapp
 
 ##### bomb
 ### [A suspected bomb explodes in a shopping complex in Nairobi, Kenya, injuring 33 people. ](/news/2012/05/28/a-suspected-bomb-explodes-in-a-shopping-complex-in-nairobi-kenya-injuring-33-people.md)
-_Context: shopping complex, Nairobi, Kenya, bomb_
+_Context: shopping complex, bomb, Nairobi, Kenya_
 
 ##### Lhasa
 ### [For the first time a series of self-immolations have reached the Tibetan capital of Lhasa when two Tibetans set themselves on fire.](/news/2012/05/28/for-the-first-time-a-series-of-self-immolations-have-reached-the-tibetan-capital-of-lhasa-when-two-tibetans-set-themselves-on-fire.md)
-_Context: Lhasa, Tibet_
+_Context: Tibet, Lhasa_
 
 ##### UN Committee Against Torture
 ### [Following the UN Committee Against Torture's condemnation of the Irish government's failure to acknowledge and assist former detainees of the country's Catholic-run Magdalene asylums, the Justice for Magdalenes campaign group announces its discovery that women were transferred from State-funded mother and baby homes to Magdalene laundries, where they were held against their will and without their children. ](/news/2012/05/28/following-the-un-committee-against-torture-s-condemnation-of-the-irish-government-s-failure-to-acknowledge-and-assist-former-detainees-of-th.md)
@@ -37,7 +37,7 @@ Bloxham Stockbrokers has agreed to transfer all its private client and fund mana
 
 ##### helicopter
 ### [A helicopter crashes in eastern Afghanistan, killing two ISAF troops. ](/news/2012/05/28/a-helicopter-crashes-in-eastern-afghanistan-killing-two-isaf-troops.md)
-_Context: helicopter, ISAF, Afghanistan_
+_Context: Afghanistan, ISAF, helicopter_
 
 ##### Doha, Qatar
 ### [19 people are killed in a fire at a shopping centre in Doha, Qatar. ](/news/2012/05/28/19-people-are-killed-in-a-fire-at-a-shopping-centre-in-doha-qatar.md)
@@ -61,11 +61,11 @@ _Context: Beijing, 1989 Tiananmen Square protests_
 
 ##### China
 ### [The Chinese Communist Party expels the former railways minister, Liu Zhijun, over corruption. ](/news/2012/05/28/the-chinese-communist-party-expels-the-former-railways-minister-liu-zhijun-over-corruption.md)
-_Context: Communist Party of China, China, Liu Zhijun_
+_Context: China, Liu Zhijun, Communist Party of China_
 
 ##### Nepal
 ### [Political parties in Nepal fail to agree on a new constitution, leaving the country with no constitution and no sitting national Legislature. ](/news/2012/05/28/political-parties-in-nepal-fail-to-agree-on-a-new-constitution-leaving-the-country-with-no-constitution-and-no-sitting-national-legislature.md)
-_Context: Nepal, no sitting national Legislature_
+_Context: no sitting national Legislature, Nepal_
 
 ##### Irish referendum
 ### [Early voting begins in the Irish European Fiscal Compact referendum, 2012. ](/news/2012/05/28/early-voting-begins-in-the-irish-european-fiscal-compact-referendum-2012.md)

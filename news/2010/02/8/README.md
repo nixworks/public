@@ -5,7 +5,7 @@ Formats: [HTML](2010/02/8/index.html)  [JSON](2010/02/8/index.json)  [XML](2010/
 
 ##### Sudan
 ### [Sudan's President Omar al-Bashir could still face charges of genocide in Darfur. ](/news/2010/02/8/sudan-s-president-omar-al-bashir-could-still-face-charges-of-genocide-in-darfur.md)
-_Context: Sudan, Darfur conflict, Omar al-Bashir, Darfur_
+_Context: Darfur conflict, Omar al-Bashir, Sudan, Darfur_
 
 ##### Conrad Murray
 ### [Dr. Conrad Murray is charged with involuntary manslaughter in pop singer Michael Jackson's death.](/news/2010/02/8/dr-conrad-murray-is-charged-with-involuntary-manslaughter-in-pop-singer-michael-jackson-s-death.md)
@@ -29,7 +29,7 @@ Shuttle Endeavour lifted off from Florida before dawn Monday, the last scheduled
 
 ##### World Health Organisation
 ### [The World Health Organisation confirms that a cholera outbreak which has spread along the north coast of Papua New Guinea has hit more than 2,000 people, killing around 50 of them. ](/news/2010/02/8/the-world-health-organisation-confirms-that-a-cholera-outbreak-which-has-spread-along-the-north-coast-of-papua-new-guinea-has-hit-more-than.md)
-_Context: Papua New Guinea, World Health Organisation, a cholera outbreak_
+_Context: Papua New Guinea, a cholera outbreak, World Health Organisation_
 
 ##### Galapagos Islands
 ### [A colony of Galapagos Islands sea lions relocate 1,500 kilometres, the first time they have set up a colony outside the islands. ](/news/2010/02/8/a-colony-of-galapagos-islands-sea-lions-relocate-1-500-kilometres-the-first-time-they-have-set-up-a-colony-outside-the-islands.md)
@@ -41,7 +41,7 @@ The authorities said a sudden storm with heavy wind and rain set off waves of sn
 
 ##### World Economic Forum
 ### [Reform of the banking system was one of the key themes at this year's World Economic Forum in Davos. European Parliament Vice-President Silvana Koch-Mehrin said "There was general disapproval of the disproportionate self-rewarding in the banking sector". ](/news/2010/02/8/reform-of-the-banking-system-was-one-of-the-key-themes-at-this-yearas-world-economic-forum-in-davos-european-parliament-vice-president-si.md)
-_Context: Davos, European Parliament Vice-President, World Economic Forum, Silvana Koch-Mehrin_
+_Context: Silvana Koch-Mehrin, European Parliament Vice-President, World Economic Forum, Davos_
 
 ## [Previous Day...](/news/2010/02/7/index.md)
 

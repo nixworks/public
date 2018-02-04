@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/2/index.html)  [JSON](2016/02/2/index.json)  [XML](2016/
 
 ##### War in Afghanistan (2015-present)
 ### [U.S. airstrikes in eastern Afghanistan hit an ISIS radio station and kill 29 militants. ](/news/2016/02/2/u-s-airstrikes-in-eastern-afghanistan-hit-an-isis-radio-station-and-kill-29-militants.md)
-_Context: Afghanistan, Military intervention against ISIL, ISIS, War in Afghanistan (2015-present), U.S._
+_Context: War in Afghanistan (2015-present), Afghanistan, Military intervention against ISIL, ISIS, U.S._
 
 ##### Punxsutawney Phil
 ### [In the United States, Punxsutawney Phil does not see his shadow which according to tradition signals an early spring. ](/news/2016/02/2/in-the-united-states-punxsutawney-phil-does-not-see-his-shadow-which-according-to-tradition-signals-an-early-spring.md)

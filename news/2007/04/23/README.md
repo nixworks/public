@@ -9,27 +9,27 @@ _Context: Russia, Boris Yeltsin, President_
 
 ##### Iraq Prime Minister
 ### [ Prime Minister Nouri Maliki calls for construction to be halted on the three-mile wall being built by the United States military around the predominantly Sunni district of Adhamiyah, Baghdad. Thousands of Iraqis also protest the wall. ](/news/2007/04/23/prime-minister-nouri-maliki-calls-for-construction-to-be-halted-on-the-three-mile-wall-being-built-by-the-united-states-military-around-the.md)
-_Context: Baghdad, Iraq Prime Minister, Iraq, Sunni, protest, Adhamiyah, Nouri Maliki, three-mile wall, United States military_
+_Context: Iraq, Nouri Maliki, Adhamiyah, United States military, Sunni, Baghdad, three-mile wall, protest, Iraq Prime Minister_
 
 ##### Bali Nine
 ### [ Three of the six members of the Bali Nine &ndash; Tan Duc Thanh Nguyen, Si Yi Chen and Matthew Norman &ndash; who were sentenced to death have launched a judicial review appeal with Denpasar's District Court. ](/news/2007/04/23/three-of-the-six-members-of-the-bali-nine-ndash-tan-duc-thanh-nguyen-si-yi-chen-and-matthew-norman-ndash-who-were-sentenced-to-death-h.md)
-_Context: judicial review, Bali Nine, Tan Duc Thanh Nguyen, Matthew Norman, Denpasar, Si Yi Chen_
+_Context: Si Yi Chen, Denpasar, Matthew Norman, Bali Nine, Tan Duc Thanh Nguyen, judicial review_
 
 ##### Barclays plc
 ### [ Barclays plc agrees to buy ABN Amro in a EUR67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-a-67-billion-deal.md)
-_Context: ABN Amro, Barclays plc, euro_
+_Context: Barclays plc, ABN Amro, euro_
 
 ##### Umaru Yar'Adua
 ### [ Umaru Yar'Adua is declared the winner of Nigeria's presidential election that EU observers said "cannot be considered to have been credible." ](/news/2007/04/23/umaru-yar-adua-is-declared-the-winner-of-nigeria-s-presidential-election-that-eu-observers-said-cannot-be-considered-to-have-been-credible.md)
-_Context: Umaru Yar'Adua, presidential election, European Union, Nigeria_
+_Context: European Union, presidential election, Nigeria, Umaru Yar'Adua_
 
 ##### NASA
 ### [ NASA releases the first 3D images of the Sun acquired by the STEREO spacecraft. ](/news/2007/04/23/nasa-releases-the-first-3d-images-of-the-sun-acquired-by-the-stereo-spacecraft.md)
-_Context: Sun, NASA, 3D, STEREO_
+_Context: 3D, Sun, NASA, STEREO_
 
 ##### United States
 ### [ The United States' 391st National Park Unit, Sand Creek Massacre National Historic Site, is formally established. ](/news/2007/04/23/the-united-states-391st-national-park-unit-sand-creek-massacre-national-historic-site-is-formally-established.md)
-_Context: United States, Sand Creek Massacre National Historic Site, National Park Unit_
+_Context: Sand Creek Massacre National Historic Site, National Park Unit, United States_
 
 ##### United States Department of Veterans Affairs
 ### [ VA allows Wiccan symbols on headstones. ](/news/2007/04/23/va-allows-wiccan-symbols-on-headstones.md)

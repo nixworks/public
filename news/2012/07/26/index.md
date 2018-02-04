@@ -25,11 +25,11 @@ Ivorian president Alassane Ouattara says cancellation of the debt will help the 
 
 ##### North Korea
 ### [Sixteen thousand people become homeless in North Korea after Tropical Storm Khanun hit last week. ](/news/2012/07/26/sixteen-thousand-people-become-homeless-in-north-korea-after-tropical-storm-khanun-hit-last-week.md)
-_Context: Tropical Storm Khanun, North Korea_
+_Context: North Korea, Tropical Storm Khanun_
 
 ##### Beijing
 ### [Officials in Beijing raise the death toll from weekend flooding to 77 after rescuers located additional bodies. This follows criticism, including from the Chinese state media, of the city's handling of the storm.](/news/2012/07/26/officials-in-beijing-raise-the-death-toll-from-weekend-flooding-to-77-after-rescuers-located-additional-bodies-this-follows-criticism-incl.md)
-_Context: China, Beijing_
+_Context: Beijing, China_
 
 ##### Bo Xilai
 ### [Former Chinese political leader Bo Xilai's wife, Gu Kailai, and their employee Zhang Xiaojun are charged with murder of British businessman Neil Heywood. ](/news/2012/07/26/former-chinese-political-leader-bo-xilai-s-wife-gu-kailai-and-their-employee-zhang-xiaojun-are-charged-with-murder-of-british-businessman.md)

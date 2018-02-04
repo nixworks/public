@@ -5,11 +5,11 @@ Formats: [HTML](2011/12/7/index.html)  [JSON](2011/12/7/index.json)  [XML](2011/
 
 ##### United States
 ### [The United States commemorates the 70th anniversary of the attack on Pearl Harbor, Hawai'i. ](/news/2011/12/7/the-united-states-commemorates-the-70th-anniversary-of-the-attack-on-pearl-harbor-hawai-i.md)
-_Context: Pearl Harbor, Hawai'i, United States, attack on Pearl Harbor_
+_Context: Pearl Harbor, United States, Hawai'i, attack on Pearl Harbor_
 
 ##### Japan
 ### [The board of Japan's Olympus Corporation announces its plans to resign early next year due to its accounting scandal. ](/news/2011/12/7/the-board-of-japan-s-olympus-corporation-announces-its-plans-to-resign-early-next-year-due-to-its-accounting-scandal.md)
-_Context: Japan, Olympus Corp, Olympus scandal_
+_Context: Olympus scandal, Olympus Corp, Japan_
 
 ##### President
 ### [The former President of Israel Moshe Katsav arrives at a prison outside Tel Aviv to start a seven year term for rape. ](/news/2011/12/7/the-former-president-of-israel-moshe-katsav-arrives-at-a-prison-outside-tel-aviv-to-start-a-seven-year-term-for-rape.md)
@@ -17,7 +17,7 @@ Disgraced former Israeli President Moshe Katsav begins a seven-year sentence for
 
 ##### Governor of Illinois
 ### [The former Governor of the US state of Illinois Rod Blagojevich is sentenced to 14 years in jail for corruption. ](/news/2011/12/7/the-former-governor-of-the-us-state-of-illinois-rod-blagojevich-is-sentenced-to-14-years-in-jail-for-corruption.md)
-_Context: Illinois, corruption, Rod Blagojevich, Governor of Illinois_
+_Context: Rod Blagojevich, corruption, Governor of Illinois, Illinois_
 
 ##### anti-corruption
 ### [Security expert and anti-corruption activist Alfredo Landaverde is killed in Honduras, a day after journalist Luz Marina Paz Villalobos is killed, leading to a ban on a motorcycle passengers. ](/news/2011/12/7/security-expert-and-anti-corruption-activist-alfredo-landaverde-is-killed-in-honduras-a-day-after-journalist-luz-marina-paz-villalobos-is-k.md)

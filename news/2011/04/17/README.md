@@ -17,15 +17,15 @@ Three more NATO service members were killed in attacks in Afghanistan on Saturda
 
 ##### 2011 Yemeni protests
 ### [Fourteen people claimed to be responsible for shooting 52 protestors in Sana'a in March are referred to the state prosecutor. ](/news/2011/04/17/fourteen-people-claimed-to-be-responsible-for-shooting-52-protestors-in-sanaaa-in-march-are-referred-to-the-state-prosecutor.md)
-_Context: 2011 Yemeni protests, Sana'a_
+_Context: Sana'a, 2011 Yemeni protests_
 
 ##### China
 ### [China raises its bank reserves requirements as an anti-inflation move, an increase of 50 basis points (half of a percent) effective April 21. ](/news/2011/04/17/china-raises-its-bank-reserves-requirements-as-an-anti-inflation-move-an-increase-of-50-basis-points-half-of-a-percent-effective-april-21.md)
-_Context: inflation, China_
+_Context: China, inflation_
 
 ##### Oman
 ### [Oman is to spend 1 billion rials in an attempt to prevent further anti-government protests. ](/news/2011/04/17/oman-is-to-spend-1-billion-rials-in-an-attempt-to-prevent-further-anti-government-protests.md)
-_Context: Oman, anti-government protests, rials_
+_Context: rials, anti-government protests, Oman_
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton visits Japan to announce US assistance for the recovery effort following the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/17/the-united-states-secretary-of-state-hillary-clinton-visits-japan-to-announce-us-assistance-for-the-recovery-effort-following-the-2011-taho.md)
@@ -41,19 +41,19 @@ At least 12 people were killed and 27 injured as hailstones, lashing rain and ga
 
 ##### China
 ### [Police in China detain dozens of underground Protestant church followers in Beijing. ](/news/2011/04/17/police-in-china-detain-dozens-of-underground-protestant-church-followers-in-beijing.md)
-_Context: China, Protestant, Beijing_
+_Context: Protestant, China, Beijing_
 
 ##### National Coalition Party
 ### [The National Coalition Party wins the Finnish parliamentary election (44 seats), with the True Finns, third-place finishers, emerging as a new major political party (39 seats). Biggest losers are the Centre Party (36 seats); coalition talks will probably be held between the Coalition, the True Finns and the Social Democrats (42 seats).](/news/2011/04/17/the-national-coalition-party-wins-the-finnish-parliamentary-election-44-seats-with-the-true-finns-third-place-finishers-emerging-as-a-n.md)
-_Context: True Finns, parliamentary election, Centre Party, Finland, Social Democratic Party, National Coalition Party_
+_Context: National Coalition Party, True Finns, Centre Party, Finland, parliamentary election, Social Democratic Party_
 
 ##### Goodluck Jonathan
 ### [Goodluck Jonathan will be reelected as President of Nigeria based on unofficial results in the presidential election. ](/news/2011/04/17/goodluck-jonathan-will-be-reelected-as-president-of-nigeria-based-on-unofficial-results-in-the-presidential-election.md)
-_Context: Goodluck Jonathan, presidential election, President_
+_Context: presidential election, Goodluck Jonathan, President_
 
 ##### Supreme Leader
 ### [The Supreme Leader of Iran Ayatollah Ali Khamenei refuses to accept the resignation of Intelligence Chief Heyder Moslehi. ](/news/2011/04/17/the-supreme-leader-of-iran-ayatollah-ali-khamenei-refuses-to-accept-the-resignation-of-intelligence-chief-heyder-moslehi.md)
-_Context: Ayatollah, Heyder Moslehi, Supreme Leader, Ali Khamenei_
+_Context: Heyder Moslehi, Supreme Leader, Ayatollah, Ali Khamenei_
 
 ## [Previous Day...](/news/2011/04/16/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2015/10/1/index.html)  [JSON](2015/10/1/index.json)  [XML](2015/
 
 ##### Gaza-Israel conflict
 ### [In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.md)
-_Context: Israeli Air Force, Ashdod, Gaza-Israel conflict, Hamas, Gaza Strip_
+_Context: Gaza-Israel conflict, Gaza Strip, Hamas, Ashdod, Israeli Air Force_
 
 ##### War in Afghanistan (2015-present)
 ### [The government of Afghanistan claims to have recaptured the city of Kunduz. ](/news/2015/10/1/the-government-of-afghanistan-claims-to-have-recaptured-the-city-of-kunduz.md)
@@ -17,7 +17,7 @@ Russian jets bomb rebel positions in Syria including rural areas near the north-
 
 ##### Turkey-PKK conflict
 ### [Four Turkish soldiers are killed in PKK attacks across southeastern Turkey. Turkish authorities impose a curfew in the city of Mardin due to escalating violence. ](/news/2015/10/1/four-turkish-soldiers-are-killed-in-pkk-attacks-across-southeastern-turkey-turkish-authorities-impose-a-curfew-in-the-city-of-mardin-due-to.md)
-_Context: curfew, 2015 PKK rebellion, Turkey-PKK conflict, Turkish, PKK, Mardin_
+_Context: Turkish, PKK, Turkey-PKK conflict, Mardin, 2015 PKK rebellion, curfew_
 
 ##### China
 ### [Chinese authorities arrest a suspect in yesterday's 17 Liucheng County mail bomb explosions that killed at least seven people and wounded more than 50. The suspect is identified as 33-year-old quarry-worker, Wei Yinyong, from Dapu township also in Guangxi Province. There is another explosion this morning. While it's not clear if it is connected, authorities reportedly located 60 packages yesterday which were being examined by a bomb squad. ](/news/2015/10/1/chinese-authorities-arrest-a-suspect-in-yesterday-s-17-liucheng-county-mail-bomb-explosions-that-killed-at-least-seven-people-and-wounded-mo.md)

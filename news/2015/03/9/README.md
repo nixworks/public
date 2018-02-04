@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/9/index.html)  [JSON](2015/03/9/index.json)  [XML](2015/
 
 ##### Carolinian
 ### [A Carolinian Amtrak passenger train (running north from Charlotte, North Carolina, to New York City) hits a tractor-trailer in Halifax, North Carolina resulting in two cars of the train derailing with several people receiving minor injuries. ](/news/2015/03/9/a-carolinian-amtrak-passenger-train-running-north-from-charlotte-north-carolina-to-new-york-city-hits-a-tractor-trailer-in-halifax-nort.md)
-_Context: Amtrak, New York City, Charlotte, North Carolina, Halifax, North Carolina, Carolinian_
+_Context: Carolinian, Charlotte, North Carolina, Halifax, North Carolina, New York City, Amtrak_
 
 ##### British
 ### [Celebrity British lawyer Amal Clooney files a case in the United Nations on behalf of former Philippines President Gloria Macapagal-Arroyo. ](/news/2015/03/9/celebrity-british-lawyer-amal-clooney-files-a-case-in-the-united-nations-on-behalf-of-former-philippines-president-gloria-macapagal-arroyo.md)
@@ -13,11 +13,11 @@ The lawyer wife of actor George Clooney has asked the United Nations Human Right
 
 ##### U.S. President
 ### [U.S. President Barack Obama signs an executive order declaring Venezuela a national security threat to the U.S. ](/news/2015/03/9/u-s-president-barack-obama-signs-an-executive-order-declaring-venezuela-a-national-security-threat-to-the-u-s.md)
-_Context: Venezuela, Barack Obama, U.S. President, executive order_
+_Context: Barack Obama, Venezuela, U.S. President, executive order_
 
 ##### FBI
 ### [The U.S.'s Federal Bureau of Investigation (FBI) Director, James Comey, announces an increased reward of $5 million (up from $1 million, issued in 2012) for information leading to the return of a former FBI agent Robert Levinson (who disappeared March 9, 2007, in Iran and who was paid by the Central Intelligence Agency (CIA) to gather information about Iran's nuclear program). ](/news/2015/03/9/the-u-s-s-federal-bureau-of-investigation-fbi-director-james-comey-announces-an-increased-reward-of-5-million-up-from-1-million-iss.md)
-_Context: Iran, Central Intelligence Agency, Robert Levinson, Director of the Federal Bureau of Investigation, James Comey, FBI_
+_Context: Iran, FBI, Robert Levinson, Director of the Federal Bureau of Investigation, James Comey, Central Intelligence Agency_
 
 ##### Japan
 ### [A man kills five people in the Japanese city of Sumoto in a prolonged stabbing attack. ](/news/2015/03/9/a-man-kills-five-people-in-the-japanese-city-of-sumoto-in-a-prolonged-stabbing-attack.md)
@@ -25,11 +25,11 @@ A 40-year-old man described as a social misfit is being questioned by Japanese p
 
 ##### Randall Miller
 ### [American film director Randall Miller pleads guilty to involuntary manslaughter and criminal trespassing and will spend two years in county jail and another eight on probation in regards to the February 20, 2014, death of camera assistant Sarah Jones by a freight train on a bridge over the Altamaha River in Wayne County, Georgia (six other crew members were also injured), during filming of a biopic about singer Gregg Allman called "Midnight Rider". ](/news/2015/03/9/american-film-director-randall-miller-pleads-guilty-to-involuntary-manslaughter-and-criminal-trespassing-and-will-spend-two-years-in-county.md)
-_Context: Wayne County, Georgia, Randall Miller, ''Midnight Rider'', Sarah Jones, Altamaha River, Gregg Allman_
+_Context: Gregg Allman, Altamaha River, Sarah Jones, ''Midnight Rider'', Randall Miller, Wayne County, Georgia_
 
 ##### U.S. Immigration and Customs Enforcement
 ### [In a five-day national dragnet last week, Operation Cross Check, the U.S. Immigration and Customs Enforcement (ICE) rounds up 2,059 people who had been convicted of crimes and had been living in the country illegally. Most were not violent criminals (none were implicated in terrorism; almost all the 912 misdemeanors were for driving under the influence, DWI; 476 of the felons were charged with an immigration violation, though some were convicted of manslaughter, robbery, rape, and child pornography). ](/news/2015/03/9/in-a-five-day-national-dragnet-last-week-operation-cross-check-the-u-s-immigration-and-customs-enforcement-ice-rounds-up-2-059-people-w.md)
-_Context: terrorism, driving under the influence, robbery, child pornography, U.S. Immigration and Customs Enforcement, manslaughter by gross negligence, rape_
+_Context: manslaughter by gross negligence, robbery, terrorism, driving under the influence, U.S. Immigration and Customs Enforcement, rape, child pornography_
 
 ##### Solar-powered
 ### [Solar-powered aircraft "Solar Impulse 2" begins its circumnavigation of the earth. ](/news/2015/03/9/solar-powered-aircraft-solar-impulse-2-begins-its-circumnavigation-of-the-earth.md)
@@ -37,7 +37,7 @@ A record-breaking attempt to fly around the world in a solar-powered plane compl
 
 ##### stalactite
 ### [Explorers of a stalactite cave in Israel's Galilee region uncover a small collection of 2,300-year-old silver coins and jewelry believed to have been hidden from the time of Alexander the Great of Macedonia. The discovery could be the first of its kind to be found from that period in this area. ](/news/2015/03/9/explorers-of-a-stalactite-cave-in-israel-s-galilee-region-uncover-a-small-collection-of-2-300-year-old-silver-coins-and-jewelry-believed-to.md)
-_Context: Galilee, Macedonia, stalactite, Alexander the Great, Israel_
+_Context: Macedonia, Galilee, Alexander the Great, stalactite, Israel_
 
 ## [Previous Day...](/news/2015/03/8/index.md)
 

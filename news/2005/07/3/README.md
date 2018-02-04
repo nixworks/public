@@ -5,11 +5,11 @@ Formats: [HTML](2005/07/3/index.html)  [JSON](2005/07/3/index.json)  [XML](2005/
 
 ##### Steve Fossett
 ### [ Aviators Steve Fossett and Mark Rebholz, flying a replica World War I Vickers Vimy bomber, re-enact the first non-stop transatlantic flight of Alcock and Brown in 1919, landing at Clifden, Connemara, Ireland at 1704 local time (1604 UTC), about 18 hours after they took off from St. John's, Newfoundland. ](/news/2005/07/3/aviators-steve-fossett-and-mark-rebholz-flying-a-replica-world-war-i-vickers-vimy-bomber-re-enact-the-first-non-stop-transatlantic-flight.md)
-_Context: Vickers Vimy, Irish, Alcock and Brown, First World War, transatlantic flight, St. John's, Steve Fossett, Connemara, 1919, Clifden_
+_Context: transatlantic flight, 1919, Irish, Alcock and Brown, Connemara, Steve Fossett, First World War, Vickers Vimy, Clifden, St. John's_
 
 ##### Ihab al-Sherif
 ### [ Ihab al-Sherif, Egypt's most senior envoy to Iraq is kidnapped by gunmen while buying a newspaper. He was to be promoted to ambassador, representing the first Arab nation to recognize the new Iraqi government. ](/news/2005/07/3/ihab-al-sherif-egypt-s-most-senior-envoy-to-iraq-is-kidnapped-by-gunmen-while-buying-a-newspaper-he-was-to-be-promoted-to-ambassador-rep.md)
-_Context: Ihab al-Sherif, newspaper, Iraq, ambassador, Egypt, kidnapping, Arab world_
+_Context: Iraq, newspaper, Ihab al-Sherif, kidnapping, ambassador, Arab world, Egypt_
 
 ##### Albania
 ### [ Albanians vote in parliamentary elections. Final results are expected in Tuesday ](/news/2005/07/3/albanians-vote-in-parliamentary-elections-final-results-are-expected-in-tuesday.md)
@@ -21,11 +21,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Pristina
 ### [ In Pristina, Kosovo, three bombs explode almost at the same time 9:30 PM. They explode near Kosovo's parliament building and EAR building; at the Commercial Bank near the OSCE building; and local United Nations peacekeeping headquarters. No injuries are reported. President Ibrahim Rugova and prime minister Bajram Kosumi state that the explosions were intended to "destabilize" the region prior to assessment of possibilities for future independence. ](/news/2005/07/3/in-pristina-kosovo-three-bombs-explode-almost-at-the-same-time-9-30-pm-they-explode-near-kosovo-s-parliament-building-and-ear-building.md)
-_Context: Bajram Kosumi, Kosovo, Pristina, Organization for Security and Cooperation in Europe, EAR, peacekeeping, bomb, independence, United Nations, Ibrahim Rugova_
+_Context: EAR, Kosovo, Ibrahim Rugova, Organization for Security and Cooperation in Europe, peacekeeping, bomb, Bajram Kosumi, United Nations, Pristina, independence_
 
 ##### Mauritius
 ### [ In Mauritius, parliamentary elections begin. The main rivals are prime minister Paul Brenger of the Mauritian Militant Movement and Navin Ramgoolam of the opposition Social Alliance. ](/news/2005/07/3/in-mauritius-parliamentary-elections-begin-the-main-rivals-are-prime-minister-paul-berenger-of-the-mauritian-militant-movement-and-navin.md)
-_Context: Navin Ramgoolam, Social Alliance, Paul Brenger, parliamentary elections, MMM, Mauritius_
+_Context: Social Alliance, Navin Ramgoolam, Mauritius, MMM, parliamentary elections, Paul Brenger_
 
 ##### Malaysia
 ### [ In Malaysia, medical experts gather in a bird flu conference in Kuala Lumpur. ](/news/2005/07/3/in-malaysia-medical-experts-gather-in-a-bird-flu-conference-in-kuala-lumpur.md)
@@ -33,11 +33,11 @@ _Context: Kuala Lumpur, Malaysia, bird flu_
 
 ##### Japan
 ### [ In Japan, underwater volcano causes a column of steam near the island of Iwo Jima. ](/news/2005/07/3/in-japan-underwater-volcano-causes-a-column-of-steam-near-the-island-of-iwo-jima.md)
-_Context: volcano, Japan, Iwo Jima_
+_Context: Iwo Jima, Japan, volcano_
 
 ##### microchip
 ### [ Computer microchip manufacturer AMD asks a Delaware court to order that third parties to its antitrust lawsuit against industry giant Intel, preserve certain documents in their possession that may be required as evidence. The court grants that request, ordering the third parties to suspend normal document destruction as to the documents described. ](/news/2005/07/3/computer-microchip-manufacturer-amd-asks-a-delaware-court-to-order-that-third-parties-to-its-antitrust-lawsuit-against-industry-giant-intel.md)
-_Context: Intel, antitrust, microchip, AMD, Delaware_
+_Context: microchip, AMD, Intel, antitrust, Delaware_
 
 ## [Previous Day...](/news/2005/07/2/index.md)
 

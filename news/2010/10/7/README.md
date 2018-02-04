@@ -21,11 +21,11 @@ THE LEADER of a Congolese rebel group suspected of being involved in the rape of
 
 ##### Pakistan
 ### [14 people are killed and 70 others are injured in 2 suicide blasts at a shrine in Pakistan's southern port city of Karachi. ](/news/2010/10/7/14-people-are-killed-and-70-others-are-injured-in-2-suicide-blasts-at-a-shrine-in-pakistan-s-southern-port-city-of-karachi.md)
-_Context: Pakistan, Karachi_
+_Context: Karachi, Pakistan_
 
 ##### Baghdad
 ### [At least 5 people are killed due to back-to-back afternoon bombings at a vegetable market south of Baghdad. In Iskandariyah, about 30 miles (50 kilometers) south of Baghdad, also wounded at least 20 people. ](/news/2010/10/7/at-least-5-people-are-killed-due-to-back-to-back-afternoon-bombings-at-a-vegetable-market-south-of-baghdad-in-iskandariyah-about-30-miles.md)
-_Context: Iskandariyah, Baghdad_
+_Context: Baghdad, Iskandariyah_
 
 ##### Tajikistan
 ### [A land mine blast kills 6 soldiers in Tajikistan. ](/news/2010/10/7/a-land-mine-blast-kills-6-soldiers-in-tajikistan.md)
@@ -37,7 +37,7 @@ _Context: Kurdish, Iran_
 
 ##### Takhar province
 ### [20 Taliban militants, including two rebel commanders, are killed in fighting with security forces in northeastern Takhar province, Afghanistan. ](/news/2010/10/7/20-taliban-militants-including-two-rebel-commanders-are-killed-in-fighting-with-security-forces-in-northeastern-takhar-province-afghanist.md)
-_Context: Takhar province, Afghanistan_
+_Context: Afghanistan, Takhar province_
 
 ##### Taliban
 ### [An airstrike and a raid by ground troops kills 8 insurgents, including a senior Taliban leader who spearheaded attacks against Afghan security forces. ](/news/2010/10/7/an-airstrike-and-a-raid-by-ground-troops-kills-8-insurgents-including-a-senior-taliban-leader-who-spearheaded-attacks-against-afghan-securi.md)
@@ -73,7 +73,7 @@ Civil servants stage 24-hour strike in protest against pay cuts and pension free
 
 ##### $
 ### [The United States dollar reaches a 15-year low against the Japanese yen and depreciates against a range of other currencies due to concerns about further quantitative easing by the United States Federal Reserve. ](/news/2010/10/7/the-united-states-dollar-reaches-a-15-year-low-against-the-japanese-yen-and-depreciates-against-a-range-of-other-currencies-due-to-concerns.md)
-_Context: yen, United States Federal Reserve, quantitative easing, Japan, currency, $_
+_Context: Japan, $, currency, United States Federal Reserve, quantitative easing, yen_
 
 ##### Irrawaddy River
 ### [Nine, mostly children, die, after an overloaded river ferry capsizes in the Irrawaddy River delta, in Myanmar. ](/news/2010/10/7/nine-mostly-children-die-after-an-overloaded-river-ferry-capsizes-in-the-irrawaddy-river-delta-in-myanmar.md)
@@ -97,11 +97,11 @@ Toxic red sludge from a Hungarian alumina plant reached the Danube on Thursday a
 
 ##### Security Council
 ### [Members of the U.N. Security Council arrive in the Darfur region of Sudan prior to the referendum on independence from Sudan and receive a hostile welcome from pro-government forces. ](/news/2010/10/7/members-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-referendum-on-independence-from-sudan-and-receive-a-h.md)
-_Context: Security Council, referendum on independence from Sudan, Sudan, Darfur_
+_Context: Darfur, referendum on independence from Sudan, Security Council, Sudan_
 
 ##### Russia
 ### [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nucle.md)
-_Context: ban on ballistic missile tests, Iran, nuclear program, Russia, anti-air_
+_Context: ban on ballistic missile tests, nuclear program, Russia, anti-air, Iran_
 
 ##### United States
 ### [The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post-that-killed-3-soldiers.md)
@@ -133,11 +133,11 @@ Zimbabwean Prime Minister Morgan Tsvangirai accuses President Robert Mugabe of v
 
 ##### British
 ### [The United Kingdom Labour Party announces its Shadow Cabinet to be led by Ed Miliband. ](/news/2010/10/7/the-united-kingdom-labour-party-announces-its-shadow-cabinet-to-be-led-by-ed-miliband.md)
-_Context: Labour Party, Shadow Cabinet, British, Ed Miliband_
+_Context: Shadow Cabinet, Labour Party, British, Ed Miliband_
 
 ##### Mark Rutte
 ### [Mark Rutte of the People's Party for Freedom and Democracy is asked by Queen Beatrix of the Netherlands to become Prime Minister of the Netherlands leading a coalition government. ](/news/2010/10/7/mark-rutte-of-the-people-s-party-for-freedom-and-democracy-is-asked-by-queen-beatrix-of-the-netherlands-to-become-prime-minister-of-the-neth.md)
-_Context: Netherlands, VVD, Mark Rutte, Beatrix, Prime Minister_
+_Context: Mark Rutte, Beatrix, Netherlands, Prime Minister, VVD_
 
 ##### South Africa
 ### [South African Archbishop Desmond Tutu retires from public life after reaching his 79th birthday. ](/news/2010/10/7/south-african-archbishop-desmond-tutu-retires-from-public-life-after-reaching-his-79th-birthday.md)

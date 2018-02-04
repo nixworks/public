@@ -5,7 +5,7 @@ Formats: [HTML](2013/07/13/index.html)  [JSON](2013/07/13/index.json)  [XML](201
 
 ##### African Union - United Nations Hybrid Operation in Darfur
 ### [The African Union - United Nations Hybrid Operation in Darfur confirms that seven peacekeepers were killed and 17 injured in a patrol while returning to their base in Manawashi near Nyala, the capital of Sudan's South Darfur state. ](/news/2013/07/13/the-african-union-a-united-nations-hybrid-operation-in-darfur-confirms-that-seven-peacekeepers-were-killed-and-17-injured-in-a-patrol-whil.md)
-_Context: African Union - United Nations Hybrid Operation in Darfur, Sudan, South Darfur, Nyala_
+_Context: South Darfur, African Union - United Nations Hybrid Operation in Darfur, Sudan, Nyala_
 
 ##### Cory Monteith
 ### [Canadian actor Cory Monteith, of the TV series "Glee", is found dead in his Vancouver hotel room. ](/news/2013/07/13/canadian-actor-cory-monteith-of-the-tv-series-glee-is-found-dead-in-his-vancouver-hotel-room.md)
@@ -13,7 +13,7 @@ _Context: African Union - United Nations Hybrid Operation in Darfur, Sudan, Sout
 
 ##### Brazil
 ### [At least ten people are killed in Brazil's Minas Gerais state after a bus accident. ](/news/2013/07/13/at-least-ten-people-are-killed-in-brazil-s-minas-gerais-state-after-a-bus-accident.md)
-_Context: Brazil, Minas Gerais_
+_Context: Minas Gerais, Brazil_
 
 ##### Podolsk
 ### [Eighteen people are killed and at least 40 injured after a gravel truck smashes into a bus near Podolsk, Russia. ](/news/2013/07/13/eighteen-people-are-killed-and-at-least-40-injured-after-a-gravel-truck-smashes-into-a-bus-near-podolsk-russia.md)

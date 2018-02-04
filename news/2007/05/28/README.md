@@ -9,7 +9,7 @@ _Context: Al-Azhar University, Breastfeeding fatwa_
 
 ##### Foreign Office
 ### [ The Foreign Office of the British Government submits a formal request to the Russian Government for the extradition of ex-KGB agent Andrei Lugovoi to face charges over the murder of his former colleague Alexander Litvinenko in London. ](/news/2007/05/28/the-foreign-office-of-the-british-government-submits-a-formal-request-to-the-russian-government-for-the-extradition-of-ex-kgb-agent-andrei.md)
-_Context: Alexander Litvinenko, London, Foreign Office, KGB, Andrei Lugovoi, Russian Government, extradition, His Majesty's Government, murder of Russian spy Alexander Litvinenko_
+_Context: Russian Government, KGB, London, Alexander Litvinenko, extradition, Foreign Office, His Majesty's Government, Andrei Lugovoi, murder of Russian spy Alexander Litvinenko_
 
 ##### Hutu
 ### [ Aid workers claim that at least 17 people have been killed and others abducted by Hutu rebels in the Democratic Republic of the Congo. ](/news/2007/05/28/aid-workers-claim-that-at-least-17-people-have-been-killed-and-others-abducted-by-hutu-rebels-in-the-democratic-republic-of-the-congo.md)
@@ -21,19 +21,19 @@ _Context: Baghdad, Iraqi insurgency_
 
 ##### Iran
 ### [ Officials from Iran and the United States hold their first talks since 1980 with the topic being the future of Iraq. ](/news/2007/05/28/officials-from-iran-and-the-united-states-hold-their-first-talks-since-1980-with-the-topic-being-the-future-of-iraq.md)
-_Context: United States, 1980, Iran, Iraq_
+_Context: Iran, Iraq, 1980, United States_
 
 ##### Minister of Agriculture
 ### [ Minister of Agriculture Toshikatsu Matsuoka commits suicide, apparently over a financial scandal. ](/news/2007/05/28/minister-of-agriculture-toshikatsu-matsuoka-commits-suicide-apparently-over-a-financial-scandal.md)
-_Context: Minister of Agriculture, Toshikatsu Matsuoka_
+_Context: Toshikatsu Matsuoka, Minister of Agriculture_
 
 ##### Government-owned
 ### [ Government-owned TV Station TVes begins broadcasting in place of Radio Caracas Television. ](/news/2007/05/28/government-owned-tv-station-tves-begins-broadcasting-in-place-of-radio-caracas-television.md)
-_Context: TVes, Government-owned, television, Radio Caracas Television_
+_Context: Radio Caracas Television, Government-owned, television, TVes_
 
 ##### Canadian
 ### [ Canada: Voters in Prince Edward Island go to the polls for provincial elections. ](/news/2007/05/28/canada-voters-in-prince-edward-island-go-to-the-polls-for-provincial-elections.md)
-_Context: Canadian, Prince Edward Island_
+_Context: Prince Edward Island, Canadian_
 
 ## [Previous Day...](/news/2007/05/27/index.md)
 

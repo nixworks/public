@@ -17,7 +17,7 @@ _Context: Kabul International Airport, Afghanistan_
 
 ##### Tunisian soldiers
 ### [At least 14 Tunisian soldiers are reportedly killed following Islamist militant attacks at two checkpoints near the Algerian border with at least 20 others wounded, a group called the Okba Ben Nafaa Brigade has claimed responsibility. ](/news/2014/07/17/at-least-14-tunisian-soldiers-are-reportedly-killed-following-islamist-militant-attacks-at-two-checkpoints-near-the-algerian-border-with-at.md)
-_Context: Tunisian soldiers, attacks, Algeria_
+_Context: attacks, Tunisian soldiers, Algeria_
 
 ##### United States Holocaust Memorial Museum
 ### [The United States Holocaust Memorial Museum obtains a full copy of the archives of the United Nations War Crimes Commission from World War II and makes it available online. ](/news/2014/07/17/the-united-states-holocaust-memorial-museum-obtains-a-full-copy-of-the-archives-of-the-united-nations-war-crimes-commission-from-world-war-i.md)
@@ -37,7 +37,7 @@ A firefighting helicopter crashed Thursday near an apartment complex and school 
 
 ##### train
 ### [A fire on a train at Busan Metro in the South Korean port city of Busan leaves five people injured and 100 people were evacuated. ](/news/2014/07/17/a-fire-on-a-train-at-busan-metro-in-the-south-korean-port-city-of-busan-leaves-five-people-injured-and-100-people-were-evacuated.md)
-_Context: Busan, train, South Korea, Busan Metro_
+_Context: train, Busan, South Korea, Busan Metro_
 
 ##### regional train
 ### [A French regional train on the Pau-Bayonne line crashes into a high-speed train near the town of Denguin, resulting in at least 25 injuries. ](/news/2014/07/17/a-french-regional-train-on-the-pau-bayonne-line-crashes-into-a-high-speed-train-near-the-town-of-denguin-resulting-in-at-least-25-injuries.md)
@@ -53,7 +53,7 @@ A federal judge in Orange County ruled Wednesday that California’s death penal
 
 ##### Parliament of Australia
 ### [The Parliament of Australia votes to abolish a carbon tax and emissions trading scheme. ](/news/2014/07/17/the-parliament-of-australia-votes-to-abolish-a-carbon-tax-and-emissions-trading-scheme.md)
-_Context: emissions trading scheme, Parliament of Australia, carbon tax_
+_Context: carbon tax, emissions trading scheme, Parliament of Australia_
 
 ##### Prime Minister
 ### [The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/the-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-for-the-first-time-since-the-coup.md)

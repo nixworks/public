@@ -9,7 +9,7 @@ Deadly attack in volatile southwestern province followed small arms fire on US M
 
 ##### defense contractor
 ### [U.S. defense contractor Lockheed Martin, the largest military contractor in the world, is targeted by a "significant and tenacious" cyber attack. ](/news/2011/05/29/u-s-defense-contractor-lockheed-martin-the-largest-military-contractor-in-the-world-is-targeted-by-a-significant-and-tenacious-cyber-at.md)
-_Context: Lockheed, defense contractor, cyber attack_
+_Context: cyber attack, defense contractor, Lockheed_
 
 ##### French-born
 ### [Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/three-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md)
@@ -29,15 +29,15 @@ Historically, a European has led the international financial body, but emerging 
 
 ##### hip-hop
 ### [US hip-hop singer Sean Kingston is rushed to hospital after crashing his jet-ski into a Miami Beach bridge. ](/news/2011/05/29/us-hip-hop-singer-sean-kingston-is-rushed-to-hospital-after-crashing-his-jet-ski-into-a-miami-beach-bridge.md)
-_Context: jet-ski, Sean Kingston, hip-hop, Miami Beach_
+_Context: jet-ski, Miami Beach, hip-hop, Sean Kingston_
 
 ##### Greenpeace India's
 ### [3 Greenpeace activists successfully evade a Danish warship to scale an oil rig off the coast of Greenland, attempting to begin deepwater drilling in the arctic. ](/news/2011/05/29/3-greenpeace-activists-successfully-evade-a-danish-warship-to-scale-an-oil-rig-off-the-coast-of-greenland-attempting-to-begin-deepwater-dri.md)
-_Context: Greenland, Greenpeace India's, Denmark_
+_Context: Greenpeace India's, Denmark, Greenland_
 
 ##### Dennis Daugaard
 ### [Dennis Daugaard, the Governor of the US state of South Dakota, warns residents living south of the state capital of Pierre to prepare evacuation plans ahead of likely flooding of the Missouri River. ](/news/2011/05/29/dennis-daugaard-the-governor-of-the-us-state-of-south-dakota-warns-residents-living-south-of-the-state-capital-of-pierre-to-prepare-evacua.md)
-_Context: South Dakota Governor, South Dakota, Pierre, Missouri River, Dennis Daugaard_
+_Context: South Dakota, Dennis Daugaard, South Dakota Governor, Missouri River, Pierre_
 
 ##### Mich.
 ### [Storms in the US state of Michigan lead to the loss of power to 100,000 houses. ](/news/2011/05/29/storms-in-the-us-state-of-michigan-lead-to-the-loss-of-power-to-100-000-houses.md)
@@ -45,11 +45,11 @@ _Context: Mich._
 
 ##### Ferenc Madl
 ### [Ferenc Madl, the President of Hungary (2000-2005), dies in Budapest. ](/news/2011/05/29/ferenc-ma-dl-the-president-of-hungary-2000-2005-dies-in-budapest.md)
-_Context: Budapest, Ferenc Madl, President of Hungary_
+_Context: Ferenc Madl, President of Hungary, Budapest_
 
 ##### Sergei Bagapsh
 ### [Sergei Bagapsh, the President of the breakaway Georgian province of Abkhazia, dies from complications of lung surgery in Moscow. ](/news/2011/05/29/sergei-bagapsh-the-president-of-the-breakaway-georgian-province-of-abkhazia-dies-from-complications-of-lung-surgery-in-moscow.md)
-_Context: President,  Georgian, Moscow, Sergei Bagapsh, Abkhazia_
+_Context:  Georgian, Sergei Bagapsh, Moscow, Abkhazia, President_
 
 ##### Goodluck Jonathan
 ### [Goodluck Jonathan is sworn in as President of Nigeria at a ceremony attended by foreign heads of state in Abuja. ](/news/2011/05/29/goodluck-jonathan-is-sworn-in-as-president-of-nigeria-at-a-ceremony-attended-by-foreign-heads-of-state-in-abuja.md)

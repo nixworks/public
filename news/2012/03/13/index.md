@@ -25,7 +25,7 @@ Gunmen in Afghanistan have launched an attack on a government delegation at a me
 
 ##### Encyclopaedia Britannica
 ### ["Encyclopaedia Britannica", the oldest encyclopedia still in print in the English language, announces that it will no longer be producing printed versions but continuing online editions. ](/news/2012/03/13/encyclopaedia-britannica-the-oldest-encyclopedia-still-in-print-in-the-english-language-announces-that-it-will-no-longer-be-producing-pr.md)
-_Context: English, encyclopedia, Encyclopaedia Britannica_
+_Context: Encyclopaedia Britannica, English, encyclopedia_
 
 ##### Interviews Before Execution
 ### ["Interviews Before Execution", a Chinese television talk show that interviews death row inmates shortly before they are executed, is reportedly cancelled as a result of a BBC documentary on the programme which has attracted international attention. ](/news/2012/03/13/interviews-before-execution-a-chinese-television-talk-show-that-interviews-death-row-inmates-shortly-before-they-are-executed-is-reporte.md)
@@ -65,7 +65,7 @@ Rebekah Brooks and her husband are among six people who have been arrested this 
 
 ##### Australian Foreign Minister
 ### [Minister for Foreign Affairs Bob Carr is sworn in as a member of the Senate of Australia, replacing Mark Arbib, representing New South Wales.](/news/2012/03/13/minister-for-foreign-affairs-bob-carr-is-sworn-in-as-a-member-of-the-senate-of-australia-replacing-mark-arbib-representing-new-south-wales.md)
-_Context: Mark Arbib, Bob Carr, NSW, Senate of Australia, Australian Foreign Minister_
+_Context: Senate of Australia, Bob Carr, Mark Arbib, NSW, Australian Foreign Minister_
 
 ##### Alabama
 ### [Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/voters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santorum-winning-in-both-states.md)

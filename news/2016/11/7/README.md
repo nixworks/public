@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/7/index.html)  [JSON](2016/11/7/index.json)  [XML](2016/
 
 ##### Iraqi Civil War (2014-present)
 ### [Iraqi Army discover at least 100 beheaded bodies as they retake Hamam al-Alil, the last major settlement south of Mosul. ](/news/2016/11/7/iraqi-army-discover-at-least-100-beheaded-bodies-as-they-retake-hamam-al-alil-the-last-major-settlement-south-of-mosul.md)
-_Context: Battle of Mosul (2016), Iraqi Civil War (2014-present), Mosul, Hamam al-Alil massacre, Hamam al-Alil, Iraqi Army_
+_Context: Iraqi Civil War (2014-present), Hamam al-Alil, Hamam al-Alil massacre, Battle of Mosul (2016), Mosul, Iraqi Army_
 
 ##### Somali Civil War
 ### [ Fighting between militias in Galkayo, Somalia, leaves at least 29 dead. ](/news/2016/11/7/fighting-between-militias-in-galkayo-somalia-leaves-at-least-29-dead.md)
@@ -13,7 +13,7 @@ Fragile ceasefire brokered by Dubai breaks down between rivals of Galmudug and P
 
 ##### Delhi
 ### [Schools in Delhi and New Delhi close after smog reach toxic levels. The air quality index is 999 with 500 rated as hazardous. ](/news/2016/11/7/schools-in-delhi-and-new-delhi-close-after-smog-reach-toxic-levels-the-air-quality-index-is-999-with-500-rated-as-hazardous.md)
-_Context: New Delhi, air quality index, smog, Delhi_
+_Context: Delhi, smog, air quality index, New Delhi_
 
 ##### Vietnam
 ### [Floods in Vietnam kill at least 15. ](/news/2016/11/7/floods-in-vietnam-kill-at-least-15.md)
@@ -37,15 +37,15 @@ The rare intervention by Beijing could spark more social unrest.
 
 ##### Malaysia
 ### [Protesters in Malaysia attempt to shut down the "Malaysiakini" newspaper which has been at the center of opposition towards Malaysian prime minister Najib Razak. ](/news/2016/11/7/protesters-in-malaysia-attempt-to-shut-down-the-malaysiakini-newspaper-which-has-been-at-the-center-of-opposition-towards-malaysian-prime.md)
-_Context: Malaysiakini, Najib Razak, Malaysia_
+_Context: Najib Razak, Malaysiakini, Malaysia_
 
 ##### Leila de Lima
 ### [Filipino senator Leila de Lima files a lawsuit against Philippine president Rodrigo Duterte in the country's Supreme Court seeking to stop the president from gathering, and making public, information about her private life. ](/news/2016/11/7/filipino-senator-leila-de-lima-files-a-lawsuit-against-philippine-president-rodrigo-duterte-in-the-country-s-supreme-court-seeking-to-stop-t.md)
-_Context: Leila de Lima, Rodrigo Duterte, Supreme Court of the Philippines, Philippine_
+_Context: Philippine, Supreme Court of the Philippines, Rodrigo Duterte, Leila de Lima_
 
 #####  Georgian
 ### [Former Georgian president Mikhail Saakashvili resigns as governor of the Ukrainian region of Odessa, citing corruption in Odessa as the main reason. ](/news/2016/11/7/former-georgian-president-mikhail-saakashvili-resigns-as-governor-of-the-ukrainian-region-of-odessa-citing-corruption-in-odessa-as-the-main.md)
-_Context: Ukraine, Mikhail Saakashvili, Odessa,  Georgian_
+_Context: Ukraine, Odessa,  Georgian, Mikhail Saakashvili_
 
 ## [Previous Day...](/news/2016/11/6/index.md)
 

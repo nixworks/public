@@ -21,11 +21,11 @@ The death toll from Harvey was rising and officials said their rescue effort was
 
 ##### Childhood leukemia
 ### [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy acute lymphoblastic leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-acute-lymp.md)
-_Context: acute lymphoblastic leukemia, Novartis, gene therapy, Childhood leukemia, Food and Drug Administration, U.S._
+_Context: Childhood leukemia, acute lymphoblastic leukemia, Novartis, U.S., Food and Drug Administration, gene therapy_
 
 ##### European migrant crisis
 ### [The Government of Hungary has decided to extend the state of emergency declared last year because of the increased migration to and through the country. Government spokesman Zoltan Kovacs stated that strict border controls were still needed because the "threat of terrorism in Europe has increased". ](/news/2017/08/30/the-government-of-hungary-has-decided-to-extend-the-state-of-emergency-declared-last-year-because-of-the-increased-migration-to-and-through.md)
-_Context: Zoltan Kovacs, Government of Hungary, state of emergency, European migrant crisis_
+_Context: European migrant crisis, Government of Hungary, state of emergency, Zoltan Kovacs_
 
 ##### Crime in California
 ### [A shooting at a motel in Sacramento County, California, leaves a Sacramento County Sheriff's Department deputy dead and two California Highway Patrol officers injured. The suspect is later arrested. ](/news/2017/08/30/a-shooting-at-a-motel-in-sacramento-county-california-leaves-a-sacramento-county-sheriff-s-department-deputy-dead-and-two-california-highw.md)

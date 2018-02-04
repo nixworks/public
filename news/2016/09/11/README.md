@@ -9,7 +9,7 @@ Both sides appear to be trying to maximise gains before a cessation of hostiliti
 
 ##### Libyan Civil War (2014-present)
 ### [Forces loyal to Libyan general and former US citizen Khalifa Haftar, commander of the elected Council of Deputies military, seize control of the ports of Sidra, Ra's Lanuf, Brega and Zuwetina. ](/news/2016/09/11/forces-loyal-to-libyan-general-and-former-us-citizen-khalifa-haftar-commander-of-the-elected-council-of-deputies-military-seize-control-of.md)
-_Context: Libya, Libyan Civil War (2014-present), Sidra, Zuwetina, Khalifa Haftar, Ra's Lanuf, Council of Deputies, Brega_
+_Context: Brega, Libyan Civil War (2014-present), Ra's Lanuf, Khalifa Haftar, Libya, Council of Deputies, Sidra, Zuwetina_
 
 ##### Burial of Ferdinand Marcos
 ### [The communication channel of the Philippine government is under scrutiny after an apparent whitewash and historical revisionism of the abuses of the Marcos dictatorship. ](/news/2016/09/11/the-communication-channel-of-the-philippine-government-is-under-scrutiny-after-an-apparent-whitewash-and-historical-revisionism-of-the-abuse.md)
@@ -21,7 +21,7 @@ Miss Arkansas Savvy Shields won the Miss America pageant Sunday night in Atlanti
 
 ##### 2009-10 Iranian election protests
 ### [Iran's former prosecutor of the Islamic Revolutionary Court, Saeed Mortazavi apologizes for his role in 2009 accidents at Kahrizak detention center which resulted in the deaths of three political prisoners including Mohsen Rouholamini. ](/news/2016/09/11/iran-s-former-prosecutor-of-the-islamic-revolutionary-court-saeed-mortazavi-apologizes-for-his-role-in-2009-accidents-at-kahrizak-detention.md)
-_Context: Saeed Mortazavi, Iran, 2009-10 Iranian election protests, 2009 accidents, Mohsen Rouholamini, Islamic Revolutionary Court, Kahrizak detention center_
+_Context: Kahrizak detention center, 2009 accidents, Saeed Mortazavi, Mohsen Rouholamini, 2009-10 Iranian election protests, Iran, Islamic Revolutionary Court_
 
 ##### 2016 Taoyuan bus crash
 ### [Authorities find that the July 19 bus crash in Taiwan that killed 26 people was an intentional suicide by the bus driver. ](/news/2016/09/11/authorities-find-that-the-july-19-bus-crash-in-taiwan-that-killed-26-people-was-an-intentional-suicide-by-the-bus-driver.md)

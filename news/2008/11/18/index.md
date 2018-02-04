@@ -9,15 +9,15 @@ The Republican held a commanding place in Alaska politics while wielding power o
 
 ##### Togiola Tulafono
 ### [ Togiola Tulafono is re-elected as Governor of American Samoa, easily defeating challenger Utu Abe Malae. ](/news/2008/11/18/togiola-tulafono-is-re-elected-as-governor-of-american-samoa-easily-defeating-challenger-utu-abe-malae.md)
-_Context: Utu Abe Malae, Governor, re-elected, Togiola Tulafono, American Samoa_
+_Context: American Samoa, re-elected, Governor, Togiola Tulafono, Utu Abe Malae_
 
 ##### Japan
 ### [ Takehiko Yamaguchi, a former Japanese Vice Minister for Health, and his wife are found stabbed to death in Saitama, a suburb of Tokyo. ](/news/2008/11/18/takehiko-yamaguchi-a-former-japanese-vice-minister-for-health-and-his-wife-are-found-stabbed-to-death-in-saitama-a-suburb-of-tokyo.md)
-_Context: Vice Minister for Health, Saitama, Tokyo, Japan_
+_Context: Japan, Vice Minister for Health, Saitama, Tokyo_
 
 ##### Central Europe
 ### [ Central European stocks drop to a three-week low on expectations of slowing economic growth. Poland forecasts economic growth to drop to 2.3% in 2009 from 5.4% in 2008 and the Warsaw Stock Exchange's WIG 20 index falls 3.5% in two hours. Bulgaria's Sofia Stock Exchange is at a five-year low. Both Bulgaria and Romania may need International Monetary Fund loans to repay US$100 billion of external debt. ](/news/2008/11/18/central-european-stocks-drop-to-a-three-week-low-on-expectations-of-slowing-economic-growth-poland-forecasts-economic-growth-to-drop-to-2.md)
-_Context: $, Poland, Romania, Warsaw Stock Exchange, WIG 20, Bulgaria, Central Europe, Sofia Stock Exchange, International Monetary Fund_
+_Context: Bulgaria, WIG 20, $, Romania, Central Europe, Poland, Sofia Stock Exchange, Warsaw Stock Exchange, International Monetary Fund_
 
 ## [Previous Day...](/news/2008/11/17/index.md)
 

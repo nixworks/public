@@ -41,15 +41,15 @@ Police raided the headquarters of Korean Air Lines Co Ltd on Friday as part of a
 
 ##### United States Attorney General
 ### [United States Attorney General Jeff Sessions, along with Deputy Attorney General Rod Rosenstein and National Intelligence Director Dan Coats visit the Guantanamo Bay Detention Camp. ](/news/2017/07/7/united-states-attorney-general-jeff-sessions-along-with-deputy-attorney-general-rod-rosenstein-and-national-intelligence-director-dan-coats.md)
-_Context: United States Attorney General, Jeff Sessions, Dan Coats, National Intelligence Director, Rod Rosenstein, Guantanamo Bay Detention Camp, Deputy Attorney General_
+_Context: Dan Coats, Jeff Sessions, Deputy Attorney General, United States Attorney General, National Intelligence Director, Guantanamo Bay Detention Camp, Rod Rosenstein_
 
 ##### Legal challenges to Executive Order 13780
 ### [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md)
-_Context: Donald Trump, Hawaii, Legal challenges to Executive Order 13780, Executive Order 13780, United States Court of Appeals for the Ninth Circuit_
+_Context: Donald Trump, United States Court of Appeals for the Ninth Circuit, Executive Order 13780, Legal challenges to Executive Order 13780, Hawaii_
 
 ##### Panama
 ### [Former president of Panama Ricardo Martinelli is denied bond by United States magistrate judge Edwin Torres. He is accused of charges that include illegally monitoring phone and other conversations of at least 150 people. Martinelli was arrested in Miami last month on an extradition warrant from Panama. ](/news/2017/07/7/former-president-of-panama-ricardo-martinelli-is-denied-bond-by-united-states-magistrate-judge-edwin-torres-he-is-accused-of-charges-that-i.md)
-_Context: Edwin Torres, United States magistrate judge, warrant, Miami, illegally monitoring, bond, Ricardo Martinelli, Panama_
+_Context: illegally monitoring, Ricardo Martinelli, Edwin Torres, Miami, bond, Panama, United States magistrate judge, warrant_
 
 ##### Mongolian presidential election, 2017
 ### [Battulga Khaltmaa of the opposition Democratic Party (DP) is elected President of Mongolia in the second round, defeating former Prime Minister Miyeegombyn Enkhbold of the Mongolian People's Party.](/news/2017/07/7/battulga-khaltmaa-of-the-opposition-democratic-party-dp-is-elected-president-of-mongolia-in-the-second-round-defeating-former-prime-minis.md)
@@ -61,11 +61,11 @@ With many Venezuelans angry at the government and planning to sit out a July 30 
 
 ##### Yemeni Civil War
 ### [Thousands of supporters of Yemen's secessionists rally in the southern city of Aden, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rally-in-the-southern-city-of-aden-backing-a-new-group-led-by-former-head-of-aden-governor.md)
-_Context: Aidarus al-Zoubaidi, Yemen, Aden Governorate, Aden, Yemeni Civil War_
+_Context: Yemen, Yemeni Civil War, Aden Governorate, Aidarus al-Zoubaidi, Aden_
 
 ##### Renewable energy in Australia
 ### [South Australia finalizes a deal with Tesla, spearheaded by tweets originating from CEO of Tesla Elon Musk, to install a battery system in the state. Tesla said in a statement that upon completion by December 2017, the system would be the largest lithium-ion battery storage project in the world, overtaking an 80 megawatt-hour power station at Mira Loma in California also built using Tesla batteries. ](/news/2017/07/7/south-australia-finalizes-a-deal-with-tesla-spearheaded-by-tweets-originating-from-ceo-of-tesla-elon-musk-to-install-a-battery-system-in-t.md)
-_Context: megawatt-hour, Renewable energy in Australia, South Australia, Elon Musk, Tesla, Mira Loma, California, lithium-ion battery_
+_Context: lithium-ion battery, Renewable energy in Australia, South Australia, Mira Loma, California, Tesla, megawatt-hour, Elon Musk_
 
 ## [Previous Day...](/news/2017/07/6/index.md)
 

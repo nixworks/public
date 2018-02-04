@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/17/index.html)  [JSON](2012/12/17/index.json)  [XML](201
 
 ##### Yarmouk Camp
 ### [Rebel forces take over the Yarmouk Palestinian refugee camp in Damascus, where at least 25 were killed by airstrikes the day before. Syrian troops and tanks, as well as a number of PFLP-GC fighters, gather outside the northern edge of the area. ](/news/2012/12/17/rebel-forces-take-over-the-yarmouk-palestinian-refugee-camp-in-damascus-where-at-least-25-were-killed-by-airstrikes-the-day-before-syrian.md)
-_Context: Palestinian refugees, Syria, Yarmouk Camp, PFLP-GC, Damascus_
+_Context: Yarmouk Camp, Damascus, PFLP-GC, Syria, Palestinian refugees_
 
 ##### Pakistan
 ### [A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/a-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md)
@@ -29,11 +29,11 @@ _Context: Beninese, Cotonou_
 
 ##### gas explosion
 ### [At least 4 people are killed and 8 others injured as a gas explosion ripped through a residential building in Kharkiv, Ukraine. ](/news/2012/12/17/at-least-4-people-are-killed-and-8-others-injured-as-a-gas-explosion-ripped-through-a-residential-building-in-kharkiv-ukraine.md)
-_Context: Ukraine, Kharkiv, gas explosion_
+_Context: gas explosion, Kharkiv, Ukraine_
 
 ##### Libyan Parliament
 ### [The Parliament of Libya orders the closure of Libya's southern borders with Chad, Sudan, Algeria and Niger while declaring seven southern regions restricted military areas to stop the flow of illegal immigrants and goods. ](/news/2012/12/17/the-parliament-of-libya-orders-the-closure-of-libya-s-southern-borders-with-chad-sudan-algeria-and-niger-while-declaring-seven-southern-re.md)
-_Context: Libyan Parliament, Chad, Sudan, Niger, Algeria, Libya_
+_Context: Algeria, Chad, Libyan Parliament, Libya, Sudan, Niger_
 
 ##### Sandy Hook Elementary School shooting
 ### [Funerals begin for the victims of the Sandy Hook Elementary School shooting in the American town of Newtown, Connecticut. ](/news/2012/12/17/funerals-begin-for-the-victims-of-the-sandy-hook-elementary-school-shooting-in-the-american-town-of-newtown-connecticut.md)
@@ -41,7 +41,7 @@ _Context: Sandy Hook Elementary School shooting, Newtown, Connecticut_
 
 ##### North Korea
 ### [North Korea commemorates the one-year anniversary of the death of former Leader Kim Jong-il. ](/news/2012/12/17/north-korea-commemorates-the-one-year-anniversary-of-the-death-of-former-leader-kim-jong-il.md)
-_Context: Kim Jong-il, North Korea, leader, death_
+_Context: death, North Korea, leader, Kim Jong-il_
 
 ##### senators
 ### [The Senate of the Philippines passes its version of the measure by 13-8. ](/news/2012/12/17/the-senate-of-the-philippines-passes-its-version-of-the-measure-by-13a8.md)
@@ -57,7 +57,7 @@ The Rajya Sabha on Monday passed the constitution amendment bill to provide rese
 
 ##### President
 ### [The President of Romania nominates current Prime Minister Victor Ponta of the Social Liberal Union to form a new government after the parliamentary election held earlier this month. ](/news/2012/12/17/the-president-of-romania-nominates-current-prime-minister-victor-ponta-of-the-social-liberal-union-to-form-a-new-government-after-the-parlia.md)
-_Context: parliamentary election, Prime Minister, Social Liberal Union, President, Victor Ponta_
+_Context: Victor Ponta, Prime Minister, Social Liberal Union, President, parliamentary election_
 
 ##### Nikki Haley
 ### [Nikki Haley, the Governor of South Carolina, appoints Tim Scott to replace outgoing US Senator Jim DeMint. ](/news/2012/12/17/nikki-haley-the-governor-of-south-carolina-appoints-tim-scott-to-replace-outgoing-us-senator-jim-demint.md)
@@ -65,7 +65,7 @@ Gov. Nikki Haley of South Carolina on Monday appointed GOP Congressman Tim Scott
 
 ##### Ephraim Mirvis
 ### [Ephraim Mirvis is announced as the next Chief Rabbi of the United Kingdom, replacing Dr. Jonathan Sacks who will step down from the role in 2013. ](/news/2012/12/17/ephraim-mirvis-is-announced-as-the-next-chief-rabbi-of-the-united-kingdom-replacing-dr-jonathan-sacks-who-will-step-down-from-the-role-in.md)
-_Context: Dr. Jonathan Sacks, Chief Rabbi of the United Kingdom, Ephraim Mirvis_
+_Context: Chief Rabbi of the United Kingdom, Ephraim Mirvis, Dr. Jonathan Sacks_
 
 ##### NASA
 ### [NASA's twin GRAIL spacecrafts crash into a mile-high cliff near the Lunar North Pole to close out a successful mission to map the Moon's gravity field with unprecedented precision. ](/news/2012/12/17/nasa-s-twin-grail-spacecrafts-crash-into-a-mile-high-cliff-near-the-lunar-north-pole-to-close-out-a-successful-mission-to-map-the-moon-s-gra.md)

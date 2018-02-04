@@ -13,7 +13,7 @@ An airstrike launched by the Saudi-led coalition in Yemen killed at least 26 peo
 
 ##### Spillover of the Syrian Civil War
 ### [A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.md)
-_Context: Kilis, ISIL, Aleppo Governorate, Spillover of the Syrian Civil War, Syria-Turkey border, Syria, Turkish, Turkish troops_
+_Context: Turkish, Kilis, Spillover of the Syrian Civil War, Syria, Syria-Turkey border, ISIL, Turkish troops, Aleppo Governorate_
 
 ##### Glenn Frey
 ### [Glenn Frey, a founding member of the Eagles, dies of complications arising from rheumatoid arthritis, colitis and pneumonia. ](/news/2016/01/18/glenn-frey-a-founding-member-of-the-eagles-dies-of-complications-arising-from-rheumatoid-arthritis-colitis-and-pneumonia.md)
@@ -21,7 +21,7 @@ The Eagles founder and guitarist Glenn Frey has died at the age of 67, the band 
 
 ##### Xiao Gang
 ### [Reuters reports that Xiao Gang, the head of the China Securities Regulatory Commission, has offered to resign after a sharp sell-off in two of China's stock exchanges. ](/news/2016/01/18/reuters-reports-that-xiao-gang-the-head-of-the-china-securities-regulatory-commission-has-offered-to-resign-after-a-sharp-sell-off-in-two.md)
-_Context: Xiao Gang, China's Securities Regulatory Commission_
+_Context: China's Securities Regulatory Commission, Xiao Gang_
 
 ##### Tata Steel
 ### [Tata Steel is to cut 1,050 jobs in the United Kingdom, with the majority going in South Wales. The Indian multinational steel-making company announced there will be 750 job losses at its Port Talbot Steelworks in Port Talbot, Wales while another 300 jobs will go at its plants in Corby and Hartlepool in England. ](/news/2016/01/18/tata-steel-is-to-cut-1-050-jobs-in-the-united-kingdom-with-the-majority-going-in-south-wales-the-indian-multinational-steel-making-company.md)
@@ -41,7 +41,7 @@ WARRI, Nigeria (AP) — Nigerian separatists said police killed eight people dur
 
 ##### Russia
 ### [The Russian Duma rejects a Communist Party bill banning homosexual expression. ](/news/2016/01/18/the-russian-duma-rejects-a-communist-party-bill-banning-homosexual-expression.md)
-_Context: Russia, Communist Party, homosexual, Duma_
+_Context: Russia, homosexual, Duma, Communist Party_
 
 ##### 2016 U.S. presidential election
 ### [The British Parliament debates a petition, signed by more than 560,000 people, calling for the Home Secretary to ban, because of 'hate speech,' United States Republican Party presidential candidate Donald Trump from entering the United Kingdom. Almost all of the 50 MPs (member of parliament), of the 650-member legislative body, present criticized Trump -- especially his comments on Muslims -- but few supported an entry ban. ](/news/2016/01/18/the-british-parliament-debates-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ban-because-of-hate-speec.md)

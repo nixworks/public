@@ -5,7 +5,7 @@ Formats: [HTML](2005/08/11/index.html)  [JSON](2005/08/11/index.json)  [XML](200
 
 ##### Israelis
 ### [ Tens of thousands of Israelis have converged on Tel Aviv to protest the proposed removal of Israeli settlements from the Gaza Strip. ](/news/2005/08/11/tens-of-thousands-of-israelis-have-converged-on-tel-aviv-to-protest-the-proposed-removal-of-israeli-settlements-from-the-gaza-strip.md)
-_Context: Israelis, Gaza Strip, Tel Aviv, Israeli settlement_
+_Context: Tel Aviv, Israeli settlement, Gaza Strip, Israelis_
 
 ##### Mirza zaza
 ### [ Scientists at the German Primate Centre and the University of Gttingen announce the discovery of two new species of lemur, "Mirza zaza" and "Microcebus lehilahytsara". ](/news/2005/08/11/scientists-at-the-german-primate-centre-and-the-university-of-gottingen-announce-the-discovery-of-two-new-species-of-lemur-mirza-zaza-an.md)
@@ -13,15 +13,15 @@ _Context: Microcebus lehilahytsara, Mirza zaza_
 
 ##### Pakistan
 ### [ Pakistan's first domestically designed cruise missile, the Babur missile, is test launched. ](/news/2005/08/11/pakistan-s-first-domestically-designed-cruise-missile-the-babur-missile-is-test-launched.md)
-_Context: Pakistan, Babur missile, cruise missile_
+_Context: cruise missile, Pakistan, Babur missile_
 
 ##### Salva Kiir
 ### [ Salva Kiir has been sworn in as the Vice-President of Sudan, following the recent death of John Garang. ](/news/2005/08/11/salva-kiir-has-been-sworn-in-as-the-vice-president-of-sudan-following-the-recent-death-of-john-garang.md)
-_Context: Salva Kiir, Vice-President, John Garang, Sudan, inaugurated_
+_Context: Vice-President, Sudan, Salva Kiir, John Garang, inaugurated_
 
 ##### Abortion in the Republic of Ireland
 ### [ Abortion in Ireland: Three Irish women are taking the Government of Ireland to the European Court of Human Rights to challenge Ireland's constitutional ban on Abortion. ](/news/2005/08/11/abortion-in-ireland-three-irish-women-are-taking-the-government-of-ireland-to-the-european-court-of-human-rights-to-challenge-ireland-s-co.md)
-_Context: ban on Abortion, women, Abortion in the Republic of Ireland, constitutional, Irish, European Court of Human Rights, Government of Ireland_
+_Context: constitutional, Abortion in the Republic of Ireland, Government of Ireland, European Court of Human Rights, Irish, women, ban on Abortion_
 
 ##### Mars Reconnaissance Orbiter
 ### [ Mars Reconnaissance Orbiter was scheduled to be launched at 9:00am EST (local time for launch), but the launch was scrubbed due to technical problems. ](/news/2005/08/11/mars-reconnaissance-orbiter-was-scheduled-to-be-launched-at-9-00am-est-local-time-for-launch-but-the-launch-was-scrubbed-due-to-technica.md)

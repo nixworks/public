@@ -9,7 +9,7 @@ The fund that protects depositors fell into the red for the first time since the
 
 ##### Royal Netherlands Navy
 ### [ The Royal Netherlands Navy seizes 13 Somali pirates and frees two Tanzanians from a vessel that attacked a German ship off the southern cost of Oman. ](/news/2009/12/3/the-royal-netherlands-navy-seizes-13-somali-pirates-and-frees-two-tanzanians-from-a-vessel-that-attacked-a-german-ship-off-the-southern-cos.md)
-_Context: Royal Netherlands Navy, Oman, Somali pirates, Tanzania, German_
+_Context: Somali pirates, German, Tanzania, Royal Netherlands Navy, Oman_
 
 ##### Nigeria
 ### [ Nigerian farmers sue Shell at a court in The Hague over claims that the oil firm polluted their land in the Niger Delta region. ](/news/2009/12/3/nigerian-farmers-sue-shell-at-a-court-in-the-hague-over-claims-that-the-oil-firm-polluted-their-land-in-the-niger-delta-region.md)
@@ -21,15 +21,15 @@ _Context: Xinjiang, rmqi, China, riots_
 
 ##### India
 ### [ Indian activists mark the 25th anniversary of the industrial disaster that took place in Bhopal which led to 3,787 deaths. ](/news/2009/12/3/indian-activists-mark-the-25th-anniversary-of-the-industrial-disaster-that-took-place-in-bhopal-which-led-to-3-787-deaths.md)
-_Context: India, Bhopal, Bhopal disaster_
+_Context: Bhopal, Bhopal disaster, India_
 
 ##### Somalia
 ### [ Three Somali cabinet ministers are amongst dozens killed in a bomb blast at a university graduation ceremony at a hotel in Mogadishu. ](/news/2009/12/3/three-somali-cabinet-ministers-are-amongst-dozens-killed-in-a-bomb-blast-at-a-university-graduation-ceremony-at-a-hotel-in-mogadishu.md)
-_Context: university, bomb blast, Somalia, Mogadishu_
+_Context: Somalia, university, Mogadishu, bomb blast_
 
 ##### Iran
 ### [ Three Iranian pilgrims are killed after their bus exploded at a petrol station in the Syrian capital Damascus. ](/news/2009/12/3/three-iranian-pilgrims-are-killed-after-their-bus-exploded-at-a-petrol-station-in-the-syrian-capital-damascus.md)
-_Context: Damascus, Iran, Syria_
+_Context: Syria, Iran, Damascus_
 
 ##### Nathan Rees
 ### [ Nathan Rees is replaced as leader of the New South Wales Australian Labor Party and Premier of New South Wales by Kristina Keneally. ](/news/2009/12/3/nathan-rees-is-replaced-as-leader-of-the-new-south-wales-australian-labor-party-and-premier-of-new-south-wales-by-kristina-keneally.md)

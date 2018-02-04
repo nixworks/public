@@ -5,7 +5,7 @@ Formats: [HTML](2010/05/24/index.html)  [JSON](2010/05/24/index.json)  [XML](201
 
 ##### Trinidad and Tobago
 ### [Trinidad and Tobago holds a general election, resulting in the victory of the United National Congress, and Kamla Persad-Bissessar becoming its first female Prime Minister. ](/news/2010/05/24/trinidad-and-tobago-holds-a-general-election-resulting-in-the-victory-of-the-united-national-congress-and-kamla-persad-bissessar-becoming.md)
-_Context: general election, Prime Minister, Trinidad and Tobago, Kamla Persad-Bissessar, United National Congress_
+_Context: Trinidad and Tobago, Kamla Persad-Bissessar, United National Congress, Prime Minister, general election_
 
 ##### continue to rise
 ### [The death toll as a result of severe flooding in Poland reaches 15 as Interior Minister Jerzy Miller says "The situation is worse than expected". ](/news/2010/05/24/the-death-toll-as-a-result-of-severe-flooding-in-poland-reaches-15-as-interior-minister-jerzy-miller-says-the-situation-is-worse-than-expec.md)
@@ -37,7 +37,7 @@ _Context: Beijing_
 
 ##### U.S.-China Strategic and Economic Dialogue
 ### [The second round of the U.S.-China Strategic and Economic Dialogue begins in Beijing, China. ](/news/2010/05/24/the-second-round-of-the-u-s-achina-strategic-and-economic-dialogue-begins-in-beijing-china.md)
-_Context: Beijing, U.S.-China Strategic and Economic Dialogue, China_
+_Context: U.S.-China Strategic and Economic Dialogue, China, Beijing_
 
 ##### Bashar al-Ageidi
 ### [The assassination of Bashar al-Ageidi from the election-winning Iraqiya bloc of Ayad Allawi takes place outside his house in Mosul. ](/news/2010/05/24/the-assassination-of-bashar-al-ageidi-from-the-election-winning-iraqiya-bloc-of-ayad-allawi-takes-place-outside-his-house-in-mosul.md)
@@ -53,11 +53,11 @@ A Kenyan appeal court rules that Islamic courts are illegal and discriminatory u
 
 ##### Niger
 ### [Niger proposes reforms that would see only those with a university degree be allowed to run in presidential elections and parliamentary candidates be under the age of seventy and have some form of secondary education. Opposition groups say this discriminates against the 80 per cent of the population that is illiterate. ](/news/2010/05/24/niger-proposes-reforms-that-would-see-only-those-with-a-university-degree-be-allowed-to-run-in-presidential-elections-and-parliamentary-cand.md)
-_Context: university degree, Niger_
+_Context: Niger, university degree_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad is met with protests during a speech in Khorramshahr. ](/news/2010/05/24/president-of-iran-mahmoud-ahmadinejad-is-met-with-protests-during-a-speech-in-khorramshahr.md)
-_Context: President, Khorramshahr, Mahmoud Ahmadinejad_
+_Context: Mahmoud Ahmadinejad, Khorramshahr, President_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund says "far-reaching" reforms are vital for Spain's economy. ](/news/2010/05/24/the-international-monetary-fund-says-far-reaching-reforms-are-vital-for-spain-s-economy.md)
@@ -65,15 +65,15 @@ _Context: Spain, International Monetary Fund_
 
 ##### Plane Stupid
 ### [Plane Stupid protesters break into Manchester Airport and lock arms around an aircraft. Flights are suspended. ](/news/2010/05/24/plane-stupid-protesters-break-into-manchester-airport-and-lock-arms-around-an-aircraft-flights-are-suspended.md)
-_Context: Plane Stupid, Manchester_
+_Context: Manchester, Plane Stupid_
 
 ##### Huddersfield
 ### [The people of Huddersfield in the Metropolitan Borough of Kirklees of West Yorkshire in England are ordered to remain indoors and several schools are shut down after a huge fire engulfs a chemical plant in the area. ](/news/2010/05/24/the-people-of-huddersfield-in-the-metropolitan-borough-of-kirklees-of-west-yorkshire-in-england-are-ordered-to-remain-indoors-and-several-sc.md)
-_Context: West Yorkshire, Huddersfield, Metropolitan Borough of Kirklees, England_
+_Context: Huddersfield, England, West Yorkshire, Metropolitan Borough of Kirklees_
 
 ##### General Medical Council
 ### [The UK's General Medical Council bans Dr. Andrew Wakefield, who was the first to publish research suggesting a connection between the MMR vaccine and autism, from practicing in the country, finding him guilty of "serious professional misconduct." ](/news/2010/05/24/the-uk-s-general-medical-council-bans-dr-andrew-wakefield-who-was-the-first-to-publish-research-suggesting-a-connection-between-the-mmr-va.md)
-_Context: Andrew Wakefield, autism, MMR vaccine, General Medical Council_
+_Context: autism, MMR vaccine, General Medical Council, Andrew Wakefield_
 
 ##### dumbbell
 ### [Peter Harvey, the UK teacher who attacked a pupil with a dumbbell while shouting "die, die, die", is sentenced to community order as his trial ends in Nottingham. The judge calls him as a "thoroughly decent man". ](/news/2010/05/24/peter-harvey-the-uk-teacher-who-attacked-a-pupil-with-a-dumbbell-while-shouting-die-die-die-is-sentenced-to-community-order-as-his-tri.md)
@@ -85,11 +85,11 @@ The SDLP leader and South Down MP Margaret Ritchie has formally resigned from th
 
 ##### Sarah, Duchess of York
 ### [Sarah, Duchess of York receives support from businessman Simon Cowell and an award for her work with the disadvantaged children of the U.S. city of Los Angeles despite being caught in a newspaper sting in Britain. ](/news/2010/05/24/sarah-duchess-of-york-receives-support-from-businessman-simon-cowell-and-an-award-for-her-work-with-the-disadvantaged-children-of-the-u-s.md)
-_Context: Los Angeles, Sarah, Duchess of York, Simon Cowell, United States_
+_Context: United States, Los Angeles, Sarah, Duchess of York, Simon Cowell_
 
 ##### Iran
 ### [Iran's largest water supply project is inaugurated in Khorramshahr. ](/news/2010/05/24/iran-s-largest-water-supply-project-is-inaugurated-in-khorramshahr.md)
-_Context: Iran, Khorramshahr_
+_Context: Khorramshahr, Iran_
 
 ##### Paul Gray
 ### [Paul Gray, bassist and founding member of heavy metal group Slipknot, is found dead at the age of 38 by a hotel employee in his room in Iowa, United States. ](/news/2010/05/24/paul-gray-bassist-and-founding-member-of-heavy-metal-group-slipknot-is-found-dead-at-the-age-of-38-by-a-hotel-employee-in-his-room-in-iowa.md)

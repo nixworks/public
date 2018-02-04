@@ -5,7 +5,7 @@ Formats: [HTML](2012/01/6/index.html)  [JSON](2012/01/6/index.json)  [XML](2012/
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: According to Syrian state media, 26 people are killed and 63 wounded when a suicide bomber blows himself up at a police station in Damascus. The Syrian opposition blames the Syrian government for orchestrating the attack, and alleges that they have leaked information from security forces that Aleppo is next. ](/news/2012/01/6/2011a2012-syrian-uprising-according-to-syrian-state-media-26-people-are-killed-and-63-wounded-when-a-suicide-bomber-blows-himself-up-at.md)
-_Context: 26 people are killed and 63 wounded, suicide bomber, 2011-2012 Syrian uprising, Damascus_
+_Context: 2011-2012 Syrian uprising, suicide bomber, 26 people are killed and 63 wounded, Damascus_
 
 ##### Asa'ib Ahl al-Haq
 ### [Asa'ib Ahl al-Haq, the Iranian-backed Shiite militia that carried out deadly attacks on U.S. troops agrees to lay down its arms and join the political process in Iraq. ](/news/2012/01/6/asa-ib-ahl-al-haq-the-iranian-backed-shiite-militia-that-carried-out-deadly-attacks-on-u-s-troops-agrees-to-lay-down-its-arms-and-join-the.md)
@@ -25,15 +25,15 @@ _Context: Lords of Dharmaraja, Norton, Symantec_
 
 ##### Tibet
 ### [A Tibetan protester sets himself on fire in Sichuan, China. ](/news/2012/01/6/a-tibetan-protester-sets-himself-on-fire-in-sichuan-china.md)
-_Context: China, Tibet, Sichuan_
+_Context: Tibet, China, Sichuan_
 
 ##### Jamaica
 ### [The Jamaican Prime Minister Portia Simpson-Miller announces that the country is to become a republic, with plans to remove Queen Elizabeth II as head of state and the Jamaican monarchy in general. ](/news/2012/01/6/the-jamaican-prime-minister-portia-simpson-miller-announces-that-the-country-is-to-become-a-republic-with-plans-to-remove-queen-elizabeth-i.md)
-_Context: Queen Elizabeth II, republic, Jamaica, Portia Simpson-Miller, Jamaican monarchy_
+_Context: Jamaica, republic, Portia Simpson-Miller, Jamaican monarchy, Queen Elizabeth II_
 
 ##### Peter MacKay
 ### [Peter MacKay, Canadian Minister of Defence. marries Nazanin Afshin-Jam, an Iranian former beauty queen, in a private ceremony in Mexico. ](/news/2012/01/6/peter-mackay-canadian-minister-of-defence-marries-nazanin-afshin-jam-an-iranian-former-beauty-queen-in-a-private-ceremony-in-mexico.md)
-_Context: Nazanin Afshin-Jam, Mexico, Peter MacKay_
+_Context: Mexico, Peter MacKay, Nazanin Afshin-Jam_
 
 ## [Previous Day...](/news/2012/01/5/index.md)
 

@@ -21,8 +21,8 @@ Formats: [HTML](/news/2014/02/24/senior-taliban-commander-asmatullah-shaheen-bhi
 
 ### Related:
 
-1. [Pakistan army kills 30 Taliban militants near Peshawar, the capital of North West Frontier Province. ](/news/2010/03/5/pakistan-army-kills-30-taliban-militants-near-peshawar-the-capital-of-north-west-frontier-province.md) _Context: Khyber Pakhtunkhwa, Taliban_
-2. [ The Taliban kidnaps approximately 400 people in North-West Frontier Province, Pakistan. ](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.md) _Context: Khyber Pakhtunkhwa, Taliban_
-3. [ The Taliban announces a ceasefire in its war in northwest Pakistan's Swat Valley. ](/news/2009/02/24/the-taliban-announces-a-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.md) _Context: Khyber Pakhtunkhwa, Taliban_
-4. [ The Taliban and Pakistan agree to a permanent ceasefire in the war in North-West Frontier Province. ](/news/2009/02/21/the-taliban-and-pakistan-agree-to-a-permanent-ceasefire-in-the-war-in-north-west-frontier-province.md) _Context: Khyber Pakhtunkhwa, Taliban_
-5. [ The Taliban announces a ten-day ceasefire in its war in northwest Pakistan's Swat Valley. ](/news/2009/02/15/the-taliban-announces-a-ten-day-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.md) _Context: Khyber Pakhtunkhwa, Taliban_
+1. [Pakistan army kills 30 Taliban militants near Peshawar, the capital of North West Frontier Province. ](/news/2010/03/5/pakistan-army-kills-30-taliban-militants-near-peshawar-the-capital-of-north-west-frontier-province.md) _Context: Northwestern Pakistan, Taliban_
+2. [ The Taliban kidnaps approximately 400 people in North-West Frontier Province, Pakistan. ](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.md) _Context: Northwestern Pakistan, Taliban_
+3. [ The Taliban announces a ceasefire in its war in northwest Pakistan's Swat Valley. ](/news/2009/02/24/the-taliban-announces-a-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.md) _Context: Northwestern Pakistan, Taliban_
+4. [ The Taliban and Pakistan agree to a permanent ceasefire in the war in North-West Frontier Province. ](/news/2009/02/21/the-taliban-and-pakistan-agree-to-a-permanent-ceasefire-in-the-war-in-north-west-frontier-province.md) _Context: Northwestern Pakistan, Taliban_
+5. [ The Taliban announces a ten-day ceasefire in its war in northwest Pakistan's Swat Valley. ](/news/2009/02/15/the-taliban-announces-a-ten-day-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.md) _Context: Northwestern Pakistan, Taliban_

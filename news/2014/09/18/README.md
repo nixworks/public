@@ -13,7 +13,7 @@ Ukrainian President Petro Poroshenko calls on the US to provide military assista
 
 ##### Ebola virus epidemic in West Africa
 ### [The Secretary General of the United Nations Ban Ki-Moon announces the creation of an emergency mission to respond to the virus which has killed over 2,500 people in West Africa . ](/news/2014/09/18/the-secretary-general-of-the-united-nations-ban-ki-moon-announces-the-creation-of-an-emergency-mission-to-respond-to-the-virus-which-has-kil.md)
-_Context: Ban Ki-Moon, West Africa, Secretary General of the United Nations, Ebola virus epidemic in West Africa_
+_Context: Ebola virus epidemic in West Africa, Ban Ki-Moon, West Africa, Secretary General of the United Nations_
 
 ##### Australian police
 ### [Australian police mount raids in the cities of Sydney and Brisbane on alleged Islamic State of Iraq and the Levant sympathisers based on intelligence claims that they were planning a public execution in Australia with fifteen people arrested. ](/news/2014/09/18/australian-police-mount-raids-in-the-cities-of-sydney-and-brisbane-on-alleged-islamic-state-of-iraq-and-the-levant-sympathisers-based-on-int.md)

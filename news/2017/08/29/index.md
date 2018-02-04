@@ -13,7 +13,7 @@ A suicide bomber blew himself up at a bank close to the heavily protected U.S. e
 
 ##### Banking in the United States
 ### [Berkshire Hathaway Inc has become the largest shareholder of Bank of America by exercising its right to acquire 700 million shares at a steep discount, more than tripling an investment it made six years ago. Bank of America on Tuesday announced the exercise of the warrants, which gave Berkshire, controlled by Warren Buffett, the right to buy the bank's shares for about $7.14 each. Bank of America shares closed down 14 cents at $23.58 on the same day. ](/news/2017/08/29/berkshire-hathaway-inc-has-become-the-largest-shareholder-of-bank-of-america-by-exercising-its-right-to-acquire-700-million-shares-at-a-stee.md)
-_Context: Bank of America, Banking in the United States, Warren Buffett, Berkshire Hathaway Inc, shares_
+_Context: shares, Bank of America, Warren Buffett, Berkshire Hathaway Inc, Banking in the United States_
 
 ##### Hurricane Harvey
 ### [The death toll from Hurricane Harvey reaches 30 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md)
@@ -37,7 +37,7 @@ A regional parliament has lifted the immunity of the best known politician in th
 
 ##### Sexual orientation and gender identity in the United States military
 ### [Defense Secretary James Mattis announces that transgender troops in the military will continue to serve pending the results of a study started in June to assess the Pentagon's ability to fight and win wars. ](/news/2017/08/29/defense-secretary-james-mattis-announces-that-transgender-troops-in-the-military-will-continue-to-serve-pending-the-results-of-a-study-start.md)
-_Context: United States Secretary of Defense, Sexual orientation and gender identity in the United States military, James Mattis, Transgender personnel in the United States military_
+_Context: Sexual orientation and gender identity in the United States military, James Mattis, Transgender personnel in the United States military, United States Secretary of Defense_
 
 ## [Previous Day...](/news/2017/08/28/index.md)
 

@@ -17,7 +17,7 @@ Seven die in a stampede at a rally addressed by Pakistani opposition politician 
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Vongphong heads for the Japanese island of Okinawa leading to power losses and flight disruptions. ](/news/2014/10/11/typhoon-vongphong-heads-for-the-japanese-island-of-okinawa-leading-to-power-losses-and-flight-disruptions.md)
-_Context: Typhoon Vongfong, 2014 Pacific typhoon season, Okinawa, Japan_
+_Context: Japan, Typhoon Vongfong, 2014 Pacific typhoon season, Okinawa_
 
 ##### 2014 North Indian Ocean cyclone season
 ### [Cyclone Hudhud strengthens over the Bay of Bengal with one person having already died in the storm. Mass evacuations of thousands of people is occurring as the storm approaches the east coast. ](/news/2014/10/11/cyclone-hudhud-strengthens-over-the-bay-of-bengal-with-one-person-having-already-died-in-the-storm-mass-evacuations-of-thousands-of-people.md)
@@ -29,7 +29,7 @@ Thousands of protesters marched through St. Louis on Saturday as part of a weeke
 
 ##### Charles Michel
 ### [Charles Michel is sworn in as the new Prime Minister of Belgium leading a Coalition of four centre-right parties. ](/news/2014/10/11/charles-michel-is-sworn-in-as-the-new-prime-minister-of-belgium-leading-a-coalition-of-four-centre-right-parties.md)
-_Context: Charles Michel, Belgian Prime Minister_
+_Context: Belgian Prime Minister, Charles Michel_
 
 ## [Previous Day...](/news/2014/10/10/index.md)
 

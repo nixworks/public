@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/24/index.html)  [JSON](2009/04/24/index.json)  [XML](200
 
 ##### swine flu
 ### [ Swine influenza kills at least 68 people and infects at least 1,000 more in Mexico. ](/news/2009/04/24/swine-influenza-kills-at-least-68-people-and-infects-at-least-1-000-more-in-mexico.md)
-_Context: Mexico, current outbreak, swine flu_
+_Context: current outbreak, swine flu, Mexico_
 
 ##### suicide attack
 ### [ A suicide attack kills at least 60 people and injures 125 more in Baghdad, Iraq. ](/news/2009/04/24/a-suicide-attack-kills-at-least-60-people-and-injures-125-more-in-baghdad-iraq.md)
@@ -13,23 +13,23 @@ Two suicide bombers have blown themselves up at the gates of a revered Shiite Mu
 
 ##### United States
 ### [ Two American Current TV journalists will be tried on criminal charges in North Korea. ](/news/2009/04/24/two-american-current-tv-journalists-will-be-tried-on-criminal-charges-in-north-korea.md)
-_Context: journalist, trial, United States, indicted, Current TV, North Korea_
+_Context: indicted, United States, North Korea, journalist, trial, Current TV_
 
 ##### Northern Mariana Islands
 ### [ Northern Mariana Islands Lieutenant Governor Timothy P. Villagomez is convicted of fraud, wire fraud, and bribery. ](/news/2009/04/24/northern-mariana-islands-lieutenant-governor-timothy-p-villagomez-is-convicted-of-fraud-wire-fraud-and-bribery.md)
-_Context: fraud, Lieutenant Governor, wire fraud, bribes, Northern Mariana Islands, Timothy P. Villagomez_
+_Context: bribes, wire fraud, fraud, Northern Mariana Islands, Timothy P. Villagomez, Lieutenant Governor_
 
 ##### Democrat
 ### [ Democrat Scott Murphy wins New York's 20th congressional district special election. ](/news/2009/04/24/democrat-scott-murphy-wins-new-york-s-20th-congressional-district-special-election.md)
-_Context: Democrat, Scott Murphy, 20th congressional district, New York, special election_
+_Context: New York, Democrat, special election, Scott Murphy, 20th congressional district_
 
 ##### American Southern Bank
 ### [ American Southern Bank in Kennesaw, Georgia, is closed. ](/news/2009/04/24/american-southern-bank-in-kennesaw-georgia-is-closed.md)
-_Context: Kennesaw, American Southern Bank, Georgia, banks failed_
+_Context: American Southern Bank, Georgia, Kennesaw, banks failed_
 
 ##### bovine genome
 ### [ The bovine genome is sequenced. ](/news/2009/04/24/the-bovine-genome-is-sequenced.md)
-_Context: bovine genome, sequenced_
+_Context: sequenced, bovine genome_
 
 ## [Previous Day...](/news/2009/04/23/index.md)
 

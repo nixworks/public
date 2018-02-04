@@ -45,11 +45,11 @@ Security contractors face decades in prison for the 2007 shootings in Baghdad&rs
 
 ##### manslaughter by gross negligence
 ### [A volunteer police officer is charged with manslaughter in the shooting death of Eric Harris, an unarmed man who was shot while lying on his back in Tulsa, Oklahoma. ](/news/2015/04/13/a-volunteer-police-officer-is-charged-with-manslaughter-in-the-shooting-death-of-eric-harris-an-unarmed-man-who-was-shot-while-lying-on-his.md)
-_Context: manslaughter by gross negligence, Tulsa, Oklahoma_
+_Context: Tulsa, Oklahoma, manslaughter by gross negligence_
 
 ##### 2016 U.S. presidential election
 ### [Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-presidential-election.md)
-_Context: Marco Rubio, candidacy, Senator, Republican, 2016 U.S. presidential election, the state_
+_Context: the state, candidacy, Marco Rubio, 2016 U.S. presidential election, Republican, Senator_
 
 ## [Previous Day...](/news/2015/04/12/index.md)
 

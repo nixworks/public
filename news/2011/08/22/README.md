@@ -9,11 +9,11 @@ Moamar Gaddafi&#039;s capital falls to rebel forces as his heir is captured and 
 
 ##### Palestinian
 ### [Palestinian militants on the Gaza Strip fire rockets and mortars into Israel despite a truce. ](/news/2011/08/22/palestinian-militants-on-the-gaza-strip-fire-rockets-and-mortars-into-israel-despite-a-truce.md)
-_Context: Palestinian, Gaza Strip, Israel_
+_Context: Israel, Gaza Strip, Palestinian_
 
 ##### Pakistan
 ### [Pakistan announces it will send more troops to Bahrain in support of the King of Bahrain Hamad bin Isa Al Khalifa. ](/news/2011/08/22/pakistan-announces-it-will-send-more-troops-to-bahrain-in-support-of-the-king-of-bahrain-hamad-bin-isa-al-khalifa.md)
-_Context: Hamad bin Isa Al Khalifa, Pakistan, King of Bahrain, Bahrain_
+_Context: Bahrain, Hamad bin Isa Al Khalifa, Pakistan, King of Bahrain_
 
 ##### soldiers
 ### [The Australian Army reports that another Australian soldier has been killed by an improvised explosive device lost in fighting in Afghanistan. ](/news/2011/08/22/the-australian-army-reports-that-another-australian-soldier-has-been-killed-by-an-improvised-explosive-device-lost-in-fighting-in-afghanista.md)
@@ -33,11 +33,11 @@ Nickolas Ashford, who has died aged 69, was a songwriter who, with his wife Vale
 
 ##### Australia
 ### [Australia's BlueScope Steel announces the loss of a thousand jobs with 800 jobs lost in Port Kembla and 200 jobs in Western Port. ](/news/2011/08/22/australia-s-bluescope-steel-announces-the-loss-of-a-thousand-jobs-with-800-jobs-lost-in-port-kembla-and-200-jobs-in-western-port.md)
-_Context: Port Kembla, Western Port, Australia, BlueScope Steel_
+_Context: Australia, Western Port, Port Kembla, BlueScope Steel_
 
 ##### crude oil
 ### [The price of crude oil falls on world markets due to the downfall of Muammar Gaddafi and bleak global economic outlook. ](/news/2011/08/22/the-price-of-crude-oil-falls-on-world-markets-due-to-the-downfall-of-muammar-gaddafi-and-bleak-global-economic-outlook.md)
-_Context: crude oil, Muammar Gaddafi_
+_Context: Muammar Gaddafi, crude oil_
 
 ##### British
 ### [Twenty people including British billionaire Richard Branson and actress Kate Winslet have to be rescued after Hurricane Irene destroys Branson's mansion on Necker Island in the Caribbean Sea. ](/news/2011/08/22/twenty-people-including-british-billionaire-richard-branson-and-actress-kate-winslet-have-to-be-rescued-after-hurricane-irene-destroys-brans.md)
@@ -45,11 +45,11 @@ Hurricane Irene could hit the Southeast United States as a major Category 3 stor
 
 ##### New York City
 ### [Prosecutors in New York City ask for charges against former International Monetary Fund head Dominique Strauss-Kahn to be dropped. ](/news/2011/08/22/prosecutors-in-new-york-city-ask-for-charges-against-former-international-monetary-fund-head-dominique-strauss-kahn-to-be-dropped.md)
-_Context: Dominique Strauss-Kahn, New York City, International Monetary Fund_
+_Context: New York City, Dominique Strauss-Kahn, International Monetary Fund_
 
 ##### Jack Layton
 ### [Jack Layton, leader of Canada's New Democratic Party and Leader of the Opposition, dies from cancer at age 61. ](/news/2011/08/22/jack-layton-leader-of-canada-s-new-democratic-party-and-leader-of-the-opposition-dies-from-cancer-at-age-61.md)
-_Context: Canadian, New Democratic Party, Jack Layton, Leader of the Opposition_
+_Context: Canadian, Jack Layton, New Democratic Party, Leader of the Opposition_
 
 ## [Previous Day...](/news/2011/08/21/index.md)
 

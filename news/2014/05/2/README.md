@@ -9,11 +9,11 @@ Opposition fighters are to be allowed to withdraw from besieged parts of the Syr
 
 ##### Egypt
 ### [Attacks by suicide bombers on a security checkpoint and a civilian bus in Egypt's Sinai Peninsula as well as a separate bombing near a courthouse in Cairo killed at least four people. ](/news/2014/05/2/attacks-by-suicide-bombers-on-a-security-checkpoint-and-a-civilian-bus-in-egyptas-sinai-peninsula-as-well-as-a-separate-bombing-near-a-cou.md)
-_Context: Cairo, Egypt, Sinai Peninsula_
+_Context: Cairo, Sinai Peninsula, Egypt_
 
 ##### Ethiopia
 ### [At least nine students are killed in protests in Ethiopia's Oromia Region. ](/news/2014/05/2/at-least-nine-students-are-killed-in-protests-in-ethiopia-s-oromia-region.md)
-_Context: Ethiopia, Oromia Region_
+_Context: Oromia Region, Ethiopia_
 
 ##### China
 ### [Security tightens in the People's Republic of China after Wednesday's bombing at a train station left three dead and 79 injured. ](/news/2014/05/2/security-tightens-in-the-people-s-republic-of-china-after-wednesday-s-bombing-at-a-train-station-left-three-dead-and-79-injured.md)

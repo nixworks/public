@@ -5,13 +5,13 @@ Formats: [HTML](2015/07/22/index.html)  [JSON](2015/07/22/index.json)  [XML](201
 
 ##### suicide bombing
 ### [ A suicide bomb attack kills at least 15 people in northern Afghanistan. ](/news/2015/07/22/a-suicide-bomb-attack-kills-at-least-15-people-in-northern-afghanistan.md)
-_Context: Afghanistan, suicide bombing_
+_Context: suicide bombing, Afghanistan_
 
 ##### explosion
 ### [ Two explosions in the Nigerian city of Gombe killed at least 29 people. ](/news/2015/07/22/two-explosions-in-the-nigerian-city-of-gombe-killed-at-least-29-people.md)
 At least 29 people died and 60 were wounded in multiple bomb blasts at two bus stations in the northern Nigerian city of Gombe on Wednesday evening, a Red Cross official said.
 
-##### University of Oxford
+##### Oxford
 ### [The University of Oxford has radiocarbon dated fragments, of what apparently is the world's oldest Quran, to between 568 A.D. and 645 A.D. The animal skin parchment was found hidden inside the pages of another book in England's University of Birmingham library. ](/news/2015/07/22/the-university-of-oxford-has-radiocarbon-dated-fragments-of-what-apparently-is-the-world-s-oldest-quran-to-between-568-a-d-and-645-a-d-t.md)
 Scientists in the UK say they have found fragments of one of the world&#39;s oldest surviving Koran parchments. Radiocarbon analysis dated the pages of the Muslim holy book close to the time of Muhammad.
 
@@ -37,7 +37,7 @@ Football playing robots built by researchers at Eindhoven University have lost t
 
 ##### National Institutes of Health
 ### [ Scientists at the U.S. NIH's National Institute of Allergy and Infectious Diseases report a major breakthrough toward finding a new universal flu vaccine by using non-infectious H-proteins instead of whole viruses.](/news/2015/07/22/scientists-at-the-u-s-nih-s-national-institute-of-allergy-and-infectious-diseases-report-a-major-breakthrough-toward-finding-a-new-univers.md)
-_Context: universal flu vaccine, National Institute of Allergy and Infectious Diseases, H-proteins, National Institutes of Health_
+_Context: National Institutes of Health, National Institute of Allergy and Infectious Diseases, H-proteins, universal flu vaccine_
 
 ## [Previous Day...](/news/2015/07/21/index.md)
 

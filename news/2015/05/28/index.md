@@ -21,7 +21,7 @@ _Context: 2015 Indian heat wave, Andhra Pradesh_
 
 ##### Indonesia
 ### [Seventeen students are killed and five injured when a truck carrying them to school overturns on the Indonesian island of Sumatra. ](/news/2015/05/28/seventeen-students-are-killed-and-five-injured-when-a-truck-carrying-them-to-school-overturns-on-the-indonesian-island-of-sumatra.md)
-_Context: Indonesia, Sumatra_
+_Context: Sumatra, Indonesia_
 
 ##### Hellenic Coast Guard
 ### [The Hellenic Coast Guard rescues 218 migrants off the coast of Greece who sailed illegally from Turkey making the total number of people arriving more than 1,500 in a week. ](/news/2015/05/28/the-hellenic-coast-guard-rescues-218-migrants-off-the-coast-of-greece-who-sailed-illegally-from-turkey-making-the-total-number-of-people-arr.md)
@@ -37,7 +37,7 @@ Independent TD Catherine Murphy has spoken in the Dáil about the business relat
 
 ##### presidential primaries
 ### [Former Governor of New York, George Pataki, announces that he is seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/28/former-governor-of-new-york-george-pataki-announces-that-he-is-seeking-the-republican-party-nomination-for-the-2016-presidential-election.md)
-_Context: 2016 U.S. presidential election, Republican, George Pataki, presidential primaries, New York Governor_
+_Context: George Pataki, presidential primaries, New York Governor, Republican, 2016 U.S. presidential election_
 
 ##### NASA
 ### [NASA awards Boeing a commercial contract to build and fly the next passenger spacecraft, the CST-100. ](/news/2015/05/28/nasa-awards-boeing-a-commercial-contract-to-build-and-fly-the-next-passenger-spacecraft-the-cst-100.md)

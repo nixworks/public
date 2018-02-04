@@ -13,7 +13,7 @@ A museum in Italy has started burning its artworks in protest at budget cuts whi
 
 ##### United States
 ### [American television personality and producer Dick Clark dies of a heart attack at the age of 82. ](/news/2012/04/18/american-television-personality-and-producer-dick-clark-dies-of-a-heart-attack-at-the-age-of-82.md)
-_Context: United States, Dick Clark_
+_Context: Dick Clark, United States_
 
 ##### U.S.
 ### [In the U.S., the Commodity Futures Trading Commission and the Securities and Exchange Commission finalize joint rules that will limit which firms must register with either or both of those agencies as "swap dealers." ](/news/2012/04/18/in-the-u-s-the-commodity-futures-trading-commission-and-the-securities-and-exchange-commission-finalize-joint-rules-that-will-limit-which.md)
@@ -25,7 +25,7 @@ Cuba hails a Latin American &quot;rebellion&quot; against US dominance at the Su
 
 ##### North Korea
 ### [North Korea rejects criticism from countries on the United Nations Security Council regarding its failed rocket launch, and breaks off an agreement that would see it halt testing of nuclear weapons in exchange for food aid. ](/news/2012/04/18/north-korea-rejects-criticism-from-countries-on-the-united-nations-security-council-regarding-its-failed-rocket-launch-and-breaks-off-an-ag.md)
-_Context: United Nations Security Council, North Korea_
+_Context: North Korea, United Nations Security Council_
 
 ##### Israel
 ### [Israeli army officer Shalom Eisner, who struck a Danish activist in the face with the butt of his gun, is dismissed from his post but not from the Israeli Defense Forces. ](/news/2012/04/18/israeli-army-officer-shalom-eisner-who-struck-a-danish-activist-in-the-face-with-the-butt-of-his-gun-is-dismissed-from-his-post-but-not-fr.md)
@@ -41,7 +41,7 @@ China promises a &quot;thorough&quot; investigation into a top politician linked
 
 ##### the High Court in Edinburgh
 ### [In a rare move for courts in the United Kingdom, television cameras are allowed into the High Court in Edinburgh to film the sentencing of David Gilroy for the murder of Suzanne Pilley. ](/news/2012/04/18/in-a-rare-move-for-courts-in-the-united-kingdom-television-cameras-are-allowed-into-the-high-court-in-edinburgh-to-film-the-sentencing-of-d.md)
-_Context: the High Court in Edinburgh, murder of Suzanne Pilley_
+_Context: murder of Suzanne Pilley, the High Court in Edinburgh_
 
 ## [Previous Day...](/news/2012/04/17/index.md)
 

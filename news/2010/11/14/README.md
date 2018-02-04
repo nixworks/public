@@ -5,19 +5,19 @@ Formats: [HTML](2010/11/14/index.html)  [JSON](2010/11/14/index.json)  [XML](201
 
 ##### Behsod district
 ### [One person dies when a bomb in a pushcart explodes in Behsod district of Nangarhar province, east of Kabul, Afghanistan. ](/news/2010/11/14/one-person-dies-when-a-bomb-in-a-pushcart-explodes-in-behsod-district-of-nangarhar-province-east-of-kabul-afghanistan.md)
-_Context: Nangarhar province, Afghanistan, Kabul, Behsod district_
+_Context: Afghanistan, Nangarhar province, Kabul, Behsod district_
 
 ##### Russia
 ### [Russian security forces kill three rebels in Buinaksk in the Caucasus region of Dagestan. ](/news/2010/11/14/russian-security-forces-kill-three-rebels-in-buinaksk-in-the-caucasus-region-of-dagestan.md)
-_Context: Russia, Dagestan, Caucasus, Buinaksk_
+_Context: Caucasus, Russia, Buinaksk, Dagestan_
 
 ##### Helmand province
 ### [Eleven people are killed in Helmand province, Uruzgan province, Kandahar province, and Nangarhar province of Afghanistan. ](/news/2010/11/14/eleven-people-are-killed-in-helmand-province-uruzgan-province-kandahar-province-and-nangarhar-province-of-afghanistan.md)
-_Context: Nangarhar province, Kandahar province, Helmand province, Uruzgan province_
+_Context: Nangarhar province, Uruzgan province, Helmand province, Kandahar province_
 
 ##### Sudan
 ### [A northern Sudanese plane bombs Southern Sudan, injuring several people, and the UN sends an assessment team to the area. ](/news/2010/11/14/a-northern-sudanese-plane-bombs-southern-sudan-injuring-several-people-and-the-un-sends-an-assessment-team-to-the-area.md)
-_Context: United Nations, Southern Sudan, Sudan_
+_Context: Southern Sudan, Sudan, United Nations_
 
 ##### Somalia
 ### [Somali pirates free British couple Paul and Rachel Chandler after a year in captivity. ](/news/2010/11/14/somali-pirates-free-british-couple-paul-and-rachel-chandler-after-a-year-in-captivity.md)
@@ -25,7 +25,7 @@ Paul and Rachel Chandler fly to Kenya after huge ransom is reportedly paid to en
 
 ##### Afghanistan
 ### [Abdul Khaliq Farahi, the Afghan consul general in Pakistan, is released by gunmen after two years in captivity. ](/news/2010/11/14/abdul-khaliq-farahi-the-afghan-consul-general-in-pakistan-is-released-by-gunmen-after-two-years-in-captivity.md)
-_Context: Pakistan, consul general, Afghanistan_
+_Context: Afghanistan, Pakistan, consul general_
 
 ##### singer-songwriter
 ### [Former British soldier turned singer-songwriter James Blunt claims that he stopped what he believed would be World War III by disobeying a direct order for his troops to attack Russian soldiers given by American General Wesley Clark while he was in Kosovo with NATO in 1999. ](/news/2010/11/14/former-british-soldier-turned-singer-songwriter-james-blunt-claims-that-he-stopped-what-he-believed-would-be-world-war-iii-by-disobeying-a-d.md)
@@ -43,7 +43,7 @@ Death toll jumps to 917 as international organisations appeal for funds to fight
 
 ##### Dijon
 ### [Seven people are killed in a fire burning migrant workers' residence in Dijon, eastern France. ](/news/2010/11/14/seven-people-are-killed-in-a-fire-burning-migrant-workers-residence-in-dijon-eastern-france.md)
-_Context: Dijon, France_
+_Context: France, Dijon_
 
 ##### Mounts Merapi
 ### [The death toll from the Mount Merapi eruptions reaches 250. ](/news/2010/11/14/the-death-toll-from-the-mount-merapi-eruptions-reaches-250.md)
@@ -59,11 +59,11 @@ A radical Muslim cleric who once cheered the Sept. 11 terror attacks on the Unit
 
 ##### UNAMID
 ### [The head of the joint UN-African Union mission in Darfur expresses concern that military tensions between north and south Sudan over the Southern Sudanese independence referendum could spill over into the separate Darfur conflict, undermining troubled peace efforts there. ](/news/2010/11/14/the-head-of-the-joint-un-african-union-mission-in-darfur-expresses-concern-that-military-tensions-between-north-and-south-sudan-over-the-sou.md)
-_Context: UNAMID, south Sudan, Southern Sudanese Independence Referendum, Darfur conflict_
+_Context: south Sudan, UNAMID, Darfur conflict, Southern Sudanese Independence Referendum_
 
 ##### Spain
 ### [Thousands of people protest in Spain against a raid by Moroccan authorities in a camp in the disputed Western Sahara. ](/news/2010/11/14/thousands-of-people-protest-in-spain-against-a-raid-by-moroccan-authorities-in-a-camp-in-the-disputed-western-sahara.md)
-_Context: Morocco, Spain, Western Sahara_
+_Context: Morocco, Western Sahara, Spain_
 
 ##### Israeli cabinet
 ### [The Israeli cabinet approves a plan to allow 8,000 Ethiopians of Jewish descent into the country. ](/news/2010/11/14/the-israeli-cabinet-approves-a-plan-to-allow-8-000-ethiopians-of-jewish-descent-into-the-country.md)
@@ -83,7 +83,7 @@ _Context: Asia Pacific Economic Cooperation, Free Trade Area of the Asia Pacific
 
 ##### Moscow
 ### [Hundreds of people protest in Moscow, Russia, to demand action over an attack on journalist Oleg Kashin. ](/news/2010/11/14/hundreds-of-people-protest-in-moscow-russia-to-demand-action-over-an-attack-on-journalist-oleg-kashin.md)
-_Context: Oleg Kashin, Russia, Moscow_
+_Context: Russia, Oleg Kashin, Moscow_
 
 ##### Cuba
 ### [Cuba frees political prisoner Arnaldo Ramos Lauzerique, one of 13 prisoners who had refused to go into exile in exchange for their freedom. ](/news/2010/11/14/cuba-frees-political-prisoner-arnaldo-ramos-lauzerique-one-of-13-prisoners-who-had-refused-to-go-into-exile-in-exchange-for-their-freedom.md)
@@ -103,11 +103,11 @@ Italian Prime Minister Silvio Berlusconi, fighting for the survival of his gover
 
 ##### Burma
 ### [Thousands of cheering supporters greet Burmese democracy leader Aung San Suu Kyi outside the headquarters of the National League for Democracy in Yangon. ](/news/2010/11/14/thousands-of-cheering-supporters-greet-burmese-democracy-leader-aung-san-suu-kyi-outside-the-headquarters-of-the-national-league-for-democra.md)
-_Context: National League for Democracy, Yangon, Burma, Aung San Suu Kyi_
+_Context: National League for Democracy, Burma, Yangon, Aung San Suu Kyi_
 
 ##### Gerry Adams
 ### [Gerry Adams, the President of Sinn Fein, announces that he will resign his positions in the Northern Ireland Assembly and the Parliament of the United Kingdom to stand for the Dail. ](/news/2010/11/14/gerry-adams-the-president-of-sinn-fa-c-in-announces-that-he-will-resign-his-positions-in-the-northern-ireland-assembly-and-the-parliament-of.md)
-_Context: Sinn Fein, Northern Ireland Assembly, Parliament, Dail, Gerry Adams_
+_Context: Northern Ireland Assembly, Parliament, Sinn Fein, Gerry Adams, Dail_
 
 ##### PASOK
 ### [The Panhellenic Socialist Movement (PASOK) of Greek Prime Minister George Papandreou does well in a second round of municipal elections including its candidates elected as mayors of Athens and Thessaloniki. ](/news/2010/11/14/the-panhellenic-socialist-movement-pasok-of-greek-prime-minister-george-papandreou-does-well-in-a-second-round-of-municipal-elections-incl.md)

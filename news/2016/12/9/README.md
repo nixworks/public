@@ -17,7 +17,7 @@ A twin bomb blast has ripped through a market in Yola, the Adamawa state capital
 
 ##### Kirk Douglas
 ### [American film actor and producer Kirk Douglas, one of the last living movie stars of the Golden Age of Hollywood, celebrates his 100th birthday. ](/news/2016/12/9/american-film-actor-and-producer-kirk-douglas-one-of-the-last-living-movie-stars-of-the-golden-age-of-hollywood-celebrates-his-100th-birth.md)
-_Context: Golden Age of Hollywood, Kirk Douglas_
+_Context: Kirk Douglas, Golden Age of Hollywood_
 
 ##### Iranian government
 ### [Iranian government approved a bill to switch country's currency from rial to the more commonly used toman. The bill must be approved by the parliament. ](/news/2016/12/9/iranian-government-approved-a-bill-to-switch-country-s-currency-from-rial-to-the-more-commonly-used-toman-the-bill-must-be-approved-by-the.md)
@@ -37,7 +37,7 @@ The European Union will let Ukrainians and Georgians visit the bloc freely after
 
 ##### Sam Rainsy
 ### [Sam Rainsy, the Cambodian opposition leader, is tried yet again in absentia. ](/news/2016/12/9/sam-rainsy-the-cambodian-opposition-leader-is-tried-yet-again-in-absentia.md)
-_Context: Sam Rainsy, in absentia, Cambodia_
+_Context: in absentia, Sam Rainsy, Cambodia_
 
 ##### Geert Wilders
 ### [Dutch populist politician Geert Wilders is convicted for hate speech. ](/news/2016/12/9/dutch-populist-politician-geert-wilders-is-convicted-for-hate-speech.md)
@@ -57,11 +57,11 @@ Hong Kong leader CY Leung says he will not seek re-election, citing &quot;stress
 
 ##### Presidential transition of Donald Trump
 ### [ Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-white.md)
-_Context: Gary Cohn, White House National Economic Council, Goldman Sachs, Presidential transition of Donald Trump, Donald Trump_
+_Context: White House National Economic Council, Donald Trump, Gary Cohn, Goldman Sachs, Presidential transition of Donald Trump_
 
 ##### Gambian presidential election, 2016
 ### [The President of Gambia Yahya Jammeh states he will not accept the result of the recent defeat a week after conceding defeat to Adama Barrow. ](/news/2016/12/9/the-president-of-gambia-yahya-jammeh-states-he-will-not-accept-the-result-of-the-recent-defeat-a-week-after-conceding-defeat-to-adama-barrow.md)
-_Context: Adama Barrow, President of Gambia, Gambian presidential election, 2016, Yahya Jammeh_
+_Context: President of Gambia, Adama Barrow, Yahya Jammeh, Gambian presidential election, 2016_
 
 ##### 2016 U.S. presidential election
 ### [The CIA has concluded that Russia actively tried to help Donald Trump win the 2016 U.S. presidential election. ](/news/2016/12/9/the-cia-has-concluded-that-russia-actively-tried-to-help-donald-trump-win-the-2016-u-s-presidential-election.md)

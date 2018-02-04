@@ -37,7 +37,7 @@ Six flood warnings and 42 flood alerts remain in place across London and the sou
 
 ##### Israel
 ### [Israeli lawmakers dedicate a session of parliament to possible commemorations of the Armenian genocide, now that relations with Turkey have deteriorated since Israel killed nine Turks in international waters of the Mediterranean Sea in 2010. ](/news/2012/06/12/israeli-lawmakers-dedicate-a-session-of-parliament-to-possible-commemorations-of-the-armenian-genocide-now-that-relations-with-turkey-have.md)
-_Context: international waters, Turkish, Mediterranean Sea, Gaza flotilla raid, Israel, Armenian genocide_
+_Context: international waters, Israel, Gaza flotilla raid, Turkish, Armenian genocide, Mediterranean Sea_
 
 ##### NME
 ### [The "NME" issues a public apology to English singer and lyricist Steven Patrick Morrissey over an article it published in 2007, which falsely suggested he was racist and led to a libel case. ](/news/2012/06/12/the-nme-issues-a-public-apology-to-english-singer-and-lyricist-steven-patrick-morrissey-over-an-article-it-published-in-2007-which-falsel.md)

@@ -21,7 +21,7 @@ Latvia begins the new year by joining the eurozone, becoming the 18th member of 
 
 ##### Cedar-Riverside
 ### [A three-story building, housing apartments and a grocery store, explodes and burns in the Cedar-Riverside neighborhood of Minneapolis, Minnesota, injuring 13 people, some critically. ](/news/2014/01/1/a-three-story-building-housing-apartments-and-a-grocery-store-explodes-and-burns-in-the-cedar-riverside-neighborhood-of-minneapolis-minne.md)
-_Context: Minnesota, Minneapolis, Cedar-Riverside_
+_Context: Cedar-Riverside, Minnesota, Minneapolis_
 
 ##### Indonesia
 ### [Indonesia's Sinabung volcano erupts, displacing more than 19,000 people. ](/news/2014/01/1/indonesia-s-sinabung-volcano-erupts-displacing-more-than-19-000-people.md)
@@ -39,7 +39,7 @@ _Context: marijuana, addicts, Colorado_
 
 ##### Bill de Blasio
 ### [Bill de Blasio is sworn in as the 109th Mayor of New York City. ](/news/2014/01/1/bill-de-blasio-is-sworn-in-as-the-109th-mayor-of-new-york-city.md)
-_Context: Bill de Blasio, Mayor_
+_Context: Mayor, Bill de Blasio_
 
 ## [Previous Day...](/news/2013/12/31/index.md)
 

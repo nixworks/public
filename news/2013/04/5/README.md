@@ -5,7 +5,7 @@ Formats: [HTML](2013/04/5/index.html)  [JSON](2013/04/5/index.json)  [XML](2013/
 
 ##### Stratfor
 ### [Recent report from Stratfor indicates that at least 60 people were killed in Tamaulipas state in March, after the Gulf Cartel leaders Miguel "El Gringo" Villarreal and Mario Ramirez Trevino fought for control of the organization. ](/news/2013/04/5/recent-report-from-stratfor-indicates-that-at-least-60-people-were-killed-in-tamaulipas-state-in-march-after-the-gulf-cartel-leaders-miguel.md)
-_Context: Tamaulipas, Stratfor, Miguel ''El Gringo'' Villarreal, Mario Ramirez Trevino, Gulf Cartel_
+_Context: Miguel ''El Gringo'' Villarreal, Mario Ramirez Trevino, Gulf Cartel, Tamaulipas, Stratfor_
 
 ##### explosive-laden donkey
 ### [An explosive-laden donkey is used in an attack on a police security post in the Alingar District of Laghman Province in eastern Afghanistan, killing a policeman and wounding three civilians. ](/news/2013/04/5/an-explosive-laden-donkey-is-used-in-an-attack-on-a-police-security-post-in-the-alingar-district-of-laghman-province-in-eastern-afghanistan.md)
@@ -13,11 +13,11 @@ An official says a bomb attached to a donkey has exploded, killing a policeman a
 
 ##### Elizabeth II
 ### [Queen Elizabeth of the United Kingdom receives an honorary BAFTA award for her support of British film and television and she is honored as the "most memorable Bond girl" for her appearance at the 2012 London Olympics. ](/news/2013/04/5/queen-elizabeth-of-the-united-kingdom-receives-an-honorary-bafta-award-for-her-support-of-british-film-and-television-and-she-is-honored-as.md)
-_Context: Elizabeth II, Bond girl, British, Television in the United Kingdom, 2012 London Olympics, British film, BAFTA award_
+_Context: British, Television in the United Kingdom, BAFTA award, British film, Bond girl, 2012 London Olympics, Elizabeth II_
 
 ##### Japan
 ### [Japan's stock market index, the Nikkei 225, hits its highest level in almost five years, after a Bank of Japan stimulus plan raises hope of economic revival. ](/news/2013/04/5/japan-s-stock-market-index-the-nikkei-225-hits-its-highest-level-in-almost-five-years-after-a-bank-of-japan-stimulus-plan-raises-hope-of.md)
-_Context: Japan, Nikkei 225, Bank of Japan, index, stock market_
+_Context: stock market, Nikkei 225, Bank of Japan, index, Japan_
 
 ##### China
 ### [A sixth person dies in the People's Republic of China from the Influenza A virus subtype H7N9, after the closure of poultry markets in the city of Shanghai and a mass culling of 20,000 birds. ](/news/2013/04/5/a-sixth-person-dies-in-the-people-s-republic-of-china-from-the-influenza-a-virus-subtype-h7n9-after-the-closure-of-poultry-markets-in-the-c.md)
@@ -25,7 +25,7 @@ China confirmed Friday a sixth death from a lesser known H7N9 strain of the bird
 
 ##### Nigeria
 ### [At least 60 people die in Nigeria following a collision between a bus and a petrol tanker on the Benin-Ore expressway. ](/news/2013/04/5/at-least-60-people-die-in-nigeria-following-a-collision-between-a-bus-and-a-petrol-tanker-on-the-beninaore-expressway.md)
-_Context: petrol tanker, bus, Nigeria, Ore, Beninese_
+_Context: bus, Beninese, petrol tanker, Ore, Nigeria_
 
 ##### South Korea
 ### [South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/south-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that-north-korea-had-repos.md)
@@ -37,11 +37,11 @@ Iran has failed to give &quot;a concrete response&quot; to proposals aimed at en
 
 ##### United States
 ### [The United States agrees to a plan to return some land, used by the US Military's Futenma Airbase in Okinawa, to Japan. ](/news/2013/04/5/the-united-states-agrees-to-a-plan-to-return-some-land-used-by-the-us-military-s-futenma-airbase-in-okinawa-to-japan.md)
-_Context: Marine Corps Air Station Futenma, Okinawa, American soldiers, Japan, United States_
+_Context: American soldiers, United States, Japan, Marine Corps Air Station Futenma, Okinawa_
 
 ##### Buddhists
 ### [Eight people are killed when Buddhists and Muslims from Myanmar brawl in a detention center in Indonesia. ](/news/2013/04/5/eight-people-are-killed-when-buddhists-and-muslims-from-myanmar-brawl-in-a-detention-center-in-indonesia.md)
-_Context: Myanmar, Indonesia, detention center, Buddhists, Muslims_
+_Context: Buddhists, Indonesia, Myanmar, detention center, Muslims_
 
 ##### daycare
 ### [A shooting at a daycare kills two people in Gatineau, Quebec, Canada. ](/news/2013/04/5/a-shooting-at-a-daycare-kills-two-people-in-gatineau-quebec-canada.md)

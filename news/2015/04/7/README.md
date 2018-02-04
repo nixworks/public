@@ -13,7 +13,7 @@ _Context: Dragon Aromatics, Zhangzhou_
 
 ##### Washington D.C.
 ### [Widespread power outages are reported in Washington D.C. after an explosion at a Maryland power substation. ](/news/2015/04/7/widespread-power-outages-are-reported-in-washington-d-c-after-an-explosion-at-a-maryland-power-substation.md)
-_Context: Maryland, Washington D.C._
+_Context: Washington D.C., Maryland_
 
 ##### Parliament of Malaysia
 ### [The Parliament of Malaysia passes the Prevention of Terrorism Act which allows the Government to detain terrorism suspects without charge. ](/news/2015/04/7/the-parliament-of-malaysia-passes-the-prevention-of-terrorism-act-which-allows-the-government-to-detain-terrorism-suspects-without-charge.md)
@@ -37,7 +37,7 @@ _Context: North Charleston, South Carolina, Shooting of Walter Scott, policeman_
 
 ##### Kentucky U.S. Senator
 ### [Kentucky U.S. Senator Rand Paul announces that he will seek the Republican nomination for the U.S. presidency in 2016. ](/news/2015/04/7/kentucky-u-s-senator-rand-paul-announces-that-he-will-seek-the-republican-nomination-for-the-u-s-presidency-in-2016.md)
-_Context: Rand Paul, Kentucky U.S. Senator, presidential primaries_
+_Context: Kentucky U.S. Senator, presidential primaries, Rand Paul_
 
 ##### Chicago mayoral election
 ### [Rahm Emanuel is re-elected to a second term as Mayor of Chicago, defeating opponent Jesus "Chuy" Garcia in the city's first mayoral runoff election since switching to nonpartisan elections 20 years ago. ](/news/2015/04/7/rahm-emanuel-is-re-elected-to-a-second-term-as-mayor-of-chicago-defeating-opponent-jesaos-chuy-garcaa-in-the-city-s-first-mayoral-runoff.md)

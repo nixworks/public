@@ -13,7 +13,7 @@ _Context: Interior Ministry, Revolutionary People's Liberation Party-Front, Turk
 
 ##### gun
 ### [ Following a gun battle, in which Palestinians hiding in a World Health Organization psychiatric hospital, in Bethlehem, opened fire on Israeli troops outside who came to arrest them, 12 of the Palestinians, mostly known militants from al-Aqsa Martyrs Brigades that make up part of Yasser Arafat's Fatah faction, are arrested. ](/news/2004/04/1/following-a-gun-battle-in-which-palestinians-hiding-in-a-world-health-organization-psychiatric-hospital-in-bethlehem-opened-fire-on-isra.md)
-_Context: Palestinians, Israel, Bethlehem, Yasser Arafat, al-Aqsa Martyrs Brigades, Fatah, gun, World Health Organization_
+_Context: Fatah, gun, Israel, World Health Organization, Bethlehem, al-Aqsa Martyrs Brigades, Yasser Arafat, Palestinians_
 
 ##### Astronomer
 ### [ Astronomers estimate that Earth-like planets may orbit as many as one in twenty stars. ](/news/2004/04/1/astronomers-estimate-that-earth-like-planets-may-orbit-as-many-as-one-in-twenty-stars.md)
@@ -21,23 +21,23 @@ _Context: Astronomer, estimate, star_
 
 ##### Paul Bremer
 ### [ Paul Bremer pledges justice for the contractors killed and mutilated in an attack in Falluja. ](/news/2004/04/1/paul-bremer-pledges-justice-for-the-contractors-killed-and-mutilated-in-an-attack-in-falluja.md)
-_Context: Paul Bremer, contractor, Falluja_
+_Context: Falluja, contractor, Paul Bremer_
 
 ##### Beverley Hughes
 ### [ British Immigration Minister Beverley Hughes resigns over visa irregularities. ](/news/2004/04/1/british-immigration-minister-beverley-hughes-resigns-over-visa-irregularities.md)
-_Context: visa, Beverley Hughes_
+_Context: Beverley Hughes, visa_
 
 ##### Palestinian
 ### [ Palestinian General Haj Ismail Jabber is discovered to have been claiming the payroll for 37,000 members of the Palestinian Authority's National Security force when only 30,000 members exist. The difference of $2 million is kept by General Jabber each month. ](/news/2004/04/1/palestinian-general-haj-ismail-jabber-is-discovered-to-have-been-claiming-the-payroll-for-37-000-members-of-the-palestinian-authority-s-nat.md)
-_Context: Palestinian, payroll, Palestinian Authority, General_
+_Context: Palestinian Authority, General, payroll, Palestinian_
 
 ##### Same-sex marriage in Canada
 ### [ Same-sex marriage in Canada: Michael Hendricks and Ren Leboeuf become the first same-sex couple to legally wed in Quebec. ](/news/2004/04/1/same-sex-marriage-in-canada-michael-hendricks-and-rene-leboeuf-become-the-first-same-sex-couple-to-legally-wed-in-quebec.md)
-_Context: Same-sex marriage in Canada, Quebec, Michael Hendricks and Ren Leboeuf_
+_Context: Quebec, Michael Hendricks and Ren Leboeuf, Same-sex marriage in Canada_
 
 ##### Neil H. Shubin
 ### [ Neil H. Shubin of the University of Chicago reports in the journal "Nature" the discovery of a 365-million-year-old forelimb in Pennsylvania, representing the evolution of fish to land-dwelling animals. ](/news/2004/04/1/neil-h-shubin-of-the-university-of-chicago-reports-in-the-journal-nature-the-discovery-of-a-365-million-year-old-forelimb-in-pennsylvani.md)
-_Context: Neil H. Shubin, University of Chicago, Pennsylvania, ''Nature''_
+_Context: Neil H. Shubin, ''Nature'', University of Chicago, Pennsylvania_
 
 ## [Previous Day...](/news/2004/03/31/index.md)
 

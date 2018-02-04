@@ -9,7 +9,7 @@ Syrian military appears to confirm media reports of attack on research centre ne
 
 ##### Education in the United States
 ### [Saturday's ACT U.S. college entrance exam test is cancelled at some of its international test centers because of leaks of test materials. ](/news/2017/09/7/saturday-s-act-u-s-college-entrance-exam-test-is-cancelled-at-some-of-its-international-test-centers-because-of-leaks-of-test-materials.md)
-_Context: Education in the United States, entrance exam test, ACT_
+_Context: entrance exam test, Education in the United States, ACT_
 
 ##### Identity theft in the United States
 ### [More than 143 million people in the U.S. may have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-people-in-the-u-s-may-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on.md)
@@ -37,7 +37,7 @@ The Latest on tensions on the Korean Peninsula (all times local):
 
 ##### Qatar-United States relations
 ### [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md)
-_Context: Qatar, Qatar-United States relations, Hurricane Harvey, Texas_
+_Context: Texas, Qatar-United States relations, Qatar, Hurricane Harvey_
 
 ##### Australian Marriage Law Postal Survey
 ### [The High Court of Australia rejects the challenge against the postal survey on same-sex marriage, allowing the survey to begin in mid-September as planned. ](/news/2017/09/7/the-high-court-of-australia-rejects-the-challenge-against-the-postal-survey-on-same-sex-marriage-allowing-the-survey-to-begin-in-mid-septem.md)
@@ -49,7 +49,7 @@ She says the due-process rights of the accused need to be protected.
 
 ##### Executive Order 13780
 ### [The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents.md)
-_Context: bona fide, Trump administraion, Executive Order 13780, United States Court of Appeals for the Ninth Circuit_
+_Context: bona fide, Executive Order 13780, United States Court of Appeals for the Ninth Circuit, Trump administraion_
 
 ##### secession
 ### [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md)

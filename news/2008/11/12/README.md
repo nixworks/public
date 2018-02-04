@@ -9,7 +9,7 @@ A judge in Taipei ruled that former Taiwan president Chen Shui-bian be held in j
 
 ##### India
 ### [ India's Chandrayaan-1 lunar exploration mission successfully completes its journey to the Moon, entering its intended operational orbit 100 km above the surface. ](/news/2008/11/12/india-s-chandrayaan-1-lunar-exploration-mission-successfully-completes-its-journey-to-the-moon-entering-its-intended-operational-orbit-100.md)
-_Context: India, Moon, lunar probe, Chandrayaan-1_
+_Context: Chandrayaan-1, Moon, lunar probe, India_
 
 ##### Russia
 ### [ Russia's two main stock exchanges are suspended for one hour after the market opened with a more than 10% decline in response to trends on global markets and falling oil prices. ](/news/2008/11/12/russia-s-two-main-stock-exchanges-are-suspended-for-one-hour-after-the-market-opened-with-a-more-than-10-decline-in-response-to-trends-on.md)
@@ -17,11 +17,11 @@ _Context: Russia_
 
 ##### India
 ### [ India successfully test fires the first Sagarika submarine-launched ballistic missile from a land-based launcher. ](/news/2008/11/12/india-successfully-test-fires-the-first-sagarika-submarine-launched-ballistic-missile-from-a-land-based-launcher.md)
-_Context: India, submarine-launched ballistic missile, Sagarika_
+_Context: submarine-launched ballistic missile, India, Sagarika_
 
 ##### North Korea
 ### [ North Korea announces that it will close its land border with South Korea on December 1, 2008. ](/news/2008/11/12/north-korea-announces-that-it-will-close-its-land-border-with-south-korea-on-december-1-2008.md)
-_Context: North Korea, DMZ, South Korea_
+_Context: South Korea, DMZ, North Korea_
 
 ## [Previous Day...](/news/2008/11/11/index.md)
 

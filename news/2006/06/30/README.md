@@ -5,7 +5,7 @@ Formats: [HTML](2006/06/30/index.html)  [JSON](2006/06/30/index.json)  [XML](200
 
 ##### President
 ### [ A judge orders the arrest of former Mexican President Luis Echeverra on charges relating to the 1968 Tlatelolco Massacre. ](/news/2006/06/30/a-judge-orders-the-arrest-of-former-mexican-president-luis-echeverria-on-charges-relating-to-the-1968-tlatelolco-massacre.md)
-_Context: Tlatelolco Massacre, President, Luis Echeverra_
+_Context: President, Luis Echeverra, Tlatelolco Massacre_
 
 ##### United States
 ### [ The United States military orders an investigation into claims that five US soldiers raped an Iraqi woman and then murdered her and three members of her family. ](/news/2006/06/30/the-united-states-military-orders-an-investigation-into-claims-that-five-us-soldiers-raped-an-iraqi-woman-and-then-murdered-her-and-three-m.md)

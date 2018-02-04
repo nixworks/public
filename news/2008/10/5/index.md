@@ -9,7 +9,7 @@ _Context: Hypo Real Estate, euro, German_
 
 ##### Rugby League
 ### [ Rugby League: The Manly-Warringah Sea Eagles win the 2008 NRL Grand Final, defeating the Melbourne Storm 40-0. ](/news/2008/10/5/rugby-league-the-manly-warringah-sea-eagles-win-the-2008-nrl-grand-final-defeating-the-melbourne-storm-40-0.md)
-_Context: Melbourne Storm, Manly-Warringah Sea Eagles, 2008 NRL Grand Final, Rugby League_
+_Context: Melbourne Storm, Rugby League, Manly-Warringah Sea Eagles, 2008 NRL Grand Final_
 
 ##### Thailand
 ### [ Thai police arrest former mayor of Bangkok and protest leader Chamlong Srimuang on charges of insurrection. ](/news/2008/10/5/thai-police-arrest-former-mayor-of-bangkok-and-protest-leader-chamlong-srimuang-on-charges-of-insurrection.md)
@@ -25,11 +25,11 @@ _Context: Kashmir_
 
 ##### Apirak Kosayothin
 ### [ Apirak Kosayothin is re-elected as Governor of Bangkok. ](/news/2008/10/5/apirak-kosayothin-is-re-elected-as-governor-of-bangkok.md)
-_Context: re-elected, Bangkok, Apirak Kosayothin_
+_Context: Apirak Kosayothin, Bangkok, re-elected_
 
 ##### Asif Ali Zardari
 ### [ Pakistani president Asif Ali Zardari acknowledges his government's consent to US air strikes in Pakistan and says India has never been a threat. ](/news/2008/10/5/pakistani-president-asif-ali-zardari-acknowledges-his-government-s-consent-to-us-air-strikes-in-pakistan-and-says-india-has-never-been-a-th.md)
-_Context: India, Pakistan, Asif Ali Zardari_
+_Context: Pakistan, Asif Ali Zardari, India_
 
 ##### Afghanistan
 ### [ Senior British Commander says military victory in Afghanistan is impossible. ](/news/2008/10/5/senior-british-commander-says-military-victory-in-afghanistan-is-impossible.md)
