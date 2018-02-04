@@ -3,9 +3,21 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/4/index.md)
 
-##### Amtrak
-### [An Amtrak passenger train collides with a freight train at Cayce, South Carolina and is derailed. Two people are killed. ](/news/2018/02/4/an-amtrak-passenger-train-collides-with-a-freight-train-at-cayce-south-carolina-and-is-derailed-two-people-are-killed.md)
+##### Railroad accidents
+### [An Amtrak passenger train collides with a freight train in Cayce, South Carolina and is derailed. Two people are killed. ](/news/2018/02/4/an-amtrak-passenger-train-collides-with-a-freight-train-in-cayce-south-carolina-and-is-derailed-two-people-are-killed.md)
 The train, which had been traveling between New York and Miami, had more than 140 passengers and crew on board.
+
+##### Costa Rican general election, 2018
+### [Costa Ricans head to the polls to elect a new President, amidst a gay rights controversy. ](/news/2018/02/4/costa-ricans-head-to-the-polls-to-elect-a-new-president-amidst-a-gay-rights-controversy.md)
+Costa Ricans went to the polls on Sunday to choose a new president in a race upended by a debate over same-sex marriage, as leading candidates in the crowded field fiercely opposed gay rights that have recently gained ground in Latin America.
+
+##### Cypriot presidential election, 2018
+### [Cyprus is set to elect a new President in a second round of voting. Candidates include incumbent Nicos Anastasiades and AKEL candidate, Stavros Malas. ](/news/2018/02/4/cyprus-is-set-to-elect-a-new-president-in-a-second-round-of-voting-candidates-include-incumbent-nicos-anastasiades-and-akel-candidate-stav.md)
+_Context: Cyprus, Nicos Anastasiades, Cypriot presidential election, 2018, President, AKEL, Stavros Malas_
+
+##### Ecuadorian referendum and popular consultation, 2018
+### [Ecuador is set to hold a referendum consisting of seven questions for voters to approve or reject. ](/news/2018/02/4/ecuador-is-set-to-hold-a-referendum-consisting-of-seven-questions-for-voters-to-approve-or-reject.md)
+Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presidential re-election, with polls indicating the motion will likely pass and block former leftist President Rafael Correa from returning to power.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -53,7 +65,7 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: Luis Videgaray Caso, Nicolas Maduro, President, United States Secretary of State, 19th-century United States policy in Latin America, Mexico-United States relations, Rex Tillerson, Canadian counterpart, Chrystia Freeland, Mexico, Venezuelan Army, Secretary of Foreign Affairs, Venezuela_
+_Context: Secretary of Foreign Affairs, 19th-century United States policy in Latin America, United States Secretary of State, President, Venezuelan Army, Mexico, Canadian counterpart, Luis Videgaray Caso, Mexico-United States relations, Nicolas Maduro, Venezuela, Rex Tillerson, Chrystia Freeland_
 
 ##### Crime in France
 ### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)
