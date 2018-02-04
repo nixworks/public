@@ -9,11 +9,11 @@ Formats: [HTML](2018/02/1/index.html)  [JSON](2018/02/1/index.json)  [XML](2018/
 
 ##### Canadian Senate
 ### [The Canadian Senate agrees with the House of Commons to make the Canadian national anthem, "O Canada", gender neutral. The second line of the song will now read "in all of us" instead of "in all thy sons." ](/news/2018/02/1/the-canadian-senate-agrees-with-the-house-of-commons-to-make-the-canadian-national-anthem-o-canada-gender-neutral-the-second-line-of-th.md)
-_Context: House of Commons, O Canada, Canadian Senate_
+_Context: House of Commons, Canadian Senate, O Canada_
 
 ##### Apple Inc.
 ### [Apple Inc. briefly removed the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. ](/news/2018/02/1/apple-inc-briefly-removed-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate.md)
-_Context: Pavel Durov, Apple Inc., App Store, Telegram_
+_Context: Pavel Durov, App Store, Telegram, Apple Inc._
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
@@ -21,7 +21,7 @@ The three-storey building in the northern city of Sapporo is home to mostly elde
 
 ##### United States-Mexico relations
 ### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md)
-_Context: Rex Tillerson, Enrique Pena Nieto, Mexico, United States Secretary of State, Luis Videgaray, President, United States-Mexico relations_
+_Context: Mexico, Enrique Pena Nieto, United States Secretary of State, Luis Videgaray, United States-Mexico relations, Rex Tillerson, President_
 
 ##### School shootings in the United States
 ### [Two 15-year-old students are seriously wounded and three other people injured in a shooting at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-and-three-other-people-injured-in-a-shooting-at-sal-castro-middle-school-in-los-angeles-cali.md)
