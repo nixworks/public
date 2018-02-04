@@ -9,7 +9,7 @@ The train, which had been traveling between New York and Miami, had more than 14
 
 ##### Cabinet of Israel
 ### [The Cabinet of Israel decides to legalize a previously unauthorized outpost "deep inside the [occupied] West Bank", Havat Gilad, allegedly in reaction to the recent killing of an Israeli settler there. ](/news/2018/02/4/the-cabinet-of-israel-decides-to-legalize-a-previously-unauthorized-outpost-deep-inside-the-occupied-west-bank-havat-gilad-allegedly-i.md)
-_Context: West Bank, Israeli settler, unauthorized outpost, Havat Gilad, Cabinet of Israel_
+_Context: Cabinet of Israel, Havat Gilad, unauthorized outpost, West Bank, Israeli settler_
 
 ##### European Union
 ### [Israeli authorities tear down parts of a European Union-funded school in the Palestinian village of Abu Nuwar, on the occupied West Bank, saying it was built illegally. Palestinians say this is the fifth such demolition since 2016, with residents and NGO's each time reconstructing it. ](/news/2018/02/4/israeli-authorities-tear-down-parts-of-a-european-union-funded-school-in-the-palestinian-village-of-abu-nuwar-on-the-occupied-west-bank-sa.md)
@@ -29,11 +29,11 @@ Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presi
 
 ##### Politics of Yemen
 ### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless adventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
-_Context: Saudi-led intervention in Yemen, Politics of Yemen, Nobel Peace Prize, Tawakkol Karman, Islah_
+_Context: Islah, Saudi-led intervention in Yemen, Nobel Peace Prize, Tawakkol Karman, Politics of Yemen_
 
 ##### Macedonia naming dispute
 ### [Tens of thousands of people demonstrate in Athens against the willingness manifested by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-demonstrate-in-athens-against-the-willingness-manifested-by-the-cabinet-of-greece-to-make-concessions-in-the-lon.md)
-_Context: Cabinet of Greece, Athens, Republic of Macedonia, Macedonia naming dispute_
+_Context: Cabinet of Greece, Republic of Macedonia, Macedonia naming dispute, Athens_
 
 ##### Asteroid close approaches to Earth in 2018
 ### [An asteroid named (276033) 2002 AJ makes a safe approach to Earth. ](/news/2018/02/4/an-asteroid-named-276033-2002-aj-makes-a-safe-approach-to-earth.md)
