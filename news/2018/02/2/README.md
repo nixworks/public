@@ -17,18 +17,18 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: Luis Videgaray Caso, United States Secretary of State, 19th-century United States policy in Latin America, Mexico-United States relations, Nicolas Maduro, Canadian counterpart, President, Secretary of Foreign Affairs, Mexico, Rex Tillerson, Venezuelan Army, Chrystia Freeland, Venezuela_
+_Context: President, Venezuelan Army, Mexico, Secretary of Foreign Affairs, United States Secretary of State, Luis Videgaray Caso, Nicolas Maduro, Rex Tillerson, Venezuela, Mexico-United States relations, Canadian counterpart, 19th-century United States policy in Latin America, Chrystia Freeland_
 
 ##### Crime in France
 ### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)
 Tariq Ramadan, adviser to the UK government, held in custody over French hotel attack claims
 
 ##### 2017 Finsbury Park attack
-### [Darren Osborne is sentenced to life in prison after being found guilty for murder, as the sole perpetrator of the 19 June 2017 attack. ](/news/2018/02/2/darren-osborne-is-sentenced-to-life-in-prison-after-being-found-guilty-for-murder-as-the-sole-perpetrator-of-the-19-june-2017-attack.md)
+### [As the sole perpetrator of the 19 June 2017 attack on Muslims in London, Darren Osborne is sentenced to life in prison after being found guilty of murder. ](/news/2018/02/2/as-the-sole-perpetrator-of-the-19-june-2017-attack-on-muslims-in-london-darren-osborne-is-sentenced-to-life-in-prison-after-being-found-gui.md)
 One person was killed and several others wounded when Osborne drove a vehicle into a group of people outside a mosque.
 
 ##### Nunes memo
-### [U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-department-of-justice-and-some-bi.md)
+### [U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and lawmakers from both sides, all of whom say that the document's release poses a risk to national security\. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-department-of-justice-and-lawmake.md)
 The president got into step with Republican allies who have spent months attacking what they call bias in the FBI and Justice Department. Critics warn this situation is perilous. 
 
 ##### Nuclear Posture Review
