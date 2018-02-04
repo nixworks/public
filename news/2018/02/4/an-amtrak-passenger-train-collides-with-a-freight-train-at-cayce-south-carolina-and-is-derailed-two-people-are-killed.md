@@ -12,8 +12,9 @@ The train, which had been traveling between New York and Miami, had more than 14
 ### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-42935764)
-2. [Huffington Post](http://www.huffingtonpost.co.uk/entry/amtrak-train-derail-collision-south-carolina_us_5a76e01be4b06ee97af35b33)
-2. [Cover Image](http://img.huffingtonpost.com/asset/5a76e4231600004500139b35.jpeg?ops=1200_630)
+2. [CNN](https://edition.cnn.com/2018/02/04/us/amtrak-south-carolina-crash/index.html)
+3. [Huffington Post](http://www.huffingtonpost.co.uk/entry/amtrak-train-derail-collision-south-carolina_us_5a76e01be4b06ee97af35b33)
+3. [Cover Image](http://img.huffingtonpost.com/asset/5a76e4231600004500139b35.jpeg?ops=1200_630)
 
 ### Related:
 

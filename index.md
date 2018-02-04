@@ -33,7 +33,7 @@ A man suspected of racially-motivated shootings that injure six is arrested in t
 
 ##### 15760 Albion
 ### [15760 Albion (previously 1992 QB 1 ), the first discovered Kuiper belt object, is officially named by its discoverers. ](/news/2018/02/3/15760-albion-previously-1992-qb-1-the-first-discovered-kuiper-belt-object-is-officially-named-by-its-discoverers.md)
-_Context: Kuiper belt, 15760 Albion_
+_Context: 15760 Albion, Kuiper belt_
 
 ---
 
@@ -53,7 +53,7 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: Venezuela, 19th-century United States policy in Latin America, Nicolas Maduro, Venezuelan Army, Mexico, Rex Tillerson, Secretary of Foreign Affairs, Chrystia Freeland, Canadian counterpart, President, Luis Videgaray Caso, United States Secretary of State, Mexico-United States relations_
+_Context: Mexico-United States relations, Chrystia Freeland, Canadian counterpart, Venezuelan Army, United States Secretary of State, Venezuela, Mexico, President, Rex Tillerson, Secretary of Foreign Affairs, Luis Videgaray Caso, 19th-century United States policy in Latin America, Nicolas Maduro_
 
 ##### Crime in France
 ### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)
