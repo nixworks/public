@@ -3,9 +3,13 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/4/index.md)
 
-##### Railroad accidents
+##### Cayce, South Carolina train collision
 ### [An Amtrak passenger train collides with a freight train in Cayce, South Carolina and is derailed. Two people are killed. ](/news/2018/02/4/an-amtrak-passenger-train-collides-with-a-freight-train-in-cayce-south-carolina-and-is-derailed-two-people-are-killed.md)
 The train, which had been traveling between New York and Miami, had more than 140 passengers and crew on board.
+
+##### Cabinet of Israel
+### [The Cabinet of Israel decides to legalize a previously unauthorized outpost "deep inside the [occupied] West Bank", Havat Gilad, allegedly in reaction to the recent killing of an Israeli settler there. ](/news/2018/02/4/the-cabinet-of-israel-decides-to-legalize-a-previously-unauthorized-outpost-deep-inside-the-occupied-west-bank-havat-gilad-allegedly-i.md)
+_Context: West Bank, Havat Gilad, Cabinet of Israel, Israeli settler, unauthorized outpost_
 
 ##### Costa Rican general election, 2018
 ### [Costa Ricans head to the polls to elect a new President, amidst a gay rights controversy. ](/news/2018/02/4/costa-ricans-head-to-the-polls-to-elect-a-new-president-amidst-a-gay-rights-controversy.md)
@@ -13,18 +17,22 @@ Costa Ricans went to the polls on Sunday to choose a new president in a race upe
 
 ##### Cypriot presidential election, 2018
 ### [Cyprus is set to elect a new President in a second round of voting. Candidates include incumbent Nicos Anastasiades and AKEL candidate, Stavros Malas. ](/news/2018/02/4/cyprus-is-set-to-elect-a-new-president-in-a-second-round-of-voting-candidates-include-incumbent-nicos-anastasiades-and-akel-candidate-stav.md)
-_Context: Stavros Malas, Cypriot presidential election, 2018, AKEL, Nicos Anastasiades, President, Cyprus_
+Officials results show incumbent conservative comfortably ahead of leftist-backed independent rival Stavros Malas.
 
 ##### Ecuadorian referendum and popular consultation, 2018
 ### [Ecuador is set to hold a referendum consisting of seven questions for voters to approve or reject. ](/news/2018/02/4/ecuador-is-set-to-hold-a-referendum-consisting-of-seven-questions-for-voters-to-approve-or-reject.md)
 Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presidential re-election, with polls indicating the motion will likely pass and block former leftist President Rafael Correa from returning to power.
 
 ##### Politics of Yemen
-### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless aventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
-_Context: Nobel Peace Prize, Politics of Yemen, Islah, Tawakkol Karman, Saudi-led intervention in Yemen_
+### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless adventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
+_Context: Islah, Nobel Peace Prize, Politics of Yemen, Saudi-led intervention in Yemen, Tawakkol Karman_
 
-##### 2002 AJ129
-### [ An asteroid named 2002 AJ129 makes a safe approach to Earth.](/news/2018/02/4/an-asteroid-named-2002-aj129-makes-a-safe-approach-to-earth.md)
+##### Macedonia naming dispute
+### [Tens of thousands of people manifest in Athens against the willingness demonstrated by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-manifest-in-athens-against-the-willingness-demonstrated-by-the-cabinet-of-greece-to-make-concessions-in-the-long.md)
+_Context: Cabinet of Greece, Republic of Macedonia, Athens, Macedonia naming dispute_
+
+##### Asteroid close approaches to Earth in 2018
+### [An asteroid named (276033) 2002 AJ makes a safe approach to Earth. ](/news/2018/02/4/an-asteroid-named-276033-2002-aj-makes-a-safe-approach-to-earth.md)
 A fast-moving asteroid will make a close flyby of Earth this Super Bowl Sunday (Feb. 4), but it poses no risk of hitting our planet, according to NASA.
 
 ##### Opinion
@@ -49,7 +57,7 @@ A man suspected of racially-motivated shootings that injure six is arrested in t
 
 ##### 15760 Albion
 ### [15760 Albion (previously 1992 QB 1 ), the first discovered Kuiper belt object, is officially named by its discoverers. ](/news/2018/02/3/15760-albion-previously-1992-qb-1-the-first-discovered-kuiper-belt-object-is-officially-named-by-its-discoverers.md)
-_Context: Kuiper belt, 15760 Albion_
+_Context: 15760 Albion, Kuiper belt_
 
 ---
 
@@ -69,7 +77,7 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: Rex Tillerson, Chrystia Freeland, Venezuelan Army, Luis Videgaray Caso, Canadian counterpart, Secretary of Foreign Affairs, President, Nicolas Maduro, Mexico, Mexico-United States relations, 19th-century United States policy in Latin America, Venezuela, United States Secretary of State_
+_Context: Rex Tillerson, United States Secretary of State, 19th-century United States policy in Latin America, Mexico-United States relations, Venezuelan Army, Luis Videgaray Caso, Canadian counterpart, Chrystia Freeland, President, Mexico, Venezuela, Nicolas Maduro, Secretary of Foreign Affairs_
 
 ##### Crime in France
 ### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)
@@ -78,6 +86,10 @@ Tariq Ramadan, adviser to the UK government, held in custody over French hotel a
 ##### 2017 Finsbury Park attack
 ### [As the sole perpetrator of the 19 June 2017 attack on Muslims in London, Darren Osborne is sentenced to life in prison after being found guilty of murder. ](/news/2018/02/2/as-the-sole-perpetrator-of-the-19-june-2017-attack-on-muslims-in-london-darren-osborne-is-sentenced-to-life-in-prison-after-being-found-gui.md)
 One person was killed and several others wounded when Osborne drove a vehicle into a group of people outside a mosque.
+
+##### 2017 Las Vegas shooting
+### [An Arizonan ammunition dealer is charged in a Nevada federal court with "conspiracy to manufacture and sell armor-piercing ammunition without a license" after his fingerprints were discovered on unfired armor-piercing ammunition inside Stephen Paddock's suite. ](/news/2018/02/2/an-arizonan-ammunition-dealer-is-charged-in-a-nevada-federal-court-with-conspiracy-to-manufacture-and-sell-armor-piercing-ammunition-withou.md)
+An ammunition dealer who has acknowledged selling hundreds of rounds of tracer bullets to a gunman responsible for killing 58 people in Las Vegas was charged on Friday with conspiracy to make and sell armor-piercing ammunition without a license.
 
 ##### Nunes memo
 ### [U.S. President Donald Trump authorizes Congress to release the Nunes memo, against the wishes of the FBI, Department of Justice, and lawmakers from both sides, all of whom say that the document's release poses a risk to national security. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-department-of-justice-and-lawmake.md)

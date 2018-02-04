@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/4/an-amtrak-passenger-train-collides-with-a-freigh
 
 ### [2018-02-4](/news/2018/02/4/index.md)
 
-##### Railroad accidents
+##### Cayce, South Carolina train collision
 # An Amtrak passenger train collides with a freight train in Cayce, South Carolina and is derailed. Two people are killed. 
 
 The train, which had been traveling between New York and Miami, had more than 140 passengers and crew on board.

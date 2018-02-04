@@ -7,8 +7,8 @@ Formats: [HTML](2017/09/23/index.html)  [JSON](2017/09/23/index.json)  [XML](201
 ### [The Venerable Rev. Father Stanley Rother, a priest of the Roman Catholic Archdiocese of Oklahoma City (born in Okarche, Oklahoma), is beatified at the Cox Convention Center in Oklahoma City by Cardinal Angelo Amato, head of the sainthood Congregation in the Roman Curia and Pope Francis's delegate. Rother, who became a missionary, was assassinated in July 1981 in the poor rural village of Santiago Atitlan, Guatemala, and is the first Catholic martyr born a citizen of the United States. ](/news/2017/09/23/the-venerable-rev-father-stanley-rother-a-priest-of-the-roman-catholic-archdiocese-of-oklahoma-city-born-in-okarche-oklahoma-is-beatif.md)
 The Latest on a beatification mass starts for 1st US martyr (all times local):
 
-##### David Meade
-### [ Conspiracy theorist and book author David Meade predicted that a mythological rogue planet known as Nibiru (sometimes known as Planet X) would collide with Earth and that the world would end on this day. ](/news/2017/09/23/conspiracy-theorist-and-book-author-david-meade-predicted-that-a-mythological-rogue-planet-known-as-nibiru-sometimes-known-as-planet-x-wo.md)
+##### Apocalypticism
+### [ Conspiracy theorist and book author David Meade predicted that a mythological rogue planet known as Nibiru (sometimes known as Planet X) would collide with Earth and that the world would end on this day.](/news/2017/09/23/conspiracy-theorist-and-book-author-david-meade-predicted-that-a-mythological-rogue-planet-known-as-nibiru-sometimes-known-as-planet-x-wo.md)
 Christian numerologists claim that the world will end on Sept. 23, 2017 as they believe a planet will collide with Earth.
 
 ##### Mount Agung seismic activity

@@ -6,13 +6,14 @@ Formats: [HTML](/news/2018/02/4/cyprus-is-set-to-elect-a-new-president-in-a-seco
 ##### Cypriot presidential election, 2018
 # Cyprus is set to elect a new President in a second round of voting. Candidates include incumbent Nicos Anastasiades and AKEL candidate, Stavros Malas. 
 
-
+Officials results show incumbent conservative comfortably ahead of leftist-backed independent rival Stavros Malas.
 
 
 ### Sources:
 
-1. [Reuters](https://www.reuters.com/article/us-cyprus-election/cyprus-heads-back-to-polls-for-presidential-runoff-idUSKBN1FO047)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20180204&t=2&i=1228087327&w=1200&r=LYNXMPEE1303D)
+1. [Al Jazeera](http://www.aljazeera.com/news/2018/02/cyprus-election-anastasiades-leads-presidential-race-180204145720573.html)
+2. [Reuters](https://www.reuters.com/article/us-cyprus-election/cyprus-heads-back-to-polls-for-presidential-runoff-idUSKBN1FO047)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20180204&t=2&i=1228087327&w=1200&r=LYNXMPEE1303D)
 
 ### Related:
 

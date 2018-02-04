@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman
 ### [2018-02-4](/news/2018/02/4/index.md)
 
 ##### Politics of Yemen
-# 2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless aventurism" and "ugly occupation". 
+# 2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless adventurism" and "ugly occupation". 
 
 
 

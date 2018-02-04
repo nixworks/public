@@ -3,8 +3,8 @@ Formats: [HTML](/news/2017/09/23/conspiracy-theorist-and-book-author-david-meade
 
 ### [2017-09-23](/news/2017/09/23/index.md)
 
-##### David Meade
-#  Conspiracy theorist and book author David Meade predicted that a mythological rogue planet known as Nibiru (sometimes known as Planet X) would collide with Earth and that the world would end on this day. 
+##### Apocalypticism
+#  Conspiracy theorist and book author David Meade predicted that a mythological rogue planet known as Nibiru (sometimes known as Planet X) would collide with Earth and that the world would end on this day.
 
 Christian numerologists claim that the world will end on Sept. 23, 2017 as they believe a planet will collide with Earth.
 
