@@ -11,12 +11,8 @@ The train, which had been traveling between New York and Miami, had more than 14
 ### [An Anglo-Eastern Group oil tanker with 22 Indian crew members on board is reported missing off the coast of Benin. The area is well known for piracy. ](/news/2018/02/4/an-anglo-eastern-group-oil-tanker-with-22-indian-crew-members-on-board-is-reported-missing-off-the-coast-of-benin-the-area-is-well-known-fo.md)
 There has been no contact with the Marine Express and its Indian sailors since Thursday.
 
-##### Cabinet of Israel
+##### Israeli-Palestinian conflict
 ### [The Cabinet of Israel decides to legalize a previously unauthorized outpost "deep inside the [occupied] West Bank", Havat Gilad, allegedly in reaction to the recent killing of an Israeli rabbi there. ](/news/2018/02/4/the-cabinet-of-israel-decides-to-legalize-a-previously-unauthorized-outpost-deep-inside-the-occupied-west-bank-havat-gilad-allegedly-i.md)
-_Context: unauthorized outpost, West Bank, Havat Gilad, Cabinet of Israel_
-
-##### European Union
-### [Israeli authorities tear down parts of a European Union-funded school in the Palestinian village of Abu Nuwar, on the occupied West Bank, saying it was built illegally. Palestinians say this is the fifth such demolition since 2016, with residents and NGO's each time reconstructing it. ](/news/2018/02/4/israeli-authorities-tear-down-parts-of-a-european-union-funded-school-in-the-palestinian-village-of-abu-nuwar-on-the-occupied-west-bank-sa.md)
 Israeli authorities on Sunday tore down two EU-funded classrooms that were part of a school for Bedouins in the occupied West Bank because they said they were built illegally.
 
 ##### Costa Rican general election, 2018
@@ -33,14 +29,14 @@ Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presi
 
 ##### Politics of Yemen
 ### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless adventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
-_Context: Politics of Yemen, Nobel Peace Prize, Saudi-led intervention in Yemen, Tawakkol Karman, Islah_
+_Context: Tawakkol Karman, Nobel Peace Prize, Politics of Yemen, Islah, Saudi-led intervention in Yemen_
 
 ##### Macedonia naming dispute
 ### [Tens of thousands of people demonstrate in Athens against the willingness manifested by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-demonstrate-in-athens-against-the-willingness-manifested-by-the-cabinet-of-greece-to-make-concessions-in-the-lon.md)
-_Context: Republic of Macedonia, Macedonia naming dispute, Cabinet of Greece, Athens_
+_Context: Athens, Cabinet of Greece, Macedonia naming dispute, Republic of Macedonia_
 
 ##### Asteroid close approaches to Earth in 2018
-### [An asteroid named (276033) 2002 AJ makes a safe approach to Earth. ](/news/2018/02/4/an-asteroid-named-276033-2002-aj-makes-a-safe-approach-to-earth.md)
+### [A ~600 meter asteroid named (276033) 2002 AJ makes a close approach to Earth of 0.028 Astronomical units (4.2 million km, 2.6 million mi). ](/news/2018/02/4/a-600-meter-asteroid-named-276033-2002-aj-makes-a-close-approach-to-earth-of-0-028-astronomical-units-4-2-million-km-2-6-million-mi.md)
 A fast-moving asteroid will make a close flyby of Earth this Super Bowl Sunday (Feb. 4), but it poses no risk of hitting our planet, according to NASA.
 
 ##### Opinion
@@ -65,7 +61,7 @@ A man suspected of racially-motivated shootings that injure six is arrested in t
 
 ##### 15760 Albion
 ### [15760 Albion (previously 1992 QB 1 ), the first discovered Kuiper belt object, is officially named by its discoverers. ](/news/2018/02/3/15760-albion-previously-1992-qb-1-the-first-discovered-kuiper-belt-object-is-officially-named-by-its-discoverers.md)
-_Context: 15760 Albion, Kuiper belt_
+_Context: Kuiper belt, 15760 Albion_
 
 ---
 
@@ -85,7 +81,7 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: Secretary of Foreign Affairs, Rex Tillerson, Canadian counterpart, 19th-century United States policy in Latin America, Mexico-United States relations, Venezuelan Army, Mexico, President, Venezuela, Nicolas Maduro, United States Secretary of State, Luis Videgaray Caso, Chrystia Freeland_
+_Context: 19th-century United States policy in Latin America, Luis Videgaray Caso, Canadian counterpart, Nicolas Maduro, Venezuelan Army, Mexico, United States Secretary of State, Mexico-United States relations, Secretary of Foreign Affairs, President, Chrystia Freeland, Rex Tillerson, Venezuela_
 
 ##### Crime in France
 ### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)
