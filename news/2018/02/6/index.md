@@ -19,9 +19,9 @@ Mohamed Nasheed asks for India to help release political prisoners amid a worsen
 ### [Polish President Andrzej Duda ratifies a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the holocaust committed during the Nazi occupation. ](/news/2018/02/6/polish-president-andrzej-duda-ratifies-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-duda-defend.md)
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 
-##### SpaceX Falcon Heavy
+##### Falcon Heavy Demonstration Mission
 ### [SpaceX will launch its long-awaited Falcon Heavy rocket Tuesday afternoon -- a feat the space company hopes will lead to increased commercial and national security missions. ](/news/2018/02/6/spacex-will-launch-its-long-awaited-falcon-heavy-rocket-tuesday-afternoon-a-a-feat-the-space-company-hopes-will-lead-to-increased-commerci.md)
-_Context: SpaceX Falcon Heavy, SpaceX_
+_Context: Falcon Heavy, SpaceX, Falcon Heavy Demonstration Mission_
 
 ##### ozone layer
 ### [Scientists warn that the ozone layer that protects people from the sun's ultraviolet radiation is not recovering over most highly populated regions. ](/news/2018/02/6/scientists-warn-that-the-ozone-layer-that-protects-people-from-the-sun-s-ultraviolet-radiation-is-not-recovering-over-most-highly-populated.md)
