@@ -3,8 +3,8 @@ Formats: [HTML](2018/02/6/index.html)  [JSON](2018/02/6/index.json)  [XML](2018/
 
 ## [2018-02-6](/news/2018/02/6/index.md)
 
-##### 
-### [A Magnitude 6.4 earthquake strikes Taiwan ](/news/2018/02/6/a-magnitude-6-4-earthquake-strikes-taiwan.md)
+##### Magnitude
+### [A Magnitude 6.4 earthquake strikes Taiwan. There are no reports of casualties so far, but people may be trapped in a collapsed hotel. ](/news/2018/02/6/a-magnitude-6-4-earthquake-strikes-taiwan-there-are-no-reports-of-casualties-so-far-but-people-may-be-trapped-in-a-collapsed-hotel.md)
 Taiwan&#039;s official Central News Agency says the ground floor of the Marshal Hotel has caved in and people are trapped inside.
 
 ##### Freedom of the press in Turkey
@@ -16,12 +16,12 @@ Turkey has so far detained 573 people for social media posts and protests critic
 Mohamed Nasheed asks for India to help release political prisoners amid a worsening crisis.
 
 ##### Politics of Poland
-### [Polish President Andrzej Duda says he will sign a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defended the legislation, which will make it illegal to accuse Poland of complicity in such Nazi crimes committed under occupation. ](/news/2018/02/6/polish-president-andrzej-duda-says-he-will-sign-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-du.md)
+### [Polish President Andrzej Duda says he will sign a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defended the legislation, which will make it illegal to accuse the Polish state of complicity in the holocaust committed during the Nazi occupation. ](/news/2018/02/6/polish-president-andrzej-duda-says-he-will-sign-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-du.md)
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 
 ##### SpaceX Falcon Heavy
 ### [SpaceX will launch its long-awaited Falcon Heavy rocket Tuesday morning -- a feat the space company hopes will lead to increased commercial and national security missions. ](/news/2018/02/6/spacex-will-launch-its-long-awaited-falcon-heavy-rocket-tuesday-morning-a-a-feat-the-space-company-hopes-will-lead-to-increased-commercial.md)
-_Context: SpaceX Falcon Heavy, SpaceX_
+_Context: SpaceX, SpaceX Falcon Heavy_
 
 ##### Ozone layer
 ### [The ozone layer that protects people from the sun's ultraviolet radiation is not recovering over most highly populated regions, scientists warned on Tuesday. ](/news/2018/02/6/the-ozone-layer-that-protects-people-from-the-sun-s-ultraviolet-radiation-is-not-recovering-over-most-highly-populated-regions-scientists-w.md)

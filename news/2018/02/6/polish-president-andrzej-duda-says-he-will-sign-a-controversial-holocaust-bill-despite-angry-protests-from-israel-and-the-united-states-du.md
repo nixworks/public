@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/6/polish-president-andrzej-duda-says-he-will-sign-
 ### [2018-02-6](/news/2018/02/6/index.md)
 
 ##### Politics of Poland
-# Polish President Andrzej Duda says he will sign a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defended the legislation, which will make it illegal to accuse Poland of complicity in such Nazi crimes committed under occupation. 
+# Polish President Andrzej Duda says he will sign a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defended the legislation, which will make it illegal to accuse the Polish state of complicity in the holocaust committed during the Nazi occupation. 
 
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 

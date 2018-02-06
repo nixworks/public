@@ -3,8 +3,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/6/index.md)
 
-##### 
-### [A Magnitude 6.4 earthquake strikes Taiwan ](/news/2018/02/6/a-magnitude-6-4-earthquake-strikes-taiwan.md)
+##### Magnitude
+### [A Magnitude 6.4 earthquake strikes Taiwan. There are no reports of casualties so far, but people may be trapped in a collapsed hotel. ](/news/2018/02/6/a-magnitude-6-4-earthquake-strikes-taiwan-there-are-no-reports-of-casualties-so-far-but-people-may-be-trapped-in-a-collapsed-hotel.md)
 Taiwan&#039;s official Central News Agency says the ground floor of the Marshal Hotel has caved in and people are trapped inside.
 
 ##### Freedom of the press in Turkey
@@ -16,12 +16,12 @@ Turkey has so far detained 573 people for social media posts and protests critic
 Mohamed Nasheed asks for India to help release political prisoners amid a worsening crisis.
 
 ##### Politics of Poland
-### [Polish President Andrzej Duda says he will sign a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defended the legislation, which will make it illegal to accuse Poland of complicity in such Nazi crimes committed under occupation. ](/news/2018/02/6/polish-president-andrzej-duda-says-he-will-sign-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-du.md)
+### [Polish President Andrzej Duda says he will sign a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defended the legislation, which will make it illegal to accuse the Polish state of complicity in the holocaust committed during the Nazi occupation. ](/news/2018/02/6/polish-president-andrzej-duda-says-he-will-sign-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-du.md)
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 
 ##### SpaceX Falcon Heavy
 ### [SpaceX will launch its long-awaited Falcon Heavy rocket Tuesday morning -- a feat the space company hopes will lead to increased commercial and national security missions. ](/news/2018/02/6/spacex-will-launch-its-long-awaited-falcon-heavy-rocket-tuesday-morning-a-a-feat-the-space-company-hopes-will-lead-to-increased-commercial.md)
-_Context: SpaceX Falcon Heavy, SpaceX_
+_Context: SpaceX, SpaceX Falcon Heavy_
 
 ##### Ozone layer
 ### [The ozone layer that protects people from the sun's ultraviolet radiation is not recovering over most highly populated regions, scientists warned on Tuesday. ](/news/2018/02/6/the-ozone-layer-that-protects-people-from-the-sun-s-ultraviolet-radiation-is-not-recovering-over-most-highly-populated-regions-scientists-w.md)
@@ -49,7 +49,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: European Union, David Davis, Secretary of State for Exiting the European Union, London, Brexit negotiations, United Kingdom, Michel Barnier, Prime Minister, Brexit, Theresa May_
+_Context: Theresa May, Brexit, Secretary of State for Exiting the European Union, United Kingdom, Prime Minister, David Davis, London, Brexit negotiations, European Union, Michel Barnier_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)
@@ -97,11 +97,11 @@ Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presi
 
 ##### Politics of Yemen
 ### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless adventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
-_Context: Tawakkol Karman, Islah, Saudi-led intervention in Yemen, Politics of Yemen, Nobel Peace Prize_
+_Context: Tawakkol Karman, Saudi-led intervention in Yemen, Islah, Nobel Peace Prize, Politics of Yemen_
 
 ##### Macedonia naming dispute
 ### [Tens of thousands of people demonstrate in Athens against the willingness manifested by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-demonstrate-in-athens-against-the-willingness-manifested-by-the-cabinet-of-greece-to-make-concessions-in-the-lon.md)
-_Context: Athens, Cabinet of Greece, Macedonia naming dispute, Republic of Macedonia_
+_Context: Republic of Macedonia, Macedonia naming dispute, Cabinet of Greece, Athens_
 
 ##### Weinstein effect
 ### [Robert Doyle resigns as Lord Mayor of Melbourne after allegations of sexual misconduct were made against him. Melbourne City Council is investigating the allegations. ](/news/2018/02/4/robert-doyle-resigns-as-lord-mayor-of-melbourne-after-allegations-of-sexual-misconduct-were-made-against-him-melbourne-city-council-is-inve.md)
