@@ -1,27 +1,11 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/06/24/index.md)
+## [News](/news/2018/02/6/index.md)
 
-##### bomb
-### [ A roadside bomb hits a United Nations Interim Force in Lebanon patrol, killing six Spanish-speaking peacekeepers (three of whom were Colombian) and injuring two others. ](/news/2018/06/24/a-roadside-bomb-hits-a-united-nations-interim-force-in-lebanon-patrol-killing-six-spanish-speaking-peacekeepers-three-of-whom-were-colomb.md)
-_Context: United Nations Interim Force in Lebanon, Colombia, Spanish, bomb_
-
-##### storm
-### [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md)
-_Context: Pakistan, Karachi, storm_
-
-##### Mauricio Macri
-### [ Mauricio Macri, a member of the National Congress of Argentina and president of Boca Juniors, is elected as the Chief of Government of Buenos Aires. ](/news/2018/06/24/mauricio-macri-a-member-of-the-national-congress-of-argentina-and-president-of-boca-juniors-is-elected-as-the-chief-of-government-of-buen.md)
-_Context: National Congress, Mauricio Macri, Boca Juniors, Argentina, Chief of Government of Buenos Aires_
-
-##### Ali Hassan al-Majid
-### [ Ali Hassan al-Majid, better known as "Chemical Ali," is sentenced to death for his role in killing 180,000 Kurds under Saddam Hussein. ](/news/2018/06/24/ali-hassan-al-majid-better-known-as-chemical-ali-is-sentenced-to-death-for-his-role-in-killing-180-000-kurds-under-saddam-hussein.md)
-Relatives of the victims of the man known as Chemical Ali are calling for him to be executed at one of the villages where he committed his crimes.
-
-##### Gordon Brown
-### [ Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2018/06/24/gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will-replace-blair-on-27-june.md)
-_Context: 27 June, Prime Minister, Gordon Brown, Labour Party, Tony Blair_
+##### Freedom of the press in Turkey
+### [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md)
+Turkey has so far detained 573 people for social media posts and protests criticizing its military offensive in Syria, the government said on Monday.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -29,15 +13,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2018/02/6/index.md)
-
-##### Freedom of the press in Turkey
-### [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md)
-Turkey has so far detained 573 people for social media posts and protests criticizing its military offensive in Syria, the government said on Monday.
-
----
-
-## [Day Before Yesterday](/news/2018/02/5/index.md)
+## [Yesterday](/news/2018/02/5/index.md)
 
 ##### Israeli-Palestinian conflict
 ### [An Israeli man is stabbed to death by another man at a bus station outside the Israeli-occupied West Bank settlement of Ariel. ](/news/2018/02/5/an-israeli-man-is-stabbed-to-death-by-another-man-at-a-bus-station-outside-the-israeli-occupied-west-bank-settlement-of-ariel.md)
@@ -53,7 +29,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: European Union, United Kingdom, Brexit, Theresa May, David Davis, Michel Barnier, Prime Minister, Brexit negotiations, Secretary of State for Exiting the European Union, London_
+_Context: David Davis, United Kingdom, Theresa May, Secretary of State for Exiting the European Union, Brexit negotiations, Prime Minister, Brexit, Michel Barnier, European Union, London_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)
@@ -73,7 +49,51 @@ A new study gives the first evidence that exoplanets exist beyond the Milky Way.
 
 ---
 
-## [Previous Day...](/news/2018/02/4/index.md)
+## [Day Before Yesterday](/news/2018/02/4/index.md)
+
+##### Israeli-Palestinian conflict
+### [The Cabinet of Israel decides to legalize a previously unauthorized outpost "deep inside the [occupied] West Bank", Havat Gilad, allegedly in reaction to the recent killing of an Israeli rabbi there. ](/news/2018/02/4/the-cabinet-of-israel-decides-to-legalize-a-previously-unauthorized-outpost-deep-inside-the-occupied-west-bank-havat-gilad-allegedly-i.md)
+Israeli authorities on Sunday tore down two EU-funded classrooms that were part of a school for Bedouins in the occupied West Bank because they said they were built illegally.
+
+##### Cayce, South Carolina train collision
+### [An Amtrak passenger train collides with a freight train in Cayce, South Carolina, U.S., and is derailed. Two people are killed. ](/news/2018/02/4/an-amtrak-passenger-train-collides-with-a-freight-train-in-cayce-south-carolina-u-s-and-is-derailed-two-people-are-killed.md)
+The train, which had been traveling between New York and Miami, had more than 140 passengers and crew on board.
+
+##### Anglo-Eastern Group
+### [An Anglo-Eastern Group oil tanker with 22 Indian crew members on board is reported missing off the coast of Benin. The area is well known for piracy. ](/news/2018/02/4/an-anglo-eastern-group-oil-tanker-with-22-indian-crew-members-on-board-is-reported-missing-off-the-coast-of-benin-the-area-is-well-known-fo.md)
+There has been no contact with the Marine Express and its Indian sailors since Thursday.
+
+##### Costa Rican general election, 2018
+### [Costa Ricans head to the polls to elect a new President, amidst a gay rights controversy. ](/news/2018/02/4/costa-ricans-head-to-the-polls-to-elect-a-new-president-amidst-a-gay-rights-controversy.md)
+Costa Ricans went to the polls on Sunday to choose a new president in a race upended by a debate over same-sex marriage, as leading candidates in the crowded field fiercely opposed gay rights that have recently gained ground in Latin America.
+
+##### Cypriot presidential election, 2018
+### [Cyprus is set to elect a new President in a second round of voting. Candidates include incumbent Nicos Anastasiades and AKEL candidate, Stavros Malas. ](/news/2018/02/4/cyprus-is-set-to-elect-a-new-president-in-a-second-round-of-voting-candidates-include-incumbent-nicos-anastasiades-and-akel-candidate-stav.md)
+Officials results show incumbent conservative comfortably ahead of leftist-backed independent rival Stavros Malas.
+
+##### Ecuadorian referendum and popular consultation, 2018
+### [Ecuador is set to hold a referendum consisting of seven questions for voters to approve or reject. ](/news/2018/02/4/ecuador-is-set-to-hold-a-referendum-consisting-of-seven-questions-for-voters-to-approve-or-reject.md)
+Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presidential re-election, with polls indicating the motion will likely pass and block former leftist President Rafael Correa from returning to power.
+
+##### Politics of Yemen
+### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless adventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
+_Context: Saudi-led intervention in Yemen, Nobel Peace Prize, Politics of Yemen, Tawakkol Karman, Islah_
+
+##### Macedonia naming dispute
+### [Tens of thousands of people demonstrate in Athens against the willingness manifested by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-demonstrate-in-athens-against-the-willingness-manifested-by-the-cabinet-of-greece-to-make-concessions-in-the-lon.md)
+_Context: Cabinet of Greece, Macedonia naming dispute, Athens, Republic of Macedonia_
+
+##### Weinstein effect
+### [Robert Doyle resigns as Lord Mayor of Melbourne after allegations of sexual misconduct were made against him. Melbourne City Council is investigating the allegations. ](/news/2018/02/4/robert-doyle-resigns-as-lord-mayor-of-melbourne-after-allegations-of-sexual-misconduct-were-made-against-him-melbourne-city-council-is-inve.md)
+Robert Doyle denies allegations that he sexually harassed three women, including two colleagues.
+
+##### Asteroid close approaches to Earth in 2018
+### [A ~600 meter asteroid named (276033) 2002 AJ makes a close approach to Earth of 0.028 Astronomical units (4.2 million km, 2.6 million mi). ](/news/2018/02/4/a-600-meter-asteroid-named-276033-2002-aj-makes-a-close-approach-to-earth-of-0-028-astronomical-units-4-2-million-km-2-6-million-mi.md)
+A fast-moving asteroid will make a close flyby of Earth this Super Bowl Sunday (Feb. 4), but it poses no risk of hitting our planet, according to NASA.
+
+---
+
+## [Previous Day...](/news/2018/02/3/index.md)
 
 ---
 
