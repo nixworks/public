@@ -20,8 +20,8 @@ Mohamed Nasheed asks for India to help release political prisoners amid a worsen
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 
 ##### Falcon Heavy Demonstration Mission
-### [SpaceX will launch its long-awaited Falcon Heavy rocket Tuesday afternoon -- a feat the space company hopes will lead to increased commercial and national security missions. ](/news/2018/02/6/spacex-will-launch-its-long-awaited-falcon-heavy-rocket-tuesday-afternoon-a-a-feat-the-space-company-hopes-will-lead-to-increased-commerci.md)
-_Context: Falcon Heavy, SpaceX, Falcon Heavy Demonstration Mission_
+### [SpaceX successfully launches its long-awaited Falcon Heavy -- a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of Mars for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-a-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-national.md)
+_Context: Space Oddity, SpaceX, elliptic orbit, Falcon Heavy Demonstration Mission, Falcon Heavy, Elon Musk's Tesla Roadster, Mars_
 
 ##### ozone layer
 ### [Scientists warn that the ozone layer that protects people from the sun's ultraviolet radiation is not recovering over most highly populated regions. ](/news/2018/02/6/scientists-warn-that-the-ozone-layer-that-protects-people-from-the-sun-s-ultraviolet-radiation-is-not-recovering-over-most-highly-populated.md)

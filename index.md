@@ -20,8 +20,8 @@ Mohamed Nasheed asks for India to help release political prisoners amid a worsen
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 
 ##### Falcon Heavy Demonstration Mission
-### [SpaceX will launch its long-awaited Falcon Heavy rocket Tuesday afternoon -- a feat the space company hopes will lead to increased commercial and national security missions. ](/news/2018/02/6/spacex-will-launch-its-long-awaited-falcon-heavy-rocket-tuesday-afternoon-a-a-feat-the-space-company-hopes-will-lead-to-increased-commerci.md)
-_Context: Falcon Heavy, SpaceX, Falcon Heavy Demonstration Mission_
+### [SpaceX successfully launches its long-awaited Falcon Heavy -- a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of Mars for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-a-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-national.md)
+_Context: Space Oddity, SpaceX, elliptic orbit, Falcon Heavy Demonstration Mission, Falcon Heavy, Elon Musk's Tesla Roadster, Mars_
 
 ##### ozone layer
 ### [Scientists warn that the ozone layer that protects people from the sun's ultraviolet radiation is not recovering over most highly populated regions. ](/news/2018/02/6/scientists-warn-that-the-ozone-layer-that-protects-people-from-the-sun-s-ultraviolet-radiation-is-not-recovering-over-most-highly-populated.md)
@@ -49,7 +49,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: Michel Barnier, United Kingdom, European Union, London, Theresa May, Secretary of State for Exiting the European Union, Brexit, David Davis, Brexit negotiations, Prime Minister_
+_Context: Brexit, United Kingdom, Michel Barnier, Theresa May, Prime Minister, European Union, Brexit negotiations, Secretary of State for Exiting the European Union, David Davis, London_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)
@@ -97,11 +97,11 @@ Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presi
 
 ##### Politics of Yemen
 ### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless adventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
-_Context: Politics of Yemen, Saudi-led intervention in Yemen, Nobel Peace Prize, Islah, Tawakkol Karman_
+_Context: Saudi-led intervention in Yemen, Islah, Nobel Peace Prize, Tawakkol Karman, Politics of Yemen_
 
 ##### Macedonia naming dispute
 ### [Tens of thousands of people demonstrate in Athens against the willingness manifested by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-demonstrate-in-athens-against-the-willingness-manifested-by-the-cabinet-of-greece-to-make-concessions-in-the-lon.md)
-_Context: Athens, Republic of Macedonia, Macedonia naming dispute, Cabinet of Greece_
+_Context: Athens, Macedonia naming dispute, Republic of Macedonia, Cabinet of Greece_
 
 ##### Weinstein effect
 ### [Robert Doyle resigns as Lord Mayor of Melbourne after allegations of sexual misconduct were made against him. Melbourne City Council is investigating the allegations. ](/news/2018/02/4/robert-doyle-resigns-as-lord-mayor-of-melbourne-after-allegations-of-sexual-misconduct-were-made-against-him-melbourne-city-council-is-inve.md)
