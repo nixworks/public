@@ -29,7 +29,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: David Davis, United Kingdom, Theresa May, Secretary of State for Exiting the European Union, Brexit negotiations, Prime Minister, Brexit, Michel Barnier, European Union, London_
+_Context: Prime Minister, Michel Barnier, David Davis, European Union, Brexit, London, Theresa May, Secretary of State for Exiting the European Union, United Kingdom, Brexit negotiations_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)
@@ -77,11 +77,11 @@ Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presi
 
 ##### Politics of Yemen
 ### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless adventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
-_Context: Saudi-led intervention in Yemen, Nobel Peace Prize, Politics of Yemen, Tawakkol Karman, Islah_
+_Context: Islah, Politics of Yemen, Tawakkol Karman, Saudi-led intervention in Yemen, Nobel Peace Prize_
 
 ##### Macedonia naming dispute
 ### [Tens of thousands of people demonstrate in Athens against the willingness manifested by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-demonstrate-in-athens-against-the-willingness-manifested-by-the-cabinet-of-greece-to-make-concessions-in-the-lon.md)
-_Context: Cabinet of Greece, Macedonia naming dispute, Athens, Republic of Macedonia_
+_Context: Macedonia naming dispute, Athens, Republic of Macedonia, Cabinet of Greece_
 
 ##### Weinstein effect
 ### [Robert Doyle resigns as Lord Mayor of Melbourne after allegations of sexual misconduct were made against him. Melbourne City Council is investigating the allegations. ](/news/2018/02/4/robert-doyle-resigns-as-lord-mayor-of-melbourne-after-allegations-of-sexual-misconduct-were-made-against-him-melbourne-city-council-is-inve.md)
